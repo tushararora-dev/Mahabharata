@@ -348,7 +348,7 @@ def main():
     """, unsafe_allow_html=True)
 
 
-    st.title("Ramayana")
+    st.title("Mahabharata")
     st.markdown("<div class='beth' >- Tushar Arora Edition<br><br></div>", unsafe_allow_html=True)
 
     # -----------------------
