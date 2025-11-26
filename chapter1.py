@@ -199,7 +199,7 @@ Phir aaye Brahmarshis aur Rajarshis—
 bade mahan aur pavitra rishi.
 
             """
-                    create_image_text_layout("attached_assets/chapter1/1.1.1.jpg", text1,   layout="side", image_position="left")
+                    create_image_text_layout("attached_assets/chapter1/1.1.2.jpg", text1,   layout="side", image_position="left")
 
                     text2 = """
  🌍 Puray Jahan ka Nirman
@@ -340,7 +340,7 @@ aur Vyasa ji kathin, gahan slokas (complex verses) sunaane lage.
 
 Kehete hain ki inme se kuch slok aaj bhi log poori tarah samajh nahi paate.
             """
-                    create_image_text_layout("attached_assets/chapter1/1.1.1.jpg", text1,   layout="side", image_position="left")
+                    create_image_text_layout("attached_assets/chapter1/1.1.3.jpg", text1,   layout="side", image_position="left")
 
                     text2 = """
 🌳 Bharata – Ek Vriksh ki Tarah
@@ -465,7 +465,7 @@ ki Pandav ek ek kadam par jeet rahe hain,
 aur uske bete Duryodhana, Karna aur Shakuni ka chaal galat pad gaya,
 to woh dukhi hokar Sanjaya se kehne laga:
             """
-                    create_image_text_layout("attached_assets/chapter1/1.1.1.jpg", text1,   layout="side", image_position="left")
+                    create_image_text_layout("attached_assets/chapter1/1.1.4.jpg", text1,   layout="side", image_position="left")
 
                     text2 = """
 🗣 Dhritarashtra ka Lamba Dukh-bhara Prasang
@@ -581,7 +581,7 @@ Arjuna akela rath par khada hokar
 sab dushmano ko rok raha tha,
 tab toh main poori tarah toot gaya.”
             """
-                    create_image_text_layout("attached_assets/chapter1/1.1.1.jpg", text1,   layout="side", image_position="left")
+                    create_image_text_layout("attached_assets/chapter1/1.1.5.jpg", text1,   layout="side", image_position="left")
 
                     text2 = """
 ⭐ Yuyudhana’s Retreat
@@ -841,3 +841,1612 @@ Isliye ise Mahā-bhārata kaha gaya—
 Bada Bharata, sabse gahra aur sabse pavitra.
             """
                     create_image_text_layout(text_content=text2, layout="full")
+
+    # Chapter2
+    with st.expander("Chapter 1.2 – Sangraha Parva"):
+        with st.expander("Section 1.2.1"):
+                text1 = """
+Rishiyon ne Sauti se poocha:
+“O Suta-putra, tumne Samanta-Panchaka ka zikr kiya.
+Hum us jagah ki poori kahaani sunna chahte hain.”
+
+🌅 Sauti begins the story
+
+Sauti bola:
+
+“O Brahmano, dhyaan se suno.
+Samanta-Panchaka ek bahut hi pavitra (sacred) jagah hai.
+Treta aur Dvapara Yug ke beech, Parashurama—Jamadagni ka putra—
+jo sabse mahaan yoddha tha,
+apne upar hue anyaay (injustice) se gusse me bhar gaya.
+
+Gusse me aakar usne baar-baar Kshatriya vansh ka vinash (destruction) kiya.
+Aur jab sab Kshatriya nasht ho gaye,
+toh Parashurama ne paanch khoon ke talaab banaye.
+Un talaabon ko hi Samanta-Panchaka kaha gaya.”
+        """
+                create_image_text_layout("attached_assets/chapter1/1.2.1.jpg", text1,   layout="side", image_position="left")
+
+                text2 = """
+🩸 Parashurama’s ancestors appear
+
+Sauti aage bolta hai:
+
+“Parashurama itna krodhit tha ki
+apne pitron (ancestors) ko khoon ki ahuti (offering) dene laga.
+Tab unke purvaj Richika aur anya Pitri prakat hue aur bole:
+
+‘O Rama, hum tumse prasann hain.
+Koi bhi var (boon) maango.’
+
+Parashurama ne kaha:
+‘Agar aap khush hain, to mera paap (sin) door ho
+jo gusse me maine Kshatriya ka vinaash kiya.
+Aur yeh paanch talaab duniya me pavitra sthal ke roop me mashhoor ho jayein.’
+
+Pitron ne kaha:
+‘Tathastu! Shant ho jao.’
+Aur tab se woh sthal Samanta-Panchaka pavitra maana gaya.”
+
+⚔️ The Great War at Samanta-Panchaka
+
+Sauti kehta hai:
+
+“Dvapara aur Kali Yug ke beech,
+usi jagah par Kaurav aur Pandav ki maha-yudh hui.
+Wahan 18 Akshauhini sena ikatthi hui thi.
+Saare yoddha wahaan shaheed ho gaye.
+Isliye us jagah ka naam teenon lokon me prasiddh hai.”
+
+⭐ What is an Akshauhini?
+
+Rishiyon ne poocha:
+
+“O Suta-putra, Akshauhini ka matlab kya hai?
+Kitne ghode, rath, haathi aur paidal fauj hoti hai?”
+
+📘 Sauti explains the Akshauhini math
+
+Sauti bola:
+
+1 Patti = 1 rath + 1 haathi + 5 padati (foot soldiers) + 3 ghode
+
+3 Patti = 1 Sena-mukha
+
+3 Sena-mukha = 1 Gulma
+
+3 Gulma = 1 Gana
+
+3 Gana = 1 Vahini
+
+3 Vahini = 1 Pritana
+
+3 Pritana = 1 Chamu
+
+3 Chamu = 1 Anikini
+
+10 Anikini = 1 Akshauhini
+
+Phir Sauti ne sankhya batayi:
+
+21,870 rath
+
+21,870 haathi
+
+65,610 ghode
+
+109,350 pathal sena
+
+Yeh sab mil kar 1 Akshauhini banti hai.
+
+18 Akshauhini me hi
+Mahabharat ka Yudh lada gaya.
+
+⭐ Duration of the Great War
+
+Sauti bolta hai:
+
+Bhishma ne 10 din lada.
+
+Drona ne 5 din sena ki rakhsha ki.
+
+Karna ne 2 din yudh kiya.
+
+Shalya ne aadha din yudh kiya.
+
+Phir aadhe din me Bhima aur Duryodhana ka gada-yudh hua.
+
+Aur raat ko Ashwatthama aur Kripa ne soyi hui Pandav sena ko maar diya.
+
+        """
+                create_image_text_layout(text_content=text2, layout="full")
+
+        with st.expander("Section 1.2.2"):
+                text1 = """
+Sauti ne Saunaka se kaha:
+
+“O Saunaka, yeh jo Bharata katha tumhare yagya me sunayi ja rahi hai,
+yeh pehle Janamejaya ke yagya me Vyasa ke ek buddhimaan shishya ne sunayi thi.
+
+Is katha ko kai hisson (parva) me baanta gaya hai.
+Shuruaat me Paushya, Pauloma, aur Astika parva aate hain,
+jismein purane rajaon ki shaurya (valour) aur kirti batayi gayi hai.
+
+Yeh granth bahut hi sundar hai—
+iska bhasha, iska arth, aur iski kahaani sab adbhut hai.
+Isme aneek riti-rivaj (rites) aur jeevan ke tarike bhi diye gaye hain.
+Gyani log ise ussi tarah maante hain
+jaise moksha chaahne wale vairagya ko maante hain.
+
+Jaise sab gyaan me Atma sabse uchit hai,
+aur sab priya cheezon me pran sabse mahatvapurna hain,
+waise hi sab shastron me Mahabharata sabse shreshth maana gaya hai.
+
+Duniya ki koi bhi kahaani aisi nahi jo iss mahaan katha se judi na ho—
+jaise sharir chalne ke liye pairon par nirbhar hota hai,
+waise hi kahania Mahabharata par.
+
+Yeh granth kavi aur vidvaanon ka priya hai.
+Jaise sab vidyaon ke shabdon me swar aur vyanjan hota hai,
+waise hi iss granth ke sab parvon me param gyaan basa hua hai.”
+        """
+                create_image_text_layout("attached_assets/chapter1/1.2.2.jpg", text1,   layout="side", image_position="left")
+
+                text2 = """
+⭐ Parvon ki Saral List (Hinglish)
+
+Sauti ne kaha:
+
+“Sun lijiye, O tapasviyon,
+Mahabharata ke mukhya parvon ka saral saar:
+
+🔹 Aadi Parva ke Parv
+
+Anukramanika
+
+Sangraha
+
+Paushya
+
+Pauloma
+
+Astika
+
+Adivansavatarana
+
+Sambhava (janmon ki kathayen)
+
+🔹 Baad ke Pramukh Parv
+
+Jatugriha Dahan (laakh ke ghar ko jalana)
+
+Hidimba Vadha
+
+Baka Vadha
+
+Citraratha
+
+Swayamvara (Draupadi swayamvara)
+
+Vaivahika (vivah)
+
+Viduragamana
+
+Rajyalabha
+
+Arjuna Vanavasa
+
+Subhadra Harana
+
+🔹 Khandava aur Sabha Parva
+
+Khandava-daha (van ka dahan)
+
+Maya-darshana
+
+Sabha, Mantra, Jarasandha, Digvijaya
+
+Rajasuuya, Sisupala-vadha
+
+Dyuta (jua), Anudyuta, Aranyaka, Kirmira-Vadha
+
+🔹 Vanvas aur Yudh ke Purv kisse
+
+Arjuna-Vigamana (Arjuna ka yog yatra)
+
+Kairati (Arjuna–Mahadev yudh)
+
+Indraloka yatra
+
+Nalopakhyana (Nala-Damayanti)
+
+Tirthayatra
+
+Jatasura Vadha
+
+Yaksha Yudh
+
+Nivatakavacha Yudh
+
+Ajagara, Markandeya Samasya
+
+Draupadi–Satyabhama Samvad
+
+Jayadratha Kaand
+
+Savitri ki kahani
+
+Rama katha
+
+🔹 Virata aur Udyoga Parva
+
+Virata Parva
+
+Kichaka Vadha
+
+Gau-charan (Virat ki gaiyon ka kand)
+
+Abhimanyu Vivah
+
+Udyoga Parva
+
+Sanjaya-yana
+
+Sanatsujata
+
+Krishna ka durbar me aana
+
+🔹 Yudh (Bhishma–Drona–Karna–Shalya)
+
+Amba
+
+Bhishma ko senapati banana
+
+Jambu–Dvip varnan
+
+Bhagavad Gita
+
+Bhishma-vadha
+
+Drona-vadha
+
+Abhimanyu-vadha
+
+Jayadratha-vadha
+
+Ghatotkacha-vadha
+
+Narayana-astra
+
+Karna Parva
+
+Shalya Parva
+
+Gada-yudh (Bhima vs Duryodhana)
+
+🔹 Yudh ke baad
+
+Sarasvata
+
+Tirtha varnan
+
+Vanshavali
+
+Sauptika (Ashwatthama ka raat ka kand)
+
+Aishika (brahmastra sanhaar)
+
+Jalapradana (shraaddh)
+
+Naripravasa (streeon ka shok)
+
+Shraddha Parva
+
+Charvaka vadha
+
+Yudhishthira rajyabhishek
+
+Shanti, Rajadharma, Apaddharma, Mokshadharma
+
+Anusasanika Parva
+
+Bhishma moksha
+
+Ashwamedha
+
+Anugita
+
+Ashramavasa
+
+Putradarshana
+
+Mausala (Yadavo ka ant)
+
+Mahaprasthanika
+
+Svargarohana
+
+Khilvansa (Vishnu katha, Balyan Lila, Kansa vadha, Bhavishya)
+
+Sauti ne bataya ki in sab milakar 100 parva hote hain,
+jinhe Vyasa ne 18 mukhya bhaagon me baanta
+aur jinhe Sauti ne Naimisharanya me sunaya.
+
+        """
+                create_image_text_layout(text_content=text2, layout="full")
+
+        with st.expander("Section 1.2.3"):
+                text1 = """
+Adi Parva ke andar bahut saare upa-parva (sections) hote hain. Unme ye sab kathayen aati hain:
+
+🔶 1. Paushya Parva
+
+Isme Rishi Utanka ki mahanta aur unke anokhe karmon ka varnan hai.
+
+🔶 2. Pauloma Parva
+
+Isme Bhrigu Rishi ke vanshajon ki kahani di gayi hai.
+
+🔶 3. Astika Parva
+
+Isme bahut vishal ghatnayen bataayi gayi hain:
+
+Garuda ka janma
+
+Nagon (serpents) ka janma
+
+Samudra manthan (ocean churning)
+
+Uchhaishrava – devtao ka swargiya ghoda ka janma
+
+Bharata vansh ka itihas, jaisa ki Raja Janamejaya ke sarp-yagya me Vyasa ne bayan kiya tha.
+        """
+                create_image_text_layout("attached_assets/chapter1/1.2.3.jpg", text1,   layout="side", image_position="left")
+
+                text2 = """
+🔶 4. Sambhava Parva
+
+Yeh parva bahut lambe janm-kathanon ka sangrah hai:
+
+Vibhinna rajaon aur mahan veeron ka janma
+
+Krishna Dvaipayana Vyasa ka janma
+
+Devo ke ansh-avatar ka prakat hona
+
+Danavo, Yakshon, Gandharvon, Pakshiyon, aur sabhi praniyon ka utpatti-varnan
+
+Raja Bharata ka pura jeevan – Shakuntala ka putra, jiske naam se Bharata vansh chalta hai
+
+Bhagirathi ka mahatva
+
+Vasuon ka janma aur unka swarg gati
+
+Bhishma ka janma, Vasus ke tej se janma hua, aur unka brahmacharya aur raj-tyag
+
+Citrangada aur baad me Vicitravirya ki raksha
+
+Mandavya muni ke shraap ke karan dharma ka manushya rup me janma
+
+Dhritarashtra aur Pandu ka janma (Vyasa ke tapasya se)
+
+Pandavon ka janma
+
+Isme aage:
+
+Duryodhana aur uske bhaiyon ki chalakiyan — Pandavon ko Varanavat bhejna
+
+Vidura ka gupt-sandesh mleccha bhasha me
+
+Laakh ke ghar me surang banana
+
+Ghar jalna aur Purochhana ka marna
+
+Ek shikari ki patni aur uske 5 putron ka jalna (jisse sabko lage Pandav mar gaye)
+
+Fir:
+
+Jungle me Hidimba aur uska bhai Hidimba rakshas se mulaqat
+
+Bhima dwara Hidimba ka vadha
+
+Ghatotkacha ka janma
+
+Pandavon ka Vyasa se milna
+
+Unka Ekachakra nagar me brahman ke ghar me rehna
+
+Asura Vaka ka vadha
+
+🔶 5. Draupadi khand
+
+Is parv me:
+
+Krishna (Vasudeva ke roop me) aur Dhrishtadyumna ka divya-aavirbhav
+
+Pandavon ka Panchal ke swayamvara ke liye nikalna
+
+Raste me Gandharva Angaraparna se Arjun ka yudh
+
+Tapati, Vashishtha, aur Aurva ki kahani (Gandharva se suni)
+
+Fir:
+
+Panchal pahunchna
+
+Arjun dwara Draupadi ka swayamvara jeetna
+
+Baad me sabhi rajaon ka Arjun aur Bhima se paraajit hona
+
+Balarama aur Krishna ka pehchan lena ki yehi Pandav hain
+
+Pandavon ka kumbhar ke ghar wapas aana
+
+Drupada ka shock ki Draupadi 5 pati se shaadi karegi
+
+5 Indraon ki kahani ka prakat hona (jin par shaadi ka niyati aadhar tha)
+
+Draupadi ka divya-vivah
+
+Vidura ka sandesh Pandavon ko bhejne aana
+
+Khandavaprastha me Pandavon ka rehna aur rajya ka aadha hissa paana
+
+Narada ke aadesh se Draupadi ke saath rehne ka niyam (rotation system)
+
+Fir:
+
+Sunda–Upasunda ki kahani ka varnan
+
+Arjuna ka vanvas — kyunki usne Draupadi ko Yudhishthira ke saath dekhta hua astra lene ke liye kosh me pravesh kiya
+
+Raste me:
+
+Ulupi Naga kanya se milna
+
+Teerthon ka darshan
+
+Vabhruvahana ka janma
+
+Panch dev-kanyaaon ko moksha dilana (jinhe magar bana diya gaya tha)
+
+🔶 6. Krishna–Arjun ki kathayen
+
+Arjuna aur Krishna ka Prabhasa me milna
+
+Subhadra Haran – Krishna ke salah par Arjun dwara
+
+Indraprastha wapas aana, Subhadra ka dower (dahej) lena
+
+Subhadra ke garbh me Abhimanyu ka prakat hona
+
+Draupadi ke bachchon ka janma
+
+Krishna–Arjun ka Yamuna kinare par yatra
+
+Arjun ko Gandiva dhanush aur Krishna ko Sudarshan chakra milna
+
+Khandava van ka dahana (Agni ko santusht karna)
+
+Maya asur ki raksha aur uska assembly hall banana
+
+Mandapala rishi ka Sarngi panchi se putra paana
+
+📘 Adi Parva ka Aakhri Varnan
+
+Adi parva Vyasa ne 227 adhyay me baanta hai.
+
+Total shlokas: 8,884
+
+        """
+                create_image_text_layout(text_content=text2, layout="full")
+
+        with st.expander("Section 1.2.4"):
+                text1 = """
+Sabha Parva Mahabharata ka dusra aur bahut hi vistrit parva hai. Isme Pandavon ki rajya-vistar ki yatra, Jarasandha ka vadha, Rajasuya yagya, Shishupala ka nash, aur aakhir me dice-game ki poori tragedy shamil hai.
+
+Yeh poora Parva matra-vishay (rich with content) mana gaya hai.
+
+🔶 Sabha Parva ke Mukhya Vishay
+1. Maya-dwara banayi gayi Pandavon ki Maha Sabha
+
+Pandav apne rajya Indraprastha me ek bhavya sabha (assembly hall) banwate hain.
+
+Maya Danava is adbhut sabha ka nirmaan karta hai.
+
+Is hall me illusion, architecture aur divya shilp kala ka pradarshan hota hai.
+
+2. Retainers aur citizens ki review
+
+Pandav apne praja, sevakon, sainikon aur adhikaarion ka samiksha (review) karte hain.
+        """
+                create_image_text_layout("attached_assets/chapter1/1.2.4.jpg", text1,   layout="side", image_position="left")
+
+                text2 = """
+3. Narada ka aagaman
+
+Narada Muni aate hain.
+
+Wo lokapalon (Guardians of the world: Indra, Varuna, Yama, Kubera) ka varnan karte hain.
+
+Swarglok aur dev-lok ki sabhaon ka bhi vivaran dete hain.
+
+4. Rajasuya Yagya ki taiyyari
+
+Yudhishthira ko Raja-bhoj banne ki iccha hoti hai.
+
+Rajasuya Yagya ke liye sabse pehle:
+
+Dusht rajaon ko jeetna hota hai.
+
+Apne prabhav ka pradarshan karna hota hai.
+
+5. Jarasandha ka vadha
+
+Jarasandha Rajasuya yagya ka sabse bada badhak tha.
+
+Arjuna, Bhima aur Krishna use malla-yuddh me harate hain.
+
+Bhima usko beech se faad kar maar daalta hai.
+
+6. Bandikrit rajaon ki mukti
+
+Jarasandha ne jo rajaon ko pahadon me kaid kiya tha,
+
+Krishna un sab ka rajmukuti (crown) vaapas karta hai
+
+Aur unki mukti karata hai.
+
+7. Pandavon ka digvijaya (world conquest)
+
+Pandav alag-alag dishaon me jaakar:
+
+Poorv, paschim, dakshin, uttar sab jagah rath yatra chalate hain
+
+Aur rajao ko apna adhikar sweekar karne par majboor karte hain.
+
+Iska uddeshya Rajasuya ke liye tributaries banana tha.
+
+8. Rajasuya Yagya me rajaon ka aagaman
+
+Sabhi jeete hue raja aur desh apne uphaar, kar/tribute lekar Indraprastha pahuchte hain.
+
+Yagya badhi shaan se aayojit hota hai.
+
+9. Shishupala ka nash
+
+Arghya ka sammaan Krishna ko diya jata hai.
+
+Shishupala isse gussa ho kar Krishna ki ninda karta hai.
+
+Krishna uske 100 galtiyon ki seema poori hone par usse Sudarshan Chakra se maar daalta hai.
+
+10. Bhima dwara Duryodhana ka upahasan
+
+Yagya pura hone ke baad sab sabha me milte hain.
+
+Bhima Duryodhana ka mazaak udata hai (specially Maya Sabha ke illusions ke karan).
+
+Duryodhana gir padta hai, log haste hain.
+
+11. Duryodhana ka irsha aur dukh
+
+Duryodhana Pandavon ki shaan aur unki sabha dekhkar jalta hai.
+
+Wo sochta hai ki Pandav hamesha usse badhkar hi rahenge.
+
+12. Dice-game ki taiyyari
+
+Duryodhana aur Shakuni milkar juye ki yojna banate hain.
+
+Dhritarashtra kuch nahi rokta.
+
+13. Yudhishthira ka Shakuni se paraajay
+
+Shakuni apni chaal se Yudhishthira ko ek ek daav me haraata hai.
+
+Yudhishthira haar kar:
+
+Apna rajya
+
+Apne bhai
+
+Khud ko
+
+Aur aakhir me Draupadi ko bhi haara deta hai.
+
+14. Draupadi ka apmaan aur uski raksha
+
+Sabha me Draupadi ka anachaar sab hone wala hota hai.
+
+Draupadi sabko dharm ki yaad dilati hai.
+
+Dhritarashtra draupadi ko bachata hai, aur use boons dekar wapas bhej deta hai.
+
+15. Duryodhana phir se dice-game ke liye uksata hai
+
+Duryodhana phir se Yudhishthira ko bulwata hai.
+
+Dusra dice-game hota hai.
+
+Fir Yudhishthira haar jaata hai.
+
+16. Pandavon ka vanvas
+
+Yudhishthira aur sab Pandav 12 saal ka vanvas aur
+
+13va saal ajnatvas (incognito exile) me jaane ke liye majboor ho jaate hain.
+
+📘 Sabha Parva ki Sankhya
+
+Kul sections (adhyay): 78
+
+Kul shlokas: 2,507
+
+        """
+                create_image_text_layout(text_content=text2, layout="full")
+
+        with st.expander("Section 1.2.5"):
+                text1 = """
+(Mahabharata ka 3rd Parva, 269 sections, 11,664 shlokas)
+
+Aranyaka Parva Pandavon ke 12 saal ke vanvaas ka poora itihas batata hai — unke dukh, tapasya, divine meetings, battles, legends, aur pilgrimages ka vishal sangrah.
+
+Yeh Parva Mahabharata me sabse bada, sabse kahani-sampann aur sabse divya maana jata hai.
+
+🔶 1. Pandavon ka vanvas ki taraf prasthaan
+
+Yudhishthira van ki aur badte hain.
+
+Praja unke peeche-peeche aati hai.
+
+Dhaumya ke updesh ke anusaar Yudhishthira Surya dev ki stuti karte hain.
+
+Surya unhe Akshaya Patra deta hai → jisse Brahmanon ko anant bhojan mil sake.
+
+🔶 2. Vidura ka nikaala & wapas bulaana
+
+Dhritarashtra Vidura ko nikal deta hai (kyunki Vidura sach bolta hai).
+
+Vidura Pandavon ke paas aata hai.
+
+Phir Dhritarashtra usse fir se bula leta hai, Vidura laut jaata hai.
+
+🔶 3. Duryodhana ki saazishen
+
+Duryodhana aur Karna milkar Pandavon ko jungle me maarne ki yojna banate hain.
+
+Tab Vyasa prakatt hote hain, aur Duryodhana ko rok dete hain.
+        """
+                create_image_text_layout("attached_assets/chapter1/1.2.5.jpg", text1,   layout="side", image_position="left")
+
+                text2 = """
+🔶 4. Surabhi ka prasang & Maitreya ki shraap
+
+Surabhi ki purani katha.
+
+Rishi Maitreya aate hain, Dhritarashtra ko samjhate hain.
+
+Duryodhana ko shraap dete hain: “Teri jangha bhima se pitegi.”
+
+🔶 5. Bhima vs Kirmira
+
+Bhima rakshas Kirmira ko mar deta hai — ye rakshas Vaka ka bhai tha.
+
+🔶 6. Krishna, Vrishni aur Panchal rajkumar
+
+Pandavon ki haar ki khabar sunkar Krishna, Panchal and Vrishni log aate hain.
+
+Draupadi Krishna ko apna dukh batati hai.
+
+Krishna use sambhalta hai.
+
+🔶 7. Sauva ka vadha
+
+Krishna dwara Shalva (Sauva) ka nash ka varnan.
+
+🔶 8. Subhadra & Draupadi ke putron ka sambandh
+
+Krishna Subhadra aur Abhimanyu ko Dwaraka le jaata hai.
+
+Dhrishtadyumna Draupadi ke putron ko Panchal lai jaata hai.
+
+🔶 9. Pandav Dvaita van me
+
+Yudhishthira, Bhima aur Draupadi ki beech gahari baatein.
+
+Vyasa unhe Pratismriti (divya smaran shakti) ka vardaan dete hain.
+
+Pandav Kamyaka van ki taraf badh jaate hain.
+
+🔶 10. Arjuna ka divya-shastron ki khoj me tapasya
+
+Arjuna weapons lane nikal padta hai.
+
+Arjuna vs Mahadeva (hunter disguise) — Pashupata Astra prapt hota hai.
+
+Lokpals se divya astra milte hain.
+
+Arjuna Indra lok jata hai shastron ke liye.
+
+Dhritarashtra ise sun kar chintit hota hai.
+
+🔶 11. Yudhishthira ka dukh & Nala-Damayanti ki katha
+
+Yudhishthira Brihadasva rishi se milte hain.
+
+Rishi unhe Nala-Damayanti ki kahani suna kar dhairya dete hain.
+
+Yudhishthira dice ka rahasya seekhta hai.
+
+🔶 12. Rishi Lomasha ka aagaman
+
+Pandavon ko Arjuna ki khabar deta hai.
+
+Lomasha unhe teerth-yatra par le jate hain.
+
+🔶 13. Pandavon ki Teerth-yatra
+
+Bahut saare pavitra sthal: Gaya, Putasta, Pushkara, tatha anek teerth.
+
+Indra dwara Karna ke kundal aur kavach ka le lena.
+
+Agastya aur Vatapi ki katha
+
+Rishyasringa ki kahani
+
+Parashurama ka itihas (Kartavirya ka vadha)
+
+🔶 14. Pandav–Vrishni milan at Prabhasa
+
+Pandav Vrishni clan se milte hain.
+
+🔶 15. Sukanya–Cyavana ki katha
+
+Cyavana rishi ne Ashvin devtaon ko Soma pilaaya.
+
+Cyavana ko youth (jawani) ka vardaan.
+
+🔶 16. Mandhata, Jantu, Somaka ki katha
+
+King Somaka apne eklaute putra Jantu ka balidaan karta hai → 100 putra milte hain.
+
+Hawks & pigeon ki katha
+
+King Sivi ki pariksha
+
+Ashtavakra vs Vandi debate
+
+🔶 17. Yavakrita & Raivya ki kahani
+
+Gyaan ke liye tapasya aur shraap ki kathayein.
+
+🔶 18. Gandhamadana ki yatra
+
+Pandav Narayana ashram jate hain.
+
+Draupadi ke liye Bhima gandhamadana pahad se saugandhika phool lene nikalta hai.
+
+🔶 19. Bhima vs Hanuman
+
+Bhima Hanuman se milta hai.
+
+Hanuman apne bhai ko strength aur humility ka path sikhaata hai.
+
+🔶 20. Yakshas, Rakshasas, Jata rakshas ka vadha
+
+Bhima Yaksha aur Rakshas se ladta hai.
+
+Jata rakshas ko maar deta hai.
+
+🔶 21. Pandavon ka Kubera se milna
+
+Pandav Kuvera se milte hain.
+
+Phir Arjuna se punar milan hota hai.
+
+🔶 22. Arjuna vs Nivatakavachas & Paulomas & Kalakeyas
+
+Arjuna un sab asura senaon ka nash karta hai.
+
+Celestial weapons ka pradarshan — Narada rok dete hain.
+
+🔶 23. Bhima aur bada Sarpa
+
+Bhima ek maha-nag ke jaal me phans jata hai.
+
+Yudhishthira prashnon ka sahi uttar dekar usse chhudaate hain.
+
+🔶 24. Pandav Kamyaka van wapas
+
+Krishna unse milne aate hain.
+
+Markandeya aate hain aur anek purani kathayein sunate hain:
+
+Prithu
+
+Saraswati
+
+Matsya
+
+Dhundhumara
+
+Chaste wife story
+
+🔶 25. Pandav Dvaita van me punah
+
+Calf-seeing procession
+
+Duryodhana pakda jaata hai, Arjuna use chhudaata hai.
+
+🔶 26. Yudhishthira ka Mriga-swapna
+
+Deer, omens aur warnings ka swapna.
+
+🔶 27. Jayadratha dwara Draupadi ka apaharan
+
+Jayadratha Draupadi ko chura leta hai.
+
+Bhima uska peecha karta hai → use harata hai → sirf shaving punishment deta hai.
+
+🔶 28. Rama–Ravana Yudh ki kahani
+
+Parashurama nahi — Maryada Purushottam Ram (Sri Ram) ka Ravan vadh yahan bataya jaata hai.
+
+🔶 29. Savitri–Satyavan ki story
+
+Savitri ka adbhut pativrata-bala ka katha.
+
+🔶 30. Karna ka kundal-kavach
+
+Indra Karna ka kundal & kavach maang kar le leta hai.
+
+Uske badle ek Shakti astra deta hai—jo ek baar me ek hi vyakti ko maar sakta hai.
+
+🔶 31. Dharma ka Updesh
+
+Yudhishthira ko Dharamraj ka gyaan.
+
+Pandav paschim disha ki taraf badhte hain.
+
+        """
+                create_image_text_layout(text_content=text2, layout="full")
+
+        with st.expander("Section 1.2.6"):
+                text1 = """
+(Mahabharata ka 4th Parva – 67 sections, 2050 shlokas)
+
+Virata Parva me Pandavon ke agyatvaas ke ek saal ka poora varnan diya gaya hai—unke roop badal kar Virata nagari me rahna, unke parichay chhupaana, aur unke lihaz se hue bade sangram.
+
+🔶 1. Pandavon ka Virata nagari me pravesh
+
+Pandav Virata desh pahunchte hain.
+
+Nagar ke bahar smashaan ke paas unhe ek bada Shami vriksha milta hai.
+
+Usi ke upar wo apne sab divya astr-shastra chhupa dete hain.
+
+Yahi se unka Agyat Vas ka yeh antim saal shuru hota hai.
+
+Pandavon ke disguise:
+
+Yudhishthira → Kanka (raj-purohit & dice expert)
+
+Bhima → Ballava (bawarchi & pahalwan)
+
+Arjuna → Brihannala (eunuch dance/music teacher)
+
+Nakula → Granthika (ashva-paalak)
+
+Sahadeva → Tantipala (gau-paalak)
+
+Draupadi → Sairandhri (queen Sudeshna ki dasi)
+        """
+                create_image_text_layout("attached_assets/chapter1/1.2.6.jpg", text1,   layout="side", image_position="left")
+
+                text2 = """
+🔶 2. Kichaka ki durachar aur Bhima dwara vadha
+
+Kichaka, Virata ka senapati, Draupadi par kaamuk drishti rakhta hai.
+
+Draupadi ka apmaan karta hai.
+
+Draupadi Bhima se madad mangti hai.
+
+Bhima raat me ek bhayanak yuddh me usse maar daalta hai.
+
+Kichaka ka vadha Virata parva ka ek most dramatic event hai.
+
+🔶 3. Duryodhana ke jasus (spies)
+
+Duryodhana ko shak hota hai ki Pandav kisi rajya me chhupe hain.
+
+Woh har disha me jasus bhejta hai.
+
+Bahut khoj ke baad bhi koi Pandav ko pehchan nahi paata.
+
+🔶 4. Trigarta dwara Virata ki gaayon ka pehla apaharan
+
+Trigarta (Susharma) raj Virata ki gaayein chura leta hai.
+
+Bhima unka bhayankar yudh me vinaash karta hai.
+
+Virata raja ko bhi bandi banaya jata hai, Bhima use bachata hai.
+
+Virata ki gaayein wapas laayi jaati hain.
+
+🔶 5. Kauravas dwara Virata ki gaayon ka doosra apaharan
+
+Pandavon ke agyatvas ke antim dinon me
+Duryodhana + Bhishma + Drona + Karna + sabhi Maharathee
+saath milkar Virata ke gau-dhan ko loot lete hain.
+
+Arjuna ko Brihannala roop se bahar aana padta hai.
+
+🔶 6. Arjuna ka eklauta vijay—Kuruvon ki paraajay
+
+Arjuna Shami vriksha se astra nikalta hai.
+
+Brihannala roop chhodkar asli roop dharan karta hai.
+
+Eklauta Arjuna sabhi Kaurav senapatiyon ko yuddh me dhool chataata hai:
+
+Bhishma
+
+Drona
+
+Karna
+
+Kripa
+
+Duryodhana
+
+Ashwatthama
+
+Dusasana
+
+Susharma
+
+Aur poori Kaurav sena
+
+Gayein wapas Virata ko mil jaati hain.
+
+Yudh hote-hote Agyat Vas ka antim din complete ho jaata hai.
+
+🔶 7. Uttara–Uttaraa & Abhimanyu ka sambandh
+
+Virata ki putri Uttara Arjuna ki shishya hoti hai (dance/music).
+
+Par Arjuna kehte hain:
+“Main to uska guru hoon, ise uske yogya pati ko do.”
+
+Arjuna → Uttara ki shaadi Abhimanyu (Arjuna–Subhadra ke bete) se karwa deta hai.
+
+Virata aur Drupada milkar Pandavon ko welcome karte hain.
+
+        """
+                create_image_text_layout(text_content=text2, layout="full")
+
+        with st.expander("Section 1.2.7"):
+                text1 = """
+(Mahabharata ka 5th Parva — 186 sections, 6698 shlokas)
+
+Theme: Peace vs. War negotiations
+
+🔶 1. Pandavas in Upaplavya
+
+Pandava log Upaplavya naam ki jagah reh rahe the aur yudh ki tayari kar rahe the.
+
+Isi samay Duryodhana aur Arjuna, dono ek hi waqt Shri Krishna ke paas jaate hain aur kehte hain:
+
+“Krishna, humein yudh me madad chahiye.”
+
+🔶 2. Krishna ka prashn
+
+Krishna muskurate hue kehte hain:
+
+“Main do cheezein de sakta hoon:
+
+Ek poori Akshauhini sena
+
+Main khud – par bina ladhe (non-fighting counsellor)
+
+Batao kisey kya chahiye?”
+
+Duryodhana ka galat faisla
+
+Duryodhana ko lagta hai zyada sena = jeet,
+to woh sena maang leta hai.
+
+Arjuna ka gyaan
+
+Arjuna kehta hai:
+“Humein aap chahiye, Krishna – bina ladhe bhi aap hi hamari shakti hain.”
+
+Yahaan se dono pakshon ka bhavishya tay ho jaata hai.
+        """
+                create_image_text_layout("attached_assets/chapter1/1.2.7.jpg", text1,   layout="side", image_position="left")
+
+                text2 = """
+🔶 3. Shalya ka vishesh kissa
+
+Shalya, Madra ka raja, Pandavon ka supporter tha.
+Par Duryodhana ne bahut mehmaan-nawaazi aur uphaaron se usse phusla liya.
+
+Shalya ne anjaane me Duryodhana ko var (boon) de diya.
+Var maangte hi Duryodhana ne kaha:
+
+“Yudh me tum mere paksh me ladoge.”
+
+Shalya majboori me maan jaata hai,
+par Pandavon ko milkar Indra–Vritra ki kahani sunaakar unhe sambhalta hai.
+
+🔶 4. Pandavon ka Purohit – Shaanti sandesh
+
+Pandav apna purohit Kauravon ke paas bhejte hain.
+Wahaan Dhritarashtra shaanti ki baat karta dikhta hai.
+
+🔶 5. Dhritarashtra ki chinta aur anidra
+
+Raat bhar Dhritarashtra ko neend nahi aati.
+Useh darr hai:
+
+Pandav shaktishaali ho chuke hain
+
+Krishna unke saath hai
+
+Bhishma–Drona bhi yudh ko lekar pareshan hain
+
+Vidura ka Upadesh
+
+Vidura unhe gyaan aur dharma ki baatein samjhate hain.
+
+Sanatsujata ka Darshan
+
+Phir Sanat-sujata Rishi aate hain aur
+Atma–tattva (spiritual truth) ka gyaan dete hain.
+
+🔶 6. Krishna ka Hastinapura ke liye Shaanti Doot-bana
+
+Agli subah Sanjaya sabko batata hai:
+“Arjuna aur Krishna ek hi tattva ke do roop hain.”
+
+Krishna swayam Shaanti ke liye Hastinapura jaane ka nirnay lete hain.
+
+🔶 7. Duryodhana ka Krishna-dutv ka apmaan
+
+Hastinapura pahunch kar Krishna kehte hain:
+
+“Pandav sirf apna adhikar maang rahe hain. Shaanti karo.”
+
+Duryodhana ka ghamand
+
+Duryodhana kehta hai:
+
+“Main ek suichi ki nok jitni zameen bhi nahi doonga.”
+
+Woh to Krishna ko bandi banane ka bhi prayas karta hai!
+
+Krishna ka divya roop
+
+Tab Krishna sabke saamne apna Vishvaroop dikha dete hain.
+Sab raja dar jaate hain – Duryodhana ko chhodkar.
+
+🔶 8. Krishna aur Karna ki gupt baat
+
+Krishna Karna ko rath par bitha kar kehte hain:
+
+“Tum Kunti-putra ho. Pandavon ke bhai ho. Unki taraf aa jao.”
+
+Par Karna kehti hai:
+
+“Main Duryodhana ka bhojan-kritagya hoon. Main uska paksh nahi chhod sakta.”
+
+Karna garv aur wafadari se Krishna ka upadesh thukra deta hai.
+
+🔶 9. Krishna ka wapas Pandavon ke paas aana
+
+Krishna Upaplavya laut kar Pandavon ko sab kuch batate hain:
+
+Duryodhana ki zidd
+
+Shaanti ka asvikaar
+
+Vishvaroop ka darshan
+
+Karna ka sach (Kunti-putra)
+
+Pandav samajh jaate hain — ab yudh anivaarya hai.
+
+🔶 10. Senayon ki taiyaari
+
+Hastinapura se:
+
+Rathi, atirathi, gajak, rath, ghode, paida-sena
+sab yudh ke liye chal padte hain.
+
+Dono paksh apne-apne anubhavi yoddha list karte hain.
+
+🔶 11. Uluka – Duryodhana ka dut
+
+Yudh se ek din pehle Duryodhana Uluka ko Pandavon ke paas bhejta hai,
+jo uttajit-shabdon me unhe lalkar kar aata hai.
+
+🔶 12. Amba ki kahani
+
+Yudh se pehle ek mahatvapurn kahani batayi jaati hai:
+
+Amba ki dukhbhari katha
+
+Bhishma ke viruddh uska tapasya
+
+Bhishma-vadha ka beej
+
+        """
+                create_image_text_layout(text_content=text2, layout="full")
+
+        with st.expander("Section 1.2.8"):
+                text1 = """
+“Bhishma ke adheen 10 din ka yudh”
+⭐ Major Highlights:
+1. Jambu-dweep ki rachna ka varnan
+
+Sanjaya Dhritarashtra ko Jambu region (Jambu-dweep) ki utpatti batata hai.
+Ye ek cosmic geography explanation hota hai.
+
+2. Pandava sena ka manobal girna
+
+Yudh ke pehle kuch din Yudhishthira ki sena bahut nuksaan uthati hai.
+Bhishma devastate kar rahe hote hain.
+
+3. Arjuna ka moral dilemma (Gita moment)
+
+Arjuna apne rishtedaron ko maarne ka soch kar dukh aur daya se bhar jaata hai.
+
+Krishna unhe Moksha-dharma, Atma-gyan, karma-yoga, sankhya,
+yaani Bhagavad Gita ke tattva samjhate hain
+aur Arjuna ko fir se yudh ke liye taiyar karte hain.
+        """
+                create_image_text_layout("attached_assets/chapter1/1.2.8.jpg", text1,   layout="side", image_position="left")
+
+                text2 = """
+4. Krishna ka rath se kudkar Bhishma par toot padna
+
+Bhishma se hone wale bhayankar nuksaan ko dekh kar
+Krishna apni maryada todne hi wale hote hain.
+
+Woh rath se kud kar, haath me koish (whip) lekar
+Bhishma ko maarne ke liye bhagte hain.
+
+Arjuna Krishna ko rok leta hai.
+Ye yudh ke sabse dramatic palon me se ek.
+
+5. Arjuna dwara Bhishma-vadha (Shikhandi ke saamne rakhkar)
+
+Arjuna Shikhandi ko shield banata hai,
+kyunki Bhishma ne uspar astra na chalaane ka vow liya tha.
+
+Arjuna teer pe teer barsata hai
+aur Bhishma rath se gir kar shar-shayya (bed of arrows) par lete hain.
+
+Bhisma Parva ends
+
+Bhishma bed of arrows par soye rehte hain, aur parva yahan samaapt hota hai.
+
+⚔️ 7th Parva – Drona Parva (170 sections, 8909 shlokas)
+“Dronacharya as Commander – Abhimanyu’s death – Jayadratha-vadha – Ghatotkacha-vadha”
+⭐ Major Events:
+1. Dronacharya ka Commander-in-Chief banna
+
+Bhishma ke girne ke baad, Kaurav sena ka senapati Drona banta hai.
+
+2. Drona ka pratigya – Yudhishthira ko pakadne ka sankalp
+
+Duryodhana ke kehne par Drona vow leta hai:
+“I will capture Yudhishthira alive.”
+
+3. Arjuna ko Sansaptakon se door rakhna
+
+Kaurav yeh ensure karte hain ki Arjuna ko Sansaptakas (suicide squad) door le jaaye,
+taaki woh Yudhishthira ki raksha na kar sake.
+
+Arjuna kuch samay yudh-bhoomi se door bhaagta hua dikhta hai
+(yeh retreat strategy ka part tha).
+
+4. Bhagadatta aur uska hathi Supratika ka death
+
+Arjuna Bhagadatta aur uske powerful hathi Supratika ko maarkar gira deta hai.
+
+5. 🎯 Abhimanyu-vadha (tragic highlight)
+
+Arjuna ke bina, Kaurav log Chakravyuha banate hain.
+
+16-year-old Abhimanyu andar ghus to jaata hai, lekin
+uske saath adharma hota hai—
+kaafi Maharathis milkar usse ghair kar maar dete hain.
+
+Isme Jayadratha ka special role tha—
+wah kisi ko vee vyuha me ghusne hi nahi deta.
+
+6. Arjuna ka pratigya – “Jayadratha ko suryast se pehle maarunga”
+
+Abhimanyu ke mrityu ke baad, Arjuna 7 Akshauhini sena ko tod deta hai
+aur Jayadratha ko bhi maar daalta hai.
+
+7. Bhima + Satyaki का Kaurava-camp me ghusna
+
+Yudhishthira ke aadesh par
+Bhima aur Satyaki Kaurav camp me ghus kar
+Sansaptakon ke bache-khuchon ko mita dete hain.
+
+8. Bahut saare Maharathis ki maut
+
+Alambusha
+
+Srutayus
+
+Jalasandha
+
+Somadatta
+
+Virata
+
+Drupada
+
+Ghatotkacha
+
+etc.
+
+9. Asvatthaman ka Narayana-astra
+
+Drona ke marne ke baad
+Asvatthaman Narayana-astra chodta hai—
+jo saab ko jala kar maar sakta tha.
+Pandav apne astra neeche rakhkar bachte hain.
+
+10. Rudra ka mahima – Tripura-dahana ki kahani
+
+Yahan Shiva/Rudra ka bhi mahima-vrittant aata hai.
+
+⚔️ 8th Parva – Karna Parva (69 sections, 4964 shlokas)
+“Karna as Commander – Bhima’s vow – Karna-vadha”
+⭐ Major Highlights:
+1. Karna as Commander + Shalya as charioteer
+
+Shalya ko Karna ka saarathi banaya jaata hai
+(lekin woh mann se Karna ko demoralise karta rehta hai).
+
+2. Tripura-asura ki kahani ka punarvartan
+
+Isme Shiva dwara Tripura-nagari ki vinash-leela batayi jati hai.
+
+3. Karna & Shalya ke beech kadve vaaky
+
+Dono ek-doosre ko stork-crow (hans-kauwa) waali kahani suna-suna kar
+beizzat karte rehte hain.
+
+4. Asvatthaman kills Pandya
+
+Pandya raja ko Asvatthaman maar deta hai.
+Dandasena aur Darda jaise warriors bhi girte hain.
+
+5. Yudhishthira–Karna duel
+
+Yudhishthira Karna se bahut khatarnak situaton me bachkar nikalta hai.
+
+6. Arjuna–Yudhishthira ka jhagda
+
+Arjuna gussa ho jaata hai ke Yudhishthira ne use pathoos bola,
+par Krishna Arjuna ko shant karte hain.
+
+7. 🩸 Bhima drinks Dussasana’s blood (his vow fulfilled)
+
+Bhima apni pratigya poori karta hai:
+
+Dussasana ko yudh me maar kar
+
+uska rakt peeta hai (symbolic, krodh-pratik).
+
+8. ⚔️ Arjuna kills Karna (Karna-vadha)
+
+Aakhri ekal yudh hota hai:
+
+Karna ka rath ka pahiya kichad me fas jata hai
+
+Karna astra nahi chala pata
+
+Krishna Arjuna ko opportunity batate hain
+
+Arjuna Anjalika-astra se Karna ko maar deta hai
+
+Karna Parva yahin samapt hota hai.
+
+        """
+                create_image_text_layout(text_content=text2, layout="full")
+
+        with st.expander("Section 1.2.9"):
+                text1 = """
+Parva 9 – Shalya Parva
+
+Yudhishthira aur Duryodhana ki sena ke beech yudh almost khatam ho chuka tha.
+Zyada tar mahan yoddha mar chuke the.
+
+Is stage par Shalya, jo Madra ka raja tha, Kaurava sena ka naya senapati bana.
+
+Phir kai rath-yoddha ek-ke-baad-ek takraate rahe.
+Ant mein Yudhishthira ne Shalya ko maar diya.
+
+Saath hi Sahadeva ne Shakuni ko bhi yudh mein maara.
+Ab Kaurav sena bahut kam bach gayi thi.
+
+Duryodhana, sharminda aur thaka hua, ek talab (lake) mein chhup gaya.
+Fowlers (jungle ke shikari log) ne yeh baat Bhima ko bata di.
+
+Phir, Yudhishthira ke kathor shabdon se chidh kar,
+Duryodhana paani se bahar aa gaya.
+
+Tab hua sabse bhayank yudh –
+mace fight (gada yudh) Bhima aur Duryodhana ke beech.
+
+Balarama bhi wahan pahuncha aur dono ko dekhta raha.
+Lambe yudh ke baad Bhima ne Duryodhana ki jango (thighs) tod di.
+
+Iss tarah Parva 9 samapt hota hai.
+        """
+                create_image_text_layout("attached_assets/chapter1/1.2.9.jpg", text1,   layout="side", image_position="left")
+
+                text2 = """
+Parva 10 – Sauptika Parva (Night Massacre)
+
+Raat ka samay tha. Yudhishthira aur Pandav apni camp mein aaram kar rahe the.
+
+Tab Ashwatthama, Kripa aur Kritavarma battlefield par aaye aur
+Duryodhana ko zameen par pada dekha – khoon se latpat aur jangon se viklang.
+
+Apne pita Drona ki mrityu yaad kar ke,
+Ashwatthama gusse se bhar gaya.
+Usne sankalp liya:
+“Main Panchalon aur Pandavon ko raat ko sote-sote maar daalunga.”
+
+Raat ko woh camp ki taraf chala.
+Dwaar par ek Rudra ke roop wala rakshas (demon) khada tha.
+Ashwatthama ne Rudra (Shiva) ki puja ki aur uske baad andar ghus gaya.
+
+Phir usne Dhrishtadyumna,
+Draupadi ke paanch putron,
+aur Panchalon ko
+neend mein hi maar diya.
+
+Sirf 5 Pandav aur Satyaki bache — kyunki Krishna ne pehle hi unhe surakshit jagah bhej diya tha.
+
+Subah, jab yeh khabar mili,
+Draupadi dukh se toot gayi.
+Usne upvas karke marne ka sankalp liya.
+
+Bhima, Draupadi ke aansu dekh kar,
+Ashwatthama ka peechha karne nikal pada.
+
+Ashwatthama ne ek celestial weapon (divya astra) chhod diya,
+jo sab Pandavon ko maar sakta tha.
+Par Krishna ne rok diya: “Yeh nahi hoga.”
+
+Arjun ne apne astra se us astra ko neutralize kiya.
+
+Gussa ho kar, Krishna aur Vyasa ne Ashwatthama ko shraap (curse) diya.
+Pandavon ne uske sir par ka chamakta hua mani (jewel) bhi cheen liya
+aur Draupadi ko diya.
+
+Iss tarah raat ka yeh bhootal (terrifying) parva khatam hota hai.
+
+Parva 11 – Stri Parva (Women’s Lament)
+
+Yudh ke baad, Dhritarashtra apne putron ki mrityu se toot gaya tha.
+Uska dukh aur gussa itna zyada tha ki
+jab usne socha ki Bhima uske saamne khada hai,
+toh usne gusse mein ek loh ke putle (iron statue) ko tod diya.
+Krishna ne hi Bhima ke jagah woh putla rakh diya tha.
+
+Vidura ne Dhritarashtra ko vairagya (detachment) aur dharma ka gyaan diya
+aur uska dukh shant kiya.
+
+Phir Dhritarashtra, Gandhari aur raj gharane ki stree log
+battlefield par gaye.
+Wahan unhone apne pati, putron aur bhaiyon ki laashen dekhi
+aur unke roop mein dard bhari vilap shuru hui.
+
+Gandhari ka gussa bhi utra nahi tha,
+par Krishna ne use shant kiya.
+
+Uske baad Yudhishthira ne saare rajaon ki antimsanskaar (funeral rites) kiye.
+
+Yehi Parva batata hai kaise Kunti ne sabke saamne sach bataya
+ki Karna uska pehla beta tha.
+
+Yeh parva bahut dukhad aur hriday-vidaarak (heart-breaking) mana gaya hai.
+
+Parva 12 – Shanti Parva
+
+Is parva mein Yudhishthira dukh se toot chuka tha.
+Use lagta tha ki sab uski wajah se hua —
+his own relatives, uncles, brothers, bete, sab mar gaye.
+
+Tab Bhishma, jo abhi bhi bano ke shaiya (bed of arrows) par lete the,
+ne Yudhishthira ko raajdharma, apaddharma (emergency duty),
+aur moksha-marg ka gyaan diya.
+
+Is parva mein Bhishma ne bahut gehra aur buddhi-bhara updesh diya,
+jo rajao ke liye ek shastra (scripture/manual) jaisa mana jata hai.
+
+Yeh parva gyaan aur shanti ka pratik hai —
+isliye iska naam Shanti Parva hai.
+        """
+                create_image_text_layout(text_content=text2, layout="full")
+ 
+        with st.expander("Section 1.2.10"):
+                text1 = """
+⭐ Parva 13 – Anushasana Parva
+
+(Duties, Charity, Truth)
+
+Yudhishthira abhi bhi yudh ke baad dukh aur paap-bodh me tha.
+Tab Bhishma, jo abhi bhi apne banon ke shaiya (bed of arrows) par lete the,
+ne use dharma ka gyaan diya.
+
+Is parva me bataya gaya hai:
+
+Dharma (righteous duty) aur Artha (right livelihood) ke niyam
+
+Daan (charity) ke rules aur uska phal
+
+Kaun patra (worthy) hota hai daan lene ke liye
+
+Satya (truth) ki shresthta
+
+Brahmano aur gau-mata ke mahatva
+
+Kis samay kaunsa duty uchit hota hai — time-place ke hisaab se dharma
+
+Ant me, Bhishma swarg lok ko chale jate hain.
+Yeh parva batata hai ki ek manushya ko jeevan me kaise rehna chahiye.
+        """
+                create_image_text_layout("attached_assets/chapter1/1.2.10.jpg", text1,   layout="side", image_position="left")
+
+                text2 = """
+🐎 Parva 14 – Ashwamedhika Parva
+
+(Horse Sacrifice & Arjuna’s Journeys)
+
+Is parva ka main kendra hai Ashwamedha yajna (horse sacrifice)
+jo Yudhishthira karta hai shanti ke liye.
+
+Isme bataya gaya hai:
+
+Samvarta aur Marutta ki purani katha
+
+Pandavon ko sone ke khazane milna
+
+Parikshit ka janm, jise Krishna ne bachaya tha
+jab Ashwatthama ke astra ne use garbh me jala diya tha
+
+Arjuna ka alag-alag rajao se yudh,
+jab woh yajna ka ghoda le kar bhraman karta hai
+
+Arjuna ka apne hi bete Vabhruvahana ke saath mushkil yudh
+
+Ek mongoose (nevla) ki katha jo sikhati hai ki
+“dharma ka asli maap dhan se nahi, bhavna se hota hai”
+
+Yeh parva adhbhut aur gyaan se bharpur maana jata hai.
+
+🌿 Parva 15 – Ashramavasika Parva
+
+(Dhritarashtra’s Final Departure)
+
+Dhritarashtra, Gandhari aur Vidura raja-mahal chhodkar
+van (forest) me vanaprastha jeevan ke liye chale jate hain.
+Kunti bhi unke saath chal deti hai.
+
+Vyasa apni shakti se Dhritarashtra ko
+uske mare hue putron aur parivaar se milwata hai.
+Yeh milan bahut hi adbhut (miraculous) hai.
+
+Is parva me:
+
+Dhritarashtra aur Gandhari dukh se mukta hote hain
+
+Vidura apni saari tapasya (penance) ke baad moksha pa leta hai
+
+Sanjaya bhi shanti ko prapt hota hai
+
+Narada batata hai ki Vrishni vansh (Krishna ka kul) samapt ho chuka hai
+
+Yeh parva shanti aur tyag ka pratik hai.
+
+⚡ Parva 16 – Mausala Parva
+
+(The End of the Yadava Clan)
+
+Yeh parva bahut dardnaak hai.
+
+Ek brahmana ke shraap (curse) ke kaaran
+Yadava vansh ke log ek din nasha me bigad jaate hain
+aur Eraka grass (jo unke haath me vajra jaise ban gaya) se
+ek-dusre ko maar daalte hain.
+
+Krishna aur Balarama bhi apne anta (final time) ko prapt hote hain—
+samay aur prakriti ke niyam sab par lagu hote hain.
+
+Arjuna Dwaraka pahuch kar
+suna-shahar aur mare hue Vrishni yoddhaon ko dekh kar
+gehra dukh mehsoos karta hai.
+
+Woh Krishna, Balarama aur sab Vrishnio ka antimsanskar karta hai.
+
+Fir jab Arjuna Yadava striyon aur bachchon ko lekar aa raha tha,
+uska Gandiva uska saath nahi deta—
+divya astron ka samay samaapt ho chuka tha.
+
+Vyasa ke salah par Arjuna
+sannyasa (renounced life) lene ka sochta hai.
+
+🏔 Parva 17 – Mahaprasthanika Parva
+
+(The Last Journey)
+
+Pandav apna rajya chhod dete hain
+aur Mahaprasthana (great journey) par nikal padte hain
+Himalaya ki taraf, swarg ke dwar tak.
+
+Raste me:
+
+Pehle Draupadi girti hai
+
+Phir Sahadeva, Nakula, Arjuna, Bhima
+
+Sab apne-apne ahankar (ego) ya truti (fault) karan girte hain
+
+Sirf Yudhishthira aage badhta hai—
+wo kabhi peeche mudkar nahi dekhta.
+
+Agni ko Arjuna apna Gandiva wapas de deta hai.
+Yeh unke yudh-kale ke samapan ka pratik hai.
+
+🌈 Parva 18 – Swarga Parva
+
+(Heaven & Truth)
+
+Yudhishthira ke liye devdoot ki vimaan aati hai.
+Par uska ek kutta saath chal raha tha.
+
+Devdoot kehte hain: “Kutte ko chhodo.”
+Par Yudhishthira mana kar deta hai:
+“Maine ise nahi chhoda, main ise ab bhi nahi chhodunga.”
+
+Tab woh kutta apna asli roop dikhata hai—
+woh Dharma devata tha, Yudhishthira ka pita.
+
+Swarg me Yudhishthira ko pehle narak (hell) dikhaya jata hai
+taaki woh apne bhaiyon ka dukh mehsoos kare.
+
+Baad me sab kuch sapasht hota hai—
+Indra aur Dharma usse uska asli swarg dikhate hain
+jahan woh devtaon ke saath anand se rehta hai.
+
+🌺 Parva-Sangraha Ki Samapti
+
+Sauti kahte hain:
+
+Mahabharat teen lokon ka gyaan samete hai
+
+Jo isse nahi jaanta, wo adhura vidwaan hai
+
+Is kathaa ko sunne se paap dho jaate hain
+
+Bharata sab granthon ka saar hai
+
+Jis tarah samudra jahazon se paar hota hai,
+waise hi Mahabharat ko samajhna Parva-Sangraha se aasaan hota hai
+
+        """
+                create_image_text_layout(text_content=text2, layout="full")
+ 
