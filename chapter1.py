@@ -2450,3 +2450,650 @@ waise hi Mahabharat ko samajhna Parva-Sangraha se aasaan hota hai
         """
                 create_image_text_layout(text_content=text2, layout="full")
  
+    # Chapter1
+    with st.expander("Chapter 1.3 – Paushya Parva"):        
+        with st.expander("Section 1.3.1"):
+                    text1 = """
+🐕 Sarama ka Shraap
+
+Kurukshetra me Raja Janamejaya apne teen bhaiyon—Srutasena, Ugrasena, Bhimasena—ke saath lambe yagna (long sacrifice) me baithe the.
+
+Tab ek Sarama (swargiya dog) ka bachcha wahan aa gaya.
+Janamejaya ke bhaiyon ne bina wajah usse maar diya.
+Woh rota-rotā apni maa ke paas bhaaga.
+
+Sarama ne pucha:
+
+“Kisne maara? Galti kya ki?”
+
+Bachcha bola:
+
+“Maine kuch nahi kiya!
+Na maine ghee chhua, na ghee ko dekha.”
+
+Yeh sun kar Sarama gusse me Janamejaya ke paas gayi aur boli:
+
+“Mere bete ne koi galti nahi ki.
+Phir kyun mara?
+Iska phal tum bhugatoge—jab bilkul ummeed nahi hogi.”
+
+Janamejaya darr gaya.
+Yagna ke baad woh Hastinapura laut gaya aur shraap se chutkaara dhoondne laga.
+            """
+                    create_image_text_layout("attached_assets/chapter1/1.3.1.jpg", text1,   layout="side", image_position="left")
+
+                    text2 = """
+👨‍🦳 Raja ka Purohit ki Talaash
+
+Ek din shikar par, Janamejaya ne ek rishi-ashram dekha.
+Us rishi ka naam tha Srutasrava.
+Uska beta tha Somasrava, ek kathor tapasvi (ascetic).
+
+Raja ne kaha:
+
+“Rishi ji, mujhe aapka beta Purohit banane dijiye.”
+
+Rishi bole:
+
+“Mera beta Somasrava ek naag-maata (she-snake) se janma hai.
+Bahut shaktishali hai.
+Sab paap mita sakta hai—bas Mahadeva ke viruddh jo paap kiya ho, woh nahi.”
+
+Phir rishi ne ek baat aur batayi:
+
+“Uski ek aadat buri hai—
+Woh kisi bhi Brahmana ko, jo maange, de deta hai.
+Agar tum ye bardasht kar sakte ho, tab hi usse le jao.”
+
+Janamejaya ne haan kar di.
+Use Purohit banakar wapas rajya gaya aur bhaiyon se kaha:
+
+“Jo Somasrava kahe—tum bina sawaal maane.”
+
+🧘‍♂️ Rishi Dhaumya aur Aruni ki Guru-bhakti
+
+Iske baad kahani me doosra Rishi aate hain—
+Ayoda-Dhaumya.
+
+Unke teen shishya:
+➡ Aruni
+➡ Upamanyu
+➡ Veda
+
+Ek din Dhaumya ne Aruni se kaha:
+
+“Khet ki pani ki naali tut gayi hai.
+Jao aur usse bandh do.”
+
+Aruni gaya, par koi bhi tarika kaam nahi kar raha tha.
+Ant me usne socha:
+
+“Ek hi raste bacha… main hi naali me let jaata hoon.”
+
+Woh naali me let gaya,
+aur uske sharir se pani ruka.
+
+Rishi ne jab dekha ki Aruni wapas nahi aaya,
+to unhone shishyon se poocha.
+Sab milkar naali ke paas gaye aur pukara:
+
+“Aruni! Kahan ho, beta?”
+
+Aruni awaaz sunte hi khada ho gaya.
+Pani fir behne laga.
+
+Woh bola:
+
+“Guruji, main naali me letkar pani rok raha tha.
+Aapki awaaz sun kar uth gaya.”
+
+Dhaumya bahut prasan hua aur bola:
+
+“Aaj se tumhara naam hoga Uddalaka,
+aur tum gyaan se chamko ge.
+Sab Veda aur Dharmashastra tumme jagmagayenge.”
+
+Yeh kehkar Rishi ne Aruni ko ashirvaad diya.
+            """
+                    create_image_text_layout(text_content=text2, layout="full")
+
+        with st.expander("Section 1.3.2"):
+                    text1 = """
+🐄 Guru ka Adesh
+
+Rishi Ayoda-Dhaumya ne ek din kaha:
+
+“Upamanyu, beta, jao aur gaayon (kine) ki dekhbhal karo.”
+
+Upamanyu din bhar gaay charata,
+shaam ko guru ke paas aakar namaskar karta.
+
+Guru ne dekha ki Upamanyu mazboot aur healthy lag raha hai.
+Unhone pucha:
+
+“Beta, kya khate ho tum? Itne mote-mote lag rahe ho.”
+
+Upamanyu bola:
+
+“Guruji, main bhiksha (alms) se pet bhar leta hoon.”
+
+Guru bole:
+
+“Jo bhiksha mile, pehle guru ko deni hoti hai.”
+
+Upamanyu ne haan kiya.
+Agli baar usne saari bhiksha guru ko de di.
+Guru ne sab le liya—Upamanyu ke paas kuch nahi bacha.
+            """
+                    create_image_text_layout("attached_assets/chapter1/1.3.2.jpg", text1,   layout="side", image_position="left")
+
+                    text2 = """
+🔄 Doosra Raasta
+
+Phir bhi Upamanyu healthy dikha.
+Guru ne pucha:
+
+“Ab kya kha rahe ho?”
+
+Upamanyu bola:
+
+“Guruji, main doosri baar bhiksha maang leta hoon.”
+
+Guru ne kaha:
+
+“Nahi beta, ye galat hai.
+Tum dusre bhikshukon ka hissa kam kar rahe ho.
+Ye lobh (covetousness) dikhaata hai.”
+
+Upamanyu ne ye bhi chhod diya.
+
+🥛 Teesra Raasta
+
+Agli baar bhi Upamanyu filled-out dikh raha tha.
+Guru ne pucha:
+
+“Ab kya kha rahe ho?”
+
+Upamanyu bola:
+
+“Guruji, main gaayon ka doodh pi leta hoon.”
+
+Guru ne mana kiya:
+
+“Beta, doodh bina pooche lena uchit nahi (not lawful).”
+
+Upamanyu ne doodh bhi chhod diya.
+
+🫧 Chautha Raasta
+
+Phir bhi woh healthy tha!
+Guru ne dubara pucha.
+
+Upamanyu bola sharmate hue:
+
+“Guruji, main bas bachdon (calves) ke muh se girti hui jhag (froth) chakh leta hoon.”
+
+Guru ne gusse se kaha:
+
+“Nahi!
+Bachde tum par daya karke jhag gira rahe honge.
+Tum unka hissa le rahe ho.
+Yeh bhi galat hai.”
+
+Upamanyu ne ye bhi chhod diya.
+
+🌿 Bhukha aur Andha
+
+Ab Upamanyu ke paas khane ko kuch nahi thā.
+Ek din bhookh se pareshaan hokar usne Arka (a poisonous plant) ke patte kha liye.
+
+Patte teekhe, kadve, zehreele the.
+Uski aankhen jalne lagi, aur woh andha ho gaya.
+
+Andha hokar woh chal nahi paaya,
+aur ek kuen (well) me gir gaya.
+
+😨 Guru ki Talaash
+
+Shaam tak Upamanyu na aaya to guru ne kaha:
+
+“Chalo, hum use dhoondte hain.”
+
+Woh sab milkar jungle me gaye,
+aur pukarne lage:
+
+“Upamanyooo!”
+
+Neeche se awaaz aayi:
+
+“Guruji, main kuen me hoon!”
+
+Guru ne pucha:
+
+“Kaise gira?”
+
+Upamanyu bola:
+
+“Bhuke-pan me Arka ke patte khaye. Andha ho gaya. Gir gaya.”
+
+🙏 Asvins ki Stuti (praise of the twin gods)
+
+Guru bole:
+
+“Beta, Asvins (dev-doctors, twin gods) ki stuti karo.
+Woh tumhari aankhen theek kar denge.”
+
+Upamanyu ne Rigveda ke sundar mantron se
+Asvins ki prarthana ki—
+unhe “prakriti ke rakhwale”,
+“samay ke chalak”,
+aur “jeevan ke pakshi (birds)” bataya.
+
+Prarthana sunkar Asvins prakat hue.
+
+🍪 Pariksha ka Aakhri Mod
+
+Asvins bole:
+
+“Beta, yeh prasad lo. Kha lo. Tumhari nazar wapas aa jayegi.”
+
+Upamanyu bola:
+
+“Main bina guru ko diye kuch nahi kha sakta.”
+
+Asvins bole:
+
+“Tumhare guru ne kabhi prasad paakar hume nahi poocha tha.
+Tum bhi waise hi karo.”
+
+Upamanyu bola:
+
+“Nahi devon, main guru-agnya (teacher’s command) nahi tod sakta.”
+
+Asvins bahut khush hue:
+
+“Tumhari bhakti (devotion) sachi hai.
+Tumhari aankhen wapas—aur daant sone ke honge!
+Tumhara bhavishya shubh hoga.”
+
+Aisa kahi kar unhone vardaan diya.
+
+🌟 Guru ki Prashansa
+
+Drishti paakar Upamanyu guru ke paas gaya
+aur sab bataya.
+
+Guru Dhaumya prasan ho gaye:
+
+“Beta, tumhe sab Veda aur Dharmashastra ka gyaan prapt hoga.”
+
+Yeh thi Upamanyu ki kasauti (trial).
+            """
+                    create_image_text_layout(text_content=text2, layout="full")
+
+        with st.expander("Section 1.3.3"):
+                    text1 = """
+🌱 Veda ka Seva-bhaav
+
+Rishi Ayoda-Dhaumya ne apne teesre shishya ko kaha:
+
+“Veda, beta, kuch samay mere ghar raho aur guru-seva karo. Tumhara hi bhala hoga.”
+
+Veda ne haan ki.
+Woh bina shikayat garmi-thand, bhookh-pyaas sab jhelta raha—
+bilkul uss bail (ox) ki tarah jo apne malik ka bojh uthaata hai.
+
+Jaldi hi guru usse prasann (pleased) ho gaye.
+Isse Veda ko good fortune aur poora gyaan mila.
+Yeh thi Veda ki pariksha.
+
+👨‍🏫 Veda ban gaya Guru
+
+Veda ne guru se vidya poori karke grihastha (householder life) apnaaya.
+Uske teen shishya bane.
+
+Veda ne kabhi apne shishyon ko kaam karne ko majboor nahi kiya,
+kyunki usne khud guru-ke-ghar me bahut kasht jhel rakha tha.
+Woh chahta tha ki uske shishyon ko dukh na mile.
+            """
+                    create_image_text_layout("attached_assets/chapter1/1.3.3.jpg", text1,   layout="side", image_position="left")
+
+                    text2 = """
+🐂 Utanka aur Guru ka Ghar
+
+Ek din Raja Janamejaya aur Paushya ne Veda ko apna Upadhyaya (teacher) banaya.
+Kuch samay baad Veda ko ek yajna ke kaam se jaana tha.
+
+Usne apne shishya Utanka se kaha:
+
+“Beta, jab tak main nahi hoon, ghar ka saara kaam tum sambhalo.
+Koi bhi baat chhuti nahi rehni chahiye.”
+
+Utanka ne guru ka adesh maan liya.
+
+👩‍🦳 Guru-patni ka Ajeeb Aadesh
+
+Guru ke jaane ke baad, ghar ki auratein Utanka se boli:
+
+“Utanka, tumhari guru-patni ab 'garbha-dhaaran yogya' (fertile period) me hain.
+Guru ghar me nahi—tum hi unke sthan par 'kartavya' karo.”
+
+Utanka ghabra gaya.
+Usne kaha:
+
+“Nahi! Guru ne mujhe kabhi aisa kuch nahi kaha.
+Aur main kisi galat kaam me haath nahi daal sakta.”
+
+Yeh sunkar sab chup ho gayi.
+
+🙏 Guru ki Prasannata
+
+Guru wapas aaye to sab sunke khush ho gaye.
+Unhone kaha:
+
+“Utanka, beta, tumne maryada (propriety) nibhayi.
+Batao, kya vardaan chahiye? Tum ja sakte ho.”
+
+Utanka bola:
+
+“Guruji, chhutti lene se pehle guru-dakshina (honorarium) deni zaroori hai.”
+
+Guru bole:
+
+“Thik hai, apni guru-patni se poocho.”
+
+👑 Guru-patni ka Ichchha
+
+Utanka ne guru-patni se poocha:
+
+“Kya guru-dakshina du?”
+
+Woh boli:
+
+“Raja Paushya ki Rani ke kaan me ek vishesh kundal (ear-rings) hain.
+Mujhe wahi chahiye.
+Chaar din baad vrata ka din hai—main unhe pehenna chahti hoon.
+Laoge, to tumhara kalyan hoga.”
+
+Utanka agree kar gaya.
+
+🐂 Raaste me Ek Rahasya
+
+Raaste me Utanka ne dekha—
+Ek asadharan bada sa bail (bull) aur ek ajeeb uncha aadmi uspar baitha hua.
+
+Woh aadmi bola:
+
+“Utanka, is bail ka gobar kha lo.”
+
+Utanka dar gaya.
+Usne mana kiya.
+
+Aadmi bola:
+
+“Kha lo. Tumhare guru ne bhi ye hi khaya tha.”
+
+Utanka ne vishwas kar liya
+aur gobar khaaya, mutra piya,
+phir haath-muh dho kar aage badh gaya.
+
+(Ye sab ek divya pariksha thi—symbolic, impurity removal ka yogic method.)
+
+👑 Raja Paushya ke Darbaar me
+
+Utanka ne Raja Paushya ko pranaam kiya aur bola:
+
+“Mujhe Rani ke ear-rings chahiye. Guru-dakshina hai.”
+
+Paushya ne kaha:
+
+“Andar jaakar Rani se maang lo.”
+
+Utanka gayā, par Rani dikhai nahi di.
+Wapas aakar bola:
+
+“Rani toh hai hi nahi. Aap jhooth bol rahe ho?”
+
+Paushya ne kaha:
+
+“Shayad tum ashuddha (impure) ho.
+Rani pavitra (pure) ke alawa kisi ko nahi dikhati.”
+
+Utanka ko yaad aaya:
+
+“Haan! Maine chal-te-chalte khade hokar jal paan (ablution) kiya tha.
+Woh galat hota hai.”
+
+Paushya ne shuchita (purification) ka sahi tarika bataya.
+Utanka ne dhyaan se snan kiya, jal sipa liya, aur phir gaya—
+iss baar Rani mil gayi.
+
+Rani ne prasannata se kundal de diye.
+Par ek chetavani bhi:
+
+“Dhyaan se rakhna.
+Ye kundal Takshaka (Naga king) churaane ki koshish karta hai.”
+
+Utanka bola:
+
+“Takshaka mujhe kya rokega!”
+
+Aur nikal pada.
+
+🍽 Paushya ka Shraap
+
+Wapas jaane se pehle Paushya ne kaha:
+
+“Tum jaise yogya brahman kam milte hain.
+Main tumhe shraddha-bhoj khilana chahta hoon.”
+
+Utanka ne haan kiya.
+
+Lekin bhojan me baal tha aur thanda tha—
+mata hua bhojan ashuddha maana jata hai.
+
+Utanka ne kaha:
+
+“Aisa bhojan dene par tumhari drishti (sight) chali jaayegi.”
+
+Paushya ne gusse me kaha:
+
+“Aur jo tumne saaf bhojan ko ashuddha kaha—
+tum vansh-vihheen (without issue) ho jaoge!”
+
+Utanka bola:
+
+“Bhojan waqehi ganda hai. Dekh lo.”
+
+Paushya ne dekha—
+bhojan thanda, baalon se bhara, aur unbraided hair wali naukrani ne banaya tha.
+Usne shraap wapas lene ki prarthna ki.
+            """
+                    create_image_text_layout(text_content=text2, layout="full")
+
+        with st.expander("Section 1.3.4"):
+                    text1 = """
+🔥 Paushya aur Utanka ka Doosra Vachansangharsh
+
+Utanka ne Raja Paushya ko shraap diya tha:
+
+“Tum andhe ho jaoge!”
+
+Paushya ne bhi shraap diya:
+
+“Tum vansh-vihheen ho jaoge!”
+
+Ab Utanka shant ho kar bola:
+
+“Maine tumhe vastavik roop se dikhaya tha ki bhojan gandaa tha.
+Isliye tumhara shraap mujh par kaise lagega?”
+
+Paushya ne kaha:
+
+“Mera dil kathor (hard-hearted) hai, main apna shraap wapas nahi le sakta. Brahman ke shabd kathor lagte hain par unka dil naram hota hai. Kshatriya ke shabd naram dikhte hain, par unka dil teekha hota hai. Isliye, main shraap nahi badal sakta.”
+
+Utanka ne kendrit hokar kaha:
+
+“Koi baat nahi. Tumhara shraap mujhe nahi lagega. Main chalta hoon.”
+            """
+                    create_image_text_layout("attached_assets/chapter1/1.3.4.jpg", text1,   layout="side", image_position="left")
+
+                    text2 = """
+🏃‍♂️ Kundalon ki Chori – Bhikhari jo Takshaka nikla
+
+Utanka ne rani ke vishesh kundal (ear-rings) lekar wapas ja raha tha.
+Raaste me ek nagna bhikhari baar–baar nazar aata–gayab hota.
+
+Utanka ne kundal zameen par rakhe aur jal lene gaya.
+
+Jab wapas aaya—
+kundal gayab! 😨
+
+Bhikhari bhaag raha tha! Utanka ne peecha kiya.
+Pakadne par bhikhari ne apna asli roop dharan kara:
+
+🔥 Woh Takshaka, Nagon ka Raja tha! 🔥
+
+Aur woh zameen me khule ek bade gaddhe (hole) me ghus gaya
+—yeh Nagalok ka dwar tha.
+
+⚡ Indra ka Vajra aur Rahasya Dwar
+
+Utanka ne laathi se gaddha khodna shuru kiya, par gaddha nahi khul raha tha.
+Indra ne asmaan se dekha:
+
+“Yeh brahman satya ka bhakt hai.”
+
+Usne apna Vajra (thunderbolt) Utanka ki laathi me bhej diya.
+Laathi turant Vajra jaise shaktishaali ban gayi
+aur Nagalok ka darwaza khul gaya.
+
+Utanka usme ghus gaya.
+
+🐍 Nagalok ka Darshan
+
+Andar Nagalok me Uttanka ne dekha:
+
+✨ Laakhon mahal,
+✨ sohne darwaaze,
+✨ sone-chandi ke mandir,
+✨ snake-palaces with domes,
+ek alag hi divya duniya.
+
+Wahan khade hokar Utanka ne Nagas ki stuti ki:
+
+“Hey Airavata ke vanshaj Nagon!
+Hey Takshaka! Hey Asvasena!
+Main tum sabko pranam karta hoon!”
+
+Par fir bhi Takshaka ne kundal nahi diye.
+
+Utanka pareshaan ho gaya.
+
+🧵 Cosmic Loom – Do Deviyan aur Kaala-Chitta Ka Srijan
+
+Utanka ne aas–paas dekha.
+Ek ajeeb drishya:
+
+Do mahilaen ek bada sa loom (taana) chala rahi thi.
+
+Kaale aur safed dhaage—raat aur din—se poora jagat bun rahi thi.
+
+Pas me ek 12 spokes ka chakra, jise 6 ladke ghumaa rahe the—yeh samvatsar (1 saal) tha.
+
+Ek purush, ek tejasvi ghode ke saath khada tha.
+
+Utanka ne unki stuti ki aur kaha:
+
+“Aap hi brahmand ke srijan aur samay ke swami ho.
+Mujhe Nag log par niyantran chahiye!”
+
+Woh aadmi bola:
+
+“Iss ghode me phoonk maaro.”
+
+Utanka ne phoonk maari—
+
+🔥 ghoda Agni ban gaya!
+
+Har chhed se aag nikli
+aur poora Nagalok jalne laga!
+
+Takshaka ghabra gaya:
+
+“Bas karo! Yeh lo kundal! Le jao!”
+
+Utanka ne kundal wapas le liye.
+
+⚡ Woh Purush Kaun Tha?
+
+Woh bola:
+
+“Chadha jao. Main ek pal me tumhe tumhare guru ke ghar pahunchaa dunga.”
+
+Ghoda turant udkar ashraam pahunch gaya.
+
+🕉️ Guru aur Guru-patni ka Ashirvaad
+
+Guru-patni snan karke soch rahi thi:
+
+“Utanka nahi aaya… galat waqt par aaya to shraap dungi!”
+
+Utanka theek timing par pahunch gaya
+aur kundal de diye.
+
+Guru-patni khush ho gayi:
+
+“Tum dharm-nishtha (faithful) ho. Tumhe sab kaam me safalta milegi.”
+
+Utanka ne guru ko sab bataya.
+Guru ne arth samjhaya:
+
+Do mahilaen ― Dhata aur Vidhata (Creator aspects)
+
+Kaale-safed dhaage ― Raat aur Din
+
+12-spokes ka chakra ― Varsh ka Chakra
+
+6 ladke ― 6 Ritu (seasons)
+
+Ghoda ― Agni
+
+Aadmi ― Parjanya (rain-god)
+
+Bail ― Airavata
+
+Bail ka dung ― Amrit
+
+Is Amrit ki wajah se Utanka Nagalok me marra nahi.
+
+🐍🔥 Takshaka se Badla — Janamejaya ko Bhadkaana
+
+Guru se vidya poori karke Utanka ab Takshaka se nafrat karta tha.
+Isliye woh Hastinapur gaya.
+
+Yahan Raja Janamejaya apne pita Parikshit ki maut ka shok mana raha tha.
+Takshaka ne hi unhe kata tha.
+
+Utanka bola:
+
+“Rajan! Aap bacchon ki tarah khel rahe ho?
+Takshaka ne aapke pita ka nirdosh hatya ki.
+Aap badla kyun nahi le rahe?”
+
+Janamejaya gusse me bhar gaya.
+
+Utanka me aur aag bhadkai:
+
+“Takshaka ne aapke pita ko mara aur
+Kashyapa rishi ko bhi rishwat de kar wapas bhej diya.
+Ab samay aa gaya hai—
+Sarpa-yajna karao.
+Takshaka ko jala do!”
+
+Raja gusse me agni ki tarah bhadak uthaa.
+
+Isi gusse se shuru hota hai
+Sarpa-Satra – Mahabharat ka prakhyat Sarpa-Yajna.
+            """
+                    create_image_text_layout(text_content=text2, layout="full")
