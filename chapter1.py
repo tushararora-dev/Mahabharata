@@ -788,8 +788,1096 @@ tabhi bure hote hain.”"""
 
         # Section 1.2.1
         with st.expander("Section 1.2.1"):
-            text1 = """ """
+            text1 = """ 
+Rishiyon ne Sauti se poocha:
+
+“O Suta-putra, tumne Samanta-Panchaka naam ka ek sthaan bataya.
+Humein uska poora aur saaf varnan sunna hai.”
+
+🌿 Samanta-Panchaka ki Kahani
+
+Sauti bola:
+
+“Suno, o Brahmano.
+Main tumhe us pavitra jagah ka itihaas batata hoon.”
+
+Treta aur Dwapara ke beech,
+Jamadagni putra Parashurama, jo shastron ka maha-veer tha,
+apne upar hue anyaayon se ghayal hokar
+Kshatriyaon ko baar-baar maarte rahe.
+
+Unhone pura vansh lagbhag khatam kar diya.
+
+Jab unka krodh apne charam par tha,
+unhone Samanta-Panchaka me
+paanch khoon ke talaab bana diye.
+
+Un khoon se bhare talaabon me khade hokar
+unhone apne pitron ko
+rakta-tarpan (blood-offering) kiya.
+
+Tab unke purvaj—Richika aur anya Pitras—
+swarg se utar aaye aur bole:
+
+“O Parashurama, hum tumse prasann hain.
+Tumhari bhakti aur tumhari shaurya dono humein khush karte hain.
+Mango, kya vardaan chahiye?”"""
             create_image_text_layout("attached_assets/chapter1/1.2.1.jpg", text1, layout="side", image_position="left")
+
+            text2 = """ 
+Parashurama bole:
+
+“Meri ek hi iccha hai—
+mujhse jo paap hua hai Kshatriya-vadh ka,
+wo mit jaye.
+Aur ye jo talaab maine banaye hain,
+ye duniya bhar me pavitra tirth ban kar mashhoor ho jayein.”
+
+Pitron ne kaha:
+
+“Aisa hi hoga.
+Aur tumhara krodh shant ho jaye.”
+
+Tab se wo jagah Samanta-Panchaka kehlai.
+Wo teenon lokon me mashhoor hai.
+
+Isi pavitra jagah par
+Dwapara aur Kali ke beech
+Pandav aur Kauravon ki
+mahaan yuddh-bhoomi bani.
+
+Yahin 18 Akshauhini senaayein ikatthi hui
+aur yahin ve sab mar gaye.
+
+⚔️ Akshauhini kya hoti hai?
+
+Rishiyon ne poocha:
+
+“O Sauti, ‘Akshauhini’ shabd ka matlab batao.
+Ek Akshauhini me kitne ghoṛe, rath, hathi aur paidal sena hoti hai?”
+
+Sauti bola:
+
+📏 Sena ka hisaab (steps):
+
+1 Patti =
+• 1 rath
+• 1 hathi
+• 3 ghode
+• 5 paidal
+
+3 Patti = 1 Sena-mukha
+3 Sena-mukha = 1 Gulma
+3 Gulma = 1 Gana
+3 Gana = 1 Vahini
+3 Vahini = 1 Pritana
+3 Pritana = 1 Chamu
+3 Chamu = 1 Anikini
+10 Anikini = 1 Akshauhini
+
+📊 Ek Akshauhini me hota hai:
+
+21,870 rath
+
+21,870 hathi
+
+65,610 ghode
+
+109,350 paidal sipahi
+
+Isi hisaab se
+Kaurav aur Pandav mil kar
+18 Akshauhini sena lekar
+Kurukshetra pahunch gaye.
+
+⏳ Yuddh ka samay
+
+Time (Kaal) ne hi sabko ek jagah laa kar rakha
+aur phir sabko nasht kar diya.
+
+Bhishma ne 10 din lada.
+
+Drona ne 5 din sena sambhali.
+
+Karna ne 2 din yuddh kiya.
+
+Shalya ne aadha din.
+
+Uske baad
+Duryodhana aur Bhima ka gada-yudh
+aadha din chala.
+
+Raat ke samay, jab Yudhishthir ki sena so rahi thi,
+Ashwatthama, Kripa, aur Kritavarma ne
+unhe nishastr aur sote hue mar dala."""
+            create_image_text_layout(text_content=text2, layout="full")
+                # Section 1.2.2
+        with st.expander("Section 1.2.2"):
+            text1 = """ 
+Sauti ne Saunaka aur sab rishiyon se kaha:
+
+“O Saunaka!
+Jo Mahabharata ki maha-katha tumhare yagna me ab shuru hui hai,
+ye pehle Janamejaya ke sarpa-yagna me bhi sunayi gayi thi.
+Vyasa ke shishya ne use poora sunaaya tha.”
+
+Ye granth kai parvon (sections) me banta hai.
+Isme rajaon ki kahani, unka veerta, unka dharma, sab kuch varnan hai.
+
+Ye granth itna gahra hai jaise Brahma-gyan ka marg.
+Jaise saari kathayen kisi na kisi jagah is granth se judi hoti hain,
+waise hi shareer ka bojh pair uthata hai.
+
+Mahabharata ko sab kavi isliye maante hain,
+kyunki jaise Vedas ke sab shabdon ka aadhar akshar hote hain,
+waise hi sab gyaan ka aadhar ye granth hai."""
+            create_image_text_layout("attached_assets/chapter1/1.2.2.jpg", text1, layout="side", image_position="left")
+
+            text2 = """ 
+📖 Mahabharata ke Parva (Simplified Hinglish List)
+
+Sauti bola:
+
+“Suno, O tapasviyon!
+Main tumhe Bharata ke saare parvaon ka saar batata hoon.”
+
+🔹 1. Anukramanika Parva
+
+Sampoorna granth ka prastavna.
+
+🔹 2. Sangraha Parva
+
+Saar-suchi. Pura granth kis tarah vibhajit hai.
+
+🔹 3–4. Paushya & Pauloma
+
+Prajapatis, rishis, rajon ki purani kahaniyan.
+
+🔹 5. Astika Parva
+
+Janamejaya ka sarpa-yagna, Astika ka nagon ko bachana.
+
+🔹 6. Adivamsavatarana
+
+Kuru vansh ka aarambh.
+
+🔹 7. Sambhava Parva
+
+Pandavon, Kauravon ka janm. Vishesh ghatnayein.
+
+🔹 8. Jatugriha-daha
+
+Lac-house ko jalaya jana; Pandavon ka bach kar nikalna.
+
+🔹 9. Hidimba-badha
+
+Bhima ka Hidimba rakshas ko marna.
+
+🔹 10. Baka-badha
+
+Bhima ka Baka rakshas ko marna.
+
+🔹 11. Citraratha
+
+Arjuna ki Chitraratha Gandharva se ladai.
+
+🔹 12. Swayamvara of Draupadi
+
+Arjuna ne Panchali ka swayamvara jeeta.
+
+🔹 13. Vaivahika
+
+Draupadi ka vivaah.
+
+🔹 14. Viduragamana
+
+Vidura ka Pandavo se milna.
+
+🔹 15. Rajyalabha
+
+Pandavon ko raj milna.
+
+🔹 16. Arjuna-banavasa
+
+Arjuna ka vanvaas.
+
+🔹 17. Subhadra-harana
+
+Arjuna ka Subhadra ko sthapaya le jaana.
+
+🔹 18. Haranaharika
+
+Arjuna ki yatraayein.
+
+🔹 19. Khandava-daha
+
+Arjuna aur Krishna ka Khandava-van jalana.
+Agni ka santusht hona.
+
+🔹 20. Maya-darsana
+
+Maya danav ka Sabha banana.
+
+🔹 21–24. Sabha, Mantra, Jarasandha, Digvijaya
+
+Pandavon ka sabha bhavan, Rajasuya ki tayari, Jarasandha ka vadh.
+
+🔹 25. Rajasuyaka
+
+Yudhishthir ka Rajasuya Yajna.
+
+🔹 26. Arghyaviharana
+
+Sisupala ka apmaan, Krishna ka rosh.
+
+🔹 27. Sisupala-badha
+
+Krishna dwara Sisupala ko marna.
+
+🔹 28–30. Dyuta, Anudyuta, Aranyaka
+
+Duryodhana ka dicing game, Pandavon ka banvaas.
+
+🔹 31. Krimira-badha
+
+Bhima ka rakshas Krimira ko marna.
+
+🔹 32. Arjuna-vigamana
+
+Arjuna ka tap aur dev-lok ki yatra.
+
+🔹 33. Kairati
+
+Arjuna ka Shiva se sangram; Pashupata astra prapti.
+
+🔹 34. Indra-loka-vigamana
+
+Arjuna ka Indra-lok me pravesh.
+
+🔹 35. Nalopakhyana
+
+Nala–Damayanti ki dukhad–pavitra kahani.
+
+🔹 36. Tirtha-yatra
+
+Yudhishthir ki teerth-yatra.
+
+🔹 37. Jatasura-vadha
+
+Bhima ka rakshas Jatasura ko marna.
+
+🔹 38. Yaksha-yuddha
+
+Pandavon ka Yaksha se samvad.
+
+🔹 39. Nivata-kavacha yuddha
+
+Arjuna ka dev-asur yuddha.
+
+🔹 40–41. Ajagara & Markandeya Samasya
+
+Bhima ka ajgar se mukti; Markandeya ke updesh.
+
+🔹 42. Draupadi–Satyabhama Samvad
+🔹 43. Ghosha-yatra
+
+Gandharvon ke dwara Duryodhana ka pakda jaana.
+
+🔹 44–50. Brihadaranyaka, Aindradrumna, Draupadi-harana, Jayadratha-mukti, Savitri, Rama-katha
+
+Vibhinn kathan aur upakhyan.
+
+🔹 51. Kundala-harana
+
+Karna ke kundalon ka adbhut varnan.
+
+🔹 52–55. Aranya, Virata, Agnyatvas, Kichaka-vadh
+
+Pandavon ka gupt vaas; Draupadi ke apmaan ka badla.
+
+🔹 56. Gai-uddhar
+
+Virat ki gaiyon ka uddhar; Arjuna ka pehchan khulna.
+
+🔹 57. Abhimanyu Vivaah
+🔹 58. Udyoga Parva
+
+Yuddh ki tayari.
+
+🔹 59–65. Sanjaya-yana, Prajagara, Sanatsujata, etc.
+
+Dhritarashtra ki raaton ki bechaini, gyaan ki baatein.
+
+🔹 66–75. Matali, Galava, Amba, Karnopakhyana, Senayatra
+
+Pehle ke kathan aur yuddh ki tayyari.
+
+🔹 76. Gita Parva
+
+Krishna ka Arjuna ko Gita updesh.
+
+🔹 77. Bhishma-vadha
+🔹 78. Drona Parva
+🔹 79. Sansaptaka-vadha
+🔹 80. Abhimanyu-vadha
+🔹 81. Arjuna ka pratigya (Jayadratha ka vadh)
+🔹 82. Ghatotkacha-vadha
+🔹 83. Drona-vadha
+🔹 84. Narayana-astra moksha
+🔹 85. Karna Parva
+🔹 86. Shalya Parva
+🔹 87. Duryodhana ka jal me chhupna aur gada-yuddha
+🔹 88–92. Sarasvata, Tirtha, Vanshavali, Sauptika, Aishika
+
+Raat ke paap karm, rishiyon ka gyaan.
+
+🔹 93. Jalapradana
+
+Mrito ko jal-daan.
+
+🔹 94. Stri Parva
+
+Streeon ka shok.
+
+🔹 95. Shraddha
+
+Pitron ke kriya–karma.
+
+🔹 96. Charvaka-vadha
+
+Jhoote brahmana bane rakshas ka vadh.
+
+🔹 97. Yudhishthira ka rajyabhishek
+🔹 98–101. Shanti, Rajadharma, Apaddharma, Mokshadharma
+
+Vyasa aur Bhishma ka ati-gahra gyaan.
+
+🔹 102–110. Suka-prashna, Durvasa-katha, Maya-samvad, Anushasan Parva
+
+Dharma ka vistaar.
+
+🔹 111. Bhishma ka swarg-gaman
+🔹 112. Ashvamedhika Parva
+🔹 113. Anugita
+🔹 114–116. Ashramavasa, Putr-darshan, Narada-agman
+🔹 117. Mausala Parva
+
+Yadavo ka vinash.
+
+🔹 118. Mahaprasthanika
+
+Pandavon ka antim yatra.
+
+🔹 119. Swargarohanika
+
+Pandavon ka swarg me pravesh.
+
+🔹 120. Khilvansa – Vishnu Parva & Bhavishya Parva
+
+Krishna leela, Kansa-vadh, aur bhavishya ki baatein.
+
+🌟 Ant me
+
+Vyasa ne in sab parvon ko 100 roopon me rachit kiya.
+Unme se 18 maha-parva banaye gaye.
+
+Sauti ne ye sab Naimisharanya me
+Saunaka ko krama se suna diya."""
+            create_image_text_layout(text_content=text2, layout="full")
+                # Section 1.2.3
+        with st.expander("Section 1.2.3"):
+            text1 = """ 
+Parva 1 (Adi Parva Ka Saar)
+
+(Paushya, Pauloma, Astika, Sambhava, etc.)
+
+Mahabharat ka Adi Parva bahut bada hai.
+Isme heroes ka janm, rishiyon ki kathayen, Pandav–Kaurav ki shuruaati kahani,
+aur Draupadi swayamvar tak sab kuch aata hai.
+
+Chalo ise simple Hinglish me samajhte hain:
+
+🌿 Paushya Parva
+
+Isme Utanka naam ke ek brahmin ki kahani hai.
+Utanka bahut tapasvi (austerity-loving) aur dharmic tha.
+Uski yatra aur uski shaktiyan batayi gayi hain.
+
+🔥 Pauloma Parva
+
+Isme Bhrigu Rishi ke vansh (lineage) ka varnan hai.
+Unke putron ke janm, unki tapasya (penance) aur unke gun bataye gaye hain.
+
+🐍 Astika Parva
+
+Bahut important!
+
+Is parva me:
+
+Garuda ka janm
+
+Nagon (snakes) ka janm
+
+Samudra-manthan (ocean-churning)
+
+Uchchaihshrava naam ka swargiya ghoda (divine horse) ka udgam
+
+Janamejaya ka Sarpa-yajna (snake sacrifice)
+
+Aur us samay Astika ne naagon ko bachaya
+
+Sab detail me aata hai.
+
+Aur yahi par Bharata Vansh ka shuruaati varnan milta hai."""
+            create_image_text_layout("attached_assets/chapter1/1.2.3.jpg", text1, layout="side", image_position="left")
+
+            text2 = """ 
+🌟 Sambhava Parva
+
+Yeh Adi Parva ka sabse bada hissa hai.
+
+Isme bataya gaya:
+
+🔹 Bahut saare rajaaon, dev-putron aur heroes ka janm:
+
+Danav (powerful demons)
+
+Yaksha (nature-spirits)
+
+Gandharva (celestial musicians)
+
+Serpents
+
+Pakshi (birds)
+
+Aur manav (humans)
+
+🔹 Krishna Dvaipayana Vyasa ka janm
+
+Woh hi Mahabharata ke rachayita (author) hain.
+
+👑 King Bharata ki Kahani
+
+Bharata, Shakuntala aur Dushyanta ka beta tha.
+Wahi Bharata, jiske naam par Bharat desh ka naam pada.
+
+Isme unka jeevan, tapasya, aur rajya ki badhi kathayen hain.
+
+🌊 Bhagirathi ki Mahima
+
+Ganga ji ka prithvi par aana — Bhagirath ki tapasya — yeh sab bataya gaya.
+
+⚔️ Bhisma ka Janm
+
+Vasus ke shraap se Bhishma ka janm hota hai.
+Woh apni pratigya (terrible vow) ke liye mashhoor hain —
+rajya, vivaah, sab chhodkar brahmacharya ka palan.
+
+Woh:
+
+Citrangada ko protect karte hain
+
+Fir Vicitravirya ko raja banate hain
+
+Aur rajya ko sthir rakhte hain
+
+👶 Dhritarashtra, Pandu aur Vidura ka Janm
+
+Vyasa ki kripa se ye teen janme:
+
+Dhritarashtra — andh
+
+Pandu — rang se peele
+
+Vidura — dharm-upj (born of Dharma)
+
+Phir Pandavon ka janm — Dharma, Vayu, Indra aur Ashvini kumaron ki kripa se.
+
+🔥 Lakshagriha (House of Lac) Khandan
+
+Duryodhan aur uske saathi Pandavon ko jala kar marna chahte the.
+Vidura ne raaste me “mleccha bhasha” (coded language) me chetavani di.
+
+Pandav gumnaam surang se bachkar nikal gaye,
+aur Purocana aur ek aurat aur uske 5 bachche waha jal gaye.
+
+🌲 Hidimba Encounter
+
+Jungle me Bhima ka Rakshas Hidimba se sangram hua.
+Bhima ne usse maara.
+Hidimba ki behen Hidimbi ne Bhima se vivah kiya.
+Unke bete ka naam hua Ghatotkacha.
+
+🏚 Ekachakra aur Vaka-vadha
+
+Pandav Ekachakra me ek brahmin ke ghar rahte hain.
+Waha Bhima ne bhayankari rakshas Vaka ko maara.
+
+👑 Krishna & Dhrishtadyumna ka Janm
+
+Panchal me Draupadi (Krishnaa) aur uske bhai Dhrishtadyumna ka divya janm hota hai.
+
+🏹 Pandav Panchala Ki Or
+
+Ek brahmin se Draupadi swayamvar ki khabar sunte hi Pandav wahin jaate hain.
+
+Raste me Arjun ka Gandharva Angaraparna se sangram hota hai.
+Fir usse mitrata hoti hai.
+Woh Arjun ko Tapati, Vasishtha aur Aurva ki kahani sunata hai.
+
+💍 Draupadi Swayamvar
+
+Arjuna ne nishana maar kar swayamvar jeeta.
+Bhima aur Arjuna ne dusre rajaon ko hara diya.
+Krishna aur Balarama ne pehchana ki yeh Pandav hi hain.
+
+Phir pottery-house me sab milte hain.
+
+Drupada pehle dukh karta hai ki Draupadi ko 5 pati milenge…
+Fir Rishi kahani batate hain ki paanch Indraon ka janm hua tha,
+aur Draupadi ka vivaah dev-iccha se paanchon se ordained tha.
+
+Draupadi ka divya vivaah hota hai.
+
+🏰 Khandavaprastha aur Rajvibhajan
+
+Pandavon ko aadha raj milta hai.
+Wahi par woh Indraprastha basate hain.
+
+Narada aate hain aur batate hain ki Draupadi ke saath turn-by-turn rehna chahiye.
+(Yeh unki maryada-bodh ke liye tha.)
+
+👫 Arjuna ka Vanvaas
+
+Ek din Arjuna ne astra lene ke liye Draupadi–Yudhishthira ko saath dekha.
+Vachan ke hisaab se Arjuna ko vanvaas jaana pada.
+
+🐍 Ulupi aur Vabhruvahana
+
+Vanvaas me Arjuna ki mulakat Naga-kanya Ulupi se hoti hai.
+Unse ek putra hota hai – Vabhruvahana.
+
+Arjuna paanch apsaraon ko bhi bachata hai jo shraap se magar (alligators) ban gayi thi.
+
+🛕 Subhadra-Harana
+
+Prabhasa tirth me Arjun Krishna se milta hai.
+Krishna use apni behen Subhadra ko le jaane ko kehte hain.
+Arjun unhe divya rath me le jata hai –
+jo jal, zameen aur hawa sab me chal sakta tha.
+
+Indraprastha lautkar Subhadra se Abhimanyu ka janm hota hai.
+
+🌳 Khandava-daha (Forest Burning)
+
+Arjuna aur Krishna ne ek saath Khandava van jala diya
+taaki Agni dev santusht ho sake.
+
+Agni ki ichha thi ki “koi rok na sake”,
+toh Arjun–Krishna ne sab dev–asuras ko rok diya
+aur van jal gaya.
+
+Yahin se Gandiva, chariot, chakra jaise divya uphar milte hain.
+
+🏛 Maya Danav ka Bachna
+
+Eklauta bachne wala Asura Maya Arjun ka upkaar maanta hai.
+Wahi baad me Pandavon ke liye Mayasabha banata hai –
+jo Duryodhan ke liye sabse bada psychological shock ban gayi.
+
+🕊 Mandapala aur Pakshi-katha
+
+Ant me Mandapala rishi pakshi (bird) Stree Sarangi ke garbh se putra paida karte hain.
+
+📘 Adi Parva ki Total Rachna
+
+Vyasa ne ise 227 adhyay me bataya hai.
+Total 8,884 shlok hain."""
+            create_image_text_layout(text_content=text2, layout="full")
+                # Section 1.2.4
+        with st.expander("Section 1.2.4"):
+            text1 = """ 
+Parva 2 (Sabha Parva ka Saar)
+
+Sabha Parva Mahabharat ka doosra bada parva hai.
+Isme Pandavon ki rajya ki shaan, Rajasuya yagna,
+Jarasandh ka vad,
+aur sabse dardnaak —
+dyut-krida (dice game) ka varnan hai.
+
+Chalo ise kahani ki tarah samajhte hain:
+
+🏛 Pandavon ka Maha-Sabha (Grand Hall)
+
+Pandav apne naye rajya Indraprastha me ek divya sabha (assembly hall) banwate hain.
+Yeh sabha Maya Danav, jo Khandav-dahan me bach gaya tha, banata hai.
+Sabha me aise bhram, darpan aur alaukik designs thay
+ki sab rajasamast log hairaan reh jaate the.
+
+👥 Retainers ka Review
+
+Iske baad Pandav apne logon, sainyo, mantriyon, aur purohiton ka review karte hain.
+Ye ek rakshya-sajjata (security and organization) ka kaam tha.
+
+🔱 Narada ka Aagaman – Lokpalo ka Varnan
+
+Ek din Devarshi Narada aate hain.
+Woh devlok ke alaukik sthanon ka varnan karte hain:
+
+Indra ka sabha
+
+Yama ka rajya
+
+Varuna ka jal-mahal
+
+Kubera ka dhan-rajya
+
+Narada batate hain ki Pandavon ki sabha bhi in sab ki tarah tejomayi (radiant) hai."""
+            create_image_text_layout("attached_assets/chapter1/1.2.4.jpg", text1, layout="side", image_position="left")
+
+            text2 = """ 
+🔥 Rajasuya Yagna ki Taiyari
+
+Yudhishthir Maharaj ko Rajasuya Yagna karna hai —
+yeh ek sarvabhaum samrat (emperor) banne ka ritual hai.
+
+Iske liye:
+
+sab rajaon ka sammati
+
+shatruon ka vinash
+
+aur prithvi par shanti chahiye
+
+Sabse bada badha tha:
+
+⚔️ Jarasandh-Vadh
+
+Magadh ka raja Jarasandh bahut balshali tha.
+Woh bahut se rajaon ko pahadon me band karke rakhta tha.
+
+Krishna, Arjuna aur Bhima,
+Brahmin ke roop me jaakar use sangram ke liye ubhalte hain.
+
+Bhima aur Jarasandh ke beech 14 din ka kushti-yuddh hota hai.
+Ant me Krishna ke sanket se
+Bhima use beech se phaadkar maar deta hai.
+
+⛰ Bandhi Hue Rajo Ki Chhutkaara
+
+Jarasandh ke marne par sab band rajaon ko azaadi milti hai.
+Vasudev Krishna un sab rajao ko nikal kar bahar laate hain.
+Sab Yudhishthir ko Rajasuya me sahyog dene ka vachan dete hain.
+
+🌍 Pandavon ka Digvijay – World Conquest Campaign
+
+Rajasuya se pehle sare dishaon me vijay chahiye:
+
+Bhima dakshin (South) me jayate hain
+
+Arjuna north aur west me vijay karte hain
+
+Sahadeva dakshin-purva (SE)
+
+Nakula uttar-purva (NE)
+
+Sab raja haar kar ya maan kar Yudhishthir ko samraat swikar karte hain.
+
+🎁 Tribute ka Aagaman
+
+Rajasuya ke din duniya bhar ke raja aur maharaaj
+apne-apne uphaar (tribute) lekar aate hain —
+sona, ratna, godhuli, gaj, ashw, sab kuch.
+
+⚡ Sisupala ka Vad
+
+Arghya (respect offering) Krishna ko diya jaata hai.
+Sisupal is par guse me Krishna ko gaaliyan deta hai.
+100 galtiyon ka vardaan usse mila tha.
+Jab 100 poori hoti hain,
+Krishna ka Sudarshan Chakra uska sar udd deta hai.
+
+Rajasuya yagna ka sabse bada kshan hota hai yeh.
+
+😡 Bhima ki Mazak, Duryodhan ka Irsha (envy)
+
+Sabha bhavan me ek optical illusion hota hai:
+jahan pani lagta hai waha zameen hoti hai
+aur jahan zameen lagti hai waha pani hota hai.
+
+Duryodhan do jagah galti karta hai:
+
+zameen ko samajhkar “paani” me kadam rakhta hai
+
+paani samajhkar “zameen” par muh ke bal girta hai
+
+Sab raja hans dete hain.
+Bhima mazak udaata hai.
+Duryodhan ka dil jalan aur irsha se bhar jata hai.
+
+🎲 Dyut-krida (Game of Dice)
+
+Apmaan se bhara hua Duryodhan Shakuni mama ke saath
+Yudhishthir ko dice game ke liye bulata hai.
+
+Shakuni apne jaadu bhare pasa se sab kuch jeet leta hai:
+
+rajya
+
+dhan
+
+apne bhai
+
+khud Yudhishthir
+
+aur ant me Draupadi bhi
+
+Draupadi ko sabha me kheechkar laane ka anuchit (improper) kary hota hai.
+
+🕊 Draupadi ka Udhar – Dhritarashtra ka Intervention
+
+Draupadi sabha me prashna karti hai:
+“Jab Yudhishthir ne khud ko hi haar diya tha,
+toh woh mujhe kaise daav pe rakh sakte hain?”
+
+Iss nyay-vachan se sabh hil jaate hain.
+Dhritarashtra Draupadi ko var deta hai:
+
+Pandavo ko mukti
+
+rajya vaapas
+
+aur sab dhan-vaibhav lautaya jaata hai
+
+🎲 Second Dice Game & Exile
+
+Duryodhan phir se Yudhishthir ko doosre khel ke liye majboor karta hai.
+Is baar shart hoti hai:
+
+➡️ Pandav 12 saal vanvaas + 1 saal agyatvas (incognito exile)
+
+Shakuni phir jeet jata hai.
+Pandav vanvaas chalte hain.
+
+📘 Sabha Parva ki Rachna
+
+Total sections: 78
+
+Total shlok: 2,507
+
+Yeh parva Mahabharat ka sabse political aur emotional parva hai —
+jisme shaan bhi hai, aur patan (downfall) ki shuruaat bhi."""
+            create_image_text_layout(text_content=text2, layout="full")
+                # Section 1.2.5
+        with st.expander("Section 1.2.5"):
+            text1 = """ 
+🌳 Parva 3 – Aranyaka Parva (Forest Parva)
+
+Pandavon ka 12 saal ka Vanvaas + 1 saal ka Agyatvaas ka safar
+Ye Mahabharat ka sabse bada, sabse lamba, aur sabse kahaniyon se bhara parva hai.
+
+Chalo ise simple Hinglish kahani ki tarah samajh lete hain.
+
+🚶‍♂️ Pandavon ka Vanvaas Shuru
+
+Dyut-krida me haarne ke baad Yudhishthir sabse pehle Indraprastha ke nagar-vaasiyon ko shant karte hain,
+aur phir sab bhaiyon aur Draupadi ke saath vanvaas chal padte hain.
+
+Dhaumya Rishi unhe mantra aur upaay batate hain ki
+kaise van me bhi Brahmano ko bhojan dene ki shakti mile.
+Surya-dev prakat hoke Yudhishthir ko Akshay Patra dete hain—
+jis se anant bhojan milta hai.
+
+🏰 Vidura Ka Nirvasan Aur Wapas Lautna
+
+Dhritarashtra, Duryodhan ke dabav me aakar Vidura ko ghar se nikal deta hai.
+Vidura Pandavo se milne aata hai.
+Unke dukh dekh kar fir Dhritarashtra ke bulane par wapas laut jaata hai."""
+            create_image_text_layout("attached_assets/chapter1/1.2.5.jpg", text1, layout="side", image_position="left")
+
+            text2 = """ 
+🔥 Duryodhan ki Jalti Irsya – Pandavo ko Marne ki Sazish
+
+Karna Duryodhan ko uksata hai ki
+“Van me Pandavo ko maar denge.”
+Vyasa Rishi aa kar use rok dete hain.
+
+🐄 Surabhi Ki Kahani – Maitreya Ka Shraap
+
+Maitreya Rishi aakar Dhritarashtra ko sadbuddhi ki salah dete hain.
+Duryodhan unka apmaan karta hai.
+Maitreya use shraap dete hain:
+“Bhima ke gada prahar se tera jangha tootegi.”
+
+⚔️ Bhima vs Kirmira
+
+Forest me rakshas Kirmira Pandavo ko rokta hai.
+Bhima use maar girata hai.
+
+👑 Krishna, Panchal & Vrishni Princes ka Aagaman
+
+Pandavo ki haalat sun kar:
+
+Krishna
+
+Panchal ke raja
+
+Vrishni ke rath
+sab van me aate hain.
+
+Draupadi Krishna ke saamne dukh jahir karti hai.
+Krishna use dhairya dete hain.
+
+🌳 Dwaita Van Me Pravesh
+
+Pandav Dvaita Forest pahunchte hain.
+Yahaan unki baatein, dukh-sukh, aur jeevan ka safar shuru hota hai.
+
+Vyasa aakar Yudhishthir ko Pratismriti ki shakti dete hain
+(jisse woh saari cheezein turant yaad kar sakein).
+
+Phir sab Kamyaka Forest me shift ho jaate hain.
+
+🎯 Arjuna ki Weapon-Tapashcharya Yatra
+
+Arjuna akela dev-astra prapt karne chala jaata hai.
+
+Mahadev se bhent — hunter ke roop me
+Arjuna unse ladta hai, phir unhe pehchan leta hai.
+Shiva usse Pashupatastra deta hai.
+
+Lokpala (Indra, Varuna, Yama, Kubera) se astra praapt
+
+Swarg yatra – Indra ke paas shastra seekhne
+Dhritarashtra ise sunkar dukhi hota hai ki van me bina Arjuna ke Pandav kamzor hain.
+
+📖 Nala-Damayanti ki Kahani
+
+Brihadasva Rishi Yudhishthir ko milte hain.
+Unhe shant karne ke liye woh Nala aur Damayanti ki dardnaak aur sundar kahani sunate hain.
+Isse Yudhishthir ko dice ka secret bhi samajhta hai.
+
+🌍 Teerth-Yatra of Pandavas
+
+Rishi Lomasha aate hain aur batate hain ki
+Arjuna swarg me surakshit hai.
+Phir Pandav teerth-yatra par nikal padte hain:
+
+Pushkara
+
+Prayag
+
+Ganga-sagar
+
+Himachal
+
+Sarasvati
+
+Gaya
+
+Naimisharanya
+
+aur anek pavitra sthaan
+
+Is yatra me bahut purani kahaniyan sunai jaati hain:
+
+Agastya aur Vatapi
+
+Rishyashringa
+
+Parashurama aur Kartavirya
+
+Cyavana Rishi
+
+Mandhata
+
+Somaka aur Jantu
+
+Sivi Raja
+
+Ashtavakra aur Vandi
+
+Yavakrita
+
+Raivya
+
+Sab kahaniyan dharma aur jivan ke rahasya batati hain.
+
+🐒 Bhima & Hanuman ka Mahamilan
+
+Draupadi ko ek saugandhik phool chahiye.
+Bhima uski khoj me Gandhamadana Parvat chadh jaata hai.
+
+Raste me:
+
+Banana grove
+
+Bhayanak van
+
+Yaksha aur Rakshas
+
+Jata Rakshas ka vad
+
+Aur sabse bada kshan:
+
+👉 Hanuman se milan (Bhima ka bada bhai)
+
+Hanuman Bhima ko apna roop dikhata hai
+aur unhe bal, maryada aur dhairya ki shiksha deta hai.
+
+🏔 Kubera ka Darbar & Arjuna’s Return
+
+Pandav Kubera ke van me pahunchte hain.
+Arjuna bhi swarg se vaapas aata hai
+aur apne divya-astra Yudhishthir ko dikhata hai.
+
+Narada unhe rok dete hain ki
+“Ye shastra be-wajah mat chalao.”
+
+🐍 Bhima aur Ajeeb Vishal Sarpa
+
+Ek din van me Bhima ko ek maha-saamp jakad leta hai.
+Yudhishthir us serpent ke prashna ka sahi uttar dekar
+Bhima ko chhudata hai.
+Woh saamp ek shraapit raja tha —
+Yudhishthir ke dharma-bodh se mukt ho jaata hai.
+
+🪵 Kamyaka Wapas, Markandeya ki Kahaniyan
+
+Krishna van me aate hain.
+Rishi Markandeya bhi aate hain
+aur bahut divya kathayen sunate hain:
+
+Prithu Raja
+
+Sarasvati
+
+Dhundhumara
+
+Chaste wife ki kahani
+
+Angira
+
+Satyabhama-Draupadi ka samvad
+
+🐄 Duryodhan ka Bandhan
+
+Ek baar Duryodhan gau-dekhne jaata hai
+aur Gandharvon se ladkar bandi ban jaata hai.
+
+Arjuna use bacha kar laata hai
+(halaanki Duryodhan Pandavo se hamesha dvesh rakhta hai).
+
+🦌 Yudhishthir ka Hiran-Swapna
+
+Ek divya swapna me Yudhishthir ko
+ek mriga (deer) ka sandesh milta hai
+aur kaafi adhyaatmik baatein hoti hain.
+
+🔥 Jayadratha Dwara Draupadi ka Apaharan
+
+Jayadratha Draupadi ko van se utha le jaata hai.
+Bhima piche daudta hai,
+uske sena ko tod deta hai,
+aur Jayadratha ko zinda chhodkar
+“aadha sir mundan” ki saza deta hai.
+
+🏹 Ramayana ki Kahani (Rama-Ravana Yuddh)
+
+Vana Parva me Ramayana ka saar bhi diya gaya hai—
+kis tarah Rama ne Ravana ko maara.
+
+💠 Karna ka Kundal-Aabhushan Hara Jana
+
+Indra bhiksha ke roop me aakar
+Karna ke kundal aur kavach maang lete hain.
+Karna deta hai.
+Badle me Indra ek Shakti astra deta hai,
+jo sirf ek baar kisi ko maar sakta hai.
+
+⚖️ Dharma Raj ka Upadesh
+
+Ek lambi kathaa me Dharma Dev
+Yudhishthir ko jeevan ke niyam sikhate hain.
+Pandav uske baad west ki aur chalte hain.
+
+📘 Aranyaka Parva ke Details
+
+Total sections: 269
+
+Total shlokas: 11,664
+
+Yeh Mahabharat ka sabse bada kahani-parva hai
+jisme darshan, dharma, yatra, dev-astra,
+aur katha-sagar sab hai."""
+            create_image_text_layout(text_content=text2, layout="full")
+                # Section 1.2.1
+        with st.expander("Section 1.2.6"):
+            text1 = """ """
+            create_image_text_layout("attached_assets/chapter1/1.2.6.jpg", text1, layout="side", image_position="left")
+
+            text2 = """ """
+            create_image_text_layout(text_content=text2, layout="full")
+                # Section 1.2.1
+        with st.expander("Section 1.2.7"):
+            text1 = """ """
+            create_image_text_layout("attached_assets/chapter1/1.2.7.jpg", text1, layout="side", image_position="left")
+
+            text2 = """ """
+            create_image_text_layout(text_content=text2, layout="full")
+                # Section 1.2.1
+        with st.expander("Section 1.2.8"):
+            text1 = """ """
+            create_image_text_layout("attached_assets/chapter1/1.2.8.jpg", text1, layout="side", image_position="left")
+
+            text2 = """ """
+            create_image_text_layout(text_content=text2, layout="full")
+                # Section 1.2.1
+        with st.expander("Section 1.2.9"):
+            text1 = """ """
+            create_image_text_layout("attached_assets/chapter1/1.2.10.jpg", text1, layout="side", image_position="left")
+
+            text2 = """ """
+            create_image_text_layout(text_content=text2, layout="full")
+                # Section 1.2.1
+        with st.expander("Section 1.2.11"):
+            text1 = """ """
+            create_image_text_layout("attached_assets/chapter1/1.2.11.jpg", text1, layout="side", image_position="left")
+
+            text2 = """ """
+            create_image_text_layout(text_content=text2, layout="full")
+                # Section 1.2.1
+        with st.expander("Section 1.2.12"):
+            text1 = """ """
+            create_image_text_layout("attached_assets/chapter1/1.2.12.jpg", text1, layout="side", image_position="left")
+
+            text2 = """ """
+            create_image_text_layout(text_content=text2, layout="full")
+                # Section 1.2.1
+        with st.expander("Section 1.2.13"):
+            text1 = """ """
+            create_image_text_layout("attached_assets/chapter1/1.2.13.jpg", text1, layout="side", image_position="left")
+
+            text2 = """ """
+            create_image_text_layout(text_content=text2, layout="full")
+                # Section 1.2.1
+        with st.expander("Section 1.2.14"):
+            text1 = """ """
+            create_image_text_layout("attached_assets/chapter1/1.2.14.jpg", text1, layout="side", image_position="left")
+
+            text2 = """ """
+            create_image_text_layout(text_content=text2, layout="full")
+                # Section 1.2.1
+        with st.expander("Section 1.2.15"):
+            text1 = """ """
+            create_image_text_layout("attached_assets/chapter1/1.2.15.jpg", text1, layout="side", image_position="left")
+
+            text2 = """ """
+            create_image_text_layout(text_content=text2, layout="full")
+                # Section 1.2.1
+        with st.expander("Section 1.2.16"):
+            text1 = """ """
+            create_image_text_layout("attached_assets/chapter1/1.2.16.jpg", text1, layout="side", image_position="left")
 
             text2 = """ """
             create_image_text_layout(text_content=text2, layout="full")
