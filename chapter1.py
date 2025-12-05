@@ -1811,40 +1811,427 @@ Yeh Mahabharat ka sabse bada kahani-parva hai
 jisme darshan, dharma, yatra, dev-astra,
 aur katha-sagar sab hai."""
             create_image_text_layout(text_content=text2, layout="full")
-                # Section 1.2.1
+                # Section 1.2.6
         with st.expander("Section 1.2.6"):
-            text1 = """ """
+            text1 = """ 
+Parva 4: 
+⭐ Virata Parva — Hinglish Kahani Summary
+
+Pandav log exile ke last saal mein Virata kingdom pahunchte. City ke bahar ek purana shami ka ped tha, jisme unhone apne weapons chhupa diye, taki koi unhe pehchaan na sake.
+Phir sab ne disguise le liya—kisiko cook ban-na, kisiko teacher, kisiko dancer, sabne alag-alag role liya aur Virata ki rajdhani mein chupkar rehne lage.
+
+⭐ Bhima aur Kichaka
+
+Rani Draupadi par ek wicked aadmi Kichaka buri nazar daalne laga.
+Bhima ko bohot gussa aaya aur usne Kichaka ko raakshas ki tarah maar giraya. Rani ko bacha liya.
+
+⭐ Spies Everywhere
+
+Duryodhan ko lagta tha Pandav yahi kahin hain.
+Usne har taraf spies bhej diye, par koi Pandav ko dhoond nahi paaya. Unka disguise itna solid tha!
+
+⭐ Trigarta Attack
+
+Ek din, Trigarta logon ne Virata ke gai-bail (kine) chura liye.
+Virata bhi pakda gaya, par Bhima ne jaake usse chhuda liya aur poora dushman sena ko hara diya.
+
+⭐ Kauravas ka Attack
+
+Baad mein Kaurav log ne bhi Virata ki gaayein chura li.
+Is baar Arjun ne apna disguise chhod kar brave warrior ban kar sab Kurus ko akela hi hara diya.
+Virata ki saari gaayein waapas mil gayi.
+
+⭐ Uttara ka Vivaah Proposal
+
+King Virata bohot khush hua.
+Usne apni beti Uttara ko Arjun ko dena chaha, par Arjun ne bola:
+“Main toh uska guru jaisa hoon. Par uska vivaah mere bete Abhimanyu se ho sakta hai.”
+
+Is tarah Virata Parva khatam hota hai—Pandav apna gupt-vaas safal kar lete hain, koi unhe pakad nahi paata, aur Virata unka loyal dost ban jaata hai."""
             create_image_text_layout("attached_assets/chapter1/1.2.6.jpg", text1, layout="side", image_position="left")
 
-            text2 = """ """
-            create_image_text_layout(text_content=text2, layout="full")
-                # Section 1.2.1
+                # Section 1.2.7
         with st.expander("Section 1.2.7"):
-            text1 = """ """
+            text1 = """ 
+Parva 5: 
+⭐ Udyoga Parva — Hinglish Kahani Summary
+
+Pandav log Upaplavya naam ke jagah par reh rahe the, aur unhe pata tha ki ab war almost tay hai.
+Duryodhan aur Arjun ek hi samay Krishna ke paas gaye. Dono ne bola:
+
+“Humari help karo!”
+
+⭐ Krishna ka Offer
+
+Krishna ne muskura kar bola:
+
+“Mere paas do cheezein hain —
+1️⃣ Ek Akshauhini sena
+2️⃣ Main khud… par main war mein ladunga nahi.”
+
+Duryodhan ne bina soche-vichare poori sena chaan li.
+
+Arjun ne shanti se kaha:
+“Main aapko chunta hoon, chahe aap na ladho.”
+
+Is tarah Krishna Arjun ke saath ho gaye.
+
+⭐ Shalya ka Confusion
+
+Madra ka Raja Shalya Pandavon ki help ko aa raha tha.
+Raaste mein Duryodhan ne usko bahut gifts aur hospitality di.
+Shalya ne khush hokar ek boon de diya… aur Duryodhan ne turant bola:"""
             create_image_text_layout("attached_assets/chapter1/1.2.7.jpg", text1, layout="side", image_position="left")
 
-            text2 = """ """
+            text2 = """ 
+“Mere liye war mein ladho!”
+
+Majboori mein Shalya ne haan kehdi,
+par baad mein Pandavon ko aakar unhe console kiya.
+
+⭐ Peace Talks Begin
+
+Pandavon ne apna purohit Kaurav court bheja — shanti ke liye.
+
+Dhritarashtra ne uski baatein suni, par wo bohot tension mein aa gaya.
+Uski neend ud gayi.
+Tab Vidur ne usko wise advice di.
+Phir Sanat-Sujata ne deep spiritual wisdom bataya, taaki Dhritarashtra ka fear kam ho jaye.
+
+Next day, Sanjaya ne court mein Krishna aur Arjun ki divya unity ka secret bataya.
+
+⭐ Krishna Goes for Peace
+
+Krishna khud Hastinapur gaye—
+“Chalo, peace karte hain.”
+
+Lekin Duryodhan ne inkaar kar diya.
+Na woh 5 gaon dene ko tayar tha, na ek zameen jitni soyi ki nok.
+
+Shanti ki har koshish fail ho gayi.
+
+⭐ Stories & Teachings
+
+Is Parva mein Krishna ne rajaon ke saamne apni yogmaya dikhayi — sabko pata chal gaya ki woh koi aam aadmi nahi.
+
+Krishna ne Karna ko alag se milkar samjhaya:
+
+“Tum Pandavon ke bhai ho… sahi rasta chuno.”
+
+Par Karna ne ahankaar me mana kar diya.
+
+⭐ War is Now Certain
+
+Krishna Pandavon ke paas laut kar sab kuch batate hain.
+Pandav sun kar tay kar lete hain:
+“Ab war hi antim raasta hai.”
+
+⭐ Armies March Out
+
+Dono taraf ki sena —
+foot soldiers, horses, elephants aur chariots —
+sab battlefield ki taraf chal padti hain.
+
+Duryodhan apna messenger Uluka bhejta hai, jo Pandavon ko dhamki/ message deta hai.
+
+Yahan Amba ki kahani bhi aati hai, jisse future mein Bhishma ka vinash jude hota hai."""
             create_image_text_layout(text_content=text2, layout="full")
-                # Section 1.2.1
+                # Section 1.2.8
         with st.expander("Section 1.2.8"):
-            text1 = """ """
+            text1 = """ 
+Parva: 6:
+⭐ Bhishma Parva — Hinglish Kahani Summary
+
+Mahabharat ka asli maha-yudh isi Parva se shuru hota hai.
+Dono senae—Kaurav aur Pandav—maidan mein khadi hoti hain.
+Aur Sanjaya, apni divya drishti se, Dhritarashtra ko sab kuch live batata hai.
+
+⭐ Jambu Dweep ka Varṇan
+
+Sabse pehle Sanjaya Jambu-dweep ka formation batata hai—
+jaise dharti ka ek magical map ho.
+
+⭐ Arjun ka Dil Tootna
+
+War shuru hone waala hota hai, tab Arjun apne rishtedaaron ko saamne dekh kar dukhi ho jata hai.
+
+Woh bow neeche rakh deta hai:
+
+“Main apne guru, dada, chacha… kisi ko nahi maar sakta.”
+
+Krishna usse Geeta ka gyaan dete hain—
+atma, kartavya, aur moksha ke baare mein.
+Arjun fir se strong feel karta hai."""
             create_image_text_layout("attached_assets/chapter1/1.2.8.jpg", text1, layout="side", image_position="left")
 
-            text2 = """ """
+            text2 = """ 
+⭐ 10 Din ka Bhayankar Yudh
+
+Bhishma Pitamah Kaurav sena ke commander hain.
+Unki leadership mein Pandavon par bhari nuksaan hota hai.
+Yudh 10 din tak ekdum fierce rehta hai.
+
+Yudhishthir bohot udaas ho jate hain,
+aur Krishna Pandavon ki chinta dekh kar khud patience lose kar dete hain!
+
+⭐ Krishna Ka Krodh
+
+Ek din Krishna dekhte hain ki Bhishma sabko maar rahe hain,
+toh woh apna promise todne ki soch lete hain.
+
+Woh chariot se kud kar, whip haath mein lekar seedha Bhishma ki taraf daudte hain:
+
+“Aaj main khud Bhishma ko maar dunga!”
+
+Arjun shock ho jata hai aur Krishna ko rok leta hai.
+
+⭐ Bhishma Ko Girane Ka Tareeka
+
+Bhishma ne promise diya tha ki woh aurat ya eunuch par hath nahi uthaayenge.
+Isliye Arjun Shikhandi ko apne chariot ke saamne khada karta hai.
+
+Bhishma Shikhandi ko dekh kar apne hathiyaar neeche kar dete hain.
+Tab Arjun tezi se tez-tez arrows chalata hai.
+
+Arrows ka varsha Bhishma ko tod deta hai.
+Unka poora sharir teeron ki shayya par gir jata hai.
+
+Bhishma kehte hain:
+
+“Aaj mera ghoshit vidhata aa gaya.”
+
+⭐ Bhishma on the Bed of Arrows
+
+Bhishma zameen ko touch nahi karte—
+poora sharir arrows par tikka hota hai.
+Yeh scene Mahabharat ka sabse emotional scene mana jata hai.
+
+Pandav aur Kaurav dono unke paas aate hain.
+Woh mrityu ka samay aane tak wahin tik kar rahte hain."""
             create_image_text_layout(text_content=text2, layout="full")
-                # Section 1.2.1
+                # Section 1.2.9
         with st.expander("Section 1.2.9"):
-            text1 = """ """
+            text1 = """ 
+Parva 7: 
+⭐ Drona Parva — Hinglish Kahani Summary
+
+Bhishma ke girte hi, Dronacharya ko Kaurav sena ka commander banaya jata hai.
+Sab log jaante hain ki Drona ek mahaan guru hain—
+aur ab unka ek hi sankalp hai:
+
+“Main Yudhishthir ko pakad kar Duryodhana ko dunga.”
+
+Is vow ke saath yudh aur bhi khatarnak ho jata hai.
+
+⭐ Sansaptakon ka Attack & Arjun ka Door Jaana
+
+Ek special group hota hai—Sansaptak—
+jo kasam kha kar ladte hain ki woh Arjun ko rokenge.
+
+Arjun ko unse ladna padta hai,
+isliye woh main battlefield se door chala jata hai.
+
+Drona is moment ko use karte hain Yudhishthir ko pakadne ke liye—
+lekin Pandav sena milkar unka plan fail kar deti hai."""
             create_image_text_layout("attached_assets/chapter1/1.2.10.jpg", text1, layout="side", image_position="left")
 
-            text2 = """ """
-            create_image_text_layout(text_content=text2, layout="full")
-                # Section 1.2.1
-        with st.expander("Section 1.2.11"):
-            text1 = """ """
-            create_image_text_layout("attached_assets/chapter1/1.2.11.jpg", text1, layout="side", image_position="left")
+            text2 = """ 
+⭐ Bhagadatta & Hathi Supratika
 
-            text2 = """ """
+Phir aate hain Bhagadatta,
+jo apne giant hathi Supratika par baith kar ladte hain—
+bilkul dusre Indra ki tarah.
+
+Arjun unhe rokta hai
+aur ek tezz arrow se Bhagadatta aur hathi, dono ko gira deta hai.
+
+⭐ Abhimanyu ka Shaurya… aur Shaheed Hone Ki Kahani
+
+Is Parva ka sabse dardnaak hissa—
+Abhimanyu, Arjun ka naujawaan beta.
+
+Woh Chakravyuh me shandar tareeke se ghusta hai,
+lekin usse bahar nikalna nahi aata.
+
+Aur sab Kaurav Maharathi
+—Drona, Karna, Dushasan, Kripacharya, Jayadratha—
+milkar ek akela teenager ko maar dete hain.
+
+Abhimanyu gir jata hai…
+aur Pandavon ke dil toot jate hain.
+
+⭐ Arjun ka Gussa – 7 Akshauhini Sena Ka Sanhaar
+
+Jab Arjun ko pata chalta hai
+ki uske bete ko aniyay se maara gaya,
+toh woh kasam khata hai:
+
+“Kal suraj dhalne se pehle, main Jayadratha ko maar dunga.”
+
+Us gusse mein Arjun 7 Akshauhini sena tak mita deta hai!
+
+Aur ant mein, Krishna ki madad se,
+woh Jayadratha ko maar deta hai.
+
+⭐ Bhima & Satyaki ka Rukna Mushkil
+
+Yudhishthir chinta mein pad jata hai ki
+'Arjun kab laut kar aaega?'
+
+Toh Bhima aur Satyaki dono
+Kaurav sena ko cheer kar
+Arjun ko dhoondne jaate hain.
+
+Dono ek army ke barabar ladte hain
+aur Sansaptak jiski chingari bhi baaki thi—sab ko khatam kar dete hain.
+
+⭐ Bade Warriors Ki Maut
+
+Is Parva mein bohot saare mahaan yoddha girte hain:
+
+Virata
+
+Drupada
+
+Ghatotkacha (Bhim ka beta)
+
+Alambusha
+
+Srutayus, Jalasandha, Shomadatta
+
+Ghatotkacha ki maut bhi bohot emotional hoti hai.
+Uske marne se Karna apna Indra ka divya astra bekar hi use kar deta hai—
+jo baad mein Arjun ko bachata hai.
+
+⭐ Ashwatthama ka Krodh & Narayan Astra
+
+Jab Ashwatthama ko pata chalta hai
+ki uske pita Drona maar diye gaye,
+toh woh gusse se pagal ho jata hai.
+
+Woh chala deta hai
+Narayana Astra—
+ek aisa divine weapon jo pura sena jala sakta tha.
+
+Krishna sabko samjhate hain:
+
+“Jo apne hathiyaar chod de aur shant ho jaye, usse yeh astra nahi marega.”
+
+Pandav bach jate hain.
+
+⭐ Vyasa ka Gyaan & Krishna–Arjun ki Mahima
+
+Ant mein Rishi Vyasa aate hain
+aur Krishna aur Arjun ki mahima batate hain—
+ki kaise dono milkar dharma ki raksha kar rahe hain."""
+            create_image_text_layout(text_content=text2, layout="full")
+                # Section 1.2.10
+        with st.expander("Section 1.2.10"):
+            text1 = """ 
+Parva: 8: 
+⭐ Karna Parva — Hinglish Kahani (Simple & Emotional)
+
+Yudhishthir aur Arjun ka gussa ab charam par tha,
+aur Drona ki maut ke baad
+Karna ko Kaurav sena ka commander banaya gaya.
+
+Uska sarathi banaya gaya Shalya,
+jo Madra ka gyani aur chalak raja tha—
+par dil se woh Karna ka saath nahi deta tha.
+
+⭐ Karna & Shalya Ki Tana-Mari
+
+Yudh ke pehle din hi,
+Karna aur Shalya ek–dusre ko
+teekhe shabd bolte hain.
+
+Shalya baar-baar Karna ka mazaak udata hai—
+kabhi uski jaati ko lekar,
+kabhi uski skills ko lekar.
+
+Aur iss beech woh ek chhotti si kahani sunata hai
+hansh aur kauve ki—
+jisme Karna ko indirectly “kauva” bataya jata hai.
+Karna yeh sab chup-chaap सहता hai,
+par uska gussa badhta jata hai."""
+            create_image_text_layout("attached_assets/chapter1/1.2.10.jpg", text1, layout="side", image_position="left")
+
+            text2 = """ 
+⭐ Yudh Ka Aagaz
+
+Asvatthaman kuch bade yoddha maar deta hai:
+
+Pandya
+
+Dandasena
+
+Darda
+
+Battlefield garam hota jata hai,
+aur ab aati hai sabse bade takraar.
+
+⭐ Karna vs Yudhishthir — Ek Khatarnaak Moment
+
+Yudhishthir, jo shant aur dharmic the,
+Karna ke saamne khade ho jate hain.
+
+Karna ka teer itna tezz hota hai ki
+Yudhishthir ka jeevan khatre mein aa jata hai.
+Sab yoddha dar jaate hain.
+
+Par kisi tarah woh bach jaate hain.
+
+Lekin iske baad
+Arjun aur Yudhishthir ke beech gussa phoot padta hai,
+kyunki Arjun samay par nahi pahucha tha.
+
+⭐ Krishna Ka Shaant Karna
+
+Arjun gusse me shabd bol deta hai,
+lekin Krishna usse shaant karte hain:
+
+“Gusse me liya hua faisla hamesha galat hota hai.
+Tum dono bhai ho. Ek doosre ka sahara bano.”
+
+Arjun dheere-dheere shaant hota hai
+aur phir se yudh me lautne ka faisla karta hai.
+
+⭐ Bhima Ka Vachan Poora Hona
+
+Ye Parva Bhima ki kasam ka bhi ant hai.
+
+Bhima Dushasan ko dharti par gira deta hai,
+aur apne vow ke hissaab se
+uska khoon peeta hai—
+ek andhera, bhayanak, par powerful scene.
+
+Draupadi ka apmaan yahin kaat diya jata hai.
+
+⭐ Karna vs Arjuna — Antim Yudh
+
+Ab aata hai woh yudh jiska intezaar sab kar rahe the—
+Karna aur Arjun ka ekal ladai.
+
+Dono maha-yoddha
+apne sabse shreshth astra chalaate hain.
+Dhul, bijli, teeron ki aandhi—
+pure battlefield me andhera cha jata hai.
+
+Phir, Karna ka rath ka pahiya
+Zameen me phas jata hai.
+Woh dharma ka hawala deta hai,
+“Ruko, main isse nikal loon.”
+
+Par Krishna Arjun ko yaad dilate hain:
+
+“Karna ne Abhimanyu ko bina niyam ke mara tha.
+Adharm ka jawab dharm se nahi diya jaata.”
+
+Arjun ek tezz teer chala kar
+Karna ko girata hai.
+
+Karna shaant ho jata hai—
+uski kahani ka yeh antim adhyay hota hai."""
             create_image_text_layout(text_content=text2, layout="full")
                 # Section 1.2.1
         with st.expander("Section 1.2.12"):
