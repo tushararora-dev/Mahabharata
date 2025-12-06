@@ -2949,10 +2949,577 @@ sabse zyada shiksha dene wala granth."""
 
         # Section 1.3.1
         with st.expander("Section 1.3.1"):
-            text1 = """ """
+            text1 = """ 
+⭐ Janamejaya aur Sarama ka Shraap
+
+(Hinglish Kahani – Children’s Story Style)
+
+Kurukshetra ke maidan me Raja Janamejaya aur uske teen bhai—Srutasena, Ugrasena, Bhimasena—ek lamba yagna kar rahe the.
+
+Tabhi wahan ek celestial dog ka baccha (Sarama ka putra) aa gaya.
+Janamejaya ke bhaiyon ne bina wajah usse maar diya.
+Bechara bachcha dard se rota-rona apni maa Sarama ke paas bhaag gaya.
+
+Sarama ne pucha:
+“Kya hua? Kisne maara tumhe?”
+
+Baccha bola:
+“Janamejaya ke bhaiyon ne! Maine kuch galat nahi kiya. Na ghee chua, na dekha.”"""
             create_image_text_layout("attached_assets/chapter1/1.3.1.jpg", text1, layout="side", image_position="left")
 
-            text2 = """ """
+            text2 = """ 
+Sarama ko bahut gussa aaya.
+Woh seedha yagna sthal par pahunchi.
+
+Usne Janamejaya se kaha:
+
+“Mere bete ne koi galti nahi ki. Phir bhi tumhare bhaiyon ne use mara.
+Iska phal tumhe bina bataye, achanak milega.”
+
+Yeh sunkar Janamejaya bahut pareshaan ho gaya.
+
+⭐ Janamejaya Ki Chinta
+
+Yagna ke baad woh Hastinapur laut gaya aur sochne laga:
+
+“Kaun mera paap mita sakta hai?”
+
+Ek din shikar par, usse ek rishi ka ashram dikha—
+Rishi ka naam tha Srutasrava, aur unka beta Somasrava ek tapasvi tha.
+
+Janamejaya ne rishi se kaha:
+“Aapka beta mera purohit ban jaye.”
+
+Rishi ne kaha:
+
+“Mera beta saarp-kanya se janma hai. Bahut pavitra aur tapasvi hai.
+Woh sab paap mita sakta hai—
+bas Mahadev ke khilaf ki gayi galti nahi.
+Aur ek aadat hai:
+Jo bhi brahman usse kuch mangega—woh de dega.”
+
+Janamejaya bola:
+“Theek hai, main manzoor karta hoon.”
+
+Aur woh Somasrava ko apna purohit bana kar le gaya.
+
+⭐ Guru Dhaumya aur Aruni – Sampoorna Nishaane Waali Seva
+
+Isi samay ek mashhoor guru the—Ayodha Dhaumya.
+Unke teen shishya: Upamanyu, Aruni, aur Veda.
+
+Ek din unhone Aruni ko kaha:
+
+“Farm ka paani bhaag raha hai. Ja, naala bandh kar de.”
+
+Aruni gaya…
+Par paani ruk hi nahi raha tha.
+
+Kaafi koshish ke baad usne socha:
+“Main hi ruk jaata hoon.”
+
+Woh khud paani ki darar me let gaya,
+aur apne sharir se paani ka rasta rok diya.
+
+Bahut der baad Dhaumya ne poocha:
+“Aruni kahan gaya?”
+
+Shishyon ne bataya.
+Rishi sabko lekar us khet me gaye aur awaaz lagayi:
+
+“Aruni beta, kahan ho?”
+
+Awaaz sunte hi Aruni uth kar bahar aaya,
+pura bheega hua.
+
+Woh bola:
+
+“Guruji, rasta band nahi ho raha tha…
+toh main hi wahin let gaya.
+Aapki awaaz sunte hi utha.
+Ab batayein, kya karna hai?”
+
+Guru Dhaumya ne pyaar se usse gale lagaya aur kaha:
+
+“Aaj se tumhara naam hai Uddalaka Aruni—
+sacha guru-bhakt.”"""
+            create_image_text_layout(text_content=text2, layout="full")
+            # Section 1.3.1
+        with st.expander("Section 1.3.2"):
+            text1 = """ 
+Guru Dhaumya ne Aruni ko aashirvaad diya aur bola:
+“Ab tumhara naam Uddalaka hoga. Tumne guru ka aadesh maana, isliye tumhe gyaan aur shubh phal milega.”
+
+Aruni khush hokar apne ghar laut gaya.
+
+⭐ Upamanyu ko Gauon ki Seva ka Kaam
+
+Ab Guru Dhaumya ne dusre shishya ko bulaya—
+uska naam tha Upamanyu.
+
+Guruji bole:
+“Beta, jao aur gaayen charao.”
+
+Upamanyu poora din gaayen charata,
+shaam ko wapas aakar guru ko pranam karta.
+
+Guruji ne dekha ki Upamanyu ka sharir ab bhi mota-taazaa lag raha tha.
+Unhone pucha:
+
+“Beta, tum khaate kya ho? Itne tandurust kaise ho?”
+
+Upamanyu seedha-saadha ladka tha.
+Woh bola:
+
+“Guruji, main bhiksha maang kar kha leta hoon.”
+
+Guruji bole:
+“Bhiksha ka poora hissa pehle guru ko dena chahiye.”
+
+Upamanyu ne haan me sir hila diya."""
+            create_image_text_layout("attached_assets/chapter1/1.3.2.jpg", text1, layout="side", image_position="left")
+
+            text2 = """ 
+⭐ Guru ki Seva – Par Badhte Imtihaan
+
+Agli shaam, Upamanyu fir bhiksha lekar aaya,
+aur saara guru ko de diya.
+
+Par fir bhi woh taazaa hi laga.
+
+Guruji ne pucha:
+“Ab kya khaate ho?”
+
+Upamanyu bola:
+“Main dobara bhiksha maang leta hoon, guruji.”
+
+Guruji ne samjhaya:
+“Isse doosre bhikshukon ka haq chhin jata hai.
+Yeh sahi nahi.”
+
+Upamanyu ne turant sewa me swikaar kiya.
+
+⭐ Doodh Pina bhi Mana
+
+Kuch din baad bhi woh achha dikh raha tha.
+Guruji ne pucha:
+
+“Ab kya kha rahe ho?”
+
+Upamanyu bola:
+“Guruji, gaayon ka doodh pee leta hoon.”
+
+Guruji bole:
+“Bina humse poochhe doodh peena galat hai.”
+
+Upamanyu ne phir ‘theek hai’ kaha.
+
+⭐ Ab Toh Jhaag bhi Mana!
+
+Fir ek din guruji ne dekha ki Upamanyu fir bhi taazaa lag raha hai.
+
+Unhone pucha:
+“Ab kya khaate ho?”
+
+Upamanyu bola:
+“Jab bachde doodh peete hain, jo jhaag girti hai…
+main sirf wahi chaat leta hoon.”
+
+Guruji ne kaha:
+“Yeh bachdon ka haq hai. Tum isse bhi mat chhoo.”
+
+Upamanyu ne fir haan me sir hila diya.
+
+⭐ Bhookh Se Andha, Aur Gaddhe Me Gir Gaya
+
+Ab bechara Upamanyu
+na bhiksha kha sakta,
+na doodh,
+na jhaag…
+
+Ek din bhookh se pareshaan hokar
+usne jungle me Arka plant ke patte kha liye.
+
+Patte tez aur zehrele the.
+Uski aankhen jalne lagi,
+aur woh andha ho gaya.
+
+Andha hokar dhad-a-dhad chalte hue,
+woh ek gaddhe me gir gaya.
+
+⭐ Guruji Dhundne Nikle
+
+Shaam tak Upamanyu wapas na aaya.
+Guruji bole:
+
+“Woh bechara to kuch bhi nahi kha sakta…
+chalo use dhoondte hain.”
+
+Sab shishya jungle me gaye aur pukarne lage:
+
+“Upamanyu! Upamanyu!”
+
+Neeche se awaaz aayi:
+“Guruji, main yahan hoon! Gaddhe me gir gaya hoon!”
+
+Upamanyu ne sab bataya—
+“Patte khaye, aankhen jal gayi, main andha ho gaya.”
+
+⭐ Asvini Kumaron ka Mahima
+
+Guruji ne kaha:
+“Beta, Asvini Devtaon ka stuti karo.
+Woh dev-vaidya hain.
+Tumhari aankhen wapas aa jayengi.”
+
+Upamanyu gaddhe me baitha-baitha
+poore bhakti se Asvini Kumaron ki prarthna karne laga.
+
+Uske shabd seedhe aur pure the—
+usne unka shukriya kiya, unki shakti ko yaad kiya,
+aur unse apni aankhen wapas maang li."""
+            create_image_text_layout(text_content=text2, layout="full")
+            # Section 1.3.1
+        with st.expander("Section 1.3.3"):
+            text1 = """ 
+⭐ Upamanyu aur Asvini Devtaon ka Ashirvaad
+
+(Hinglish Children’s Story Version)
+
+Upamanyu ne Asvini Devtaon ki sachchi prarthna ki.
+Devta khush ho gaye. Unhone kaha:
+
+“Beta, hum tumse prasann hain. Yeh cake lo aur kha lo.”
+
+Upamanyu ne namrata se bola:
+“Main bina guru ko diye kuch nahi kha sakta.”
+
+Asvini Dev bole:
+“Tumhare guru ne bhi humse yahi cake liya tha.
+Aur bina kisi ko diye kha liya tha.
+Tum bhi waise hi kar lo.”
+
+Par Upamanyu ne phir mana kar diya.
+Woh bola:
+
+“Maaf kijiye, Devtaon.
+Guru ki ijazat ke bina main kuch nahi le sakta.”
+
+Asvini Dev uski guru-bhakti se bahut khush hue.
+Unhone bola:
+
+“Tumhare guru ke daant kaale hain,
+par tumhare daant sone ke honge!
+Aur hum tumhe nazar bhi wapas dete hain.
+Tumhara bhavishya bhi shubh hoga!”
+
+Aur bas—Upamanyu ki aankhen theek ho gayi.
+
+Woh daud kar apne guru ke paas gaya,
+sab kuch bataya.
+Guru Dhaumya bahut khush hue.
+
+Unhone aashirvaad diya:
+
+“Tumhe sab Vedo ka gyaan milega.
+Tumhara jeevan safal hoga.”
+
+Yeh thi Upamanyu ki kasauti —
+aur uski guru-bhakti jeet gayi."""
+            create_image_text_layout("attached_assets/chapter1/1.3.3.jpg", text1, layout="side", image_position="left")
+
+            text2 = """ 
+⭐ Veda ki Pareeksha
+
+Guru Dhaumya ka teesra shishya tha Veda.
+Guruji bole:
+
+“Veda, tum kuch samay yahan raho aur seva karo.”
+
+Veda bina shikayat ke kaam karta:
+garmi, sardi, bhookh, pyaas—sab seh leta.
+Bilkul ek mazboot bail ki tarah.
+
+Guruji usse bahut khush hue.
+Unko ashirvaad mila—
+gyaan, sukh aur achha bhavishya.
+
+⭐ Veda ka Naya Shishya – Utanka
+
+Padhaayi ke baad Veda grihastha ban gaya.
+Uske teen shishya the.
+Yahin se kahani me aata hai Utanka.
+
+Veda kisi shishya pe zor-zabardasti nahi karta tha.
+Woh kehta tha:
+
+“Maine khud takleef jheli hai,
+isliye main apne shishyon se kathor vyavahar nahi karunga.”
+
+Ek din, King Janamejaya aur Paushya ne
+Veda ko apna guru banaya.
+
+Kuch samay baad Veda ko ek yatra par jaana tha.
+Woh Utanka ko bolkar gaye:
+
+“Beta, jab tak main nahi hoon,
+ghar ka dhyaan tum rakhna.”
+
+⭐ Utanka ki Imaandari
+
+Jab Veda ghar se bahar the,
+ghar ki mahilaon ne Utanka se kaha:
+
+“Guruji ghar par nahi hain.
+Guru Maa ab santaan-yogya kaal me hain.
+Tum unke sthaan-parivartan ka kaam karo.”
+
+Matlab—
+Woh Utanka ko bahka rahi thi ki woh kuch anuchit kare.
+
+Par Utanka ne sidha mana kar diya.
+Woh bola:
+
+“Guru ji ne mujhe yeh nahi kaha.
+Main kuch galat nahi karunga.”
+
+Guru ji wapas aaye aur sab suna.
+Woh bahut khush hue.
+
+“Beta, tumne maryada nibhayi.
+Tumhe jo var chahiye, maang lo.”
+
+⭐ Guru Dakshina ki Mang
+
+Utanka bola:
+
+“Guruji, main bina guru-dakshina diye nahi jaa sakta.
+Kuch bataiye, main kya laoon?”
+
+Veda ne kaha:
+
+“Apni Guru Maa se pucho.”
+
+Utanka guru-patni ke paas gaya.
+Unhone kaha:
+
+“King Paushya ki Rani ke kaan me jo jhumke hain,
+woh laa do.
+Chaar din baad ek pooja hai.
+Mujhe woh pehenne hain.
+Le aayoge toh tumhara bhala hoga.”
+
+⭐ Utanka ka Rahasya-yatra
+
+Raste me Utanka ne ek vishal bail aur
+ek ajeeb aadmi ko dekha.
+
+Woh aadmi bola:
+“Is bail ka gobar kha lo.
+Tumhare guru bhi kha chuke hain.”
+
+Utanka ne guru-bhakti se
+bina sawaal kiye gobar aur mutra grahan kar liya.
+(Asli kahani me yeh divya-symbolic kriya thi.)
+
+Phir woh King Paushya ke mahal me gaya
+aur rani se jhumke le liye.
+
+Rani ne chetavani di:
+
+“In jhumko par saap-raja Takshak ki nazar hai.
+Sambhal kar jaana!”
+
+Utanka ne muskura kar bola:
+“Woh mujhe kuch nahi kar sakta.”"""
+            create_image_text_layout(text_content=text2, layout="full")
+            # Section 1.3.1
+        with st.expander("Section 1.3.4"):
+            text1 = """ 
+⭐ Utanka aur Raja Paushya: Ek Lambi Yatra Ki Kahani
+
+(Hinglish Story Version)
+
+Utanka ne Raja Paushya se kaha:
+“Main ruk jaata hoon. Kripya saaf khaana jaldi lekar aao.”
+
+Raja ne haan kaha aur Utanka ko bhojan diya.
+Par Utanka ne dekha ki khana thanda tha aur usme baal bhi the.
+Woh gussa ho gaya.
+
+Usne Raja se kaha:
+“Aapne mujhe ganda khana diya hai. Isliye aap andhe ho jaaoge!”
+
+Paushya ne turant jawab diya:
+“Aur tum, jo saaf khane ko bhi ganda keh rahe ho, tum bachon se vanchit ho jaoge!”"""
+            create_image_text_layout("attached_assets/chapter1/1.3.4.jpg", text1, layout="side", image_position="left")
+
+            text2 = """ 
+Utanka bola:
+“Aap khud dekh lo. Khana sach me ganda hai.”
+
+Raja ne dekha — haan, khana sach me thanda aur baalon se bhara tha.
+Woh sharminda hua.
+
+Paushya ne kaha:
+“Mujhe maaf karo. Khana dhyaan se nahi bana.”
+
+Utanka ne kaha:
+“Meri baat puri hogi. Aap andhe honge… par zyada der nahi.”
+
+Paushya bola:
+“Main apna shraap wapas nahi le sakta.
+Main Kshatriya hoon — mere shabd naram hote hain, par dil sakht hota hai.”
+
+Utanka ne shanti se jawaab diya:
+“Mere upar aapka shraap nahi chalega, kyunki khana sach me ganda tha.”
+
+Phir Utanka jhumko lekar rasta chal diya.
+
+⭐ Takshak Ka Dhoka
+
+Raste me Utanka ne ek aadmi ko dekha —
+Nangaa, gareeb, ajeeb sa.
+
+Woh aadmi kabhi dikhta, kabhi gayab ho jaata.
+Utanka ne jhumke zameen par rakhe aur paani lene chala gaya.
+
+Bas tabhi woh aadmi jhumke chura kar bhaag gaya.
+
+Utanka bhaaga.
+Usne us aadmi ko pakad liya.
+
+Par jaise hi pakda —
+Aadmi badal gaya!
+Uski asli roop tha:
+
+⭐ Takshaka, saapon ka raja!
+
+Takshaka ek bade suraakh me ghus gaya.
+Utanka uske peeche hilte-dulte lakdi se gadda khodta raha.
+
+Utanka pareshaan ho gaya.
+Indra ne aasman se uski mushkil dekhi.
+Indra ne apna vajra (thunderbolt) bheja.
+
+Vajra ne gadda aur bada kar diya.
+Utanka andar ghus gaya.
+
+⭐ Naagon Ka Shehar
+
+Andar Utanka ne dekha —
+Ek alag hi duniya thi.
+Naagon ke mahal, shehar, badi imaratein,
+Sab roshni se chamak rahi thi.
+
+Utanka ne naagon ki prarthna ki.
+Lekin jhumke fir bhi nahi mile.
+
+Phir usne ajeeb drishya dekhe:
+
+Do auratein — kale aur safed dhage se kapda bun rahi thi.
+
+Ek bada chakra, 12 spokes ka,
+jise 6 ladke ghumaa rahe the.
+
+Ek sundar ghoda aur ek tej-chamakta aadmi.
+
+Utanka ne un sab ko mantr padhkar pranaam kiya.
+Ghode wale aadmi ne kaha:
+
+“Main prasann hoon. Batao kya chahiye.”
+
+Utanka bola:
+“Mujhe saare saanp mere vash me chahiye.”
+
+Aadmi ne kaha:
+“Is ghode me foonk maaro.”
+
+Utanka ne foonk maari.
+Ghoda ekdum aag ban gaya!
+
+Aag saapon ki nagri me phailne lagi.
+Takshaka pareshaan ho kar bhaaga.
+Usne jhumke laa kar Utanka ko de diye:
+
+“Please, yeh le lo! Bas aag roko!”
+
+Utanka ne jhumke le liye.
+
+⭐ Utanka Ghar Wapas
+
+Usne socha:
+“Aaj meri guru-patni ka pooja ka din hai.
+Main itni door hoon… kaise pahunchun?”
+
+Tabhi ghode wala aadmi bola:
+“Is ghode par chadho. Tum pal bhar me pahunch jaoge.”
+
+Utanka chadha — aur bas,
+Chutkiyon me guru ke ghar.
+
+Guru-patni use dekh kar khush hui:
+“Tum sahi waqt aa gaye, beta!
+Main tumhe shraap dene hi wali thi!”
+
+Utanka ne jhumke de diye.
+
+Guru ne poocha:
+
+“Beta, itni der kahan the?”
+
+Utanka ne sab bata diya.
+Guru ne kaha:
+
+Do auratein = Dhata aur Vidhata
+
+Kale-safed dhage = din aur raat
+
+Chakra = saal ke 12 mahine
+
+6 ladke = 6 ritu (seasons)
+
+Ghoda = Agni
+
+Aadmi = Indra
+
+Bail = Airavata
+
+Bail ka gobar = Amrit
+
+“Isliye tum Nagon ki nagri se zinda wapas aaye ho.”
+
+Guru ne aashirvaad diya aur Utanka ko bhej diya.
+
+⭐ Takshaka se Badla
+
+Utanka dil me gussa le kar Hastinapur gaya.
+Waha Raja Janamejaya ko mila.
+
+Raja baithak me tha, mantriyon se ghera hua.
+
+Utanka bole:
+
+“Raja ji, aap yahan aaram se kyun baithe ho?
+Ek bahut zaroori kaam hai!”
+
+Raja ne poocha:
+“Kaunsa kaam?”
+
+Utanka ne kaha:
+
+**“Aapke pita Maharaj Parikshit ki maut
+Takshaka saap ne ki thi.
+
+Aapko badla lena chahiye.
+Poora sarpa-yagya karo.
+Takshaka ko jala daalo!”**
+
+Raja Janamejaya gusse se bhar gaya.
+Usne shraaddh ke baad sab sun kar dard me ro pada.
+
+Yahi se shuru hota hai
+Mahabharat ka Sarpa-Yagya Kand."""
             create_image_text_layout(text_content=text2, layout="full")
 
 
