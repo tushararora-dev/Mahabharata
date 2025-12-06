@@ -2234,39 +2234,713 @@ Karna shaant ho jata hai—
 uski kahani ka yeh antim adhyay hota hai."""
             create_image_text_layout(text_content=text2, layout="full")
                 # Section 1.2.1
+        with st.expander("Section 1.2.11"):
+            text1 = """ 
+⭐ Parva 9 – Shalya Parva (Hinglish Summary)
+
+Sab maha-yoddha ek ek karke gir chuke the.
+Ab Kaurav sena ka naya senapati bana King Shalya, Madra ka raja.
+Woh bahut shaktishaali tha, par yudh ka waqt sab ke liye kathin tha.
+
+⭐ Shalya Ka Ant
+
+Chariot se chariot tak bhayankar yuddh hua.
+Gadhe, ghode, rath sab garaj rahe the.
+
+Aur phir—
+Yudhishthira ne Shalya ko hara diya.
+Shalya zameen par gira… aur Kaurav sena aur kamzor ho gayi."""
+            create_image_text_layout("attached_assets/chapter1/1.2.11.jpg", text1, layout="side", image_position="left")
+
+            text2 = """ 
+⭐ Shakuni Ka Ant
+
+Phir Sahadeva ne apna pura gussa nikaala.
+Shakuni, jo hamesha chalbaazi karta tha,
+aaj bach nahi saka.
+Sahadeva ne uska saamna kiya
+aur usse maar diya.
+
+Pandavon ka purana dushman khatam ho gaya.
+
+⭐ Duryodhana Ka Chhupna
+
+Ab sena me sirf kuch log bache the.
+Duryodhana akela pad gaya.
+Darr aur sharm se bhara hua,
+woh ek talab me ghus gaya.
+Pani ke andar usne ek jagah bana li
+aur waha chup kar let gaya.
+
+⭐ Bhima Ko Khabar Milti Hai
+
+Kuch pakshi pakadne wale fowler logon ne
+Duryodhana ko chhupa dekha.
+Unhone yeh baat Bhima ko batayi.
+
+Bhima ne yeh sunte hi gussa piya:
+“Chalo, isko bahar nikalte hain!”
+
+⭐ Yudhishthira Ka Teekha Vachan
+
+Pandav us talab ke paas gaye.
+Yudhishthira ne Duryodhana ko awaaz lagayi
+aur kuch kadve shabd bole.
+Duryodhana, jo apmaan bardasht nahi kar sakta tha,
+gusse me pani se bahar aa gaya.
+
+⭐ Mace Fight – Gada Yuddh
+
+Bahar aate hi dono ne
+gada yuddh ka chunauti di.
+
+Duryodhana aur Bhima—
+dono pahad ki tarah takraaye.
+Mitti udne lagi, zameen hilne lagi.
+
+Isi waqt Balarama bhi waha aa gaya
+aur dono ka yuddh dekhne laga.
+
+⭐ Bhima Tod Deta Hai Jaanghe
+
+Yuddh lamba chala.
+Duryodhana tej tha,
+par Bhima ka sankalp aur tej tha.
+
+Ekdum se Bhima ne
+apni gada ghumayi aur
+Duryodhana ki jaanghe par zor se maara.
+
+Duryodhana cheekh ke gir gaya.
+Uski taaqat toot gayi.
+Mahabharat ka moti mukhya dushman
+ab haar chuka tha.
+
+⭐ Parva 9 Samapt
+
+Is tarah Shalya Parva me—
+
+Shalya mara
+
+Shakuni mara
+
+Duryodhana chhupa, phir bahar aaya
+
+aur Bhima ne uski jaanghe tod di
+
+Yeh sab mila kar is parva me
+59 sections aur 3,220 shlokas hain."""
+            create_image_text_layout(text_content=text2, layout="full")
+                # Section 1.2.1
         with st.expander("Section 1.2.12"):
-            text1 = """ """
+            text1 = """ 
+⭐ Parva 10 – Sauptika Parva (Hinglish Summary)
+
+Mahabharat ka yudh khatam ho chuka tha.
+Pandav apne camp me laut gaye the.
+Lekin raat me ek darawni kahani shuru hui…
+
+⭐ Duryodhana Ki Dukhi Haalat
+
+Sham ke samay,
+Ashwatthama, Kripacharya aur Kritavarma
+ranbhoomi me gaye.
+
+Waha unhone Duryodhana ko zameen par pada dekha—
+uski jaanghen tooti hui, poora sharir khoon se bhara.
+Duryodhana jeevit tha, par bohot kamzor.
+
+Ashwatthama ka gussa ab aasman tak pahunch gaya.
+Usne kasam khayi:
+
+“Jab tak main sab Panchalon ko, Drishtadyumna ko,
+aur Pandavon ke mitron ko nahi maar deta,
+tab tak apna kavach nahi utaarunga!”"""
             create_image_text_layout("attached_assets/chapter1/1.2.12.jpg", text1, layout="side", image_position="left")
 
-            text2 = """ """
+            text2 = """ 
+⭐ Ullu Aur Kaawon Ka Sanket
+
+Raat ko teeno ek bade bargad (banyan) ke ped ke neeche baithe.
+Waha Ashwatthama ne ek ajeeb drishya dekha—
+
+Ek ullu (owl) ek ek karke kaawon ko maar raha tha.
+
+Yeh drishya uske man me aur andhera bhar gaya.
+Usne socha:
+
+“Aaj raat main bhi soye huye dushmano ko maarunga.”
+
+⭐ Rakshas Ka Darshan
+
+Jab Ashwatthama ne shivir ke darwaze par jaana chaha,
+usne ek bhayankar rakshas dekha—
+jiska chehra bohot darawna tha
+aur sar aasman ko chho raha tha.
+
+Woh rakshas uske teer-baan rok raha tha.
+
+Tab Ashwatthama ne Mahadev (Rudra) ka dhyaan kiya.
+Shivji prasann hue
+aur usse andar jaane diya.
+
+⭐ Raat Ka Nar-sanhaar (Night Massacre)
+
+Andar sab Panchal yoddha so rahe the—
+Drishtadyumna, Draupadi ke paanch putra, aur anya senapati.
+
+Ashwatthama ne bina soch samajh
+neend me doobe sab logon ko maarna shuru kiya.
+Kritavarma aur Kripacharya bhi uske saath the.
+
+Is raat ki khaufnaak ghatna ka naam hi hai—
+Sauptika (soye huye ka vinaash).
+
+Sirf Pandav paanchon aur Satyaki bach paye,
+kyunki Krishna ne unhe pehle hi alag jagah sulaya tha.
+
+⭐ Draupadi Ka Dard
+
+Subah Drishtadyumna ka saarathi bhaagte hue Pandavon ke paas aaya.
+Usne pukar kar bataya:
+
+“Ashwatthama ne sabko raat me maar diya!”
+
+Draupadi yeh sun kar toot gayi.
+Usne kaha:
+
+“Main bina badla liye jeena nahi chahti.”
+
+Woh upvaas karke marne ko tayyar ho gayi.
+
+⭐ Bhima Ka Sankalp
+
+Draupadi ke dukh se Bhima ka khoon khol utha.
+Usne apni gada uthayi aur garja:
+
+“Ashwatthama! Tujhe main abhi dhoondh kar aaunga!”
+
+⭐ Brahmashastra (Celestial Weapon) Ka Vinash
+
+Dar se ghabra kar
+Ashwatthama ne ek divy astra (celestial weapon) chhod diya.
+Usne kaha:
+
+“Yeh Pandavon ka vinaash karega!”
+
+Par Krishna ne turant kaha:
+“Yeh nahi hoga.”
+Aur us astra ki taakat rok di.
+
+Phir Arjun ne apna divya astra chala kar
+Ashwatthama ke astra ko neutralize kiya.
+
+⭐ Ashwatthama Par Shaap
+
+Ashwatthama ki buri soch dekhkar
+Vyasa ji aur Krishna ne use shaap diya.
+Ashwatthama ne bhi badle me kuch ulte vaachan bole,
+par uski taakat khatam hoti ja rahi thi.
+
+Pandavon ne uske sir se
+uska mani (head jewel) cheen liya—
+jise wo bachpan se dharan kiye tha.
+
+Ye hi Draupadi ko diya gaya
+taaki uska dukh halka ho sake.
+
+⭐ Parva 10 Samapt
+
+Is tarah Sauptika Parva me—
+
+Ashwatthama ne raat me soye yoddhon ko maara
+
+Draupadi ro uthi
+
+Bhima peeche pada
+
+Ashwatthama ne divy astra chhoda
+
+Krishna aur Arjuna ne use rok diya
+
+Ashwatthama ka mani chheen liya gaya
+
+Is parva me 18 sections aur 870 shlokas hain."""
             create_image_text_layout(text_content=text2, layout="full")
                 # Section 1.2.1
         with st.expander("Section 1.2.13"):
-            text1 = """ """
+            text1 = """ 
+⭐ Parva 11 – Stri Parva (Women’s Lament)
+
+(short • simple • emotional but not poetic • Hinglish)
+
+Mahabharat ka yudh khatam ho chuka tha.
+Ranbhoomi me har taraf shaant hawa chal rahi thi,
+par logo ke dil me tufaan tha.
+
+⭐ Dhritarashtra ka Gussa aur Dard
+
+Andhe raja Dhritarashtra ko jab pata chala
+ki uske saare bete mar gaye,
+toh uska dard bahut gehra tha.
+
+Usne socha Bhima uske saamne khada hai
+aur gusse me usne ek aadmi ko gale lagakar
+zor se kuchal diya…
+
+Par woh Bhima nahi tha.
+Krishna ne chhupkar lohe ka ek murti rakh di thi,
+taaki Bhima bach jaye.
+
+Dhritarashtra ka dard ab aur badh gaya."""
             create_image_text_layout("attached_assets/chapter1/1.2.13.jpg", text1, layout="side", image_position="left")
 
-            text2 = """ """
+            text2 = """ 
+⭐ Vidura Ka Sacha Sneh
+
+Vidura ne unke paas aa kar
+pyaar se samjhaya:
+
+“Rajaji, duniya ka saara dukh ek sapna jaisa hai.
+Aap apna mann shaant rakhiye.”
+
+Dhritarashtra dhire dhire shaant hone lage.
+
+⭐ Ranbhoomi Par Raniyon Ka Vilap
+
+Raja Dhritarashtra aur ghar ki saari raniyan
+ranbhoomi dekhne gayi.
+
+Waha unhone
+apne bete, pati, bhai aur pita
+sabko gira hua dekha.
+
+Har taraf rone ki aawaz thi.
+Sab aurate gir gir kar vilap kar rahi thi.
+
+Is parva ko “Stri Parva”
+isiliye kaha jaata hai—
+kyunki yeh auraton ke dard ki kahani hai.
+
+⭐ Gandhari ka Shraap
+
+Apne 100 putron ki laash dekhkar
+Gandhari ka dard kisi pahad jaisa tha.
+
+Usne gusse me Krishna ko bhi dosh diya
+aur behosh ho gayi.
+
+Krishna ne dheere se unka gussa shaant kiya
+aur unhe sambhala.
+
+⭐ Antim Sanskar
+
+Phir Yudhishthira,
+jo sabse dharmic aur samajhdaar raja tha,
+ne sab mare hue yoddhon ka
+poore vidhi vidhan se antim sanskar karaya.
+
+Sab rajaon ke liye paani ka tarpan bhi hua.
+
+⭐ Kunti ka Raaz – Karna ka Janm
+
+Isi samay ek bahut bada raaz khula.
+
+Kunti roti hui boli:
+
+“Karna mera pehla beta tha…
+mainne use bachpan me hi chhod diya tha.”
+
+Pandav yeh sunkar toot gaye.
+Unhe pata chala ki
+unhone apne hi bhai se yudh me ladai ki.
+
+Sabki aankhon me aansu aa gaye.
+
+⭐ Parva 11 Samapt
+
+Stri Parva me—
+
+Dhritarashtra ka dard
+
+Raniyon ka vilap
+
+Gandhari ka shraap
+
+Yudhishthira ka dharm
+
+Kunti ka raaz
+
+sab kuch bahut hi dukh bhara hissa hai.
+
+Is parva me 27 sections aur 775 shlokas hain."""
             create_image_text_layout(text_content=text2, layout="full")
                 # Section 1.2.1
         with st.expander("Section 1.2.14"):
-            text1 = """ """
+            text1 = """ 
+⭐ Parva 12 – Shanti Parva (Shanti & Gyaan ka Parva)
+
+(Yudhishthira ka dukh • Bhishma ka gyaan • Moksha ke rahasya)
+
+Yudhishthira yudh jeet gaya tha,
+par uske dil me shanti nahi thi.
+
+Woh ro raha tha aur soch raha tha—
+
+“Mainne apne hi rishtedaar kyun maar diye?
+Bhai, chacha, guru, bachche… sab kho diye.”
+
+Tab Krishna ne kaha:
+“Bhishma abhi zinda hain.
+Woh tumhe sahi raasta batayenge.”
+
+Bhishma ji teeron ke bistar par pade the,
+par unka gyaan pahaad jaisa mazboot tha."""
             create_image_text_layout("attached_assets/chapter1/1.2.14.jpg", text1, layout="side", image_position="left")
 
-            text2 = """ """
+            text2 = """ 
+⭐ Bhishma ka Amrit-Gyaan
+
+Bhishma ne Yudhishthira ko
+dharma, nyay, raja-dharma, dayitva,
+aur mushkil waqt me kya karna chahiye—
+sab kuch badi pyaar se samjhaya.
+
+Unhone bataya:
+
+Sahi waqt pe sahi kaam karna hi dharma hai.
+
+Raja ko daya bhi chahiye aur himmat bhi.
+
+Gussa, lalach aur jhooth sabse bada dushman hai.
+
+Ant me moksha ka raasta sirf gyaan aur satya se milta hai.
+
+Shanti Parva me 339 sections
+aur 14,732 shlokas hain.
+
+Yeh Mahabharat ka sabse bada gyaan-parva maana jata hai.
+
+⭐ Parva 13 – Anushasana Parva (Niyamon aur Dharam ka Parva)
+
+(Daan ka gyaan • Satya ki shakti • Bhishma ka swarg gaman)
+
+Bhishma ji ka gyaan sunkar
+Yudhishthira ka mann shaant hone laga.
+
+Is parva me Bhishma ne bataya:
+
+Sahi daan kaise diya jata hai.
+
+Kisko daan dena chahiye, kisko nahi.
+
+Sachchai sabse bada dharma hai.
+
+Brahman aur gau—dono bahut pavitra hain.
+
+Har kaam ka ek sahi waqt aur jagah hoti hai.
+
+Unka gyaan paakar
+Yudhishthira fir se majboot ho gaya.
+
+Aur phir ek din…
+Bhishma ji ne apna shareer chhod diya aur swarg chale gaye.
+
+Anushasana Parva me 146 sections
+aur 8,000 shlokas hain.
+
+⭐ Parva 14 – Ashwamedhika Parva (Ashwamedh ka Parva)
+
+(Ashwamedh yagna • Arjuna ki yatra • Parikshit ka janm)
+
+Yudhishthira ne sabse pehle
+Ashwamedh Yagna karne ka faisla kiya
+taaki desh me shanti ho aur rajya majboot bane.
+
+Ek ghoda chhoda gaya,
+jise rokne wala kisi bhi raja se
+Arjuna ladta tha.
+
+⭐ Arjuna ki Yatra aur Yuddh
+
+Arjuna ne ghode ke peeche peeche
+poori duniya ka chakkar lagaya.
+
+Kayi raja gusse me aakar
+ghode ko rokna chahte the,
+par Arjuna ne sabko hara diya.
+
+Ek din Arjuna ka
+apne bete Vabhruvahana se hi yuddh ho gaya!
+Arjuna be-hosh pad gaya, par baad me
+Krishna ki kripa se sab theek hua.
+
+⭐ Parikshit ka Janm
+
+Is parva me ek bada chamatkar bhi hua:
+
+Ashwatthama ke brahmastra se
+Uttara ke garbh me jo bachcha jal gaya tha,
+Krishna ne usse phir zinda kar diya.
+
+Wohi bachcha tha—
+Raja Parikshit,
+जो आगे चलकर Mahabharat ki vansh ko badhayega.
+
+⭐ Mongoose ki Kahani
+
+Yagna ke dauran ek ajeeb neela-bhoora mongoose aaya
+aur ek adbhut moral story sunai
+ki sacha daan sirf dil se hota hai,
+na ki dikhave se.
+
+Ashwamedhika Parva me 103 sections
+aur 3,320 shlokas hain."""
             create_image_text_layout(text_content=text2, layout="full")
                 # Section 1.2.1
         with st.expander("Section 1.2.15"):
-            text1 = """ """
+            text1 = """ 
+⭐ Parva 15 – Ashramvasika Parva
+
+(Jungle ka safar • Purani dosti • Antim shanti)
+
+Duryodhana aur sab yudh mein mar chuke the.
+Tab Dhritarashtra, Gandhari, aur Vidura—
+apni bachi-kuchi zindagi jungle mein bitane ka faisla karte hain.
+
+Yudhishthira unke liye sab kuch karna chahta tha,
+par old couple ke mann me shahar ki zindagi ka koi laalsa nahi tha.
+
+Unhe jaana hi tha.
+
+Kunti (Pritha) ne yeh dekha
+aur apne beto ka mahal chhodkar
+apne devar aur devrani ke peeche jungle ki or chal padi.
+Wohi to unka kartavya tha—
+“Apne bade logon ka hamesha saath nibhana.”"""
             create_image_text_layout("attached_assets/chapter1/1.2.15.jpg", text1, layout="side", image_position="left")
 
-            text2 = """ """
+            text2 = """ 
+⭐ Vyasa ka Chamatkar
+
+Jungle me ek raat,
+Vyasa rishi ne apni yog-shakti se
+sab mare hue Rajkumar, putra, aur yodhha
+ek pal ke liye wapas dikha diye.
+
+Dhritarashtra aur Gandhari apne bachchon ko dekh kar
+pal bhar ko roye bhi, Muskuraaye bhi.
+Is milan se unka dard halka ho gaya.
+
+Uske baad…
+Dono ne apna sharir chhod diya
+aur apne punyon ka phal paakar
+param shanti me chale gaye.
+
+Vidura bhi, jo hamesha dharma par tikke rahe,
+shanti se apni yatra poori kar lete hain.
+
+⭐ Sanjaya aur Vrishni Vansh ki Khabar
+
+Sanjaya bhi akhir me swargiya stithi ko prapt hota hai.
+Fir Narada Yudhishthira ko batata hai
+ki Vrishni vansh—Krishna ka vansh—
+bhi apni kismat se bach nahi paya.
+
+Parva 15 me 42 sections aur 1506 shlokas hain.
+
+⭐ Parva 16 – Mausala Parva
+
+(Krishna ke vansh ka patan • Arjuna ki kamzori)
+
+Is parva ki kahani bahut dukh bhari hai.
+
+⭐ Shraap aur Vinash
+
+Krishna ke vansh—Vrishnis aur Andhakas—
+ek Brahmana ke shraap se pareshaan ho gaye.
+
+Ek din sab yadu log
+nasha karke samundar kinare ladne lage.
+Unke haath me ek Eraka ghaas tha
+jo shraap se vajra (thunderbolt) jaisa ban gaya.
+Aur sabne ek-dusre ko maar dala.
+
+⭐ Krishna aur Balarama ka Ant
+
+Sabko marte dekhkar
+Balarama ne apni pran-yatra poori kar li.
+Krishna bhi samay ke niyam se
+apna shareer chhod dete hain.
+
+Samay ke saamne koi nahi tikta—even Krishna.
+
+⭐ Arjuna ka Dwaraka Jaana
+
+Arjuna Dwaraka pahunchta hai
+par poori nagri sunsaan hoti hai.
+
+Krishna nahi.
+Balarama nahi.
+Vrishni vansh khatam.
+
+Arjuna rone lagta hai
+par fir bhi zimmedari le kar
+bache hue bachche aur mahilao ko le jaata hai.
+
+Raaste me daku un par hamla karte hain.
+Arjuna apna Gandiva uthane ki koshish karta hai
+par bow kaam hi nahi karta.
+
+Tab Arjuna samajh jata hai—
+“Meri yoddha ki yatra ab poori ho gayi.”
+
+Vyasa ke kehne par
+Arjuna sanyas lene ka faisla karta hai.
+
+Mausala Parva me 8 sections aur 320 shlokas hain.
+
+⭐ Parva 17 – Mahaprasthanik Parva
+
+(Antim yatra • Satya ka pariksha)
+
+Pandavon ne sab rajya chhod diya.
+Draupadi ko saath liya
+aur Himalaya ki or
+apni aakhri yatra shuru ki.
+
+Is yatra ko hi Mahaprasthana kehte hain—
+“Mahaan chhod.”
+
+⭐ Gandiva ka Vapsi
+
+Raste me unhe Agni dev milte hain.
+Agni ke kehne par
+Arjuna apna Gandiva aur dev-astra
+wapas de deta hai.
+
+Ab unhe yuddh ki nahi,
+sirf shanti ki zarurat thi.
+
+⭐ Ek-ek karke sab girte gaye
+
+Yatra kathin thi.
+
+Pehle Draupadi giri.
+Phir Sahadeva.
+Phir Nakula.
+Phir Arjuna.
+Phir Bhima.
+
+Sab gir gaye…
+par Yudhishthira ne kabhi peeche mudkar nahi dekha.
+
+Kyun?
+
+Kyuki yeh antim pariksha thi—
+asakti se mukti ki.
+
+Sirf dharma-raj hi is pariksha me safal hote hain.
+
+Mahaprasthanik Parva me 3 sections aur 320 shlokas hain."""
             create_image_text_layout(text_content=text2, layout="full")
-                # Section 1.2.1
         with st.expander("Section 1.2.16"):
-            text1 = """ """
+            text1 = """ 
+⭐ Parva 18 – Svarga Parva (Swargarohan)
+
+(Dharma ki antim jeet • Sachchai ka inaam)
+
+Pandav apni last journey me ek-ek karke gir gaye the.
+Sirf Yudhishthira—Dharma-raj—bacha tha.
+Uske saath bas ek chota sa dog chal raha tha.
+
+⭐ The Celestial Chariot Arrives
+
+Swarg ka vimaan (heavenly chariot) aaya
+aur devdut bole:
+
+“Raja Yudhishthira, chaliye, aapka swarg yatra tayyar hai!”
+
+Par Yudhishthira ne kaha:
+
+“Main bina is dog ke nahi jaaunga.”
+
+Devdut ne samjhaya,
+“Swarg me animals allowed nahi hai.”
+
+Par Yudhishthira ne firm karke kaha:"""
             create_image_text_layout("attached_assets/chapter1/1.2.16.jpg", text1, layout="side", image_position="left")
 
-            text2 = """ """
+            text2 = """ 
+“Jo mujh par bharosa karke aaya,
+jiska main saathi hoon,
+main usey chhod kar kabhi nahi jaaunga.”
+
+Tab achanak…
+Woh dog Dharma Devta (god of justice) ban kar saamne aaye!
+
+Unhone kaha:
+
+“Yudhishthira, tumne dosti aur dharma ka sabse bada imtihaan paas kar liya.
+Ab tum sach me swarg ke layak ho.”
+
+⭐ Swarg aur Narak ka Rahasya
+
+Yudhishthira swarg ke vimaan me chadhte hi
+tez dard mehsoos karta hai.
+Usse ajeeb lagta hai.
+
+Devdut usey narak (hell) ka darshan karwate hain.
+Wahan usse apne bhaiyon ki dard bhari cheekhein sunayi deti hain.
+
+Yudhishthira ka dil toot jata hai:
+“Mere bhai narak me kaise?”
+
+Woh kehta hai:
+
+“Main yahin unke saath rahunga.
+Unhe akela nahi chhodunga.”
+
+Tab Dharma aur Indra prakat hote hain aur kehte hain:
+
+“Yeh sab sirf tumhari pariksha (test) thi.
+Tumhari karuna (compassion) dekhne ke liye.
+Tumhare bhai swarg me hi hain.
+Ek pal ke liye unhe dukh ka darshan karaya gaya,
+taaki tumhari satyata (truthfulness) parakh sake.”
+
+⭐ Final Liberation
+
+Phir Yudhishthira apna sharir chhod kar
+celestial Ganga me doobki leta hai
+aur ek divya shareer (heavenly body) prapt karta hai.
+
+Uske baad woh swarg me pravesh karta hai—
+jahaan Indra aur sab dev uska swagat karte hain.
+
+Woh anant shanti aur khushi me rehne lagta hai.
+
+⭐ Mahabharata ka Ant Ka Sandesh
+
+Sauti rishi sabhi shrotaon ko kehate hain:
+
+“Mahabharata sab gyaan se bada hai—
+dharma (righteousness), artha (wisdom), aur kama (proper desire) ka deep gyaan yahi se milta hai.
+
+Jo Mahabharata sunta hai,
+use anya kahaniyaan pheeki lagti hain—
+jaise koil ki madhur aawaz ke saamne
+kauwe ki kaa-ka.”
+
+Aur:
+
+“Jo Bharata roj padhta hai,
+woh paap se mukta ho jata hai—
+jaise pavitra Pushkara snaan (holy bath) se hota hai.”
+
+Mahabharata hi sab purano ka aadhaar hai.
+Ye sabse bada itihaas hai,
+sabse zyada shiksha dene wala granth."""
             create_image_text_layout(text_content=text2, layout="full")
 
 
