@@ -3528,65 +3528,890 @@ Mahabharat ka Sarpa-Yagya Kand."""
 
         # Section 1.4.1
         with st.expander("Section 1.4.1"):
-            text1 = """ """
+            text1 = """ 
+⭐ Sauti aur Naimisha Ka Maha-Yagya
+
+(Hinglish Kahani Version)
+
+Naimisha ke gehre van me ek bahut bada 12 saal ka yagya chal raha tha.
+Is yagya ke adhyaksh the Saunaka Rishi, jinko sab log Kulapati kehte the.
+
+Us jagah ek aur prasiddh vakta aaye —
+Ugrasrava Sauti, Lomaharshana ka putra.
+Woh purano ke bade gyani the, aur unhe kahaniyan sunane ka vishesh vardaan tha.
+
+Sauti Rishiyon ke samne haath jod kar bole:
+
+“Maine aapko Utanka ki kahani batayi—jo Janamejaya ke Sarpa-Yagya ka ek karan thi.
+Ab bataiye, ab aap kya sunna chahte hain?”
+
+Sab Rishi, jo waha yagya me seva me the, bole:
+
+“Sauti, hum tumse bahut saari kahaniyan poochna chahte hain.
+Par hamare guru, Saunaka Rishi, abhi havan kund me apni kriya poori kar rahe hain.
+Hum unka intezar karte hain.”"""
             create_image_text_layout("attached_assets/chapter1/1.4.1.jpg", text1, layout="side", image_position="left")
-            text2 = """ """
+            text2 = """ 
+Fir unhone Sauti ko Saunaka Rishi ke gun bataye:
+
+Bahut gyaani
+
+Shaant aur satya-bhashi
+
+Ved aur Aranyaka ke maharathi
+
+Tapasvi aur anushasan ke pakke
+
+Dev-Asur kahaniyon ke pandit
+
+Rishiyon ne kaha:
+
+“Woh hamare sabse bade adhyaksh hain.
+Unke aane par hi tum kahani aage badhana.”
+
+Sauti ne vinamrata se kaha:
+
+“Aisa hi hoga.”
+
+⭐ Saunaka Rishi Ka Wapsi
+
+Kuch der baad Saunaka Rishi apna pooja-paath poora karke wapas aaye.
+Unhone devon ko pranam kiya, pitron ko jal chadhaya,
+aur phir yagya-shala me sabhi tapasviyon ke beech apni sammanit aasan par baith gaye.
+
+Sauti unke saamne chupchaap baitha tha, haath jode hue.
+
+Sab Rishi shaant hokar baith gaye —
+jaise koi bada gurukul ka varg shuru hone wala ho.
+
+Tab Saunaka Rishi ne madhur aur gambhir awaaz me kaha:
+
+“Sauti, ab tum shuru karo. Hum sunne ko taiyar hain.”
+
+Aur is tarah shuru hoti hai
+Mahabharat ki asli parampara —
+Sauti dwara kahi gayi sabse pracheen kathaaen."""
             create_image_text_layout(text_content=text2, layout="full")
 
         # Section 1.4.2
         with st.expander("Section 1.4.2"):
-            text1 = """ """
+            text1 = """ 
+⭐ Bhrigu Parivaar Ki Kahani
+
+(Hinglish Kahani Version)
+
+Saunaka Rishi ne Sauti se pyaar se poocha:
+
+“Beta, tumhare pitaji ne pura Purana aur Bharata suna tha.
+Kya tumne bhi sab seekh liya?
+Aaj hum sabse pehle Bhrigu vansh ki kahani sunna chahte hain.”
+
+Sauti ne vinamrata se jawab diya:
+
+“Haṁ, Rishi-jan, jo kuchh mere pita ne padha aur seekha, maine bhi wahi sab adhyayan kiya hai.
+Ab main aapko Bhrigu vansh ki pracheen kahani sunata hoon.”"""
             create_image_text_layout("attached_assets/chapter1/1.4.2.jpg", text1, layout="side", image_position="left")
-            text2 = """ """
+            text2 = """ 
+⭐ Bhrigu Parivaar – Ek Pavitra Parampara
+
+Sauti ne kahani shuru ki:
+
+Purano me likha hai ki Maharishi Bhrigu ko Brahma ji ne ek yajna ki agni se janm diya.
+Bhrigu se ek beta paida hua—Cyavana.
+
+Cyavana ka putra tha Pramati.
+
+Pramati ka putra hua Ruru, jinka janm apsara Ghritachi (celestial dancer) se hua.
+
+Ruru ke ghar janmiye Sunaka—jo Saunaka Rishi ke purvaj the.
+
+Sunaka bade hi sajjan, vidwan, aur satya-bhashi the.
+Sab unka samman karte the.
+
+⭐ Cyavana Ka Naam Kaise Pada?
+
+Saunaka ne beech me pooch liya:
+
+“Sauti, batao Cyavana ko Cyavana kyon kaha gaya?”
+
+Sauti ne kahani aage badhai.
+
+⭐ Puloma aur Rakshas Ki Kahani
+
+Bhrigu Rishi ki patni ka naam tha Puloma.
+Ek din jab Bhrigu snan karne gaye, Puloma ghar me akeli thi—aur garbhavati bhi.
+
+Tabhi wahan aa pahuncha ek Rakshas, jiska naam bhi Puloma tha.
+Usne Puloma ko dekha aur turant mohit ho gaya.
+Purva me, Puloma ke pita ne is Rakshas se vivaah ka vaada kiya tha,
+par baad me Puloma ko Bhrigu ko de diya tha.
+
+Is baat ka dard aur gussa Rakshas ke dil me ab bhi tha.
+
+Puloma ne mehman dharm nibhaate hue Rakshas ko phal-mool diye.
+Par Rakshas ke mann me bure iraade jag gaye.
+
+Woh bola:
+
+“Aaj main ise le jaunga. Ye pehle mera vaada kiya hua vivaah tha.”
+
+Aur bina soche-samjhe, usne Puloma ko utha liya.
+
+⭐ Agni Se Sawal
+
+Rakshas Puloma ne dekha ki ghar me yajna ki agni jal rahi hai.
+Woh agni se poochne laga:
+
+“Agni dev, sach-sach batao—ye aurat mere adhikar me thi ya Bhrigu ki patni hai?
+Tum devtaon ke muh ho, tum jhooth nahi bol sakte.”
+
+Rakshas baar-baar poochta raha.
+Agni dev bahut pareshaan ho gaye—
+Sach bolenge to Rakshas jitega…
+Jhooth bolenge to Bhrigu ka shraap (curse) milega.
+
+Par agni to satya ke devta hain.
+Isliye dheere-dheere unhone jawab diya:
+
+“Rakshas, pehle tumne ise chaha zaroor tha,
+par shaadi ki pavitra vidhi (holy rites) tumne nahi ki.
+Iske pita ne ise Bhrigu ko vedic rituals se vivaah me diya.
+Main khud iska sakshi (witness) hoon.
+Ye Bhrigu ki patni hai.”
+
+Agni dev ne jhooth nahi bola,
+aur yahi satya keh kar unhone apne dharm ko nibhaya."""
             create_image_text_layout(text_content=text2, layout="full")
 
         # Section 1.4.3
         with st.expander("Section 1.4.3"):
-            text1 = """ """
+            text1 = """ 
+⭐ Cyavana Ka Janm Aur Agni Ka Shraap
+
+(Hinglish Kahani Version)
+
+Sauti ne kahani aage badhai:
+
+⭐ Rakshas Ka Hamla
+
+Jab Agni dev ne sach bata diya,
+Rakshas Puloma bahut gusse me aa gaya.
+
+Woh turant soor (boar) ke roop me badal gaya,
+aur Puloma ko hawa se bhi tez raftaar se utha le gaya—
+jaise soch bhi nahi paati, utni tezi se.
+
+Puloma ke garbh me Bhrigu ka bachcha tha.
+Jab usne ye atyachaar mehsoos kiya,
+to gusse me bachcha maa ke garbh se gir padda.
+
+Isi liye uska naam pada Cyavana —
+“jo jhat se gir kar janma le.”"""
             create_image_text_layout("attached_assets/chapter1/1.4.3.jpg", text1, layout="side", image_position="left")
-            text2 = """ """
+            text2 = """ 
+⭐ Rakshas Ka Ant
+
+Jab Rakshas ne dekha ki
+maa ki kokh se ek chamakta hua bachcha nikla hai,
+jo sooraj ki roshni jaisa tej rakhta hai—
+to woh darr se Puloma ko chhod diya
+aur patak se neeche girte hi
+bhasm (ashes) ban gaya.
+
+Puloma roti hui apne narm-narm bacche Cyavana ko godh me liye chalne lagi.
+
+⭐ Brahma Ji Ka Aana
+
+Tabhi Brahma ji, sab ke Pitamah,
+use rote hue dekh kar aa pahunche.
+
+Unhone Puloma ko sambhala,
+aur jo aansu uski aankhon se tapak rahe the,
+wo milkar ek nadi ban gaye.
+
+Nadi unke peeche peeche chali
+aur Brahma ji ne uska naam rakha Vadhusara—
+bahu ke aansuon ki nadi.
+
+Wo nadi aaj bhi Cyavana Rishi ke ashram ke paas se guzarati hai.
+
+Is tarah Cyavana,
+Bhrigu ka tejashvi aur tapasvi putra janma.
+
+⭐ Bhrigu Ka Krodh
+
+Jab Bhrigu wapas aaye
+aur apni patni aur naye janme bachche ko dekha,
+to unka hriday gusse se bhar gaya.
+
+Unhone Puloma se poocha:
+
+“Tumhe Rakshas ne pehchana kaise?
+Kaun tha jisne tumhara raaz usse bataya?
+Main use shraap dunga!”
+
+Puloma ne sharme se kaha:
+
+“Agni dev ne mujhe pehchana diya.
+Wahi Rakshas mujhe le gaya.
+Par tumhare putra ke tej se hi
+main bach gayi—
+Rakshas to turant jal kar bhasm ho gaya.”
+
+⭐ Agni Ka Shraap
+
+Sauti batata hai:
+
+Ye sunkar Bhrigu ka gussa aur bhadak gaya.
+Unhone Agni ko shraap de diya:
+
+“Agni!
+Aaj se tum sab kuchh khaoge—
+achha-bura, pavitra-apavitra sab!”
+
+Agni dev behad dukhi hue,
+par shraap ho chuka tha."""
             create_image_text_layout(text_content=text2, layout="full")
 
         # Section 1.4.4
         with st.expander("Section 1.4.4"):
-            text1 = """ """
+            text1 = """ 
+⭐ Agni Ka Shraap Aur Brahma Ji Ka Samadhan
+
+(Hinglish Kahani Version)
+
+Sauti ne aage kahani batayi:
+
+⭐ Agni Dev Ka Dard
+
+Bhrigu ke shraap se Agni dev bahut dukhi aur gusse ho gaye.
+Unhone Bhrigu se kaha:
+
+“Hey Brahmana, maine kya galti ki?
+Mujhse sach poocha gaya, to maine sach bola.
+Jo sakshi sach chupata hai, wo apne purvajon ko dukh deta hai.
+Aur jo galat bayan deta hai, wo paap karta hai.
+Main to sirf nyay kar raha tha!”
+
+Agni ne ye bhi kaha:
+
+“Main to devtaon aur pitron ka muh hoon.
+Meri aag par hi unki bali di jaati hai.
+Main sab kuchh kaise kha sakta hoon?”"""
             create_image_text_layout("attached_assets/chapter1/1.4.4.jpg", text1, layout="side", image_position="left")
-            text2 = """ """
+            text2 = """ 
+⭐ Agni Dev Ka Antardhaan
+
+Gusse aur dukh se bhar kar, Agni dev
+sab yajnaon se gaayab ho gaye—
+na havan me aaye,
+na shaadi-vivaah me,
+na kisi pooja me.
+
+Jahan “Om”, “Svaha”, aur “Svadha” ki dhwani hoti thi,
+wahan ab shanti aur andhera chhaa gaya.
+
+Sab log—rishiyon se lekar devataon tak—
+bahut pareshan ho gaye.
+
+⭐ Rishiyon Aur Devataon Ki Fariyad
+
+Rishi log devataon ke paas gaye:
+
+“Agni ke bina koi pooja poori nahi hoti!
+Kripa karke kuchh upaay batao!”
+
+Phir sab mil kar Brahma ji ke paas gaye
+aur unko puri baat batayi.
+
+⭐ Brahma Ji Ka Bachan
+
+Brahma ji ne Agni ko bulaya
+aur bahut hi komal shabdon me kaha:
+
+“Agni, tum jagat ke rakshak ho.
+Tumhare bina yajna ruk jaayega.
+Isliye samajhdaari se kaam lo.
+Bhrigu ka shraap poora hoga—
+par tum poore shreer se
+‘bhojan karne wale’ nahi banoge.”
+
+Fir Brahma ji ne samjhaaya:
+
+**“Tumhari aag ka sirf ek chhota sa hissa
+sab kuchh khaayega—
+jaise jangli jaanwaron ke andar jo aag hai.
+
+Par tumhari pavitra aag,
+jo yajnaon me jalti hai,
+woh hamesha shuddh rahegi.
+Tumhara kaam hamesha ki tarah chalega.”**
+
+Aur ant me kaha:
+
+“Sooraj ki roshni sab kuchh shuddh kar deti hai—
+waise hi tumhari aag bhi
+jo chhuye use pavitra bana degi.”
+
+⭐ Agni Dev Ka Sammaan Wapas
+
+Agni dev ne shant hokar kaha:
+
+“Jaise aap kahete hain, vaise hi hoga.”
+
+Phir woh wapas yajnaon me aa gaye—
+aur poora sansaar
+khushi se bhar gaya.
+
+Rishiyon ne phir se havan kiya,
+devta prasann hue,
+aur sabhi logon ne sukoon ki saans li.
+
+⭐ Kahani Ka Saar
+
+Aise hua Bhrigu ka shraap,
+Puloma rakshas ka vinaash,
+aur Cyavana Rishi ka janm."""
             create_image_text_layout(text_content=text2, layout="full")
 
         # Section 1.4.5
         with st.expander("Section 1.4.5"):
-            text1 = """ """
+            text1 = """ 
+⭐ Ruru Aur Pramadvara Ki Karun Kahani
+
+(Hinglish Kahani Version)
+
+Sauti ne aage bataya:
+
+⭐ Ek Pavitra Vansh Ki Kahani
+
+Bhrigu ke putra Cyavana ke ghar ek beta hua—Pramati.
+Pramati ke ghar paida hua Ruru,
+aur Ruru ka beta bana Sunaka.
+
+Par kahani ka sabse dard bhara hissa
+Ruru aur Pramadvara se juda hai."""
             create_image_text_layout("attached_assets/chapter1/1.4.5.jpg", text1, layout="side", image_position="left")
-            text2 = """ """
+            text2 = """ 
+⭐ Pramadvara Ka Janm
+
+Ek samay ek mahan Rishi the—Sthulakesa.
+Bahut dayavaan, bahut shant.
+
+Usi samay Gandharva raja Vishvavasu
+aur Menaka Apsara ke sambandh se
+ek nanhi bachchi janmi.
+
+Menaka ne, bina daya ke,
+wo bachchi nadike kinare chhod di
+aur wapas swarg chali gayi.
+
+Rishi Sthulakesa ne jab
+us chhodi hui bachchi ko dekha,
+to unka hriday pighal gaya.
+
+Woh boli jaise devlok ka phool,
+masoom aur roshni se bhari.
+
+Rishi ne use godh le liya
+aur uska palan-poshan kiya
+jaise apni hi beti ho.
+
+Unhone uska naam rakha—
+Pramadvara,
+kyonki uski achchai, sundarta
+aur shanti sabse alag thi.
+
+⭐ Ruru Ka Prem
+
+Jab Ruru ne pehli baar Pramadvara ko dekha,
+to unke hriday me prem ki jyoti jal uthi.
+
+Woh bas usi ko jeevan-sangini banana chahte the.
+
+Unhone apne pita Pramati se kaha,
+aur Rishi Sthulakesa ne
+khushi se Pramadvara ka vivaah Ruru se tai kar diya.
+
+Sabhi log utsahit the.
+Vivaah ki tithi bhi nirdharit ho gayi.
+
+⭐ Vidhata Ki Likhi Rekha
+
+Lekin byaah se kuchh din pehle
+Pramadvara apni saheliyon ke saath khel rahi thi.
+
+Bechari ne dekha hi nahi
+ki ghaas ke neeche
+ek zehreela saanp coil banaye pada tha.
+
+Usne us par pair rakh diya.
+
+Saanp ne turant
+apne zehreelay daant uske sharir me utaar diye—
+jaise kismet ka bijli-wala vaar.
+
+Ek pal me hi
+Pramadvara ka rang udh gaya.
+Woh gir padi… behti hawa jaise sust.
+
+Uski saheliyan cheekh uthi.
+Rishiyon ke hriday toot gaye.
+
+Woh Pramadvara,
+jo kuchh pal pehle chamakti thi
+suraj ki kiranon ki tarah,
+ab wahan sthir padhi thi—
+phool jaise, par sundarta me dard mila hua.
+
+⭐ Ruru Ka Tootna
+
+Jab Ruru ne yeh drishya dekha,
+to unka dil patthar ki tarah bhar gaya.
+
+Duniya unke liye ruk si gayi.
+
+Unhone chupchaap
+bheed se door jaakar
+apne dard ko akela jhela—
+jaise koi toda hua pankhi
+jungle ke kone me ro raha ho."""
             create_image_text_layout(text_content=text2, layout="full")
 
         # Section 1.4.6
         with st.expander("Section 1.4.6"):
-            text1 = """ """
+            text1 = """ 
+⭐ Ruru Aur Pramadvara – Jeevan Ka Vachan
+
+(Hinglish Kahani Version Continued)
+
+Sauti ne kaha:
+
+⭐ Ruru Ka Dard
+
+Sabhi Brahman log
+Pramadvara ke nishchetf shareer ke paas baithe the.
+
+Ruru ka dil toot chuka tha.
+Woh chup-chap gehre jungle me chala gaya
+aur zor-zor se ro padā—
+jaise dard ki aandhi chal rahi ho.
+
+Woh baar-baar kehta:
+
+“Haaye…
+Meri komal, sundar Pramadvara
+thandi zameen par padhi hai.
+
+Agar maine kabhi daan kiya ho,
+agar kabhi satya aur tapasya ki ho,
+agar maine guru aur bado ka samman kiya ho—
+toh meri Pramadvara laut aaye.
+
+Agar bachpan se maine apne mann ko niyantran me rakha ho,
+toh woh uth jaaye…
+meri taraf ek baar muskura kar dekhe…”
+
+Ruru ka har shabd
+jungle me dard ki tarah goonj raha tha."""
             create_image_text_layout("attached_assets/chapter1/1.4.6.jpg", text1, layout="side", image_position="left")
-            text2 = """ """
+            text2 = """ 
+⭐ Swarg ka Sandeshvahak
+
+Tabhi aasman se
+ek divya sandeshvahak aaya.
+
+Usne komal vaani me kaha:
+
+“O Ruru,
+tum jo shabd dukh me bol rahe ho,
+unse kisi mrityu-paye ko jeevan nahi mil sakta.
+
+Pramadvara ki umr poori ho chuki thi.
+Isliye tumhe apne dukh ko sambhalna chahiye.
+
+Lekin…
+devon ne pehle se hi
+uske jeevan ka ek raasta rakha hai.
+
+Agar tum chaho,
+toh Pramadvara wapas jeevit ho sakti hai.”
+
+Ruru ne aansuon bhari aawaz me poocha:
+
+“Batayiye!
+Kya karna hoga?
+Main kuchh bhi karne ko taiyaar hoon.”
+
+Sandeshvahak bola:
+
+“Tum apni aadhi aayu
+Pramadvara ko de do.
+
+Tab woh uth jaayegi.”
+
+⭐ Jeevan ka Ardhy-Hissa
+
+Ruru ne bina pal bhar sochhe kaha:
+
+“Main apni aadhi zindagi deta hoon.
+Bas meri Pramadvara
+phir se zinda ho jaaye.”
+
+Tab Gandharva Raja
+aur dev-doot
+Dharma Dev ke paas gaye
+aur prarthana ki.
+
+Dharma Dev bole:
+
+“Agar yeh sab ki ichchha hai,
+toh Pramadvara
+Ruru ki aadhi aayu lekar
+punah jeevit ho jaaye.”
+
+Aur vah hua.
+
+⭐ Pramadvara Ka Wapas Aana
+
+Pramadvara dheere-dheere uthi—
+jaise gehri neend se jaagi ho.
+Uska rang, uski komalta,
+sab wapas aa gaya.
+
+Ruru ne use dekha
+toh unki aankhon se
+khushi ke aansu beh nikle.
+
+Us din, shubh muhurat me,
+dono ka vivaah hua.
+Dono ek-dusre ke saath
+pyaar aur shanti se jeene lage.
+
+⭐ Ruru Ka Saanpon se Vaada
+
+Lekin Ruru ke mann me
+ek gehra gussa baitha tha.
+
+Unhone pratigya ki:
+“Jo bhi saanp dikhega,
+main use maar dunga.”
+
+Isliye jab jab koi saanp milta,
+Ruru gusse me usse mar deta.
+
+⭐ Ek Purana Saanp Ka Sawal
+
+Ek din Ruru ek bade jungle me ghoom raha tha.
+Wahan usne ek bahut buddha saanp dekha—
+Dundubha jaati ka.
+
+Ruru ne turant apna danda uthaya
+usko maarne ke liye.
+
+Lekin buddhe saanp ne
+komal aawaz me kaha:
+
+“O Brahmana,
+maine tumhara kya bigaada hai?
+Tum mujhe kyon maarna chahte ho?”"""
             create_image_text_layout(text_content=text2, layout="full")
 
         # Section 1.4.7
         with st.expander("Section 1.4.7"):
-            text1 = """ """
+            text1 = """ 
+⭐ Ruru Aur Sahasrapat – Saanp Ka Raaz
+
+(Hinglish Kahani Rewrite)
+
+Sauti ne kaha:
+
+⭐ Ruru Ka Gussa
+
+Buddhe saanp ki baat sun kar
+Ruru ne dant bhincho kar jawab diya:
+
+“Sun, saanp!
+Meri patni Pramadvara—
+jo meri saanson jaisi pyaari thi—
+use ek saanp ne dasta tha.
+
+Us din se maine kasam khayi:
+Jitne saanp milenge,
+sabko maarunga!
+
+Isliye aaj tum bhi bacho ge nahi!”
+
+Ruru ka gussa
+jalti aag ki tarah tha."""
             create_image_text_layout("attached_assets/chapter1/1.4.7.jpg", text1, layout="side", image_position="left")
-            text2 = """ """
+            text2 = """ 
+⭐ Dundubha Ka Vinamra Jawaab
+
+Dundubha saanp dara hua tha,
+par phir bhi shaant bolaa:
+
+“O Brahmana,
+jo saanp insaan ko daste hain
+unse hum bilkul alag hote hain.
+
+Hum Dundubha keval naam ke saanp hain—
+hamari zindagi mushkilein bhari hai,
+par hamme un bissile saap jaise
+chaal-bhaag ka koi faayda nahi milta.
+
+Dukh humara same hai,
+par sukh kabhi nahi.
+
+Isliye, Ruru,
+galatfehmi me aakar
+hume mat maaro.”
+
+⭐ Ruru Ka Mann Badalta Hai
+
+Ruru ne dekha ki saanp sach me dara hua hai,
+aur koi burai bhi nahi kar raha.
+
+Uska gussa dheere se thanda pad gaya.
+Usne danda neeche kar diya
+aur naram aawaz me bola:
+
+“Thik hai…
+Main tumhe nahi maarunga.
+
+Par mujhe batao,
+tum ho kaun?
+Saanp hote hue bhi
+insaan ki tarah baat kaise kar rahe ho?”
+
+⭐ Ek Chhupa Sach
+
+Dundubha ne gahri saans li
+aur bola:
+
+“O Ruru…
+main asal me saanp nahi hoon.
+
+Main ek Rishi tha—
+Sahasrapat naam ka.
+
+Par ek Brahmana ke shraap se
+main is roop me aa gaya.”
+
+Ruru hairaan reh gaya.
+
+Usne poocha:
+
+“Achha?
+Par tumhe shraap kyon mila?
+Aur kitni der tak
+tumhe is tarah saap ki tarah rehna padega?”
+
+Dundubha chup ho gaya—
+jaise bhari yaadon me dub gaya ho.
+Kahani ab uske shraap ki taraf badhne lagi..."""
             create_image_text_layout(text_content=text2, layout="full")
 
         # Section 1.4.8
         with st.expander("Section 1.4.8"):
-            text1 = """ """
+            text1 = """ 
+⭐ Ruru Aur Sahasrapat Ka Shraap – Saanp Ka Sach
+
+(Hinglish Kahani)
+
+Sauti ne kaha:
+
+⭐ Sahasrapat Ki Purani Kahani
+
+Dundubha—jo asal me Rishi Sahasrapat tha—
+ne Ruru ko apni dukhbhari kahani batani shuru ki:
+
+“Ruru… bahut saal pehle,
+mera ek dost tha—Khagama.
+Woh teekhi zubaan wala tha
+par tapasya ki wajah se bahut shaktishaali bhi.”
+
+Ek din Khagama Agni-hotra kar raha tha.
+Main mazaak karne ke mood me tha…
+to maine kanto wali ghaas se
+ek nakli saanp bana liya
+aur use daraane ki koshish ki.
+
+Khagama ne jaise hi use dekha—
+woh behosh ho gaya!"""
             create_image_text_layout("attached_assets/chapter1/1.4.8.jpg", text1, layout="side", image_position="left")
-            text2 = """ """
+            text2 = """ 
+⭐ Shraap Ka Gussa
+
+Hosh me aate hi,
+woh gusse se kaanp utha:
+
+“Tu ne mujhe nakli saanp se daraaya?
+Toh sun!
+Tu khud ek saanp ban jaa—
+par zehre ke bina, ek bechaara saanp!”
+
+Mere pairon tale zameen khisak gayi.
+Mujhe pata tha uski tapasya kitni shakti rakhti hai.
+Main ghabra kar pair pakad kar bola:
+
+“Dost, maine toh mazaak me kiya!
+Maaf kar do… apna shraap wapas le lo.”
+
+Khagama ka saans tez tha,
+par dil me daya aa gayi.
+
+Usne kaha:
+
+“Shraap to lagega hi.
+Par sun—
+Jab Ruru, Pramati ka pavitra beta dikhega,
+uski pehli jhalak me hi
+tu apne purane roop me laut aayega.”
+
+Phir usne mujhe pehchaan kar kaha:
+
+“Ruru… tumhi woh ho.
+Tumhari wajah se
+mera shraap ab khatam ho gaya.”
+
+⭐ Rishi Ka Upadesh – Ek Brahmana Ka Dharam
+
+Jaise hi shraap khatam hua,
+Sahasrapat ne apna asli roop le liya—
+tej aur prakash se bhara hua.
+
+Phir usne Ruru ko
+pyaar aur samajh bhare shabdon me kaha:
+
+“Ruru, dhyaan se suno…
+
+⭐ Sabse bada dharm kya hai?
+
+Jeevon ki raksha karna.
+
+Ek Brahmana ka kaam
+kisi ka jeevan lena nahi hota.
+
+Ek Brahmana ko hamesha:
+
+naram dil ka hona chahiye,
+
+Vedo ka gyaan rakhna chahiye,
+
+sabme bhagwan par shraddha jagani chahiye,
+
+kisi ko dukh nahi dena chahiye,
+
+satya aur kshama ka marg pakadna chahiye.
+
+⭐ Kshatriya ka kaam alag hota hai
+
+Sakta dikhana,
+rajya chalana,
+shastra uthana—
+ye sab Kshatriyon ka dharm hai.
+Tumhara nahi.
+
+Isliye, beta,
+saanpon ko maarne ki kasam chhod do.”
+
+⭐ Aage Ki Kahani Ka Sanket
+
+Phir Sahasrapat ne kaha:
+
+“Ab suno Ruru…
+mai tumhe ek purani ghatna bataunga—
+
+Janamejaya ka Sarp–Yagya,
+jisme saari nag jati vinash hone wali thi…
+
+Aur kaise ek mahaan Brahmana,
+Astika,
+ne un sab saanpon ki jaan bachayi.”"""
             create_image_text_layout(text_content=text2, layout="full")
 
         # Section 1.4.9
         with st.expander("Section 1.4.9"):
-            text1 = """ """
+            text1 = """ 
+⭐ Ruru Aur Astika Ki Kahani Ka Raaz
+
+(Hinglish Kahani)
+
+Sauti ne kaha:
+
+⭐ Ruru Ka Sawal
+
+Sahasrapat Rishi ke jaane ke baad,
+Ruru ke mann me ek hi sawaal baar-baar aane laga:
+
+“Janamejaya ne saare saanpon ko kyun maarna chaha?
+Aur unki jaan Astika ne kaise bachayi?
+Ye sab main poori tarah samajhna chahta hoon!”
+
+Isliye Ruru ne Rishi se poocha:
+
+“Hey Dwijaraj, meri jigyaasa door karo.
+Ye sab kaise hua? Mujhe batao na!”"""
             create_image_text_layout("attached_assets/chapter1/1.4.9.jpg", text1, layout="side", image_position="left")
-            text2 = """ """
+            text2 = """ 
+⭐ Rishi Ka Uttar
+
+Rishi muskuraye,
+aur shant swar me bole:
+
+“Ruru…
+Astika ki kahani bahut mahan hai.
+Ye kahani tumhe
+‘vidvaan Brahmano ke mukh se’ hi sunni chahiye.
+
+Woh hi is pavitra ghatna ko
+poori tarah jaante hain.”
+
+Itna kehkar Rishi
+achanak hawa ki tarah gaayab ho gaye.
+
+⭐ Ruru Ka Dhoondhna
+
+Ruru ghabra gaya.
+Woh idhar-udhar bhaaga,
+pedon ke peeche dekha,
+gheray jangal me jaakar pukara—
+
+“Hey Rishi!
+Kahan chale gaye aap?”
+
+Par Rishi kahin nahi mile.
+Aakhir thak kar
+Ruru zameen par gir gaya.
+Uska mann uljhan se bhar gaya tha.
+
+Unke shabd uske kaan me gunguna rahe the:
+“Brahmano se poochna…”
+
+⭐ Ghar Laut kar Sach Ko Jaana
+
+Hosh sambhalte hi
+Ruru ghar gaya
+aur apne pita Pramati se bola:
+
+“Pitashri…
+Mujhe Astika ki puri kahani sunni hai.
+Janamejaya ne saanpon ka nash kyun karna chaaha?
+Aur unhe kisne bachaya?”
+
+Pramati ne apne bete ki vyagra jigyaasa dekhi
+aur bola:
+
+“Beta, theek hai…
+Main tumhe sab kuch bataata hoon.
+Dhyaan se suno.”
+
+Aur fir Pramati ne
+Astika ka janm,
+Takshaka ki kahani,
+aur Janamejaya ke Sarp-Yagya ki puri gatha
+sunaani shuru ki."""
             create_image_text_layout(text_content=text2, layout="full")
 
 
