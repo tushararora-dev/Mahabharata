@@ -4420,37 +4420,394 @@ sunaani shuru ki."""
 
         # Section 1.5.1
         with st.expander("Section 1.5.1"):
-            text1 = """ """
+            text1 = """
+⭐ Astika Ki Kahani — Jaratkaru Aur Unke Purvaj
+
+(Hinglish Kahani — Section XIII)
+
+Ek din Saunaka Rishi ne Sauti se pucha—
+
+“Janamejaya raja ne saapon ka yagna kyun rakha?
+Aur Astika ne un saap ko bachaya kaise?
+Astika kaun tha?
+Janamejaya kaun tha? Pura sach batao.”
+
+Sauti bole—
+
+“Yeh bahut lambi aur rochak kahani hai.
+Yeh sab Vyasa ji ne pehle sunaya tha,
+aur mere pita Lomaharshana ne bhi Naimish ke rishiyon ko sunaya tha.
+Main wahan tha.
+Ab main aapko wahi kahani jaisi suni, waisi sunaata hoon.”"""
             create_image_text_layout("attached_assets/chapter1/1.5.1.jpg", text1, layout="side", image_position="left")
-            text2 = """ """
+            text2 = """ 
+⭐ Jaratkaru Rishi ka Tapasya Bhara Jeevan
+
+Astika ke pitaji Jaratkaru naam ke mahan tapasvi the.
+Bahut kathor vrat rakhte, bahut kam khate,
+aur poori duniya mein teerth yatra karte rehte.
+
+Ek din, ghoomte ghoomte, unhone ek ajeeb drishya dekha—
+
+⭐ Purvaj Ulte Latke Hue!
+
+Ek gehri surang mein, kuch rishiyan ke purvaj
+sar niche, pair upar latke hue the,
+aur unhe ek patli si ghaas ki rassi sambhale hui thi.
+
+Us rassi ko ek chuha chaba raha tha!
+Agar rassi toot jaati toh purvaj gir jaate.
+
+Jaratkaru ghabra gaye—
+
+“Aap kaun hain? Aise kyun latke ho?”
+
+Purvaj bole—
+
+**“Hum Yayavara rishi hain.
+Hum isliye latke hain kyunki humari vansh ruk rahi hai.
+Humara ek hi aakhri vanshaj hai—
+Jaratkaru!
+
+Woh tapasya mein laga rehta hai,
+shaadi nahi karta,
+iska matlab humari kul-pankti khatam ho jaayegi.
+Isliye hum yahan latak kar apni nasht hoti vansh ka dukh saha rahe hain.”**
+
+Jaratkaru shock ho kar bole—
+
+“Main hi Jaratkaru hoon!
+Bataaiye main aapki kaise madad karoon?”
+
+Purvaj bole—
+
+“Bas ek kaam karo—
+shaadi karo aur ek putra paida karo.
+Wahi humari mukti ka kaaran banega.”
+
+⭐ Jaratkaru Ka Sankalp
+
+Jaratkaru sad ho gaye, aur bola—
+
+**“Main kabhi apne liye shaadi nahi karunga…
+par aapke liye jaroor karunga.
+
+Par shart yeh hai—
+ladki ka naam Jaratkaru hi hona chahiye
+aur uske parivar wale khud mujhe daan mein dene chahen.
+Main gareeb hoon, mujhe kaun beti dega?
+Par agar koi de diya toh main pratigya karta hoon—
+main aapke liye vansh ko aage badhaunga.”**
+
+Purvaj khush ho gaye.
+Unhone Jaratkaru ko aashirvaad diya.
+
+⭐ Yehi Se Astika Ki Kahani Shuru Hoti Hai…
+
+Yahin se kahani aage badhti hai,
+aur Jaratkaru ki shaadi, unke putra Astika ka janm
+aur saap-yagya ko rokne ki Astika ki himmat ki gatha
+aage aati hai."""
             create_image_text_layout(text_content=text2, layout="full")
 
         # Section 1.5.2
         with st.expander("Section 1.5.2"):
-            text1 = """ """
+            text1 = """ 
+⭐ Astika Ki Kahani – Jaratkaru Ki Shaadi
+
+(Hinglish Kahani — Section XIV)
+
+Jaratkaru Rishi ne apne purvajon से वादा किया था—
+“Main shaadi karunga, par sirf us ladki se jiska naam bhi Jaratkaru ho.”
+
+Lekin duniya bhar ghoomne ke baad bhi,
+unhe koi aisi kanya nahi mili."""
             create_image_text_layout("attached_assets/chapter1/1.5.2.jpg", text1, layout="side", image_position="left")
-            text2 = """ """
+            text2 = """ 
+⭐ Rishi Ka Prarthana Karna
+
+Ek din, thak kar Rishi Jaratkaru ek jungle mein ruk gaye.
+Purvajon ke shabd yaad karke,
+unhone teen baar dheemi si awaaz mein prarthana ki—
+
+“Mujhe ek patni mile… Jaratkaru naam wali… daan mein.”
+
+Unki prarthana sachchi thi, dil se nikli thi.
+
+⭐ Vasuki Ka Aana
+
+Tabhi saap-race ke naayak Vasuki unke saamne aaye.
+
+Vasuki ne kaha—
+
+“Rishi ji, main apni behen ko aapko patni ke roop mein dena chahta hoon.”
+
+Par Jaratkaru Rishi ne turant mana kar diya.
+Unhone socha—
+
+“Agar iska naam Jaratkaru nahi hua toh main shaadi nahi kar sakta.”
+
+Isliye unhone Vasuki se poocha—
+
+“Sach batao, tumhari behen ka naam kya hai?”
+
+⭐ Vasuki Ka Vachan Pura Hona
+
+Vasuki muskura diye aur bole—
+
+“Rishi ji, meri behen ka naam bhi Jaratkaru hi hai.
+Main usey aapke liye hi sambhal kar rakha tha.
+Kripya ise svikaar karo.”
+
+Yeh sunkar Rishi ka mann shaant ho gaya.
+
+Rishi Jaratkaru ne Vasuki ki behen,
+slender-waisted aur vinamra Jaratkaru,
+ko vidhi-vidhan se patni ke roop mein apna liya.
+
+Unki shaadi dharm ke anusaar, shanti se poori hui.
+
+⭐ Yahi se Astika ka janm hoga…
+
+Is pavitra vivah se
+Astika naam ka mahan Rishi paida hoga—
+jo aage chal kar saap-yagya rok kar saap-jati ko bachayega।"""
             create_image_text_layout(text_content=text2, layout="full")
 
         # Section 1.5.3
         with st.expander("Section 1.5.3"):
-            text1 = """ """
+            text1 = """ 
+⭐ Astika Ki Kahani – Saapon Ka Rakshak
+
+(Hinglish Kahani — Section XV)
+
+Bahut pehle, saapon ki maa ne apne bachchon ko shraap diya tha:
+
+“Agni, jiska rath-vaahak hawa hogi, Janamejaya ke yagya mein tumhe jala dega!”
+
+Is shraap ko rokne ke liye hi
+saap-naresh Vasuki ne apni behen ki shaadi
+Rishi Jaratkaru se karwayi thi."""
             create_image_text_layout("attached_assets/chapter1/1.5.3.jpg", text1, layout="side", image_position="left")
-            text2 = """ """
+            text2 = """ 
+⭐ Astika ka Janm
+
+Shaadi ke baad, Rishi Jaratkaru aur unki patni se
+ek tejasvi putra paida hua—Astika।
+
+Astika bahut hi gyaani tha—
+Vedas ka vidvaan, shaant-swaroop, sabko ek samaan nazar se dekhne wala.
+Woh apni maa aur papa, dono ke dar ko door karta tha.
+
+⭐ Janamejaya ka Saap–Yagya
+
+Samay guzar gaya.
+Pandav vansh ka ek raja, Janamejaya,
+ne ek mahaan yagya shuru kiya—
+Saap–Yagya, jisme saare saapon ko aag mein daal kar maarna tha.
+
+Jab yagya shuru hua,
+saap ek ek karke aag mein girne lage.
+Vasuki aur saap-jati ka bhay badhta gaya.
+
+⭐ Astika Ka Vachan Nibhana
+
+Astika ko pata tha—
+yeh saap uske mama, bhai aur parivar hain.
+Agar woh na rukega toh saap-jati khatam ho jayegi.
+
+Isliye Astika ne apna gyaan, tapasya aur dharm ka sahara liya
+aur Janamejaya ke yagya ko beech mein rok diya.
+
+Meetha, samajhdar vaachan dekar
+Astika ne raja ka dil jeet liya.
+
+Aur raja ne ghoshna ki:
+
+“Aaj se saap–yagya roka jata hai!”
+
+Is tarah Astika ne apne parivaar ko bacha liya.
+
+⭐ Rishi Jaratkaru Ka Kartavya Pura Hua
+
+Astika ne:
+
+Devon ko yagyon se santusht kiya,
+
+Rishiyon ko brahmacharya se prasann kiya,
+
+Purvajon ko apni santan se moksh diya,
+
+Aur saapon ko aag se bachaya.
+
+Is prakar Rishi Jaratkaru ka sab karz—
+dev-karz, pitra-karz, rishi-karz—
+poora ho gaya।
+
+Ant mein, bahut saal tapasya ke baad,
+Rishi Jaratkaru swarg ko prapt ho gaye,
+Astika ko dharti par chhod kar."""
             create_image_text_layout(text_content=text2, layout="full")
 
         # Section 1.5.4
         with st.expander("Section 1.5.4"):
-            text1 = """ """
+            text1 = """ 
+⭐ Astika Ki Kahani – Vinata, Kadru aur Garuda Ka Janm
+
+(Hinglish Kahani — Section XVI)
+
+Saunaka ne Sauti se kaha:
+“Humein Astika ki kahani aur detail mein sunao. Tumhari boli madhur hai. Jaise tumhare pita sunate the, vaise hi sunao.”
+
+Sauti ne kaha:
+“Achha, main wahi kahani sunata hoon jo maine apne pita se suni thi.”"""
             create_image_text_layout("attached_assets/chapter1/1.5.4.jpg", text1, layout="side", image_position="left")
-            text2 = """ """
+            text2 = """ 
+⭐ Kadru aur Vinata – Do Behen, Do Patniyan
+
+Satyug ke samay, Prajapati ki do khoobsurat betiyan thi—
+Kadru aur Vinata.
+
+Dono ne Rishi Kashyapa se vivaah kiya.
+Kashyapa un dono se bahut prasann the.
+Isliye unhone bola:
+
+“Maango, kya vardaan chahiye?”
+
+Kadru boli:
+“Mujhe ek hazaar saap-putra chahiye. Sab ek jaise roopwale.”
+
+Vinata boli:
+“Mujhe do putra chahiye. Par woh dono Kadru ke hazaar bachchon se bhi zyada shaktishaali, bade aur prabhavshaali hon.”
+
+Kashyapa ne dono ko “Tathastu” kaha,
+aur dono vardaan poore kiye.
+
+⭐ Ande aur Intezaar
+
+Kadru ne 1000 ande diye.
+Vinata ne sirf 2 ande diye.
+
+Dasiyon ne sab ande garam kalashon mein rakhe.
+
+500 saal beet gaye.
+
+Kadru ke sab ande toot gaye—
+aur hazaar saap-putra janam le liye.
+
+Lekin Vinata ke dono ande abhi tak nahi toote.
+Vinata ko jalan hui.
+
+⭐ Vinata ki Galti Aur Shraap
+
+Bechain hokar Vinata ne
+pehla anda tod diya.
+
+Andar ek bachcha tha—
+upar ka hissa bana hua,
+neeche ka hissa adhura.
+
+Us bachche ne gusse mein shraap diya:
+
+“Maa! Tumne mujhe jaldi nikala.
+Isliye tum dusron ki daasi banogi.
+Par agar tum dusre ande ko 500 saal aur na chhedo,
+to mera bhai tumhe azaad karega.”
+
+Wahi bachcha baad mein
+Surya ka rath chalane wala bani—
+Arun!
+
+⭐ Garuda Ka Janm
+
+Agla 500 saal beetne ke baad,
+Vinata ka doosra anda apne aap toota.
+
+Usme se nikla—
+
+🌟 Garuda! 🌟
+Sampo ka shatru, pakshiyon ka raja, tejasvi aur adbhut.
+
+Janam ke turant baad,
+Garuda hawa mein uda—
+kyonki usse bhook lagi thi
+aur uske liye khaana Bhagwan ne pehle se nirdharit kiya tha.
+
+Usne apni maa Vinata se pyaar kiya,
+par turant apni udaan par nikal gaya—
+kyonki uska karyarambh usi din se tha.
+
+Bas, yeh tha Kadru, Vinata, Arun aur Garuda ka janm ka adhyay—
+jo aage chal kar Astika ki kahani se juda hua hai."""
             create_image_text_layout(text_content=text2, layout="full")
 
         # Section 1.5.5
         with st.expander("Section 1.5.5"):
-            text1 = """ """
+            text1 = """ 
+⭐ Astika Ki Kahani – Samudra Manthan Ka Aarambh
+
+(Hinglish Kahani — Section XVII)
+
+Sauti ne kaha:
+“Isi samay Kadru aur Vinata ne ek divya ghoda aate dekha.”
+
+Woh ghoda tha—
+🌟 Uchhaihshravas 🌟
+Devtaon ka priya,
+hamesha jawaan,
+chamak se bhara hua,
+aur tejon se yukt.
+
+Yeh ghoda Samudra Manthan ke samay nikla tha.
+Iska roop itna sundar tha ki dono behne use hairaan hokar dekh rahi thi."""
             create_image_text_layout("attached_assets/chapter1/1.5.5.jpg", text1, layout="side", image_position="left")
-            text2 = """ """
+            text2 = """ 
+⭐ Saunaka ka Prashna
+
+Saunaka ne turant poocha:
+
+“Devtaon ne samudra ko kyon matha?
+Aur kab Uchhaihshravas jaise shaktishaali ghode ka janm hua?”
+
+⭐ Sauti Ka Uttar – Meru Parvat Aur Devtaon Ki Sabha
+
+Sauti ne kaha:
+
+“Is pracheen katha ka aarambh Meru Parvat se hota hai.”
+
+Meru ek adbhut pahaad hai—
+sunehri chamak wala,
+surya ki kirne jismein toot kar chamakti hain.
+Uske shikhar aasman ko chhoote hain.
+
+Wahan devta, gandharva, aur divya jeev baste hain.
+Yeh pahaad paapiyon ke liye aprapya hai.
+Yahan ajeebo-gareeb janwar ghoomte hain.
+Yahan lakhsaan upchaarik jari-bootiyan ugti hain.
+
+Ek din devta sab Meru ke ratna-jadit shikhar par ikattha huye.
+Woh sab bahut bechain aur chintit the—
+kyonki sabko amrit chahiye tha,
+par amrit kahin bhi nahi mil raha tha.
+
+⭐ Narayana Ki Salah
+
+Tab Bhagwan Narayana ne Brahma se kaha:
+
+“Hey Brahma, devtaon aur asuron ko lekar
+Samudra ko matho.
+Usse amrit niklega.
+Uske saath bahut saari aushadhiyan aur ratna bhi prakat honge.
+Yeh hi tarika hai amrit paane ka.”
+
+Devta sun kar utsahit ho gaye.
+Sab ne man banaya:
+
+🌊 Samudra Manthan hoga! 🌊
+Amrit payenge!
+Aur ussi manthan ke dauran
+niklega—Uchhaihshravas,
+devtaon ka divya ghoda!"""
             create_image_text_layout(text_content=text2, layout="full")
 
         # Section 1.5.6
