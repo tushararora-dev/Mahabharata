@@ -4812,37 +4812,686 @@ devtaon ka divya ghoda!"""
 
         # Section 1.5.6
         with st.expander("Section 1.5.6"):
-            text1 = """ """
+            text1 = """ 
+⭐ Astika Ki Kahani – Samudra Manthan (Bhag II)
+
+(Hinglish Kahani — Section XVIII)
+
+Sauti ne kaha:
+
+Ek pahaad tha—
+🌄 Mandara Parvat.
+Badalon jaisa shikhar,
+sugandhit jari-bootiyon se dhaka,
+panchhiyon ki madhur awaazon se gunjta,
+aur jangli janwaron se bhara hua.
+
+Devta, apsarayein aur kinnar bhi wahaan aate-jate the.
+Yeh parvat 11,000 yojan upar aur 11,000 yojan neeche tak faila hua tha!
+
+Devta chahte the ki iss pahaad ko mathani bana kar samudra manthan karein.
+Par woh isey ukhaad nahi pa rahe the.
+Thake-haare woh Brahma aur Vishnu ke paas gaye.
+
+Unhone vinati ki:
+
+“Bhagwan! Kuch upay bataiye. Mandara ko ukhaadna humse sambhav nahi!”"""
             create_image_text_layout("attached_assets/chapter1/1.5.6.jpg", text1, layout="side", image_position="left")
-            text2 = """ """
+            text2 = """ 
+⭐ Vishnu Ka Aadesh – Ananta Ki Shakti
+
+Vishnu aur Brahma dono raazi hue.
+
+Vishnu ne kaha:
+
+“Yeh kaam sirf ek hi kar sakta hai —
+shaktishaali saap-raj, Ananta.”
+
+Ananta ko aadesh mila.
+Usne apni ati-balshali shakti se
+Mandara Parvat ko jad se ukhaad diya,
+saath hi uske saare ped, pakshi, aur prani upar hi rehte gaye!
+
+Sab milkar samudra ke kinare aaye
+aur samudra se kaha:
+
+“Hum tumhein mathna chahte hain. Amrit chahiye.”
+
+Samudra bola:
+
+“Theek hai. Par mujhe bhi amrit ka hissa milega.”
+
+⭐ Kachhua Raja – Kurma Avatar ki Tyari
+
+Devta phir kachhua-raja ke paas gaye.
+
+Unhone kaha:
+
+“Parvat ko apni peeth par sambhaliye!”
+
+Kachhua-raja maanak gaya.
+Indra ne Mandara ko uski peeth par rakha.
+
+Aur phir—
+
+🗻 Mandara bani mathani
+🐍 Vasuki bana rassi
+Devta Vasuki ki poonch pakde
+Asur uska hood pakde
+
+Ananta kabhi Vasuki ka sar upar uthaye,
+kabhi neeche dabaye.
+
+Us tanav se Vasuki ke muh se
+kala dhuaan aur aag nikli—
+jo badal ban gaya
+aur tez bijli ke saath barsa,
+jisse thake hue devta ko thandak mili.
+
+Upar se ped tod-tod kar phool gir rahe the.
+Devta khush ho gaye.
+
+⭐ Samudra Manthan ka Haadsa
+
+Par manthan aasaan nahi tha.
+
+🌊 Samudra ghoom raha tha.
+Bade-bade jaljeev kuchle ja rahe the.
+Neeche ki naglok tak halchal mach rahi thi.
+
+Ped jado se ukhad kar samudra mein gir rahe the.
+Unki ghis-ghis se aag lag jaati.
+Pahaad dekhne mein aisa lagta
+jaise bijli se chhata hua andhera baadal.
+
+Aag chale toh
+Indra ne baarish kar ke bujha di.
+
+⭐ Dhire-Dhire Amrit Ki Mahak
+
+Manthan chalti rahi.
+Jari-bootiyon ka ras samudra mein ghul gaya.
+Samudra ka doodhiya paani
+ghee jaisa hone laga.
+
+Par amrit abhi tak nahi nikla tha!
+
+Thake hue devta
+Brahma ke paas gaye:
+
+“Hum mein shakti nahi bachi.
+Ab amrit ke bina mathna mushkil hai.”
+
+Brahma ne Vishnu se kaha:
+
+“Hey Narayana, inhe shakti do.”
+
+Vishnu ne kaha:
+
+“Main tumhein shakti deta hoon.
+Fir se matho.”
+
+⭐ Divya Ratnon Ka Udbhav
+
+Manthan dobara shuru hua.
+Aur phir ek-ek karke nikalne lage:
+
+🌙 1. Cool, thousand-rayed Moon
+🌼 2. Shwet vastra wali Lakshmi
+🍶 3. Soma (divya sharbat)
+🐎 4. Uchhaihshravas, divya ghoda
+💎 5. Kaustubha Mani — Vishnu ka hamsaathi
+
+Aur phir—
+
+👨‍⚕️ Dhanvantari
+haath mein amrit kalash lekar prakat hue!
+
+Danav cheekh uthe:
+
+“Amrit humara hai!”
+
+Phir aaya—
+
+🐘 Airavata, Indra ka gajraj.
+
+⭐ Vish Ka Udgam – Shiva Ka Bal
+
+Aur tab—
+
+☠️ Halahal Vish nikla.
+Teenon lok girne lage.
+Dharti jal uthi.
+
+Brahma ne Shiva ko bulaya.
+Shiva ne saara vish pee liya
+aur use gale mein roka.
+Tabhi se unka naam hua:
+
+💙 Neelkanth.
+
+⭐ Mohini Avatar — Amrit Ka Bantar
+
+Ab Asur gusse mein the.
+Lakshmi aur amrit dono chahiye the.
+
+Tab Narayana ne apni Maya ko bulaya.
+Unhone ek divya sundari ka roop dharan kiya —
+✨ Mohini ✨
+
+Danav uski sundarta dekh kar
+buddhi-heen ho gaye.
+Sab ne amrit ka kalash
+usi ke haath mein de diya."""
             create_image_text_layout(text_content=text2, layout="full")
 
         # Section 1.5.7
         with st.expander("Section 1.5.7"):
-            text1 = """ """
+            text1 = """ 
+⭐ Astika Ki Kahani – Samudra Manthan ka Maha-Yuddh (Bhag III)
+
+(Hinglish Kahani — Section XIX)
+
+Sauti ne kahaa:
+
+Samudra manthan se amrit nikalte hi
+Daitya aur Danav,
+jo chamakdar kavach aur teekhe hathiyaar pehene hue the,
+devtaon par toot pade.
+
+Us waqt
+Bhagwan Vishnu, jo abhi bhi Mohini roop mein the,
+Nara ke saath milkar
+chal se Danavo ko bhaatkar
+unke haath se amrit ka kalash cheen le gaye.
+
+Devtaon ne dara-dara kar,
+khushi se bhar kar,
+Mohini se amrit liya
+aur pee liya."""
             create_image_text_layout("attached_assets/chapter1/1.5.7.jpg", text1, layout="side", image_position="left")
-            text2 = """ """
+            text2 = """ 
+⭐ Rahu Ka Dhoka
+
+Jab devta amrit pee rahe the,
+ek Danav— Rahu—
+devta ka roop dharan karke
+chupke se line mein khada ho gaya
+aur amrit pee diya.
+
+Par jaise hi amrit uski gardan tak pahucha,
+Surya aur Chandra ne use pehchaan liya
+aur devtaon ko bata diya.
+
+Vishnu ne turant
+apna Sudarshan Chakra chala diya—
+ek tej chamak,
+ek ghoomte hua bijli-jaisa chakr.
+
+Chakra ne
+Rahu ka sar kaat diya.
+
+Sar to amrit chakh chuka tha,
+isliye amar ho gaya
+aur asmaan mein jaa kar
+darravna cheekhne laga.
+
+Rahu ka dhad zameen par gir kar
+idhar-udhar luhatta raha,
+dharti hil uthi,
+pahaad aur jangelein kamp uthi.
+
+Tab se
+Rahu ka sar
+Surya aur Chandra se bair rakhta hai—
+isliye wo unhe grahan ke dauraan nigal leta hai.
+
+⭐ Mohini Gayab, Yuddh Shuru
+
+Amrit baantne ke baad
+Vishnu ne apna Mohini roop chhod diya
+aur asli roop lekar
+Danavo par divya astra barsa diye.
+
+Samudra ke kinaare
+bhayankar yuddh shuru ho gaya.
+
+Javelin, bhala, talwar, gada—
+laakho hathiyaar
+aasmaan mein chamak rahe the.
+
+Danavon ke sar
+sunehri kundalon se sajjey hua,
+do-dhaar talwaron se kat-kar
+zameen par girtay ja rahe the.
+Rakt se bhari dharti
+jaise laal pahaadon se dhak gayi ho.
+
+Yoddha door se
+teer-chala rahe the.
+Paas aate hi
+munh, mukko aur lohe ke ghusso se
+ek-doosre ko gira rahe the.
+
+Charo taraf cheekhne ki awaaz:
+
+“Kaato!”
+“Bano!”
+“Aage badho!”
+“Neeche pheko!”
+
+⭐ Nara–Narayana Ka Aagman
+
+Tab Nara aur Narayana
+ranbhoomi mein prakat hue.
+
+Narayana ne
+Nara ke haath mein ek divya dhanush dekha
+aur turant
+apne man mein
+Sudarshan Chakra ko yaad kiya—
+
+Chakra bina deri
+aasmaan se utar aaya,
+bijli se chamakta hua,
+shivanta ki aag jaisa bhayankar.
+
+Narayana ne use
+hathi ke soond jaise baahoon se
+tej gati se fenk diya.
+
+Chakra kabhi aag ban kar
+Danavo ko jala deta,
+kabhi aasman mein ghoom kar
+unhe kaat deta,
+kabhi zameen choo kar
+unke khoon ka paani pee jaata
+jaise koi bhoot ho.
+
+⭐ Danav Aasman Chadh Gaye
+
+Danavon ne bhi jawaab diya.
+
+Badal jaisi safed tvacha,
+apar shakti,
+woh aasman mein udd gaye
+aur pahaad utha-utha kar
+devtaon par phenka.
+
+Pahaadon ke takraane ki garaj
+bijli se bhi zyada daravni thi.
+Dharti, pahaad, jangalein—
+sab kaanp uthe.
+
+Tab
+Nara agility se
+soorne-tir chala kar
+gir rahe pahaadon ko
+dhool mein badal diya.
+
+Chakra ki aag dekhkar
+bahut se Danav
+zameen ke neeche bhaag gaye,
+kuch samudra mein doob gaye.
+
+⭐ Devtaon Ki Vijay
+
+Devta jeet gaye.
+Unhone Mandara Parvat ko
+Narak ke tortoise se utar kar
+wapis uski jagah rakh diya.
+
+Amrit saath lekar
+devta apne lokon ko laut gaye.
+
+Aur Indra ne
+amrit ka kalash
+Narayana ko suraksha ke liye
+saupa."""
             create_image_text_layout(text_content=text2, layout="full")
 
         # Section 1.5.8
         with st.expander("Section 1.5.8"):
-            text1 = """ """
+            text1 = """ 
+⭐ Astika Ki Kahani – Uccaiḥśravas aur Kadru–Vinata ka Shraap (Bhag IV)
+
+(Hinglish Kahani – Section XX)
+
+Sauti ne kahaa:
+
+“Mainne tumhe puraa katha suna di — kaise samudra manthan hua aur kaise amrit nikla…
+Aur isi manthan mein
+Uccaiḥśravas, sab ghodon ka raja,
+janm hua —
+jiski sundarta aur shakti ka koi tulna nahi.”
+
+Usi ghode ko dekh kar
+Kadru ne apni behen Vinata se sawaal kiya:"""
             create_image_text_layout("attached_assets/chapter1/1.5.8.jpg", text1, layout="side", image_position="left")
-            text2 = """ """
+            text2 = """ 
+⭐ Kadru–Vinata Ka Wager
+
+Kadru boli:
+
+“Priye behen, batao, Uccaiḥśravas ka rang kya hai?”
+
+Vinata ne turant kaha:
+
+“Arre, woh toh bilkul safed hai! Tum kya sochti ho?”
+
+Kadru muskurayi aur boli:
+
+“Main kehti hoon uske poonch ke baal kaale hain.
+Chalo, ek shart lagate hain—
+
+Jo haaregi,
+woh doosri ki daasi (slave) ban jayegi!”
+
+Vinata, bina soche, haan bol gayi.
+
+Dono behne agle din ghode ko dekhne ka vaada karke
+apne-apne ghar chali gayin.
+
+⭐ Kadru Ka Dhoka
+
+Kadru ne apne hazaar saap-putron ko aadesh diya:
+
+“Jao!
+Apne aap ko kaale baalon mein badal lo
+aur Uccaiḥśravas ki poonch par chipak jao,
+taaki woh kaala lage.
+Bas!
+Main jeet jaungi!”
+
+Par
+saap—jo garv se bhare, shaktishaali aur zehreeli the—
+ye kaam karne se mana kar gaye.
+
+Kadru ko gussa aa gaya.
+
+Usne apne bachchon ko shraap de diya:
+
+“Jab Pandav vansh ke raja Janamejaya
+sarp-yagya karenge,
+tab Agni tum sab ko jala kar khatam kar dega!”
+
+⭐ Brahma Ka Faisla
+
+Kadru ka shraap
+Brahma ji ne khud suna.
+
+Devtaon ne bhi kaha:
+
+“Yeh saap bahut zehreeli, bahut shakti-shaali
+aur hamesha dusron ko dasti rehte hain.
+Prachuran sankhya mein badhte ja rahe hain.
+Isliye un par aisi saja hona
+srishti ke hit mein hi hai.”
+
+Yeh sun kar
+Pitamaha Brahma ne
+Kadru ke shraap ko anumati de di.
+Faisla tay ho gaya:
+
+➡️ Saapon ka vinaash ek din Yagya mein hoga.
+
+⭐ Kasyapa Ko Santvana
+
+Phir Brahma ji ne
+saapon ke pita, Maharishi Kasyapa, ko bulaya:
+
+“Ae tapasvi,
+tumhare jo saap putra paida hue—
+jo zehreeli, prabal aur hamesha dadhna chahte hain—
+unka vinaash Kab Se Niyat tha.
+Unki maa ne jo kaha, woh samay ke anuroop hai.
+Tum shok mat karo.
+
+Aur lo—
+main tumhe vish-shanti ka gyaan deta hoon,
+taaki tum aage kisi jeev ko bachaa sako.”
+
+Aur is prakar
+Kasyapa ko
+zehar ko shant karne ka divya vidya pradan ki gayi."""
             create_image_text_layout(text_content=text2, layout="full")
 
         # Section 1.5.9
         with st.expander("Section 1.5.9"):
-            text1 = """ """
+            text1 = """ 
+⭐ Astika Ki Kahani – Kadru aur Vinata ka Samudra-Yatra (Bhag V)
+
+(Hinglish Kahani – Section XXI)
+
+Sauti ne kaha:
+
+“Agli subah, jab raat beet chuki thi
+aur suraj apni laalima lekar ug aaya—
+tab woh dono behne, Kadru aur Vinata,
+jo pichhle din
+Uccaiḥśravas ke rang par shart laga chuki thi,
+bahut utsukta aur bechaini se
+us divya ghode ko dekhne
+nikal padi.”
+
+Dono jaldi-jaldi kadam badhate hue
+aage badh rahi thi—
+kyunki jiski shart galat niklegi,
+use dusri ki daasi banna tha!"""
             create_image_text_layout("attached_assets/chapter1/1.5.9.jpg", text1, layout="side", image_position="left")
-            text2 = """ """
+            text2 = """ 
+⭐ Samudra Ka Divya Darshan
+
+Raaste mein
+dono behno ne dekha
+Vishaal Samudra—
+paani ka woh anant sanchay,
+jiska varnan shabdon mein mushkil tha.
+
+Sauti ne us samudra ka roop
+is tarah bataya:
+
+Gehra aur apar,
+jisme aise machhliyan thi
+jo bhi whale jaisi badi praniyon ko bhi nigal sakti thi!
+
+Wahan makar, ajgar,
+aur darawne roop ke
+anek jalajeewan the—
+jo dekhne walon ko kampaa dein.
+
+Wahi samudra
+Varuna dev ka ghar hai,
+aur Nagon ka sundar vasasthal bhi.
+
+Wahi samudra
+ratnon ka bhandaar hai,
+aur Asuron ka ashray bhi.
+
+Kabhi shaant, kabhi bhayanak—
+uski garajti leherein
+aise lagti jaise
+aasman ki taraf
+apne haath uthaakar
+nritya kar rahi hon!
+
+Chand ki kiranon se
+uska paani kabhi uthta, kabhi girta—
+aur uski gehrai mein
+Panchajanya,
+Lord Krishna ka divya shankh,
+janma liya tha.
+
+Pehle, Bhagwan Vishnu ne
+jab varaha avatar liya
+aur doobi hui prithvi ko uthaya,
+tab samudra
+bhayanak roop se hil utha tha.
+
+Samudra itna vishaal tha
+ki Maharishi Atri ne bhi
+sau saal tak prayas karke
+uski gehrai naap nahi paayi!
+
+Jab pralay ka samay aata hai,
+yahi samudra
+Vishnu ka shayan sthal ban jata hai—
+jahan ve yoga-nidra mein
+anant yugon tak vishraam karte hain.
+
+Yahi woh sthaan hai
+jahan parvat Mainaka
+Indra ke vajra se bachne
+chhup gaya tha…
+
+Is tarah ka samudra—
+anant, gahra, apar,
+bhayankar aur adbhut!
+
+⭐ Nadiyon ka Samudra Mein Milan
+
+Kadru aur Vinata ne dekha:
+
+Hazaaron nadiyan—
+garv se bhari,
+tezi se behati,
+aapas mein pratiyogita karti—
+samudra ki taraf daud rahi thi.
+
+Jaise koi prem-pyaasi
+apne priya se milne
+utavli ho!
+
+Samudra un sab nadiyon ko
+apni lehron mein samete hue
+lehrata, garajta,
+aur anant seema tak phela hua
+prakriti ka ek adbhut chamatkar lag raha tha.
+
+⭐ Uccaiḥśravas Ka Drishya Dekhne Ki Pratiksha
+
+Iss jalvishwas ko dekhte hue
+dono behne
+aage badhti gayin—
+mann mein ek hi vichaar:
+
+🔸 Kaun jeetegi? Kaun haaregi?
+🔸 Ghoda safed hi niklega… ya uski poonch kaali hogi?
+🔸 Kya Kal ka dhokha kaam karega?
+🔸 Kya Vinata daasi ban jayegi?
+
+Is prakar
+samudra ka adbhut darshan karte hue
+dono behne
+Uccaiḥśravas ki taraf
+badhti chali gayin..."""
             create_image_text_layout(text_content=text2, layout="full")
 
         # Section 1.5.10
         with st.expander("Section 1.5.10"):
-            text1 = """ """
+            text1 = """ 
+⭐ Astika Ki Kahani – Kadru Ki Chaal (Bhag VI)
+
+(Hinglish Retelling – Section XXII)
+
+Sauti ne kaha:
+
+“Jab Kadru ne apne saupon se
+Uccaiḥśravas ki poonch ko
+kaala dikhane ka aadesh diya,
+to pehle toh Nag log ghabra gaye.
+
+Unhone socha:
+
+‘Agar humne Maa ki baat na maani,
+toh woh hum par naraaz hokar
+humein jala bhi sakti hai!’
+
+Lekin agar Maa prasann ho gayi,
+to woh unhe apne shraap se bhi
+mukta kar sakti thi.
+
+Isliye saare Nag ek saath bole:
+
+“Hum zaroor ghode ki poonch ko kaala banayenge.”
+
+Aur turant—
+jaise kisi jaduyi khel mein—
+saare Nag
+ghode ki poonch ke baal ban kar
+usme chipak gaye,
+taaki door se dekhne par
+poonch kaali dikhe."""
             create_image_text_layout("attached_assets/chapter1/1.5.10.jpg", text1, layout="side", image_position="left")
-            text2 = """ """
+            text2 = """ 
+⭐ Kadru aur Vinata – Shart Ka Faisla
+
+Ab dono behne—
+Kadru aur Vinata—
+jo Daksha ki pyaari betiyan thi,
+aur ab pati Kasyapa ki patniyan—
+khushi-khushi
+aasmaan ki raah se
+samudra ke doosre kinare ki taraf
+badhti gayin.
+
+Kyuki aaj shart ka faisla hona tha!
+
+⭐ Samudra Ka Mahasundar Roop (Phir se)
+
+Raaste mein
+dono behne ne phir dekha
+woh apar, gehra,
+adbhut Samudra,
+jiska varnan
+shabdon mein samana mushkil tha.
+
+Samudra:
+
+hawa ke jhonkon se
+ek dum behosh ho uthta,
+phir bhayanak garajne lagta,
+
+itna gehra
+ki whale jaise praniyon ko bhi
+nigalne wale jeevon se bhara tha,
+
+makaron, ajgaron,
+aur anek darawne praniyon ka ghar tha,
+
+nagon ki adbhut nagri bhi wahi thi,
+
+Varuna dev ka shandar mahal tha,
+
+Asuron ki gupt gufaayein bhi wahi,
+
+aur neeche kahi
+prithvi ko garam rakhne wali
+paataal-agni rehti thi.
+
+Aur samudra ki lehron mein tha
+ek ajeeb sa nritya—
+jaise paani ki haath jhulas kar
+aakash ko chhoo lene ka prayas kar rahe hon.
+
+Hazaaron nadirayan—
+apni shaan ko darshaati hui—
+samudra ki taraf bhaag rahi thi,
+jaise koi var-vadhu
+apne saajan ke paas daudti ho!
+
+Samudra
+itna roopavaan,
+itna vishaal,
+itna ajeeb
+ki lagta tha jaise
+poora aakash zameen par utar aaya ho.
+
+Dono behnen
+aise mahaan samudra ko paar karti hui
+us ghode ko dekhne ja rahi thi
+jis par unki zindagi ki sabse badi shart
+lagi hui thi…"""
             create_image_text_layout(text_content=text2, layout="full")
 
         # Section 1.5.11
