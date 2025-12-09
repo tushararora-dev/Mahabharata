@@ -5496,37 +5496,420 @@ lagi hui thi…"""
 
         # Section 1.5.11
         with st.expander("Section 1.5.11"):
-            text1 = """ """
+            text1 = """ 
+⭐ Section XXIII – Garud ka Janm aur Devtaon ka Dar
+
+(Hinglish Retelling)
+
+Kadru aur Vinata ne samundra paar kiya
+aur Ucchaihshravas ghode ke paas jaakar ruk gayi.
+
+Ghoda sach-much chaand jaisa safed tha,
+lekin uski poonch mein kaale baal the.
+Ye dekhkar Vinata ka dil toot gaya…
+Kyuki ab shart ke mutabik
+use Kadru ki daasi banna tha.
+
+Vinata bahut dukh se jhuk gayi.
+Uska mann bilkul nirash ho gaya."""
             create_image_text_layout("attached_assets/chapter1/1.5.11.jpg", text1, layout="side", image_position="left")
-            text2 = """ """
+            text2 = """ 
+⭐ Garud ka adbhut janm
+
+Tabhi, samay poora hote hi,
+Vinata ke bache hue ande se ek tejomay roshni phooti—
+aur Garud janm le liya!
+
+Woh aag ki lahu-laal jwala jaisa chamak raha tha—
+jaise kisi ne aasman mein ek chalta hua agni-parvat chhod diya ho.
+
+Janam ke saath hi,
+Garud itna bada ho gaya ki
+aasman tak pahunch gaya,
+zor-zor se garajta hua,
+poori duniya ko hilaata hua.
+
+Devtaon ne jab uski teevra chamak dekhi,
+toh dar kar socha—
+
+“Agni Dev gussa mein pura jag jalane wale hain!”
+
+Woh turant Agni ki sharan mein bhaage.
+
+⭐ Devtaon ka bhram
+
+Agni ne unhe sambhaala aur bola:
+
+“Darro mat!
+Ye aag ka dher nahi…
+Ye Garud hai!
+Vinata ka putra.
+Samarth, tejomay, aadi-shakti se bharpur.
+Nagon ka shatru, devtaon ka mitra.”
+
+Devta thoda shaant hue,
+par Garud ki chamak itni tej thi
+ki unki aakhon tak meethi jalan hone lagi.
+
+Phir devta door se Garud ko pranam karne lage
+aur bole:
+
+⭐ Devtaon ki stuti
+
+“O Garud, tum tej ho, bal ho, gyaan ho.
+Tum sabka rakshak ho.
+Tum sab roopon ke swami ho.
+Tumhari chamak surya ko bhi dheema kar deti hai.
+Tum aasman ko hila dete ho,
+aur tumhari garaj se hamare hriday kampne lagte hain.
+O maha-pakshi, humari raksha karo!”
+
+Devta vinati karte rahe,
+aur dheere-dheere
+Garud ne apna tej neeche utar diya—
+taaki poori srishti shant ho jaaye."""
             create_image_text_layout(text_content=text2, layout="full")
 
         # Section 1.5.12
         with st.expander("Section 1.5.12"):
-            text1 = """ """
+            text1 = """ 
+⭐ Section XXIV – Garud, Aruna aur Surya ka Krodh
+
+(Hinglish Story Retelling)
+
+Garud ne jab devtaon ka darr dekha,
+toh woh bohot vinamr ho gaya.
+
+Usne kaha:
+
+“Darro mat!
+Mera roop tumhe dara raha hai,
+toh main apni shakti kam kar deta hoon.”
+
+Aur turant hi
+Garud ne apna bada, tej roop chhota kar liya.
+
+Phir woh apne bhai Aruna ko peeth par bithakar
+aasman mein udd gaya
+aur apni maa Vinata ke paas laut aaya."""
             create_image_text_layout("attached_assets/chapter1/1.5.12.jpg", text1, layout="side", image_position="left")
-            text2 = """ """
+            text2 = """ 
+⭐ Aruna ka kaam – Surya ko shaant rakhna
+
+Garud ne Aruna ko purva disha mein bithaya—
+usi samay jab Surya bhayanak rosh mein tha.
+
+Saunaka ne pucha:
+
+“Surya kyun gussa tha?
+Woh duniya ko jalana kyun chahta tha?”
+
+⭐ Surya ka krodh – Rahu ki wajah se
+
+Sauti ne bataya:
+
+Jab samudra manthan hua tha,
+Rahu chori-chhupke amrit peene lag gaya.
+Surya aur Chandra ne use pakad liya.
+
+Tab se Rahu un dono ka dushman ban gaya.
+
+Ek din Rahu ne socha:
+
+“Surya ne mujhe sabke saamne sharminda kiya.
+Main use nigal jaunga!”
+
+Is soch se Surya bhayanak roop se gussa ho gaya.
+Woh bol उठा:
+
+“Maine devtaon ki madad ki,
+aur mujhe hi dushmani mili!
+Ab main poori duniya ko jala doonga!”
+
+Phir Surya paschim parvaton par gaya
+aur bina ugiye hi
+apni teevra garmi se sabko darane laga.
+
+⭐ Devta ghabra gaye
+
+Rishiyon ne dekha ki
+aadhi raat mein hi teekhi garmi aa rahi thi.
+Sab log bhaag kar Brahma ji ke paas gaye:
+
+“Prabhu, Surya abhi uggā bhi nahi,
+par duniya jal rahi hai!
+Agar woh ugg gaya toh kya hoga?”
+
+Brahma ji bole:
+
+“Haan, Surya gusse mein duniya jala denge.
+Par maine ek upay kar diya hai.
+Kashyap ka putra Aruna
+Surya ke saamne khaada hoga.
+Aur woh Surya ki garmi ko rok lega.”
+
+⭐ Aruna ban gaya Surya ka saarathi
+
+Aruna ne Brahma ji ka aadesh maana.
+Agli subah Surya uthe,
+par Aruna unke saamne khada tha,
+jaise ek suraksha-dhal.
+
+Isliye Surya ki garmi
+duniya ko jalane se pehle hi kam ho gayi.
+
+Is tarah
+duniya bach gayi,
+devta shaant ho gaye,
+aur Surya ka krodh thanda pad gaya."""
             create_image_text_layout(text_content=text2, layout="full")
 
         # Section 1.5.13
         with st.expander("Section 1.5.13"):
-            text1 = """ """
+            text1 = """ 
+⭐ Section XXV – Vinata ki Gulami aur Indra se Prarthna
+
+(Hinglish Story Retelling)
+
+Garud, apni teevra shakti aur tej ke saath,
+door samundar ke paar
+apni maa Vinata ke paas laut aaya.
+
+Vinata abhi bhi bohot dukh mein thi—
+kyunki woh apni behen Kadru se shart haar kar
+gulam ban chuki thi."""
             create_image_text_layout("attached_assets/chapter1/1.5.13.jpg", text1, layout="side", image_position="left")
-            text2 = """ """
+            text2 = """ 
+⭐ Kadru ka kahehna – “Mujhe Nagalok le chalo!”
+
+Ek din Kadru ne Vinata ko bulaya.
+Vinata bechari uske saamne jhuk kar khadi ho gayi.
+
+Kadru boli:
+
+“Vinata, mujhe samundar ke beech
+ek bohot hi sundar jagah —
+Nagalok — le chalo!”
+
+Vinata majboor thi.
+Usne Kadru ko apne kandhon par uthaya.
+
+Garud ko bhi maa ne hukm diya,
+toh Garud ne
+saare saamp apni peeth par bitha liye.
+
+Phir Garud aasman ki or udd chala—
+seedha Surya ke paas se guzar kar.
+
+⭐ Saanp jalne lage Surya ki garmi se
+
+Jaise hi Garud upar utha,
+Surya ki tej garmi se
+saare saamp jhulsa kar behosh hone lage.
+
+Kadru bohot ghabra gayi
+aur Indra dev ko pukarne lagi:
+
+⭐ Kadru ki Indra se lambi prarthna
+
+Kadru bol padi:
+
+“Indra Dev! Devtaon ke raja!
+Aap humein bachaiye!
+Mere bachche Surya ki garmi se jal rahe hain!
+Aap hi baarish barsa kar
+saampo ki raksha kar sakte hain.”
+
+Phir Kadru ne Indra ki
+lambe, sundar stuti ke shabdon mein prarthna ki—
+
+“Aap Vritra ko maarne wale ho!”
+
+“Aap badalon ko chalane wale,
+bijli, hawa aur agni ke swami ho!”
+
+“Aap hi srishti banate aur mitate ho.”
+
+“Aap saari prakriti ho—
+din, raat, saal, mahine, mausam.”
+
+“Aap samundar ho, parvat ho, ped ho, aasman ho.”
+
+“Aap Vedas mein gaaye jaate ho.”
+
+“Aap yajna ka ghee aur soma ras swikaar karte ho.”
+
+“Aap sabki raksha karne wale ho!”
+
+Kadru ne apni poori shraddha ke saath
+Indra se vinti ki:
+
+“Baadal bhej dijiye, Surya ki garmi ko shaant kijiye!
+Mere bachchon ko bachaiye!”"""
             create_image_text_layout(text_content=text2, layout="full")
 
         # Section 1.5.14
         with st.expander("Section 1.5.14"):
-            text1 = """ """
+            text1 = """ 
+⭐ Section XXVI – Indra ki Baarish aur Saampon ki Raksha
+
+(Hinglish Story Retelling)
+
+Kadru ne jab Indra dev se
+apne saamp bachchon ke liye
+madad maangi,
+
+Indra Dev,
+devtaon ke raja,
+apne shandaar ghode Uchchaihshravas par savar,
+turant kripaalu ho gaye."""
             create_image_text_layout("attached_assets/chapter1/1.5.14.jpg", text1, layout="side", image_position="left")
-            text2 = """ """
+            text2 = """ 
+⭐ Indra ka aadesh – “Badalo, barso!”
+
+Kadru ki prarthna sun kar
+Indra ne aasman bhar diya
+gadha-neele, motay badalon se.
+
+Unhone hukm diya:
+
+“O badalo,
+jeevan dene wali boondon ko zameen par barsaao!”
+
+Phir kya tha—
+bijli chamki,
+badal garje,
+hawayein tez ho gayin.
+
+Duniya bhar mein aisa lag raha tha
+jaise Yug ka ant aa gaya ho!
+
+⭐ Aasman ki “paagal taandav” jaisi halchal
+
+Baarish itni tezzz thi ki:
+
+laakhon paani ke lehron ki aawaaz,
+
+garajte badal,
+
+chamakti bijli,
+
+tez aandhi…
+
+sab milkar aasman ko
+pagal si naach karne wala bana rahe the!
+
+Surya aur Chandrama ke
+rays poori tarah gayab ho gaye—
+aasman bas kaale badalon mein doob gaya.
+
+⭐ Saamp bach gaye — aur khushi manaayi!
+
+Indra ki is zabardast baarish se
+dharti paani se bhar gayi—
+itna ki thande, saaf paani ki lehrain
+paataalon tak pahunch gayi.
+
+Saamp jo Surya ke tej se
+behosh ho rahe the,
+ab baarish se thande pad gaye
+aur hosh mein aa gaye.
+
+Saare saamp
+aur unki maa Kadru,
+surakshit tarah pahunch gaye
+Ramaniyaka naam ke khubsurat dweep par.
+
+Woh sab bohot khush hue
+aur Indra ko dhanyavaad dene lage."""
             create_image_text_layout(text_content=text2, layout="full")
 
         # Section 1.5.15
         with st.expander("Section 1.5.15"):
-            text1 = """ """
+            text1 = """ 
+⭐ Section XXVII – Garuda ka Prashna aur Saampon ki Shart
+
+(Hinglish Story Rewrite)
+
+Indra ki tez baarish se saamp bach gaye
+aur phir Garuda, apne sundar pankh phailaye,
+un sab ko lekar aasman chीरते hue
+ek door ke sundar dweep par pahunch gaya."""
             create_image_text_layout("attached_assets/chapter1/1.5.15.jpg", text1, layout="side", image_position="left")
-            text2 = """ """
+            text2 = """ 
+⭐ Ek khoobsurat naya dweep
+
+Yeh dweep Bhagwan ne khud banaya tha
+aur yahaan makar (samundri prani) rahte the.
+Wahaan pahunch kar saamp ekdam khush ho gaye.
+
+Is dweep par:
+
+samundar ki lahron se dhula hua haseen jungle,
+
+har taraf phoolon aur falon se lade hue vriksh,
+
+komal hawa jo sugandh failati thi,
+
+kamalon se bhare huye talaab,
+
+aur pahaadon par milne wale
+Malaya ke unche, khushbu-dar ped,
+
+sab milkar us jagah ko
+swarg jaise sundar bana rahe the.
+
+Pakshiyon ke madhur gaan se
+poora van goonj raha tha.
+Beechon ke madhosh gunj
+aur Gandharvon ki pasand ki jagah—
+yeh dweep dekhne layak tha.
+
+Saamp wahan ghoomte, khelte,
+aur man hi man khush hote rahe.
+
+⭐ Saampon ka agla hukm
+
+Kuch der baad saamp Garuda se bole:
+
+“O Garuda, humein ek aur achha dweep dikhao.
+Tum ne aasman mein safar karte hue
+bahut sundar jagahen dekhi hongi.”
+
+Garuda ne kuch pal socha
+aur phir apni maa Vinata se poocha:
+
+“Maa, main saampon ke hukum kyun maan raha hoon?
+Main unki seva kyun kar raha hoon?”
+
+⭐ Vinata ka dukh: “Main unki daasi hoon…”
+
+Vinata ne dukh se kaha:
+
+“Beta, ek durebhagya ke kaaran
+main apni sautan Kadru ki daasi ban gayi hoon.
+Saampon ne dhokha dekar mujhe shart harvaayi thi.
+Isi liye mujhe aur tumhe
+unka kehna maana pad raha hai…”
+
+Garuda yeh sunkar bahut udaas ho gaya.
+Phir saampon se bola:
+
+“Batao, main kya karoon
+jisse main aur meri maa
+tumhari gulami se azaad ho sakein?”
+
+⭐ Saampon ki sakht shart
+
+Saampon ne turant kaha:
+
+“Amrit humein laa do—
+chahe bal se hi kyon na laana pade…
+tab hum tumhe azaad kar denge.”
+
+Garuda ne yeh shart sun li—
+aur yahi se shuru hoti hai
+uski sabse vishal, sabse kathin yatra."""
             create_image_text_layout(text_content=text2, layout="full")
 
         # Section 1.5.16
