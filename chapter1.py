@@ -5914,37 +5914,631 @@ uski sabse vishal, sabse kathin yatra."""
 
         # Section 1.5.16
         with st.expander("Section 1.5.16"):
-            text1 = """ """
+            text1 = """ 
+⭐ Section XXVIII – Garuda ka Pehla Kaarya: Bhojan aur Bachav ki Sikhsha
+
+(Hinglish Story Rewrite)
+
+Garuda ko saampon ne kaha tha:
+“Humein amrit laa do, tab tum azaad hoge.”
+
+Garuda apni maa Vinata ke paas gaya aur bola:
+
+“Maa, main amrit laane jaa raha hoon.
+Par mujhe raste mein kuch khana hoga.
+Bataaiye main kya kha sakta hoon?”"""
             create_image_text_layout("attached_assets/chapter1/1.5.16.jpg", text1, layout="side", image_position="left")
-            text2 = """ """
+            text2 = """ 
+⭐ Vinata ka updesh: “Brahman ka jeevan kabhi mat lena”
+
+Vinata ne pyaar se kaha:
+
+“Beta, samundar ke beech ek door jagah par
+Nishad logon ka ghar hai.
+Wahan hazaaron log rehte hain—
+unhe khaa sakte ho, phir amrit lekar aa jaana.
+
+Lekin ek baat yaad rakhna:
+Kabhi bhi kisi Brahman ko mat maarna.
+Brahman ka gussa aag jaisa hota hai—
+jo sab kuch jala sakta hai.
+Brahman ko chot pahunchana
+saare jeevon ko dukh dena jaisa hai.”
+
+Garuda ne poocha:
+
+“Maa, main kaise pehchanu ki kaun Brahman hai?”
+
+Vinata ne kaha:
+
+“Beta, jo aadmi tumhare gale mein jaa kar
+tumhe andar se chubhaye…
+ya angaar ki tarah jale…
+ya tumhare pet mein hazam hi na ho—
+samajh lena, woh Brahman hai.
+Aise kisi ko kabhi mat maarna.”
+
+Vinata ne apne bete ko aashirvaad diya:
+
+“Tumhare pankhon ko Marut dev raksha kare,
+tumhari reedh ki haddi ko Surya aur Chandra,
+tumhare sir ko Agni,
+aur tumhare sharir ko Vasus.
+O mere laal, surakshit raho…”
+
+⭐ Garuda ka prabhas: Nishadon ka ant
+
+Garuda ne apne vishal pankh failaaye
+aur aakaash mein tezi se udda.
+
+Woh samundar paar karke
+Nishadon ke sheher ke upar pahunch gaya—
+bhookh se Yamraj ki tarah bhayankar.
+
+Usne:
+
+apne pankhon se dhoondh ka bada tufaan khada kar diya,
+
+samundar ka paani upar kheench liya,
+
+parvaton ke ped tak hila diye,
+
+aur sheher ke sab raste
+apne vishal khule muh se band kar diye.
+
+Nishad log darr ke maare bhaag kar
+seedhe Garuda ke muh ki taraf bhagne lage—
+jaise pedon se hattakar pakshi
+toofan se bachaav ke liye aasman ka rasta pakad lete hain.
+
+Dhundh se andhe ho chuke Nishad
+samajh hi nahi paaye ki woh
+Garuda ke muh mein ghus rahe hain.
+
+Garuda ne jab apna muh band kiya,
+to anek Nishad turant maar daale gaye.
+
+Garuda ki bhookh ab shaant ho gayi thi—
+aur ab woh amrit ki talash mein
+aur aage badhne ke liye tayyar tha."""
             create_image_text_layout(text_content=text2, layout="full")
 
         # Section 1.5.17
         with st.expander("Section 1.5.17"):
-            text1 = """ """
+            text1 = """ 
+⭐ Section XXIX – Brahman ka Udhaar, Garuda ki Bhojan Ki Khoj, aur Do Shraapit Bhaiyon ka Rahasya
+
+(Hinglish Story Rewrite)
+
+Garuda ne hazaaron Nishadon ko nigal liya tha—
+par achanak uske gale mein ek tez jalan mehsoos hui.
+
+Woh ek Brahman tha, apni patni ke saath,
+jo galti se Garuda ke muh mein ghus gaya tha!
+
+Brahman ki tapta-angaar jaisi tapasya
+Garuda ko jalane lagi.
+
+Garuda ne turant kaha:"""
             create_image_text_layout("attached_assets/chapter1/1.5.17.jpg", text1, layout="side", image_position="left")
-            text2 = """ """
+            text2 = """ 
+“Hey Brahman! Jaldi bahar aa jao!
+Main kabhi bhi Brahman ko nahi marta—
+chahe woh paap hi kyun na kare.”
+
+Brahman ne kaha:
+
+“Main toh aa jaaunga…
+par meri patni bhi saath aaye!”
+
+Garuda ne kaha:
+
+“Thik hai! Apni patni ko lekar
+turant bahar aa jao.
+Tum dono abhi pache gaye nahi ho—
+isse pehle niklo!”
+
+Brahman aur uski Nishad patni
+Garuda ke muh se nikal gaye
+aur usse aashirvaad dekar chale gaye.
+
+⭐ Garuda apne pita Kasyapa se milta hai
+
+Garuda aasman mein udda,
+apne pita Rishi Kasyapa ke paas pahucha.
+Pitaji ne pyaar se poocha:
+
+“Beta, theek ho?
+Kya tumhe poora khana mil jata hai?”
+
+Garuda ne sach bata diya:
+
+“Maa theek hai. Bhai bhi. Main bhi.
+Par pitaji… mujhe poora khana nahi milta.
+Snakes ne mujhe amrit laane bheja hai—
+maa ko azaad karne ke liye.
+Nishadon ko maine bahut kha liya,
+par bhookh abhi bhi nahi mili!
+Aap hi bataiye, main kya khaun
+jisse main itna shaktishaali ban jaaun
+ki amrit chura kar la sakun?”
+
+⭐ Kasyapa ka raaz: Do shraapit bhai – Haathi aur Kachhua
+
+Kasyapa muskuraaye aur bole:
+
+“Beta, yeh jheel pavitra hai.
+Yahan ek vishaal haathi
+aur ek mahaan kachhua
+lagataar ladte rehte hain.
+
+Dono bhai the pichhle janm mein.”
+
+✦ Unka purana janm – ek laalachi jhagda
+
+Ek Rishi tha – Vibhavasu,
+bahut gusse wala.
+
+Uska chhota bhai Supritika,
+hamesha bolta rehta:
+“Hamein dhan baat lena chahiye!”
+
+Bada bhai samjhata:
+
+“Dhan baatne se bhrashtachar hota hai.
+Baatne ke baad bhai-bhai ladte hain.
+Dushman aur fasaad paida karte hain.
+Alag hone se tabahi aati hai.”
+
+Par Supritika nahi maana.
+
+Gusse mein Vibhavasu ne kaha:
+
+“Tum haathi ban jaoge!”
+
+Aur Supritika ne jawab diya:
+
+“Aur tum kachhua banoge!”
+
+Dono ka shraap sach ho gaya.
+
+Isliye aaj woh:
+
+Haathi – 6 yojan uncha
+
+Kachhua – 3 yojan uncha
+
+lagataar ladte rehte hain.
+
+⭐ Garuda ka agla bhojan: Haathi aur Kachhua
+
+Kasyapa ne kaha:
+
+“Beta, dono ko khaa jao.
+Phir tum itne shaktishaali ho jaoge
+ki amrit bhi laa sakte ho.”
+
+Aur pitaji ne aashirvaad diya:
+
+“Devtas se yuddh ho,
+ved, mantr, ghrit, upanishad—
+sab tumhari shakti banenge.”
+
+Garuda pitaji ke charanon mein jhuk gaya
+aur jheel ki taraf udda.
+
+Wahaan usne dono dushman bhai dekhe
+aur apne do bade panjon se
+ek mein haathi,
+aur doosre mein kachhua pakad liya—
+jaise halke patthar ho!
+
+⭐ Alamva ka divya jungle aur bolne wala vishaal bargad
+
+Garuda aasman mein un dono ko le udda
+aur Alamva naam ke divya van par pahucha.
+
+Jab uske pankhon ki hawa lagi,
+toh sona-chandi ke ped,
+ratnon se sajhe vriksh
+kaampne lage—
+dar ke maare toot na jaayen!
+
+Tab ek vishaal bargad ka ped,
+jiska ek shakh 100 yojan lambi thi,
+Garuda se bola:
+
+“O Garuda!
+Baithe yahan iss shakh par
+aur araam se apna bhojan karo.”
+
+Garuda us shakh par utar gaya—
+magar uska sharir itna bhaari tha
+ki poori shakh hi toot kar gir gayi!
+
+Aasman ka sabse bada panchi
+bhojan karne ko taiyaar tha…"""
             create_image_text_layout(text_content=text2, layout="full")
 
         # Section 1.5.18
         with st.expander("Section 1.5.18"):
-            text1 = """ """
+            text1 = """ 
+⭐ Section XXX – Garuda ka Bhaari Bojh, Rishiyon ki Raksha aur Devlok Mein Darr
+
+(Hinglish Story Rewrite)
+
+Garuda ne jaise hi apne pair se ped ki badai shaakh ko chuha,
+vah patak se toot gayi.
+
+Par Garuda hairan reh gaya—
+kyunki us shaakh par Valakhilya Rishis ulte latke tapasya kar rahe the!
+
+Agar shaakh girti…
+toh saare Rishis kuchal jaate.
+
+Garuda ne turant apne daaye panje mein haathi,
+aur baaye panje mein kachhua
+aur beak se poori shaakh pakad li.
+
+Woh teenon cheezein sambhalte hue
+aasman mein udda—
+sirf Rishiyon ko bachane ke liye.
+
+Ye kaam itna kathin tha
+ki Devta bhi aisa na kar paate!"""
             create_image_text_layout("attached_assets/chapter1/1.5.18.jpg", text1, layout="side", image_position="left")
-            text2 = """ """
+            text2 = """ 
+Rishiyon ne hairan hoke kaha:
+
+“Yeh pakshi itna bhaar lekar bhi aasman mein udd raha hai!
+Iska naam hona chahiye Garuda—
+matlab ‘bhaari bojh uthane wala’!”
+
+⭐ Garuda apne pita Kasyapa ke paas
+
+Garuda udte-udte Gandhamadana Parvat pahucha,
+jahan uske pita Rishi Kasyapa tapasya kar rahe the.
+
+Kasyapa ne apne vishaal, tejomay putra ko dekha—
+jo haathi, kachhua aur ek baari-shaakh le ja raha tha—
+toh woh chauk gaye.
+
+Kasyapa ne kaha:
+
+“Beta, sambhal kar!
+Valakhilya Rishi surya ki kirno ka paan karte hain—
+agar woh gusse ho gaye, toh tumhein jalakar raakh kar denge!”
+
+Phir unhone Valakhilya Rishiyon ko manaya aur bola:
+
+“Garuda sabke hit ke liye yeh kaarya kar raha hai.
+Kripya ise anumati dijiye.”
+
+Rishiyon ne shaakh chhod di
+aur Himalaya ki taraf chale gaye tapasya karne.
+
+⭐ Ab shaakh ko kahan phenka jaaye?
+
+Garuda ne beak mein shaakh dabaye-dabaye
+apne pita se puchha:
+
+“Pitaji, is bhaari shaakh ko main kahan fekun?
+Aisi jagah bataiye jahan koi insaan na ho.”
+
+Kasyapa ne ek door aur barfili si pahadi ka zikr kiya
+jahan jeevit prani tak jane ka soch bhi nahi sakte.
+
+Garuda ne turant
+haathi, kachhua aur vishaal shaakh lekar
+hazaaron yojan door uddan bhari.
+
+Ek pal mein wah pahad par pahunch gaya
+aur shaakh ko neeche gira diya.
+
+Dhaddd!
+Itni zor ki awaz hui ki poora pahaad kaanp utha.
+Sona-jade se sajhe hue patthar
+aur phoolon se lade ped girne lage.
+
+⭐ Garuda ka bhojan aur devlok mein daraawa sanket
+
+Garuda ne pahaad ki choti par baith kar
+haathi aur kachhua dono ko kha liya.
+Phir woh tezi se aasman mein udda—
+amrit lene ke liye.
+
+Par jaise hi Garuda udda…
+devlok mein ajeeb-ajeeb ashubh sanket dikhne lage:
+
+Indra ka vajra chamak utha, jaise darr gaya ho.
+
+Meteor din ke samay girne lage.
+
+Hawayein garajne lagi.
+
+Rakt ki baarish hone lagi!
+
+Devtaon ki haar-maala murjha gayi.
+
+Aasmaan bina badal ke bhi ghoom utha.
+
+Indra ghabraakar Vrihaspati se poochha:
+
+“Yeh sab kyon ho raha hai?
+Kaun hamara dushman aa raha hai?”
+
+Vrihaspati ne kaha:
+
+“Garuda aa raha hai, hey Devraj.
+Uski shakti apar hai.
+Vah amrit lene ka sankalp kar chuka hai—
+aur use rokna lagbhag asambhav hai.”
+
+⭐ Amrit ki raksha ke liye devta taiyaar
+
+Indra ne turant devtaon ko chetavani di:
+
+“Garuda amrit churaane aa raha hai.
+Taiyaar ho jao!”
+
+Devtaon ne:
+
+sona-jadit kavach pehne,
+
+chakra, trishool, gadayein, talwaron jaise shastr uthaye,
+
+amrit ke chaaron taraf ek loha-jaise majboot chakra bana liya.
+
+Poora devlok ek tejasvi sena ke roop mein chamak utha—
+sab Garuda ka intezar kar rahe the.
+
+Aasmaan ek dusra surya mandal lag raha tha,
+sabhi astron se prakash phoot raha tha."""
             create_image_text_layout(text_content=text2, layout="full")
 
         # Section 1.5.19
         with st.expander("Section 1.5.19"):
-            text1 = """ """
+            text1 = """ 
+⭐ Section XXXI – Indra ka Apmaan, Rishiyon ka Shraap, aur Garuda ka Janm
+
+(Hinglish Story Rewrite)
+
+Saunaka ne Sauti se poochha:
+
+“Indra ki kya galti thi?
+Garuda ka janm Valakhilya Rishiyon ki tapasya se kaise juda?
+Kasyapa—jo ek Brahman the—unke ghar itna maha-shaktishaali pakshi kaise paida hua?
+Garuda itna ajey, apar shakti wala aur ichchha se har jagah pahunchne wala kyun tha?”
+
+Sauti bola:
+
+“Tumne bahut uchit prashna kiya, Saunaka!
+Ye sab ek Purana ki kathaa mein aata hai.
+Dhyan se suno…”"""
             create_image_text_layout("attached_assets/chapter1/1.5.19.jpg", text1, layout="side", image_position="left")
-            text2 = """ """
+            text2 = """ 
+⭐ Indra ka apmaan aur Rishiyon ka gussa
+
+Ek baar Prajapati Kasyapa santan prapt karne ke liye ek bada yagya kar rahe the.
+Saare devta, Rishi, aur Gandharva unki madad kar rahe the.
+
+Indra ko yagya ke liye lakdi lana diya gaya.
+Indra apni shakti ke anusar pahaad jaisa bojh utha kar bina thake chal pada.
+
+Raaste mein usne dekha—
+Valakhilya Rishis, jo sirf anguthay jitne bade the,
+ek palāsha patte ka daanta saath milkar utha rahe the.
+
+Woh Rishis bhojan ki kami se kamzor the,
+aur raaste mein gaay ke khur ke gaddhe ke paani mein gir kar pareshaan ho gaye.
+
+Indra ne unhe dekha…
+aur hans pada.
+
+Phir unke sir ke upar se uchhal kar nikal gaya—
+jaise unka mazaak uda raha ho.
+
+Rishiyon ko yeh beizzati bardaasht na hui.
+Unhone yagya ki tayyari ki aur kaha:
+
+“Ham ek aisa Indra paida karenge—
+jo vartamaan Indra se bhi adhik shaktishaali ho,
+jo man ki gati se chale,
+jo ichchha se shakti paida kare,
+aur jo devon ke raja ko bhi daraye!”
+
+Indra ye sunkar gabra gaya
+aur turant Kasyapa ke paas bhaaga.
+
+⭐ Kasyapa ka madhyasthata
+
+Kasyapa ne Rishiyon se puchha:
+
+“Kya tumhara yagya safal ho gaya?”
+
+Rishiyon ne kaha:
+
+“Haan, jo hoga, tumhare kahe anusaar hi hoga.”
+
+Tab Kasyapa ne unse kaha:
+
+**“Brahma ne vartamaan Indra ko teenon lokon ka swami banaya hai.
+Tum phir se ek doosra Indra laane ki ichchha rakhte ho—
+yeh Brahma ke vachan ke viruddh ho jayega.
+
+Par tumhara yagya vyarth bhi na ho.
+Isliye tumhaari tapasya se
+pakshiyon ka Indra paida ho—
+jo atishay shaktishaali ho!”**
+
+Valakhilya Rishiyon ne kaha:
+
+“Acha, Prajapati, hum apni ichchha tumhe saup dete hain.
+Tum hi faisla karo.”
+
+⭐ Vinata ka var aur Garuda ka garbh
+
+Tabhi Daksha ki beti Vinata, Kasyapa ki patni,
+tapasya karke pati ke paas aayi.
+
+Kasyapa ne kaha:
+
+“Tumhe do putra milenge—bahut shaktishaali aur teenon lokon mein poojit.
+Ye tumhari ichchha aur Valakhilya Rishiyon ki tapasya ka phal hai.”
+
+Phir unhone kaha:
+
+“Yeh do putra sab pakshiyon ke swami honge.
+Ve ichchha se koi bhi roop dharan kar sakenge.”
+
+Indra ko bhi santvana di gayi:
+
+“Ye do bhai—Aruna aur Garuda—tumhari madad karenge, tumhara nuksaan nahi.”
+
+Vinata prasanna ho gayi
+aur kuch samay baad
+Aruna aur Garuda ka janm hua.
+
+Aruna kaal-purush Surya ka sarathi bana.
+
+Garuda ban gaya sab pakshiyon ka raja,
+teenon lokon mein adbhut,
+ajey, apar shakti se sampann,
+aur apni ichchha se har jagah pahunchne wala.
+
+Sauti ne kaha:
+
+“Ab suno Garuda ke mahaan kaaryo ki kathaa…”"""
             create_image_text_layout(text_content=text2, layout="full")
 
         # Section 1.5.20
         with st.expander("Section 1.5.20"):
-            text1 = """ """
+            text1 = """ 
+⭐ Section XXXII – Garuda ka Devtas se Maha-Yudh aur Amrit ki Khoj
+
+(Hinglish Story Rewrite)
+
+Sauti bola:
+
+“He Brahmanon ke sheersh, jab devta yudh ki poori taiyari kar chuke the, tabhi Garuda—pakshiyon ka raja—vahaan bijli ki tarah aa pahuncha!”
+
+Garuda ka shaktishaali, tejomayi roop dekh kar
+saare devta kaanp uthhe.
+Dar ke maare ve apne hi hathiyaar galat disha mein chalane lage."""
             create_image_text_layout("attached_assets/chapter1/1.5.20.jpg", text1, layout="side", image_position="left")
-            text2 = """ """
+            text2 = """ 
+⭐ Garuda vs. Vishvakarma (yuddh ek pal ka)
+
+Amrit ki raksha karne walon mein Vishvakarma, devtaon ke maha-vastru-nirmata, bhi the—
+bahut tej, bahut shaktishaali.
+
+Lekin Garuda ne sirf ek pal ke yuddh mein
+apne panjon, chonch aur pankhon se use dhool chata di—
+aur Vishvakarma zameen par bejaan jaise gir peya.
+
+⭐ Andhi, aandhi, aur andhera!
+
+Garuda ne apne bade-bade pankhon se
+itni tez hawa aur itni dhool uthayi
+ki poora aasman andhera ho gaya.
+
+Devtaon ki aankhen bandh ho gayi.
+Ve kuch dekh na sake, behosh hone lage.
+
+Garuda ne poore swarg lok ko hila diya.
+Devta use dhoond hi nahi pa rahe the!
+
+⭐ Indra ka aadesh: “Vayu, is dhool ko hatao!”
+
+Indra—sahasra-netra—bulaaya:
+
+“Vayu! Jaldi aa.
+Is dhool ko hatao, hum kuch dekh hi nahi pa rahe!”
+
+Vayu dev ne turant aandhi saaf ki.
+Jab dhool gayi…
+
+Devtaon ne phir se Garuda par humla bol diya!
+
+⭐ Garuda ki dahaar – Yuga-ant ki tarah
+
+Garuda ne ek dahaar maari—
+
+“GROOOAAHHH!”
+
+Aisi dahaar jaise Yuga ke ant par badal garajte hon.
+Saare prani dar se kaanp gaye.
+
+Fir Garuda aasman mein tezi se uchla
+aur chaaro taraf se devtaon par vaar karne laga.
+
+⭐ Devtaon ka har disha mein bhaagna
+
+Garuda ke pankh, chonch aur panje
+devtaon ko bhari ghav dene lage.
+Khoon behta ja raha tha.
+
+Garuda ki shakti se har group bhaag gaya:
+
+Sadhya aur Gandharva – Poorv ki disha
+
+Vasu aur Rudra – Dakshin
+
+Aditya – Paschim
+
+Ashvini Kumar – Uttar
+
+Sab bhaagte hue peeche mud mud kar dekhte ja rahe the—
+Garuda unke peeche aayega kya?
+
+⭐ Garuda vs. Yakshas – Khooni toofan
+
+Garuda ne phir Yakshon se mukabala kiya—
+Asvakranda, Rainuka, Krathanaka, Tapana, Uluka, Nimesha, bhot saare.
+
+Garuda ne sabko
+pankh, panje aur chonch se chithda-chithda kar diya,
+bilkul us tarah jaise Mahadev pralay ke samay shatruon ko maarte hain.
+
+Yaksha lag rahe the jaise kaale badal
+jisme se laal khoon ki baarish ho rahi ho.
+
+⭐ Amrit tak pahunch – Aag ki deewaar
+
+Saare rakshak hara kar
+Garuda seedha Amrit ki taraf gaya.
+
+Lekin wahaan…
+
+Amrit ko chaaro taraf se aag ne gher rakha tha—
+aag itni tej ki jaise sooraj ko bhi jala de.
+
+⭐ Garuda ka adbhut roop – 90×90 mooh!
+
+Garuda ne turant ek adbhut roop dharan kiya—
+
+Nabbe guna nabbe mooh! (8100 mouths!)
+
+Un moohon se
+bahut saari nadiyon ka paani ek saath peeya
+aur bijli se bhi tez wapas aa kar
+wo saara paani aag par daal diya.
+
+🔥 Aag turant bujh gayi!
+
+Amrit tak ka raasta saaf ho gaya.
+
+⭐ Amrit ki raksha tod kar andar pravesh
+
+Aag bujhte hi
+Garuda ne apna roop bahut chhota kar liya—
+
+jaise ek chhota sa chidiya—
+
+taaki woh Amrit-ke-kund ke andar chori-chupe pravesh kar sake.
+
+“Ab Amrit pakadne ka waqt aa gaya…”
+—Garuda ne man mein socha."""
             create_image_text_layout(text_content=text2, layout="full")
 
         # Section 1.5.21
