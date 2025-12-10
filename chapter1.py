@@ -6543,72 +6543,773 @@ taaki woh Amrit-ke-kund ke andar chori-chupe pravesh kar sake.
 
         # Section 1.5.21
         with st.expander("Section 1.5.21"):
-            text1 = """ """
+            text1 = """ 
+Garuda ek din sun ki tarah chamakta hua golden shareer banakar Soma-ke-ghar ke paas jaa pahucha.
+Wahan usne ek bhaari, steel ka chakr dekha—itna tez ki kisi ko bhi kaat de. Woh chakr bina rukhe ghoom raha tha.
+
+Garuda ek pal rukkar socha,
+“Iske beech se jaa sakta hoon.”
+Aur phir apne aap ko chhota karke aankh jhapakte chakr ke andar ghus gaya.
+
+Andar do bhayankari saanp Soma ki raksha kar rahe the—unki aankhen aag ki tarah jal rahi thi, zubaan bijli ki chamak jaisi, aur gussa toh jaise kabhi khatam hi na ho. Unko dekhte hi koi bhi raakh ban jaata.
+
+Par Garuda bahut chaalak tha.
+Usne apne pankh se dhool udaakar unki aankhen dhak di.
+Saanp kuch dekh hi nahi paaye—aur Garuda ne tez hamla karke unhe hara diya.
+
+Phir bina waqt gavaaye Garuda ne Amrit ka ghada utha liya.
+Chakr ko todkar woh aasman ki taraf ud gaya—Amrit lekar par khud uska ek boond bhi nahi piya. Aasman tak andhera ho gaya, kyunki Garuda ki tej roshni suraj ko bhi dhak rahi thi!"""
             create_image_text_layout("attached_assets/chapter1/1.5.21.jpg", text1, layout="side", image_position="left")
-            text2 = """ """
+            text2 = """ 
+🕉️ Garuda meets Vishnu
+
+Raste mein Garuda ki mulaqat Bhagwan Vishnu se hui.
+Vishnu ne muskurakar kaha:
+
+“Garuda, tumne Amrit liya par piya nahi. Main tumhe ek vardaan deta hoon.”
+
+Garuda bola:
+
+“Mera pehla vardaan yeh ho ki main hamesha aapke upar rahun.”
+“Aur doosra—main bina Amrit piye hi ammar aur rogon se door rahun.”
+
+Vishnu ne kaha, “Tathastu.”
+
+Garuda ne bhi kaha,
+“Prabhu, aap bhi mujhse ek vardaan maang lijiye.”
+
+Vishnu ne haskar kaha:
+
+“Garuda, tum mere vaahan ban jao.”
+
+Garuda ne turant haan kar di.
+
+⚡ Indra attacks!
+
+Garuda Amrit lekar jaa raha tha ki Indra ne Vajra un par phenka.
+Vajra Garuda se takraya, par Garuda muskura kar bola:
+
+“Main Rishi Dadhichi ka samman karta hoon, jinke asthi se tumhara Vajra bana hai.
+Main Vajra ka bhi samman karta hoon, aur tumhara bhi, Indra.
+Par tumhari bijli ne mujhe chot tak nahi pahunchayi.”
+
+Yeh kehkar usne ek sundar pankh gira diya. Sab log us pankh ko dekhkar prasan ho gaye aur bole:
+
+“Yeh pakshi Suparna kehlaayega—jiske pankh sundar hain.”
+
+Indra hairaan ho gaya aur bola:
+
+“Garuda, tumhari shakti ka koi ant hai?
+Main tumse hamesha ki dosti chahta hoon.”"""
             create_image_text_layout(text_content=text2, layout="full")
 
         # Section 1.5.22
         with st.expander("Section 1.5.22"):
-            text1 = """ """
+            text1 = """ 
+Garuda ne Indra se kaha,
+“Purandara, agar tum chaho to hum dono dost ban sakte hain. Par meri shakti bahut bhaari hai.”
+
+Garuda ne dheere se bataya,
+“Achhe log apni taareef nahi karte, par tum mere dost ban gaye ho, isliye bata raha hoon.
+Main apne ek pankh par poori dharti, samundar, pahaad… aur tumko bhi utha sakta hoon.
+Main sab ko, saare lokon ko, bina thake sambhal sakta hoon.”
+
+Indra yeh sunkar hairaan bhi hua aur khush bhi.
+Usne kaha,
+“Garuda, tumhari baat sahi lagti hai. Ab hum sachche dost hain. Agar tumhe Amrit nahi chahiye, to use wapas de do. Jise tum doge, woh hamare dushman ban jayenge.”"""
             create_image_text_layout("attached_assets/chapter1/1.5.22.jpg", text1, layout="side", image_position="left")
-            text2 = """ """
+            text2 = """ 
+Garuda shant se bola,
+“Main Amrit kisi ko peene nahi doonga.
+Bas ek kaam ke liye le jaa raha hoon.
+Jab main ise zameen par rakh doonga, tum turant aa kar ise le jaana.”
+
+Indra khush ho kar bola,
+“Garuda, tumhari imandari par mujhe garv hai.
+Mujhse koi bhi vardaan maang lo.”
+
+Garuda ko yaad aaya ki uski maa Vinata saanpon ki gulami mein thi.
+Aur saanp—Kadru ke bete—usey tab chhodenge jab woh unke liye Amrit laayega.
+
+Garuda ne kaha,
+“Sakra, meri maa ka dukh tum jaante ho.
+Bas mujhe vardaan do ki saanp mere khaadya ban jayen.”
+
+Indra ne turant kaha,
+“Tathastu. Aisa hi hoga.”
+
+Phir Indra wapas Hari (Vishnu) ke paas gaya. Vishnu ne bhi Garuda ke faisle ko maan liya.
+
+🐍 Amrit aur Saanpon ka Vichitra Pal
+
+Garuda tez gati se apni maa ke paas pahucha aur saanpon se bola:
+
+“Yeh raha Amrit! Main ise kusa ghaas par rakh raha hoon.
+Tum sab snaan aur pooja karke aa kar peena.
+Aur aaj se meri maa azaad hai.”
+
+Saanp khushi se bole,
+“Thik hai Garuda, hum abhi snaan kar ke aate hain!”
+
+Par jaise hi saanp chale gaye, Indra neeche aaya aur Amrit utha kar aasman mein laut gaya.
+
+Jab saanp wapas aaye, unhone dekha—
+kusa ghaas khaali! Amrit gayab!
+
+Ghabraakar unhone ghaas ko apni zubaan se chaat diya.
+Isse unki zubaan do hisson mein waant gayi—tab se saanp do-farqi zubaan wale hote hain.
+Aur kusa ghaas bhi pavitra ho gayi.
+
+🦅 Garuda — Azaadi Aur Parakram
+
+Garuda ab bahut khush tha.
+Uske kaaran maa Vinata azaad ho gayi thi.
+Aur ab woh saanpon ko kha bhi sakta tha.
+
+Garuda apni maa ke saath jungle mein aaraam se rehne laga.
+Saare pakshi uska samman karte the."""
             create_image_text_layout(text_content=text2, layout="full")
 
         # Section 1.5.23
         with st.expander("Section 1.5.23"):
-            text1 = """ """
+            text1 = """ 
+Saunaka Rishi ne Sauti se pucha:
+“Tumne humein bataya ki saanpon ko apni maa Kadru ne kyun shraap diya, aur Vinata ko bhi apne bete ne kyun shraap diya.
+Tumne ye bhi bataya ki Kasyapa ne dono patniyon ko kaise vardaan diye.
+Vinata ke do bete—Arun aur Garuda—ke baare mein bhi humne sun liya.
+Lekin ab humein ye batao—saanpon ke mukhya naam kaun-kaun se the?”
+
+Sauti muskuraya aur bola:
+“Rishiwar, saare saanpon ke naam ginana bahut lamba ho jayega.
+Isliye main sirf sabse important, mukhya saanpon ke naam bataunga.”"""
             create_image_text_layout("attached_assets/chapter1/1.5.23.jpg", text1, layout="side", image_position="left")
-            text2 = """ """
+            text2 = """ 
+Phir Sauti ek-ek karke un bade saanpon ke naam ginta gaya:
+
+Sesha — sabse pehle janme, sabse shaktishaali.
+
+Vasuki — jo samudra manthan mein rassi bane the.
+
+Airavata
+
+Takshaka
+
+Karkotaka
+
+Dhananjaya
+
+Kalakeya
+
+Mani, Purana, Pinjaraka, Elapatra
+
+Vamana, Nila, Anila
+
+Kalmasha, Savala, Aryaka
+
+Ugra, Kalasapotaka, Suramukha
+
+Dadhimukha, Vimalapindaka, Apta, Karotaka
+
+Samkha, Valisikha, Nisthanaka, Hemaguha
+
+Nahusha, Pingala, Vahyakarna, Hastipada
+
+Mudgarapindaka, Kamvala, Asvatara, Kaliyaka
+
+Vritta, Samvartaka, Padma, Mahapadma
+
+Sankhamukha, Kushmandaka, Kshemaka, Pindaraka
+
+Karavira, Pushpadanshtraka, Vilvaka, Vilvapandara
+
+Mushikada, Sankhasiras, Purnabhadra, Haridraka
+
+Aparajita, Jyotika, Srivaha, Kauravya
+
+Dhritarashtra, Sankhapinda, Virajas, Suvahu
+
+Salipinda, Prabhakara, Hastipinda, Pitharaka
+
+Sumuksha, Kaunapashana, Kuthara, Kunjara
+
+Kumuda, Kumudaksha, Tittri, Halika
+
+Kardama, Vahumulaka, Karkara, Akarkara
+
+Kundodara, Mahodara
+
+Sauti ne phir kaha:
+“Ye sirf mukhya saanp hain.
+Inke bete-pote, aur unki aage ki peedhiyan itni zyada hain ki ginana mushkil hai. Duniya mein saanp lakhon-crore ki sankhya mein hain.”"""
             create_image_text_layout(text_content=text2, layout="full")
 
         # Section 1.5.24
         with st.expander("Section 1.5.24"):
-            text1 = """ """
+            text1 = """ 
+Saunaka Rishi ne poocha:
+“Tumne bahut saare shaktishaali saanpon ke naam bataye. Par shraap sunne ke baad unhone kya kiya?”
+
+Sauti ne jawab diya:
+“In sab mein, sabse mahaan tha Sesha.
+Shraap sunte hi woh chup-chaap apni maa se door chala gaya aur kathin tapasya karne laga.”
+
+Sesha hawa par jeeta tha, sirf dhyaan aur sankalp.
+Woh Gandhamadan, Badri, Gokarna, Pushkara, aur Himavat ke charnon tak ghoomta raha—
+hamesha tapasya, hamesha shanti, hamesha ek hi iccha ke saath:
+“Main bure saanpon se door rehna chahta hoon.”"""
             create_image_text_layout("attached_assets/chapter1/1.5.24.jpg", text1, layout="side", image_position="left")
-            text2 = """ """
+            text2 = """ 
+Aakhir Brahma ji ne usko dekha.
+Sesha bilkul sukha, kapde faate huye, baal bandhe, par mann bilkul shant.
+
+Brahma ji bole:
+“Sesha, tumhari tapasya bahut kathor hai.
+Tum saari praja ko dara rahe ho.
+Batao, kya chahte ho?”
+
+Sesha ne dheere se kaha:
+“Mere bhai—saare saanp—dushman jaise hain.
+Irsha, jhagda, dusmani… sab unmein bhara hai.
+Unhe Vinata aur Garuda se bhi jalan hai.
+Main unke saath ek janam bhi nahi rehna chahta.
+Isliye main tapasya kar raha hoon, takki main unse door ho jaun—iss janam mein bhi aur aane waale janmon mein bhi.”
+
+Brahma ji muskuraye.
+“Tumhare bhaiyon ki badi galti hai, par maine pehle hi iska upaay rakh diya hai.
+Tum unke liye mat chinta karo.
+Tumhara mann dharm mein laga rahe—that is the best.
+Ab mujhse ek vardaan maango.”
+
+Sesha ne haath jod kar kaha:
+“Mera mann hamesha dharm, tapasya aur shanti mein laga rahe.”
+
+Brahma ji bahut khush hue.
+Phir unhone ek bada kaam diya:
+
+“Sesha, dharti bahut hilti rehti hai—pahaad, samundar, jangale sab uspar hai.
+Tum usse apne sir par sambhalo.
+Isse saari praja ka bhala hoga.”
+
+Sesha ne bina sankoch kaha:
+“Aapka aadesh hi mera kartavya hai.”
+
+Phir woh ek gehri surang se dharti ke neeche gaya.
+Wahan usne apne bade, anant shareer se poori dharti ko sambhal liya—
+jaise ek bada sa takiya jise koi kabhi hila nahi sakta.
+
+Brahma ji bole:
+“Sesha, tum khud Dharma ho.
+Jis tarah main ya Indra vishwa ko sambhalte hain,
+waise hi tumne bhi dharti ko sambhala hai.”
+
+Aur ant mein Brahma ji ne Sesha ko ek saathi diya—
+Garuda, Vinata ka beta, jiske pankh chamakdar aur hriday pavitra tha.
+
+Is tarah Sesha—Ananta Naag—hamesha ke liye dharti ka aadhar ban gaya."""
             create_image_text_layout(text_content=text2, layout="full")
 
         # Section 1.5.25
         with st.expander("Section 1.5.25"):
-            text1 = """ """
+            text1 = """ 
+Kadru ke shraap ke baad, Vasuki, saanpon ka neta, bahut ghabra gaya.
+Usne sab bhaiyon—Airavata aur dusre saanpon—ko bula kar bola:
+
+“Maa ka shraap hum par girne wala hai.
+Agar humne kuchh na kiya toh hum sab ka anth pakka hai.
+Chalo milkar sochte hain ki is shraap ko kaise roka jaaye.”
+
+Sab saanp ek jagah baith kar baat karne lage."""
             create_image_text_layout("attached_assets/chapter1/1.5.25.jpg", text1, layout="side", image_position="left")
-            text2 = """ """
+            text2 = """ 
+🐍 Kuch saanpon ki chalak salaah
+
+Ek group bola:
+“Hum Brahmanon ka roop dhar kar Raja Janamejaya ke paas jayenge aur kahenge—
+‘Maharaj, yeh saap-yagya mat karo.’”
+
+Doosra group bola:
+“Hum uske sabse kareebi mantri ban jaayenge.
+Fir woh humse salaah maangega, aur hum usse kahenge ke yagya na kare.”
+
+Kuch aur saanp bole:
+“Jo Brahman us yagya ka mukhya purohit banega,
+usko kaat kar maar do.
+Purohit hi nahi hoga toh yagya ruk jayega!”
+
+🐍 Achhe dil wale saanpon ki baat
+
+Par kuch saanp bade dayaalu the.
+Unhone turant mana kiya:
+
+“Brahmano ko maarna paap hai.
+Galat raasta hamesha vinash laata hai.”
+
+🐍 Aur bhi ajeeb-o-gareeb ideas aaye
+
+Koi bola:
+“Hum badal ban kar bijli-chamak ke saath baarish gira kar yagya ki agni bujha denge.”
+
+Koi bola:
+“Raat ko chori se Soma-ras chura lenge.”
+
+Kuch saanp gusse mein bole:
+“Hum hazaaron ki sankhya mein logon ko kaat kar bhaga denge.”
+
+Doosre bole:
+“Hum khaana bigaad denge taaki yagya ho hi na sake.”
+
+Kuchne to yeh tak kaha:
+“Raja ko hi pani mein khelte waqt chura kar le chalte hain!”
+
+Aur sabse kathor salah ye thi:
+“Raja Janamejaya ko hi kaat kar maar do.
+Raja hi nahi hoga toh yagya kaise hoga?”
+
+🐍 Sab Vasuki ki taraf dekhne lage
+
+Sabne apni-apni baatein keh kar Vasuki ki taraf dekha.
+
+Vasuki ne bahut der socha, phir shant awaaz mein bola:
+
+**“Aap sab ki salaah suni,
+par sach kahun toh koi bhi sahi nahi lagti.
+
+Na hume paap karna chahiye,
+na hume teesra raasta dikh raha hai.
+
+Mere hisaab se hume apne pita—
+Mahaan Rishi Kasyapa—
+ki sharan me jaana chahiye.
+Unki kripa hi hume bacha sakti hai.”**
+
+Aur usne aakhir mein kaha:
+
+“Jo bhi faisla hoga,
+uski zimmedari meri hogi.
+Isliye mujhe bahut soch-samajh kar kadam uthana hoga.”"""
             create_image_text_layout(text_content=text2, layout="full")
 
         # Section 1.5.26
         with st.expander("Section 1.5.26"):
-            text1 = """ """
+            text1 = """ 
+Section XXXIX — Hinglish Kahani (Summary Style)
+
+Elapatra ki baat sunte hi saare saanp bahut khush ho gaye.
+Woh sab zor se bole: “Waah, bahut sahi kaha!”
+
+Iske baad Vasuki, saapon ka raja, ne apni behen Jaratkaru ko bohot pyaar se paalna shuru kiya.
+Woh jaanta tha ki ek din woh hi saapon ko bachayegi."""
             create_image_text_layout("attached_assets/chapter1/1.5.26.jpg", text1, layout="side", image_position="left")
-            text2 = """ """
+            text2 = """ 
+🌊 Samudra Manthan aur Vasuki ka Dar
+
+Thodi hi der mein devta aur asur milkar samudra ka manthan karne lage.
+Aur rassi kis ko banaya? Vasuki ko!
+
+Manthan ke baad, Vasuki devtaon ke saath Brahma ji ke paas gaya.
+Devtaon ne vinamrata se kaha:
+
+“Prabhu, Vasuki apni maa ke shraap se bahut pareshan hai.
+Woh hamesha hamara mitra raha hai.
+Kripya uska dukh door kijiye.”
+
+🌟 Brahma Ji ka Upay
+
+Brahma ji ne shaant hoke kaha:
+
+**“Jo Elapatra ne kaha tha, woh bilkul sahi hai.
+Sirf bure saanp hi marenge, achchhe bache rahenge.
+
+Rishi Jaratkaru janam le chuke hain aur tapasya kar rahe hain.
+Jab sahi samay aaye, Vasuki apni behen Jaratkaru ka vivaah us Rishi se kar de.
+Yahi saapon ko vinash se bachayega.”**
+
+🐍 Saanpon ko Diya Gaya Kaam
+
+Brahma ji ki baat sun kar Vasuki ko umeed mili.
+Usne sab saanpon ko bula kar kaha:
+
+**“Dhyaan se suno!
+Jab bhi Rishi Jaratkaru kahen ki unhe patni chahiye,
+turant mujhe khabar dena.
+
+Hamari saari jaati ki suraksha isi par depend karti hai.”**
+
+Saanp taiyaar ho gaye—ab sab us pal ka intezaar karne lage jab Rishi patni maangenge."""
             create_image_text_layout(text_content=text2, layout="full")
 
         # Section 1.5.27
         with st.expander("Section 1.5.27"):
-            text1 = """ """
+            text1 = """ 
+Section XL — Hinglish Kahani (Summary Style)
+
+Saunaka ne Sauti se pucha:
+“Jaratkaru naam kyon pada? Iski kahani kya hai?”
+
+🌿 Jaratkaru Naam ka Matlab
+
+Sauti ne shanti se bataya:
+“Jara ka matlab hota hai ‘ghatna’ ya ‘waste’,
+aur Karu ka matlab hota hai ‘bahut bada’.
+
+Rishi Jaratkaru ka sharir pehle bahut bada tha,
+phir kathin tapasya karte-karte woh dheere-dheere patla ho gaya.
+Isi liye unka naam Jaratkaru pada.
+Aur Vasuki ki behen ka naam bhi isi wajah se Jaratkaru tha."""
             create_image_text_layout("attached_assets/chapter1/1.5.27.jpg", text1, layout="side", image_position="left")
-            text2 = """ """
+            text2 = """ 
+Saunaka muskura kar bola, “Theek hai, samajh gaya.”
+Phir usne pucha, “Ab hume batao Astika ka janm kaise hua.”
+
+🌱 Rishi Jaratkaru aur Vivah ki Talash
+
+Sauti ne kahani aage badhai:
+
+Vasuki chah raha tha ki woh apni behen ka vivaah Rishi Jaratkaru se kara de.
+Lekin Rishi ji din-raat tapasya mein lage rehte,
+unhe shaadi ki bilkul ichchha nahi thi.
+Woh poori dharti par ghoomte, brahmacharya aur tapasya mein doobe rehte.
+
+🏹 King Parikshit ki Galti
+
+Isi dauraan, ek raja the—Parikshit, bahadur aur shikar ke shaukeen.
+Ek din unhone ek hiran ko baan mara aur uska peecha karte-karte gehre jungle mein pahunch gaye.
+
+Pyaas aur thakan se pareshaan, unhe ek Muni dikhe,
+jo go-shala mein chup-chaap baitha tha,
+aur bachdon ke muh se girti dudh ki jhaag peete hue tapasya kar raha tha.
+
+Parikshit ne pucha:
+“Hey Brahman, kya tumne ek ghayal hiran ko idhar bhagte dekha?”
+
+Lekin Muni maun-vrat me the—unhone ek shabd bhi nahi bola.
+
+Raja ko gussa aa gaya,
+aur unhone apne dhanush ki nok se ek mara hua saanp uthaya,
+aur Muni ke kandhe par rakh diya.
+
+Muni ne tab bhi kuch nahi kaha—
+woh chup-chaap baitha raha.
+
+Thodi der baad raja ko apni galti ka ehsaas hua,
+woh sharminda hokar wapas mahal laut gaya.
+
+🐍 Rishi ka Beta – Sringin
+
+Muni ke bete ka naam tha Sringin—
+bahut tapasvi, bahut gusse wala, aur maafi dene mein bilkul kathor.
+
+Ek din jab Sringin apne guru ke paas se ghar laut raha tha,
+toh uska dost Krisa hans padha aur bola:
+
+**“Sringin, itna ghamand mat karo!
+Tumhare pitaji ke kandhe par ek mara hua saanp pada hai.
+Aur tum yahan apne gyaan ka dikhava kar rahe ho?
+
+Unhone kuch galat nahi kiya,
+phir bhi unhe yeh apmaan jhelna pada.
+Mujhe to aisa lag raha hai jaise yeh saza mujhe mili ho.”**
+
+Sringin yeh sun kar aag ki tarah bhadak utha—
+aur yahi se aage ki kahani Astika ke janm ki taraf badhti hai…"""
             create_image_text_layout(text_content=text2, layout="full")
 
         # Section 1.5.28
         with st.expander("Section 1.5.28"):
-            text1 = """ """
+            text1 = """ 
+🌩️ Sringin Ka Gussa
+
+Sauti ne bataya:
+
+Jab Krisa ne Sringin ko bola ki “Tumhare pitaji ke kandhe par ek mara hua saanp rakha hai,”
+to Sringin ka chehra laal-hot anger se bhar gaya.
+
+Sringin ne dhire se pucha:
+“Mere father ke saath aisa kisne kiya? Kis baat ka badla tha?”
+
+Krisa ne jawab diya:
+“Raja Parikshit shikar karte-karte thak gaye the.
+Unhone tumhare pitaji se hiran ke baare mein pucha,
+par woh maun-vrat me the, isliye nahi bole.
+Gusse me Raja ne bow se uthakar ek dead snake unke kandhe par rakh diya.”"""
             create_image_text_layout("attached_assets/chapter1/1.5.28.jpg", text1, layout="side", image_position="left")
-            text2 = """ """
+            text2 = """ 
+🔥 Shraap Dene Ki Galti
+
+Yeh sunte hi Sringin ka gussa phat padta hai.
+Woh paani chho kar shraap deta hai:
+
+“Raja Parikshit ne Brahman ko apmaan kiya hai.
+Saat din ke andar Takshak naam ka zehreela naga use maar dalega!”
+
+Shraap dekar Sringin apne father ke paas pahunchta hai.
+Woh unhe dead snake ke saath baitha hua dekhta hai
+aur phir se rosh me bhar jaata hai.
+
+Woh rota hua bolta hai:
+“Pitaji, maine Raja ko shraap de diya hai!
+Usne aapka apmaan kiya, isliye woh marne layak hai.”
+
+👳‍♂️ Father ki Samajh Bhari Daant
+
+Rishi-father ne shant swar me kaha:
+
+**“Beta, yeh tumne bahut galat kiya.
+Ascetic ka kaam badla lena nahi hota.
+
+Raja hume raksha deta hai.
+Hume shanti aur dharam se jeene deta hai.
+Agar raja na ho to log anushasan me nahi rahte.”**
+
+Unhone samjhaya:
+
+Raja galti se gussa kar gaya, jaane-bina ki main maun-vrat me hoon.
+
+Hum jaise tapasvi logon ko bhi Raja ki raksha chahiye hoti hai.
+
+Dharam yahi kehta hai ki Raja ko maaf kar dena chahiye.
+
+Aakhir me Rishi ne dukh se kaha:
+“O mere bachche, Raja Parikshit hamara shraap ka patra nahi tha.
+Tumne bachpana dikhaya hai.”"""
             create_image_text_layout(text_content=text2, layout="full")
 
         # Section 1.5.29
         with st.expander("Section 1.5.29"):
-            text1 = """ """
+            text1 = """ 
+🌩️ Sringin Ka Zidd
+
+Sauti ne bataya:
+
+Jab Samika ne apne beta Sringin ko shant karna chaha,
+to Sringin ne zidd se jawab diya:
+
+“Pitaji, chahe aapko pasand aaye ya na aaye…
+mera diya hua shraap kabhi vyarth nahi jayega.
+Main kabhi jhooth nahi bolta.”
+
+Samika ne pyaar aur dukh ke saath kaha:
+
+“Beta, tum satya-vadi ho, tapasvi ho,
+isliye tumhare shabd jarur sach honge.
+Par bachcha hone ke bawajood tumne gusse me galti ki hai.”"""
             create_image_text_layout("attached_assets/chapter1/1.5.29.jpg", text1, layout="side", image_position="left")
-            text2 = """ """
+            text2 = """ 
+🕊️ Father Ki Seekh
+
+Samika ne dheere se samjhaya:
+
+“Ascetic ka kaam shanti lana hai, badla lena nahi.”
+
+“Krodh tapasya ka phal jala deta hai.”
+
+“Jo maaf kar sakta hai, wahi bade lokon me jagah paata hai.”
+
+Phir unhone kaha:
+
+“Main raja ko sandesha bhejunga.
+Woh jan le ki shraap ek bachche ke gusse ki wajah se hua hai.”
+
+Samika ne apne shishya Gaurmukha ko bulaya
+aur use Raja Parikshit ke paas bheja.
+
+🏰 Sandesha Raja Tak Pohonchta Hai
+
+Gaurmukha ne rajmahal jaakar respect se message diya:
+
+“Raja Parikshit,
+Aapne anjaan me ek maun-vrati Rishi ke kandhe par dead snake rakha.
+Rishi ne toh maaf kar diya,
+par unke bete Sringin ne aapko shraap de diya hai—
+Saat din ke andar Takshak naga aapko kaatega.”
+
+Yeh sunte hi Raja Parikshit ka dil toot gaya.
+Woh apni maut se kam,
+apne durvyavhaar par zyada pachtaya.
+
+🛡️ Raja Ki Tayari
+
+Raja ne turant mantriyon se salah ki
+aur ek uunchi, ek-pillared mansion banwayi.
+Uske aas-paas:
+
+vaidya
+
+mantrik Brahman
+
+suraksha ke pehredaar
+
+sab ko tainaat kiya gaya.
+
+Koi hawa tak andar na ja sake—
+itni sakht security thi.
+
+🐍 Takshak aur Kasyapa Ki Mulaqat
+
+Jab sathvan din aaya,
+mahan Rishi Kasyapa raja ko bachane ja rahe the.
+Unka sochna tha:
+
+“King ko bachakar, main punya aur dhan pa sakta hoon.”
+
+Raaste me unki mulaqat ek buzurg Brahman se hui—
+jo asal me Takshak tha.
+
+Takshak ne poocha:
+
+“Itni jaldi kahan ja rahe ho?”
+
+Kasyapa bole:
+
+“Takshak aaj raja ko dasega.
+Main jaakar uska ilaaj karunga.”
+
+Takshak muskura kar bola:
+
+“Main hi Takshak hoon.
+Aur meri zeher se bite hue ko
+tum kabhi nahi bacha sakte.”
+
+Kasyapa ne vishwas se jawab diya:
+
+“Mere gyaan aur tapasya ke saamne,
+tumhara zeher kuch nahi.
+Main raja ko zaroor bachaa sakta hoon.”"""
             create_image_text_layout(text_content=text2, layout="full")
 
         # Section 1.5.30
         with st.expander("Section 1.5.30"):
-            text1 = """ """
+            text1 = """ 
+Section XLIII
+🐍🔥 Takshak Ka Challenge
+
+Ek din Takshaka ne Rishi Kasyapa se kaha:
+
+“Agar tum waaqai kisi ko bhi bachaa sakte ho,
+to pehle is bargad ke ped ko bachakar dikhao.
+Main ise abhi zeher se jala deta hoon.”
+
+Kasyapa shant se bole:
+
+“Theek hai, tum ped ko dasto.
+Main use phir se zinda kar dunga.”
+
+Takshaka ne ped ko dant diya.
+Ped turant zeher se jalne laga.
+Aag ki tarah woh poora ped bhasm ho gaya."""
             create_image_text_layout("attached_assets/chapter1/1.5.30.jpg", text1, layout="side", image_position="left")
-            text2 = """ """
+            text2 = """ 
+Phir Takshak ne hans kar kaha:
+
+“Ab dikhao apni vidya!”
+
+🌱 Kasyapa Ka Chamatkar
+
+Kasyapa ne bhasm uthaya aur muskurakar bola:
+
+“Dekho, gyaan ki shakti kya kar sakti hai.”
+
+Unhone mantra ki shakti se:
+
+ek chhota sa ankur banaya,
+
+phir do patte,
+
+phir tana,
+
+phir shaakhen…
+
+Aur dheere-dheere,
+poora bargad ka ped dobara khada ho gaya!
+
+Takshaka hairaan reh gaya.
+Usne kaha:
+
+“Tumhari vidya bahut badhi hai.
+Par raja Parikshit ko bachane mat jao.
+Woh Brahman ke shraap se marrne wala hai.
+Agar tum nahi bachaa paaye,
+to tumhari khyaati ko nuksaan ho jayega.
+Main tumhe utna hi dhan de deta hoon.”
+
+💰 Samjhauta
+
+Kasyapa ne imaandaari se kaha:
+
+“Main dhan ke liye hi ja raha hoon.
+Agar tum de doge, to main laut jaunga.”
+
+Takshaka ne kaha:
+
+“Main raja se zyada tumhe de sakta hoon.
+Mat jao.”
+
+Tab Kasyapa ne yog-shakti se jaanch ki—
+raja ki umr sach much poori ho chuki thi.
+
+Isliye unhone Takshaka ka diya hua dhan liya
+aur wapas chale gaye.
+
+🏰 Takshak Ki Chalaki
+
+Ab Takshaka raja ko marne ke liye
+Hastinapur ki taraf utra.
+
+Woh sun chuka tha ki raja
+mantron, vaidyon aur suraksha ke beech
+bahut sambhalkar reh raha hai.
+
+Takshaka ne socha:
+
+“Seedha attack karna mushkil hai…
+humesha ki tarah chal chhedni hogi.”
+
+Usne kuch saap ko fake ascetic bana kar
+fruits, kusa grass aur paani ke saath raja ke paas bheja.
+
+🍎 Vishwala Phal
+
+Raja ne woh phal-kusha sab prem se accept kiya
+aur apne mantriyon se kaha:
+
+“Aao, sab milkar in dravyon ko khaate hain.”
+
+Sab ne haan kar di,
+kyunki kismet unhe isi taraf dhakel rahi thi.
+
+Ek khaas phal jisme Takshaka insect ke roop me chhupa tha
+raja ke haath lag gaya.
+
+Jab raja us phal ko kha rahe the,
+andar se ek chhota sa, ajeeb sa,
+kaala-tamba rang ka keeda nikla.
+
+Raja ne muskura kar kaha:
+
+“Aaj suraj bhi doob raha hai.
+Ab mujhe dar nahi.
+Iskeeda ko hi Takshaka banne do.
+Woh mujhe dase—
+taaki shraap poora ho
+aur mera paap dhul jaaye.”
+
+Mantri, jo kismet ke haath ka khilona ban chuke the,
+is baat se sehmat ho gaye.
+
+🐍⚡ Takshaka Ka Antim Dasta
+
+Raja ne keede ko apne gale par rakha.
+
+Aur ek pal me—
+Takshaka ne asli roop dhar liya!
+
+Woh raja ke gale par lapet gaya,
+zor se dahada,
+aur ek hi vaar me
+Parikshit ko dant diya.
+
+Is tarah shraap poora hua
+aur raja apni antim yatra par chale gaye."""
             create_image_text_layout(text_content=text2, layout="full")
 
         # Section 1.5.31
