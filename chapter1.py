@@ -8311,45 +8311,712 @@ Wahi hamara rakshak hai.”"""
 
         # Section 1.5.41
         with st.expander("Section 1.5.41"):
-            text1 = """ """
+            text1 = """ 
+🌿 Section LIV — Astika Ka Vachan
+
+Sauti ne kaha:
+
+Jaratkaru nag-kanya ne apne bete Astika ko bula kar pyaar se kaha:
+
+“Beta, ab woh waqt aa gaya hai.
+Jis kaaran maine tumhaare pita se vivaah kiya tha—
+woh kaam tumhe poora karna hoga.”
+
+🤔 Astika Ka Sawal
+
+Astika ne poocha:
+
+“Maa, mama Vasuki ne aapko mere pita ko kyon diya tha?
+Yeh sab mujhe sach-sach bataaiye.”"""
             create_image_text_layout("attached_assets/chapter1/1.5.41.jpg", text1, layout="side", image_position="left")
-            text2 = """ """
+            text2 = """ 
+🐍 Kadru ka Shraap — Saanpon ki Museebat
+
+Jaratkaru ne shaant swar mein kaha:
+
+“Beta, tumhara janam ek bade kaam ke liye hua hai.
+Saanpon ki maa Kadru ne gusse mein apne hi bachchon ko shraap diya tha.”
+
+Phir usne bataya:
+
+Kadru ne saanpon se kaha tha:
+
+“Uchchaihshravas ghode ko tum kaala keh do,
+taaki Vinata humse haar jaaye.”
+
+Par saanpon ne jhooth bolne se mana kar diya.
+Kadru gusse se bhadak uthi:
+
+“Tum sab Janamejaya ke Sarp-Yagya mein jal kar maroge!
+Aur tum un paapi aatmaon ke lok mein jaaoge!”
+
+Brahma ji ne, Kadru ke shabd sunkar,
+“Be it so” kehkar shraap ko manzoor kar liya.
+
+🐍🙏 Vasuki Ka Dar aur Brahma Ji Ka Vachan
+
+Jab Vasuki ko shraap ka pata chala,
+to woh devtaon ke paas bhaaga.
+
+Jab amrit-manthan ho raha tha,
+to Vasuki devtaon ke saath
+Brahma ji ke paas gaya aur bola:
+
+“Prabhu, humari jaati to khatam ho jaayegi!
+Is shraap ko kaise roka jaaye?”
+
+Brahma ji ne kaha:
+
+“Ek Brahmana, Jaratkaru naam ki kanya se hi janm lega.
+Wahi jaakar saanpon ko bachaayega.”
+
+Vasuki ne tab apni behen (Jaratkaru) ka vivaah
+tumhaare pita (Jaratkaru Rishi) se karaya.
+
+Aur tum janme—Astika.
+
+🔥🐍 Jaratkaru Maa Ki Vinati
+
+Jaratkaru ne beta Astika se kaha:
+
+**“Beta, ab hum sab jal rahe hain.
+Takshaka to Indra ke paas chhupa hua hai,
+baaki saare saanp aag mein gir rahe hain.
+Yeh Sarp-Yagya hamaari vansh ko samaapt kar dega.
+
+Tumhara janam humein bachane ke liye hua tha.
+Ab humein tumhari zaroorat hai.”**
+
+💬 Astika Ka Vachan
+
+Astika ne maa aur mama Vasuki se kaha:
+
+“Aap dono chinta mat karo.
+Main aap sabko bachaaunga.
+Mere shabd kabhi jhoothe nahi hote.”
+
+Vasuki ro raha tha, darr se kaanp raha tha.
+Usne kaha:
+
+“Astika, mera mann bhaari hai.
+Mujhe kuch dikhai nahi deta.
+Hum sab khatam ho jayenge…”
+
+Astika ne usse santvana di:
+
+“Mama, main yeh aag thandi kar dunga.
+Aapka dar main door karunga.
+Aap bilkul mat ghabraaiye.”
+
+🛕 Astika Chalta Hai Yagya Ki Or
+
+Sauti ne kaha:
+
+Astika apni poori taakat lekar
+Janamejaya ke Sarp-Yagya ki taraf chal pada.
+
+Wahan usne dekha:
+
+Ek bade se yagya ka maidan,
+
+Rishiyon ki anek pangatiyaan,
+
+Aag ki tej laal lau,
+
+Aur aas-paas chamakdhami se bhara sabha-sthal.
+
+Par darwaanon par rakshak ne usse rok diya.
+
+Astika ne vinamr bhasha mein
+unhe prasann kiya,
+aur phir yagya-mandap mein pravesh kiya.
+
+Andar pahunchkar usne:
+
+Raja Janamejaya ko,
+
+Ritwikon ko,
+
+Sadasyon ko,
+
+Aur pavitra agni ko
+
+maan-samman diya aur pranam kiya.
+
+Uske aane se sab jagah ek shubh shanti si phail gayi."""
             create_image_text_layout(text_content=text2, layout="full")
 
         # Section 1.5.42
         with st.expander("Section 1.5.42"):
-            text1 = """ """
+            text1 = """ 
+🌿 Section LV — Astika Ki Prashansa
+
+Astika ne yagya-mandap mein khade hokar
+Raja Janamejaya aur sab Rishiyon ko
+meethi aur samman-bhari awaaz mein kaha:
+
+🌟 Astika ki Shubh-kaamnaayein
+
+“Rajan, Prayag mein pehle Soma, Varuna aur Prajapati ne maha-yagya kiya tha.
+Lekin aaj ka tumhara yagya bhi unse kam nahi hai.
+Bhagwan tum sab par kripa banaye rakhein.”
+
+Astika ne sabke liye fir shubh-aashirvaad diya:
+
+“Indra ne sau yagya kiye the,
+par tumhara ek yagya un dus hazaar yagyon ke barabar hai.
+Tum sach-much mahaan raja ho.”"""
             create_image_text_layout("attached_assets/chapter1/1.5.42.jpg", text1, layout="side", image_position="left")
-            text2 = """ """
+            text2 = """ 
+🔥 Purane Mahaan Yagyon Se Tula
+
+Astika ne kaha:
+
+**“Yamraj ka yagya, Raja Rantidev ka yagya,
+Raja Maya aur Vaishravana ke yagya—
+ye sab duniya bhar mein prasiddh the.
+
+Lekin Raja Parikshit ke putra,
+tumhara yah yagya un sab jaisa hi tejasvi hai.”**
+
+Woh aage bola:
+
+“Jaise Yudhishthir ka dharm-yagya
+swarg tak suna gaya tha,
+waise hi tumhara yagya bhi yugon-tak yaad rahega.”
+
+🕯️ Ritwik aur Rishiyon Ki Prashansa
+
+Astika ne sabhi hotriyon, udgatriyon, aur brahmanon ko dekh kar kaha:
+
+**“Yahan jo Rishiyan aur Ritwik baithe hain,
+unka tej suraj jaisa hai.
+
+Aur Ved-vyas ji jaisa Ritwik
+teenon lokon mein aur koi nahi.
+Unke shishya bhi,
+jahan jaate hain, dharm phailate hain.”**
+
+Usne agni ko pranam kiya:
+
+“Agni dev tumhare havan ko khushi-khushi devtaon tak le ja rahe hain.
+Yeh yagya sach-much pavitra hai.”
+
+👑 Raja Janamejaya Ki Prashansa
+
+Astika ne raja ki taraf dekhkar kaha:
+
+**“Rajan, tum logon ki raksha karne mein
+Varuna aur Yama jaisa nyay karte ho.
+Indra jaisi shakti tumhari aankhon mein dikhti hai.
+
+Tum Khatvanga, Dilipa, Yayati, Mandhatri jaise veer rajaon ki tarah ho.
+
+Gyaan mein tum Valmiki aur Vasishtha jaise ho.
+Tej mein Surya jaise.
+Maryada mein Bhishma jaise.
+
+Tumhari aisi prashansa teenon lokon mein ki ja sakti hai.”**
+
+🙏 Ant mein Astika ka samman-pradaan
+
+Astika ne sabko—
+
+Raja ko,
+
+Sadasyon ko,
+
+Ritwik Rishiyon ko,
+
+aur yajna-agni ko—
+
+pranam kiya aur apni vinamr bhasha se sabko prasann kar diya.
+
+🤔 Raja Ka Badalta Mann
+
+Sauti batata hai:
+
+Astika ki baaton se sab yagya-mandap mein
+shubh sanket dikhne lage.
+
+Tab Raja Janamejaya ne Rishiyon ki tarah,
+gambhir aur soch-bhari awaaz mein kaha:
+
+“Mujhe kuch vishesh dikh raha hai…
+Yeh sab ka kya arth hai?”"""
             create_image_text_layout(text_content=text2, layout="full")
 
         # Section 1.5.43
         with st.expander("Section 1.5.43"):
-            text1 = """ """
+            text1 = """ 
+🌿 Section LVI — Astika Ka Asli Mannorath
+
+Yagya ke beech, Raja Janamejaya ne Astika ko dekhkar socha:
+
+“Yeh ladka toh bilkul buddhe jaise samajhdaar baat karta hai.
+Isse main koi vardaan dena chahta hoon.”
+
+Raja ne Brahmanon se poocha:
+
+“Kya main ise vardaan de sakta hoon?”
+
+Brahmanon ne kaha:
+
+“Rajan, Brahmana chaahe baccha ho ya bada, samman ke layak hota hai.
+Par vartmaan mein ek kaam baaki hai—Takshak ko bulana.
+Uske aane se pehle vardaan mat dena.”"""
             create_image_text_layout("attached_assets/chapter1/1.5.43.jpg", text1, layout="side", image_position="left")
-            text2 = """ """
+            text2 = """ 
+🔥 Takshaka Ko Kheenchte Hue
+
+Raja ne fir bhi Astika se bola:
+
+“Bolo, kya chahiye?”
+
+Par Hotri ne yaad dilaya:
+
+“Takshak abhi aaya nahi hai.”
+
+Raja gusse mein bola:
+
+“Toh mantra aur zor se padho!
+Jab tak mera dushman Takshak aag mein na aa jaye,
+yagya ka koi arth nahi.”
+
+Ritwik ne kaha:
+
+“Rajan, lagta hai Takshak abhi Indra ke paas chhupa baitha hai.
+Dar ke maare woh wahan par hi hai.”
+
+Ek purana Suta, Lohitaksha, ne bhi kaha:
+
+“Indra ne Takshak ko bachane ka vaada kiya tha.
+Woh keh raha hai—‘Mere saath raho, Agni tumhe nahi jala payega.’”
+
+Yeh sunkar raja aur gussa ho gaya.
+
+⚡ Indra Ka Prakat Hona
+
+Mantron ki teevr ghoonjte hi,
+Indra apni divya rath par aasmaan mein dikhayi diya,
+devtaon, apsaraon aur badalon ke saath.
+
+Takshak darr ke maare Indra ke uparna mein chip gaya.
+
+Raja cheekha:
+
+“Agar Takshak Indra ke saath chhupa hai,
+toh Indra ko bhi aag mein kheench lo!”
+
+Brahmanon ne mantron ka zor badhaya.
+Agni ke bal se Indra ko Takshak dikhayi dene laga,
+aur Indra ghabra kar
+Takshak ko chhodkar wapas bhaag gaya.
+
+Takshak ab akela, be-hosh sa,
+aasmaan se seedha jalte yagya ki aag ki taraf ghirta ja raha tha.
+
+🌟 Astika Ka Sahi Samay
+
+Sab ne dekh liya ki Takshak girne hi wala hai.
+Ritwik bole:
+
+“Rajan, ab Astika ko vardaan dena chahiye.”
+
+Janamejaya ne pyar se kaha:
+
+“Bolo putra, kya chaho?
+Chahe mushkil ho, main poora karoonga.”
+
+Ritwik bole:
+
+“Rajan, dekho! Takshak behosh ho kar neeche aa raha hai.
+Mantra apna kaam kar rahe hain.”
+
+Yahi woh pal tha jisme Astika ne shant awaaz mein kaha:
+
+“Rajan, agar aap mujhe sach-much vardaan dena chahte ho,
+toh iss nag-yagya ko yahin rok dijiye.
+Aur koi saap aag mein na gire.”
+
+⚖️ Raja Ka Sankat
+
+Raja dukhi hokar bola:
+
+“Nahi, nahi! Main sona, chandi, gau—jo chaho de doonga,
+par yagya band mat karvao!”
+
+Astika ne phir kaha:
+
+“Mujhe kuch nahi chahiye.
+Bas mere mama Vasuki aur mere saap-parivaar ko bachaa lijiye.”
+
+Raja fir bola:
+
+“Koi aur vardaan maango!”
+
+Par Astika to adig tha:
+
+“Mujhe sirf ek hi cheez chahiye—
+yagya ruk jaye.”
+
+Is par sab Sadasya ek saath bole:
+
+“Rajan, Brahmana ko uska vardaan dijiye.”"""
             create_image_text_layout(text_content=text2, layout="full")
 
         # Section 1.5.44
         with st.expander("Section 1.5.44"):
-            text1 = """ """
+            text1 = """ 
+🌿 Section LVII — Kaun-Kaun Saap Aag Mein Gir Gaye
+
+Saunaka ne Sauti se poocha:
+“Suta-putra, batao kaun-kaun se naag is maha-nag-yagya mein aag mein gir gaye?”
+
+Sauti bola:
+
+“Rishi, itne saap gire ki ginana mushkil hai!
+Hazaaron, lakhon, crore tak nag aag mein tapak pade.
+Phir bhi, jitna mujhe yaad hai, main kuch bade naagon ke naam bata deta hoon.”"""
             create_image_text_layout("attached_assets/chapter1/1.5.44.jpg", text1, layout="side", image_position="left")
-            text2 = """ """
+            text2 = """ 
+🐍 Vasuki vansh ke saap — bade, bhayankar, tezz zeher wale
+
+Ye sab apni maa Kadru ke shraap se majboor ho kar seedhe aag mein gir pade:
+
+Kotisa
+
+Manasa
+
+Purna
+
+Cala
+
+Pala
+
+Halmaka
+
+Picchala
+
+Kaunapa
+
+Cakra
+
+Kalavega
+
+Prakalana
+
+Hiranyavahu
+
+Carana
+
+Kakshaka
+
+Kaladantaka
+
+Sauti kehta hai:
+“Ye sab shaktishaali saap the, kuch neele, kuch laal, kuch safed.
+Dhar-dhar kar aag mein gir rahe the.”
+
+🐍 Takshaka vansh ke saap
+
+Puccandaka
+
+Mandalaka
+
+Pindasektri
+
+Ravenaka
+
+Uchochikha
+
+Charava
+
+Bhangas
+
+Vilvatejas
+
+Virohana
+
+Sili
+
+Salakara
+
+Muka
+
+Sukumara
+
+Pravepana
+
+Mudgara
+
+Sisuroman
+
+Suroman
+
+Mahahanu
+
+🐍 Airavata vansh ke saap
+
+Paravata
+
+Parijata
+
+Pandara
+
+Harina
+
+Krisa
+
+Vihanga
+
+Sarabha
+
+Meda
+
+Pramoda
+
+Sauhatapana
+
+🐍 Kauravya vansh ke saap
+
+Eraka
+
+Kundala
+
+Veni
+
+Veniskandha
+
+Kumaraka
+
+Vahuka
+
+Sringavera
+
+Dhurtaka
+
+Pratara
+
+Astaka
+
+🐍 Dhritarashtra vansh ke saap — bada veer aur zehreela vansh
+
+Sankukarna
+
+Pitharaka
+
+Kuthara
+
+Sukhana
+
+Shecaka
+
+Purnangada
+
+Purnamukha
+
+Prahasa
+
+Sakuni
+
+Dari
+
+Amahatha
+
+Kumathaka
+
+Sushena
+
+Vyaya
+
+Bhairava
+
+Mundavedanga
+
+Pisanga
+
+Udraparaka
+
+Rishabha
+
+Vegavat
+
+Pindaraka
+
+Raktanga
+
+Sarvasaranga
+
+Samriddha
+
+Patha
+
+Vasaka
+
+Varahaka
+
+Viranaka
+
+Sucitra
+
+Citravegika
+
+Parasara
+
+Tarunaka
+
+Maniskandha
+
+Aruni
+
+🐍 Anant sankhya saap aag mein gire
+
+Sauti bolta hai:
+
+“Ye toh sirf kuch mukhya naagon ke naam hain.
+Baaki toh itne the ki unka hisaab hi nahi.
+Kuch ke teen sir, kuch ke saat, kuch ke dus!
+Kuch ek yojan lamba, kuch do yojan!
+Bhoot-jasay, pahaad-jasay, aur agni-jasay zeher wale—
+Sab shraap ke chalte girte gaye.”"""
             create_image_text_layout(text_content=text2, layout="full")
 
         # Section 1.5.45
         with st.expander("Section 1.5.45"):
-            text1 = """ """
+            text1 = """ 
+🌿 Section LVIII — Astika Ka Adbhut Kaam
+
+Sauti bola:
+
+“Ab Astika se judi ek aur ajeeb ghatna suno.”
+
+Jab Raja Janamejaya Astika ko var dene hi wale the, tab Takshaka, jise Indra ne apne haath se chhod diya tha,
+asman mein hi latka hua tha — na upar ja raha tha, na neeche gir raha tha!
+
+Raja hairaan ho gaya.
+Aag mein uska naam lekar mantra chadha rahe the, phir bhi Takshaka gir hi nahi raha tha."""
             create_image_text_layout("attached_assets/chapter1/1.5.45.jpg", text1, layout="side", image_position="left")
-            text2 = """ """
+            text2 = """ 
+🕉 Saunaka ka prashna
+
+Saunaka ne poocha:
+
+“Suta, kya un Brahmano ke mantra kamzor ho gaye the?
+Kyun Takshaka nahi gira?”
+
+🐍 Sauti ka jawab — Astika ki teen baatein
+
+Sauti bola:
+
+“Takshaka behosh tha.
+Indra se chhutkar neeche gir raha tha.
+Tab Astika ne teen baar kaha:
+‘Ruko… ruko… ruko.’
+Aur bas — Takshaka hawa mein hi ruk gaya.”
+
+Vo aise thama raha jaise koi aadmi aasman aur zameen ke beech latka diya gaya ho.
+
+👑 Raja ka faisla
+
+Sadasya baar-baar Raja se bole:
+
+“Astika ka var de dijiye.”
+
+Tab Raja ne kaha:
+
+“Theek hai.
+Jo Astika chahta hai wahi hoga.
+Yagya band karo.
+Saapon ki raksha ho.
+Aur Astika ka var satya ho.”
+
+Jaisi hi Raja ne maan liya,
+aasman mein shubh awaaz gungunayee — sab khush ho gaye.
+
+Is tarah Parikshit ke putra Janamejaya ka maha-sarp-yagya samapt hua.
+
+💰 Raja ka daan aur khushi
+
+Raja Janamejaya bahut khush hua.
+Usne:
+
+Ritwikon ko
+
+Sadasyon ko
+
+Saare upasthit logon ko
+
+Hazaaron-dason ki dhan-rashi daan di.
+
+Jo suta Lohitaksha ne pehle hi bata diya tha ki “yagya ek Brahman ki wajah se rukega,”
+Raja ne use bhi bahut dhan diya.
+
+Phir, poori maryada se,
+Raja ne Astika ko vidha purvak vidha di aur kaha:
+
+“Mere ashvamedh yagya mein zaroor Sadasya ban kar aana.”
+
+Astika ne kaha “Avashya”
+aur khushi-khushi ghar laut gaya.
+
+Wahan jaakar apni maa aur mama ko sab bataya.
+
+🐍 Saapon ki khushi aur Astika ka anokha var
+
+Saap jo wahan the, sun kar bahut khush hue.
+Unhone Astika se kaha:
+
+“Batao beta, tumhare liye hum kya karein?
+Tumne hum sabko bachaya hai.”
+
+Astika bola:
+
+“Jo bhi Brahman ya koi bhi aadmi
+subah ya shaam
+dhyaan se is katha ko padhe ya sune —
+use kisi saap se kabhi dar na lage.”
+
+Saap bole:
+
+“Aisa hi hoga.
+Jo Astika, Artiman aur Sunitha ke naam ko yaad kare — use hum kabhi nahi dasenge.”
+
+Aur koi vyakti bole:
+
+‘Main Jaratkaru-putra Astika ko yaad karta hoon,
+jinhone saapon ko bachaaya.
+Hey saap, mujhe mat dasko,
+jao apne raste.’
+
+Toh saap use nahi dasenge.
+
+Sauti kehta hai:
+
+“Jo saap aise bolne ke baad bhi kisi ko das lega —
+uska phan 100 tukde ho jayega
+jaise sinsha phal.”
+
+🌟 Astika ka ant
+
+Astika sabse santusht ho kar
+apna kaam poora karke
+isi apne punya se
+samay aane par swarg chala gaya,
+apne parivaar ko chhod kar.
+
+🌿 Sauti ka samapan
+
+“Jo bhi Astika ki yeh pavitra katha padhta-sunta hai—
+use saapon ka dar nahi rehta.”
+
+Sauti ne Saunaka se kaha:
+
+“Jis tarah mere purvaj Pramati ne yeh katha Ruru ko sunayi thi,
+maine bhi tumhe poori tarah waise hi suna di.
+Ab tumhara jigyaasa shant ho jaye.”"""
             create_image_text_layout(text_content=text2, layout="full")
 
-        # Section 1.5.46
-        with st.expander("Section 1.5.46"):
-            text1 = """ """
-            create_image_text_layout("attached_assets/chapter1/1.5.46.jpg", text1, layout="side", image_position="left")
-            text2 = """ """
-            create_image_text_layout(text_content=text2, layout="full")
 
     # ============================
     # Chapter 1.6
