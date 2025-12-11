@@ -7314,72 +7314,999 @@ aur raja apni antim yatra par chale gaye."""
 
         # Section 1.5.31
         with st.expander("Section 1.5.31"):
-            text1 = """ """
+            text1 = """ 
+🌩️ Section XLIV — Raja Parikshit ka Ant aur Janamejaya ka Rajya
+
+Takshaka ne jab Raja Parikshit ko kaata,
+to sab mantri dar se peele pad gaye.
+Takshaka ka zor daar garajna sun kar
+sabhi taraf afra–tafri mach gayi.
+
+🐍 Takshaka Aasmaan Mein Uda
+
+Mantriyon ne dekha ki Takshaka
+aasmaan mein ek laal roshni ki dhaar ki tarah ud raha tha—
+bilkul us maang ke sindoor jaisa
+jo ek aurat ke baal ke beech mein chamakta hai."""
             create_image_text_layout("attached_assets/chapter1/1.5.31.jpg", text1, layout="side", image_position="left")
-            text2 = """ """
+            text2 = """ 
+🔥 Mahal Jal Utha
+
+Jahan Raja Parikshit rukte the,
+woh mahal Takshaka ke zehreeli aag se jalne laga.
+Mantri bhagne lage.
+Aur raja… bijli ki tarah gira aur wahin shaant ho gaya.
+
+⚰️ Antim Sanskaar Aur Naya Raja
+
+Mantriyon aur raj purohit ne
+poori shraddha se raja ka antim sanskaar kiya.
+Phir nagar ke log ikattha hue aur bole:
+
+“Hamara naya raja hoga… Janamejaya!”
+
+Woh Parikshit ka chhota beta tha,
+par bada buddhimaan aur shaant swabhav ka.
+
+👑 Raja Janamejaya Ka Vivah
+
+Jab Janamejaya thoda bada aur samajhdaar hua,
+mantriyon ne socha:
+
+“Ab yeh raja apne dushmano ka samna kar sakta hai.”
+
+Isliye ve Kashi ke raja Suvarnavarman ke paas gaye
+aur unki beti Vapushtama ka haath maanga.
+
+Raja ne pooch–taach kar,
+sab rivaazon se
+apni beti Janamejaya ko de di.
+
+Janamejaya bahut khush tha.
+Vapushtama sundar thi, komal thi,
+aur apne pati se bahut prem karti thi.
+
+💕 Prem Aur Shanti Ka Samay
+
+Raja Janamejaya ne
+jangal, nadion, bagichon aur kheton mein
+apni rani ke saath khushiyon bhare din bitaye—
+bilkul purane yug ke Pururava jaise
+jab usne apsara Urvashi ko paaya tha.
+
+Raja ne apne dil mein
+kisi aur ke liye kabhi jagah nahi banne di.
+Rani Vapushtama bhi
+apne prem aur seva se raja ka dil jeet leti thi."""
             create_image_text_layout(text_content=text2, layout="full")
 
         # Section 1.5.32
         with st.expander("Section 1.5.32"):
-            text1 = """ """
+            text1 = """ 
+🌿 Section XLV — Jaratkaru aur Uske Pitron ka Dukh
+
+Ek din mahan tapasvi Jaratkaru poori dharti par ghoom rahe the.
+Jahan shaam hoti, wahi unka aaj ka ghar.
+Woh hawaa ko hi bhojan bana kar kathin tapasya karte,
+aur roz aur patle hote ja rahe the.
+
+🕳️ Ek Darawani Gufa aur Ulte Latakte Purvaj
+
+Ek shaam unhone ek ajeeb drishya dekha—
+ek gehri gufa ke andar, kuch purvaj ulte latak rahe the,
+ek patli si virana jaddi ki rassi se."""
             create_image_text_layout("attached_assets/chapter1/1.5.32.jpg", text1, layout="side", image_position="left")
-            text2 = """ """
+            text2 = """ 
+Woh rassi lagbhag kaat-chuki thi,
+aur ek bada sa chooha (Time ka prateek)
+use dheere–dheere chaba raha tha.
+
+Purvaj bahut kamzor, bhooke, bechaare the.
+Girne mein bas kuch hi pal baaki the.
+
+Is drishya ko dekh kar Jaratkaru ka dil pighal gaya.
+
+🙏 “Main Kya Madad Kar Sakta Hoon?”
+
+Jaratkaru ne pyaar se poocha—
+
+“Aap kaun ho?
+Aap ulte kyun latak rahe ho?
+Agar meri tapasya ka aadha, chautha… ya poora hissa de kar bhi
+main aapko bacha sakoon, to main taiyaar hoon!”
+
+Woh sach mein unki madad karna chahte the.
+
+👴 Pitron ki Dard Bhari Kahani
+
+Pitron ne dheere se jawab diya—
+
+“Beta, hum Yayavara rishi vansh ke purvaj hain.
+Humne kathin tapasya ki, dharm se jee kar uchche lokon tak pahunch gaye.
+Lekin ek baat ki wajah se hum gir rahe hain…
+humari vansh belaasi ho gayi hai.
+
+Humari poori kulvansh ki rassi toot chuki hai—
+sirf ek dhaga bacha hai… tum!
+
+Tumhara naam bhi Jaratkaru hai.
+Tum tapasya kar rahe ho, par tumhara koi beta nahi hai.
+Isliye hum sab, aur tum bhi,
+Time ke choohe ke kaato se
+isko sankat mein pad gaye ho.
+
+Beta, tapasya se zyada mahatvapurn hai
+santaan ka hona,
+kyunki santaan hi apne purvajon ko upar uthata hai.
+
+🐀 Rassi, Choohha aur Arth
+
+Phir unhone symbols samjhaaye:
+
+Rassi = hamara vansh.
+
+Khaali jagah = vansh ka tootna.
+
+Ek bacha hua dhaga = tum, Jaratkaru.
+
+Choohha = kaal (Time), jo sabko kamzor karta hai.
+
+💬 “Beta, Jao aur Vivah Kar Lo!”
+
+Pitron ne pyaar se kaha—
+
+“Beta, agar tum humein bachana chahte ho,
+to humein ek hi raasta dikhta hai—
+vivah karo aur santaan paida karo.
+
+Hamari taraf se yehi prarthana hai.
+Agar tum Jaratkaru se milo,
+to use sab kuch batana.”
+
+Yah sun kar Jaratkaru andar se hil gaye—
+kyunki unhe tab pata chala
+ki yeh pitra unke apne hi purvaj hain."""
             create_image_text_layout(text_content=text2, layout="full")
 
         # Section 1.5.33
         with st.expander("Section 1.5.33"):
-            text1 = """ """
+            text1 = """ 
+🌿 Section XLVI — Jaratkaru Ka Dukh aur Unki Shart
+
+Jaratkaru ne jab apne purvajon ki dard bhari baat suni,
+to unka dil toot gaya.
+Aankhon mein aansu bhar aaye.
+
+😢 “Main Hi Aapka Paapi Vanshaj Hoon!”
+
+Rote hue unhone kaha—
+
+“Aap hi mere pitra ho… mere dada-par dada ho.
+Main woh paapi beta Jaratkaru hoon.
+Batao, main kya karoon?
+Mujhe dand do, main is layak hoon.”"""
             create_image_text_layout("attached_assets/chapter1/1.5.33.jpg", text1, layout="side", image_position="left")
-            text2 = """ """
+            text2 = """ 
+🧓 Pitron ka Sawal
+
+Purvaj pyaar se bole—
+
+“Beta, tum ab tak vivaah kyun nahi kiya?
+Ek beta hi humara udhaar utaar sakta hai.”
+
+🌱 Jaratkaru ki Saalon Purani Qasam
+
+Jaratkaru ne shant awaaz mein kaha—
+
+“Main to hamesha sochta tha ki
+apne sharir ko tapasya se khatam karke
+sidhe upar lok mein chala jaaun.
+Maine vivaah ka sankalp nahi liya tha.
+
+Par aaj aapko is haal mein dekhkar
+mere mann ki drishti badal gayi.”
+
+Phir unhone ek shart rakhi—
+
+📜 “Agar Vivaah Karna Hai, To Sirf Iss Tarah…”
+
+“Main tabhi shaadi karunga agar—
+
+Kanya ka naam bhi Jaratkaru ho, bilkul mera jaisa.
+
+Woh mujhe daan mein mil jaye, main usey paalunga nahi.
+
+Woh khud apne mann se vivaah kare.
+
+Agar aisi kanya mili, to main shaadi karunga—
+aur mera beta hi aapka uddhaar karega.
+Aap fir sada ke liye shanti mein reh sakenge.”
+
+Purvajon ne unhe aashirvaad diya,
+aur Jaratkaru phir se dharti par nikal pade.
+
+🌳 Jaratkaru Ka Dukh Bhara Safar
+
+Woh bohot bohot buddhe ho gaye the,
+par unhe apni shart wali kanya nahi mili.
+Woh pareshaan ho gaye—
+apne purvajon ka dukh, unka bojh, unki zimmedaari
+unka dil tod rahi thi.
+
+Gehre jungle mein jaakar woh zor-zor se rote—
+
+“Mujhe ek patni chahiye!
+Jo daan mein mile!
+Jiska naam bhi Jaratkaru ho!
+Koi sun lo meri baat!”
+
+Woh ye prarthna teen baar chillaye,
+taaki saari srishti unki pukaar sun le.
+
+🐍 Saanp Sun Lete Hain Prarthna
+
+Vasuki ke saanp, jo pehle se hi Jaratkaru par nazar rakhe hue the,
+turant bhaagkar apne raja ke paas gaye—
+
+“Maharaj! Woh shaadi ke liye taiyaar hain!
+Bas unhe ek aisi kanya chahiye jiska naam bhi Jaratkaru ho!”
+
+Ye sunte hi Vasuki,
+apni behen Jaratkaru ko lekar
+us rishi ke paas pahunch gaye.
+
+👰 Vasuki ki Behen — Jaratkaru
+
+Woh sundar, shant, aur sajji hui thi.
+Vasuki ne pyaar se kaha—
+
+“Rishi ji, main apni behen aapko daan mein deta hoon.
+Yeh aapke naam wali, Jaratkaru hai.”
+
+Lekin Rishi ne turant haan nahi kahi.
+Unhone doubt se poocha—
+
+“Pehle iska naam batao.
+Aur sun lo—
+main usey paalunga nahi, yeh meri shart hai.”
+
+Rishi sach mein apni sharton par dridh the.
+Unke purvajon ki kismet ab
+Vasuki ke jawab par tikki hui thi…"""
             create_image_text_layout(text_content=text2, layout="full")
 
         # Section 1.5.34
         with st.expander("Section 1.5.34"):
-            text1 = """ """
+            text1 = """ 
+🌟 Section XLVII — Jaratkaru ka Vivaah aur Judai
+
+Vasuki Rishi Jaratkaru ke saamne haath jod kar bola—
+
+“O Mahaan Brahman,
+ye meri behen hai — iska naam bhi Jaratkaru hai.
+Yeh pavitra hai, tapasya karti hai.
+Aap ise apnaaiye.
+Iska poora dhyaan main rakhunga.”
+
+Rishi ne shaant par sakht swar mein kaha—"""
             create_image_text_layout("attached_assets/chapter1/1.5.34.jpg", text1, layout="side", image_position="left")
-            text2 = """ """
+            text2 = """ 
+“Theek hai.
+Par ek baat yaad rakhna—
+main ise kabhi paalunga nahi.
+Aur yeh kuch bhi aisa nahi karegi jo mujhe pasand na ho.
+Agar kiya… to main usey turant chhod doonga.”
+
+Vasuki ne vachan diya—
+“Main apni behen ki zimmedaari leta hoon.”
+
+💐 Shaadi Aur Naya Ghar
+
+Rishi ne kanya ka haath pakda
+aur shastron ke anusaar vivaah ho gaya.
+
+Vasuki ne unke liye ek sundar kaksh banwayi—
+soft bed, sukoon waali jagah, sab kuch tayyar.
+
+Jaratkaru ne apni patni ko ek aur shart batayi—
+
+“Kabhi kuch mat karna jo mujhe na pasand ho.
+Agar hua— main yahan nahi rukunga.”
+
+Bechari Vasuki ki behen,
+dil mein darr lekar, dheere se boli—
+
+“Jo aap keh rahe ho… wohi hoga.”
+
+🕯️ Patni ki Seva aur Tapasya
+
+Woh rishi ki har baat par nazar rakhti,
+bilkul:
+
+kutte jaise hamesha jaag rahi,
+
+hiran jaise sharmeeli,
+
+kagaz jaise har sanket pe dhyaan.
+
+Ek din pavitra snaan ke baad,
+woh apne pati ke paas aayi
+aur woh garbhvati ho gayi.
+
+Garbha ek jalti lau jaise tej tha —
+din-pratidin badhta hua.
+
+😴 Doopahar ki Neend Aur Syaahani Shaam
+
+Ek din Rishi Jaratkaru
+patni ki god mein sir rakh kar so gaye.
+
+Shaam ka samay ho chuka tha,
+suraj pashchim pahadon ke peeche jaa raha tha.
+
+Patni ghabraa gayi—
+
+“Agar Rishi ne sandhya-vandana nahi ki,
+to inka punya kam ho jayega!
+Par inhe uthaya… to ye naraaz ho jayenge.
+Kya karoon?”
+
+Soch-kar
+dheere se unke kaan mein bola—
+
+“Swami, jaag jaiye…
+Suraj doob raha hai…
+Aapko sandhya-prarthna karni hogi.”
+
+⚡ Rishi ka Krodh
+
+Rishi ne aankhen kholi,
+unka hoth gusse se kaamp raha tha—
+
+“Tumne mujhe be-ijzat kiya!
+Main yahan nahi reh sakta.
+Aise ghar mein nahi jahan meri neend tod di jaye!
+Main ja raha hoon—
+hamesha ke liye.”
+
+Bechari patni ka dil toot gaya.
+
+😭 Patni ki Vinanti
+
+Aankhon mein aansu lekar boli—
+
+“Swami, maine aapka apmaan nahi kiya.
+Main to sirf aapke dharm ko bachana chahti thi.
+Agar aap chale gaye,
+to mera kya hoga?
+Mere parivaar ka kya hoga?
+Aapke bete se hi hamara vansh bachega.
+Aap hume bina wajah mat chhodiye…”
+
+✨ Rishi ka Antim Vachan
+
+Rishi ne thoda shaant hokar kaha—
+
+“Tumhare garbh mein jo bachcha hai,
+woh agni jaise tej,
+mahaan tapasvi,
+aur Vedon ka gyani hoga.”
+
+Ye kehkar
+Rishi Jaratkaru
+phir se apni tapasya ke liye
+jungle ki aur chal diye.
+
+Patni aansuon ke saath
+unhe door jaate dekhti reh gayi…"""
             create_image_text_layout(text_content=text2, layout="full")
 
         # Section 1.5.35
         with st.expander("Section 1.5.35"):
-            text1 = """ """
+            text1 = """ 
+✨ Section XLVIII — Astika ka Janm
+
+Jaratkaru Rishi jaise hi chale gaye,
+unki patni Jaratkaru (Vasuki ki behen) roti hui
+apne bhai ke paas pahunchi.
+
+Usne sab kuch bata diya—
+kaise Rishi naraaz hokar chale gaye.
+
+🐍 Vasuki ka Dard
+
+Apni behen ki baat sunte hi
+Vasuki aur bhi dukhi ho gaya.
+
+Woh bola—"""
             create_image_text_layout("attached_assets/chapter1/1.5.35.jpg", text1, layout="side", image_position="left")
-            text2 = """ """
+            text2 = """ 
+“Behen… tum jaanti ho na,
+tumhari shaadi ka ek hi uddeshya tha—
+agar tumhare ghar ek beta paida ho jaye,
+to woh hum saapon ko aane wale sarp-yagya se bachayega.
+Brahmaaji ne bhi kaha tha ki woh bachcha humara rakshak hoga.
+Kya tumhari kokh mein bachcha hai?
+Batao behen… meri chinta door karo.”
+
+🌸 Patni ka Uttar
+
+Jaratkaru ne shant swar mein kaha—
+
+“Bhaiya, maine Rishi se bacche ke baare mein poocha tha.
+Unhone kaha: ‘Haan, hoga.’
+Unhone kabhi jhooth nahi bola…
+aur aise samay par to bilkul nahi.
+Unhone mujhe aashwasan diya:
+“Chinta mat karo, tumhare yahan ek beta hoga —
+Suraj ki tarah tej.”
+Isliye, bhaiya, dukhi mat ho.”
+
+Yeh sun kar Vasuki ki saanson ka bojh halka ho gaya.
+Woh khushi se bol utha—
+
+“Achha hua! Be it so!”
+Aur usne apni behen ko vardaan, dhan, aur pyaar se nawaza.
+
+🌙 Astika Ka Janm
+
+Samay ke saath
+uske garbh ka tej badhta hi gaya—
+jaise shukla paksh ka chand.
+
+Aur ek din
+usne ek sundar, divya roshni se chamakta beta janma.
+Yeh bachcha
+apne pita ke pitron aur saap-kul dono ke liye
+umeed ka deepak ban kar aaya.
+
+📚 Astika ka Balpan
+
+Astika bachpan se hi asadharan tha:
+
+Vedas aur shaastron ka gyaan liya
+
+Rishi Cyavana se adhyayan kiya
+
+Mann se pavitra
+
+Buddhimaan aur vachan ka pakka
+
+Sansaar ke moh se pare
+
+Tapasvi aur vinamra
+
+Astika naam bhi ajeeb tarike se pada—
+kyunki jab uski maa garbhvati thi,
+usne apne pati se poocha,
+aur Rishi ne sirf ek shabd bola:
+“Asthi — Haan, hai.”
+Bas tab se sab usko Astika bulane lage.
+
+🐍 Saapon ki Aasha
+
+Astika dheere-dheere bada hua—
+saap rajya ka laadla,
+unki umeed,
+unke bhavishya ka rakhwala.
+
+Sabhi saapon ko lagta tha—
+
+“Yahi hum sabko bachaayega.”"""
             create_image_text_layout(text_content=text2, layout="full")
 
         # Section 1.5.36
         with st.expander("Section 1.5.36"):
-            text1 = """ """
+            text1 = """ 
+🌿 Section XLIX — Janamejaya Apne Pitaji Ki Mrityu Ka Raaz Sunta Hai
+
+Ek din Saunaka Rishi ne Sauti se poocha:
+
+“Humein batao, Janamejaya ne apne mantriyon se kya-kya poochha tha apne pita Parikshit ki maut ke baare mein?”
+
+📜 Sauti ne kaha
+
+“Suno Brahmanon, main sab kuch bataata hoon jo raja ne poochha aur jo mantriyon ne jawab diya.”"""
             create_image_text_layout("attached_assets/chapter1/1.5.36.jpg", text1, layout="side", image_position="left")
-            text2 = """ """
+            text2 = """ 
+👑 Janamejaya ka Prashna
+
+Naujawan raja Janamejaya ne apne mantriyon se kaha:
+
+“Kya aap jaante ho mere pita ke saath kya hua?
+Unka anth kaise hua?
+Main sab kuch sahi-sahi sunna chahta hoon.
+Agar sun kar mujhe lage ki kisi ka bhala ho sakta hai, tab main kuch karunga.”
+
+🕊️ Mantri ka Uttaar: Parikshit Kaun The?
+
+Mantri ne shant swar me kaha:
+
+**“Rajan, aapke pita Parikshit bahut dharmic aur dayalu the.
+Unhone chaaron varnon—Brahmana, Kshatriya, Vaishya, Shudra—sabko nyay aur raksha di.
+
+Koi unse nafrat nahi karta tha, aur woh bhi kisi se nafrat nahi rakhte the.
+Vidhwavan, garibon, anathon—sabki dekhbhaal karte the.
+
+Tej aur shaurya mein woh Somdev jaise lagte the.
+Ve dhanurvidya Saradvat Rishi se seekh chuke the.
+
+Govind (Shri Krishna) ke bhi priya the.
+Aur Kuru vansh ke lagbhag samaapt hone par, Uttara ke garbh se paida hue the—
+isliye unka naam Parikshit pada.”**
+
+Mantri ne aage bataya:
+
+**“Unhone 60 saal tak rajya ki raksha ki.
+Sab unse pyaar karte the.
+Aur jab unka deh-ant hua, pura raj shok mein doob gaya.
+
+Uske baad, bachpan mein hi aapko raj-tilak diya gaya.
+Aur tab se aap Kuru vansh ko sambhaal rahe hain.”**
+
+🤔 Janamejaya aur Jankari Maangta Hai
+
+Raja ne fir kaha:
+
+“Hamare vansh mein koi raja aisa nahi hua jo praja ka bura chahe.
+Par mujhe batayo—
+mere pita jaise dharmic purush ka anth kaise hua?
+Mujhe poori kahani sunao.”
+
+🐍 Mantri Sachchai Batate Hain: Shraap Ki Kahani
+
+Mantriyon ne sachchai bataai:
+
+**“Rajan, aapke pita shikar ke bohot shaukeen the.
+Ek din ve jungle gaye aur ek hiran ko baan se chot pahunchayi.
+Hiran bhaag gaya aur unhe nahi mila.
+
+Ve thak gaye, bhookhe ho gaye, aur bhaatak-te hue ek tapasvi ke paas pahunche.
+
+Par woh Rishi maun-vrat par the.
+Aapke pita baar-baar poochhte rahe, par Rishi chup rahe.
+
+Thakaan, bhookh aur gusse se andhe ho kar
+raja ne zameen par pada hua mara hua saanp
+apne dhanush ki nok se uthaya
+aur Rishi ke kandhe par rakh diya.”**
+
+Mantri ne gahri saans lekar kaha:
+
+“Rishi ne gussa nahi kiya, na kuch bola.
+Ve bas maun-vrat mein baithe rahe.
+Par baad mein unke bete Shringin ne—apne pita ka apmaan sun kar—
+aapke pita ko shraap de diya
+ki saat din baad Takshaka saap unhe marega.”"""
             create_image_text_layout(text_content=text2, layout="full")
 
         # Section 1.5.37
         with st.expander("Section 1.5.37"):
-            text1 = """ """
+            text1 = """ 
+🌿 Section L — Sringin Ka Shraap Aur Janamejaya Ka Pratigya
+
+Sauti ne aage bataya:
+
+Mantriyon ne Janamejaya se kaha:
+
+🐍 Parikshit Wapas Rajdhani Laut Aaye
+
+“Rajan, jab aapke pita Parikshit thak gaye the—bhookh, pyas aur gusse se bhar kar—
+unhone us maun-dhari Rishi ke kandhe par mara hua saanp rakha
+aur phir rajdhani laut aaye.”
+
+Us Rishi ka ek beta tha—Sringin—
+jo gaay ke garbh se paida hua tha,
+bahut shaktishaali, tejasvi aur bohot hi gusse waala.
+
+Har roz woh apne guru ko pranam karne jaata tha."""
             create_image_text_layout("attached_assets/chapter1/1.5.37.jpg", text1, layout="side", image_position="left")
-            text2 = """ """
+            text2 = """ 
+🔥 Sringin Gusse Se Jal Uthta Hai
+
+Ek din raat ko, Sringin ko uske saathi ne bataya:
+
+“Tumhare pita Rishi ko bina kisi galti ke, raja Parikshit ne apmaanit kiya hai.
+Unke kandhe par ek mara hua saanp rakh diya!”
+
+Sringin ka chehra gusse se laal ho gaya.
+
+Mantriyon ne Janamejaya se kaha:
+
+“Rajan, tumhare pita ne jiska apmaan kiya tha,
+woh Rishi bohot dharmic, shant, tapasvi, aur nirdosh the.
+Unme na lalach tha, na irsha.
+Woh sab praaniyon ke liye sharan tha.”
+
+Aise Rishi ka apmaan sun kar
+Sringin, jo toofan jaise gussail tha,
+ne paani chhoo kar shraap diya:
+
+“Suno sab! Mere shabdon ki shakti dekh lo!
+Saat din ke andar–
+saap-raja Takshaka
+raja Parikshit ko apne zehre se jala kar maar dalega!”
+
+Aur phir woh apne pita ke paas chala gaya.
+
+🕊️ Rishi Samika Raja Ko Bachane Ki Koshish Karte Hain
+
+Rishi Samika ne turant apna shishya Gaurmukha Janamejaya ke pita ke paas bheja.
+
+Gaurmukha ne kaha:
+
+“Rajan, meri baat suniyega.
+Aapko mere guru ke bete ne shraap diya hai.
+Saat din baad Takshaka aapko marega.
+Savdhaan rahiye!”
+
+Parikshit ne bahut savdhaani barati—
+mantron wale Brahmanon ko bulaya,
+vish-hara dawaaiyaan rakhi,
+aur ek surakshit mahal mein chhup kar rehte rahe.
+
+🐍🔥 Takshaka aur Kasyapa Ki Mulakaat
+
+Saathve din, ek mahan Brahman Rishi Kasyapa unhe bachane aa rahe the.
+
+Par raaste mein Takshaka unhe mil gaya
+ek sadhu ke roop mein.
+
+Takshaka ne poochha:
+
+“Kahan jaa rahe ho, Rishi?”
+
+Kasyapa bole:
+
+“Raja Parikshit ko tum zehr dene wale ho.
+Main unhe bachaane ja raha hoon.”
+
+Takshaka hansa:
+
+“Main Takshaka hoon!
+Tum mujhe rok nahi sakte.
+Mera zehr dekhna chahte ho?”
+
+Usne ek bargad ka ped kaata—
+aur ped turant bhasm ban gaya.
+
+Kasyapa ne shant ho kar
+apne vidya se
+us ped ko fir se jeevit kar diya—
+jaise kuch hua hi na ho.
+
+Takshaka ghabra gaya,
+par fir chalak ban kar bola:
+
+“Aao, main tumhe raja se bhi zyada dhan deta hoon.
+Tum wapas chale jao.”
+
+Kasyapa ne dhan le liya
+aur laut gaye.
+
+🔥 Takshaka Parikshit Ko Maar Deta Hai
+
+Uske baad Takshaka
+apna roop badal kar
+Raja Parikshit ke surakshit mahal mein ghus gaya
+aur unhe zehr se jala kar maar dala.
+
+Is tarah Janamejaya raaja ban gaye.
+
+😡 Janamejaya Ka Krodh
+
+Ye sab sun kar Janamejaya ro pade.
+
+Unhone haath jod liye, saans tez ho gayi,
+aankhon se aansu bahaakar bole:
+
+**“Ab mujhe sab samajh aa gaya hai.
+Takshaka ne mere pita ko maarne ke liye
+Kasyapa ko rishwat di.
+
+Galti Sringin ki nahi—
+seedha dosh Takshaka par hai.
+
+Main ab apne pita ka badla loonga.
+Main Takshaka aur saap-vansh ko dandayunga!”**
+
+Mantriyon ne kaha:
+
+“Rajan, humne aapko saari baat bata di.
+Aap jo uchit samjhein, wahi kariye.”
+
+Janamejaya ne kathor swar me kaha:
+
+“Ab der nahi hogi.
+Takshaka ne yeh anyaay kiya hai—
+aur main usey saja doonga.”"""
             create_image_text_layout(text_content=text2, layout="full")
 
         # Section 1.5.38
         with st.expander("Section 1.5.38"):
-            text1 = """ """
+            text1 = """ 
+🌿 Section LI — Janamejaya Ka Maha Sarp-Yagya
+
+Sauti ne kaha:
+
+King Janamejaya ne jab apna kathor sankalp sunaaya,
+to unke mantriyon ne turant prashansa ki—
+sabne kaha “Yeh theek hai, Maharaj!”"""
             create_image_text_layout("attached_assets/chapter1/1.5.38.jpg", text1, layout="side", image_position="left")
-            text2 = """ """
+            text2 = """ 
+🔥 Janamejaya Ka Badle Ka Pratigya
+
+Janamejaya—Parikshit ka veer putra—
+ne apne purohit aur Ritwikon ko bula kar kaha:
+
+“Main apne pita ka badla loonga.
+Takshaka ne unhe zehr se jala dala.
+Mujhe koi aisa yagya batao
+jisme main Takshaka aur uske saathi saap
+aag mein gira kar bhasma kar doon—
+jaise usne mere pita ko jala diya tha.”
+
+📜 Purohit Ka Uttar: Sarp-Satra Yagya
+
+Mukhya purohit bole:
+
+**“Rajan, ek mahaan yagya hota hai—
+Sarp-Satra, yaani Saanpon ka Mahayagya.
+
+Iska ullekh Puranon mein bhi hai.
+Yeh devtaon dwara banaya gaya yagya hai.
+
+Aur isse sirf aap jaisa raja hi kar sakta hai.”**
+
+Yeh sun kar Janamejaya ko laga
+ki jaise Takshaka abhi se aag mein jal raha ho.
+
+🕯️ Yagya Ki Taiyariyaan
+
+Raja ne kaha:
+
+“Theek hai, taiyaari shuru karo.
+Mujhe batao, kya kya chahiye.”
+
+Ritwik—jo mantron aur Vedo mein nipun the—
+ne shastron ke anusaar
+ek vishaal yagya-vedi ki jagah mapni shuru ki.
+
+Phir:
+
+vedi ko keemti vastuon se sajaaya gaya,
+
+dhan-dhaan rakha gaya,
+
+aur adhik sankhya mein Brahmanon ko bulaya gaya.
+
+Raja ko vidhi-purvak
+yagya ke liye sthapit kiya gaya.
+
+Sab kuch shubh-shubh chal raha tha…
+lekin tabhi ek ashubh ghatna hui.
+
+⚠️ Ek Rahasya Bhari Chitaavni
+
+Vedi banate waqt
+ek Suta—jo kala-mehar aur puranon ka gyani tha—
+waha aaya.
+
+Usne mitti ko dekha,
+samay ko dekha,
+aur bada gahla sanket diya:
+
+“Rajan, jahan aur jis samay par
+ye vedi ban rahi hai,
+uske soochak batate hain
+ki yagya poora nahi hoga.
+Iska kaaran ek Brahmana banega.”
+
+Janamejaya yeh sunkar ghabra gaye,
+par sankalp mazboot tha.
+
+Isliye unhone turant hukm diya:
+
+“Aaj se bina meri ijazat
+koi bhi vyakti mahal mein pravesh nahi karega.
+Chaahe woh kaun ho.”"""
             create_image_text_layout(text_content=text2, layout="full")
 
         # Section 1.5.39
         with st.expander("Section 1.5.39"):
-            text1 = """ """
+            text1 = """ 
+🌿 Section LII — Sarp-Yagya Shuru Hota Hai
+
+Sauti ne kaha:
+
+Raja Janamejaya ka Sarp-Yagya
+ab shastron ke anusaar shuru ho gaya.
+
+🔥 Agni Mein Ghee, Aur Saapon Ke Naam
+
+Yagya ke purohit—
+jo apne-apne kaam mein bahut nipun the—
+kale vastra pehne,
+dhueṅ se unki aankhen laal ho chuki thi.
+
+Woh Agni dev ke muh mein
+shuddh ghee chadhaa rahe the,
+mantron ke saath saanpon ke naam bolte jaa rahe the.
+
+Unke mantra ka daman itna teekha tha
+ki saare saanp dar se kaamp uthe."""
             create_image_text_layout("attached_assets/chapter1/1.5.39.jpg", text1, layout="side", image_position="left")
-            text2 = """ """
+            text2 = """ 
+🐍🔥 Saanpon Ki Dukhad Haalat
+
+Mantra ki shakti se
+saare saanp apne aap kheech kar
+aag ki aur girne lage.
+
+Koi chillaa raha tha,
+koi apne saathi ko bula raha tha—
+lekin koi bach nahi pa raha tha.
+
+Safed saanp,
+
+kaale saanp,
+
+neele saanp,
+
+chhote, bade,
+
+jawaan aur boodhe—
+
+sab ek jaise
+lapakte huye aag mein girte ja rahe the.
+
+Kuch ek-do nahi,
+laakhon saanp—
+apne haath-pair jaise kho baithe—
+ek ke baad ek
+Agni dev ki laal-aag mein samate gaye.
+
+⚔️ Vibhinn Aakar, Vibhinn Rang
+
+Kuch saanp ghodon jitne lambe,
+kuch haathiyon ke dandon jaise mote,
+kuch pehadiyon ki jaise bade badan wale.
+
+Koi iron-spike jaisi kothi-darakkh sharir banae,
+koi zeher se bhara hua,
+koi rang-biranga,
+sab aag ki garaj se bhaay bhare.
+
+Ma ke shraap se pareshaan,
+sab ka ant ek hi tha—
+Agni dev ki bhayanak laptoṅ mein girna."""
             create_image_text_layout(text_content=text2, layout="full")
 
         # Section 1.5.40
         with st.expander("Section 1.5.40"):
-            text1 = """ """
+            text1 = """ 
+🌿 Section LIII — Sarp-Yagya Ke Rishiyon Ki Suchi aur Vasuki ka Dard
+
+Saunaka ne pucha:
+
+“Sauti ji, Janamejaya ke Sarp-Yagya mein kaun-kaun se mahan Rishi Ritwik bane?
+Kaun Sadasya bane?
+Humein sab ka naam batao.”"""
             create_image_text_layout("attached_assets/chapter1/1.5.40.jpg", text1, layout="side", image_position="left")
-            text2 = """ """
+            text2 = """ 
+📜 Yagya ke Ritwik aur Sadasya
+
+Sauti ne kaha:
+
+“Achha, suno. Main un sab ka naam bataata hoon—
+jo is bade Sarp-Yagya mein shamil hue.”
+
+Chandabhargava — woh Hotri bane; Cyavana vansh ke, bahut vidvaan.
+
+Kautsa — Udgatri, jo Vedic geet gaate the.
+
+Jaimini — Brahma-Ritwik.
+
+Sarngarva aur Pingala — Adhvaryu.
+
+Baaki bahut bade Rishi bhi wahan maujood the:
+
+Vyasa apne putra aur shishyon ke saath,
+
+Uddalaka,
+
+Svetaketu,
+
+Devala,
+
+Narada,
+
+Parvata,
+
+Asita,
+
+Vatsya,
+
+Srutasravas,
+
+Kohala, Devasarman, Maudgalya, Samasaurava…
+
+Ye sab Sadasya bane—
+yaani jo yagya ko dekh-rekh karte hain.
+
+🔥🐍 Saanp Barf Ki Tarah Aag Mein Girne Lage
+
+Jab Ritwik ghee daal kar mantra padhne lage,
+to mantron ki shakti se
+saare saanp hawa se gir-gir kar aag mein jaane lage.
+
+Unka charbi aur majja pighal kar
+aag mein behne laga—
+jaise chhote-chhote nadiyaan.
+
+Hawa meṅ ajeeb si badboo fail gayi,
+aur saanpon ke rote-chilate awaaz
+aasmaan tak pahunchne lage.
+
+Koi bach nahi raha tha.
+
+🐍➡️👑 Takshaka Bhaag Kar Indra Ke Paas
+
+Jab Takshaka ko pata chala
+ki Janamejaya usse jalane ke liye
+ye maha-yagya kar raha hai,
+
+to woh dar ke maare Indra ke mahal chala gaya.
+
+Wahan jaakar bola:
+
+“Indra dev, mujhe bachaiye!
+Maine jo galti ki thi, uska parinaam aa gaya hai.”
+
+Indra ne use shant karte hue kaha:
+
+“Chinta mat kar, Takshaka.
+Brahma ji tumhare liye shaant ho chuke hain.
+Isliye tumhe yahaan koi khatra nahi.”
+
+Takshaka phir Indra ke mahal mein
+aaraam aur sukh se rehne laga.
+
+😢🐍 Vasuki ka Dard — Samay aa gaya hai
+
+Par Vasuki—
+jo saare saanpon ka raja tha—
+yagya ki dasha dekh kar
+behad dukh se bhar gaya.
+
+Usne dekha:
+
+uski jaati khatam ho rahi hai,
+
+har pal saanp gir kar jal rahe hain,
+
+parivaar bikhar raha hai.
+
+Dard se uska sharir kaanpne laga.
+
+Usne apni behen ko bula kar kaha:
+
+“Behen, mera mann tut raha hai.
+Mujhe lagta hai aaj main bhi jal jaunga.
+Yeh yagya hamaari vansh-nashaai ke liye hi hua hai.”
+
+Phir usne yaad dilaya:
+
+“Isi din ke liye maine tumhaari shaadi
+Rishi Jaratkaru se karayi thi—
+taaki ek aisa putra paida ho
+jo humein bachaye.”
+
+Aur Vasuki ne vinati ki:
+
+“Jao, Astika ko bulao.
+Wahi is yagya ko rok sakta hai.
+Wahi hamara rakshak hai.”"""
             create_image_text_layout(text_content=text2, layout="full")
 
         # Section 1.5.41
