@@ -9025,39 +9025,646 @@ Ab tumhara jigyaasa shant ho jaye.”"""
     with st.expander("Chapter 1.6 – Adivansavatarana Parva (Origin of the Dynasties)"):
 
         with st.expander("Section 1.6.1"):
-            text1 = """ """
+            text1 = """ 
+Hinglish Kahani Version — Section LIX
+
+Ek din Saunaka Rishi ne pyaar se kaha,
+“Beta, tumne Bhrigu ji ke vansh se shuru hoti itni badi kahani sunayi.
+Main tumse bahut khush hoon.
+Par ab mera mann aur bhi sunna chahta hai.
+
+O Suta-putra, mujhe woh purani kahani sunao jo Rishi Vyasa ne rachhi thi.
+Woh sab sundar aur adbhut kisse jo bade yajna ke time,
+jab Sadasya log apne kaam se free hote,
+tab beech-beech mein sunaate the.
+Main un sab ko poori tarah sunna chahta hoon.
+Isliye mujhe woh kahani batao.”"""
             create_image_text_layout("attached_assets/chapter1/1.6.1.jpg", text1, layout="side", image_position="left")
-            text2 = """ """
+            text2 = """ 
+Sauti ne vinamrta se jawab diya,
+“Brahman log jab yajna ke kaam se free hote,
+toh woh Vedas se judi bahut si baatein karte the.
+Par Vyasa ji…
+Vyasa ji ne ek bohot hi adbhut aur mahaan itihas sunaya—
+Mahabharata.”
+
+Saunaka ne fir prem se kaha,
+“Wahi pavitra Mahabharata…
+jo Pandavo ki kirti ko door-door tak failata hai,
+aur jise Vyasa ji ne Janamejaya ki ichchha par
+yajna ke baad poori tarah sunaya tha…
+Main usse poori shraddha se sunna chahta hoon.
+
+Yeh kahani ek gehre samundar jaise man se nikli hai,
+Vyasa jaise mahaan yogi ke hriday se.
+O Suta-putra, meri pyaas abhi nahi bujhi.
+Mujhe sab kuch poora sunao.”
+
+Is par Sauti muskuraya aur bola,
+“Achha, Brahman!
+Main ab tumhe Mahabharata ki kahani
+bilkul shuruaat se sunaoonga.
+Dhyan se suno.
+Mujhe bhi yeh kahani sunate hue bahut anand hota hai.”"""
             create_image_text_layout(text_content=text2, layout="full")
 
         with st.expander("Section 1.6.2"):
-            text1 = """ """
+            text1 = """ 
+Hinglish Kahani Version — Section LX
+
+Sauti ne kahani aage badhate hue bataya:
+
+Jab Janamejaya ka bada sa sarp-yagna chal raha tha,
+tab yeh baat Rishi Krishna-Dvaipayana Vyasa ko pata chali.
+Woh turant wahan aa gaye.
+
+Vyasa ji, jo Pandavo ke dada the,
+Yamuna ke beech ek chhoti si island par paida hue the—
+Kali naam ki ek kanya se,
+aur unke pitaji the Parasara Rishi.
+
+Vyasa ji to janam se hi adbhut the.
+Paida hote hi, unhone apni ichchha se apna sharir badha liya,
+aur Vedas, unke saare ang, aur purani kathayein sab seekh liye."""
             create_image_text_layout("attached_assets/chapter1/1.6.2.jpg", text1, layout="side", image_position="left")
-            text2 = """ """
+            text2 = """ 
+Unhone woh gyaan pa liya
+jo tapasya, Veda-adhyayan, vrat, upvas ya yajna se bhi mushkil hota hai.
+Aur wahi Vyasa ji, sabse pehle Vedas ko chaar hisson mein baante wale the.
+
+Woh pavitra the, sachche the,
+aur unhe puro-past ka gyaan apne antar-gyan se hota tha.
+Unhi udaat karyaon ke saath unhone
+Pandu, Dhritarashtra aur Vidura ka janm karvaya
+taaki Shantanu vansh aage badh sake.
+
+Vyasa ji apne shishyon ke saath,
+jo sab Vedas mein nipun the,
+yajna ke bade mandap mein pravesh kar gaye.
+
+Wahan unhone dekha ki raja Janamejaya,
+Indra ki tarah shaan se baitha hai—
+uske aas-paas Sadasya log,
+bahut se raja maharaja,
+aur ritwik jo Brahma ji jaise gyaani the.
+
+Raja Janamejaya ne Vyasa ji ko aate hi dekha
+aur turant, bade prem se,
+apne parivaar aur saathiyon ke saath unke paas daud padta gaya.
+
+Sab Sadasyaon ki ijazat se
+usne Vyasa ji ko suneheri asan diya—
+jaise Indra ne kabhi Brihaspati ko diya tha.
+
+Fir raja ne shastron ke anusaar
+unki pooja ki.
+Vyasa ji ko paani diya, Arghya diya,
+aur gau-daan kiya.
+
+Vyasa ji ne in sab ko swikar kiya
+aur gaayon ko maarne se mana bhi kar diya.
+Raja ne apne pardada ko pranam kiya
+aur muskurate hue unki khairiyat puchhi.
+
+Vyasa ji ne bhi pyaar se jawaab diya
+aur sab Sadasyaon ko ashirwaad diya.
+
+Thodi der baad,
+Janamejaya ne haath jod kar Vyasa ji se poocha:
+
+**“O Brahman! Aapne apni aankhon se
+Kaurav aur Pandavo ke kaam dekhe hain.
+Main unki puri kahani sunna chahta hoon.
+
+Unmein itna bada jhagda kyon hua?
+Kyon yeh mahan yudh hua jisme
+aneka jeev mar gaye
+aur mere dada-pardada sab ek-dusre ke saamne aa khade hue?
+
+Please, mujhe sab kuch bilkul poora batayein.”**
+
+Janamejaya ki baat sun kar
+Vyasa ji ne apne shishya Vaisampayana ki taraf dekha
+aur kaha:
+
+“Jaisa maine tumhe sikhaya hai,
+waise hi puri kahani raja ko suna do—
+Kaurav aur Pandavo ke beech jo kuch hua, sab batao.”
+
+Aur phir Vaisampayana Rishi
+apne gurudev ki aagya par
+puri kahani sunane lage—
+
+Dushmani ka aarambh,
+puri vansh ki katha,
+aur kaise Kaurav aur Pandavo ka
+ant ho gaya—
+sab kuch.
+
+Yahin se kahani ka narrator badal jaata hai—
+ab sunayenge Vaisampayana,
+aur sunenge Raja Janamejaya."""
             create_image_text_layout(text_content=text2, layout="full")
 
         with st.expander("Section 1.6.3"):
-            text1 = """ """
+            text1 = """ 
+🌿 Hinglish Kahani Version — Section LXI
+
+Vaisampayana folded his hands,
+aur sabse pehle apne gurudev Vyasa ji ko pranam kiya.
+Sar dharti tak jhuk gaya,
+aur mann mein poori shraddha thi.
+
+Phir unhone sab Brahmano aur gyaani logon ko respect diya
+aur bole:
+
+“Rajan, main ab woh sab sunaoonga
+jo maine Vyasa ji se khud suna hai.
+Aap is Bharata katha ko sunne ke liye bilkul yogya hain.”
+
+Unhone raja ko pyar se kaha:
+
+“Suno rajan…
+Kaurav aur Pandavon mein jhagda kyon hua?
+Kyon unhe vanvaas bheja gaya?
+Main sab bataunga.”"""
             create_image_text_layout("attached_assets/chapter1/1.6.3.jpg", text1, layout="side", image_position="left")
-            text2 = """ """
+            text2 = """ 
+🌱 Pandavon ka bachpan aur Duryodhan ki jalan
+
+Pita ke guzarne ke baad
+Pandav apne ghar wapas aaye.
+Thode hi dino mein
+woh dhanurvidya aur yudh-kala mein bahut tez ho gaye.
+
+Log unhe pasand karte the —
+woh sundar, shaktishaali, aur buddhimaan the.
+
+Ye dekh kar Kaurav,
+khaskar Duryodhana,
+andar-andar jalne lage.
+
+Duryodhan, Karna, aur Mama Shakuni
+milkar Pandavon ko tang karne lage
+aur sochne lage ki unhe kaise desh-nikala diya jaaye.
+
+🧪 Bhima ko zeher… par Bhima nahi mara
+
+Ek din Duryodhana ne
+Bhima ko khaane mein zeher de diya.
+
+Par Bhima ka pet “bhediye jaisa” mazboot tha —
+woh zeher hi pacha gaya!
+
+Fir Duryodhan ne sote hue Bhima ko
+Ganga kinare baandh kar
+paani mein dhakka de diya.
+
+Par jab Bhima jaaga,
+usne rassi tod di
+aur asaani se upar aa gaya.
+
+Paani ke andar zehreele saanp bhi kaat gaye,
+phir bhi Bhima ko kuch nahi hua.
+
+🤝 Vidura — Pandavon ka chupchaap rakshak
+
+Jab bhi Kaurav koi bura plan banate,
+Vidura unhe rokne ki poori koshish karte.
+
+Jaise devendra —
+jo swargon ki raksha karte hain —
+waise hi Vidura
+Pandavon ko hamesha bachate rahe.
+
+🔥 Lakshagriha ka khel
+
+Jab Duryodhan har tareh se thak gaya,
+toh usne mama Shakuni ke saath
+ek khatarnak plan banaya:
+
+Ek lakdi aur lak (jaisi wax) ka mahal banwao,
+aur Pandavon ko wahan bhej do.
+Woh dheere-dheere jal kar mar jayenge.
+
+Dhritarashtra ne bhi anjaan ban kar
+Pandavon ko Varanavat bhej diya.
+
+Vidura ne chori-chhipe unhe
+is khatre ki warning di
+aur bachne ka tareeqa bataya.
+
+Pandav wahan ek saal rahe.
+Fir raat ko, chhipi hui surang se nikal gaye
+aur poore mahal ko aag laga di,
+jisme Purocana jal kar mar gaya.
+
+🌲 Jungle ka safar, Rakshas, aur Hidimba
+
+Jungle se guzarte hue
+unki mulakaat ek rakshas se hui.
+
+Bhima ne us rakshas ko hara diya,
+aur uski behen Hidimba
+Bhima se pyaar kar baithi.
+
+Bhima aur Hidimba ka beta
+Ghatotkacha wahi paida hua.
+
+🌾 Ekachakra aur Rakshas Vaka
+
+Pandav fir Ekachakra nagar gaye
+aur Brahmachari ban kar ek Brahman ke ghar rahe.
+
+Wahin Bhima ne
+dusht Rakshas Vaka ko maara
+aur saare nagar ko bachaya.
+
+🌸 Draupadi swayamvar
+
+Phir unhe pata chala
+ki Panchal ki rajkumari Krishnaa (Draupadi)
+swayamvar rakh rahi hain.
+
+Pandav wahan gaye
+aur Draupadi ko jeet kar
+ghar le aaye.
+
+Draupadi sabhi Pandavon ki
+sanyukt patni bani.
+Woh unke saath ek saal rahi.
+
+🏞️ Khandavaprastha — Pandavon ka naya ghar
+
+Jab sabko pata chala ki Pandav zinda hain,
+woh Hastinapura wapas gaye.
+
+Dhritarashtra aur Bhishma ne kaha:
+
+“Jhagda mat badhao.
+Tum log Khandavaprastha jao aur wahan raho.”
+
+Pandav wahan chale gaye
+aur apni shakti aur nyaay se
+poori duniya mein apni prabhuta sthapit ki.
+
+Bhima ne Poorv jeeta,
+Arjun ne Uttar,
+Nakula ne Paschim,
+aur Sahadeva ne Dakshin.
+
+🌟 Arjun ka vanvaas aur Subhadra vivah
+
+Kisi baat par Yudhishthir ne
+Arjun ko vanvaas bheja.
+
+Arjun gyarah saal tak van mein raha.
+Is dauran woh Dwaraka gaya
+aur wahan uski shaadi hui
+Vasudev ki behen Subhadra se.
+
+🔥 Khandava-dahan aur Maya ka mahal
+
+Arjun aur Krishna ne milkar
+Agni ko Khandav van jalane mein madad ki.
+
+Khush hokar Agni ne
+Arjun ko diya:
+
+Gandiva dhanush
+
+Akshay baan तरकस
+
+Garuda-dhwaj wala rath
+
+Is aag mein Arjun ne
+Asura Maya ko bachaya.
+
+Maya ne shukriye mein
+Pandavon ke liye
+ek adbhut, chamakdar mahal banaya.
+
+Duryodhan ne jab woh mahal dekha,
+toh lalach se bhar gaya.
+Usi lalach se
+Shakuni ke saath dice-game racha.
+
+Yudhishthir har gaye,
+aur Pandavon ko
+12 saal vanvaas + 1 saal agyatvas mila.
+
+⚔️ Vapasi, jhagda, aur Mahayudh
+
+14 saal baad jab Pandav wapas aaye
+aur apna raj maanga,
+toh Kauravon ne na keh diya.
+
+Fir yudh hua —
+bahut bada, vinashkari yudh.
+
+Is yudh mein
+Kaurav vansh ka ant ho gaya
+aur Pandavon ko
+apna raj phir mil gaya.
+
+⭐ Vaisampayana ka ant
+
+Vaisampayana ne kaha:
+
+“Rajan, yeh hai Pandavon ki kahani.
+Unhone kabhi buri bhaavna se kaam nahi kiya.
+Unki satyata aur dharma ne hi
+unhe jeet dilayi
+aur Kauravon ki haar hui.”"""
             create_image_text_layout(text_content=text2, layout="full")
 
         with st.expander("Section 1.6.4"):
-            text1 = """ """
+            text1 = """ 
+🌼 Hinglish Kahani Version — Section LXII
+
+Raja Janamejaya ne pyaar se Vaisampayana se kaha:
+
+“Hey acharya,
+Aapne ab tak mujhe Mahabharata ki kahani bahut chhote roop mein sunayi hai.
+Par mera mann abhi bhi utsuk hai.
+Main usse poori tarah sunna chahta hoon.
+
+Yeh itni chhoti baat nahi ho sakti
+jis wajah se dharmic logon ne
+apne hi logon ko maarna pada.
+
+Pandav jaise shant, veer aur nyaay-premee log
+Kauravo ki itni sataayi ko
+shantipurn tareh se kyon saha?"""
             create_image_text_layout("attached_assets/chapter1/1.6.4.jpg", text1, layout="side", image_position="left")
-            text2 = """ """
+            text2 = """ 
+Bhima jiske paas das hazaar haathiyon ki shakti thi—
+woh apna gussa kyon rok gaya?
+
+Draupadi, jo tapas se dushmano ko jala sakti thi,
+usne Dhritarashtra ke putron ko
+gusse ki drishti se kyon nahi jalaya?
+
+Aur Bhima, Arjun, Nakul, Sahadev—
+sab ko nuksaan pahuncha tha…
+phir bhi woh Yudhishthir ke saath
+us khatarnak juye ki aadat ko
+kyon bardasht karte rahe?
+
+Yudhishthir, jo dharma ka putra kaha jata tha,
+woh itni kashton ko kyon seh raha tha?
+
+Aur Arjun—
+jiske rath ki dor Krishna pakadte the,
+jiske teer ne dushmanon ki fauj ko dhool chata di—
+woh itne saare dukh kyon saha raha tha?
+
+Hey Brahman!
+Kripya mujhe sab kuch bataiye.
+Main poori kahani sunna chahta hoon.”
+
+📚 Vaisampayana ka jawab
+
+Vaisampayana ne dheere se muskurakar kaha:
+
+“Rajan,
+Yeh kahani bahut badi hai.
+Aap sahi samay taiyyar kijiye,
+main sab kuch shuruaat se sunaoonga.
+
+Yeh kahani Vyasa ji ki rachna hai—
+jiske mann ki shakti anant hai.
+Unhone 1 lakh shlokon ka
+pavitra Mahabharata rach diya.
+
+Jo ise sunta hai,
+ya sunata hai,
+woh devataon jaisa punya paata hai.
+
+Mahabharata Vedo ke samaan pavitra hai.
+Isme dharma, artha, kama,
+aur moksha—
+sab ka gyaan hai.
+
+Is kahani ko sunne se
+manushya ke paap jal jaate hain,
+jaise surya grahan ke baad
+Rahu suraj ko chhod deta hai.”
+
+🌟 Mahabharata sunne ke phal — bachchon ki kahani ki tarah mitha sa varnan
+
+Vaisampayana ne kaha:
+
+“Jo is kahani ko shraddha se sunta hai—
+
+uska mann pavitra ho jaata hai,
+
+uske paap door ho jaate hain,
+
+ghar mein sukh aata hai,
+
+bacche achhe aur vinamra bante hain,
+
+aur har kaam mein safalta milti hai.
+
+Ek raja agar yeh kahani sun le,
+toh woh poori duniya par shasan kar sakta hai.
+
+Ek grahastha sun le,
+toh uske parivaar mein prem badhta hai.
+
+Ek brahmachari sun le,
+toh uski buddhi tej ho jaati hai.
+
+Ek tapasvi sun le,
+toh uska tap aur shuddh ho jaata hai.”
+
+✨ Mahabharata — saari kahaniyon ki maan
+
+“Vyasa ji ne teen saal tak
+roz snan karke, tap karke,
+yeh granth likha.
+
+Isme devataon ki kathayein hain,
+rishiyon ki kathayein hain,
+Shiva-Parvati ka varnan hai,
+Kartikeya ka janm hai,
+aur gaayon aur Brahmanon ki mahima bhi.
+
+Jo Mahabharata ka ek bhi shloka
+Shraddha se sunata hai
+ya sunta hai,
+woh punya ka bada bhandar kama leta hai.
+
+Jo pura Mahabharata sun le,
+woh Vedo ka gyaata samjha jaata hai.”
+
+🌈 Sabse bada rahasya
+
+Ant mein Vaisampayana bole:
+
+“Rajan,
+Is Mahabharata mein jo kuch hai,
+woh kisi aur granth mein nahi milta.
+
+Aur jo isme nahi hai—
+woh duniya mein kahin nahi mil sakta.
+
+Ab main poori kahani
+aapke saamne recite karne jaa raha hoon.
+Dhyan se suniye,
+yeh kathaa punya-dene wali hai.”"""
             create_image_text_layout(text_content=text2, layout="full")
 
         with st.expander("Section 1.6.5"):
-            text1 = """ """
+            text1 = """ 
+🌳 Hinglish Kahani — Section LXIII
+
+Vaisampayana ne shuru kiya, dheere aur pyar se:
+
+Ek raja tha — Uparicara, jise doosre log Vasu bhi bulate the.
+Woh bahut dharmik tha. Par shikar ka bhi shauk tha.
+Ek din usne Chedi rajya jeet liya. Phir thoda samay baad usne shastra chhod diye.
+Woh ekant mein jaakar kathor tapasya karne laga.
+
+Devatayein sochne lagi ki shayad usne devtaon ka sthan paane ki ichcha kar li.
+Tab Indra aur devta uske paas aaye. Unhone pyar se samjhaya:
+“Hey raja, dharma ki raksha karo. Dharti par dharma jab safe rahega, tabhi sansaar accha chalega.”"""
             create_image_text_layout("attached_assets/chapter1/1.6.5.jpg", text1, layout="side", image_position="left")
-            text2 = """ """
+            text2 = """ 
+Indra ne use kuch vardaan diye.
+Usne raja ko ek kristal ki vahan (car) di, jo hawaa mein udti thi.
+Ek amartulya haar di jo yudh mein use nukhsaan se bachata.
+Aur ek bamboo pole di, jise log Indra ki puja ke liye khada karte.
+
+Vasu ne woh sab sweekar kiya.
+Usne Indra ki puja ki aur desh ko nyay se chalaya.
+Uske paanch bahadur putr hue. Har ek ne apna raajya basaya.
+Ek ka naam Vrihadratha, ek Pratyagraha, ek Kusamva (Manivahana), aur do aur — Mavella aur Yadu.
+
+Raja Vasu jab apni crystal vahan par aasman mein chala,
+tab usne ek pahaad Kolahala ko usay nadi Suktimati se pareshan karte dekha.
+Usne pahaad ko thokar maari. Nadi azad ho gayi.
+Kolahala se janme do bachche mile—ek ladka aur ek ladki.
+Vasu ne ladke ko apnaya. Uska naam Matsya pada.
+
+Ladki ko Satyavati kaha gaya.
+Woh machhli jaise smell karti thi kyunki woh ek Apsara Adrika ki jaati mein paida hui thi.
+Satyavati ko machhli se paida hone ka kissa bada alaukik tha.
+
+Phir ek mahaan rishi Parasara ne Satyavati ko dekha.
+Woh uski saundarya se prabhavit hua. Parasara ne usse kahaa, aur ek jadu ki megh bana di,
+jisne sabko andhera dikhaya. Satyavati ne Parasara se ek var maa ngi: uska badan sugandhit ho.
+Parasara ne vardaan diya. Satyavati phir Gandhavati / Yojanagandha ke naam se mashhoor hui.
+
+Aur ussi din, Yamuna ke ek island par, Satyavati ne ek beta paida kiya.
+Us bachche ka naam tha Dvaipayana (island-born).
+Wahi Vyasa bana — jo baad mein Vedas ko vyavasthit karega.
+Vyasa ne Vedas ko chaar bhaagon mein baanta aur Mahabharata likha.
+
+Vyasa ne apne guno se kuch shishyon ko Sikhaya — Sumanta, Jaimini, Paila, Suka aur Vaisampayana.
+Inhi se Mahabharata alag-alag roop mein duniya tak pahucha.
+
+Phir bahut saare mahan janam hue:
+
+Bhishma — Ganga aur Santanu se; bahut balwaan.
+
+Ek rishi Animandavya ko zaldi saja mili. Usne Dharma pe shikayat ki. Isliye Dharma ne janm liya Vidura ke roop mein (Sudra jaati mein) — par Vidura bilkul nirdosh aur dharmik tha.
+
+Kunti (Suta jaati ka janm) se ek putra Surya ke dwara paida hua — us par natural mail (armor) tha.
+
+Vishnu ka avataar bhi hua — jise log Krishna jaante hain (Devaki aur Vasudeva ke dwara).
+
+Aur aage kayi veer hue:
+
+Drona (pot-born) — Rishi Bharadvaja ki seed se.
+
+Kripi aur Kripa — jo tej aur yoddha the.
+
+Dhrishtadyumna — agni se janma hua, Drona ke vinash ke liye paida.
+
+Draupadi (Krishnaa) — agnikund se nikli, sundar aur sashakt.
+
+Sakuni (Suvala ka putra) aur Gandhari — jisse Duryodhana hua.
+
+Dhritarashtra aur Pandu — Vicitravirya ke vanaspati se janme.
+
+Vyasa se hi Vidura bhi janma hua (Sudra roop mein, par atyant guni).
+Pandu ke do patniyon se paanch putr — Yudhishthira, Bhima, Arjuna, Nakula, Sahadeva — yeh paanch Pandav hue.
+Unke janm alag-alag devtaon ke vardaan se hue: Dharma, Vayu, Indra, aur Ashvin yugal.
+
+Dhritarashtra ko sau putr hue — jisme Duryodhana aage aaya.
+Arjun aur Subhadra ka beta Abhimanyu bana.
+Pandavon ke bachche bhi hue — jaise Pritivindhya, Sutasoma, Srutakirti, Satanika, Srutasena aur Ghatotkacha (Bhima ka beta, Hidimba se).
+Sikhandin bhi paida hua — jo pehle ladki (Sikhandini) tha aur baad mein male bana.
+
+Ant mein Vaisampayana ne kaha:
+“In us bade yudh me hazaaron aur hazaaron raja lade.
+Sabka naam bataana mushkil hai. Maine khaas mahanon ke naam bataaye hain jo is kahani me aage aaye.”"""
             create_image_text_layout(text_content=text2, layout="full")
 
         with st.expander("Section 1.6.6"):
-            text1 = """ """
+            text1 = """ 
+🌱 Hinglish Kahani — Section LXIV
+
+Raja Janamejaya ne puchha,
+“Hey Brahmana, tumne jo kuch bataya, bahut accha hai.
+Par mujhe aur sunaao.
+Un hazaaron rajaon ki kahani poori batao.
+Aur yeh bhi batao ki woh maha-rathas (bahut balwaan yoddha) kyon paida hue?”
+
+Vaisampayana ne haath jodkar bola:
+“Rajan, jo tum puch rahe ho, woh bahut gehra raaz hai.
+Main phir bhi batata hoon.”"""
             create_image_text_layout("attached_assets/chapter1/1.6.6.jpg", text1, layout="side", image_position="left")
-            text2 = """ """
+            text2 = """ 
+🕊️ Jab dharma phir se strong hua
+
+Ek rishi Parasurama ne jab 21 baar kshatriyon ka vinash kar diya,
+duniya mein kshatriya kam reh gaye.
+Tab kshatriya mahilayein bachchon ki tamanna lekar
+Brahmano ke paas aane lagi.
+Brahmanas bhi sirf samay par, maryada se, unke saath milte.
+
+Is tarah se naye kshatriya janme.
+Nayi peedhi shakti-shali aur dharmik bani.
+Dharma wapas jagmagaya.
+Khet hal chalne lage.
+Gau palan theek hua.
+Sab log apna kartavya nibhaane lage.
+Dharma phir mazboot ho gaya.
+
+😨 Jab Asur aaye — dharti dukhi hui
+
+Par phir kuch bura hua.
+Asur (bure shaktis) zyada paida hone lage.
+Kuch asur rajaon ki lineon mein aaye.
+Woh garvile, takatwar aur anyaay karne wale the.
+Woh brahmanon aur kshatriyon ko dabane lage.
+Zameen dukhi hui.
+Ped paudhe bhi pareshan ho gaye.
+Pranion aur manushyon par dabav badhne laga.
+
+Dharti ne sahara maanga.
+Woh Brahman, sabka karta, ke paas gayi.
+Brahman ne suna aur samjha.
+Phir usne sab devtaon ko kaha:
+“Tum sab dharti par janm lo. Asuron se ladho. Dharati ko bachao.”
+
+🌟 Devta aate hain — yudh ki taiyari
+
+Sab devtaon ne manaa.
+Indra ne Narayana (Hari) se kaha,
+“Bhagwan, kripya janm lo aur asuron se sangharsh karo.”
+Narayana ne maan liya.
+Is tareh devta aur pavitra jaatiyan dharti par aayi.
+Yahi wajah thi ki maha-rathas aur mahapurush zameen par utare.
+Takht, yudh aur dharma ka khel shuru hua.
+
+Vaisampayana ne ant mein kaha:
+“Yeh sab ghatnayein bahut purani aur gahri hain.
+Isi karan se duniya mein bade bade yoddha paida hue.
+Main aage aur bhi kisse sunaunga, raja.”"""
             create_image_text_layout(text_content=text2, layout="full")
 
 
