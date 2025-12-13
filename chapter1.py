@@ -9673,44 +9673,992 @@ Main aage aur bhi kisse sunaunga, raja.”"""
 
         # Section 1.7.1
         with st.expander("Section 1.7.1"):
-            text1 = """ """
+            text1 = """ 
+            Vaisampayana bole:
+
+“Us samay Indra ne Narayana se salah ki.
+Baat yeh thi ki devta apne-apne ansh ke saath
+swarg se dharti par avtar lein.
+
+Sab devlok ke vaasiyon ko aadesh dekar
+Indra wapas Narayana ke dham se laut aaye.
+Aur dheere-dheere
+sab devta dharti par janam lene lage—
+Asuron ka naash karne ke liye
+aur teenon lokon ke bhale ke liye.”"""
             create_image_text_layout("attached_assets/chapter1/1.7.1.jpg", text1, layout="side", image_position="left")
-            text2 = """ """
+            text2 = """ 
+            🌟 Devta dharti par janam lete hain
+
+“Hey raja Janamejaya,
+devta apni marzi se
+Brahmarshiyon aur Rajarshiyon ke vanshon mein
+janam lene lage.
+
+Unhone Danav, Rakshas, Gandharva, Naag
+aur anya dusht jeevon ka sanhaar kiya.
+
+Itni shakti unmein thi
+ki bachpan mein bhi
+koi Asur unhe maar nahi paaya.”
+
+👑 Janamejaya ka sawaal
+
+Janamejaya bole:
+
+“Main shuruaat se sunna chahta hoon.
+Devta, Danav, Gandharva, Apsara,
+Manav, Yaksha aur Rakshas—
+sabke janm ki kahani.
+Kripya sab kuch batao.”
+
+📜 Srishti ka aarambh
+
+Vaisampayana ne kaha:
+
+“Main Brahma ko pranam karke
+sab kuch bataata hoon.
+
+Brahma ke chhe maanas putra the—
+Marichi, Atri, Angiras, Pulastya, Pulaha, Kratu.
+
+Marichi ke putra the Kashyapa.
+Aur Kashyapa se hi
+bahut si prajaon ka janm hua.”
+
+👩‍👧 Daksha ki putriyan
+
+“Daksha Prajapati ki
+13 putriyan thi:
+
+Aditi, Diti, Danu, Kala, Danayu, Sinhika,
+Krodha, Pradha, Visva, Vinata, Kapila, Muni, Kadru.
+
+Inke vansh se
+anaginat prani paida hue.”
+
+☀️ Aditi ke putra — Adityas
+
+“Aditi se 12 Aditya paida hue—
+yeh hi vishv ke palak hain:
+
+Dhatri, Mitra, Aryaman, Indra (Sakra), Varuna,
+Ansha, Bhaga, Vivasvat (Surya), Usha, Savitri,
+Tvashtri aur Vishnu.
+
+In sab mein
+Vishnu sabse shreshth the.”
+
+👹 Diti aur Danav vansh
+
+“Diti ka putra tha Hiranyakashipu.
+Uske paanch putra hue—
+sabse bada Prahlada tha.
+
+Prahlada ke putron mein
+Virochana hua.
+Virochana ka putra tha Bali.
+Aur Bali ka putra Bana (Vana)—
+jo Rudra ka bhakt tha.”
+
+🌑 Danu ke putra
+
+“Danu ke 40 putra hue—
+jaise Viprachitti, Namuchi, Kesi, Vrishaparva,
+Svarbhanu aur bahut se aur.
+
+Inke vansh mein
+anaginat Danav hue.
+Unki ginti karna mushkil hai.”
+
+🌘 Rahu aur anya
+
+“Sinhika se paida hua
+Rahu—
+jo Surya aur Chandra ko grahan lagata hai.
+
+Kala ke putra
+Yamraj jaise bhayankar the.
+
+Shukra Asuron ke guru the.
+Unke bhi putra hue
+jo Asuron ke purohit bane.”
+
+🐦 Garuda aur Naag
+
+“Vinata ke putra the—
+Garuda aur Aruna.
+
+Kadru ke putra hue—
+Shesha (Ananta), Vasuki, Takshaka
+aur anya Naag.”
+
+🎶 Gandharva aur Apsara
+
+“Pradha se
+bahut se Gandharva paida hue.
+
+Aur usi se
+sundar Apsaraen bhi paida hui—
+Tilottama, Rambha, Menaka,
+Alambusha jaise naam prasiddh hue.”
+
+🌍 Srishti ka saar
+
+Vaisampayana bole:
+
+“Is prakaar
+devta, asur, gandharva, apsara,
+naag, pakshi, gaay, brahman—
+sabka janm hua.
+
+Yeh kahani
+pavitra hai,
+jeevan badhaati hai,
+aur mann ko shuddh karti hai.
+
+Jo is srishti-katha ko
+shraddha se sunta ya padhata hai,
+use santaan, yash aur sukh milta hai.
+Aur ant mein
+uttam lokon ko prapt karta hai.”"""
             create_image_text_layout(text_content=text2, layout="full")
 
         # Section 1.7.2
         with st.expander("Section 1.7.2"):
-            text1 = """ """
+            text1 = """ 
+            Vaisampayana bole:
+
+“Raja Janamejaya,
+tumne srishti ka raaz poocha hai.
+Main tumhe dheere-dheere
+sab bataata hoon.”"""
             create_image_text_layout("attached_assets/chapter1/1.7.2.jpg", text1, layout="side", image_position="left")
-            text2 = """ """
+            text2 = """ 
+            🔱 Rudra aur Rishiyon ki utpatti
+
+“Brahma ji ke
+chhe maanas putra the—
+Marichi, Atri, Angiras, Pulastya, Pulaha, Kratu.
+
+Ek aur mahaan tha—
+Sthanu.
+Uske 11 putra hue—
+yeh hi 11 Rudra kehlaye.
+Ye sab shaktishaali the.
+Aur shatruon ko nasht karne wale the.”
+
+📿 Rishiyon ke vansh
+
+“Angiras ke teen putra hue—
+Brihaspati, Utathya, Samvarta.
+
+Atri ke putra bahut zyada the.
+Sab Vedo ke gyaani the.
+Aur mann se shaant.”
+
+“Pulastya ke vansh se
+Rakshas, Vanar, Yaksha, Kinnar paida hue.”
+
+“Pulaha ke vansh se
+sher, baagh, bhalu, bhediye aur
+kuch adbhut prani aaye.”
+
+“Kratu ke putra the
+Valikhilya Rishi—
+jo Surya dev ke saathi bane.”
+
+👩‍👧 Daksha aur uski putriyan
+
+“Daksha Prajapati
+Brahma ji ke anguthe se paida hue.
+Unki patni bhi Brahma ji se hi utpann hui.
+
+Daksha ki 50 sundar putriyan thi.
+Putra na hone ke kaaran
+unhone putriyon ko
+putrika bana diya.”
+
+Unhone putriyon ka vivaah kiya:
+
+10 Dharma ko
+
+27 Chandra (Moon) ko
+
+13 Kashyapa ko
+
+⚖️ Dharma aur uski patniyan
+
+“Dharma ki 10 patniyan thi:
+Kirti, Lakshmi, Dhriti, Medha,
+Pushti, Shraddha, Kriya,
+Buddhi, Lajja, Mali.
+
+Inse hi
+dharm, gyaan aur maryada
+duniya mein faili.”
+
+🌙 Chandra aur Nakshatra
+
+“Chandra ki 27 patniyan thi.
+Ye hi Nakshatra bani.
+Samay aur gati
+inke kaaran chalti hai.”
+
+🌟 Vasus ka janm
+
+“Brahma ji ke putra Manu hue.
+Manu ke vansh se
+8 Vasu paida hue:
+
+Dhara, Dhruva, Soma, Aha,
+Anila, Anala, Pratyusha, Prabhasa.
+
+Inse hi
+kaal, agni, hawa, prakash
+jaise tattva bane.”
+
+🔥 Kartikeya aur Vishwakarma
+
+“Agni ke putra hue Kartikeya.
+Unhe Krittikaon ne pala,
+isliye naam pada Kartikeya.
+
+Prabhasa Vasu ki patni se
+paida hue Vishwakarma—
+jo devtaon ke engineer bane.
+Sab shilp, rath aur nagar
+unhone banaye.”
+
+🌸 Dharma ke putra
+
+“Dharma ke teen putra hue—
+Sama (Shanti)
+Kama (Ichchha)
+Harsha (Anand)
+
+Inhi par duniya tiki hui hai.”
+
+☀️ Aditi aur Adityas
+
+“Aditi ke 12 putra hue—
+sab Aditya kehlaye.
+In sab mein
+Vishnu sabse shreshth the.
+
+Inhi ko milkar
+33 Devta kaha jaata hai.”
+
+🐦 Garuda, Naag aur anya prani
+
+“Vinata ke putra hue—
+Garuda aur Aruna.
+
+Kadru se paida hue—
+Shesha, Vasuki, Takshaka
+jaise Naag.”
+
+🌺 Apsara, Gandharva aur pashu
+
+“Pradha se paida hui
+sundar Apsaraen—
+Rambha, Tilottama, Menaka.
+
+Aur Gandharva bhi.”
+
+“Krodha ki putriyon se
+janwar paida hue—
+hiran, baagh, sher, haathi,
+bandar, ghode.”
+
+“Syeni se paida hue—
+Sampati aur Jatayu.”
+
+⚫ Adharma ka janm
+
+“Jab bhookh badhi
+aur prani ek-doosre ko khaane lage,
+tab Adharma (Paap) paida hua.
+
+Uski patni Nirriti se
+Rakshas hue.
+
+Uske putra hue—
+Bhay, Mahabhay aur Mrityu.”
+
+🌍 Srishti ka saar
+
+Vaisampayana bole:
+
+“Raja Janamejaya,
+maine tumhe
+devta, asur, manav, pashu, pakshi
+sabki utpatti bata di.
+
+Jo is katha ko
+shraddha se sunta hai,
+uske paap dhul jaate hain.
+Use gyaan milta hai.
+Aur ant mein
+uttam gati milti hai.”"""
             create_image_text_layout(text_content=text2, layout="full")
 
         # Section 1.7.3
         with st.expander("Section 1.7.3"):
-            text1 = """ """
+            text1 = """ 
+            Raja Janamejaya bole:
+“Gurudev,
+mujhe poori kahani sunni hai.
+Devta kaise insaan bane?
+Asur, Gandharva, Rakshas kaise janme?
+Aur phir unhone kya-kya kaam kiya?”"""
             create_image_text_layout("attached_assets/chapter1/1.7.3.jpg", text1, layout="side", image_position="left")
-            text2 = """ """
+            text2 = """ 
+            📜 Vaisampayana ki kahani shuru hoti hai
+
+Vaisampayana bole:
+“Raja, dhyaan se suno.
+Yeh kahani bahut gehri hai.
+Par main ise seedhi aur sachchi bhaasha mein bataunga.”
+
+👑 Asur jo Raja bane
+
+“Sabse pehle ek mahaan Danava Viprachitti tha.
+Wahi dharti par Jarasandha bana.
+Bahut shaktishaali raja.”
+
+“Hiranyakashipu
+dharti par Shishupala bana.
+Gusse aur ghamand se bhara.”
+
+“Prahlad ka bhai Samhlada
+dharti par Shalya bana.”
+
+“Anuhlada bana Dhrishtaketu.
+Sivi bana Druma.
+Vashkala bana Bhagadatta.”
+
+“Bahut saare Asur
+alag-alag rajyon ke raja bane.
+Koi Kekaya ka raja bana,
+koi Magadh ka,
+koi Kalinga ka.”
+
+💡 Seekh:
+Shakti hone ka matlab
+dharm hona zaroori nahi.
+Shakti bina dharm ke
+vinash laati hai.
+
+⚔️ Kansa aur anya mahaan yoddha
+
+“Ek bhayanak Asur tha Kalanemi.
+Wahi dharti par Kansa bana.
+Krishna ka shatru.”
+
+“Drona koi normal manushya nahi tha.
+Woh Devguru Brihaspati ka ansh tha.
+Isliye mahaan dhanurdhar bana.”
+
+“Uska beta Ashwatthama
+Mahadev, Yama, Krodh aur Kaam ka ansh tha.
+Isliye uska gussa bahut bhayanak tha.”
+
+🌊 Ganga ke putra – Vasus
+
+“Ganga aur Shantanu se
+8 Vasu paida hue.”
+
+“Sabse chhota tha Bhishma.
+Gyaan mein mahaan.
+Shastra aur shastra dono mein expert.”
+
+💡 Seekh:
+Bal se zyada
+niyam aur pratigya
+insaan ko mahaan banati hai.
+
+🧠 Vidura, Pandu aur Dhritarashtra
+
+“Vidura dharm ka ansh tha.
+Isliye sabse buddhimaan aur nyay-priya.”
+
+“Dhritarashtra andha hua
+maa ki galti aur rishi ke shraap se.”
+
+“Pandu pavitrata aur sachchai ka roop tha.”
+
+🌑 Kali ka ansh – Duryodhana
+
+“Duryodhana
+Kali yug ke ansh se paida hua.
+Isliye uske mann mein
+jalan aur ahankaar bhara tha.”
+
+“Uske 100 bhai the.
+Sab Rakshasi pravritti ke.
+Bas ek alag tha—Yuyutsu.”
+
+🌞 Pandav kaun the?
+
+“Raja, yaad rakho:
+
+Yudhishthira = Dharma ka ansh
+
+Bhima = Vayu ka ansh
+
+Arjuna = Indra ka ansh
+
+Nakula & Sahadeva = Ashwini Kumar ke ansh”
+
+“Abhimanyu
+Chandra dev ke putra Varchas ka ansh tha.
+Isliye itna veer tha.”
+
+💡 Seekh:
+Achha janm nahi,
+achha kartavya
+insaan ko mahaan banata hai.
+
+🌀 Chakravyuh aur Abhimanyu
+
+“Chandra dev ne kaha:
+‘Mera putra sirf 16 saal dharti par rahega.’
+
+Usne Chakravyuh tod diya.
+Par bahar nikalna nahi jaanta tha.
+Phir bhi bina dare
+veer gati ko praapt hua.”
+
+💡 Seekh:
+Veerta ka matlab jeetna nahi,
+kartavya nibhaana hota hai.
+
+🔥 Draupadi aur anya deviyaan
+
+“Draupadi
+Indrani (Sachi) ka ansh thi.
+Sundar, tejasvi aur pavitra.”
+
+“Kunti aur Madri
+Siddhi aur Dhriti ka roop thi.”
+
+🌞 Karna ki kahani
+
+“Kunti ne mantra se
+Surya dev ko bulaya.
+Usse Karna paida hua.”
+
+“Dar ke kaaran
+usne Karna ko nadi mein chhod diya.”
+
+“Radha aur uske pati ne
+use paala.”
+
+“Karna ke paas
+janm se kavach aur kundal the.”
+
+“Indra ne brahman ban kar
+woh daan maang liya.
+Karna ne bina soche
+daan kar diya.”
+
+💡 Seekh:
+Sachcha daan
+jaan kar bhi diya jaata hai.
+
+🌸 Krishna, Balram aur Rukmini
+
+“Krishna = Narayan ka poora roop
+Balram = Sheshnaag ka ansh”
+
+“Rukmini
+Mahalakshmi ka roop thi.”
+
+“16,000 raniyan
+Apsaraon ke ansh thi.”
+
+🌍 Ant mein sandesh
+
+Vaisampayana bole:
+“Raja Janamejaya,
+maine tumhe bataya
+kaun devta tha,
+kaun asur,
+aur kaun dharm ke paksh mein tha.”
+
+“Jo is katha ko
+shaant mann se sunta hai,
+woh dukh mein bhi
+kabhi toot-ta nahi.”
+
+✨ Yahin Section LXVII samaapt hota hai."""
             create_image_text_layout(text_content=text2, layout="full")
 
         # Section 1.7.4
         with st.expander("Section 1.7.4"):
-            text1 = """ """
+            text1 = """ 
+            Raja Janamejaya bole:
+“Gurudev,
+maine devtaon, asuron aur unke avatar ki kahani sun li.
+Ab main Kuru vansh ki kahani
+bilkul shuru se sunna chahta hoon.
+Sab rishiyon ke saamne
+aap ise bataiye.”"""
             create_image_text_layout("attached_assets/chapter1/1.7.4.jpg", text1, layout="side", image_position="left")
-            text2 = """ """
+            text2 = """ 
+            📜 Vaisampayana bolte hain
+
+Vaisampayana bole:
+“Rajkumaar Janamejaya,
+dhyaan se suno.
+Main tumhe Kuru vansh ki jad batata hoon.”
+
+👑 Raja Dushyanta – Kuru vansh ke aadi purush
+
+“Kuru vansh ki shuruaat hui
+Raja Dushyanta se.
+Woh bahut shaktishaali raja the.”
+
+“Unka raaj
+chaaron samudron tak phaila hua tha.
+Chaaron dishaayein
+unke adheen thi.”
+
+“Samudron ke beech ke desh bhi
+unke niyantran mein the.
+Yahaan tak ki
+Mlechha desh bhi
+unke adhikaar mein aate the.”
+
+🌾 Sone ka yug jaisa raaj
+
+“Dushyanta ke raaj mein
+koi paap nahi karta tha.
+Koi jaati-bhed nahi tha.”
+
+“Kheti karni nahi padti thi,
+zameen khud hi fasal deti thi.”
+
+“Khadaan khodne ki zarurat nahi thi,
+dharti upar hi upar
+dhan ugal deti thi.”
+
+“Koi chor ka darr nahi.
+Koi bhookh ka darr nahi.
+Koi bimari ka darr nahi.”
+
+💡 Seekh:
+Jab raja dharm se raaj karta hai,
+toh praja bina darr ke jeeti hai.
+
+🕊️ Dharm aur sukh ka raaj
+
+“Chaaron varna
+apna-apna kartavya
+khushi se karte the.”
+
+“Koi bhi dharm ka kaam
+lalach se nahi karta tha.”
+
+“Sab log
+apne raja par bharosa karte the.
+Isliye mann mein koi bhay nahi tha.”
+
+“Indra dev
+samay par baarish karte the.
+Fasal rasbhari hoti thi.”
+
+“Dharti par
+dhan, pashu aur sampatti
+bharpoor thi.”
+
+“Brahman
+hamesha sach bolte the
+aur apna dharm nibhate the.”
+
+💪 Raja Dushyanta ka bal aur gun
+
+“Raja Dushyanta
+jawaan aur veer the.”
+
+“Unka sharir
+vajra jaisa majboot tha.”
+
+“Woh chaahen toh
+Mandar parvat ko bhi
+baahon par utha sakte the.”
+
+“Gada yuddh ke
+chaaron tareeke
+unhe aate the.”
+
+“Talwar, dhanush, bhala—
+har shastra mein nipun the.”
+
+“Haathi aur ghode
+bahut achhe se chalate the.”
+
+🌞 Raja ke gun
+
+“Shakti mein
+woh Vishnu jaise the.”
+
+“Tej mein
+Surya jaise chamakte the.”
+
+“Gambhirata mein
+samudra jaise the.”
+
+“Dhairya mein
+dharti jaise shaant the.”
+
+“Isliye
+praja unse prem karti thi.”
+
+“Woh apni praja par
+dharm ke saath
+raaj karte the.”
+
+✨ Yahin Section LXVIII samaapt hota hai."""
             create_image_text_layout(text_content=text2, layout="full")
 
         # Section 1.7.5
         with st.expander("Section 1.7.5"):
-            text1 = """ """
+            text1 = """ 
+            👑 Janamejaya ki prarthana
+
+Raja Janamejaya bole:
+“Gurudev,
+ab main Maharaj Bharata ke janm aur jeevan ke baare mein sunna chahta hoon.
+Saath hi mujhe Shakuntala ka janm aur
+yeh bhi batayiye ki
+veer Raja Dushyanta ne unhe kaise paaya.”
+
+“Hey satya ke gyaata,
+mujhe sab kuch poori tarah bataiye.”"""
             create_image_text_layout("attached_assets/chapter1/1.7.5.jpg", text1, layout="side", image_position="left")
-            text2 = """ """
+            text2 = """ 
+            📜 Vaisampayana kahani shuru karte hain
+
+Vaisampayana bole:
+“Rajkumaar, dhyaan se suno.
+Yeh kahani hai
+veer Raja Dushyanta ki.”
+
+🏹 Raja Dushyanta ka van-gaman
+
+“Ek samay,
+bahut shaktishaali Raja Dushyanta
+shikaar ke liye
+van ki ore nikle.”
+
+“Unke saath
+bahut badi sena thi—
+haathi, ghode, rath aur paidal sainik.”
+
+“Talwaron, bhallon, gada aur dand ke saath
+veer yoddha
+raja ke chaaron taraf the.”
+
+🔊 Sena ka ghosh
+
+“Jaise-jaise raja aage badhte gaye,
+sankh-naad, nagade, rath ke pahiye,
+haathiyon ki cheekh,
+ghodon ki hin-hinahat—
+sab milkar
+bhayanak shor paida kar rahe the.”
+
+“Puri dharti
+us shabd se goonj uthi.”
+
+🌸 Nagar ki striyon ka drishya
+
+“Shahar ki sundar striyan
+mahalon ki chhat se
+raja ko dekh rahi thi.”
+
+“Unhe dekhkar woh boli:
+‘Yeh toh Indra jaise lagte hain!
+Yeh toh shatruon ke haathiyon ko bhi
+peeche dhakel dete hain!’”
+
+“Prem aur shraddha se
+unhone raja par
+phool barsaaye.”
+
+🙏 Aashirvaad ke saath prasthaan
+
+“Brahman rishiyon ne
+raja ko aashirvaad diya.”
+
+“Khushi ke saath
+Raja Dushyanta
+van ki ore badhe,
+hiranon ke shikaar ke liye utsuk.”
+
+“Kuch door tak
+nagrik unke saath chale,
+phir raja ke aadesh par
+waapas laut gaye.”
+
+🌲 Van ka varnan
+
+“Raja apne tej rath par baithe
+aur van mein pravesh kiya.”
+
+“Woh van
+Nandan van jaisa sundar tha.”
+
+“Wahan
+bilva, khair, kapittha, dhava jaise vriksh the.”
+
+“Zameen
+patharon se bhari thi,
+na paani tha,
+na manushya.”
+
+“Door-door tak
+sirf jangli pashu—
+hiran, sher, aur bhayanak jaanwar.”
+
+🗡️ Raja ka shikaar
+
+“Raja Dushyanta ne
+apne sainikon ke saath
+van ko hila diya.”
+
+“Unhone
+baan se sher aur baagh gira diye.”
+
+“Jo door the,
+unhe baan laga.”
+
+“Jo paas aaye,
+unhe talwar se maara.”
+
+“Gada aur dand se bhi
+kai jaanwar gir pade.”
+
+🐅 Van mein bhay
+
+“Raja ke shaurya se
+sher bhaagne lage.”
+
+“Pashu apne jhund se bichhad gaye.”
+
+“Pyaas aur thakaan se
+kai jaanwar gir pade,
+kyonki nadiyon mein paani nahi tha.”
+
+“Kuch jaanwar
+sainikon ka bhojan ban gaye.”
+
+“Kai ko bhun kar khaaya gaya.”
+
+🐘 Haathiyon ka aatank
+
+“Kai jangli haathi
+ghayal aur bhaybhit ho gaye.”
+
+“Khoon vomit karte hue,
+apni soondh uthaaye bhaagte hue
+kai sainikon ko kuchal diya.”
+
+“Poora van
+halchal se bhar gaya.”
+
+🌑 Van ka badalna
+
+“Jo van kabhi
+jeevan se bhara tha,
+woh dheere-dheere
+sher, baagh aur anya pramukh pashuon se
+khaali ho gaya.”
+
+“Raja Dushyanta ke shikaar ne
+van ka roop hi badal diya.”
+
+✨ Yahin Section LXIX samaapt hota hai."""
             create_image_text_layout(text_content=text2, layout="full")
 
         # Section 1.7.6
         with st.expander("Section 1.7.6"):
-            text1 = """ """
+            text1 = """ 
+            🏹 Raja Dushyanta aage badhte hain
+
+Vaisampayana bole:
+“Rajkumaar,
+uske baad Raja Dushyanta
+apne sainikon ke saath
+hazaaron jaanwaron ka shikaar karke
+ek aur van mein pravesh karte hain.”
+
+“Shikaar karte-karte
+ab raja thak chuke the.
+Bhookh aur pyaas lag chuki thi.”"""
             create_image_text_layout("attached_assets/chapter1/1.7.6.jpg", text1, layout="side", image_position="left")
-            text2 = """ """
+            text2 = """ 
+            🌵 Banjar bhoomi ka drishya
+
+“Raja ke saath
+ab sirf ek sevak tha.”
+
+“Van ke kinare
+unhone ek bada registan jaisa maidan dekha—
+jahan
+na ghaas thi,
+na ped,
+na paani.”
+
+“Us nirjeev bhoomi ko paar karke
+raja
+achanak ek bilkul alag duniya mein aa gaye.”
+
+🌸 Tapovan ka pravesh
+
+“Saamne tha
+ek divya van—
+tapovan!”
+
+“Wahan
+thandi, madhur hawa chal rahi thi.”
+
+“Har taraf
+phoolon se lade ped,
+mulayam hari ghaas,
+aur pakshiyon ka sangeet.”
+
+“Kokila ki meethi boli,
+jhinguron ki tez dhun,
+aur madhumakkhiyon ka gunjan
+poore van ko jeevit bana raha tha.”
+
+🌳 Swarg jaisa van
+
+“Yeh van
+kai yojan tak phaila hua tha.”
+
+“Har ped phalon se bhara,
+kisi mein kaante nahi,
+har jagah madhumakkhiyaan mandra rahi thi.”
+
+“Phoolon ki chadar
+zameen par bichhi thi.”
+
+“Lataon ke mandap the,
+aur rang-birange phool
+indradhanush jaise lag rahe the.”
+
+✨ Divya jeevon ka nivaas
+
+“Is van mein
+Siddha, Charana, Gandharva, Apsara,
+vanar aur Kinnar
+sab anand mein rehte the.”
+
+“Sab taraf
+sugandhit hawa
+phoolon ki khushboo la rahi thi.”
+
+“Raja Dushyanta
+sab dekhkar
+man hi man bahut prasann hue.”
+
+🌊 Malini nadi ka darshan
+
+“Isi van ke beech
+behti thi
+pavitra Malini nadi—
+bilkul saaf, shant aur sundar.”
+
+“Usmein
+jal pakshi khel rahe the.”
+
+“Rishi us nadi mein
+snan karke
+anand paate the.”
+
+“Nadi ke kinaare
+hiran shaant bhaav se char rahe the.”
+
+🛕 Rishiyon ka aashram
+
+“Raja ne dekha
+ek atyant pavitra aashram—
+jaise devlok ho.”
+
+“Wahan
+sacred agni jal rahi thi.”
+
+“Bahut se
+Rishi, Yati, Valakhilya Muni
+wahan dhyaan aur tap mein lage the.”
+
+“Har taraf
+yagya-agni ke mandap,
+aur shanti ka vaataavaran.”
+
+📿 Vedon ka nad
+
+“Raja ne suna—
+kahin Rigveda ka ucharan,
+kahin Yajurveda,
+kahin Samveda ka madhur gaan,
+aur kahin Atharvaveda ke mantra.”
+
+“Jaise poora aashram
+Brahmalok ban gaya ho.”
+
+“Vyakarana, tark, jyotish,
+moksha-dharma,
+sabhi vidyaon ke gyaata
+yahaan maujood the.”
+
+👑 Raja ka vinamr roop
+
+“Raja Dushyanta ne
+apni rajsi pehchaan chhod di.”
+
+“Sirf apne
+mantri aur purohit ke saath
+aage badhe.”
+
+“Sena ko
+van ke bahar hi rok diya.”
+
+“Raja bole:
+‘Main Rishi Kanva ke darshan karke
+turant laut aaunga.’”
+
+🌺 Kanva Rishi ka tapovan
+
+“Yeh wahi tapovan tha
+jo Kashyapa vansh ke
+mahaan Rishi Kanva ka tha—
+jinki tejasvi aabha
+aankhon se dekhi bhi mushkil thi.”
+
+“Raja jaise-jaise aage badhe,
+unhe bhookh-pyaas ka
+ehsaas hi nahi raha.”
+
+“Unka man
+shanti aur anand se bhar gaya.”
+
+✨ Ant mein…
+
+“Is prakaar,
+veer Raja Dushyanta
+us pavitra aur divya tapovan mein
+pravesh karte hain—
+jahan
+unki zindagi ka
+sabse mahatvapurn adhyay
+ab shuru hone wala tha…”
+
+🌸 (Yahin Section LXX samaapt hota hai)"""
             create_image_text_layout(text_content=text2, layout="full")
 
         # Section 1.7.7
