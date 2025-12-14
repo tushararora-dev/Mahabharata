@@ -10663,72 +10663,1716 @@ ab shuru hone wala tha…”
 
         # Section 1.7.7
         with st.expander("Section 1.7.7"):
-            text1 = """ """
+            text1 = """ 
+            “Dushyanta aur Shakuntala ki pehli mulaqat”
+
+👑 Raja Dushyanta akela ashram mein pravesh karta hai
+
+Raja Dushyanta
+apni baaki saari sena aur sevakon ko ashram ke bahar chhod deta hai
+aur akela hi andar jaata hai.
+
+Lekin…
+👀 Rishi Kanva kahin dikhai nahi dete.
+
+Raja zor se bolta hai:
+🗣️ “Koi hai yahan?”
+
+Uski awaaz
+🌳 jungle mein ghoonj kar wapas aa jaati hai."""
             create_image_text_layout("attached_assets/chapter1/1.7.7.jpg", text1, layout="side", image_position="left")
-            text2 = """ """
+            text2 = """ 
+            🌸 Shakuntala ka pravesh
+
+Tab achanak
+✨ ek sundar kanya bahar aati hai —
+🪷 Sri (Lakshmi) jaisi sundar
+👁️ kaali, badi aankhen
+🧘‍♀️ tapasvi kanya ka ves
+
+Woh raja ka
+🙏 vinamr swagat karti hai —
+🪑 baithne ka aasan
+💧 pair dhone ka jal
+🌼 arghya
+
+Aur pyar se poochti hai:
+🗣️ “Rajan, aapki seva ke liye main upasthit hoon. Aap kya aagya dena chahte hain?”
+
+💖 Raja ka man mohit ho jaata hai
+
+Raja Dushyanta
+Shakuntala ko dekh kar chakit reh jaata hai 😮
+
+Uski sundarta sirf sharir ki nahi thi —
+✨ vinamrata
+✨ tapasya ka tej
+✨ yuvavastha ki komalta
+
+Raja poochta hai:
+🗣️
+“Tum kaun ho? Kis ki putri ho?
+Itni sundar aur gunwaan ho kar jungle mein kyun rehti ho?
+Pehli nazar mein hi tumne mera hriday chura liya hai.”
+
+🌼 Shakuntala ka parichay
+
+Muskurate hue Shakuntala bolti hai 😊:
+🗣️
+“Hey Raja Dushyanta,
+main Maharshi Kanva ki putri hoon.”
+
+🤔 Raja ka sandeh
+
+Raja hairaan ho jaata hai:
+🗣️
+“Kanva jaise maha-tapasvi rishi,
+jinmein kaam-vasna ka lesh bhi nahi,
+unke yahan putri ka janm kaise hua?
+Yeh baat meri samajh mein nahi aa rahi.”
+
+📜 Shakuntala apni janm-katha sunati hai
+
+Shakuntala bolti hai:
+🗣️
+“Rajan, jo kahani mujhe mere pita ne batayi,
+wahi main aapko sunaati hoon.”
+
+🔥 Vishwamitra aur Indra ka bhay
+
+🧘‍♂️ Maharshi Vishwamitra
+bahut kathor tapasya kar rahe the.
+
+☁️ Unki tapasya se
+Indra ka singhasan kaanpne laga 😨
+
+Indra sochta hai:
+🗣️ “Agar Vishwamitra tapasya mein safal ho gaye
+toh mera rajya chhin sakte hain!”
+
+💃 Menaka ko bulaya jaata hai
+
+Indra
+🌺 Apsara Menaka ko bulata hai aur kehta hai:
+
+🗣️
+“Tum apni sundarta, muskaan, kala aur yauvan se
+Vishwamitra ki tapasya bhang karo.”
+
+😨 Menaka ka bhay
+
+Menaka dar jaati hai 😰:
+🗣️
+“Indra dev!
+Vishwamitra toh agni ke samaan hain!
+Unke krodh se devta bhi kaampte hain.”
+
+Woh yaad dilati hai:
+
+🔥 Vishwamitra ne dusra brahmand bana diya
+
+🌊 Kaushiki nadi ka srijan kiya
+
+⭐ naye taare bana diye
+
+⚡ Meru parvat tak hila sakte hain
+
+🗣️
+“Main ek stri ho kar unke paas kaise jaaun?”
+
+🛡️ Indra ki yojna
+
+Menaka kehti hai:
+🗣️
+“Agar mujhe jaana hi pade,
+toh aap meri raksha ke liye yeh karo:”
+
+✔️ Marut (Pavan dev) meri vastra uda dein
+✔️ Kaamdev meri madad kare
+✔️ hawa mein phoolon ki sugandh bhar di jaaye
+
+Indra sahmat ho jaata hai 👍
+
+🌸 Menaka tapasya-bhumi ki or prasthan karti hai
+
+Aur is tarah
+✨ Menaka Maharshi Vishwamitra ke ashram ki or jaati hai…
+
+👉 Aage kya hota hai?
+
+Vishwamitra ki tapasya bhang hoti hai
+
+Menaka se Shakuntala ka janm hota hai
+
+Kanva rishi use apni putri ke roop mein paalte hain"""
             create_image_text_layout(text_content=text2, layout="full")
 
         # Section 1.7.8
         with st.expander("Section 1.7.8"):
-            text1 = """ """
+            text1 = """ 
+            “Shakuntala ka janm aur uska naam”
+
+🧙‍♂️ Rishi Kanva apni kahani aage badhate hain
+
+Kanva Rishi bolte hain:
+
+🌬️ Indra ka aadesh aur Pavan Dev
+
+Indra ne
+🌪️ Pavan Dev (Marut) ko kaha:
+🗣️ “Jab Menaka Rishi Vishwamitra ke saamne jaaye,
+tum bhi wahan maujood rehna.”   """
             create_image_text_layout("attached_assets/chapter1/1.7.8.jpg", text1, layout="side", image_position="left")
-            text2 = """ """
+            text2 = """ 
+            💃 Menaka aur Vishwamitra
+
+Dar se bhari
+par sundar Menaka
+🌿 Rishi Vishwamitra ke ashram mein jaati hai.
+
+Wahan woh dekhti hai:
+🔥 Vishwamitra tapasya mein leen hain
+✨ unke paap tapasya se jal chuke hain
+
+Menaka
+🙏 rishi ko pranam karti hai
+aur phir unke saamne nritya aur khel shuru karti hai.
+
+🌬️ Pavan Dev ki leela
+
+Tabhi achanak 😲
+🌪️ Pavan Dev Menaka ke vastra uda dete hain,
+jo 🌕 chandrama jaise shwet the.
+
+Menaka
+😳 sharm se daud kar vastra pakadne lagti hai,
+jaise Pavan Dev se naraz ho.
+
+Yeh sab
+👀 Vishwamitra apni aankhon se dekhte hain.
+
+💔 Tapasya ka bhang
+
+Vishwamitra
+Menaka ki nir-dosh sundarta dekh kar
+💓 apna sanyam kho dete hain.
+
+Unka mann kaam-bhav se bhar jaata hai.
+
+Woh
+🫱 Menaka ko apne paas rehne ka sanket dete hain
+aur Menaka bhi sahmati de deti hai.
+
+⏳ Samay ka beet jaana
+
+Dono
+🌸 saath rehte hain
+🎶 khelte–muskurate hain
+
+Unhe lagta hai jaise
+🕰️ sirf ek din beeta ho,
+lekin asal mein bahut samay guzar jaata hai.
+
+👶 Shakuntala ka janm
+
+Isi samay ke beech
+Menaka ke garbh se
+👶 ek kanya ka janm hota hai —
+uska naam Shakuntala.
+
+🌊 Malini nadi ke kinaare
+
+Menaka
+🏞️ Himalaya ke sundar ghaati mein
+🌊 Malini nadi ke kinaare jaati hai
+aur wahin bachchi ko janm deti hai.
+
+Par phir… 😢
+woh us nanhi si bachchi ko wahin chhod kar chali jaati hai.
+
+🦅 Pakshiyon ki raksha
+
+Woh jungle
+🦁 sher–baagh se bhara tha
+lekin 😲
+👶 bachchi ko koi nuksaan nahi pahunchta.
+
+🦅 Gidh (vultures)
+uske charon taraf baith kar
+🛡️ uski raksha karte hain.
+
+Na Rakshas aaye
+na koi hinsa hui.
+
+🧘‍♂️ Kanva Rishi ko bachchi milti hai
+
+Rishi Kanva
+🚿 snan ke liye nadi par aate hain
+aur dekhte hain:
+
+👶 ek nanhi bachchi
+🦅 pakshiyon se ghirii hui hai.
+
+Unka mann pighal jaata hai 💖
+
+Woh bachchi ko
+🫶 utha kar ashram le aate hain
+aur use apni putri bana lete hain.
+
+📜 Pita ka arth
+
+Kanva Rishi kehte hain:
+
+📖 “Shastra ke anusaar:
+
+jo sharir deta hai,
+
+jo jeevan bachata hai,
+
+jo bhojan deta hai —
+teeno pita ke samaan hote hain.”*
+
+🐦 Naam: Shakuntala
+
+Kanva Rishi bolte hain:
+
+🗣️
+“Jungle mein yeh bachchi
+Shakunta (pakshi) se ghir kar rakshit thi,
+isi liye maine iska naam
+Shakuntala rakha.”
+
+Aur Shakuntala bhi
+❤️ Kanva Rishi ko hi apna pita maanti hai.
+
+🌸 Shakuntala Raja se kehti hai
+
+Shakuntala Raja Dushyanta se bolti hai:
+
+🗣️
+“Maharaj,
+yeh sab mujhe mere pita Kanva ne bataya tha.
+Main apne janm ke baare mein itna hi jaanti hoon.
+Isliye main Kanva Rishi ko hi apna pita maanti hoon.”
+
+✨ Yahin Section LXXII samaapt hota hai ✨"""
             create_image_text_layout(text_content=text2, layout="full")
 
         # Section 1.7.9
         with st.expander("Section 1.7.9"):
-            text1 = """ """
+            text1 = """ 
+            Section LXXIII : “Dushyant aur Shakuntala ka Vivaah”**
+
+👑 Raja Dushyant bolte hain
+
+Shakuntala ki baat sun kar
+Raja Dushyant muskura kar bole:
+
+🗣️
+“Bahut sundar baat kahi tumne, O rajkumari.
+Tum meri patni bano.”
+
+✨
+“Main tumhe
+💛 sone ke haar,
+👗 sundar vastra,
+💍 sone ke kaan ke kundal,
+⚪ safed moti,
+🪙 sone ke sikke
+aur 🧶 keemti carpet dunga.”"""
             create_image_text_layout("attached_assets/chapter1/1.7.9.jpg", text1, layout="side", image_position="left")
-            text2 = """ """
+            text2 = """ 
+            🏰
+“Aaj se mera poora rajya tumhara hai.”
+
+💖
+“Chalo, mujhe swikar karo.
+Hum Gandharva vivaah karein.
+Yeh Kshatriyon ke liye shreshth vivaah maana jaata hai.”
+
+🌼 Shakuntala ka uttar
+
+Shakuntala shant swar mein boli:
+
+🗣️
+“Maharaj,
+mere pita Rishi Kanva fal laane gaye hain.
+Kripya thoda ruk jaiye.
+Wahi mujhe aapko denge.”
+
+👑 Dushyant samjhate hain
+
+Raja bole:
+
+🗣️
+“Tum hi apni malik ho.
+Shastra ke anusaar,
+tum swayam apna nirnay le sakti ho.”
+
+📜
+“Shaadi ke 8 prakaar hote hain.
+Unmein se Gandharva vivaah
+Kshatriyon ke liye uchit hai.”
+
+💞
+“Mujhe tum chahiye,
+aur mera dil tum mein basa hai.”
+
+🌸 Shakuntala ki shart
+
+Shakuntala ne dhyaan se sab suna
+phir boli:
+
+🗣️
+“Yadi dharm yeh maanta hai,
+toh meri ek shart hai.”
+
+👶
+“Jo putra mujhe hoga,
+wahi aapka uttaradhikari banega.”
+
+“Yadi aap isse sweekar karein,
+tabhi main vivaah karungi.”
+
+👑 Raja ka vachan
+
+Raja Dushyant bina soche bole:
+
+🗣️
+“Main vachan deta hoon.
+Aisa hi hoga.”
+
+💍
+Aur wahin
+🌿 Gandharva vivaah ho gaya.
+
+Raja ne kaha:
+
+🗣️
+“Main jald hi
+tumhe apni rajdhani le jaane ke liye
+apni sena bhejunga.”
+
+🚶‍♂️ Raja ka prasthan
+
+Vivaah ke baad
+Raja apni rajdhani laut gaye.
+
+Raaste mein unke mann mein aaya:
+
+🤔
+“Rishi Kanva kya kahenge?”
+
+Sochte hue
+woh nagar pahunch gaye.
+
+🧘‍♂️ Rishi Kanva ka aagman
+
+Jaise hi Raja gaye,
+✨ Rishi Kanva ashram laut aaye.
+
+Shakuntala
+😔 sharam ke kaaran
+bahar nahi aayi.
+
+Par Kanva Rishi
+👁️ divya drishti se sab jaan gaye.
+
+🌿 Kanva Rishi ka aashirvaad
+
+Rishi Kanva bole:
+
+🗣️
+“Putri,
+tumne jo kiya
+woh adharm nahi hai.”
+
+📜
+“Gandharva vivaah
+Kshatriyon ke liye
+uchit maana jaata hai.”
+
+👑
+“Raja Dushyant dharmik aur mahaan hain.”
+
+✨
+“Tumhara putra
+bahut pratapshali hoga,
+samudron tak raj karega,
+aur uski sena
+kabhi haaregi nahi.”
+
+🌸 Shakuntala ka pranam
+
+Shakuntala aage aayi,
+🙏 pita ke charan dhoye,
+aur boli:
+
+🗣️
+“Pitaji,
+kripya Raja Dushyant ko
+apna aashirvaad dein.”
+
+🌼 Boons ka var
+
+Kanva Rishi bole:
+
+🗣️
+“Putri,
+jo vardaan maangna chaho,
+maango.”
+
+💖 Shakuntala ka vardaan
+
+Shakuntala boli:
+
+🗣️
+“Pitaji,
+Paurava vansh ke raja
+hamesha dharmik rahein,
+aur kabhi apna rajya na khoen.”
+
+✨
+Rishi Kanva ne
+yeh vardaan de diya.
+
+🌟 Yahin Section LXXIII samaapt hota hai 🌟"""
             create_image_text_layout(text_content=text2, layout="full")
 
         # Section 1.7.10
         with st.expander("Section 1.7.10"):
-            text1 = """ """
+            text1 = """ 
+            Section LXXIV : Shakuntala ka Apmaan, Sach ki Jeet aur Bharat ka Janm
+
+📖 Vaisampayana bolte hain
+
+Raja Dushyant ke jaane ke baad,
+🌸 Shakuntala ne ek balwaan putra ko janm diya.
+
+👶
+Bachcha itna tej aur shaktishaali tha
+ki jaise agni ki jwala ho.
+
+🔥
+3 saal ka hote-hi,
+uska tej sabko chamka deta.
+
+✨
+6 saal ki umar mein,
+woh sher, baagh, haathi tak ko
+pakad kar pedon se baandh deta."""
             create_image_text_layout("attached_assets/chapter1/1.7.10.jpg", text1, layout="side", image_position="left")
-            text2 = """ """
+            text2 = """ 
+            😲
+Sab ashram ke log hairaan reh gaye.
+
+🧘‍♂️
+Rishi Kanva ne kaha:
+“Yeh bachcha Sarvadamana kehlayega
+— jo sabko vash mein karta hai.”
+
+🏛️ Shakuntala Hastinapur jaati hai
+
+Rishi Kanva ne apne shishyon se kaha:
+
+🗣️
+“Ab Shakuntala ko
+uske pati ke ghar le jaane ka samay aa gaya hai.”
+
+🚶‍♀️
+Shakuntala apne putra ke saath
+Hastinapur pahunchi.
+
+🌞
+Bachcha suraj ki tarah chamak raha tha.
+
+🙏
+Shakuntala ne Raja Dushyant se kaha:
+
+🗣️
+“Yeh aapka putra hai.
+Kripya ise apna uttaradhikari banaiye.
+Aapne jo vachan diya tha,
+use yaad kijiye.”
+
+💔 Raja Dushyant ka inkaar
+
+Raja Dushyant ne thandi awaaz mein kaha:
+
+🗣️
+“Mujhe kuch yaad nahi.
+Main tumhe nahi jaanta.
+Tum kaun ho?”
+
+😞
+Yeh sun kar
+Shakuntala ka dil toot gaya.
+
+🔥
+Uski aankhon mein aansu aur gussa dono the,
+par usne apna krodh sambhaal liya.
+
+🌸 Shakuntala ka dharm-yukt jawab
+
+Shakuntala ne kaha:
+
+🗣️
+“Raja,
+aap sach jaante hue bhi
+jhoot bol rahe ho.”
+
+🕉️
+“Bhagwan Narayana
+har dil mein baste hain.
+Woh sab jaante hain.”
+
+⚖️
+“Surya, Chandra, Agni, Vayu,
+Dharti aur Dharma
+sab aapke karm ke sakshi hain.”
+
+👩‍❤️‍👨
+“Patni purush ka aadha hissa hoti hai.
+Patni hi dharm, sukh aur moksha ka mool hai.”
+
+👶
+“Putra pita ka hi roop hota hai.
+Isi liye patni ko Jaya kaha jaata hai.”
+
+🌱
+“Putra purkhon ko narak se bachata hai.
+Isi liye use Putra kaha gaya.”
+
+💔
+“Aap apne hi bete ko kaise thukra sakte ho?”
+
+🔥 Raja ka kathor uttar
+
+Raja Dushyant ne kaha:
+
+🗣️
+“Tumhari baatein jhooth hain.
+Tumhari maa Menaka ek apsara thi.
+Tumhara janm bhi shuddh nahi.”
+
+😡
+“Main tumhe nahi maanta.
+Jaahan chaaho jao.”
+
+🌺 Shakuntala ka gaurav
+
+Shakuntala ne shant par garv bhare swar mein kaha:
+
+🗣️
+“Aap dusron ki chhoti galti dekhte ho,
+par apni badi galti nahi.”
+
+✨
+“Main apsara ki beti hoon.
+Mera janm aap se bhi uchch hai.”
+
+🦢
+“Jo buddhimaan hote hain,
+woh doodh aur paani mein se
+sirf doodh chunte hain.”
+
+⚖️
+“Satya sabse bada dharm hai.
+Satya se bada kuch nahi.”
+
+🗣️
+“Agar aap mujhe nahi maante,
+toh main chali jaungi.”
+
+🌍
+“Par yaad rakhiye —
+mera putra ek din
+poori prithvi par raj karega.”
+
+🌩️ Aakashvani (Divine Voice)
+
+Jaise hi Shakuntala jaane lagi,
+☁️ aakash se awaaz aayi:
+
+🗣️
+“Raja Dushyant,
+yeh tumhara hi putra hai.”
+
+👶
+“Putra pita ka hi doosra roop hota hai.”
+
+🌸
+“Shakuntala sach bol rahi hai.”
+
+📜
+“Isliye is putra ka naam hoga —
+Bharata,
+kyunki ise tum apnaoge.”
+
+😊 Sach ki jeet
+
+Raja Dushyant anand se bhar gaye.
+
+🫂
+Unhone apne bete ko gale lagaya,
+uska sir soonga.
+
+🙏
+Shakuntala ko samman ke saath apnaya.
+
+👑
+Putra ko rajgaddi ka uttaradhikari banaya.
+
+🌟 Maharaj Bharata
+
+👑
+Bharata ne
+sab rajaon ko jeet liya.
+
+⚔️
+Woh Chakravarti Samrat bane.
+
+🔥
+Unhone kai yajna kiye.
+Rishi Kanva unke purohit bane.
+
+🌍
+Isi Bharata ke naam par
+Bharat-vansh aur
+Bharatvarsh ka naam pada."""
             create_image_text_layout(text_content=text2, layout="full")
 
         # Section 1.7.11
         with st.expander("Section 1.7.11"):
-            text1 = """ """
+            text1 = """ 
+            Section LXXV : Vansh, Ahankar, Ichchha aur Sachchi Samajh
+
+📖 Vaisampayana bole
+
+Ab main tumhe
+🌼 rajaon ki pavitra vanshavali sunata hoon.
+Iska shravan
+➡️ dharm,
+➡️ arth,
+➡️ kaam
+teenon ko badhata hai.
+
+✨
+Is vansh-katha se
+📿 punya milta hai,
+💰 dhan milta hai,
+🌱 aur lambi aayu milti hai."""
             create_image_text_layout("attached_assets/chapter1/1.7.11.jpg", text1, layout="side", image_position="left")
-            text2 = """ """
+            text2 = """ 
+            🌍 Srishti se Manav tak
+
+🧘‍♂️
+Pehle hue Pracetas.
+Unke 10 putra tapasvi the.
+
+🔥
+Unke baad hue Daksha Prajapati —
+jinse sampoorna srishti ka vikas hua.
+Isi liye unhe
+👴 “Pitamaha” kaha gaya.
+
+👩‍👧‍👧
+Daksha ki 50 betiyan thi.
+Unhone unka vivaah
+➡️ Dharma,
+➡️ Kashyapa,
+➡️ Chandra
+se karwaya.
+
+☀️
+Kashyapa aur Aditi se
+Aditya hue.
+Unmein se ek the Vivasvan (Surya).
+
+👑 Manu aur Manav
+
+🌞
+Surya ke putra hue Manu.
+
+📜
+Manu se hi
+sab Manav jaati ka janm hua.
+Isliye hum sab
+👥 Manav kehlaye.
+
+👨‍👩‍👦
+Manu ke kai putra hue.
+Unmein se ek the Ila.
+
+✨
+Ila se hue Pururava.
+
+⚡ Pururava ka patan
+
+👑
+Pururava bahut shaktishaali raja the.
+Unke saath devta jaise saathi rehte the.
+
+❌
+Par shakti ke ghamand mein
+unhone Brahmanon ka apmaan kiya.
+
+⚡
+Rishiyon ke shraap se
+Pururava ka vinaash ho gaya.
+
+📌 Seekh:
+Shakti bina vinamrata ke vinash laati hai.
+
+🌸 Yayati aur Ichchha ka Rahasya
+
+👑
+Pururava ke vansh mein hue Raja Yayati.
+Woh dharmic, daani aur veer the.
+
+⏳
+Par ek din
+un par budhaapa aa gaya.
+
+😔
+Yayati ne apne putron se kaha:
+
+🗣️
+“Mujhe apni jawani wapas chahiye.
+Tum mein se koi
+mera budhaapa le lo.”
+
+❌
+Sab putron ne mana kar diya.
+
+🌱
+Tab sabse chhote putra Puru ne kaha:
+
+🗣️
+“Pitaji,
+aap apni ichchha poori kijiye.
+Main aapka budhaapa sweekar karta hoon.”
+
+💖
+Yayati ne Puru ki jawani le li
+aur khud jawan ban gaye.
+
+🔥 Bhog se Tripti nahi
+
+⏰
+Hazaar saal tak
+Yayati ne
+sukh aur bhog ka anand liya.
+
+😶
+Par phir bhi
+unke mann ko shanti nahi mili.
+
+🧠
+Tab unhone socha:
+
+🗣️
+“Bhog se ichchha kabhi poori nahi hoti.
+Jaise agni mein ghee dalne se
+aag aur bhadakti hai.”
+
+🌿
+“Sachchi shanti tab milti hai jab
+man kisi ko dukh na de,
+kisi se dare nahi,
+aur kisi ko daraye nahi.”
+
+👑 Puru ka Mahaan Ban-na
+
+🙏
+Yayati ne
+Puru ko uski jawani wapas de di.
+
+👑
+Usse rajgaddi par bithaya
+aur kaha:
+
+🗣️
+“Tu hi mera sachcha uttaradhikari hai.
+Mera vansh
+tere naam se jaana jayega.”
+
+🧘‍♂️
+Yayati khud van mein chale gaye
+aur tapasya mein jeevan samarpit kiya.
+
+✨
+Ant mein
+swarg ko prapt hue.
+
+🌟 Is Kahani ki Seekh
+
+🌼
+
+Ghamand ka ant nishchit hai
+
+Bhog se kabhi poorn tripti nahi milti
+
+Sacrifice sabse bada gun hai
+
+Sachcha putra wahi hai
+jo dharm aur tyag samjhe
+
+Shanti bahar nahi,
+andar hoti hai"""
             create_image_text_layout(text_content=text2, layout="full")
 
         # Section 1.7.12
         with st.expander("Section 1.7.12"):
-            text1 = """ """
+            text1 = """ 
+            📖 Janamejaya ne poocha
+“Guruji, mujhe bataiye —
+Raja Yayati ko Shukracharya ki beti Devayani kaise mili?
+Aur ye sab kaise shuru hua?”
+
+🧘‍♂️ Vaisampayana bole
+
+Yayati Indra jaise tejashvi raja the.
+Par is kahani ki jad
+⚔️ Devtas aur Asuron ke yudh mein chhupi hai."""
             create_image_text_layout("attached_assets/chapter1/1.7.12.jpg", text1, layout="side", image_position="left")
-            text2 = """ """
+            text2 = """ 
+            ⚔️ Devtas vs Asur
+
+🌩️
+Teen lokon ke raaj ke liye
+Devtas aur Asur
+baar-baar ladte the.
+
+👑
+
+Devtas ke guru the Brihaspati
+
+Asuron ke guru the Shukracharya (Sukra / Kavya)
+
+✨
+Par Shukra ke paas ek khaas gyaan tha —
+🧬 Sanjeevani Vidya
+➡️ jisse mare hue Asur
+dubara zinda ho jaate the.
+
+😟
+Devtas pareshaan ho gaye.
+Unke mare hue sainik
+wapis nahi aa pate the.
+
+🌱 Kacha ka Yagya
+
+🙏
+Devtas ne Brihaspati ke putra Kacha se kaha:
+
+🗣️
+“Tum Shukra ke paas jao.
+Unke shishya bano.
+Aur Sanjeevani Vidya seekh lo.”
+
+💪
+Kacha maan gaye.
+Wo Vrishaparva ke rajya mein
+Shukra ke paas gaye.
+
+🧘‍♂️
+Kacha ne kaha:
+“Main aapka shishya banna chahta hoon.
+1000 saal tak brahmacharya ka vrat rakhunga.”
+
+✨
+Shukra ne sweekar kar liya.
+
+🌸 Devayani aur Kacha
+
+💐
+Kacha apne seva-bhav,
+vinamrata aur kala se
+Devayani ko bhi khush rakhte the.
+
+🎶
+Gaana, seva, phool-phal —
+sab kuch dil se.
+
+❤️
+Devayani bhi
+Kacha se lagav mehsoos karne lagi.
+
+☠️ Asuron ka Krodh
+
+😡
+500 saal baad
+Asuron ko sach samajh aa gaya.
+
+⚠️
+Unhone socha:
+“Agar Kacha zinda raha
+to Sanjeevani Vidya
+Devtas ke paas chali jaayegi.”
+
+💀
+Asuron ne Kacha ko
+3 baar maara:
+
+1️⃣ Pehli baar —
+maar kar jaanwaron ko khila diya
+➡️ Shukra ne zinda kiya
+
+2️⃣ Doosri baar —
+peese hue sharir ko samundar mein mila diya
+➡️ Phir zinda hua
+
+3️⃣ Teesri baar —
+jala kar raakh bana di
+aur Shukra ke sharab mein mila di
+
+😢
+Devayani toot gayi.
+
+🗣️
+“Pitaji, agar Kacha nahi raha
+to main bhi nahi rahungi.”
+
+🔥 Guru aur Shishya ka Dharam
+
+😞
+Shukra samajh gaye —
+Kacha unke sharir ke andar hai.
+
+⚖️
+Dharam ke mutabik
+Brahman ko maarna paap tha.
+
+🧠
+Isliye Shukra ne ek bada nirnay liya:
+
+🗣️
+“Kacha,
+main tumhe Sanjeevani Vidya sikha deta hoon.
+Tum mere sharir se bahar aao
+aur mujhe zinda kar do.”
+
+✨
+Kacha ne vidya seekhi.
+Shukra ke sharir ko cheera,
+bahar aaye
+aur apne guru ko phir se jeevit kiya.
+
+🙏
+Kacha bole:
+
+🗣️
+“Guru hi maa-baap hote hain.
+Jo gyaan deta hai,
+use nuksaan pahunchana
+sabse bada paap hai.”
+
+🚫 Shukra ka Niyam
+
+⚠️
+Shukra ne dekha
+sharab ki wajah se
+ye sab hua.
+
+📜
+Unhone ghoshna ki:
+
+🗣️
+“Aaj ke baad
+jo Brahman sharab piyega
+wo apna dharm kho dega.”
+
+Ye niyam
+teenon lokon mein fail gaya.
+
+🌈 Ant aur Naya Mod
+
+✨
+Shukra ne kaha:
+
+🗣️
+“Kacha apna kaam poora kar chuka hai.
+Wo Sanjeevani Vidya seekh chuka hai.”
+
+🏹
+1000 saal baad
+Kacha ne guru se aashirvaad liya
+aur devlok laut gaye.
+
+🌟 Is Kahani ki Seekh
+
+🌼
+
+Guru-shishya sambandh pavitra hota hai
+
+Gyaan ka durupyog vinash laata hai
+
+Prem mein bhi dharm zaroori hai
+
+Balidaan aur buddhi
+sabse badi shakti hoti hai
+
+✨ Section LXXVI yahin samaapt hota hai ✨"""
             create_image_text_layout(text_content=text2, layout="full")
 
         # Section 1.7.13
         with st.expander("Section 1.7.13"):
-            text1 = """ """
+            text1 = """ 
+            Section LXXVII : Kacha aur Devayani ka Antim Mod
+
+🕉️ Vaisampayana bole —
+
+Jab Kacha ka brahmacharya vrat poora ho gaya,
+aur unhone Shukracharya se aagya le li,
+toh wo Devlok lautne wale the.
+
+Tab Devayani ne unhe roka."""
             create_image_text_layout("attached_assets/chapter1/1.7.13.jpg", text1, layout="side", image_position="left")
-            text2 = """ """
+            text2 = """ 
+            💔 Devayani ka Prem
+
+Devayani ne kaha:
+
+🗣️
+“Kacha,
+tum janm, gyaan, tapasya aur vinamrata mein mahaan ho.
+Jaise mere pita Shukra tumhare pita Brihaspati ka samman karte hain,
+waise hi main bhi karti hoon.
+
+Tumhe yaad hai na,
+jab tumhara vrat chal raha tha,
+mainne tumhara kitna dhyaan rakha?
+
+Ab tumhara vrat poora ho chuka hai.
+👉 Mujhe apni patni bana lo.
+👉 Mantron ke saath mera haath thaam lo.”
+
+Devayani ke shabdon mein
+prem tha, aastha thi, aur vishwas bhi ❤️
+
+🧘‍♂️ Kacha ka Dharam
+
+Kacha shaant rahe.
+Unhone vinamrata se kaha:
+
+🗣️
+“Devayani,
+tum mere liye maa ke samaan ho.
+
+Jaise tumhare pita
+mere guru hain,
+waise hi tum bhi
+mere liye poojniya ho.
+
+Guru ki beti
+patni nahi ban sakti.
+Ye mera dharm hai.”
+
+😢 Devayani ka Dukh
+
+Devayani ne dukhi hokar kaha:
+
+🗣️
+“Jab Asuron ne tumhe baar-baar maara,
+tab main tumhare liye royi,
+tumhare bina jeene se inkaar kiya.
+
+Meri itni bhakti, itna prem —
+kya sab bekaar tha?
+
+Main tumse sach mein prem karti hoon,
+phir bhi tum mujhe chhod rahe ho?”
+
+⚖️ Kacha ka Antim Nirnay
+
+Kacha bole:
+
+🗣️
+“Devayani,
+tum nirdosh ho, pavitra ho.
+Par tum meri behen ho.
+
+Humne saath samay achha bitaya,
+par maryada kabhi todi nahi.
+
+Mujhe aashirvaad do
+taaki meri yatra surakshit rahe.
+
+Aur mere baare mein
+hamesha ye yaad rakhna
+ki mainne kabhi dharm ka ullanghan nahi kiya.”
+
+🔥 Devayani ka Shraap
+
+Dukh aur gusse mein
+Devayani ne keh diya:
+
+🗣️
+“Agar tum mujhe apnate nahi,
+toh tumhara gyaan
+kabhi safal nahi hoga!”
+
+🌟 Kacha ka Shaant Uttar
+
+Kacha ne shaant swar mein kaha:
+
+🗣️
+“Tum mujhe shraap de sakti ho.
+Par yaad rakho,
+mainne tumhe isliye thukraya
+kyunki tum guru-putri ho,
+na ki kisi dosh ki wajah se.
+
+Tumhara shraap mujhe sweekar hai.
+
+👉 Mera gyaan mere liye nahi,
+👉 balki uske liye safal hoga
+jise main ye gyaan dunga.
+
+Aur ek baat —
+koi bhi Rishi ka putra
+tumse vivaah nahi karega.”
+
+(Ye bhi ek shraap hi tha.)
+
+✨ Devlok mein Samman
+
+Kacha turant Devlok chale gaye.
+
+Wahan Indra aur sab Devtaon ne unka swagat kiya 🙏
+
+🗣️
+“Tumne hum sab ke liye
+bahut bada kaam kiya hai.
+
+Tumhara naam amar rahega.
+Tum bhi yagyon ke phal mein
+hamare saath bhaag paoge.”
+
+🌈 Is Kahani ki Seekh
+
+🌸
+
+Prem se bada kabhi-kabhi dharam hota hai
+
+Guru aur unke parivaar ka samman sabse upar
+
+Gyaan ka mool uddeshya seva hota hai, swarth nahi
+
+Gusse mein diya shraap bhi jeevan ka rukh badal deta hai
+
+✨ Section LXXVII yahin samaapt hota hai ✨"""
             create_image_text_layout(text_content=text2, layout="full")
 
         # Section 1.7.14
         with st.expander("Section 1.7.14"):
-            text1 = """ """
+            text1 = """ 
+            Section LXXVIII : Devayani, Sharmishtha aur Raja Yayati
+
+🕉️ Vaisampayana bole —
+
+Swarg mein sab Devta bahut khush the.
+Kacha ne jo adbhut gyaan seekha tha,
+wo sab ne use seekh liya.
+Ab Devtaon ka kaam poora ho chuka tha ✨
+
+Devta bole:
+
+🗣️
+“Ab shakti dikhane ka samay aa gaya hai.
+Hey Indra (Purandara), shatruon ka naash karo!”"""
             create_image_text_layout("attached_assets/chapter1/1.7.14.jpg", text1, layout="side", image_position="left")
-            text2 = """ """
+            text2 = """ 
+            🌸 Talab ke paas khel
+
+Indra Devtaon ke saath nikal pade.
+Raste mein unhone dekha —
+
+🌊 Gandharva Citraratha ke udyan mein
+kuch yuvtiyan talab mein khel rahi thi.
+
+Indra ne mazaak mein
+🌬️ hawaa ka roop le liya
+aur un ladkiyon ke kapde
+jo kinaare rakhe the
+unhe aapas mein mila diya 😄
+
+⚡ Devayani aur Sharmishtha ka Jhagda
+
+Jab sab ladkiyan paani se bahar aayi,
+toh galti se —
+
+👗 Sharmishtha
+(ne Asur Raja Vrishaparvan ki beti)
+👗 Devayani ke kapde pehen liye.
+
+Devayani gusse mein boli:
+
+🗣️
+“Tum meri kapde kaise pehen sakti ho?
+Tum toh meri shishya ho!”
+
+Sharmishtha aur bhi zyada gussa ho gayi 😡
+
+🗣️
+“Tumhare pita
+mere pita ke darbaar mein
+sir jhuka kar khade rehte hain!
+
+Tum toh bhiksha lene wale ki beti ho,
+aur main daan dene wale raja ki beti hoon!
+Tum meri barabari nahi kar sakti!”
+
+🕳️ Kuan aur Anyay
+
+Devayani ro padi.
+Usne apne kapde kheenchne ki koshish ki.
+
+Sharmishtha ne
+😠 gusse mein
+Devayani ko ek kuan mein dhakel diya
+aur socha —
+“Ye toh mar hi gayi hogi.”
+
+Phir wo wahan se chali gayi.
+
+👑 Raja Yayati ka Aana
+
+Thodi der baad
+👑 Raja Yayati
+(shikar se laut rahe the)
+usi jagah aaye.
+
+Unhe pyaas lagi thi.
+Kuan ke paas gaye
+aur neeche dekha 👀
+
+✨ Unhone kuan mein
+ek tej se chamakti hui ladki dekhi.
+
+Raja ne pyaar se poocha:
+
+🗣️
+“Tum kaun ho, sundari?
+Yahan kaise gir gayi?
+Tumhari aankhon mein dukh kyun hai?”
+
+🌼 Devayani ka Parichay
+
+Devayani boli:
+
+🗣️
+“Main Shukracharya ki beti hoon.
+Mujhe dhokhe se yahan phenk diya gaya hai.
+
+Hey Raja,
+aap dharmi aur mahaan ho.
+👉 Mera haath pakad kar
+mujhe bahar nikaliye.”
+
+✋ Haath Pakadna – Bhagya ka Mod
+
+Raja Yayati ne
+jaise hi suna ki
+ye Brahman ki beti hai,
+unhone turant
+👉 Devayani ka daahina haath pakda
+aur use kuan se bahar nikaal liya 🌟
+
+Phir Raja apni rajdhani laut gaye.
+
+😢 Devayani ka Dukh
+
+Devayani ne socha:
+
+🗣️
+“Main ab Vrishaparvan ke nagar
+wapas nahi jaungi.”
+
+Usne apni daasi Ghurnika ko bheja
+aur bola:
+
+👉 “Pita ji ko sab sach bata dena.”
+
+🔥 Shukracharya ka Krodh
+
+Jab Shukracharya ne suna
+ki unki beti ko apmaanit kiya gaya,
+toh unka dil bhar aaya 💔
+
+Wo turant jungle gaye
+aur Devayani ko gale lagaya 🤍
+
+Pyaar se bole:
+
+🗣️
+“Beti,
+kabhi-kabhi dukh
+hamare hi karmon ka phal hota hai.”
+
+⚖️ Devayani ka Sach
+
+Devayani boli:
+
+🗣️
+“Pitaji,
+Sharmishtha ne mujhe kaha
+ki aap sirf
+dusron ki tarif karne wale ho,
+daan lene wale ho!
+
+Agar ye sach hai,
+toh mujhe sharmishtha se maafi maangni chahiye!”
+
+🌟 Shukracharya ka Garv
+
+Shukracharya muskuraye 😊
+aur garv se bole:
+
+🗣️
+“Tum kisi bhikshuk ki beti nahi ho!
+
+Main woh hoon
+jise sab poojte hain,
+jo kisi se bhiksha nahi leta!
+
+Indra, Vrishaparvan aur Raja Yayati
+sab ye jaante hain.
+
+Brahma khud meri shakti hain.
+Varsha aur ann
+mere tap se hi hota hai!”
+
+🌈 Is Kahani ki Seekh
+
+🌸
+
+Ghamand se hamesha anyay hota hai
+
+Sachcha samman karm se milta hai, pad se nahi
+
+Dukh mein bhi dhairya rakho
+
+Dharam aur vinamrata sabse badi shakti hai
+
+✨ Section LXXVIII yahin samaapt hota hai ✨"""
             create_image_text_layout(text_content=text2, layout="full")
 
         # Section 1.7.15
         with st.expander("Section 1.7.15"):
-            text1 = """ """
+            text1 = """ 
+            Section LXXIX : Krodh aur Kshama ki Seekh
+
+🕉️ Shukracharya bole —
+
+“Sun meri beti Devayani,”
+“Jo dusron ki buri baaton par dhyaan nahi deta,
+wo sab kuch jeet leta hai.”
+
+🚗
+Jaise ek achha saarathi
+ghodon ki lagam majbooti se pakadta hai
+aur unhe bhatakne nahi deta,
+waise hi sachha insaan
+apne gusse ko kaboo mein rakhta hai."""
             create_image_text_layout("attached_assets/chapter1/1.7.15.jpg", text1, layout="side", image_position="left")
-            text2 = """ """
+            text2 = """ 
+            🔥
+Jo apne uthal-puthal wale krodh ko
+rok leta hai,
+wo sab par vijay pa leta hai.
+
+🐍
+Jo vyakti maaf kar deta hai,
+wo apna gussa
+aise chhod deta hai
+jaise saap apni purani khaal chhod deta hai.
+
+🌿 Kshama ki Mahima
+
+Jo insaan —
+
+gussa nahi karta
+
+dusron ki kadvi baatein ignore karta hai
+
+wajah hone par bhi shant rehta hai
+
+✨
+wo jeevan ke chaar lakshya pa leta hai:
+👉 Dharma, Arth, Kaam aur Moksha
+
+🕯️
+Socho —
+100 saal tak har mahine yagya karne wala
+aur
+jo kabhi gussa hi nahi karta,
+dono mein kaun bada hai?
+
+➡️ Jo gussa nahi karta, wahi mahaan hai.
+
+👦👧
+Bachche sahi-galat samajh nahi paate
+aur jhagadte rehte hain.
+🧠 Buddhimaan log kabhi unki nakal nahi karte.
+
+🌸 Devayani ka Dard
+
+Devayani ne pitaji ki baat suni,
+phir boli 😔 —
+
+🗣️
+“Pitaji,
+main jaanti hoon ki
+krodh aur kshama mein
+kaunsa zyada shaktishaali hai.
+
+Lekin jab
+ek shishya apne guru ka apmaan kare,
+toh agar guru usse maaf kar de,
+toh wo shishya kabhi sudharta nahi.”
+
+🏞️ Sahi Jagah ka Chunav
+
+Devayani boli:
+
+🗣️
+“Main us desh mein nahi rehna chahti
+jahan bura vyavhaar sahi maana jaye.
+
+Jo buddhi aur bhalaai chahte hain,
+unhe un logon ke beech nahi rehna chahiye
+jo —
+
+achhe logon ki burai karte hain
+
+achhe kul aur sanskaar ka mazaak udate hain
+
+📍
+Sabse achhi jagah wahi hoti hai
+jahan acharan aur pavitrata
+ki kadar hoti ho.”
+
+🔥 Ant ka Dukh
+
+Devayani ne kaha:
+
+🗣️
+“Sharmishtha ke kroor shabd
+mere dil ko aise jala rahe hain
+jaise sookhe lakdi ko aag jalati hai.
+
+Teenon lokon mein
+is se bada dukh aur kya ho sakta hai
+ki insaan apne shatruon ki pooja kare
+jabki khud ke paas kuch na ho?
+
+📜
+Buddhimaan kehte hain —
+aisi zindagi se toh
+mrityu bhi behtar hoti hai.”
+
+🌈 Is Section ki Moral (Seekh)
+
+✨
+
+Gussa jeet nahi deta, kshama jeet dilati hai
+
+Apmaan ko har baar maaf karna bhi galat ho sakta hai
+
+Sahi sangati aur sahi jagah bohot zaroori hoti hai
+
+Apna swaabhimaan kabhi nahi chhodna chahiye
+
+🌼 Section LXXIX yahin samaapt hota hai 🌼"""
             create_image_text_layout(text_content=text2, layout="full")
 
         # Section 1.7.16
         with st.expander("Section 1.7.16"):
-            text1 = """ """
+            text1 = """ 
+            Section LXXX : Shukracharya ka Krodh aur Devayani ka Nyay
+
+🕉️ Vaisampayana bole —
+
+Us samay Kavya (Shukracharya), jo Bhrigu-vansh ke shreshth the,
+bahut krodhit ho gaye.
+Wo seedhe Asura-raj Vrishaparvan ke paas gaye aur bina soch-vichaar ke bole 👇"""
             create_image_text_layout("attached_assets/chapter1/1.7.16.jpg", text1, layout="side", image_position="left")
-            text2 = """ """
+            text2 = """ 
+            🔥 Shukracharya ka Updesh aur Shaap-jaisa Vachan
+
+🗣️
+“Hey Raja!
+Paap turant phal nahi deta,
+lekin dheere-dheere, chupchaap
+apna asar dikhata hai.
+
+🍽️
+Jaise bhari bhojan kabhi pachta nahi,
+waise hi paap bhi kabhi nasht nahi hota.
+
+Uska phal ya toh
+👉 khud par,
+👉 putra par,
+👉 ya potra par
+avashya padta hai.”
+
+⚔️
+“Tumhare logon ne
+Brahmana Kacha ka vadh kiya —
+jo dharm gyani aur kartavya-nishth tha,
+aur wo mere ghar mein reh raha tha!
+
+😡
+Aur meri beti Devayani ka apmaan bhi hua.
+
+Isliye, hey Vrishaparvan,
+👉 main tumhe aur tumhare kul ko chhod raha hoon!
+Ab main yahan nahi reh sakta.”
+
+😨 Vrishaparvan ka Bhay aur Vinay
+
+Vrishaparvan ghabra gaya aur bola 🙏 —
+
+🗣️
+“O Bhargava!
+Aap satya aur dharma ke moort swaroop hain.
+Kripya hum par daya kijiye!
+
+Agar aap hume chhod denge,
+toh hum Asura log
+samudra ke tal mein jaakar chhupne ke siwa kuch nahi kar sakte.”
+
+💔 Shukracharya ka Spasht Faisla
+
+Shukracharya bole —
+
+🗣️
+“Mujhe tumhari parwah nahi —
+chahe tum samudra mein jao
+ya dishaon mein bhag jao.
+
+😔
+Main apni beti ka dukh nahi dekh sakta.
+Devayani meri jaan hai.
+Uske bina mera jeevan vyarth hai.
+
+🕯️
+Jaise Brihaspati Indra ka hit chahte hain,
+waise hi main bhi tumhara hit chahte aaya hoon.
+
+👉 Isliye, Devayani ko prasann karo.”
+
+👑 Vrishaparvan ka Atmasamarpan
+
+Vrishaparvan ne kaha —
+
+🗣️
+“O Shukracharya,
+Asuron ke paas jo kuch bhi hai —
+hathi, ghode, dhan, sampatti —
+sab aapka hai…
+yahan tak ki main khud bhi!”
+
+Shukracharya bole —
+
+🗣️
+“Agar sach mein aisa hai,
+toh jao —
+👉 Devayani ko santusht karo.”
+
+🌸 Devayani ki Shart
+
+Shukracharya ne sab Devayani ko bataya.
+Devayani ne turant kaha —
+
+🗣️
+“Agar pitaji sach mein sabke swami hain,
+toh Raja Vrishaparvan khud aakar mujhe yeh baat kahe.”
+
+Vrishaparvan aaye aur bole —
+
+🗣️
+“O Devayani,
+jo bhi tum chaho —
+chahe kitna hi kathin kyun na ho —
+main dene ko tayaar hoon.”
+
+Devayani boli —
+
+🗣️
+“👉 Sarmishtha,
+aur uske saath 1000 daasiyaan,
+meri seva karein.
+
+Aur jab mere pita mujhe vivaah ke liye den,
+tab Sarmishtha mere saath chale.”
+
+😔 Sarmishtha ka Balidan
+
+Vrishaparvan ne Sarmishtha ko bulaya.
+Daasi ne sandesh diya —
+
+🗣️
+“Devayani ke kehne par
+Shukracharya Asuron ko chhodne wale hain.
+Tumhe unki iccha poori karni hogi.”
+
+Sarmishtha ne bina virodh kaha —
+
+🗣️
+“Main khushi se Devayani ki seva karungi.
+Mere kaaran
+Shukracharya aur Devayani Asuron ko na chhodein,
+bas yahi meri chah hai.”
+
+👑
+Sarmishtha 1000 daasiyon ke saath palanquin mein aayi aur boli —
+
+🗣️
+“Main aur meri daasiyaan
+aapki seva mein samarpit hain.”
+
+Devayani ne taana maara —
+
+🗣️
+“Main toh bhikh maangne wale ki beti hoon,
+aur tum pooje jaane wale ki —
+tum meri daasi kaise?”
+
+Sarmishtha ne shaant bhaav se kaha —
+
+🗣️
+“Apne parivaar ke kalyan ke liye
+yeh mera kartavya hai.
+Main aapke saath chalungi.”
+
+🌈 Ant: Devayani Santusht
+
+Devayani ne apne pita se kaha 😊 —
+
+🗣️
+“Pitaji,
+ab main santusht hoon.
+Ab mujhe pata chal gaya
+ki aapka gyaan aur tapasya vyarth nahi hai.”
+
+✨
+Is prakar Shukracharya khushi se Asura nagari mein pravesh karte hain,
+aur Danav unka bhakti-bhaav se poojan karte hain.
+
+🪔 Section LXXX ki Seekh (Moral)
+
+Paap ka phal avashya milta hai, chahe der se hi kyun na ho
+
+Guru aur beti ka apmaan sabse bada dosh hai
+
+Shakti se zyada nyay aur dhairya prabhavi hota hai
+
+Kabhi-kabhi balidan hi kul ko bachata hai
+
+🌼 Section LXXX yahin samapt hota hai 🌼"""
             create_image_text_layout(text_content=text2, layout="full")
 
         # Section 1.7.17
