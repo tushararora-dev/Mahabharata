@@ -12377,72 +12377,1480 @@ Kabhi-kabhi balidan hi kul ko bachata hai
 
         # Section 1.7.17
         with st.expander("Section 1.7.17"):
-            text1 = """ """
+            text1 = """ 
+            Vaisampayana bole—
+Kuch samay baad,
+Devayani, jo bahut sundar thi,
+maze ke liye phir usi jungle mein aayi.
+
+Uske saath thi Sarmishtha
+aur unki hazaar saheliyan.
+Sab milkar jungle mein ghoomne lagi.
+Phoolon ka madhu piya,
+phal khaye,
+aur hasi–mazaak kiya.
+Sab bahut khush the 😊"""
             create_image_text_layout("attached_assets/chapter1/1.7.17.jpg", text1, layout="side", image_position="left")
-            text2 = """ """
+            text2 = """ 
+            Usi waqt,
+Raja Yayati, jo Nahusha ke putra the,
+shikaar karte hue wahan aa gaye.
+Woh thake hue the
+aur pyaas se pareshaan the.
+
+Raja ne dekha—
+Devayani, Sarmishtha
+aur kai sundar kanyaayein
+divya gehno se saji hui hain.
+
+Devayani sabse alag chamak rahi thi ✨
+Woh aaraam se leti hui thi,
+aur Sarmishtha pyaar se uske pair daba rahi thi.
+
+Raja Yayati bole—
+
+“O sundar kanyaao,
+tum dono kaun ho?
+Tumhare maa–baap kaun hain?
+
+Lagta hai yeh sab tumhari seva mein hain.”
+
+Devayani ne shaant swar mein kaha—
+
+“O Maharaj, dhyaan se suniye.
+
+Main Shukracharya ki beti hoon,
+jo Asuron ke guru hain.
+
+Yeh meri saheli Sarmishtha hai.
+
+Woh Vrishaparvan ki beti hai,
+jo Asuron ke raja hain.
+
+Woh mere saath har jagah rehti hai.”
+
+Raja ne poochha—
+
+“Par itni sundar aur rajkumari hote hue bhi,
+yeh tumhari seva kyun karti hai?”
+
+Devayani boli—
+
+“Maharaj,
+sab kuch bhagya se hota hai.
+
+Aap raja lagte ho,
+aapki boli bhi vedon jaisi pavitra hai.
+
+Ab aap apna parichay dijiye.”
+
+Raja Yayati bole—
+
+“Main Yayati hoon.
+
+Brahmacharya ke samay
+maine vedon ka gyaan praapt kiya.
+
+Main raja ka putra hoon
+aur khud bhi raja hoon.”
+
+Devayani ne poochha—
+
+“Maharaj,
+aap yahan kyun aaye ho?
+Phool lene, machhli pakadne,
+ya shikaar ke liye?”
+
+Yayati bole—
+
+“Main shikaar ke peechhe tha.
+
+Bahut thak gaya hoon
+aur mujhe paani chahiye.
+
+Agar aap kahe,
+toh main chala jaaun.”
+
+Devayani ne muskurakar kaha 😊
+
+“Hum sab aapke aadesh mein hain.
+
+Aap mere mitra aur swami banein.
+
+Aapka kalyan ho.”
+
+Yayati bole (vinamrata se)—
+
+“Sundari,
+main aapke yogya nahi hoon.
+
+Aap Shukracharya ki beti ho.
+
+Aapke pita toh
+kisi bade raja ko bhi
+aap nahi denge.”
+
+Devayani boli—
+
+“Pehle bhi Brahman aur Kshatriya
+ek–dusre se vivaah karte rahe hain.
+
+Aap Rishi ke putra ho
+aur khud bhi Rishi ho.
+
+Isliye,
+mujhse vivaah kijiye.”
+
+Yayati bole—
+
+“Sab varna ek hi sharir se bane hain,
+par unke kartavya alag hain.
+
+Brahman sabse shreshth hote hain.”
+
+Devayani ne dridh swar mein kaha—
+
+“Mera haath
+aaj tak kisi ne nahi chhua.
+
+Aaj aapne chhua hai,
+isliye main aapko apna pati maanti hoon.
+
+Ab koi aur is haath ko nahi chhoo sakta.”
+
+Yayati bole—
+
+“Buddhiman log kehte hain—
+
+krodhit Brahman
+zehrele saanp
+aur bhadakti aag se bhi
+zyada khatarnaak hota hai.”
+
+Devayani ne poochha—
+
+“Aisa kyun, Maharaj?”
+
+Yayati bole—
+
+“Saanp ek ko maarta hai.
+Talwaar bhi ek ko.
+
+Par krodhit Brahman
+poore rajya ka vinaash kar sakta hai.
+
+Isliye,
+bina aapke pita ki anumati ke
+main vivaah nahi kar sakta.”
+
+Devayani boli—
+
+“Agar pita ji anumati de den,
+toh aap vivaah sweekaar karenge.
+
+Phir chinta kis baat ki?”
+
+Devayani ne turant
+ek daasi ko
+Shukracharya ke paas bheja.
+
+Sab baat batayi gayi.
+
+Thodi der mein,
+Shukracharya swayam aaye.
+
+Raja Yayati ne
+haath jodkar
+unka samman kiya 🙏
+
+Devayani ne kaha—
+
+“Pita ji,
+yahi Raja Yayati hain.
+
+Mushkil samay mein
+inhone mera haath thaama.
+
+Kripya mujhe inhe de dijiye.
+
+Main kisi aur se vivaah nahi karungi.”
+
+Shukracharya bole—
+
+“Beti,
+tumne inhe apna pati maan liya hai.
+
+Main tumhe Yayati ko deta hoon.
+
+O Nahusha-putra,
+ise apni patni ke roop mein sweekaar karo.”
+
+Yayati ne kaha—
+
+“Maharaj,
+mujhe vardaan dijiye
+ki is vivaah se
+mujhe koi paap na lage.”
+
+Shukracharya bole—
+
+“Chinta mat karo.
+Main tumhe paap se mukt karta hoon.
+
+Devayani ka dharm se palan karo
+aur sukh pao.
+
+Par ek baat yaad rakhna—
+
+Sarmishtha ka sammaan karna,
+par use patni ka adhikaar nahi dena.”
+
+Raja Yayati ne
+Shukracharya ke chaaron or
+pradakshina ki.
+
+Vidhi–vidhaan se
+vivaah sampann hua 🎉
+
+Devayani, Sarmishtha
+aur sab saheliyon ke saath
+Raja Yayati
+khushi–khushi
+apni rajdhani laut gaye।
+
+🌸 Moral (Seekh)
+
+✨ Vinamrata aur maryada sabse badi shakti hoti hai
+
+✨ Har nirnay guru aur bado ki anumati se lena chahiye
+
+✨ Bhagya aur dharm milkar jeevan ka raasta banate hain"""
             create_image_text_layout(text_content=text2, layout="full")
 
         # Section 1.7.18
         with st.expander("Section 1.7.18"):
-            text1 = """ """
+            text1 = """ 
+            Vaisampayana bole—
+
+Yayati apni rajdhani wapas aaye.
+Shehar Indra ke nagar jaisa sundar tha.
+Unhone apni patni Devayani ko mahal mein sthapit kiya.
+Devayani ke kehne par, Sarmishtha ko garden ke paas, Ashoka trees ke nikat ek alag mahal diya gaya.
+
+Sarmishtha ke saath 1000 maidens rakhi gayi.
+Uske khane–peene aur kapdon ka poora dhyan rakha gaya.
+Lekin Yayati zyada samay Devayani ke saath hi rahe.
+Un dono ke jeevan mein kaafi saalon tak sukh aur anand raha 🌼"""
             create_image_text_layout("attached_assets/chapter1/1.7.18.jpg", text1, layout="side", image_position="left")
-            text2 = """ """
+            text2 = """ 
+            Samay beetne par Devayani maa bani.
+Usne ek sundar putra ko janm diya.
+
+Kaafi saal baad, Sarmishtha bhi jawan ho gayi.
+Uske mann mein chinta aa gayi.
+
+Usne socha,
+“Devayani maa ban chuki hai.
+Mera samay bhi aa gaya hai.
+Agar aisa hi chalta raha,
+to meri zindagi bekaar chali jayegi.”
+
+Uske mann mein ek nischay bana—
+“Yayati mujhe bhi ek putra dein.”
+
+Ek din Yayati garden mein ghoomte hue
+usi Ashoka van mein aa gaye.
+Wahan Sarmishtha khadi thi.
+Koi aur wahan nahi tha.
+
+Sarmishtha ne vinamrata se kaha,
+“Rajaji, aap jaante hain main achhe kul mein janmi hoon.
+Mera samay aa chuka hai.
+Kripya mujhe nirash na karein.”
+
+Yayati ne kaha,
+“Tum sundar ho, susheel ho.
+Lekin Shukraacharya ne mujhe mana kiya hai
+ki main tumhe patni jaisa samman na doon.”
+
+Sarmishtha boli,
+“Rajaji, main Devayani ki daasi hoon.
+Aap Devayani ke pati hain.
+Isliye aap mere bhi swami hue.
+Mujhe sirf apna dharm poora karna hai.”
+
+Yayati dharm aur kartavya mein ulajh gaye.
+Unhone socha aur phir Sarmishtha ki baat maan li.
+
+Kuch samay baad, dono alag ho gaye
+aur apni-apni jagah laut gaye.
+
+Samay beetne par, Sarmishtha bhi maa bani.
+Usne ek sundar putra ko janm diya.
+Bachcha devta jaisa tejashvi tha ✨
+
+Moral:
+👉 Zindagi mein galat faisle bhi aage chal kar bade parinaam laate hain.
+👉 Dharm aur self-control hi insaan ko sahi raah par rakhte hain."""
             create_image_text_layout(text_content=text2, layout="full")
 
         # Section 1.7.19
         with st.expander("Section 1.7.19"):
-            text1 = """ """
+            text1 = """ 
+            Vaisampayana bole—
+
+Jab Devayani ne suna ki Sarmishtha ke yahan bhi bachcha paida hua hai,
+toh uske mann mein jalan (jealousy) aa gayi 😔
+Uske dil mein Sarmishtha ke liye kadvi soch bhar gayi.
+
+Devayani seedha Sarmishtha ke paas gayi aur boli,
+“Tumne ye kaunsa paap kiya?
+Tum apni ichha ke vash mein kaise aa gayi?”
+
+Sarmishtha shaant rahi aur boli,
+“Ek mahaan Rishi mere paas aaye the.
+Wo Vedo ke gyata the, pavitra aur dharmik.
+Maine unse dharm ke anusaar vardaan manga.
+Mera beta unhi ka hai.”"""
             create_image_text_layout("attached_assets/chapter1/1.7.19.jpg", text1, layout="side", image_position="left")
-            text2 = """ """
+            text2 = """ 
+            Devayani boli,
+“Agar aisa hai toh mujhe gussa nahi.
+Par agar tum un Rishi ka naam aur kul jaanti ho,
+toh mujhe batao.”
+
+Sarmishtha boli,
+“Wo tapasya aur tej mein Surya ke saman the.
+Unhe dekh kar mujhe aur kuch puchne ki zarurat hi nahi lagi.”
+
+Devayani hans padi 😊
+Aur boli,
+“Agar sach mein aisa hai,
+toh mujhe koi shikayat nahi.”
+
+Dono baat karke alag ho gaye.
+Devayani mahal laut gayi.
+
+Samay beetne par—
+Devayani ke do putra hue:
+👉 Yadu aur Turvasu
+
+Aur Sarmishtha ke teen putra hue:
+👉 Drahyu, Anu aur Puru
+
+Ek din Devayani aur Yayati jungle ke ek shaant hissa mein ghoomne gaye.
+Wahan unhone teen sundar bachchon ko khelte dekha ✨
+
+Devayani hairaan ho gayi.
+Usne pucha,
+“Ye bachche kaun hain?
+Ye toh bilkul aap jaise lagte hain, rajaji!”
+
+Bina ruke Devayani ne bachchon se puch liya,
+“Tumhare pita kaun hain?
+Sach batao.”
+
+Bachchon ne ungli se Yayati ki taraf ishara kiya
+aur bole,
+“Hamaari maa Sarmishtha hai.”
+
+Bachche Yayati ke paas bhaag kar gaye
+aur unke ghutno se lipatna chaha.
+Par Devayani ke saamne
+Yayati unhe gale nahi laga sake.
+
+Bachche dukhi ho kar rote hue
+apni maa ke paas laut gaye 😢
+
+Ab Devayani sab samajh gayi.
+Usne gusse mein Sarmishtha se kaha,
+“Tum meri seva mein rehte hue
+mujhe dhokha dene ki himmat kaise kar sakti ho?”
+
+Sarmishtha boli,
+“Maine aapse jhooth nahi bola.
+Maine dharm ke anusaar hi kiya.
+Jab aapne Yayati ko pati chuna,
+maine bhi unhe apna pati maana.”
+
+Ye sun kar Devayani aur bhi dukhi ho gayi.
+Wo boli,
+“Rajaji, aapne mujhe dhokha diya!
+Main yahan aur nahi rahungi!”
+
+Aankhon mein aansu lekar
+Devayani apne pita Shukracharya ke paas chali gayi.
+Yayati bhi pichhe-pichhe gaye,
+par Devayani nahi ruki.
+
+Devayani ne apne pita se kaha,
+“Pitaji, yahan dharm haar gaya hai.
+Sarmishtha ke teen putra hain,
+aur mere sirf do.
+Yayati dharm jaante hue bhi galat raah par chale gaye.”
+
+Shukraacharya gusse mein bole 😠
+“Yayati!
+Tum dharm jaante hue bhi paap kar rahe ho.
+Isliye tumhari jawani abhi ke abhi chali jayegi!”
+
+Yayati ghabra gaye.
+Unhone kaha,
+“Pitaji, maine ye kaam dharm ke liye kiya tha.
+Agar main Sarmishtha ko mana karta,
+toh mujhe bhi paap lagta.”
+
+Shukraacharya bole,
+“Tum mere adheen ho.
+Tumhe meri aagya ka intezaar karna chahiye tha.
+Tum doshi ho.”
+
+Usi pal Yayati ki jawani chali gayi
+aur wo buddhe ho gaye 😔
+
+Yayati ne vinamrata se kaha,
+“Pitaji, mujhe abhi jeevan ka sukh nahi mila.
+Kripya kuch upaay batayein.”
+
+Shukraacharya bole,
+“Main apni baat wapas nahi leta.
+Par ek rasta hai—
+tum apni budhapa apne kisi putra ko de sakte ho.”
+
+Yayati bole,
+“Jo putra mujhe apni jawani dega,
+wo mera rajya sambhale
+aur yash aur dharm paaye.”
+
+Shukraacharya bole,
+“Tum jis putra ko chaho,
+us par apna budhapa daal sakte ho.
+Jo putra tumhari madad karega,
+wahi tumhara uttaradhikari hoga.”
+
+Moral:
+👉 Jab hum jaante hue bhi galat kaam karte hain,
+toh uska phal hamesha milta hai.
+👉 Dharm, sach aur self-control hi jeevan ko sahi disha dete hain."""
             create_image_text_layout(text_content=text2, layout="full")
 
         # Section 1.7.20
         with st.expander("Section 1.7.20"):
-            text1 = """ """
+            text1 = """ 
+            Vaisampayana bole—
+
+Yayati, jo ab budhape se peedit ho chuke the,
+apni rajdhani laut aaye.
+Unhone apne sabse bade putra Yadu ko bulaya.
+
+Yayati bole,
+“Beta Yadu,
+Shukracharya ke shraap se mujhe budhapa aa gaya hai.
+Safed baal, kamzori aur thakaan.
+Par mera mann abhi youth ke sukh se bhara nahi hai."""
             create_image_text_layout("attached_assets/chapter1/1.7.20.jpg", text1, layout="side", image_position="left")
-            text2 = """ """
+            text2 = """ 
+            Tum meri ye budhapa aur kamzori le lo,
+aur mujhe apni jawani de do.
+Hazaar saal baad,
+main tumhe tumhari jawani wapas kar dunga.”
+
+Yadu ne shaant par spasht shabdon mein kaha,
+“Pitaji, budhapa bahut kasht deta hai.
+Na dhang se khana, na peena,
+na taakat, na utsaah.
+Shareer dheere ho jaata hai,
+kaam karne ki shakti chali jaati hai.
+
+Isliye pitaji,
+main aapka budhapa nahi le sakta.
+Aapke aur bhi putra hain.
+Kripya unse puchiye.”
+
+Yayati dukhi hue 😔
+aur bole,
+“Tum mere hriday se janme ho,
+phir bhi meri madad nahi ki.
+Isliye, Yadu,
+tumhare vansh se koi raja nahi banega.”
+
+Phir Yayati ne Turvasu ko bulaya.
+Aur wahi baat dohrayi.
+
+Turvasu bola,
+“Pitaji, budhapa toh
+sukh, sundarta, buddhi
+sab kuch chheen leta hai.
+Main ise sweekar nahi kar sakta.”
+
+Yayati gusse mein bole 😠
+“Tum bhi mere hriday se janme ho,
+par meri madad nahi ki.
+Isliye tumhara vansh
+ashuddh riti-rivaaj wale logon mein rahega,
+jahaan dharm ka maan nahi hoga.”
+
+Phir Yayati ne Drahyu se kaha,
+“Beta, tum mera budhapa le lo.
+Main tumhari jawani se jeevan ka sukh bhogna chahta hoon.”
+
+Drahyu ne kaha,
+“Pitaji, budhe log
+na ghode, na rath,
+na raj-sukh bhog sakte hain.
+Unki awaaz bhi kamzor ho jaati hai.
+Main ye nahi le sakta.”
+
+Yayati bole,
+“Tum bhi mana karte ho.
+Isliye tum aise desh ke raja hoge
+jahaan na sadkein hongi,
+na rath, na ghode.
+Log sirf kashti aur beedo se yatra karenge.”
+
+Phir Yayati ne Anu ko bulaya.
+Aur wahi prarthana ki.
+
+Anu bola,
+“Pitaji, budhapa
+shuddhi aur kartavya mein badha daalta hai.
+Aise mein yajna aur dharm ka paalan mushkil ho jaata hai.
+Main ise sweekar nahi kar sakta.”
+
+Yayati bole,
+“Tum bhi mana karte ho.
+Isliye tumhare vansh mein
+jawani milte hi mrityu aa jaayegi.
+Tum yajna bhi nahi kar paoge.”
+
+Ant mein Yayati ne apne sabse chhote putra Puru ko bulaya.
+Aur bole,
+“Puru, tum mere sabse chhote ho,
+par aaj sabse bade sabit hoge.
+
+Mujhe budhapa aa gaya hai.
+Par mera mann abhi trupt nahi.
+Tum mera budhapa le lo,
+aur mujhe apni jawani de do.
+Hazaar saal baad
+main sab kuch wapas kar dunga.”
+
+Puru ne vinamrata se sir jhukaya 🙏
+aur bola,
+“Pitaji,
+aapka aadesh mere liye sab kuch hai.
+Main aapka budhapa sweekar karta hoon.
+Aap meri jawani le lijiye
+aur jeevan ka sukh bhogiye.”
+
+Yayati ka mann bhar aaya ❤️
+aur bole,
+“Puru, tumne mujhe prasann kar diya.
+Tumhare rajya ke logon ki
+saari ichchhaayein poori hongi.”
+
+Itna kehkar,
+Yayati ne Shukracharya ka smaran kiya
+aur apna budhapa Puru ko de diya,
+aur Puru ki jawani swayam le li.
+
+Moral:
+👉 Jo santaan niswaarth bhav se
+apne mata-pita ka kartavya nibhati hai,
+wahi sach mein sabse mahan hoti hai.
+👉 Tyag aur vinamrata
+jeevan mein sabse bada bal hain."""
             create_image_text_layout(text_content=text2, layout="full")
 
         # Section 1.7.21
         with st.expander("Section 1.7.21"):
-            text1 = """ """
+            text1 = """ 
+            Vaisampayana bole—
+
+Yayati, Nahusha ke putra,
+jab Puru ki jawani paakar phir se yuva ho gaye,
+toh unka mann bahut prasann ho gaya 😊
+
+Unhone phir se jeevan ke sukh bhogne shuru kiye.
+Ritu ke hisaab se,
+shakti ke hisaab se,
+aur dharm ke daayre mein rehkar.
+
+Yayati ne kabhi adharm ka rasta nahi liya.
+Unhone—"""
             create_image_text_layout("attached_assets/chapter1/1.7.21.jpg", text1, layout="side", image_position="left")
-            text2 = """ """
+            text2 = """ 
+            Devtaon ko yagya se prasann kiya
+
+Pitron ko shraddh se santusht kiya
+
+Gareebon ko daan diya
+
+Brahmanon ki ichchha poori ki
+
+Atithiyon ko bhojan aur jal diya
+
+Vaishyon ko suraksha di
+
+Shudron se daya se vyavhaar kiya
+
+Aur apraadhi logon ko nyay ke saath dand diya
+
+Is tarah,
+Yayati ne apni praja ko
+bilkul Indra jaise raja ki tarah paala 👑
+
+Hazaar saal tak,
+jawani ke saath,
+saare sukh unke vash mein the.
+Phir bhi,
+unka mann kabhi poori tarah bhara nahi.
+
+Unhe sirf ek baat ka dukh tha—
+“Ye hazaar saal kab khatam ho jayenge?”
+
+Hazaar saal beet gaye.
+Tab Yayati ne apne putra Puru ko bulaya.
+
+Yayati bole,
+“Beta Puru,
+tumhari jawani se maine jeevan ke sab sukh bhog liye.
+Par ek sach samajh aaya hai.
+
+Iccha kabhi poori nahi hoti.
+Jitna bhogo,
+utni aur badh jaati hai.
+Jaise ghee daalne se aag aur bhadakti hai 🔥
+
+Agar kisi ke paas
+poori prithvi ka dhan, sona, ratn,
+pashu aur sukh bhi ho,
+tab bhi mann santusht nahi hota.
+
+Sachchi khushi unko milti hai
+jo laalach chhod dete hain.
+Meri icchha hazaar saal tak zinda rahi,
+par kam nahi hui.
+
+Ab main sab tyag karunga.
+Jungle mein jaakar,
+hiranon ke saath,
+shant jeevan jeeyunga 🌿
+
+Puru,
+tumne mera sabse bada upkaar kiya hai.
+Ye lo, tumhari jawani wapas.
+Aur ye lo, mera rajya bhi tumhara.
+Tum hi mere sachche putra ho.”
+
+Yeh kehkar,
+Yayati ne apna budhapa wapas le liya,
+aur Puru ne apni jawani phir paayi.
+
+Yayati chahte the ki
+Puru ko hi raja bana dein.
+Par sab vargon ke log bole—
+
+“Rajan,
+Yadu sabse bada beta hai.
+Devayani ka putra hai.
+Use chhodkar Puru ko rajgaddi kaise mile?”
+
+Yayati shaant swar mein bole,
+“Jo beta pita ki baat maane,
+jo unka hit chahe,
+wahi sabse uttam hota hai.
+
+Yadu, Turvasu, Drahyu aur Anu—
+sab ne meri baat nahi maani.
+Sirf Puru ne
+mera kasht apnaya.
+
+Shukracharya ne bhi kaha tha—
+jo beta pita ka aadesh maane,
+wahi raja banega.
+
+Isliye,
+Puru hi mera uttaradhikari hoga.”
+
+Logon ne bhi kaha,
+“Yeh sahi hai.
+Achha beta,
+chahe chhota ho,
+rajya ka adhikari hota hai.”
+
+Is tarah,
+Puru raja bane 👑
+Aur Yayati ne rajya chhodkar
+vanprastha le liya.
+
+Aage chal kar—
+
+Yadu ke vansh se Yadava
+
+Turvasu ke vansh se Yavana
+
+Drahyu ke vansh se Bhoja
+
+Anu ke vansh se Mleccha
+
+Aur Puru ke vansh se Paurava hue
+
+Aur usi Paurava vansh mein,
+hey raja,
+tumhara janm hua ✨
+
+Moral (Seekh):
+
+👉 Icchha kabhi poori nahi hoti,
+par tyag se shanti milti hai.
+👉 Jo santaan mata-pita ka aadesh maane,
+wahi sachchi uttaraadhikari hoti hai.
+👉 Asli rajya bahar nahi,
+mann ke niyantran mein hota hai."""
             create_image_text_layout(text_content=text2, layout="full")
 
         # Section 1.7.22
         with st.expander("Section 1.7.22"):
-            text1 = """ """
+            text1 = """ 
+            Vaisampayana bole—
+
+Jab Raja Yayati, Nahusha ke putra,
+apne pyaare putra Puru ko rajgaddi par bithakar,
+bahut santusht ho gaye,
+toh unhone rajya chhod diya 👑➡️🌿
+
+Woh jungle chale gaye.
+Ab unka jeevan tha ek sanyasi ka jeevan."""
             create_image_text_layout("attached_assets/chapter1/1.7.22.jpg", text1, layout="side", image_position="left")
-            text2 = """ """
+            text2 = """ 
+            Jungle mein rehkar,
+Brahmanon ke saath,
+Yayati ne kathor vrat kiye.
+Woh phal aur mool khaate the.
+Garmi, thand, bhookh—
+sab kuch shant mann se sehte the.
+
+Unhone sanyam seekha.
+Aur santosh apnaya.
+
+Aakhirkaar,
+is pavitra jeevan ke phal ke roop mein,
+Raja Yayati swarg pahunch gaye ✨
+
+Swarg mein unhone sukh bhoga.
+Par kuch samay baad,
+Indra ne unhe swarg se neeche gira diya.
+
+Yeh bhi suna gaya hai,
+hey raja,
+ki girne ke baad bhi
+Yayati dharti tak nahi gire.
+Woh kuch samay akash ke madhya mein rahe.
+
+Phir kuch kaal baad,
+Vasuman, Ashtaka, Pratardana aur Sivi ke saath,
+Yayati ne phir se devlok mein pravesh kiya 🌟
+
+Tab Raja Janamejaya bole—
+
+“Hey Brahman,
+main yeh sab vistaar se sunna chahta hoon.
+
+Yayati ko pehle swarg mila,
+phir kyun gira diya gaya?
+Aur phir dobara swarg kaise mila?
+
+Woh toh dharti ke raja hote hue bhi
+Indra jaise mahaan the.
+Surya ke samaan tej tha unka.
+
+Kripya,
+unke jeevan ki poori kahani sunaiye—
+dharti ki bhi,
+aur swarg ki bhi.”
+
+Vaisampayana bole—
+
+“Main aapko
+Yayati ki pavitra aur adbhut kahani sunata hoon.
+Is kahani ko sunne se
+paap bhi nasht ho jaate hain 🙏
+
+Puru ko raja banakar,
+aur baaki putron ko unke karm ke anusaar sthaan dekar,
+Yayati jungle chale gaye.
+
+Wahan woh phal aur mool par jeevan bitate the.
+Unka mann aur indriyaan
+poori tarah niyantran mein the.
+
+Unhone—
+
+Devtaon aur Pitron ko yagya se prasann kiya
+
+Vanprastha ke niyam anusaar agni mein aahuti di
+
+Mehmaan aur yatriyon ka satkar kiya
+
+Khud zameen par gire daano se jeevan chalaya
+
+Hazaar saal tak
+unhone aisa hi pavitra jeevan jiya.
+
+Ek saal tak
+maun vrat rakha 🤫
+Sirf hawa par jeevit rahe,
+bina soye.
+
+Agla saal,
+charon taraf aag jalakar
+aur sir par surya ke saath,
+kathor tapasya ki 🔥☀️
+
+Phir chhe mahine tak,
+sirf ek pair par khade hokar,
+sirf praan-vayu par jeevit rahe.
+
+Aisi ghor tapasya ke baad,
+Raja Yayati ne
+swarg ko praapt kiya 🌈
+
+Unki kirti ne
+dharti aur swarg—
+dono ko prakashit kar diya.”
+
+Moral (Seekh):
+
+👉 Rajya chhodna kathin hota hai,
+par tyag se hi sachcha sukh milta hai.
+👉 Jo mann aur indriyon par niyantran rakhta hai,
+wahi uchch gati ko praapt karta hai.
+👉 Tapasya aur sanyam
+insaan ko dharti se swarg tak pahucha dete hain."""
             create_image_text_layout(text_content=text2, layout="full")
 
         # Section 1.7.23
         with st.expander("Section 1.7.23"):
-            text1 = """ """
+            text1 = """ 
+            Vaisampayana bole—
+
+Jab Raja Yayati swarg mein reh rahe the,
+toh devta, Sadhya, Marut aur Vasu
+sab unka samman karte the 🙏
+
+Unka mann poori tarah niyantran mein tha.
+Kabhi-kabhi woh devlok se
+Brahma-lok bhi jaate the.
+Bahut lambe samay tak
+woh swarg mein sukh se rahe."""
             create_image_text_layout("attached_assets/chapter1/1.7.23.jpg", text1, layout="side", image_position="left")
-            text2 = """ """
+            text2 = """ 
+            Ek din,
+Yayati Indra ke paas gaye.
+Baaton-baaton mein Indra ne poocha—
+
+“Hey raja,
+jab dharti par
+tumhare putra Puru ne tumhari budhaapa le li
+aur tumne use rajya diya,
+tab tumne usse kya shiksha di thi?”
+
+Yayati bole—
+
+“Mainne usse kaha—
+
+👉 Ganga aur Yamuna ke beech ka poora desh tumhara hai.
+Yeh dharti ka madhya bhaag hai.
+Baaki seema ke rajya
+tumhare bhaiyon ke liye hain.
+
+Phir mainne use kuch jeevan ke niyam sikhaye—
+
+👉 Gusse se door rehna.
+👉 Maaf karne wala
+hamesha gusse wale se bada hota hai.
+👉 Agar koi tumhe dukh de,
+toh tum bhi use dukh mat dena.
+
+Gussa agar dabaya na jaaye,
+toh woh pehle
+apne hi mann ko jala deta hai 🔥
+Aur jo gusse ko ignore karta hai,
+woh dusre ke gunn chheen leta hai.
+
+Kabhi bhi
+kadve aur kathor shabd mat bolna.
+Aise shabd
+teer ki tarah dil ko chubhte hain 🏹
+Aur insaan din-raat rota rehta hai.
+
+Jo log
+bolon se chot dete hain,
+samjho unke muh mein
+Rakshas baste hain.
+Unse bhagya aur samriddhi door bhaag jaati hai.
+
+Isliye—
+
+👉 Achhe logon ko apna model banao
+👉 Buddhiwaan logon ke acharan ko dekho
+👉 Bure logon ke shabdon ko ignore karo
+
+Teenon lokon mein
+devtaon ko prasann karne ka
+sabse achha tareeka hai—
+
+🌸 Dayaa
+🌸 Mitrata
+🌸 Daan
+🌸 Meethe shabd
+
+Isliye hamesha
+aise shabd bolo jo mann ko shant karein,
+jalane wale shabd kabhi mat bolo.
+
+Jo yogya ho,
+uska samman karo.
+Aur yaad rakho—
+
+👉 Hamesha do,
+👉 Kabhi maango mat.”
+
+Moral (Seekh):
+
+✨ Meethi boli sabse badi shakti hoti hai.
+✨ Gussa pehle apne hi mann ko nuksaan pahunchata hai.
+✨ Daya, shanti aur achhe shabd
+insaan ko swarg tak pahucha dete hain."""
             create_image_text_layout(text_content=text2, layout="full")
 
         # Section 1.7.24
         with st.expander("Section 1.7.24"):
-            text1 = """ """
+            text1 = """ 
+            Vaisampayana bole—
+
+Ek baar phir Indra ne Raja Yayati se poochha—
+
+“O rajan,
+tumne apne sab kartavya poore karke van mein tapasya ki.
+Batao, ascetic tapasya (tapas) mein
+tum apne aap ko kis ke barabar maante ho?”"""
             create_image_text_layout("attached_assets/chapter1/1.7.24.jpg", text1, layout="side", image_position="left")
-            text2 = """ """
+            text2 = """ 
+            Yayati ne kaha—
+
+“Hey Vasava (Indra),
+tapasya ke maamle mein
+mujhe manushyon, devtaon, Gandharvon
+ya bade Rishiyon mein
+apne barabar koi nazar nahi aata.”
+
+Yeh sunkar Indra bole—
+
+“O raja,
+tum apne se bade,
+apne barabar
+aur apne se chhote logon ko bhi
+unke gun jaane bina hi
+nazarandaz kar rahe ho.
+
+Isi ahankaar (ghamand) ki wajah se
+tumhare punya kam ho gaye hain,
+aur ab tumhe swarg se girna padega.”
+
+Yayati ne vinamrta se kaha—
+
+“O Sakra,
+agar mere punyon mein kami aa hi gayi hai
+aur mujhe swarg chhodna hi pade,
+toh kam se kam
+mujhe sajjan aur dharmic logon ke beech girne ka vardaan do.”
+
+Indra ne kaha—
+
+“Aisa hi hoga, O rajan.
+Tum buddhimaan aur dharmic logon ke beech giroge,
+aur wahan tumhe maan aur yash bhi milega.
+
+Lekin yaad rakhna—
+is anubhav ke baad
+kabhi bhi
+apne se bade ya barabar logon ka
+apmaan mat karna.”
+
+Yayati ka patan (fall)
+
+Itna kehkar,
+Raja Yayati swarg se neeche girne lage.
+
+Girते hue unhe dekha
+ek mahaan rajarshi ne—
+Ashtaka,
+jo dharm ke rakshak the.
+
+Ashtaka ne poochha—
+
+“Tum kaun ho, O yuvak?
+Tumhari sundarta Indra jaisi hai,
+tej agni aur surya ke saman hai!
+
+Aisa lagta hai jaise
+surya badalon se nikal raha ho ☀️
+
+Tumhe swarg ke marg se girte dekh
+sab log hairaan aur behosh ho rahe hain.
+
+Tumhari shakti Indra, Surya
+ya Vishnu ke saman lagti hai.
+Isliye hum sach jaanne aaye hain.
+
+Agar pehle tum humse poochhte
+toh hum kabhi tumse pehle prashn na karte.
+Par ab hum poochhte hain—
+tum kaun ho aur yahan kyun aa rahe ho?
+
+Darne ki koi baat nahi.
+Tum buddhimaan aur sajjan logon ke beech ho.
+Yahan par khud Indra bhi
+tumhe koi haani nahi pahuncha sakta.
+
+Sajjan log
+dukh mein pade hue logon ka sahara hote hain.
+Yahan sirf
+gunwaan aur dharmic log hi hain.
+
+Isliye nishchint raho,
+shanti se yahan raho.”
+
+Phir Ashtaka ne ek gehri seekh di—
+
+🔥 Agni hi garmi de sakti hai
+🌍 Prithvi hi beej ko jeevan deti hai
+☀️ Surya hi sabko prakash deta hai
+
+Usi tarah—
+Atithi (mehmaan) ko
+sajjan logon par
+adhikar hota hai
+aur woh samman ke yogya hota hai.
+
+Moral (Seekh):
+
+✨ Ahankaar punya ko nasht karta hai
+✨ Apne se bade aur barabar logon ka samman zaroori hai
+✨ Sajjan log girte hue ko bhi sahara dete hain
+✨ Vinamrata swarg ka raasta hai"""
             create_image_text_layout(text_content=text2, layout="full")
 
         # Section 1.7.25
         with st.expander("Section 1.7.25"):
-            text1 = """ """
+            text1 = """ 
+            Yayati bole—
+
+“Main Yayati,
+Nahusha ka putra aur Puru ka pita hoon.
+
+Maine sab praniyon ko tuchchh samjha,
+isi liye
+devlok, siddhon aur rishiyon ke lok se gira diya gaya hoon.
+Mere punya kam ho gaye hain
+aur isliye main neeche gir raha hoon.
+
+Tum sab mujhse umr mein chhote ho,
+isliye maine pehle pranam nahi kiya.
+Kyunki shastra kehte hain—
+jo umr, gyaan ya tapasya mein bada ho,
+wahi samman ke yogya hota hai.”"""
             create_image_text_layout("attached_assets/chapter1/1.7.25.jpg", text1, layout="side", image_position="left")
-            text2 = """ """
+            text2 = """ 
+            Ashtaka ka uttar
+
+Ashtaka bole—
+
+“O rajan,
+sirf umr se koi poojya nahi hota.
+Wahi sach mein poojya hota hai
+jo gyaan aur tapasya mein shreshth ho.”
+
+Yayati ka gyaan (Wisdom)
+
+Yayati ne kaha—
+
+“Paap, chaar prakaar ke punyon ko nasht kar deta hai.
+Ahankaar (ghamand)
+narak ka beej hota hai.
+
+Sajjan log kabhi dushton ka anusaran nahi karte.
+Ve aisa jeevan jeete hain
+jisse unka punya badhta hi rahe.
+
+Mere paas bhi bahut bada dharm-punya tha,
+lekin ab sab nasht ho chuka hai.
+Shayad main use phir kabhi
+apni poori shakti se bhi
+prapt na kar paoon.
+
+Meri dasha dekh kar,
+jo apna bhala chahte hain
+unhe chahiye ki
+ahankaar ko turant tyag dein.
+
+Jo vyakti—
+• bahut dhan paakar bhi ghamand nahi karta
+• saari vidya paakar bhi vinamr rehta hai
+• poore Vedo ka adhyayan karke bhi
+bhog se door tapasya mein jeeta hai
+
+wahi swarg ko prapt karta hai.
+
+Kisi ko dhan par garv nahi karna chahiye.
+Kisi ko vidya par bhi ghamand nahi hona chahiye.
+
+Destiny (Bhagya) ka Siddhant
+
+“Sansaar mein sab log ek jaise nahi hote.
+Bhagya sabse shaktishaali hai.
+
+Kabhi kabhi
+shakti aur purusharth dono vyarth ho jaate hain.
+
+Jo yeh samajh leta hai
+ki sukh aur dukh
+bhagya ke adheen hain,
+na ki sirf apne prayas ke,
+
+woh na atyadhik khush hota hai
+na atyadhik dukhi.
+
+Jab bhagya hi sarvashaktimaan ho,
+toh na shok uchit hai
+na hi ghamand.
+
+O Ashtaka,
+mujhe na bhay vyapt karta hai
+na hi main shok karta hoon.
+Kyunki mujhe pata hai—
+jo vidhaata ne likha hai,
+wahi hoga.”
+
+Aatma aur Moksha ka Gyaan
+
+“Keede, patange, ped-paudhe,
+sarisrip jeev, machhli, patthar, ghaas, lakdi—
+
+sab prani
+jab apne karmon ke bandhan se mukta hote hain,
+Parmatma mein vilin ho jaate hain.
+
+Sukh aur dukh
+dono asthaayi (temporary) hain.
+
+Isliye, O Ashtaka,
+main shok kyun karoon?
+
+Humein kabhi poori tarah pata nahi hota
+ki kaunsa karm dukh se bachayega.
+
+Isliye—
+dukh aane par shok nahi karna chahiye.”
+
+Ashtaka ka Prashn
+
+Yayati, jo har gun se yukt the
+aur Ashtaka ke nana (maternal grandfather) bhi the,
+ab bhi aakash mein sthit the.
+
+Ashtaka ne phir poochha—
+
+“O rajaon ke raja,
+kripya mujhe bataiye—
+tum kaun-kaun se lokon mein rahe,
+kitne samay tak unka anand liya?
+
+Tum dharm ki baatein
+bilkul mahaan rishiyon ki tarah bolte ho.”
+
+Yayati ka Swarg Lok ka Varnan
+
+Yayati bole—
+
+“Main prithvi par
+poori dharti ka samraat tha.
+
+Use chhod kar
+maine apne punyon se
+kai unche lok prapt kiye.
+
+Pehle maine
+ek hazaar varsh tak
+uncha lok bhoga.
+
+Phir maine prapt kiya
+Indra ka lok—
+jo sau yojan tak phaila hua tha
+aur jisme hazaar dwar the.
+
+Wahan bhi
+maine hazaar varsh bitaye.
+
+Uske baad
+main Brahma ke lok mein gaya—
+jahan budhapa aur kshay nahi hota,
+jise paana bahut kathin hai.
+
+Wahan bhi
+maine hazaar varsh vyateet kiye.
+
+Phir main
+Vishnu ke lok mein gaya
+aur wahan bhi anand liya.
+
+Main Nandana van mein
+das lakh varsh tak raha,
+apsaraon ke saath khela,
+sundar vrikshon aur sugandh ka anand liya.
+
+Punya ka Ant
+
+“Lekin ek din
+ek bhayankar dev-doot ne
+teen baar zor se pukara—
+
+‘Nashṭ! Nashṭ! Nashṭ!’
+
+Us pal mere saare punya samapt ho gaye.
+
+Devta aakash mein ro rahe the—
+
+‘Haay! Yayati gir raha hai,
+uske saare punya nasht ho gaye!’
+
+Girte hue maine poochha—
+‘Mujhe kin sajjan logon ke beech girna hai?’
+
+Unhone tumhara
+yeh yagya-sthal dikhaya.
+
+Havankund se uthti dhuaan,
+ghee ki sugandh se marg pehchaan kar
+main yahan aaya hoon—
+prasann hoon ki
+mujhe tum jaise dharmic log mile.”
+
+🌼 Moral (Seekh):
+
+🔹 Ahankaar sabse bada patan hai
+
+🔹 Dhan, vidya aur swarg bhi asthaayi hain
+
+🔹 Bhagya ko samajhne wala na dukhi hota hai, na ghamandi
+
+🔹 Vinamrta aur gyaan hi sacha swarg hai"""
             create_image_text_layout(text_content=text2, layout="full")
 
         # Section 1.7.26
         with st.expander("Section 1.7.26"):
-            text1 = """ """
+            text1 = """ 
+            Section XC: Ashtaka ne poochha—
+
+“O Maharaj Yayati,
+tum apni ichchha se koi bhi roop le sakte the.
+Tum Nandana van mein das lakh saal rahe.
+Phir tumhe wahan se kyun jaana pada?
+Tum yahan kaise aa gaye?”
+
+Yayati ka uttar (Truth of Heaven)
+
+Yayati bole—
+
+“Jaise dharti par
+jab kisi ka dhan khatam ho jaata hai,
+toh rishtedaar aur dost use chhod dete hain,
+
+waise hi swarg mein bhi hota hai.
+
+Jiska dharm (punya) khatam ho jaata hai,
+use devta bhi chhod dete hain.
+Indra ke saath sab devta
+mujhe chhod kar aage badh gaye.”"""
             create_image_text_layout("attached_assets/chapter1/1.7.26.jpg", text1, layout="side", image_position="left")
-            text2 = """ """
+            text2 = """ 
+            Ashtaka ka sawaal
+
+Ashtaka bole—
+
+“Par Maharaj,
+insaan swarg mein rehkar bhi
+apna dharm kaise kho deta hai?
+
+Aur kaunse karm se
+kaunse lok milte hain?
+Aap toh mahaan purushon ke gyaan ko jaante ho.”
+
+Ghamand ka sabse bada paap
+
+Yayati ne kaha—
+
+“O Rajan,
+jo apni hi badaai karta hai,
+use Bhauma naam ke narak ka bhog karna padta hai.
+
+Aise log marne ke baad
+dharti par apni santaan ke roop mein dikhte hain,
+lekin sirf isliye
+taaki pakshi aur jaanvar
+unke sharir ko kha sakein.
+
+Isliye,
+apni tareef karna
+sabse ganda aur khatarnaak dosh hai.
+Isse hamesha door rehna chahiye.”
+
+Ashtaka ka aur prashn
+
+Ashtaka ne poochha—
+
+“Jab sharir mar jaata hai
+aur jal kar raakh ho jaata hai,
+toh insaan kahan jaata hai?
+
+Bhauma narak toh dharti par dikhta hi nahi!”
+
+Janm–Mrityu ka rahasya
+
+Yayati bole—
+
+“Sharir ke nasht hone ke baad,
+jeev apne karmon ke anusar
+maa ke garbh mein phir pravesh karta hai,
+ek bahut sookshma roop mein.
+
+Yeh hi Bhauma narak hai—
+kyunki yahan jeev
+baar-baar janm leta hai
+aur moksha ki disha mein
+kadam hi nahi badhata.
+
+Kuchh log
+60 hazaar saal,
+kuchh 80 hazaar saal swarg mein rehte hain,
+phir wapas gir jaate hain.
+
+Girte waqt,
+unke apne hi rishtedaar
+(putra, potra)
+Rakshas jaise ban jaate hain,
+aur unhe
+moksha ke marg se bhatka dete hain.”
+
+Jeev ka sharir mein aana
+
+Yayati aage bole—
+
+“Swarg se girkar
+jeev pehle paani mein rehta hai.
+Wahi paani
+beej ban jaata hai.
+
+Maa ke garbh mein jaakar
+wahi beej
+dheere-dheere
+bhroon, phir bachcha banta hai—
+jaise phool se phal banta hai.
+
+Kabhi ped,
+kabhi jaanvar,
+kabhi insaan—
+yeh sab karm ke hisaab se hota hai.”
+
+Indriyon ka vikas
+
+Yayati ne samjhaya—
+
+“Janm ke baad—
+kaan se shabd,
+aankh se roop,
+naak se sugandh,
+jeebh se swaad,
+sharir se sparsh,
+aur mann se vichaar mehsoos hote hain.
+
+Is tarah
+sookshma aatma
+sthool sharir paati hai.”
+
+Mrityu ke baad kya hota hai?
+
+Yayati bole—
+
+“Mrityu ke baad
+jeev sookshma roop mein
+sapne ki tarah sab kuchh yaad rakhta hai.
+
+Punya wale
+uchchh yoni paate hain,
+paapi log
+keede-makode ban jaate hain.”
+
+Swarg ke saat dwar (Seven Gates of Heaven)
+
+Ashtaka ne poochha—
+
+“Phir kaise
+wapas janm se chhutkaara milta hai?”
+
+Yayati bole—
+
+“Swarg ke saat dwar hain—
+1️⃣ Tapasya
+2️⃣ Daya
+3️⃣ Shant mann
+4️⃣ Indriyon par niyantran
+5️⃣ Lajja (vinamrta)
+6️⃣ Saralta
+7️⃣ Sab jeevon par karuna
+
+Lekin ghamand
+in sab ko nasht kar deta hai.
+
+Jo vyakti
+gyaan paakar khud ko mahaan samajhta hai
+aur doosron ko neecha dikhata hai,
+
+woh Brahma lok bhi prapt nahi kar paata.
+
+Padhai, maun, yagya aur pooja—
+yeh bhay door karte hain.
+Par jab inmein ghamand aa jaaye,
+toh yahi bhay ka kaaran ban jaate hain.”
+
+Antim seekh (Final Moral)
+
+Yayati ne kaha—
+
+“Mainne itna daan kiya,
+itne yagya kiye,
+itna padha—
+yeh soch hi patan ka mool hai.
+
+Jo log
+nirakaar, avinaashi Brahma ko
+apna sahara bana lete hain,
+
+wahi is jeevan mein bhi
+aur agle jeevan mein bhi
+shanti aur sukh paate hain.”
+
+🌼 Moral (Bachchon ke liye seekh):
+
+🌱 Ghamand sabse bada dushman hai
+
+🌱 Gyaan ho, par vinamrta zaroor ho
+
+🌱 Daya aur karuna hi swarg ka raasta hai
+
+🌱 Janm-mrityu se mukti tab milti hai jab ahankaar chhod diya jaaye"""
             create_image_text_layout(text_content=text2, layout="full")
 
         # Section 1.7.27
