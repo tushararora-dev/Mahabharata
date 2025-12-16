@@ -13855,72 +13855,1418 @@ shanti aur sukh paate hain.”
 
         # Section 1.7.27
         with st.expander("Section 1.7.27"):
-            text1 = """ """
+            text1 = """
+            Is section mein Ashtaka aur Maharaj Yayati ke beech
+jeevan ke chaar ashramon aur Muni (silent sage) ke dharm par
+gehra samvaad hota hai.
+
+Main ise asaan bhaasha mein samjha raha hoon 👇"""
             create_image_text_layout("attached_assets/chapter1/1.7.27.jpg", text1, layout="side", image_position="left")
-            text2 = """ """
+            text2 = """ 
+            🔱 Chaar Ashram (Modes of Life)
+1️⃣ Brahmacharya (Student Life)
+
+Yayati kehta hai:
+
+Guru ke ghar rahe
+
+Guru bulaye tabhi padhai kare
+
+Bina kahe guru ki seva kare
+
+Guru se pehle uthe, baad mein soye
+
+Vinamra ho, indriyon par niyantran rakhe
+
+Satark, dhairyavaan aur adhyayan mein laga rahe
+
+👉 Tabhi gyaan safal hota hai
+
+2️⃣ Grihastha (Householder Life)
+
+Upanishadon ke anusaar:
+
+Imaandari se dhan kamaye
+
+Yagya kare
+
+Daan de
+
+Atithi ka satkar kare
+
+Bina baant ke kuchh bhi na bhoge
+
+👉 Khud khaye, par doosron ko bhool jaaye — yeh paap hai
+
+3️⃣ Bhikshu / Sanyasi (Renunciate)
+
+Sacha Bhikshu wahi hai jo:
+
+Mehnat ya kala se paisa na kamaye
+
+Indriyon ko vash mein rakhe
+
+Sansaar se asang rahe
+
+Ghar mein na rahe
+
+Patni na ho
+
+Roz thoda-thoda chal kar desh bhraman kare
+
+👉 Uska jeevan hi sadhna hota hai
+
+4️⃣ Vanaprastha (Forest Dweller)
+
+Jab bhog ki ichha shaant ho jaaye
+
+Sampatti ka lobh chhoot jaaye
+
+Tab jungle mein tapasya kare
+
+🕊️ Agar Vanaprastha jeevan mein mrityu ho jaaye,
+toh 10 peedhiyan tak uddhar hota hai
+
+🌿 Muni ka Sachcha Arth
+
+Ashtaka poochta hai:
+Muni ka matlab kya hai?
+
+Yayati ka uttar bahut gehra hai 👇
+
+🔸 Muni ka matlab sirf jungle mein rehna nahi
+
+Jo sansaar se mann hata leta hai
+
+Chahe gaon mein rahe ya jungle mein
+
+Jo ahankaar, jaati, gyaan ka ghamand na kare
+
+Kam vastra mein bhi santusht rahe
+
+Thoda khaye, bas jeevan chalane layak
+
+Kisi ko peeda na de
+
+👉 Wahi sachcha Muni hai
+
+🔸 Maun (Silence) ka Mahatva
+
+Jo indriyon ko vash mein rakhe
+
+Ichha aur karma se virakt ho
+
+Maun vrat apnaaye
+
+👉 Wahi safal hota hai
+
+🔸 Uchch Tam Avastha (Yoga)
+
+Sukh–dukh, maan–apmaan se pare
+
+Dhyaan mein sthit
+
+Jab yog mein baithta hai
+
+✨ Tab Brahma se ek ho jaata hai
+
+🔸 Bhojan ka Antim Rahasya 🍃
+
+Jab Muni:
+
+Khana pehle se plan na kare
+
+Na swaad ke liye khaye
+
+Bas jeevan chalane ke liye grahan kare
+
+Jaise shishu maa ki god mein bina ichha doodh peeta hai
+
+👉 Tab vah sampoorn brahmand se ek ho jaata hai
+aur moksha paata hai
+
+🌟 Saar (Core Teaching)
+
+🔹 Ashram badalne se nahi, soch badalne se moksha milta hai
+
+🔹 Jungle mein reh kar bhi sansaar chhoot sakta hai
+
+🔹 Gaon mein reh kar bhi jungle jaise nirmoh ho sakte hain
+
+🔹 Ahankaar hi sabse bada bandhan hai
+
+🔹 Ichha ka tyag hi mukti ka dwar hai"""
             create_image_text_layout(text_content=text2, layout="full")
 
         # Section 1.7.28
         with st.expander("Section 1.7.28"):
-            text1 = """ """
+            text1 = """ 
+            Ashtaka ne pucha,
+“Hey Maharaj Yayati,
+jo tapasya karta hai aur jo gyaan rakhta hai,
+in dono mein se kaun pehle Brahma ko paata hai?”"""
             create_image_text_layout("attached_assets/chapter1/1.7.28.jpg", text1, layout="side", image_position="left")
-            text2 = """ """
+            text2 = """ 
+            Yayati muskuraye aur bole:
+
+“Suno, Ashtaka.
+Jo gyani hota hai,
+wo Vedo aur gyaan ke sahare
+samajh jaata hai ki
+yeh poora duniya ek maya hai.
+
+Uske liye sirf Brahma hi sach hota hai.
+Isliye gyani turant mukti paa leta hai.”
+
+“Jo log yog aur tapasya karte hain,
+unhe thoda samay lagta hai.
+Practice se hi unka mann shaant hota hai.
+
+Agar ek janam mein safalta na mile,
+toh agle janam mein
+pehle ki mehnat ka fayda milta hai.”
+
+“Lekin jo sachcha gyaan rakhta hai,
+wo duniya ke sukh bhogte hue bhi
+andar se asang rehta hai.
+
+Isliye uski mukti mein
+koi rukawat nahi hoti.”
+
+Yayati ne aage kaha:
+
+“Jo gyaan nahi paa sake,
+use nishkaam dharm karna chahiye.
+Lekin agar koi
+sirf moksha ke laalach mein
+yagya aur karm kare,
+toh wo safal nahi hota.”
+
+“Lalach se kiya gaya dharm
+phal nahi deta.
+Bina phal ki ichha ke kiya gaya karm
+hi sachcha yoga hai.”
+
+Ashtaka ne phir Yayati ko dekha aur kaha:
+“Aap toh yuva jaise lagte ho.
+Aap itne tejashvi kyun ho?
+Aap kahaan ja rahe ho?”
+
+Yayati ne gambhir swar mein kaha:
+
+“Main swarg se gir chuka hoon.
+Mera punya khatam ho gaya.
+Ab mujhe Prithvi ke narak mein jaana hai.”
+
+“Lekin Indra ne mujhe vardaan diya hai
+ki main girunga toh
+sirf gyani aur dharmi logon ke beech hi girunga.
+Tum sab waise hi ho.”
+
+Ashtaka bola:
+“Agar mere swarg ke lok hain,
+toh main sab aapko de deta hoon.
+Aap girkar bhi na giro.”
+
+Yayati ne mana kar diya:
+
+“Sirf Brahma-gyani Brahman
+daan le sakta hai.
+Main raja hoon.
+Mujhe daan lena shobha nahi deta.”
+
+Pratardana aage aaye aur bole:
+“Mere paas bhi anek swarg-lok hain.
+Main sab aapko deta hoon.”
+
+Yayati ne phir mana kar diya:
+
+“Ek raja
+doosre raja ka punya daan mein nahi leta.
+Vipatti mein bhi
+adharm ka raasta nahi chhodna chahiye.”
+
+🌟 Moral (Seekh)
+
+🔹 Gyaan tapasya se tez hai
+
+🔹 Lalach se kiya dharm vyarth hota hai
+
+🔹 Nishkaam karm hi yoga hai
+
+🔹 Sankat mein bhi maryada nahi chhodni chahiye
+
+🔹 Sachcha gyani duniya mein rehkar bhi bandhan se mukt hota hai"""
             create_image_text_layout(text_content=text2, layout="full")
 
         # Section 1.7.29
         with st.expander("Section 1.7.29"):
-            text1 = """ """
+            text1 = """ 
+            Vasumat ne vinamrata se kaha,
+“Main Vasumat hoon.
+Maharaj Yayati,
+kya mere liye bhi swarg ke lok bane hue hain?
+Aap sab jaante ho.”"""
             create_image_text_layout("attached_assets/chapter1/1.7.29.jpg", text1, layout="side", image_position="left")
-            text2 = """ """
+            text2 = """ 
+            Yayati bole,
+“Haan Vasumat.
+Tumhare liye itne swarg-lok hain
+jitne aakash, dharti
+aur dishaon mein chamakti roshni hai.”
+
+Vasumat ne turant kaha,
+“Main sab lok aapko deta hoon.
+Aap girkar bhi na giro.
+Agar daan lena uchit na ho,
+toh ek tinke ke badle kharid lo.”
+
+Yayati ne shaant swar mein kaha,
+“Main kabhi bhi
+adharm se khareed-farokht nahi karta.
+Na maine, na kisi mahaan raja ne
+aisa kabhi kiya hai.”
+
+Vasumat phir bole,
+“Toh phir main zidd karta hoon.
+Main khud un lokon mein nahi jaaunga.
+Aap hi le lijiye.”
+
+Tab Maha-dani Raja Sivi bole,
+“Main Sivi hoon,
+Usinara ka putra.
+Maharaj, kya mere liye bhi swarg-lok hain?”
+
+Yayati ne kaha,
+“Sivi,
+tumne kabhi bhi
+sachche aur dharmik logon ka apmaan nahi kiya.
+Tumhare liye anant swarg-lok bane hain,
+bijli jaise chamakne wale.”
+
+Sivi bole,
+“Agar lena galat hai,
+toh main sab lok aapko deta hoon.
+Main unka bhog nahi karunga.”
+
+Yayati ne fir mana kar diya,
+“Sivi,
+tumhare punya anmol hain.
+Main doosron ke diye hue lok
+kabhi nahi loonga.”
+
+Ashtaka ne kaha,
+“Hum sab aapko
+apne-apne lok dena chahte hain.
+Agar aap nahi lenge,
+toh hum dharti ke narak mein gir jaayenge.”
+
+Yayati bole,
+“Tum sab sachche aur gyani ho.
+Mujhe wahi do
+jo main deserve karta hoon.
+Jo kaam maine kabhi nahi kiya,
+wo main aaj bhi nahi kar sakta.”
+
+Ashtaka ne aakash ki taraf dekhkar pucha,
+“Ye paanch sunehre rath kiske hain?”
+
+Yayati ne kaha,
+“Ye rath
+tum sabko swarg le jaane ke liye hain.”
+
+Ashtaka bola,
+“Toh aap pehle chaliye,
+hum baad mein aa jaayenge.”
+
+Yayati muskuraye,
+“Hum sab saath-saath chalenge.
+Dekho, swarg ka raasta
+ab chamak raha hai.”
+
+Tab sab raja
+un sunehre rathon par baith gaye.
+Unke punya ki roshni se
+poora aakash jagmaga utha.
+
+Raaste mein Ashtaka ne pucha,
+“Mujhe lagta tha Indra mera mitra hai.
+Phir Sivi humse pehle
+kaise swarg pahunch gaye?”
+
+Yayati bole,
+“Sivi ne
+sab kuch daan kar diya tha.
+Unki daan, satya, kshama, vinamrata
+itni mahaan hai
+ki koi uska naap nahi kar sakta.”
+
+Phir Ashtaka ne pucha,
+“Aap kaun ho, Maharaj?
+Kya kisi aur ne
+dharti par aap jaisa kaam kiya hai?”
+
+Yayati bole,
+“Main Yayati hoon.
+Nahusha ka putra
+aur Puru ka pita.
+Main kabhi jhooth nahi bola.
+
+Sachchai se hi
+dharti aur aakash tikte hain.
+Agni jalti hai.
+Dev aur rishi pooje jaate hain.”
+
+“Jo koi bhi
+meri aur tumhari
+is swarg-yatra ki katha
+nishkapat mann se
+padhe ya sunaye,
+wo bhi wahi lok paayega.”
+
+🌟 Moral (Seekh)
+
+🔹 Sachchai sabse bada bal hai
+
+🔹 Punya kharida ya liya nahi jaata
+
+🔹 Tyag aur vinamrata swarg ka raasta hain
+
+🔹 Jo khud ke liye nahi, doosron ke liye jeeta hai, wahi sabse aage badhta hai
+
+🔹 Sacche karm kabhi vyarth nahi jaate"""
             create_image_text_layout(text_content=text2, layout="full")
 
         # Section 1.7.30
         with st.expander("Section 1.7.30"):
-            text1 = """ """
+            text1 = """ 
+            Janamejaya ne vinamrata se kaha,
+“O gurudev,
+main Puru ke vansh ke rajaon ki kahani sunna chahta hoon.
+Maine suna hai ki
+is vansh mein
+koi bhi raja
+na toh kamzor tha
+na hi bina santaan ke.
+Sab gyaan aur shaurya se bhare the.”"""
             create_image_text_layout("attached_assets/chapter1/1.7.30.jpg", text1, layout="side", image_position="left")
-            text2 = """ """
+            text2 = """ 
+            Vaisampayana bole,
+“Rajan,
+main tumhe
+Puru ke vansh ki
+sundar aur prerna dene wali kahani batata hoon.
+Ye sab raja
+Indra jaise veer
+aur dharm ke rakshak the.”
+
+🌿 Puru se Bharata tak
+
+Puru ke teen putra hue.
+
+Unmein se Pravira ne vansh ko aage badhaya.
+
+Pravira → Manasyu → Sakta, Sahana, Vagmi
+
+Aage chal kar
+Richeyu hue
+jinhone poori dharti par raaj kiya.
+Unka naam pada Anadhrishti.
+
+👑 Mahaan Raja aur Yagya
+
+Anadhrishti → Matinara
+jinhone Rajasuya aur Ashwamedha yagya kiye.
+
+Matinara ke putron mein
+Tansu ne vansh sambhala.
+
+Tansu → Ilina → Dushmanta
+
+Aur yahin se
+ek bahut hi prasiddh kahani shuru hoti hai.
+
+🌸 Dushmanta aur Shakuntala
+
+Dushmanta ne Shakuntala se vivah kiya.
+
+Unke putra hue Bharata.
+
+👉 Bharata itne mahaan hue
+ki poora vansh
+unke naam se
+Bharata Vansh kehlaya.
+
+🔥 Tyag aur Dharm
+
+Bharata ke pehle putra
+raja jaise gunon wale nahi the.
+
+Ant mein
+ek yagya ke baad
+unhe Bhumanyu naam ka putra mila.
+
+Bhumanyu se
+aage Suhotra, Ajamidha, Riksha,
+aur phir Samvarana hue.
+
+🌧️ Sankat aur Dhairya
+
+Samvarana ke samay
+akaal, bimari aur yudh aaye.
+
+Bharata vansh ko
+rajya chhodna pada.
+
+Ve jungle mein rahe,
+par haar nahi maani.
+
+Tab aaye
+Rishi Vashishtha.
+Unhone mantra shakti se
+Samvarana ko
+phir se raja banaya.
+
+👉 Seekh:
+Sachcha guru aur dhairya
+gire hue ko bhi utha deta hai.
+
+🌞 Kuru aur Kurukshetra
+
+Samvarana ke putra hue Kuru,
+jo Surya putri Tapati ke beta the.
+
+Kuru ne tapasya se
+dharti ko pavitra kiya.
+
+Isi se
+Kurukshetra ka naam pada.
+
+🏹 Santanu tak ka Safar
+
+Kuru → Avikshit → Parikshit
+
+Parikshit → Janamejaya
+
+Aage chal kar aaye
+Pratipa,
+aur phir unke putra—
+
+👉 Devapi (sanyasi bane)
+👉 Santanu (raja bane)
+
+Yahin se
+aage jaakar
+Ganga-putra Bhishma,
+Hastinapur,
+aur Mahabharata ki katha shuru hoti hai.
+
+🌟 Moral (Seekh)
+
+👑 Achha vansh sirf khoon se nahi, karm se banta hai
+
+🔥 Dharm aur tyag se hi rajya tikta hai
+
+🌱 Mushkil waqt mein dhairya hi sabse bada bal hai
+
+📿 Guru aur tapasya giray hue ko bhi utha sakti hai
+
+🌍 Isi liye ise Bharata Vansh kaha jaata hai — dharm ka vansh"""
             create_image_text_layout(text_content=text2, layout="full")
 
         # Section 1.7.31
         with st.expander("Section 1.7.31"):
-            text1 = """ """
+            text1 = """ 
+            Is section mein Janamejaya apni poori vanshavali (genealogy) sunna chahta hai — chhoti nahi, poori detail mein, kyunki ye katha amrit jaise madhur aur dharma se bhari hui hai.
+
+🌍 Srishti se Rajaon tak (Cosmic Lineage)
+
+Vansh ki shuruaat hoti hai srishti ke mool se:
+
+Daksha → Aditi → Vivasvat (Surya) → Manu (Manav jaati ke pita)
+
+Manu se shuru hoti hai rajaon ki parampara:
+
+Manu → Ha
+
+Ha → Pururavas
+
+Pururavas → Ayus
+
+Ayus → Nahusha
+
+Nahusha → Yayati"""
             create_image_text_layout("attached_assets/chapter1/1.7.31.jpg", text1, layout="side", image_position="left")
-            text2 = """ """
+            text2 = """ 
+            👑 Yayati aur uske Putra
+
+Yayati ki do patniyaan thi:
+
+Devayani → Yadu, Turvasu
+
+Sarmishtha → Druhyu, Anu, Puru
+
+👉 Yadu se Yadava vansh
+👉 Puru se Paurava / Bharata vansh
+
+Is katha ka kendr Puru ka vansh hai.
+
+🌸 Puru se Bharata tak
+
+Puru → Janamejaya (older)
+
+Janamejaya → Prachinvat
+
+Prachinvat → Sanyati
+
+Sanyati → Ahayanti
+
+Ahayanti → Sarvabhauma
+
+Aage kai raja aaye, jinhone:
+
+yagya kiye
+
+rajya jeete
+
+dharma ka palan kiya
+
+🌊 Saraswati aur Tansu
+
+Matinara ne Saraswati nadi ke kinare tapasya ki
+
+Saraswati ne prasann hokar unse putra Tansu ko janm diya
+
+👉 Yahin se aage aate hain:
+
+Ilina
+
+Dushmanta
+
+Shakuntala
+
+Bharata
+
+⭐ Bharata — jiske naam par Bharat
+
+Dushmanta ne pehle Bharata ko sweekar nahi kiya
+
+Dev-vani (akashvani) hui:
+
+“Pita hi putra hota hai”
+
+Tab Bharata ko sweekar kiya gaya
+Isi liye uska naam pada Bharata (jo sambhala gaya)
+
+👉 Isi Bharata ke naam par Bharatvarsh
+
+🏹 Hastinapur ka Udbhav
+
+Bharata → Bhumanyu
+
+Bhumanyu → Suhotra
+
+Suhotra → Hasti
+
+👉 Hasti ne basayi Hastinapur
+
+🌞 Kuru aur Kurukshetra
+
+Samvarana → Kuru (Surya putri Tapati ka beta)
+
+Kuru ne tapasya se Kurukshetra ko pavitra banaya
+
+👉 Isiliye ye dharti dharma-yuddha ki bhoomi bani
+
+🌊 Santanu aur Bhishma
+
+Pratipa → Santanu
+
+Santanu + Ganga → Devavrata (Bhishma)
+
+Bhishma ne:
+
+pita ke liye pratigya li
+
+apni ichha ka tyag kiya
+
+vansh ko bachaya
+
+🌺 Satyavati, Vyasa aur Rajya ka Rakshan
+
+Santanu + Satyavati → Chitrangada, Vichitravirya
+
+Vichitravirya ke putra nahi hue
+
+Tab:
+
+Vyasa (Dvaipayana) aaye
+
+Janm hue:
+
+Dhritarashtra
+
+Pandu
+
+Vidura
+
+🏹 Pandavas ka Janm
+
+Pandu shraap ke kaaran santaan nahi pa sake
+
+Kunti ke mantra se:
+
+Dharma → Yudhishthira
+
+Vayu → Bhima
+
+Indra → Arjuna
+
+Madri se:
+
+Ashwini Kumar → Nakula, Sahadeva
+
+👉 Pandu ki mrityu, Madri ka sati hona
+👉 Panch Pandav Kunti ke saath pale
+
+🔥 Duryodhana ka Irshya aur Sangharsh
+
+Duryodhana ne kai baar Pandavon ko marne ki koshish ki
+
+Lakshagriha, vanvaas, rakshason ka vadh
+
+Draupadi se vivah
+
+Ant mein rajya ka adhikar
+
+🌟 Pandav Putra aur Vansh Raksha
+
+Pandavon ke 11 putra hue
+Sabse mahatvapurn:
+
+👉 Abhimanyu
+
+Arjuna ka putra
+
+Uttara se vivah
+
+Putra Parikshit (jo jal kar mar gaya tha)
+
+👉 Shri Krishna ne Parikshit ko punar-jeevit kiya
+
+👑 Janamejaya (Aap)
+
+Parikshit → Janamejaya
+
+Janamejaya → Satanika, Sankukarna
+
+Is tarah:
+Bharata Vansh zinda raha
+
+🕉️ Antim Mahavakya (Vyasa ka Sandesh)
+
+Mahabharata = Pancham Veda
+
+Jo ise shraddha se sunta ya padhta hai:
+
+Punya paata hai
+
+Swarg prapt karta hai
+
+Gyaan aur vivek badhta hai
+
+🌺 Moral (Seekh)
+
+🔱 Vansh khoon se nahi, dharma se chalta hai
+
+🔥 Tyag aur satya hi rajya ko amar banate hain
+
+📿 Stri, guru aur dharma ka apmaan vinaash ka kaaran banta hai
+
+🌍 Isiliye ye katha sirf itihaas nahi, jeevan-darshan hai
+"""
             create_image_text_layout(text_content=text2, layout="full")
 
         # Section 1.7.32
         with st.expander("Section 1.7.32"):
-            text1 = """ """
+            text1 = """ 
+            Yeh kahani ahankar, maryada aur bhagya ki gehri seekh deti hai. Tone simple hai, jaise children’s moral story.
+
+Ek samay ki baat hai.
+Ikshvaku vansh mein ek mahaan raja tha — Mahabhisha.
+Wo poori dharti ka swami tha.
+Sach bolta tha.
+Dharma par chalta tha.
+
+Usne:
+
+1000 Ashvamedha yagya
+
+100 Rajasuya yagya
+
+kiye the.
+Isliye wo swarg pahunch gaya."""
             create_image_text_layout("attached_assets/chapter1/1.7.32.jpg", text1, layout="side", image_position="left")
-            text2 = """ """
+            text2 = """ 
+            🌊 Swarg mein ek galti
+
+Ek din swarg mein sab devta aur rajarshi Brahma ji ki pooja kar rahe the.
+Wahan Ganga mata, nadiyon ki rani, bhi aayi.
+
+Tez hawa chali.
+Ganga mata ke safed vastra hil gaye.
+
+Sab devtaon ne:
+
+nazar jhuka li
+
+maryada rakhi
+
+Par Raja Mahabhisha ne:
+
+dekhte rehna chuna
+
+apna sanyam kho diya
+
+⚡ Brahma ji ka shraap
+
+Brahma ji ne turant kaha:
+
+“Tum apni maryada bhool gaye ho.
+Isliye tumhe dharti par dobara janm lena hoga.”
+
+Aur phir kaha:
+
+Tum baar-baar swarg jaa paoge
+
+Lekin Ganga bhi dharti par janm legi
+
+Wo tumhe dukh degi
+
+Jab tumhara krodh jag uthega, tab tum shraap se mukt hoge
+
+Mahabhisha chup ho gaya.
+Use apni galti samajh aa gayi.
+
+👑 Pratipa ka putra banne ki ichha
+
+Mahabhisha ne socha:
+“Main dharti par Raja Pratipa ka putra banna chahta hoon.”
+
+Udhar Ganga mata bhi usse yaad kar rahi thi.
+Isi dauran unki mulaqat Aath Vasuo se hui.
+
+🌟 Vasuo ka dukh
+
+Vasu bole:
+
+“Hum par Rishi Vashishtha ka shraap lag gaya hai.
+Galti se hum unke saamne se guzar gaye jab wo sandhya kar rahe the.
+Isliye hume bhi manushya ban kar janm lena hoga.”
+
+Unhone Ganga se vinati ki:
+
+“Mata, aap hi hume janm dijiye.
+Hum kisi aur stri ke garbh mein nahi jaana chahte.”
+
+🤍 Ganga ka vachan
+
+Ganga ne poocha:
+“Dharti par kaun hoga tumhara pita?”
+
+Vasu bole:
+
+“Raja Pratipa ka putra Santanu.”
+
+Ganga boli:
+
+“Yeh bhi meri ichha hai.”
+
+🌊 Ek kathin shart
+
+Vasu bole:
+
+“Janm ke baad hume jal mein pravahit kar dena,
+taaki hum jaldi mukti paa sakein.”
+
+Ganga ne kaha:
+
+“Main yeh karungi.
+Par ek putra zinda rehna chahiye.”
+
+Vasu bole:
+
+Sab apni shakti ka 1/8 hissa denge
+
+Usse ek putra hoga — mahaan aur tejashvi
+
+Par wo santaan nahi paayega
+
+Ganga maan gayi.
+
+Aur is tarah:
+
+Santanu ka janm
+
+Ganga ka dharti par avatar
+
+aur Bhishma ke aane ka marg
+
+tay ho gaya.
+
+🌼 Moral (Seekh)
+
+👁️ Nazar ka sanyam bhi dharma hai
+
+⚖️ Maryada bhoolne par mahaan bhi gir sakta hai
+
+🌊 Bhagya aur karm milkar jeevan likhte hain
+
+🤍 Tyag kabhi vyarth nahi jaata
+
+Yahi kahani aage chal kar Bhishma, Santanu aur Mahabharata ka aadhaar banti hai."""
             create_image_text_layout(text_content=text2, layout="full")
 
         # Section 1.7.33
         with st.expander("Section 1.7.33"):
-            text1 = """ """
+            text1 = """ 
+            Bahut pehle ki baat hai.
+Kuru vansh mein ek dharmic raja the — Raja Pratipa.
+Wo sab jeevon par daya karte the.
+Lambi tapasya karte the.
+
+Unhone Ganga nadi ke udgam par kai saal tapasya ki."""
             create_image_text_layout("attached_assets/chapter1/1.7.33.jpg", text1, layout="side", image_position="left")
-            text2 = """ """
+            text2 = """ 
+            🌊 Ganga ka prakat hona
+
+Ek din, Ganga mata
+ek sundar stri ka roop lekar
+jal se bahar aayi.
+
+Wo bahut hi sundar thi.
+Uski beauty dekh kar koi bhi ruk jaaye.
+
+Ganga ne Raja Pratipa ke paas aakar
+unki daahini jangha (right thigh) par baith gayi.
+
+🤍 Raja ka sanyam
+
+Raja ne shant swar mein kaha:
+“Tum kaun ho?
+Aur tum kya chahti ho?”
+
+Ganga boli:
+“Main aapko apna pati banana chahti hoon.
+Jo stri swayam aaye, use mana karna uchit nahi.”
+
+Par Raja Pratipa ne kaha:
+“Main apne vrat se bandha hoon.
+Main kisi anya stri ko nahi apnata.
+Yeh mera dharm hai.”
+
+🌸 Maryada ka gyaan
+
+Ganga ne phir kaha:
+“Main apsara hoon.
+Main sundar hoon.
+Mujhe mana mat kijiye.”
+
+Raja Pratipa bole:
+“Tum meri daahini jangha par baithi ho.
+Yeh beti ya bahu ka sthaan hota hai.
+Patni ke liye baayi jangha hoti hai.
+
+Isliye main tumhe patni nahi bana sakta.
+Par main tumhe apne putra ki patni maanta hoon.”
+
+🌟 Ganga ka vachan
+
+Ganga ne shradha se kaha:
+“Jaise aap chahte hain, waisa hi hoga.
+Main aapke putra se vivaah karungi.
+
+Par yaad rakhna:
+Aapka putra mere karmon par prashn nahi karega.
+Main uska bhala hi karungi.
+Usse sukh milega.
+Aur ant mein wo swarg ko praapt karega.”
+
+Itna keh kar
+Ganga antarhit ho gayi.
+
+👑 Santanu ka janm
+
+Samay beeta.
+Raja Pratipa aur unki patni tapasya karte rahe.
+
+Budhape mein
+unhe ek putra praapt hua.
+
+Uska naam rakha gaya — Santanu.
+Kyunki wo sanyam aur tapasya ke baad janma tha.
+
+Santanu bada hua.
+Dharmik bana.
+Gunon se bhara hua.
+
+🕊️ Pitaji ka updesh
+
+Raja Pratipa ne Santanu se kaha:
+
+“Ek din tumhe ek divya stri milegi.
+Agar wo tumse vivaah maange,
+toh use mana mat karna.
+
+Uske karmon par prashn mat uthana.
+Na uska naam poochna.
+Na uska rahasya.”
+
+🌲 Ganga ke kinare mulaqat
+
+Pratipa van chalay gaye.
+Santanu raja ban gaya.
+
+Ek din shikar ke dauran
+wo Ganga ke tat par pahuncha.
+
+Wahan usne
+ek atyant sundar stri dekhi.
+Uski beauty Lakshmi ji jaisi thi.
+
+Santanu use dekh kar
+apne aap ko sambhaal na saka.
+Uska hriday pighal gaya.
+
+Stri ne bhi
+Santanu ko dekha.
+Uske mann mein bhi
+prem jag utha.
+
+💫 Santanu ka prastav
+
+Santanu ne komal swar mein kaha:
+
+“Tum devi ho ya apsara,
+yakshini ho ya manav stri —
+mujhe nahi pata.
+
+Par tumhari sundarta alaukik hai.
+Kripya meri patni bano.”
+
+(Yahin se aage chal kar Ganga–Santanu vivah aur Bhishma ki kahani shuru hoti hai.)
+
+🌼 Moral (Seekh)
+
+🧘 Sanyam hi sabse bada bal hai
+
+🌸 Maryada se hi rishton ka janm hota hai
+
+🌊 Bhagya dheere-dheere apna raasta banata hai
+
+🤍 Sachcha dharm kabhi akela nahi hota"""
             create_image_text_layout(text_content=text2, layout="full")
 
         # Section 1.7.34
         with st.expander("Section 1.7.34"):
-            text1 = """ """
+            text1 = """ 
+            Raja Santanu ke madhur shabdon ko sun kar
+wo sundar stri muskuraayi.
+Use Vasus ko diya hua vachan yaad aa gaya.
+
+Shant aur meethi awaaz mein usne kaha:
+
+“O Raja,
+main aapki patni banungi.
+Main aapki seva karungi.
+
+Par meri ek shart hai.”"""
             create_image_text_layout("attached_assets/chapter1/1.7.34.jpg", text1, layout="side", image_position="left")
-            text2 = """ """
+            text2 = """ 
+            🌊 Ganga ki shart
+
+Usne dheere se kaha:
+
+“Aap mere kaamon mein hastakshep nahi karenge.
+Chahe wo kaam achha lage ya bura.
+
+Aur aap kabhi bhi
+mujhse kathor shabd nahi bolenge.
+
+Jab tak aap daya se pesh aayenge,
+main aapke saath rahungi.
+
+Par jis din aapne mujhe roka
+ya kadve shabd bole,
+main turant chali jaungi.”
+
+🤍 Santanu ka vachan
+
+Raja Santanu ne bina soche kaha:
+“Theek hai.
+Main aapka vachan maanta hoon.”
+
+Aur is tarah
+wo stri Santanu ki patni ban gayi.
+
+🌸 Sukh ke din
+
+Ganga manav roop mein
+Santanu ke saath rehne lagi.
+
+Wo sundar thi.
+Prem se bhari thi.
+Sangeet aur nritya jaanti thi.
+
+Raja Santanu
+uske prem mein itne doob gaye
+ki samay ka pata hi nahi chala.
+
+Mahine beet gaye.
+Ritu badal gayi.
+Saale guzar gaye.
+
+👶 Aath bachchon ka janm
+
+Samay ke saath
+Ganga ne aath putron ko janm diya.
+
+Sab ke sab
+devtaon jaise sundar the.
+
+Par har baar,
+janm ke turant baad,
+Ganga unhe Ganga nadi mein baha deti.
+
+Wo kehti:
+“Yeh tumhare hi bhale ke liye hai.”
+
+💔 Santanu ka dukh
+
+Raja Santanu ka hriday toot jata.
+Par wo chup rahe.
+
+Kyunki unhone vachan diya tha.
+Wo darrte the
+kahin Ganga unhe chhod kar na chali jaaye.
+
+😢 Aathva bachcha
+
+Jab aathva bachcha paida hua,
+aur Ganga use bhi nadi mein daalne lagi,
+toh Santanu ka dhairya toot gaya.
+
+Aankhon mein aansu the.
+Awaaz kaanp rahi thi.
+
+Unhone kaha:
+
+“Ruko!
+Is bacche ko mat maaro.
+
+Tum kaun ho?
+Apne hi bachchon ko kyun maar rahi ho?
+
+Yeh paap bahut bada hai!”
+
+🌊 Ganga ka sach
+
+Tab Ganga boli,
+bilkul shant aur gambhir swar mein:
+
+“O Raja,
+aap apna vachan tod chuke hain.
+Isliye ab mera yahan rehna samaapt hota hai.
+
+Par chinta na kijiye.
+Main is bachche ko nahi maarungi.”
+
+✨ Ganga apni pehchaan batati hai
+
+Usne kaha:
+
+“Main Ganga hoon,
+Jahnu ki putri.
+Rishiyon dwara poojit.
+
+Main yahan
+devtaon ke kaam se aayi thi.
+
+Ye jo aath bachche the,
+ye aath Vasu the.
+Vasishtha ke shraap se
+unhe manav janm lena pada.
+
+Sirf aap hi
+itne yogya the
+ki unke pita ban sake.
+
+Aur sirf main hi
+unki mata ban sakti thi.”
+
+🌟 Shraap se mukti
+
+Ganga ne aage kaha:
+
+“Humara vachan tha
+ki janm ke turant baad
+main unhe mukti dungi.
+
+Isliye maine unhe nadi mein le jaakar
+shraap se mukt kar diya.
+
+Isse aapne bhi
+punya aur swarg lok praapt kiya.”
+
+👑 Bhishma ka janm
+
+Ganga ne ant mein kaha:
+
+“Ab is bachche ko paaliye.
+Yeh bahut kathor vraton wala hoga.
+
+Iska naam hoga — Gangadatta.”
+
+(Itna keh kar
+Ganga antardhan ho gayi.)
+
+🌼 Seekh (Moral)
+
+🤍 Vachan ka palan sabse bada dharm hai
+
+🌊 Kabhi-kabhi jo dukh lagta hai, wo bhale ke liye hota hai
+
+🧘 Sabr aur sanyam raja ka bhi gehna hota hai
+
+✨ Bhagya apne raaz dheere-dheere kholta hai"""
             create_image_text_layout(text_content=text2, layout="full")
 
         # Section 1.7.35
         with st.expander("Section 1.7.35"):
-            text1 = """ """
+            text1 = """ 
+            Raja Santanu ne Ganga se poocha:
+
+“Vasus ka dosh kya tha?
+Apava kaun tha?
+Aur mera putra Gangadatta kyun manav lok mein rahega?
+Sab kuch batao, O Jahnu-putri.”"""
             create_image_text_layout("attached_assets/chapter1/1.7.35.jpg", text1, layout="side", image_position="left")
-            text2 = """ """
+            text2 = """ 
+            🧘 Apava (Vasishtha) ka parichay
+
+Ganga boli:
+
+“Varuna ke putra Vasishtha,
+jinhone baad mein Apava naam paya,
+Meru parvat ke nikat tapasya karte the.
+
+Unka ashram pavitra tha,
+phoolon, pakshiyon aur mrigniyon se bhara hua.”
+
+🐄 Nandini — Kaamna poori karne wali gai
+
+Daksha ki putri Surabhi se
+Nandini naam ki divya gai paida hui.
+
+Yeh kaamna-purti gai thi —
+jo bhi uska doodh peeta,
+wo lambi aayu aur yuvaavastha paata.
+
+Nandini Apava ke ashram mein
+nishchint ghoomti rehti thi.
+
+🌸 Vasus aur unki patniyon ka aana
+
+Ek din aath Vasus,
+apni patniyon ke saath wahan aaye.
+
+Unmein se ek Vasu Dyu ki patni
+Nandini ko dekh kar mohit ho gayi.
+
+Usne kaha:
+
+“Mere mitra Jitavati ke liye
+is gai ka doodh chahiye,
+taaki wo vriddh na ho.”
+
+❌ Galti jo shraap ban gayi
+
+Apni patni ko prasann karne ke liye,
+Dyu ne apne bhaiyon ke saath
+Nandini ko chura liya.
+
+Unhe yaad nahi raha
+ki ye Rishi ki gai hai.
+
+🔥 Rishi Apava ka shraap
+
+Jab Apava ne apni gai ko gaayab paaya,
+toh apni divya drishti se sab jaan liya.
+
+Krodh mein bole:
+
+“Tum sab Vasus
+manav lok mein janm loge!”
+
+Baad mein daya karke kaha:
+
+“Tum sab janm ke ek saal ke andar mukt ho jaoge,
+lekin Dyu ko lamba manav jeevan jeena hoga.
+
+Wo putra paida nahi karega,
+nari-sang se door rahega,
+par dharm aur shastra ka gyani hoga.”
+
+🌊 Ganga ka vachan
+
+Vasus ne Ganga se prarthana ki:
+
+“Janm ke baad humein jal mein le jaana,
+taaki hum shraap se mukt ho jaayen.”
+
+Ganga ne vachan nibhaaya
+aur pehle saat bachchon ko
+janm ke baad jal mein le gayi.
+
+👑 Dyu ka manav janm — Bhishma
+
+Aathva bachcha Dyu tha.
+Use jeevit rehna tha.
+
+Isliye Ganga ne kaha:
+
+“Yeh bachcha Gangeya
+aur Devavrata ke naam se jaana jaayega.”
+
+Yehi bachcha aage chal kar
+Bhishma bana —
+maha-tyaagi, brahmachari aur dharm ka stambh.
+
+🌼 Ant aur Mahabharata ki shuruaat
+
+Ganga apne lok chali gayi.
+Santanu dukhi man se rajdhani laute.
+
+Aur isi se
+Bhishma ki mahaan gatha shuru hoti hai.
+
+📖 Yahi se Mahabharata ka vishal itihaas prarambh hota hai.
+✨ Seekh (Moral)
+
+🐄 Dharm ke vastu ko chhuna bhi paap ban sakta hai
+
+🔥 Krodh ka shabd bhi bhagya badal deta hai
+
+🤍 Vachan aur tyag se hi mahaanata janm leti hai
+
+👑 Bhishma ka jeevan — kartavya, sanyam aur balidaan ka pratik"""
             create_image_text_layout(text_content=text2, layout="full")
 
         # Section 1.7.36
         with st.expander("Section 1.7.36"):
-            text1 = """ """
+            text1 = """ 
+            Raja Santanu ek mahaan raja the.
+Wo satya, daya aur dharm ke liye mashhoor the.
+
+Unke rajya mein koi bhay nahi tha.
+Log shaanti se sote aur khushi se uthte the.
+Janwar bhi surakshit the.
+Kisi ko bina wajah kasht nahi diya jaata tha.
+
+Santanu sab ke pita jaise the.
+Insaan, pashu, pakshi — sab unke liye barabar the.
+
+36 saal rajya chalane ke baad,
+unhone apna putra Devavrata ko yuvaraj banaya.
+
+Devavrata, jo baad mein Bhishma kehlaya,
+apne pita jaisa hi dharmatma tha.
+Wo shastra-vidya, dhanurvidya aur gyaan mein mahaan tha."""
             create_image_text_layout("attached_assets/chapter1/1.7.36.jpg", text1, layout="side", image_position="left")
-            text2 = """ """
+            text2 = """ 
+            🌊 Ganga ka putra — Devavrata
+
+Ek din Santanu ne dekha
+ki Ganga ka pravah ruk gaya hai.
+
+Wahan ek yuva veer khada tha
+jo apne divya shastr se nadi ko rok raha tha.
+
+Wo koi aur nahi,
+Santanu ka apna putra Devavrata tha.
+
+Ganga prakat hui aur boli:
+“Yeh tumhara putra hai.
+Maine ise sab vidya sikha di hai.
+Ab ise apne saath le jao.”
+
+Santanu anand se bhar gaye.
+
+🌸 Machhuaarin ki beti — Satyavati
+
+Kuch saal baad,
+Santanu Yamuna ke kinare gaye.
+
+Wahan unhone ek sundar kanya dekhi.
+Uske sharir se divya sugandh aa rahi thi.
+
+Wo thi Satyavati,
+machhuaare ki beti.
+
+Santanu usse vivah karna chahte the.
+Par uske pita ne ek shart rakhi:
+
+👉 “Satyavati ka beta hi raja banega.”
+
+Santanu chinta mein pad gaye.
+Wo apne putra Devavrata ka adhikar nahi cheenna chahte the.
+
+😔 Pita ka dukh, putra ka tyag
+
+Devavrata ne pita ka dukh dekha.
+Usne sach jaan liya.
+
+Wo seedha machhuaare ke paas gaya aur bola:
+
+“Satyavati ka putra hi raja banega.
+Main apna adhikar tyag karta hoon.”
+
+Machhuaara phir bhi nishchint nahi hua.
+Usne kaha:
+
+“Tumhare bete kya karenge?”
+
+🔥 Bhishma Pratigya
+
+Tab Devavrata ne sabse kathor pratigya li:
+
+“Aaj se main brahmachari rahunga.
+Na shaadi, na santaan.
+Main jeevan bhar nishtha aur tyag ka palan karunga.”
+
+Yeh sunkar
+devta, rishi aur apsara aakash se pushp barsane lage.
+
+Sab ne kaha:
+“Yeh Bhishma hai — bhayankar pratigya wala!”
+
+👑 Pita ka vardaan
+
+Santanu ne jab sab suna,
+unka hriday bhar aaya.
+
+Unhone Bhishma ko vardaan diya:
+
+“Tumhe ichha-mrityu ka vardaan deta hoon.
+Jab tak tum chahoge, mrityu tumhe nahi chhooegi.”
+
+🌼 Seekh (Moral)
+
+🤍 Sachha putra wo hota hai jo pita ke sukh ke liye apna sukh tyaag de
+
+🔥 Tyag aur pratigya insaan ko mahaan banati hai
+
+👑 Bhishma ka jeevan = kartavya + sanyam + balidaan"""
             create_image_text_layout(text_content=text2, layout="full")
 
         # Section 1.7.37
