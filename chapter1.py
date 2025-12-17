@@ -15271,37 +15271,741 @@ Jab tak tum chahoge, mrityu tumhe nahi chhooegi.”
 
         # Section 1.7.37
         with st.expander("Section 1.7.37"):
-            text1 = """ """
+            text1 = """ 
+            Shaadi ke baad,
+Raja Santanu ne
+apni sundar patni Satyavati ko
+raaj ghar mein sthaan diya.
+
+Kuch samay baad,
+Satyavati se
+Santanu ke
+ek buddhimaan aur veer putra hue.
+Uska naam tha Citrangada."""
             create_image_text_layout("attached_assets/chapter1/1.7.37.jpg", text1, layout="side", image_position="left")
-            text2 = """ """
+            text2 = """ 
+            Citrangada
+bahut shaktishaali tha.
+Veer tha.
+Aur dheere-dheere
+ek prasiddh yoddha ban gaya.
+
+Santanu ke
+Satyavati se
+ek aur putra bhi hua.
+Uska naam tha Vicitravirya.
+
+Vicitravirya
+bhi mahaan dhanurdhar bana.
+Aur baad mein
+raja bhi bana.
+
+Lekin
+Vicitravirya ke
+poori tarah yuva hone se pehle hi
+Samay ne apna kaam dikhaya.
+
+Raja Santanu
+svarg ko chal base.
+
+Santanu ke jaane ke baad,
+Bhishma,
+jo sach aur kartavya ka
+jeevit roop tha,
+Satyavati ke aadesh mein raha.
+
+Bhishma ne
+Citrangada ko
+Kuru rajya ke
+singhasan par bithaya.
+
+Citrangada ne
+apni shakti se
+kai rajaon ko hara diya.
+
+Use laga
+ki duniya mein
+uske barabar
+koi nahi hai.
+
+Par ahankaar ke saath
+pariksha bhi aati hai.
+
+Ek din,
+Gandharvon ka raja,
+jiska naam bhi
+Citrangada hi tha,
+us se yudh karne aa gaya.
+
+Kurukshetra ke maidan mein,
+Sarasvati nadi ke kinaare,
+bhayankar yudh hua.
+
+Yeh yudh
+teen saal tak chala.
+
+Shastra takraate rahe.
+Zameen kaanpti rahi.
+Dono yoddha
+poori shakti se lade.
+
+Ant mein,
+Gandharva raja
+adhik chalaak aur balwaan nikla.
+
+Usne
+Kuru rajkumar Citrangada ko
+yudh mein maar diya.
+
+Jeet ke baad,
+Gandharva raja
+svarg chala gaya.
+
+Citrangada ke veer mrityu ke baad,
+Bhishma ne
+uske sab
+antim sanskaar kiye.
+
+Phir Bhishma ne
+chhote aur abhi yuva na bane
+Vicitravirya ko
+singhasan par bithaya.
+
+Vicitravirya
+Bhishma ke margdarshan mein
+rajya chalane laga.
+
+Woh Bhishma ka
+bahut aadar karta tha.
+
+Aur Bhishma bhi
+use
+pita jaise
+suraksha dete rahe.
+
+Is tarah,
+kartavya, tyaag aur maryada
+Kuru vansh ko
+sambhalte rahe.
+
+🌼 Seekh (Moral)
+
+⚖️ Ahankaar veer ko bhi gira deta hai
+
+🤝 Sahi margdarshak zindagi bachata hai
+
+🌱 Kartavya aur vinamrata se hi rajya tikta hai"""
             create_image_text_layout(text_content=text2, layout="full")
 
         # Section 1.7.38
         with st.expander("Section 1.7.38"):
-            text1 = """ """
+            text1 = """ 
+            Citrangada ke veer ghatna ke baad,
+jab Vicitravirya abhi chhota tha,
+tab Bhishma ne rajya ka bojh sambhala.
+
+Bhishma ne
+sab kuch Maa Satyavati ke aadesh se kiya.
+Unka ek hi lakshya tha —
+Kuru vansh ka bhavishya surakshit rahe.
+
+Jab Vicitravirya bada hua,
+samajhdaar aur yogya bana,
+tab Bhishma ne socha:
+
+👉 “Ab mere bhai ka vivaah hona chahiye.”"""
             create_image_text_layout("attached_assets/chapter1/1.7.38.jpg", text1, layout="side", image_position="left")
-            text2 = """ """
+            text2 = """ 
+            Usi samay,
+yeh samachar aaya
+ki Kashi ke raja ki teen sundar putriyaan
+ek Swayamvar mein
+apna pati chune wali hain.
+
+Teeno kanyaein
+apsaraon jaisi sundar thi.
+
+Bhishma,
+jo sabse mahaan rath-yoddha the,
+sirf ek rath par
+Varanasi nagar pahunch gaye.
+
+Wahan unhone dekha —
+har disha se
+raja aur yoddha aaye hue the.
+
+Swayamvar shuru hua.
+Rajaon ke naam liye ja rahe the.
+
+Tab Bhishma ne
+sabke saamne
+ek garajti awaaz mein kaha:
+
+“Kshatriya dharm ke anusaar,
+yudh ke bal par kanya haran bhi vivah ka ek roop hai!”
+
+Aur kehkar,
+Bhishma ne
+teeno kanyaon ko rath par bithaya
+aur kaha:
+
+👉 “Jo mujhe rok sakta hai, rok ke dikhaye!”
+
+Yeh kehna tha,
+aur sab raja
+krodh se bhar gaye.
+
+Shastra uthe.
+Rath daude.
+Aasmaan mein
+baanon ki barsaat ho gayi.
+
+Ek taraf —
+sauon raja
+Dusri taraf —
+akela Bhishma.
+
+Par Bhishma
+parvat ki tarah atoot the.
+
+Unke baan
+bijli jaise chalte.
+Shatruon ke
+dhanush toot gaye.
+Rath dhwaj gir gaye.
+
+Yudh itna bhayankar tha
+ki dekhne wale bhi kaanp uthe.
+
+Ant mein,
+sab raja
+haar maan gaye.
+
+Sirf Raja Shalya
+peeche se aakar
+Bhishma ko yudh ke liye lalkarne lage.
+
+Bhishma ruke.
+Kshatriya dharm nibhaya.
+
+Dono veeron ka
+bhayankar sangharsh hua.
+
+Ant mein,
+Bhishma ne
+Shalya ko hara diya,
+par jeevan daan diya.
+
+Yeh dekhkar,
+sab raja
+apne-apne rajya laut gaye.
+
+Bhishma
+teeno kanyaon ko lekar
+Hastinapur pahunche.
+
+Unka vyavhaar
+aisa tha
+jaise woh
+unki rakshak pita ho.
+
+Phir Bhishma ne
+sab kuch Maa Satyavati se salah karke
+shaadi ki taiyaari shuru ki.
+
+Tab sabse badi kanya Amba boli:
+
+👉 “Mera mann pehle se hi
+Saubha ke raja ke saath jud chuka tha.”
+
+Bhishma ne
+dharma ka paalan kiya.
+
+Brahmanon se salah li.
+Aur Amba ko
+apni ichchha se jaane diya.
+
+Baaki do behnein —
+Ambika aur Ambalika
+Vicitravirya se vivaahit hui.
+
+Vicitravirya ne
+kuch varsh
+apni patniyon ke saath
+sukh se jeevan bitaya.
+
+Par bhagya ne
+phir kadi pariksha li.
+
+Jawani mein hi
+Vicitravirya
+gambhir rog se grasit ho gaye.
+
+Bahut upchaar hue.
+Par Samay ko koi hara nahi sakta.
+
+Jaise doobta sooraj,
+waise hi
+Vicitravirya ka jeevan
+shant ho gaya.
+
+Bhishma
+gehre dukh mein doob gaye.
+
+Unhone phir bhi
+kartavya nahi chhoda.
+
+Satyavati ke saath milkar,
+sab antim sanskaar
+vidhi se karwaye.
+
+Aur Kuru vansh ka
+bojh phir se
+apne kandhon par le liya.
+
+🌼 Seekh (Moral)
+
+⚔️ Shakti se zyada mahatvapurn dharma hota hai
+
+🤍 Sachcha veer daya bhi jaanta hai
+
+⏳ Samay sabse shaktishaali hai
+
+👑 Kartavya kabhi chhodna nahi chahiye"""
             create_image_text_layout(text_content=text2, layout="full")
 
         # Section 1.7.39
         with st.expander("Section 1.7.39"):
-            text1 = """ """
+            text1 = """ 
+            Vicitravirya ke nidhan ke baad,
+Mata Satyavati ka hriday
+gehre shok mein doob gaya.
+
+Unhone
+apni dono bahuon (Ambika–Ambalika) ke saath
+antim sanskaar poore vidhi–vidhaan se kiye.
+
+Phir,
+apne aansuon ko sambhalte hue,
+unhone Bhishma ko dekha —
+jo shastra mein mahaan,
+par hriday se bhi mahaan the."""
             create_image_text_layout("attached_assets/chapter1/1.7.39.jpg", text1, layout="side", image_position="left")
-            text2 = """ """
+            text2 = """ 
+            Satyavati ne
+dharma aur vansh ki or drishti karke kaha:
+
+“O Bhishma,
+pind-daan, vansh ki kirti
+aur Santanu ke vansh ka bhavishya
+sab kuch ab tum par nirbhar hai.
+
+Jaise swarg punya ke bina nahi milta,
+jaise satya ke bina dirgh aayu nahi hoti,
+waise hi dharma tumhare bina adhoora hai.”
+
+Satyavati aage boli:
+
+“Tum Vedo, Shrutiyon
+aur kul-dharma ke gyaata ho.
+Gyaan mein tum Shukra aur Angiras ke samaan ho.
+
+Isliye,
+main tumse ek kaarya ke liye vinati karti hoon.
+Suno aur mera aadesh poora karo.”
+
+Unhone bhari awaaz mein kaha:
+
+“Tumhara bhai
+nishsantan swarg ko chala gaya.
+Uski patniyaan ab putra ki ichchhuk hain.
+
+Isliye,
+tum unse santaan utpann karo
+taaki Kuru vansh toot na jaaye.”
+
+Aur phir Satyavati ne
+sabse kathor baat kahi:
+
+“Rajya sambhalo.
+Vivah karo.
+Vansh ko bachao.
+Apne purkhon ko narak mein mat girao!”
+
+Yeh sunte hi,
+Bhishma ne
+shant par dridh swar mein uttar diya:
+
+“Maa,
+aap jo keh rahi hain
+dharma ke anuroop hi lagta hai.
+
+Lekin
+aap mere pratigya ko jaanti hain.”
+
+Bhishma ne kaha:
+
+“Main teenon lok chhod sakta hoon,
+swarg ka raj bhi chhod sakta hoon,
+par satya ko kabhi nahi chhod sakta.”
+
+Aur phir
+unhone ek–ek kar
+prakriti ke udaharan diye:
+
+“Prithvi apni sugandh chhod de,
+jal apni shitalta,
+agni apni garmi,
+surya apni roshni,
+Indra apni shakti,
+Yama apna nyay chhod de…
+
+par Bhishma satya nahi chhod sakta.”
+
+Satyavati ne
+phir karun swar mein kaha:
+
+“Main jaanti hoon tumhari pratigya
+meri wajah se thi.
+
+Par beta,
+yeh aapatkaal hai.
+Vansh toot gaya
+toh sab kuch nasht ho jayega.”
+
+Par Bhishma ne
+vinamrta se kaha:
+
+“Maa,
+Kshatriya ke liye
+satya-bhang sabse bada paap hai.
+
+Main pratigya todkar
+vansh nahi bacha sakta.”
+
+Phir Bhishma ne
+ek buddhimani ka marg bataya:
+
+“Main aapko
+ek anya dharmik upaay batata hoon
+jo aapatkaal mein sweekrit hai.
+
+Pehle us par
+brahmanon aur gyaaniyon se
+vichaar-vimarsh kariye.”
+
+Yeh kehkar,
+Bhishma chup ho gaye —
+jaise dharma khud bolkar
+maun ho gaya ho.
+
+🌼 Moral (Seekh)
+
+🕊️ Satya ka bal sabse bada hota hai
+
+👑 Pratigya todkar jeeta hua rajya, rajya nahi hota
+
+⚖️ Dharma mein bhi buddhi aur maryada chahiye
+
+🔥 Aapatkaal mein bhi satya ka tyag nahi"""
             create_image_text_layout(text_content=text2, layout="full")
 
         # Section 1.7.40
         with st.expander("Section 1.7.40"):
-            text1 = """ """
+            text1 = """ 
+            Bhishma bole:
+
+“Maata, main aapko
+praachin itihaas sunata hoon,
+jisse aapatkaal ka dharmic marg samjha ja sake.”
+
+🔱 Parashurama aur Kshatriyon ka Vinash
+
+Praachin kaal mein
+Rama Jamadagni-putra (Parashurama)
+ne apne pita ke vadh se krodhit hokar
+Haihaya raja Arjuna ko apni parashu se maar diya
+aur uske hazaar bhuja kaat di."""
             create_image_text_layout("attached_assets/chapter1/1.7.40.jpg", text1, layout="side", image_position="left")
-            text2 = """ """
+            text2 = """ 
+            Uske baad bhi unka krodh shaant na hua.
+Unhone 21 baar Kshatriya vansh ka nash kiya.
+
+Jab dharti Kshatriyon se rikt ho gayi,
+tab Kshatriya striyon ne
+Brahmanon se santaan utpann karayi,
+kaamna se nahi, dharma se.
+
+📜 Vedo ka niyam kehta hai:
+
+“Jo putra aise janme,
+vah maa ke pati ka hi maana jaata hai.”
+
+Is prakar Kshatriya vansh punah jeevit hua.
+
+🌱 Rishi Dirghatamas ki Katha
+
+Bhishma ne kaha:
+
+“Ab ek aur katha suno.”
+
+Ek mahaan rishi the — Utathya
+unki patni ka naam tha Mamata.
+
+Utathya ke chhote bhai
+Vrihaspati (Devguru)
+ne kaamna-vash Mamata se sambandh chaha.
+
+Mamata ne rokte hue kaha:
+
+“Main garbhavati hoon.
+Jo shishu mere garbh mein hai,
+usne garbh mein hi Ved aur Anga padh liye hain.
+Ek hi garbh mein do shishuon ka sthaan nahi.”
+
+Garbh se hi shishu ne kaha:
+
+“He pita, ruk jaaiye.
+Main pehle se yahan hoon.”
+
+Par Vrihaspati ne na maana.
+Garbh-shishu ne beej ko pravesh se roka
+aur veerya dharti par gir gaya.
+
+Krodhit hokar Vrihaspati ne shraap diya:
+
+“Tum sada andhakaar mein rahoge!”
+
+Is shraap se
+Dirghatamas ka janm hua —
+jo janm se andhe the
+par Ved-gyaani bhi the.
+
+🕯️ Dirghatamas ka Parivaar aur Tyag
+
+Dirghatamas ne
+Pradveshi naamak kanya se vivah kiya
+aur kai putra utpann hue,
+par ve lobhi aur moorkh nikle.
+
+Ashram ke rishiyon ne
+un par galat aarop lagaye
+aur patni bhi unse vimukh ho gayi.
+
+Patni boli:
+
+“Pati use kehte hain jo poshan aur raksha kare.
+Aap to swayam asahay hain,
+main hi sab sambhaal rahi hoon.”
+
+Dirghatamas ne kaha:
+
+“Mujhe Kshatriyon ke paas le chalo,
+tum dhani ho jaogi.”
+
+Patni ne inkaar kiya
+aur putron ko aadesh diya:
+
+“Is vriddh ko Ganga mein baha do!”
+
+Putron ne unhe
+bedi se baandh kar Ganga mein baha diya.
+
+🌊 Raja Bali aur Vansh ka Uddhaar
+
+Ganga mein bahte hue
+Dirghatamas ko
+Raja Bali ne dekha aur bachaya.
+
+Raja ne vinati ki:
+
+“Mere vansh ke liye
+dharmic putra utpann kijiye.”
+
+Raja ki patni Sudeshna
+rishi ke paas na jaakar
+apni dhaai (nurse) bhej deti hai.
+
+Us dhaai se
+11 mahaan putra hue —
+jinmein Kakshivat pramukh tha.
+
+Raja Bali ne poocha:
+
+“Kya ye mere putra hain?”
+
+Rishi bole:
+
+“Nahi.
+Ye mere hain.
+Tumhari patni ne mera apmaan kiya.”
+
+Phir Sudeshna swayam aayi.
+Rishi ne keval sparsh se kaha:
+
+“Tumhare paanch putra honge —
+Anga, Vanga, Kalinga, Pundra, Suhma.”
+
+Aur unke naam par
+desh prasiddh hue.
+
+⚖️ Bhishma ka Sandesh Satyavati ko
+
+Bhishma ne katha samapt karte hue kaha:
+
+“Maata,
+is prakar aapatkaal mein
+Brahman se Kshatriya vansh ki raksha hui.
+
+Yeh dharma ke viruddh nahi,
+balki dharma ki raksha hai.
+
+Ab aap gyaaniyon se vichaar karke
+jo uchit ho, wahi nirnay lein.”
+
+🌼 Moral / Seekh
+
+🔥 Aapatkaal ka dharma alag hota hai
+
+🧬 Vansh-raksha ke liye Niyoga dharmic tha
+
+⚖️ Niyat shuddh ho to kriya paap nahi
+
+🕊️ Dharma sthir hai, par uska marg paristhiti ke anusaar hota hai"""
             create_image_text_layout(text_content=text2, layout="full")
 
         # Section 1.7.41
         with st.expander("Section 1.7.41"):
-            text1 = """ """
+            text1 = """ 
+            Bhishma bole:
+
+“Maata, Bharata vansh ko bachane ka upaay suno.
+Ek mahaan, siddh Brahmana ko bulaya jaaye
+aur Vicitravirya ki patniyon par santaan utpann karai jaaye.
+Yeh aapatkaal ka dharm hai.”
+
+🌊 Satyavati ka Rahasya (Vyasa ka Janm)
+
+Satyavati, halki si laaj ke saath, Bhishma se boli:
+
+“Tum dharm aur satya ho, isliye meri baat suno.”
+
+“Yuvavastha mein, main apne pita ki naav chalati thi.”
+
+Ek din Maharshi Parashara Yamuna paar karne aaye.
+
+Unki tapasya ke bhay aur shraap ke darr se
+Satyavati ne niyog-sambandh sweekar kiya.
+
+✨ Parashara ka varadaan:
+
+Machhli ki gandh divya sugandh mein badal gayi
+
+Kumari avastha barkarar rahi
+
+Dweep par janma putra hua — Dvaipayana (Vyasa)"""
             create_image_text_layout("attached_assets/chapter1/1.7.41.jpg", text1, layout="side", image_position="left")
-            text2 = """ """
+            text2 = """ 
+            📜 Vyasa ka Mahatva
+
+Vedo ko chaar bhaagon mein vibhaajit kiya → isliye Vyasa
+
+Shyaam varna → Krishna
+
+Maha-tapasvi, nishkaam, satyavaadi
+
+Janm ke turant baad tapasya ke liye chale gaye
+
+Jaate samay kaha:
+
+“Maata, jab bhi sankat ho, mujhe smaran karna.”
+
+🔔 Vyasa ka Aahvaan
+
+Bhishma ne poorn samarthan diya:
+
+“Jo dharm, arth aur kaam ko santulit kare, wahi buddhi hai.”
+
+Satyavati ne man hi man Vyasa ka smaran kiya
+Aur Vyasa turant prakat ho gaye — bina kisi ko pata chale.
+
+🤍 Maa–Putra Milan
+
+Satyavati ne Vyasa ko gale lagaya, aansu bahaaye
+
+Vyasa ne unhe shaant kiya aur kaha:
+
+“Aapka aadesh poora karne aaya hoon.”
+
+Ritual ke baad Satyavati ne kaha:
+
+“Tum mere bade putra ho, Vicitravirya chhota.
+Bhishma satya ke kaaran raj aur santaan tyag chuke hain.
+Isliye vansh-raksha tumhara kartavya hai.”
+
+⚖️ Niyoga ka Niyam (Vyasa ki Shartein)
+
+Vyasa bole:
+
+“Main dharm ke liye taiyaar hoon”
+
+“Par ek saal ka vrat patniyon ko rakhna hoga”
+
+“Bina shuddhi ke koi mere paas nahi aa sakti”
+
+Satyavati boli:
+
+“Rajya bina raja ke nasht ho jaata hai
+Isliye der nahi ho sakti.”
+
+🔥 Vyasa ki Kathor Shart
+
+Vyasa ne spasht kaha:
+
+“Agar abhi santaan chahiye,
+to patniyon ko meri kathor roop, gandh aur bhayanak ves sahna hoga.
+Yahi unki tapasya hogi.
+Jo sah legi, wahi uttam putra ko janm degi.”
+
+👑 Ambika ko Bulawa
+
+Vyasa ne kaha:
+
+“Kosala ki rajkumari (Ambika)
+shuddh vastra aur aabhooshan pehen kar
+apne kaksh mein meri pratiksha kare.”
+
+Vyasa adrishya ho gaye.
+
+🕊️ Satyavati ka Ambika se Anurodh
+
+Satyavati ne Ambika se kaha:
+
+“Yeh dharma ke viruddh nahi”
+
+“Bharata vansh tum par nirbhar hai”
+
+“Tumhara putra Indra saman tejashvi raja hoga”
+
+Bahut mushkil se Ambika ne sammati di.
+
+🎉 Daan–Punya aur Yagya
+
+Brahmanon ko bhojan
+
+Rishiyon ka satkaar
+
+Rajya mein dharmic taiyaari
+
+🌼 Is Section ki Seekh
+
+🔱 Niyoga aapatkaal ka dharm tha, kaamna ka nahi
+
+⚖️ Vansh-raksha raj-dharma ka mool hai
+
+🧘 Tapasya sirf van mein nahi, kartavya mein bhi hoti hai
+
+👁️ Bahar ka roop nahi, man ki sthirata santaan ka bhavishya tay karti hai"""
             create_image_text_layout(text_content=text2, layout="full")
 
         # Section 1.7.42
