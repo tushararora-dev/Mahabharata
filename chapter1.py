@@ -16010,37 +16010,742 @@ Rajya mein dharmic taiyaari
 
         # Section 1.7.42
         with st.expander("Section 1.7.42"):
-            text1 = """ """
+            text1 = """ 
+            🔱 Paristhiti (Background)
+
+Vicitravirya ki mrityu ke baad Kuru vansh ko aage badhane ki zimmedari aayi.
+Bhishma ne apni pratigya ke kaaran santaan utpann karne se inkaar kar diya.
+Isliye Satyavati ne apne putra Vedavyasa ko niyog ke liye bulaya.
+
+👶 1) Ambika se Dhritarashtra ka janm
+
+Ambika (badi rani) ko shuddhi ke baad shayan-kaksh mein bithaya gaya
+
+Vyasa jab aaye,
+
+unka ugra roop, jataaye, daadhi, teekhi aankhen dekhkar
+
+Ambika dar ke maare aankhen band kar leti hai"""
             create_image_text_layout("attached_assets/chapter1/1.7.42.jpg", text1, layout="side", image_position="left")
-            text2 = """ """
+            text2 = """ 
+            🧿 Parinaam
+
+Vyasa ne kaha:
+
+Putra:
+
+10,000 haathiyon jitni shakti
+
+mahaan raja-rishi
+
+100 putron ka pita
+
+Par maa ke dosh ke kaaran andha hoga
+
+➡️ Is prakar Dhritarashtra ka janm hua —
+shaktishaali, gyaani, par drishtihin.
+
+👑 2) Ambalika se Pandu ka janm
+
+Ambalika (chhoti rani) Vyasa ko dekhkar
+
+bhay se peeli (pale) pad jaati hai
+
+Vyasa bole:
+
+“Tumhara putra Pand u kehlayega (arth: peela / feeka)”
+
+✨ Parinaam
+
+Pandu ka janm hua
+
+Roop-gun se yukt, shubh lakshan
+
+Aage chal kar Pandavon ka pita bana
+
+🌿 3) Dasī se Vidura ka janm (sabse mahatvapurn)
+
+Ambika dobara niyog ke liye mana kar deti hai
+
+Apni jagah:
+
+ek sundar, vinamra, sanskari dasi ko bhej deti hai
+
+🙏 Vyasa prasann hote hain
+
+Vyasa ne kaha:
+
+“Tu ab dasi nahi rahegi”
+
+“Tera putra:
+
+mahaan buddhimaan
+
+dharm aur rajneeti ka gyata
+
+sabse gyaani hoga”
+
+➡️ Is prakar Vidura ka janm hua
+
+⚖️ Vidura ka vishesh mahattva
+
+Dhritarashtra aur Pandu ka bhai
+
+kaam-krodh se mukt
+
+Rajneeti, nyay, dharm ka mahaan gyaata
+
+Dharamraj Yama ka avtar,
+jo Rishi Mandavya ke shaap se dharti par aaye
+
+👉 Isi liye Vidura:
+
+hamesha satya aur dharm bolta hai
+
+Duryodhan jaise logon ko bhi nidar updesh deta hai
+
+🧬 Vansh-Saral Rekha
+
+Vyasa + Ambika → Dhritarashtra (andha)
+
+Vyasa + Ambalika → Pandu (peela, par veer)
+
+Vyasa + Dasi → Vidura (maha-gyani)
+
+📜 Gahra Arth (Hidden Dharma Message)
+
+Mann ki sthiti santaan par prabhav daalti hai
+
+Bhay → andhapan
+
+Kampan → durbalta
+
+Vinamrata → mahagyaan
+
+Janm se nahi, gun se mahanata hoti hai
+
+Raja ke ghar janme Dhritarashtra–Pandu se
+
+Dasi ka putra Vidura adhik mahan nikla
+
+Dharma ka vansh sharir se nahi, charitra se chalta hai"""
             create_image_text_layout(text_content=text2, layout="full")
 
         # Section 1.7.43
         with st.expander("Section 1.7.43"):
-            text1 = """ """
+            text1 = """ 
+            🌿 Ek Mahaan Rishi
+
+Bahut pehle ki baat hai.
+Ek Brahmana rishi the — Mandavya Rishi.
+Woh satya, dharma aur tapasya mein poori tarah leen the.
+
+Rishi Mandavya:
+
+Apne ashram ke bahar ped ke neeche baithte the
+
+Haath upar uthaye,
+
+maun vrat (bilkul chup rehna) ka palan karte the
+
+Saalon tak bina bole tapasya karte rahe
+
+Unka mann bilkul shant tha.
+Unka hriday pavitra tha. 🌸"""
             create_image_text_layout("attached_assets/chapter1/1.7.43.jpg", text1, layout="side", image_position="left")
-            text2 = """ """
+            text2 = """ 
+            🗡️ Chor aur Galatfehmi
+
+Ek din achanak:
+
+Kuch chor loot ka samaan lekar bhagte hue aaye
+
+Raja ke sipahi unka peecha kar rahe the
+
+Dar ke maare:
+
+Choron ne ashram ke paas hi loot chhupa di
+
+Aur idhar-udhar chup gaye
+
+Tabhi sipahi aa gaye.
+
+❓ Sipahiyon ka Sawaal
+
+Sipahiyon ne Mandavya Rishi ko dekha.
+Woh bole:
+
+“Hey Brahman!
+Chor kis taraf gaye?
+Bata do taaki hum unhe pakad saken.”
+
+Par Rishi Mandavya:
+
+Maun vrat mein the
+
+Na sach bole
+
+Na jhooth bole
+
+Bilkul chup rahe
+
+⚖️ Anyay (Injustice)
+
+Sipahiyon ne ashram ki talashi li.
+Unhe:
+
+Chor bhi mil gaye
+
+Loot ka samaan bhi mil gaya
+
+Par galat soch ke kaaran:
+
+Sipahiyon ne socha
+
+“Yeh Rishi bhi inka saathi hoga”
+
+👉 Bina sach jaane,
+👉 Bina poori jaanch,
+
+Unhone:
+
+Rishi ko bhi pakad liya
+
+Choron ke saath raja ke saamne le gaye
+
+😢 Bhayanak Saza
+
+Raja ne bhi bina dhyaan diye:
+
+Rishi ko choron ke saath saja suna di
+
+Sipahiyon ne:
+
+Mandavya Rishi ko suli par chadha diya (impale kar diya)
+
+Par ek chamatkaar hua ✨
+
+🔥 Tapasya ki Shakti
+
+Rishi mara nahi
+
+Na khaya, na piya
+
+Fir bhi zinda rahe
+
+Unki tapasya itni shaktishaali thi ki:
+
+Unhone apni pran-shakti se jeevan bachaya
+
+Raat ke samay:
+
+Anya mahan rishi
+
+pakshiyon ka roop lekar aaye
+
+Unhone Mandavya Rishi ko dekha:
+
+Suli par bhi dhyaan mein leen
+
+Chehre par shanti
+
+Mann mein krodh nahi
+
+🕊️ Rishiyon ka Prashn
+
+Dusre rishi dukhi ho gaye.
+Unhone poocha:
+
+“Hey Mahatma,
+Aapka kaunsa paap tha
+jiske kaaran aapko itni kathor saja mili?”
+
+Mandavya Rishi:
+
+Ab bhi shaant the
+
+Par is anyay ne dharma ka ek bada prashn khada kar diya
+
+👉 Yahin se Dharmaraj ka shaap shuru hota hai,
+jo aage chal kar Vidura ke janm ka kaaran banta hai…
+
+🌼 Moral (Seekh)
+
+Chup rehna hamesha galat nahi hota,
+par bina samjhe faisla lena galat hota hai
+
+Satya aur dharma ko pehchaan zaroori hai,
+sirf vesh ya sthiti se nyay nahi hota
+
+Anyay chahe raja se ho ya praja se,
+uska phal milta hi milta hai"""
             create_image_text_layout(text_content=text2, layout="full")
 
         # Section 1.7.44
         with st.expander("Section 1.7.44"):
-            text1 = """ """
+            text1 = """ 
+            🌿 Rishi ka Shant Uttar
+
+Jab dusre rishiyon ne poocha,
+“Yeh sab kis galti ka phal hai?”
+
+Tab Mandavya Rishi bole:
+
+“Isme main kisi aur ko dosh nahi deta.
+Shayad yeh mere hi karm ka phal hai.”
+
+Unke shabd shant the.
+Unke mann mein krodh nahi, sirf samyak soch thi."""
             create_image_text_layout("attached_assets/chapter1/1.7.44.jpg", text1, layout="side", image_position="left")
-            text2 = """ """
+            text2 = """ 
+            👑 Raja ka Pachhtawa
+
+Udhar:
+
+Raja ke sipahiyon ne dekha
+
+Rishi abhi bhi zinda hain
+
+Yeh sunkar:
+
+Raja ghabra gaya
+
+Apne mantriyon ke saath Rishi ke paas aaya
+
+Raja ne vinamr hokar kaha:
+
+“Hey Mahaan Rishi,
+Maine agyaan mein aapko dand diya.
+Mujhe maaf kar dijiye.”
+
+Mandavya Rishi:
+
+Krodhit nahi hue
+
+Raja ko kshama kar diya
+
+🪵 Suli ka Tukda
+
+Raja ne:
+
+Rishi ko suli se nikaalne ki koshish ki
+
+Par poori tarah nikal nahi paaya
+
+Isliye:
+
+Suli ka ek hissa kaat diya
+
+Thoda sa hissa Rishi ke sharir ke andar reh gaya
+
+Is haal mein bhi:
+
+Rishi tapasya karte rahe
+
+Bade-bade lok jeet liye
+
+Isliye unka naam pada:
+👉 Ani-Mandavya
+(jinke sharir mein suli ka hissa tha)
+
+⚖️ Dharmaraj se Sawal
+
+Ek din Ani-Mandavya:
+
+Dharmaraj (Yama) ke paas gaye
+
+Aur poocha:
+
+“Maine kaunsa paap kiya
+jiske liye mujhe itna bada dand mila?”
+
+Dharmaraj bole:
+
+“Ek baar tumne
+ek chhote keede ko ghaas mein chhed diya tha.
+Yeh usi ka phal hai.”
+
+❗ Rishi ka Virodh
+
+Mandavya Rishi ne poocha:
+
+“Yeh maine kab kiya?”
+
+Dharmaraj bole:
+
+“Tum bachpan mein the.”
+
+Tab Rishi bole:
+
+“Bachcha jab 12–14 saal se chhota ho,
+uske karm ko paap nahi maana ja sakta.
+
+Itne chhote karm ke liye
+itna bada dand anyay hai.”
+
+🔥 Shaap aur Naya Niyam
+
+Mandavya Rishi ne kaha:
+
+“Is anyay ke kaaran,
+tumhe manushya lok mein
+Shudra yoni mein janm lena hoga.
+
+Aur aaj se yeh niyam rahega:
+
+14 saal se neeche ka karm → paap nahi
+
+14 saal ke baad → karm ka phal milega”
+
+🌟 Vidura ka Janm
+
+Is shaap ke kaaran:
+
+Dharmaraj ne Vidura ke roop mein janm liya
+
+Vidura:
+
+Bahut buddhiman the
+
+Neeti, dharma aur rajneeti jaante the
+
+Lobha aur krodh se door
+
+Hamesha Kuru vansh ke hit ke baare mein sochte the
+
+🌼 Moral (Seekh)
+
+Nyay bina samjhe dena paap hai
+
+Bachpan ke karm aur samajh mein farq hota hai
+
+Dharma bhi galti kare to uska phal milta hai
+
+Vidura jaise log janm se nahi, karm se mahan bante hain"""
             create_image_text_layout(text_content=text2, layout="full")
 
         # Section 1.7.45
         with st.expander("Section 1.7.45"):
-            text1 = """ """
+            text1 = """ 
+            🌸 Teen Rajkumaron ke Janm se Badlav
+
+Jaise hi Dhritarashtra, Pandu aur Vidura ka janm hua,
+Kurujangala, Kurukshetra aur poora Kuru desh khushiyon se bhar gaya।
+
+Zameen ne acchi fasal deni shuru ki
+
+Phal meethe ho gaye
+
+Phool mehkaane lage
+
+Baadal time par baarish karne lage
+
+Gaay-bail khush the 🐄
+Panchhi aur jaanwar bhi anand mein the 🕊️"""
             create_image_text_layout("attached_assets/chapter1/1.7.45.jpg", text1, layout="side", image_position="left")
-            text2 = """ """
+            text2 = """ 
+            🏙️ Khushhaal Sheher aur Log
+
+Sheher aur gaon:
+
+Vyapari, kalakar, shilpi se bhar gaye
+
+Bazaar zinda aur rangeen ho gaye
+
+Log:
+
+Sahasik the
+
+Imaandaar the
+
+Padhe-likhe the
+
+Aur sabse badi baat — khush the
+
+Na chor the ❌
+Na paapi log ❌
+
+Lagta tha jaise
+✨ Satya Yug wapas aa gaya ho ✨
+
+❤️ Prem, Satya aur Dharma
+
+Log:
+
+Ek-doosre se prem karte the
+
+Yagya, daan aur satya mein vishwas rakhte the
+
+Na:
+
+Ghamand ❌
+
+Gussa ❌
+
+Laalach ❌
+
+Sirf:
+
+Saaf mann
+
+Nirdosh khel
+
+Sachi khushi 😊
+
+🏰 Hastinapur ka Vaibhav
+
+Kuru rajdhani Hastinapur:
+
+Samundar ki tarah bhari hui
+
+Bade-bade mahal
+
+Unche dwar aur toran
+
+Bilkul lagta tha jaise
+✨ Doosri Amaravati ✨
+
+Log:
+
+Nadiyon, talab aur bageechon mein ghoomte
+
+Utsav aur utsah se jeete
+
+🌾 Poore Desh Mein Samriddhi
+
+Poore rajya mein:
+
+Na koi kanjoos tha
+
+Na koi vidhwa stree
+
+Kuan aur talab hamesha bhare rehte
+
+Rishi aur Brahman ke ghar bhi dhan se poore the
+
+Har taraf:
+🎉 Utsav hi utsav 🎉
+
+👑 Bhishma ka Shasan
+
+Bhishma:
+
+Rajya ko dharma se chalate the
+
+Har jagah yagya-stambh khade the
+
+Dharma ka chakra aisa chala ki:
+
+Dusre rajyon ke log bhi
+apna ghar chhod kar
+Kuru desh mein basne lage
+
+👦 Teen Rajkumaron ki Shiksha
+
+Dhritarashtra, Pandu aur Vidura:
+
+Bhishma ne unhe
+apne hi putron jaise pala
+
+Unhone seekha:
+
+Vedas
+
+Vrat aur niyam
+
+Dhanurvidya 🏹
+
+Ghudsawari 🐎
+
+Gada, talwar aur dhal
+
+Hathi yudh 🐘
+
+Neeti aur rajdharma
+
+🌟 Teenon ki Visheshata
+
+Pandu → Dhanurvidya mein sabse aage
+
+Dhritarashtra → Shareerik shakti mein sabse balwaan
+
+Vidura → Dharma, neeti aur gyaan mein sabse mahaan
+
+Teenon lokon mein:
+👉 Vidura jaisa dharmgyani koi nahi tha
+
+🏆 Lokpriya Kahawat
+
+Har jagah yeh baat chal padi:
+
+Maaon mein → Kashi ki rajkumariyaan shreshth
+
+Deshon mein → Kurujangala shreshth
+
+Dharmiyon mein → Vidura shreshth
+
+Shehron mein → Hastinapur shreshth
+
+👑 Raja Kaun Bana?
+
+Pandu raja bane
+
+Dhritarashtra andhe hone ke kaaran raja nahi bane
+
+Vidura Shudra janm ke kaaran raja nahi bane
+
+🌿 Aage Kya?
+
+Ek din:
+
+Mahaan Bhishma
+
+Neeti aur satya ke gyani Vidura se
+
+Rajdharma par baat karte hain…
+
+👉 Wahin se aage ki kahani shuru hoti hai…
+
+🌼 Moral (Seekh)
+
+Achha shasan poore desh ko swarg bana deta hai
+
+Shakti, kala aur gyaan — teenon zaroori hain
+
+Janm se nahi, gun se mahan banaya jaata hai
+
+Dharma se rajya chale, to sab khush rehte hain"""
             create_image_text_layout(text_content=text2, layout="full")
 
         # Section 1.7.46
         with st.expander("Section 1.7.46"):
-            text1 = """ """
+            text1 = """ 
+            Section CX — Kuru Vansh ke Vivah aur Gandhari ka Vrat
+            👑 Bhishma ka Soch-vichaar
+
+Bhishma ne Vidura se kaha:
+
+“Hamare Kuru vansh ne hamesha dharma aur gunon ke saath raj kiya hai.
+Is vansh ko Vyasa, Satyavati aur maine milkar zinda rakha hai, taaki yeh khatam na ho.
+
+Ab zaroori hai ki yeh vansh
+🌊 samundar ki tarah phir se phail jaaye.”
+
+Bhishma bole:
+“Teen rajkumariyan hain jo is vansh ke layak hain:
+
+Yadava vansh ki rajkumari
+
+Gandhara raja Suvala ki beti
+
+Madra desh ki rajkumari
+
+Teeno sundar hain, shuddh vansh ki hain, aur hamare liye uchit hain.
+Tum kya kehte ho?”"""
             create_image_text_layout("attached_assets/chapter1/1.7.46.jpg", text1, layout="side", image_position="left")
-            text2 = """ """
+            text2 = """ 
+            🧠 Vidura ka Vinamr Uttar
+
+Vidura ne shant swar mein kaha:
+
+“Pitashree,
+Aap hi hamare pita, mata aur guru ho.
+Jo aapko sahi lage, wahi hamare liye sahi hai.”
+
+👉 Yeh tha Vidura ka vinay aur samarpan.
+
+🌸 Gandhari ka Vardaan
+
+Thode samay baad, Bhishma ne Brahmanon se suna:
+
+👉 Gandhari, jo Gandhara raja Suvala ki beti thi,
+ne Bhagwan Shiv ki bhakti karke vardaan paaya tha:
+
+✨ “Tumhe sau putron ka var milega.” ✨
+
+Yeh sunkar Bhishma ne turant
+Gandhara desh mein sandesh bheja.
+
+🤝 Vivah ka Nirnay
+
+Raja Suvala pehle hichkichaaye,
+kyunki Dhritarashtra andhe the.
+
+Lekin phir unhone socha:
+
+Kuru vansh ka maan
+
+Unki maryada
+
+Unka achar-vyavhaar
+
+Aur apni sundar aur pavitra beti Gandhari
+Dhritarashtra ko dene ka nirnay liya.
+
+🕊️ Gandhari ka Mahaan Tyag
+
+Jab Gandhari ko pata chala:
+
+Unke pati andhe hain
+
+Mata-pita ne vivah sweekar kar liya hai
+
+Toh unhone ek adbhut nirnay liya:
+
+👉 Unhone apni aankhon par patti baandh li
+Aur kaha:
+“Main bhi wahi dekhoongi
+jo mere pati dekh paate hain.”
+
+🌼 Yeh tha prem, samman aur samarpan ka shikhar.
+
+🎉 Shaadi ka Utsav
+
+Shakuni, Gandhari ka bhai:
+
+Apni behen ko Kuru rajya laya
+
+Vidhi-vidhan se uska daan kiya
+
+Bhishma ke nirdeshan mein:
+
+Shaadi dhoom-dhaam se hui
+
+Kuru vansh ne Gandhari ka
+bade samman se swagat kiya
+
+Shaadi ke baad:
+
+Shakuni uphaar dekar
+
+Bhishma ko pranam karke
+
+Apne desh laut gaye
+
+🌺 Gandhari ka Acharan
+
+Gandhari:
+
+Sab Kuruvanshiyon ko
+apne shishtachar se prasann karti thi
+
+Hamesha pati-vrata rahi
+
+Bade logon ka samman karti rahi
+
+👉 Itni pavitra thi ki
+apne pati ke alawa
+kisi purush ka naam bhi nahi leti thi
+
+🌼 Moral (Seekh)
+
+Tyag aur prem se rishton ko pavitra banaya jaata hai
+
+Sacha saath sukh-dukh dono mein hota hai
+
+Vansh ki shakti gun aur sanskaar se hoti hai
+
+Vinay aur shraddha se bade faisle sahi hote hain"""
             create_image_text_layout(text_content=text2, layout="full")
 
         # Section 1.7.47
