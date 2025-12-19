@@ -16750,37 +16750,559 @@ Vinay aur shraddha se bade faisle sahi hote hain"""
 
         # Section 1.7.47
         with st.expander("Section 1.7.47"):
-            text1 = """ """
+            text1 = """ 
+            Is section mein Karna ke janm ka rahasya bataya gaya hai.
+
+Pritha (Kunti) ka parichay
+
+Yadava kul mein Sura naam ka raja tha, jo Vasudeva (Shri Krishna ke pita) ka pita tha
+
+Sura ki beti thi Pritha, jo baad mein Kunti ke naam se prasiddh hui
+
+Sura ne apni beti Pritha ko apne nishsantaan mitra Kuntibhoja ko godh de diya
+
+Kunti apne adoptive pita ke ghar Brahmanon aur atithiyon ki seva karti thi."""
             create_image_text_layout("attached_assets/chapter1/1.7.47.jpg", text1, layout="side", image_position="left")
-            text2 = """ """
+            text2 = """ 
+            Durvasa ka vardaan
+
+Ek din Rishi Durvasa Kunti ki seva se prasann ho gaye
+
+Unhone Kunti ko ek mantra diya:
+
+“Is mantra se tum kisi bhi devta ko bula sakti ho,
+aur woh devta tumhe santaan dega.”
+
+Durvasa ko bhavishya dikh raha tha—
+ki Pandu ke shraap ke baad yeh mantra kaam aayega.
+
+Kunti ki jijnasa aur Surya ka aagman
+
+Kunti ne sirf mantra ki shakti jaanchne ke liye
+Surya dev (Arka / Vivasvat) ko bula liya
+
+Surya dev prakat ho gaye
+
+Kunti darr gayi aur boli:
+
+“Maine sirf mantra pariksha ke liye bulaya tha,
+mujhe maaf kijiye.”
+
+Surya ne kaha:
+
+“Devta ko bulaana vyarth nahi jaata.
+Tumhari pukar ka phal milna hi chahiye.”
+
+Karna ka janm
+
+Surya dev ke yog se Karna ka janm hua
+
+Karna:
+
+janm se hi kavach (armor) aur kundal ke saath paida hua
+
+adbhut tej aur saundarya se yukt tha
+
+Surya dev ne Kunti ko phir se kanya bana diya
+aur swarg chale gaye.
+
+Kunti ka kathin nirnay
+
+Kunti:
+
+samaj aur parivaar ke darr se
+
+is bachche ko apna nahi paayi
+
+Bahut dukh ke saath:
+
+Kunti ne Karna ko tokri mein rakhkar nadi mein chhod diya
+
+Radha aur Adhiratha
+
+Radha aur uske pati Adhiratha (Sut jati) ne
+nadi se bachche ko uthaya
+
+Use apna beta maana
+
+Naam diya: Vasusena
+
+Baad mein woh Karna ke naam se prasiddh hua
+
+Karna ka daan aur Indra
+
+Karna:
+
+Surya ki roz pooja karta tha
+
+daan mein kabhi “na” nahi kehta tha
+
+Indra ne:
+
+Brahman ka roop dharan karke
+
+Karna se uska janm-jaat kavach aur kundal maang liya
+
+Karna ne bina soche:
+
+apna kavach kaat kar daan de diya
+
+Prasann hokar Indra ne diya:
+
+Vasavi Shakti
+
+“Is shastra se tum jis shatru ko chahoge,
+woh avashya marega (sirf ek baar).”
+
+Isi kaaran Vasusena ka naam pada:
+👉 Karna (jo apna kavach kaat de)
+
+Moral (Seekh) 🌱
+
+Karna janm se mahaan tha, par uska jeevan tyag aur sangharsh se bhara raha
+
+Daan aur kartavya uske liye janm se bada tha
+
+Kunti ka nirnay galat nahi, par majboori bhara tha
+
+Mahabharata sikhata hai:
+
+“Dharm hamesha seedha nahi hota,
+par satya aur tyag hamesha mahaan hote hain.”"""
             create_image_text_layout(text_content=text2, layout="full")
 
         # Section 1.7.48
         with st.expander("Section 1.7.48"):
-            text1 = """ """
+            text1 = """ 
+            Kunti, jiska asli naam Pritha tha,
+Kuntibhoja ki beti thi.
+Uski aankhen badi aur sundar thi.
+Woh khoobsurat thi, gunon se bhari thi,
+aur dharm ke raaste par chalne wali thi.
+
+Par ek ajeeb baat hui.
+Itni qualities hone ke baad bhi,
+kisi raja ne uska haath nahi manga.
+
+Yeh dekhkar Kuntibhoja ko chinta hui.
+Unhone faisla liya:
+
+“Main swayamvar rakhunga.”"""
             create_image_text_layout("attached_assets/chapter1/1.7.48.jpg", text1, layout="side", image_position="left")
-            text2 = """ """
+            text2 = """ 
+            Swayamvar ka din
+
+Bahut se raja aur rajkumar aaye.
+Sab apne shaan-shaukat ke saath baithe the.
+
+Jab Kunti sabha mein aayi,
+toh uski nazar ek raja par jaakar ruk gayi.
+
+Woh the Raja Pandu —
+Bharat vansh ke shresth yoddha.
+Sher jaise garv se khade.
+Chaudhi chhaati, tez aankhen,
+aur sabse alag chamak.
+
+Kunti ka mann hil gaya.
+Dil tez dhadakne laga.
+Par chehre par sharam aur maryada thi.
+
+Dheere-dheere chal kar,
+usne varmala Pandu ke gale mein daal di.
+
+Pandu ka chayan
+
+Sab raja samajh gaye.
+Kunti ne Pandu ko chuna tha.
+
+Baaki raja bina gussa kiye,
+shaanti se apne rajya laut gaye.
+
+Vivah aur naya jeevan
+
+Kuntibhoja ne dharm ke saath
+Kunti aur Pandu ka vivaah karwaya.
+
+Dono saath aise lag rahe the
+jaise Indra aur Paulomi swarg mein.
+
+Vivah ke baad:
+
+Kuntibhoja ne Pandu ko bahut dhan diya
+
+Aashirvaad ke saath unhe vida kiya
+
+Pandu apni sena, jhande,
+aur Brahmanon ke vedic mantraon ke saath
+apni rajdhani pahunche.
+
+Aur wahan:
+
+Pandu ne Kunti ko rani ke roop mein sthapit kiya
+
+Moral (Seekh) 🌼
+
+Sahi vyakti ka chayan shor mein nahi,
+dil ki shanti mein hota hai
+
+Kunti ne roop nahi,
+veerata aur dharm dekha
+
+Swayamvar sikhata hai:
+
+“Apni zindagi ka faisla
+khud soch samajh kar lena chahiye.”"""
             create_image_text_layout(text_content=text2, layout="full")
 
         # Section 1.7.49
         with st.expander("Section 1.7.49"):
-            text1 = """ """
+            text1 = """ 
+            Kuch samay baad,
+Bhishma, jo Santanu ke buddhimaan putra the,
+ne socha ki Pandu ki doosri shaadi honi chahiye.
+
+Woh bade rishiyon, Brahmanon
+aur chaar tarah ki sena ke saath
+Madra desh gaye.
+
+Madra ke Raja se milan
+
+Madra ke raja ne Bhishma ka
+bahut aadar se swagat kiya.
+Unhe baithne ko safed aasan diya,
+pair dhone ka jal diya,
+aur poora samman diya."""
             create_image_text_layout("attached_assets/chapter1/1.7.49.jpg", text1, layout="side", image_position="left")
-            text2 = """ """
+            text2 = """ 
+            Phir Bhishma ne shaant swar mein kaha:
+
+“Aapki behen Madri
+sundar, gunwaan aur pavitra hai.
+Main use Pandu ke liye maangne aaya hoon.”
+
+Madra ke raja bole:
+
+“Kurus ke saath rishta mere liye garv ki baat hai.
+Par hamare ghar ki ek parampara hai.
+Usse todna mere liye possible nahi.”
+
+Bhishma muskuraye.
+Unhone kaha:
+
+“Parampara ka sammaan hi sabse bada dharm hai.”
+
+Madri ka vivah
+
+Bhishma ne Madra ke raja ko
+bahut saare ratna, sona, kapde, haathi aur ghode diye.
+
+Khushi se Madra ke raja ne
+apni behen Madri ko Pandu ko arpit kar diya.
+
+Shubh din aur shubh muhurat mein,
+Pandu aur Madri ka vivaah hua.
+
+Pandu ne Madri ko
+apne mahal mein rani ke roop mein sthapit kiya.
+
+Pandu ka Vijay Abhiyan
+
+Kuch din baad,
+Pandu ne faisla kiya:
+
+“Ab rajya ko majboot banana hai.”
+
+Bhishma aur badon ko pranam karke,
+aashirvaad lekar,
+woh vishaal sena ke saath yuddh yatra par nikle.
+
+Pandu ne:
+
+Dakait rajyon ko haraya
+
+Magadha ke shaktishaali raja ko jeeta
+
+Mithila, Kasi, Sumbha, Pundra jaise deshon ko vash mein kiya
+
+Jahan-jahan Pandu gaye,
+wahan Kuru vansh ka yash failta gaya.
+
+Sab raja Pandu ke saamne
+haath jod kar khade hue
+aur bhent mein:
+
+sona–chandi
+
+haathi–ghode
+
+ratna, kapde aur anaj laaye
+
+Vijayi Raja ka Swagat
+
+Jab Pandu jeet kar
+Hastinapur laute,
+toh poora shehar khushi se bhar gaya.
+
+Bhishma sabke aage khade the.
+Pandu ne unke charan chhuye.
+
+Bhishma ne Pandu ko gale lagaya.
+Unki aankhon mein khushi ke aansu the.
+
+Nagade baje,
+shankh goonje,
+aur Pandu vijayi raja ke roop mein
+rajdhani mein pravesh kiya.
+
+Conclusion / Moral (Seekh) 🌼
+
+Parampara aur sammaan rishton ko mazboot banate hain
+
+Shakti ka sahi upyog rajya ko samriddh karta hai
+
+Vijay ke baad vinamrata hi asli mahaanta hai
+
+Pandu ne dikhaya:
+
+“Achha raja wahi hota hai
+jo jeet ke baad bhi jhukna jaane.”"""
             create_image_text_layout(text_content=text2, layout="full")
 
         # Section 1.7.50
         with st.expander("Section 1.7.50"):
-            text1 = """ """
+            text1 = """ 
+            Jab Pandu yuddh se vijay lekar laute,
+toh Dhritarashtra ke kehne par,
+unhone apni kamayi hui sampatti
+Bhishma, Dadi Satyavati,
+aur apni maayon ko arpit ki.
+
+Unhone Vidura ko bhi
+uska hissa bheja.
+Aur apne baaki rishtedaaron ko bhi
+prem se daan diya."""
             create_image_text_layout("attached_assets/chapter1/1.7.50.jpg", text1, layout="side", image_position="left")
-            text2 = """ """
+            text2 = """ 
+            Parivaar ki Khushi
+
+Bhishma, Satyavati
+aur Kosala ki raniyan
+sab Pandu ke daan se khush hue.
+
+Ambalika,
+apne veer putra Pandu ko gale lagakar
+utni hi prasann hui
+jaise Indra ki rani apne putra Jayanta ko dekh kar hoti hai.
+
+Usi dhan se
+Dhritarashtra ne paanch maha-yagya karaye.
+In yagyon mein
+hazaaron Brahmanon ko daan diya gaya.
+
+Poora rajya
+punya aur samriddhi se bhar gaya.
+
+Pandu ka Van ki Ore Jaana
+
+Kuch samay baad,
+Pandu ne ek bada nirnay liya.
+
+Rajmahal ke sukh,
+narangi shaiyya aur aishwarya chhod kar,
+woh Kunti aur Madri ke saath van chale gaye.
+
+Himalaya ke dakshini dhalan par,
+sala ke ghane vrikshon ke beech,
+ek sundar aur shaant jagah par
+unhone apna nivaas banaya.
+
+Wahan Pandu:
+
+mrigaya karte
+
+prakriti ke beech jeete
+
+aur van ke jeevan ko apnate
+
+Pandu apni dono patniyon ke saath
+aise lagte the
+jaise Airavata haathi
+do sundar haathiniyon ke saath ghoom raha ho.
+
+Van ke log
+unhe devta samaan maante the.
+
+Rajya ki Chinta
+
+Dhritarashtra ne aadesh diya
+ki Pandu ko van mein bhi
+kisi cheez ki kami na ho.
+
+Isliye rajya se
+unke liye
+sabhi sukh-suvidhaon ka prabandh hota raha.
+
+Vidura ka Grihastha Jeevan
+
+Isi beech,
+Bhishma ko pata chala
+ki Raja Devaka ki ek beti hai,
+jo gunwaan aur sundar hai.
+
+Bhishma use le aaye
+aur Vidura se vivaah karaya.
+
+Vidura ne uske saath
+grihastha dharm nibhaya
+aur unke kai santaan hui
+jo Vidura jaise gyaani aur vinamr bane.
+
+Conclusion / Moral (Seekh) 🌿
+
+Sampatti ka sahi upyog parivaar aur samaj ko jodta hai
+
+Rajya hone ke baad bhi tyaag mahaan logon ki pehchaan hota hai
+
+Van jeevan manushya ko vinamr aur prakriti ke kareeb karta hai
+
+Vidura ka jeevan sikhaata hai:
+
+“Janm se nahi,
+gun aur buddhi se mahaanta milti hai.”"""
             create_image_text_layout(text_content=text2, layout="full")
 
         # Section 1.7.51
         with st.expander("Section 1.7.51"):
-            text1 = """ """
+            text1 = """ 
+            Yeh kahani Kuru vansh ke do gharon ki hai.
+Ek taraf Dhritarashtra aur Gandhari,
+dusri taraf Pandu, Kunti aur Madri.
+
+Gandhari ka Vardaan
+
+Ek din Maharshi Vyasa
+thake aur bhookhe Gandhari ke mahal aaye.
+
+Gandhari ne unka
+bahut prem aur shraddha se seva ki.
+
+Vyasa khush hue.
+Unhone vardaan diya:
+
+👉 “Tumhe 100 putra honge,
+sab apne pita jaise shaktishaali.”"""
             create_image_text_layout("attached_assets/chapter1/1.7.51.jpg", text1, layout="side", image_position="left")
-            text2 = """ """
+            text2 = """ 
+            Lambi Pratiksha aur Dukh
+
+Samay beetta gaya.
+Do saal ho gaye,
+par Gandhari ka prasav nahi hua.
+
+Isi beech use pata chala
+ki Kunti ne ek tejasvi putra ko janam diya.
+
+Dukh aur vyatha mein,
+Gandhari ne gusse mein
+apne garbh par zor se prahar kar diya.
+
+Uske garbh se
+loha jaise kathor maans ka gola nikla.
+
+Gandhari toot gayi.
+Usne kaha:
+“Yeh mere 100 putra kaise ho sakte hain?”
+
+Vyasa ka Chamatkar
+
+Vyasa turant aaye.
+Unhone kaha:
+
+👉 “Mera vardaan kabhi vyarth nahi hota.”
+
+Unhone kaha:
+
+100 matke lao
+
+sab mein ghrit (ghee) bharo
+
+is maans ke gole ko
+thande paani se secho
+
+Kuch samay baad,
+woh gola 101 tukdon mein bat gaya.
+
+Har tukda
+ek matke mein rakha gaya.
+
+Vyasa bole:
+👉 “Do saal baad matke kholna.”
+
+Duryodhana ka Janm
+
+Sabse pehle Duryodhana paida hua.
+
+Usi din
+Bhima ka bhi janm hua.
+
+Par Duryodhana ke janm par
+kuch ashubh sanket hue:
+
+ghadhe jaisi awaaz
+
+siyaron aur kauon ka chillana
+
+tez aandhi
+
+aag lagna
+
+Vidura ki Salah
+
+Bhishma aur Vidura ko bulaya gaya.
+
+Vidura ne spasht kaha:
+
+👉 “Yeh balak vansh ka vinaash karega.”
+👉 “Isse tyagna hi dharm hai.”
+
+Par Dhritarashtra ka pita-hṛiday
+maan nahi saka.
+
+Usne apne putra ko nahi chhoda.
+
+100 Putra aur 1 Putri
+
+Ek mahine ke andar:
+
+100 putra
+
+aur 1 putri (Duhshala) paida hui
+
+Saath hi,
+Dhritarashtra ka
+Vaisya daasi se ek putra bhi hua
+jiska naam tha Yuyutsu.
+
+Pandu ke 5 Putra
+
+Dusri taraf,
+Pandu par rishi ka shraap tha
+isliye unke putra
+devtaon ke vardaan se hue:
+
+Yudhishthira – Dharma se
+
+Bhima – Vayu se
+
+Arjuna – Indra se
+
+Nakula – Ashwini Kumar se
+
+Sahadeva – Ashwini Kumar se
+
+Yeh paanchon
+mahaan rathi aur dharmic the."""
             create_image_text_layout(text_content=text2, layout="full")
 
         # Section 1.7.52
