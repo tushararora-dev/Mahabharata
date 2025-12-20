@@ -17307,37 +17307,502 @@ mahaan rathi aur dharmic the."""
 
         # Section 1.7.52
         with st.expander("Section 1.7.52"):
-            text1 = """ """
+            text1 = """ 
+            Section CXVI – Duhsala ka janm (Gandhari ki putri)
+
+(Sambhava Parva – spashtikaran aur saar)
+
+Is prashn mein Janamejaya ne bilkul sahi jigyāsa rakhi:
+jab Vyasa ne Gandhari ko 100 putron ka var diya aur maans-pind 100 bhaagon mein baanta gaya, to ek putri Duhsala ka janm kaise hua?
+
+Vaisampayana ka uttar (mool ghatna)
+
+Jab Vyasa us maans-pind ko jal chhidak kar tukdon mein baant rahe the aur 100 bhaag ghee ke ghadon mein rakhe ja rahe the,
+
+tab Gandhari ke man mein putri-bhāv udaya hua.
+
+Gandhari ne man hi man prarthana ki:
+
+“Mujhe 100 putra milenge—yeh nishchit hai.
+
+Par agar ek putri bhi mil jaaye, to mere pati ko daamād aur pautron ke saath woh punya-lok prapt hon.
+
+Yadi maine tapasya, daan, hom, aur gurujanon ki seva ki hai, to uska phal mujhe ek putri ke roop mein mile.”"""
             create_image_text_layout("attached_assets/chapter1/1.7.52.jpg", text1, layout="side", image_position="left")
-            text2 = """ """
+            text2 = """ 
+            Vyasa ka karuna-may nirnay
+
+Jab 100 tukde gin kar rakh diye gaye,
+to Vyasa ne kaha:
+
+“Yeh tumhare 100 putra hain—mera vachan asatya nahi hua.
+Par yeh ek atirikt bhaag tumhari ichchha ke anuroop putri ke liye hai.”
+
+Us 101ve tukde ko alag ghee ke ghade mein rakha gaya.
+
+Parinaam
+
+Isi atirikt bhaag se Duhsala ka janm hua—
+Gandhari ki ekmatra putri, jo 100 putron se chhoti thi.
+
+Is prasang ka saar (Key Takeaways)
+
+Vyasa ka var satya raha—100 putra hue.
+
+Gandhari ke man ki ichchha aur punya se ek putri ka bhi janm sambhav hua.
+
+Yeh ghatna putri-mahatva ko darshati hai—daamād aur pautron ke saath grihastha-punya ki parampara."""
             create_image_text_layout(text_content=text2, layout="full")
 
         # Section 1.7.53
         with st.expander("Section 1.7.53"):
-            text1 = """ """
+            text1 = """ 
+            Section CXVII – Dhritarashtra ke putron ke naam (janm-kram ke anusar)
+
+(Sambhava Parva – vyavasthit samjhaav)
+
+Is prasang mein Janamejaya ne Vaisampayana se seedha prashn kiya ki
+Dhritarashtra ke putron ke janm-kram ke anusar naam bataye jaayen.
+
+Mool soochi ka saar (samajhne layak tareeke se)
+
+Dhritarashtra ke kul 100 putra hue, jo sab Atirathi,
+shastr-vidya mein nipun, aur Vedo ke gyata the.
+
+Inke naam janm ke kram mein ginaaye gaye hain—
+jismein sabse pehle Duryodhana aur baad mein anya putra aate hain.
+
+Inke beech Yuyutsu ka naam bhi aata hai (jo Vaishya maata se janme the).
+
+Naam-soochi mein kuchh naam dohraye hue dikhte hain
+(jaise Karna, Bhima), jo Mahabharata ke vibhinna paath-antar ka parinaam hai
+— ise vidvaan bhi sweekar karte hain.
+
+Mahattvapurn baat:
+Yeh poori soochi paramparaagat paathon mein aati hai,
+aur iska uddeshya kul-parampara aur vansh-vistaar dikhana hai,
+na ki har naam ko aaj ke arth mein alag-alag pehchaan dena."""
             create_image_text_layout("attached_assets/chapter1/1.7.53.jpg", text1, layout="side", image_position="left")
-            text2 = """ """
+            text2 = """ 
+            Duhsala – ekmaatra putri
+
+In 100 putron ke atirikt, ek putri bhi thi:
+
+👉 Duhsala
+
+Dhritarashtra ne samay aane par, vidhi-vidhaan se,
+Duhsala ka vivaah Jayadratha
+(Sindhu desh ke raja) se kiya.
+
+Is adhyaay ka tattvik sandesh
+
+Kaurav vansh sankhya aur shakti mein bahut bada tha.
+
+Fir bhi, keval sankhya ya shastra-bal hi dharm aur vijay ka maap-dand nahi hota—
+aage jaakar Mahabharata ka yahi mool sandesh prakat hota hai.
+
+Duhsala ka vivaah Jayadratha se aage chal kar
+Mahabharata ke gahan aur dukhad ghatna-kramon se juda hota hai."""
             create_image_text_layout(text_content=text2, layout="full")
 
         # Section 1.7.54
         with st.expander("Section 1.7.54"):
-            text1 = """ """
+            text1 = """ 
+            Section CXVIII – Pandu par laga shraap (Hinglish Moral Story Version)
+
+Janamejaya ne vinamrta se kaha:
+“Hey Brahmana, aapne Dhritarashtra ke putron ke baare mein sab bata diya.
+Ab mujhe Pandavon ke janm aur unke jeevan ke baare mein bhi sunna hai.
+Batayiye, unki kahani kaise shuru hui?”
+
+Vaisampayana ne kaha:
+Pandu aur jungle ka ghatna-kram
+
+Ek din Pandu Himalaya ke dakshini pahaadon mein jungle ghoom rahe the.
+Wahan hiran, jangli jaanwar aur shaant van-jeevan tha.
+
+Achaanak Pandu ne dekha—
+ek hiran aur hiranni saath mein the.
+Bina zyada soche, Pandu ne apne teer chala diye.
+
+Dono gir pade.
+
+Par tab kuchh ajeeb hua…"""
             create_image_text_layout("attached_assets/chapter1/1.7.54.jpg", text1, layout="side", image_position="left")
-            text2 = """ """
+            text2 = """ 
+            Hiran bol utha!
+
+Girte hi woh hiran insaan ki awaaz mein rone laga.
+Usne Pandu se kaha:
+
+“Hey Raja, tumne bahut badi galti kar di.
+Main koi saadharan hiran nahi hoon.
+Main ek Rishi hoon—
+Kindama,
+jo apni patni ke saath hiran ke roop mein yahan reh raha tha.”
+
+Pandu sann reh gaye.
+
+Rishi Kindama ka updesh
+
+Rishi ne dukh bhare shabdon mein kaha:
+
+“Raja, shikar karna tumhara adhikar ho sakta hai,
+lekin sambhog ke samay kisi jeev ko maarna
+adharm hai.
+
+Tum khud jaante ho ki
+yeh samay har jeev ke liye pavitra hota hai.
+
+Tum Paurav vansh ke ho—
+jahan dharm aur maryada ka maan hota hai.
+Phir tumne aisa kaam kaise kiya?”
+
+Pandu ne tark diya,
+“Raja to hamesha shikar karte hain.”
+
+Par Rishi ne shaant par dridh awaaz mein kaha:
+
+“Main is baat par krodhit nahi hoon
+ki tumne hiran maara.
+Main is baat se dukhi hoon
+ki tumne samay aur maryada ka dhyaan nahi rakha.”
+
+Shraap (Curse)
+
+Fir Rishi Kindama ne kaha:
+
+“Jaise tumne mujhe
+sukh ke pal mein maara,
+waise hi tum bhi
+sukh ke pal mein hi maroge.
+
+Jab tum apni patni ke saath
+kaamna ke vash mein aaoge,
+usi pal tumhari mrityu ho jaayegi.
+
+Aur jis patni ke saath
+tum us samay hoge,
+wahi tumhare saath
+mrityu ke baad bhi jaayegi.”
+
+Yeh kehkar Rishi ne
+pran tyag diye.
+
+Pandu ka pashchataap
+
+Rishi ke shabd sun kar
+Pandu ka hriday toot gaya.
+
+Unhe apni galti ka ehsaas hua
+
+Unhone apne aap ko dosh diya
+
+Aur tab se unka jeevan
+dukh aur sanyam se bhar gaya
+
+Yahin se Pandu ke jeevan ka
+sabse bada mod shuru hota hai—
+jo aage chal kar Pandavon ke janm ka kaaran banta hai.
+
+Is kahani ka moral (Bachchon ke liye)
+
+Shakti ke saath zimmedari aani chahiye
+
+Har kaam ka sahi samay aur maryada hoti hai
+
+Gusse ya jaldi mein kiya gaya kaam
+jeevan bhar ka dukh de sakta hai
+
+Dharm sirf niyam nahi, samvedna bhi hai"""
             create_image_text_layout(text_content=text2, layout="full")
 
         # Section 1.7.55
         with st.expander("Section 1.7.55"):
-            text1 = """ """
+            text1 = """ 
+            Section CXIX – Pandu ka Tyag aur Vanvaas
+
+(Hinglish | Simple | Moral Story Tone)
+
+Vaisampayana ne kaha:
+
+Rishi Kindama ki mrityu ke baad,
+Pandu bahut dukhi ho gaye.
+Unki aankhon se aansu ruk hi nahi rahe the.
+Unhone apne mann se baat ki aur bole:
+
+Pandu ka atma-manthan
+
+“Insaan agar achhe kul mein janm le,
+phir bhi agar kaamna aur vasna ke vash mein aa jaaye,
+toh wahi uske dukh ka kaaran ban jaati hai.
+
+Mere pita Vichitravirya bhi kaamna ke kaaran
+jaldi chal base the.
+Aur main, Rishi Vyasa ka putra hote hue bhi,
+aaj jungle mein shikar karte hue
+itni badi galti kar baitha.
+
+Lagta hai devta bhi mujhse mooh mod chuke hain.”"""
             create_image_text_layout("attached_assets/chapter1/1.7.55.jpg", text1, layout="side", image_position="left")
-            text2 = """ """
+            text2 = """ 
+            Brahmacharya ka sankalp
+
+Phir Pandu ne dridh nishchay kiya:
+
+“Ab main moksha ka marg apnaunga.
+Santaan ki ichha aur sansaar ke bandhano se
+khud ko door kar dunga.
+
+Main Brahmacharya ka palan karunga.
+Apni indriyon ko niyantran mein rakhunga.
+Sir mundwa kar, akela bhiksha maangta hua
+dharti par vicharan karunga.
+
+Na sukh se khush hounga,
+na dukh se tootunga.
+Gaali aur tareef dono ko ek samaan maanunga.
+
+Jo mujhe nuksaan pahunchaye
+aur jo mujhe samman de,
+dono ke prati mera mann ek jaisa rahega.
+
+Main kisi jeev ko nuksaan nahi pahunchaaunga—
+chahe woh chalne wala ho,
+udne wala ho,
+ya ped–paudha hi kyun na ho.
+
+Din mein sirf ek baar
+5 ya 7 gharon se bhiksha maangunga.
+Agar na mile, toh bhooka reh lunga,
+lekin lalach nahi karunga.”
+
+Kunti aur Madri ka vachan
+
+Yeh sab kehkar Pandu ne
+apni patniyon Kunti
+aur Madri ko dekha.
+
+Dono ne bhare mann se kaha:
+
+“He Maharaj,
+agar aap vanvaas lenge,
+toh hum bhi aapke saath chalenge.
+
+Aapke bina jeevan ka
+koi arth nahi.
+Agar aapne humein chhod diya,
+toh hum jeevit nahi rahenge.”
+
+Saath-saath vanvaas
+
+Pandu ne unki baat maan li.
+Unhone kaha:
+
+“Achha, toh hum teenon saath chalenge.
+Shehron ka sukh tyag kar,
+pedon ki chhaal pehnenge.
+Phal–mool khayenge.
+Tapasya aur dhyaan mein jeevan bitayenge.”
+
+Rajya aur dhan ka tyag
+
+Pandu ne apna mukut, gehne, vastra,
+sab kuchh Brahmanon ko daan kar diya.
+Apne sevakon se kaha:
+
+“Hastinapur jaakar sabko bata do—
+Pandu apni patniyon ke saath
+sab kuchh tyag kar
+vanvaas ke liye nikal chuka hai.”
+
+Sevak rone lage.
+Par Pandu shaant rahe.
+
+Vanvaas ki yatra
+
+Pandu, Kunti aur Madri—
+
+Nagasata parvat
+
+Chaitraratha van
+
+Kalakuta
+
+Himavat
+
+Gandhamadan parvat
+
+jaise pavitra sthalon se guzar kar
+tap aur sanyam ka jeevan jeene lage.
+
+Wahan Rishi, Siddh aur devtaon ki raksha mein
+Pandu ne kathor tapasya shuru ki.
+Is kahani ka moral (Seekh)
+
+Galti ka ehsaas ho jaaye,
+toh pashchataap aur sudhaar hi sachcha raasta hai
+
+Sanyam aur tyag se
+jeevan ko nayi disha milti hai
+
+Saath dene wale log
+mushkil samay mein hi pehchaane jaate hain
+
+Kabhi-kabhi,
+vanvaas hi bhavishya ka maarg bana deta hai"""
             create_image_text_layout(text_content=text2, layout="full")
 
         # Section 1.7.56
         with st.expander("Section 1.7.56"):
-            text1 = """ """
+            text1 = """ 
+            Section CXX – Pandu ki Chinta aur Vansh aage badhane ka vichaar
+
+(Hinglish | Simple | Moral Story Tone)
+
+Vaisampayana ne kaha:
+
+Pandu ne kathor tapasya shuru kar di.
+Unki shakti aur sanyam dekh kar
+Siddha aur Charan unka bahut samman karne lage.
+
+Pandu bilkul ghamand-rahit the.
+Unka mann poori tarah niyantran mein tha.
+Dheere-dheere, tapasya se
+woh Brahmarshi jaise pavitra ho gaye,
+chahe janm se woh Kshatriya hi the.
+
+Kuch Rishi unhe bhai kehne lage,
+kuch mitra,
+aur kuch putra jaise pyaar karne lage."""
             create_image_text_layout("attached_assets/chapter1/1.7.56.jpg", text1, layout="side", image_position="left")
-            text2 = """ """
+            text2 = """ 
+            Swarg yatra ka vichaar
+
+Ek Amavasya ke din,
+kai mahaan Rishi ekatrit hue.
+Woh Brahma-lok jaane ki tayyari kar rahe the.
+
+Pandu ne poocha:
+“Bhagavan Rishiyon, aap log kahan ja rahe hain?”
+
+Rishiyon ne kaha:
+“Aaj Brahma-lok mein devta, pitra aur Rishi
+sab ekatrit ho rahe hain.
+Hum bhi wahi ja rahe hain.”
+
+Yeh sun kar Pandu khush ho gaye.
+Woh apni dono patniyon ke saath
+unke saath chalna chahte the.
+
+Rishiyon ki chetavani
+
+Rishiyon ne Pandu ko rokte hue kaha:
+
+“Uttar disha mein aage jaakar
+bahut kathin sthal aate hain.
+
+Kahin hamesha barf hoti hai
+
+Kahin itni tez baarish hoti hai
+
+Kahin na ped-paudhe hote hain
+
+Na jeev-jantu
+
+Wahan sirf hawa, Siddha aur Rishi hi ja sakte hain.
+
+Tumhari patniyan sukhi jeevan ki aadat wali hain.
+Unke liye yeh yatra bahut kashtdayak hogi.
+Isliye tum yahin ruk jao, Pandu.”
+
+Pandu ka dard
+
+Pandu dukhi ho gaye.
+Unhone kaha:
+
+“Main putrahīn hoon.
+Aur bina putra ke
+swarg mein pravesh nahi milta.
+
+Mujh par mere pitr̥-rin (ancestors ka rin) baaki hai.
+Agar main putra ke bina mar gaya,
+toh mere pitra bhi kasht paayenge.
+
+Insaan par chaar rin hote hain:
+
+Devta ka – yagya se
+
+Rishi ka – adhyayan aur tapasya se
+
+Manushyon ka – daya aur satkarm se
+
+Pitra ka – santaan se
+
+Maine pehle teen rin chuka diye.
+Par pitra-rin abhi baaki hai.”
+
+Santaan ke vibhinn prakaar
+
+Pandu ne kaha:
+
+“Dharm-shastra mein
+12 prakaar ke putra bataye gaye hain.
+
+Agar pehla prakaar sambhav na ho,
+toh agla apnaya ja sakta hai.
+
+Mere upar shraap hai,
+isliye main santaan utpann nahi kar sakta.”
+
+Kunti se gupt baat
+
+Phir Pandu ne apni patni
+Kunti ko alag se bulaya
+aur bole:
+
+“Kunti,
+putra hona bahut bada dharm hai.
+Putra ke bina
+daan, yagya, tapasya –
+sab adhoora reh jaata hai.
+
+Main shraap ke kaaran asamarth hoon.
+Isliye main tumhe aadesh deta hoon
+ki kisi mahaan aur tapasvi purush ke dwara
+santaan utpann karo.
+
+Yeh dharm ke viruddh nahi hai.
+Shastra aur purane udaharan
+isi baat ko sahi maante hain.”
+
+Pandu ne ek purani kahani sunayi
+jisme ek veer stree ne
+apne pati ke aadesh se
+Brahman ke dwara putra paaye the.
+
+Ant mein Pandu ka vachan
+
+Pandu bole:
+
+“Kunti,
+tum bhi wahi karo jo dharm ke anukul ho.
+Isse mera pitra-rin chukega
+aur vansh aage badhega.”
+
+Is bhaag ki seekh (Moral)
+
+Tapasya se insaan atmaik uchchai pa sakta hai
+
+Dharm sirf niyam nahi,
+samay aur paristhiti ke hisaab se vivek bhi hai
+
+Vansh aur pitra ka rin
+Bharatiya parampara mein bahut mahatvapurn hai
+
+Kabhi-kabhi,
+balidaan aur kathin faisle hi
+bhavishya ka raasta kholte hain"""
             create_image_text_layout(text_content=text2, layout="full")
 
         # Section 1.7.57
