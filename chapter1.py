@@ -17807,72 +17807,1582 @@ bhavishya ka raasta kholte hain"""
 
         # Section 1.7.57
         with st.expander("Section 1.7.57"):
-            text1 = """ """
+            text1 = """ 
+            Section CXXI – Kunti speaks to Pandu (Hinglish Story Rewrite)
+
+Vaisampayana ne kaha,
+Pandu ki baat sun kar
+Kunti ne shaant aur vinamr swar mein jawaab diya.
+
+Kunti boli,
+“Swami, aap mujhse aisa na kahiye.
+Main aapki patni hoon.
+Main aapse hi judi hoon.”
+
+Unki aankhon mein shraddha thi.
+“Main sirf aapki hoon.
+Mera mann, mera jeevan
+sab aapko samarpit hai.”"""
             create_image_text_layout("attached_assets/chapter1/1.7.57.jpg", text1, layout="side", image_position="left")
-            text2 = """ """
+            text2 = """ 
+            Kunti ne kaha,
+“Aap dharm ke maarg par
+mujhse santaan paida kar sakte hain.
+Uske baad main bhi
+aapke saath swarg jaungi.”
+
+“Main kabhi sapne mein bhi
+kisi aur purush ke baare mein
+soch nahi sakti.
+Aap se shreshth
+is sansaar mein kaun ho sakta hai?”
+
+Phir Kunti ne dheere se kaha,
+“Swami, ek purani Pauranik kahani hai.
+Main woh aapko sunana chahti hoon.”
+
+Unhone kahani shuru ki.
+
+“Bahut purane samay mein
+Puru vansh mein
+Vyushitasva naam ka ek raja tha.
+Woh satya aur dharm ka palan karta tha.”
+
+“Uska tej sooraj jaisa tha.
+Uske baahubal das haathiyon jaise the.
+Usne kai bade yagya kiye.”
+
+“Usne chaaron dishaon ke rajao ko jeeta
+aur sabki raksha ek pita jaise ki.”
+
+“Kai yagya karke
+usne brahmanon ko daan diya.
+Uske jeevan mein
+samriddhi aur dharm dono the.”
+
+“Uski patni Bhadra
+bahut sundar aur pavitra thi.
+Dono ek-doosre se
+bahut prem karte the.”
+
+“Par atyadhik bhog ke kaaran
+raja bimaar pad gaye.
+Aur kuch hi dinon mein
+unka dehant ho gaya.”
+
+“Bhadra toot gayi.
+Woh santaan-heen thi.
+Uska dukh gehra tha.”
+
+Bhadra roti hui boli,
+“Swami ke bina
+stri ka jeevan vyarth hai.
+Aapke bina
+ek pal bhi jeena mushkil hai.”
+
+“Main aapke peeche aana chahti hoon.
+Mujhe apne saath le chaliye.”
+
+“Main aapki chhaaya ban kar
+aapke saath chalungi.”
+
+“Shayad kisi pichhle janm mein
+maine kisi prem ko alag kiya hoga.
+Isi paap ka fal
+aaj mujhe mil raha hai.”
+
+“Ab main
+sukh chhod dungi.
+Sirf aapko dekhne ki aasha mein
+jeeti rahungi.”
+
+Kunti ne aage kaha,
+“Bhadra roti hui
+apne pati ke sharir se lipat gayi.”
+
+Tab ek adrushya awaaz aayi,
+“Utho, Bhadra.
+Main tumhe vardaan deta hoon.”
+
+“Shuddhi ke baad
+niyamit raat mein
+tumhe santaan prapt hogi.”
+
+Bhadra ne
+vidhi ka palan kiya.
+Aur usse
+saat santaan prapt hui.
+
+Kunti ne Pandu ki taraf dekha.
+Unki awaaz komal thi.
+
+“Swami,
+jaise us raja ne
+apni tapasya se
+santaan paida ki,
+waise hi aap bhi kar sakte hain.”
+
+“Main aapki patni hoon.
+Mera jeevan
+aapke saath hi poora hoga.”
+
+Kunti chup ho gayi.
+Unke shabd sachche the.
+Unke mann mein
+shraddha aur dharm tha.
+
+Yeh kahani
+prem, vishwas aur kartavya ki
+seekh deti hai…"""
             create_image_text_layout(text_content=text2, layout="full")
 
         # Section 1.7.58
         with st.expander("Section 1.7.58"):
-            text1 = """ """
+            text1 = """ 
+            Section CXXII – Pandu aur Kunti ka Samvaad (Hinglish Story Rewrite)
+
+Vaisampayana ne kaha,
+Kunti ki baat sun kar
+Raja Pandu ne shaant aur dharmik shabdon mein kaha.
+
+Pandu bole,
+“Kunti, tum jo keh rahi ho,
+woh satya hai.
+Purane samay mein
+Vyushitasva ne aisa hi kiya tha.”
+
+“Par main tumhe
+purane rishiyon ke niyam batana chahta hoon.
+Woh niyam
+dharm par aadharit the.”
+
+Pandu ne dheere se kaha,
+“Bahut purane yug mein
+striyan ghar mein band nahi hoti thi.
+Woh swatantra thi.
+Jahan chahein ja sakti thi.”"""
             create_image_text_layout("attached_assets/chapter1/1.7.58.jpg", text1, layout="side", image_position="left")
-            text2 = """ """
+            text2 = """ 
+            “Us samay
+ek hi pati se bandhe rehna
+zaroori nahi tha.
+Aur ise paap nahi maana jaata tha.”
+
+“Pashu aur pakshi
+aaj bhi aise hi jeete hain.
+Us yug ke rishi
+is vyavahaar ko maante the.”
+
+Pandu bole,
+“Par baad mein
+yeh niyam badla.
+Aur yeh badla
+Rishi Uddalaka ke putra
+Shvetaketu ke kaaran.”
+
+Unhone kahani sunayi.
+“Ek din
+Shvetaketu ne dekha
+ki ek Brahman
+uski maa ka haath pakad kar
+use le ja raha hai.”
+
+“Shvetaketu ko gussa aa gaya.
+Par uske pita ne kaha,
+‘Yeh purana niyam hai.’”
+
+“Par Shvetaketu ne ise galat maana.
+Aur usne naya niyam sthapit kiya.
+Us din se
+patni ka ek hi pati hona
+dharm maana gaya.”
+
+Pandu bole,
+“Tab se
+agar stri apne pati se hat kar chale,
+toh paap maana jaata hai.”
+
+“Isi tarah,
+jo pati
+pavitra patni ka apmaan kare,
+woh bhi paapi hota hai.”
+
+Pandu ne Kunti ki taraf dekha.
+“Isliye, Kunti,
+ab patni ka kartavya hai
+ki woh pati ke aadesh ka palan kare.”
+
+Phir Pandu bole,
+“Madayanti ne bhi
+apne pati ke liye
+Rishi Vasishtha se
+santaan prapt ki thi.”
+
+“Aur tum jaanti ho,
+hum khud bhi
+Kuru vansh ko badhane ke liye
+Vedvyas ke kaaran janme the.”
+
+Unki awaaz komal ho gayi.
+“Kunti,
+main santaan dekhna chahta hoon.
+Par main asamarth hoon.”
+
+“Isliye main tumse
+vinati karta hoon.
+Mera aadesh
+dharm ke viruddh nahi hai.”
+
+“Tum kisi maha tapasvi Brahman ke dwara
+santaan prapt karo.
+Isse mujhe bhi
+putravaan hone ka sukh milega.”
+
+Pandu ne haath jod liye.
+“Main tumse prarthana karta hoon.”
+
+Yeh sun kar
+Kunti ne vinamrata se kaha,
+“Swami,
+jab main kanya thi,
+main apne pita ke ghar
+atithiyon ki seva karti thi.”
+
+“Ek din
+Maharshi Durvasa
+mere seva se prasann hue.”
+
+“Unhone mujhe
+ek mantra diya.
+Us mantra se
+main kisi bhi devta ko
+bula sakti hoon.”
+
+“Woh devta
+mujhe santaan bhi de sakta hai.”
+
+Kunti ne kaha,
+“Swami,
+aap aadesh dein.
+Main kisi bhi devta ko bula sakti hoon.”
+
+Pandu ne turant kaha,
+“Kunti,
+Dharm Devta ko bulao.”
+
+“Woh sabse pavitra hain.
+Unse janma putra
+dharm aur satya ka paalan karega.”
+
+“Log bhi
+is karm ko paap nahi maanenge.”
+
+Kunti ne sir jhuka diya.
+“Jaise aap kahein, Swami.”
+
+Unhone Pandu ke charanon mein
+namaskar kiya.
+Aur unka aadesh
+maan lene ka sankalp liya.
+
+Yahin se
+Kuru vansh ke bhavishya ki
+neev padti hai…"""
             create_image_text_layout(text_content=text2, layout="full")
 
         # Section 1.7.59
         with st.expander("Section 1.7.59"):
-            text1 = """ """
+            text1 = """ 
+            Section CXXIII – Kunti aur Pandu ke Putron ka Janm (Hinglish Story Rewrite)
+
+Vaisampayana ne kaha,
+Janamejaya,
+jab Gandhari ko garbh dharan kiye
+ek saal ho chuka tha,
+tab Kunti ne
+Dharm Devta ka aahvan kiya.
+
+Kunti ne yagya kiya.
+Durvasa ka diya mantra japne lagi.
+Mantra ke prabhav se
+Dharm Devta prakat hue.
+Unka rath sooraj jaisa chamak raha tha."""
             create_image_text_layout("attached_assets/chapter1/1.7.59.jpg", text1, layout="side", image_position="left")
-            text2 = """ """
+            text2 = """ 
+            Devta muskuraye aur bole,
+“Kunti, kya chahiye tumhe?”
+
+Kunti bhi muskurayi.
+Boli,
+“Mujhe santaan chahiye.”
+
+Tab Dharm Devta ne
+divya roop mein
+Kunti ko putra diya.
+
+Shubh samay par
+ek putra ka janm hua.
+Aakash se awaaz aayi,
+“Yeh balak
+sabse dharmik hoga.
+Satya bolne wala hoga.
+Prithvi par raaj karega.”
+
+“Iska naam
+Yudhishthira hoga.”
+
+Pandu bahut prasann hue.
+Par phir bole,
+“Kshatriya ko
+sirf dharm hi nahi,
+sharirik bal bhi chahiye.”
+
+Unhone Kunti se kaha,
+“Ab balwaan putra ke liye
+Vayu Devta ka aahvan karo.”
+
+Kunti ne Vayu Devta ko bulaya.
+Vayu Devta hiran par baith kar aaye.
+
+Bole,
+“Kya vardaan chahiye, Kunti?”
+
+Kunti ne vinamrata se kaha,
+“Mujhe aisa putra dijiye
+jo sabse shaktishaali ho.”
+
+Vayu Devta ne vardaan diya.
+Aur janma hua
+Bhima ka.
+
+Aakash se awaaz aayi,
+“Yeh bal mein
+sabse shreshth hoga.”
+
+Bhima ke janm par
+ek adbhut ghatna hui.
+Bachcha maa ki godi se
+pahaad par gir gaya.
+Pahaad toot gaya,
+par Bhima ko
+kuch bhi nahi hua.
+
+Pandu hairaan reh gaye.
+
+Usi din
+Duryodhana ka bhi janm hua.
+
+Phir Pandu ne socha,
+“Mujhe ab
+sabse mahaan putra chahiye.
+Jo poori duniya mein
+prasiddh ho.”
+
+Unhone kathor tapasya ki.
+Rishiyon se salah li.
+Kunti ne ek saal ka vrat rakha.
+
+Aakhir
+Indra Dev prasann hue.
+Unhone Pandu se kaha,
+“Main tumhe
+ek aisa putra dunga
+jo sab par vijayi hoga.”
+
+Pandu ne Kunti se kaha,
+“Indra Dev ko bulao.”
+
+Kunti ne Indra ka aahvan kiya.
+Indra aaye
+aur janma hua
+Arjuna ka.
+
+Aakash garaj utha.
+Devtaon ki awaaz aayi,
+“Yeh balak
+veeron mein shreshth hoga.
+Mahadev se
+Paashupat astra paayega.
+Devtaon ke shatru
+iska bhay maanenge.”
+
+Phool barse.
+Dev, Gandharva, Apsara
+sab prasann hue.
+Nritya aur sangeet hua.
+Poori dishaen
+anand se bhar gayi.
+
+Sab rishiyon ne
+Pandu ke putron ko aashirvaad diya.
+
+Pandu fir se
+aur santaan chahne lage.
+Par Kunti ne kaha,
+“Shastra ke anusaar
+chaar se adhik putra
+is vidhi se paap maane jaate hain.”
+
+“Isliye ab
+aur aahvan uchit nahi.”
+
+Pandu chup ho gaye.
+Unhone Kunti ki baat maan li.
+
+Yahin se
+Pandavon ke yug ki
+neev poori hoti hai…"""
             create_image_text_layout(text_content=text2, layout="full")
 
         # Section 1.7.60
         with st.expander("Section 1.7.60"):
-            text1 = """ """
+            text1 = """ 
+            Section CXXIV – Madri ko Santaan ka Vardaan (Hinglish Story Rewrite)
+
+Vaisampayana ne kaha,
+jab Kunti ke putra
+aur Gandhari ke sau putra
+janm le chuke the,
+tab Madri ne
+chupchaap Pandu se baat ki.
+
+Madri boli,
+“Swami,
+agar aap mujhse thode door bhi ho,
+toh mujhe koi shikayat nahi.”
+
+“Main yeh bhi nahi maanta
+ki main Kunti se kam hoon.
+Aur mujhe is baat ka bhi dukh nahi
+ki Gandhari ke sau putra hue.”"""
             create_image_text_layout("attached_assets/chapter1/1.7.60.jpg", text1, layout="side", image_position="left")
-            text2 = """ """
+            text2 = """ 
+            Uski awaaz bhaari ho gayi.
+“Par ek baat
+mera mann tod deti hai.”
+
+“Kunti aur main
+barabar hain.
+Par main
+abhi tak maa nahi bani.”
+
+“Yeh dukh hai
+ki aapko santaan
+sirf Kunti se mili.”
+
+Madri ne sir jhuka liya.
+“Kunti se maangna
+mujhe theek nahi lagta.
+Woh meri saut hai.”
+
+“Par agar aap chaahein,
+toh aap hi
+unse baat kijiye.”
+
+Pandu ne Madri ki baat suni.
+Aur bole,
+“Madri,
+main yeh baat
+bahut samay se soch raha tha.”
+
+“Bas yeh nahi jaanta tha
+ki tum kya chahogi.”
+
+“Ab mujhe sab samajh aa gaya.
+Main Kunti se baat karunga.
+Woh mana nahi karegi.”
+
+Phir Pandu ne
+Kunti se akele mein kaha,
+“Kunti,
+mere vansh ko badhane ke liye
+aur duniya ke bhale ke liye
+mujhe aur santaan chahiye.”
+
+“Madri ko bhi
+maa banne ka adhikar hai.
+Yeh kaam mushkil hai,
+par mahaan bhi.”
+
+“Isse tumhe
+amar yash milega.”
+
+Kunti ne bina sankoch kaha,
+“Swami,
+jaise aap kahein.”
+
+Phir Kunti ne
+Madri se kaha,
+“Tum kisi devta ka smaran karo.
+Woh tumhe
+putra denge.”
+
+Madri ne kuch pal socha.
+Phir unhone
+Ashwini Kumaron ka smaran kiya.
+
+Ashwini Kumar turant aaye.
+Aur Madri ko
+do putra mile.
+
+Jab dono balak janme,
+aakash se awaaz aayi,
+“Yeh dono
+saundarya aur shakti mein
+sabse shreshth honge.”
+
+Unke naam pade—
+Nakula aur Sahadeva.
+
+Rishiyon ne
+sab bachchon ke naam rakhe.
+
+Kunti ke putra—
+Yudhishthira,
+Bhima,
+aur Arjuna.
+
+Madri ke putra—
+Nakula
+aur Sahadeva.
+
+Paanch putra
+paanch varshon ke yug jaise lag rahe the.
+Sab mein tej tha.
+Bal tha.
+Sundarta thi.
+
+Pandu apne putron ko dekh kar
+bahut prasann hue.
+
+Rishi aur unki patniyan bhi
+in bachchon se prem karti thi.
+
+Kuch samay baad
+Pandu ne phir
+Kunti se Madri ke liye kaha.
+
+Tab Kunti ne dukhi ho kar bola,
+“Swami,
+maine Madri ko
+mantra sirf ek baar diya.”
+
+“Par usne
+do putra paida kar liye.”
+
+“Main bhool gayi thi
+ki yugm devta
+yugm santaan dete hain.”
+
+“Ab mujhe aur aadesh na dijiye.
+Yahi meri prarthana hai.”
+
+Pandu ne
+Kunti ki baat maan li.
+
+Is prakaar
+Pandu ke paanch putra hue.
+Sab devputra the.
+Sab mahaan bane.
+
+Pandav
+aur Dhritarashtra ke sau putra
+ek saath bade hone lage.
+
+Jaise talab mein
+kamal ek saath khilte hain.
+
+Aur rishi
+unke bhavishya ko dekh kar
+ascharya se bhar gaye.
+
+Yahin se
+Mahabharat ke yug ka
+sachcha aarambh hota hai…"""
             create_image_text_layout(text_content=text2, layout="full")
 
         # Section 1.7.61
         with st.expander("Section 1.7.61"):
-            text1 = """ """
+            text1 = """ 
+            Section CXXV – Pandu ka Ant aur Madri ka Tyag (Hinglish Story Rewrite)
+
+Vaisampayana ne kaha,
+jab Pandu ne
+apne paanch sundar putron ko
+us van aur pahadi pradesh mein
+badte hue dekha,
+toh unke mann mein
+purani shakti jaag uthi.
+
+Basant ka ritu tha.
+Har taraf phool khile the.
+Hawa madhur thi.
+Mann ko behkane wali.
+
+Ek din Pandu
+Madri ke saath
+van mein ghoomne nikle."""
             create_image_text_layout("attached_assets/chapter1/1.7.61.jpg", text1, layout="side", image_position="left")
-            text2 = """ """
+            text2 = """ 
+            Pedon par
+palash, aam, champa,
+ashok aur kesar ke phool the.
+Bhanwre gun gun kar rahe the.
+Koyal madhur ga rahi thi.
+
+Jheelon mein
+kamal khile hue the.
+Sab kuch bahut sundar lag raha tha.
+
+Is prakriti ko dekh kar
+Pandu ka mann
+vichlit ho gaya.
+Unke hriday mein
+ichha jaag uthi.
+
+Madri paas hi thi.
+Yuva aur sundar.
+Us drishya ne
+Pandu ki samajh par
+parda daal diya.
+
+Rishi ke shraap ko
+woh bhool gaye.
+Aur apne mann par
+niyantran kho baithe.
+
+Madri ghabra gayi.
+Usne rokne ki koshish ki.
+Par bhagya ke bal se
+Pandu apne aap ko
+rok na sake.
+
+Aur usi kshan
+Rishi ka shraap
+sach ho gaya.
+
+Pandu ka shareer
+nishchet ho gaya.
+Pran chhoot gaye.
+
+Madri cheekh padi.
+Woh Pandu ke sharir ko
+pakad kar roti rahi.
+
+Kunti aur sab bachche
+unke rone ki awaaz sun kar
+daudte hue aaye.
+
+Madri ne Kunti se kaha,
+“Sirf tum aao.
+Bachchon ko wahin roko.”
+
+Kunti daudi aayi.
+Aur dono ko zameen par
+is haal mein dekh kar
+toot gayi.
+
+Kunti boli,
+“Madri,
+yeh kaise ho gaya?
+Pandu toh hamesha
+shraap se darte the.”
+
+“Tumhe unka
+dhyaan rakhna chahiye tha.”
+
+Madri roti hui boli,
+“Didi,
+maine unhe rokna chaha.
+Par bhagya se
+kuch bhi nahi bach saka.”
+
+Tab Kunti boli,
+“Main badi patni hoon.
+Mujhe unke saath
+antim yatra par jaana chahiye.”
+
+Par Madri ne kaha,
+“Didi,
+yeh mera kartavya hai.”
+
+“Pandu mere paas aaye the.
+Unka mann adhoora reh gaya.”
+
+“Agar main jeeti rahi,
+toh main tumhare bachchon ko
+apne jaise nahi paal paungi.”
+
+“Par tum
+mere putron ko
+apne jaise paal sakti ho.”
+
+“Isliye
+mujhe unke saath jaane do.”
+
+Kunti chup ho gayi.
+Unki aankhon se aansu behte rahe.
+
+Ant mein
+Madri ne Pandu ke sharir ke saath
+chita par chadh kar
+apna jeevan tyag diya.
+
+Vaisampayana ne kaha,
+“Is prakaar
+Pandu ka ant hua.
+Aur Madri ne
+atyant tyag ka path chuna.”
+
+Yeh ghatna
+bhagya, niyam aur kartavya ki
+gehri seekh deti hai…"""
             create_image_text_layout(text_content=text2, layout="full")
 
         # Section 1.7.62
         with st.expander("Section 1.7.62"):
-            text1 = """ """
+            text1 = """ 
+            Section CXXVI – Pandu ka Antim Sanskar aur Hastinapur Lautna (Hinglish Story Rewrite)
+
+Vaisampayana ne kaha,
+jab devtulya Rishiyon ne
+Raja Pandu ki mrityu dekhi,
+toh sab ek saath baith kar
+vichaar karne lage.
+
+Unhone kaha,
+“Pandu ek dharmic aur prasiddh raja the.
+Rajya aur sukh chhod kar
+woh yahan tapasya ke liye aaye the.”
+
+“Ab woh swarg ko prapt ho chuke hain.
+Unki patni aur chhote bachche
+ab humari zimmedari hain.”
+
+“Ab humein
+in bachchon aur Kunti ke saath
+Hastinapur jana chahiye.”"""
             create_image_text_layout("attached_assets/chapter1/1.7.62.jpg", text1, layout="side", image_position="left")
-            text2 = """ """
+            text2 = """ 
+            Phir sab Rishi
+ek saath taiyaar hue.
+Unhone faisla kiya
+ki Pandu ke putron ko
+Bhishma aur Dhritarashtra ke
+haathon saunp denge.
+
+Usi kshan
+yatra shuru ho gayi.
+Bachche aage the.
+Kunti saath thi.
+Aur Pandu aur Madri ke
+nirjeev sharir bhi saath le jaaye gaye.
+
+Kunti ne apni poori zindagi
+sukh mein bitayi thi.
+Par is kathin yatra ko bhi
+usne chhota samjha.
+Uska mann sirf
+kartavya par tika tha.
+
+Jald hi
+woh Kurujangala pahunchi.
+Aur Hastinapur ke
+mukhya dwar par aa gayi.
+
+Rishiyon ne
+darbanon ko sandesh dene ko kaha.
+Sandesh turant raj sabha tak pahunch gaya.
+
+Jaise hi shehar ko pata chala
+ki hazaaron Rishi aur Muni aaye hain,
+log ashcharya se bhar gaye.
+
+Subah hote hi
+shehar ke log
+apni patniyon aur bachchon ke saath
+bahar nikal aaye.
+
+Rath, palakhi, aur gaadiyon mein
+Kshatriya, Brahman,
+Vaishya aur Shudra
+sab ek saath aaye.
+
+Sabka mann shaant tha.
+Sabke hriday mein
+bhakti aur shraddha thi.
+
+Bhishma aaye.
+Dhritarashtra aaye.
+Vidura aaye.
+Maa Satyavati aayi.
+Gandhari aur raj gharane ki
+sab striyan aayi.
+
+Dhritarashtra ke
+sau putra bhi
+saj-dhaj kar aaye.
+
+Sabne milkar
+Rishiyon ko pranam kiya.
+Shehar ke logon ne bhi
+sir jhuka diya.
+
+Bhishma ne sabko shaant kiya.
+Rishiyon ke charan dhoye.
+Unhe arghya diya.
+
+Phir ek vriddh Rishi khade hue.
+Jataon wale,
+mrigchhaal dharan kiye hue.
+
+Unhone kaha,
+“Tum sab Pandu ko jaante ho.
+Unhone rajya chhod kar
+vanvaas liya tha.”
+
+“Unke bade putra
+Yudhishthira ka janm
+Dharm Devta se hua.”
+
+“Bhima
+Vayu Devta ke putra hain.”
+
+“Arjuna
+Indra ke putra hain.”
+
+“Aur Madri ke do putra—
+Nakula aur Sahadeva—
+Ashwini Kumaron se janme.”
+
+“Is tarah
+Pandu ne tapasya ke dwara
+Kuru vansh ko fir se jeevit kiya.”
+
+“Pandu satrah din pehle
+is lok se chale gaye.
+Madri bhi unke saath
+chita par chadh gayi.”
+
+“Yeh unke avshesh hain.
+Aur yeh unke putra.”
+
+“Ab aapka kartavya hai
+unke antim sanskar poore karein
+aur unka Shraddh karein.”
+
+Itna keh kar
+Rishi aur Siddh
+logon ke saamne hi
+antardhyaan ho gaye.
+
+Jaise baadal
+aakash mein ghoom kar
+gaayab ho jaate hain.
+
+Shehar ke log
+yeh adbhut drishya dekh kar
+chakit reh gaye.
+
+Phir dheere-dheere
+sab apne ghar laut gaye.
+
+Aur Hastinapur mein
+Pandavon ke naye jeevan ka
+aarambh hua…"""
             create_image_text_layout(text_content=text2, layout="full")
 
         # Section 1.7.63
         with st.expander("Section 1.7.63"):
-            text1 = """ """
+            text1 = """ 
+            Section CXXVII – Pandu aur Madri ka Antim Sanskar (Hinglish Story Rewrite)
+
+Vaisampayana ne aage kaha,
+tab Dhritarashtra ne Vidura se kaha,
+
+“Vidura,
+Raja Pandu aur Madri ka
+antim sanskar
+poori rajsi maryada ke saath karo.”
+
+“Unki aatma ki shanti ke liye
+daan diya jaaye.
+Gaay, kapde, ratna, dhan—
+jo maange, usey diya jaaye.”
+
+“Kunti ko bhi
+Madri ke antim karm
+apni ichha ke anusaar
+karne diya jaaye.”"""
             create_image_text_layout("attached_assets/chapter1/1.7.63.jpg", text1, layout="side", image_position="left")
-            text2 = """ """
+            text2 = """ 
+            “Pandu ke liye
+shok na karo.
+Woh mahaan raja the.
+Unhone paanch veer putra chhode hain,
+jo devon ke samaan hain.”
+
+Vidura ne sir jhukaya.
+“Jaise aap kahein.”
+
+Bhishma ke saath milkar
+unhone ek pavitra sthal chuna.
+
+Raj purohit
+pavitra agni lekar
+shehar se baahar nikle.
+Agni mein ghrit aur sugandh thi.
+
+Pandu aur Madri ke sharir
+safed kapdon mein lapete gaye.
+Phoolon aur itron se sajaye gaye.
+Arthi ko bhi
+sundar malaon se sajaya gaya.
+
+Dono shariron ko
+ek hi arthi par rakha gaya.
+Logon ke kandhon par
+arthi aage badhi.
+
+Safed chhatra tha.
+Chamri ke chauri
+lehraye ja rahe the.
+Shankh aur vadya
+dhimi awaaz mein baj rahe the.
+
+Raste mein
+log ratna aur vastra
+daan kar rahe the.
+
+Brahman,
+Kshatriya,
+Vaishya,
+Shudra—
+sab saath chal rahe the.
+
+Sab ro rahe the.
+Sabke muh se ek hi baat nikal rahi thi,
+“Rajkumaar,
+humein chhod kar
+aap kahan ja rahe ho?”
+
+Bhishma ro pade.
+Vidura ro pade.
+Pandav bhi ro rahe the.
+
+Aakhir
+Ganga ke kinare
+ek sundar van mein
+arthi rakhi gayi.
+
+Sone ke kalashon mein
+jal laaya gaya.
+Sharir ko snan karaya gaya.
+Chandan lagaya gaya.
+
+Safed vastra pehnaya gaya.
+Us pal aisa laga
+jaise Raja Pandu
+sirf so rahe hon.
+
+Purohiton ke vidhan ke anusaar
+sab karm poore hue.
+Phir chita ko agni di gayi.
+
+Jaise hi
+agni bhadki,
+Kausalya zor se ro padi,
+“Putra… mere putra…”
+
+Woh behosh ho kar
+zameen par gir padi.
+
+Shehar ke log
+aur bhi zor se rone lage.
+Pashu aur pakshi bhi
+jaise shok mein doob gaye.
+
+Bhishma, Vidura,
+Dhritarashtra,
+Pandav aur sab striyan
+aansuon mein doob gaye.
+
+Ant mein
+jal kriya ki gayi.
+Sab ne milkar
+paani arpit kiya.
+
+Log Pandavon ko
+dilasa dene lage.
+Par Pandav
+zameen par hi so gaye.
+
+Unka dukh dekh kar
+Brahman aur nagrikon ne bhi
+apne bistar chhod diye.
+
+Barah din tak
+poora shehar shok mein raha.
+Bade, chhote,
+sab Pandavon ke saath
+rote rahe.
+
+Is prakaar
+Pandu ka yug samaapt hua,
+aur Pandavon ka
+jeevan kathin pariksha se
+shuru hua…"""
             create_image_text_layout(text_content=text2, layout="full")
 
         # Section 1.7.64
         with st.expander("Section 1.7.64"):
-            text1 = """ """
+            text1 = """ 
+            Section CXXVIII – Bhima par Visha, aur Uska Chamatkaar (Hinglish Story Rewrite)
+
+Vaisampayana ne kaha,
+Pandu ke Shraddha ke baad
+Bhishma aur Kunti ne
+pind daan kiya.
+Brahmanon ko bhojan karaya.
+Daan diya.
+Zameen aur ratna bhi diye.
+
+Uske baad
+sab log Pandavon ko lekar
+Hastinapur laut aaye.
+Pura shehar ro raha tha.
+Jaise sabne
+apna hi koi kho diya ho."""
             create_image_text_layout("attached_assets/chapter1/1.7.64.jpg", text1, layout="side", image_position="left")
-            text2 = """ """
+            text2 = """ 
+            Shraddha ke baad
+ek din Maharshi Vyasa
+Mata Satyavati se bole,
+“Maata,
+achhe din beet chuke hain.”
+
+“Ab paap badhega.
+Anyay badhega.
+Kuru vansh ka patan hoga.”
+
+“Tum van mein chali jao.
+Tapasya karo.
+Apni aankhon se
+is vansh ka vinash mat dekho.”
+
+Satyavati ne
+Vyasa ki baat maan li.
+Unhone Ambika se kaha.
+Bhishma se anumati li.
+Aur van chali gayi.
+
+Kuch samay baad
+tapasyā karte hue
+unhone sharir tyag diya
+aur swarg chali gayi.
+
+Ab Pandav
+Hastinapur mein bade hone lage.
+Dhritarashtra ke putron ke saath
+khelte the.
+
+Par har jagah
+Bhima alag hi dikhta tha.
+
+Daud mein sabse aage.
+Khel mein sabse taakatwar.
+Khaane mein sabse zyada.
+
+Kabhi woh
+Kauravon ko pakad kar
+ghuma deta.
+Kabhi hansi-hansi mein
+unhe zameen par gira deta.
+
+Kabhi ped hila deta,
+aur saare bachche
+neeche gir jaate.
+
+Bhima yeh sab
+bura mann se nahi karta tha.
+Bas bachpana tha.
+Par Kaurav
+is baat ko nahi samajh paaye.
+
+Duryodhana ka mann
+jalne laga.
+
+Usne socha,
+“Bhima ko taqat se
+haraya nahi ja sakta.”
+
+“Toh usey
+chaal se maarna hoga.”
+
+Usne plan banaya.
+“Bhima ko
+Ganga mein dooba dunga.”
+
+Phir Yudhishthira aur Arjuna ko
+bandi bana kar
+main akela raja ban jaunga.”
+
+Ek din
+Ganga ke kinare
+Pramanakoti naam ki jagah par
+ek sundar mahal banaya gaya.
+Wahan khel aur bhojan ka
+intezaam tha.
+
+Duryodhana ne
+Pandavon ko bulaya.
+“Chalo,
+Ganga ke kinare khelte hain.”
+
+Yudhishthira maan gaye.
+
+Sab rajkumaar
+hathi aur rathon par
+wahan pahunche.
+
+Khel hua.
+Hansi hui.
+Bhojan hua.
+
+Par Duryodhana ne
+Bhima ke khane mein
+tez zeher mila diya.
+
+Woh muskurata raha.
+Aur Bhima ko
+zyaada khana khilata raha.
+
+Bhima ne khaya.
+Phir sab
+paani mein khelne lage.
+
+Shaam ko
+Bhima thak gaya.
+Zeher ka asar ho gaya.
+Thandi hawa ne
+zeher ko aur faila diya.
+
+Bhima behosh ho gaya.
+
+Duryodhana ne
+use belon se baandha.
+Aur Ganga mein
+phenk diya.
+
+Bhima paani mein doobta gaya.
+Seedha
+Nagon ke lok tak pahunch gaya.
+
+Hazaaron saanp
+usey kaatne lage.
+
+Par ek chamatkaar hua.
+
+Saanpon ka zeher
+Bhima ke sharir mein
+maujood zeher ko
+khatam karne laga.
+
+Bhima hoash mein aa gaya.
+
+Usne bandhan tod diye.
+Aur saanpon ko
+zameen mein daba diya.
+
+Kuch saanp bhaag gaye.
+Aur apne raja
+Vasuki ke paas gaye.
+
+Vasuki aaye.
+Aur Bhima ko dekha.
+
+Wahan Aryaka bhi tha.
+Jo Kunti ke purkhon mein se tha.
+
+Aryaka ne Bhima ko
+pehchaan liya.
+Aur gale laga liya.
+
+Vasuki bole,
+“Hum isse
+kya vardaan dein?”
+
+Aryaka ne kaha,
+“Isse dhan nahi chahiye.”
+
+“Isse amrit pilao.
+Isse aur shakti milegi.”
+
+Bhima ko
+amrit diya gaya.
+
+Usne ek ke baad ek
+aath kalash pee liye.
+
+Har kalash mein
+hazaar haathiyon jitni shakti thi.
+
+Amrit peene ke baad
+Bhima aur bhi taakatwar ho gaya.
+
+Saanpon ne
+uske liye sundar shayya banayi.
+Bhima wahan
+shaanti se so gaya.
+
+Aur upar Hastinapur mein
+sab samajh rahe the
+Bhima mar chuka hai…
+jabki neeche
+uski taqat aur bhi badh chuki thi."""
             create_image_text_layout(text_content=text2, layout="full")
 
         # Section 1.7.65
         with st.expander("Section 1.7.65"):
-            text1 = """ """
+            text1 = """ 
+            Section CXXIX – Bhima ki Wapsi aur Duryodhana ka Asli Chehra (Hinglish Story Rewrite)
+
+Vaisampayana ne kaha,
+Ganga ke kinare khel ke baad
+Kaurav aur Pandav
+Hastinapur ki taraf laut aaye.
+Par Bhima saath nahi tha.
+
+Koi ghode par tha.
+Koi haathi par.
+Koi rath mein.
+
+Raaste mein log bole,
+“Shayad Bhima
+humse pehle chala gaya hoga.”
+
+Par Duryodhana ke mann mein
+alag hi khushi thi.
+Bhima ka na dikhna
+usey sukoon de raha tha."""
             create_image_text_layout("attached_assets/chapter1/1.7.65.jpg", text1, layout="side", image_position="left")
-            text2 = """ """
+            text2 = """ 
+            Hastinapur pahunch kar
+Yudhishthira seedhe
+maa Kunti ke paas gaye.
+
+Pranam karke bole,
+“Maata,
+kya Bhima aa gaya?”
+
+“Humne usey har jagah dhoonda.
+Van mein, bagiyon mein.
+Par woh kahin nahi mila.”
+
+“Hum soch kar aaye
+ki shayad woh
+humse pehle ghar aa gaya hoga.”
+
+Yudhishthira ki awaaz bhaari ho gayi.
+“Par yahan bhi
+woh nahi hai.”
+
+“Maata,
+kya aapne
+usey kahin bheja hai?”
+
+“Woh so raha tha…
+aur phir gayab ho gaya.”
+
+“Main darr raha hoon.
+Kahin…
+woh jeevit na ho…”
+
+Yeh sunte hi
+Kunti chilla uthi.
+
+“Putra!
+Bhima yahan nahi aaya!”
+
+“Jaldi jao.
+Apne bhaiyon ke saath
+usey dhoondo.”
+
+Phir Kunti ne
+Vidura ko bulaya.
+
+“Vidura,
+Bhima gayab hai!”
+
+“Sab laut aaye hain.
+Sirf Bhima nahi.”
+
+“Duryodhana
+ussey nafrat karta hai.
+Woh raaj ka lalchi hai.”
+
+“Mujhe darr hai
+kahin usne
+mere putra ko maar na diya ho.”
+
+Kunti ka hriday
+jal raha tha.
+
+Vidura ne shaant swar mein kaha,
+“Maata,
+aisa mat sochiye.”
+
+“Apne baaki putron ki
+raksha kijiye.”
+
+“Agar Duryodhana par
+shak hua,
+toh woh aur bada paap kar sakta hai.”
+
+“Rishi ka vachan hai—
+aapke sab putra
+lambi aayu paayenge.”
+
+“Bhima zaroor lautega.”
+
+Vidura yeh keh kar chale gaye.
+Par Kunti ka mann
+bechain hi raha.
+
+Udhar…
+aath din baad
+Bhima ki aankh khuli.
+
+Amrit poori tarah
+pach chuka tha.
+Uska sharir
+pehle se kai guna
+zyaada shaktishaali tha.
+
+Naag bole,
+“Veer Bhima,
+ab tum mein
+das hazaar haathiyon ka bal hai.”
+
+“Koi bhi tumhe
+hara nahi sakta.”
+
+“Ab snaan karo
+aur ghar jao.
+Tumhare bhai
+tumhare liye ro rahe hain.”
+
+Bhima ne snaan kiya.
+Safed vastra pehne.
+Safed phoolon ki mala pehni.
+
+Naagon ne
+usey madhur bhojan diya.
+Aashirvaad diya.
+
+Phir Bhima ko
+usi bagiya mein chhod diya
+jahan se usey
+Ganga mein phenka gaya tha.
+
+Aur sab naag
+gayab ho gaye.
+
+Bhima daudta hua
+maa Kunti ke paas pahuncha.
+
+Pranam kiya.
+Bhaiyon ko gale lagaya.
+
+Kunti ne
+usey zor se gale lagaya.
+Sabki aankhon mein aansu the.
+
+Sab ek hi baat bol rahe the,
+“Aaj kitni badi khushi hai!”
+
+Phir Bhima ne
+poori baat batai.
+Zeher.
+Bandhan.
+Ganga.
+Naag lok.
+Duryodhana ki saazish.
+
+Yudhishthira ne shaant swar mein kaha,
+“Bhima,
+is baat ko
+abhi kisi se mat kehna.”
+
+“Hum sab
+ek-doosre ki raksha karenge.”
+
+“Samay aane par
+sab sach saamne aayega.”
+
+Us din se
+Pandav satark ho gaye.
+Aur Vidura
+hamesha unhe
+samajhdari ki salah dete rahe.
+
+Par Duryodhana
+ruka nahi.
+
+Usne phir
+Bhima ke khane mein
+naya zeher milaya.
+
+Is baar
+Yuyutsu ne
+Pandavon ko bata diya.
+
+Bhima ne bina dare
+woh zeher kha liya.
+Aur usey
+pacha bhi liya.
+
+Kuch bhi nahi hua.
+
+Duryodhana, Karna aur Shakuni
+aur bhi chal chalne lage.
+Par Pandav
+Vidura ki salah par
+shaant rahe.
+
+Aakhir Dhritarashtra ne socha,
+“Yeh rajkumaar
+zyada hi shararti ho gaye hain.”
+
+Isliye unhone
+Guru Kripa (Gautama) ko
+unka acharya banaya.
+
+Aur sab rajkumaar
+astra-vidya seekhne lage.
+
+Yahin se
+shiksha, yuddh aur bhavishya ke
+mahaan sangharsh ki
+shuruaat hoti hai…  """
             create_image_text_layout(text_content=text2, layout="full")
 
         # Section 1.7.66
         with st.expander("Section 1.7.66"):
-            text1 = """ """
+            text1 = """ 
+            Section CXXX – Kripa ka Janm aur Guru ka Safar (Hinglish Story Rewrite)
+
+Janamejaya ne poocha,
+“Hey Brahman Dev,
+mujhe Kripa ke janm ki poori kahani sunaiye.
+Woh ghaas ke jhund se kaise paida hue?
+Aur unhe shastra ka gyaan kaise mila?”
+
+Vaisampayana bole,
+“Rajaa,
+Maharshi Gautama ke ek putra the—Saradvat.”"""
             create_image_text_layout("attached_assets/chapter1/1.7.66.jpg", text1, layout="side", image_position="left")
-            text2 = """ """
+            text2 = """ 
+            Saradvat janm se hi
+teer aur dhanush ke saath paida hue the.
+Unka mann
+sirf shastra-vidya mein lagta tha.
+Baaki vidyaon mein
+unka ruchi kam tha.
+
+Tapasya ke bal se
+unhone saari astra-vidya seekh li.
+Unki shakti dekh kar
+Indra bhi chintit ho gaye.
+
+Indra ne ek apsara
+Janapadi ko bulaya.
+Aur kaha,
+“Gautama ke putra ki tapasya bhang karo.”
+
+Janapadi van mein pahunchi.
+Saradvat wahan akela tha.
+Uske haath mein dhanush tha.
+Sharir par mrigchhaal.
+
+Apsara bahut sundar thi.
+Ek hi vastra mein thi.
+Use dekh kar
+Saradvat ka mann hil gaya.
+
+Uske haath se
+dhanush aur teer gir gaye.
+Sharir kaanp gaya.
+Par usne apna dhairya sambhala.
+
+Phir bhi,
+mann ke achanak vichlan se
+ek anjaani ghatna ho gayi.
+
+Saradvat wahan se
+turant chala gaya.
+Par uski veerya
+ghaans ke jhund par gir gayi.
+
+Us ghaas se
+do shishu paida hue.
+Ek ladka.
+Ek ladki.
+Dono judwa the.
+
+Kuch samay baad
+Raja Shantanu ke ek sainik ne
+shikar ke dauran
+un bachchon ko dekha.
+
+Paas hi
+dhanush, teer aur mrigchhaal pade the.
+Usne socha,
+“Yeh kisi mahaan Brahman ke bachche honge.”
+
+Woh dono bachchon ko
+Raja Shantanu ke paas le gaya.
+
+Raja ne bachchon ko dekha.
+Unka dil bhar aaya.
+Unhone kaha,
+“Main inhe apna bachcha banaunga.”
+
+Raja ne unka palan kiya.
+Naam diya—
+Kripa aur Kripi.
+Kyuki unhe
+daya se apnaya gaya tha.
+
+Udhar Saradvat ko
+tapogyaan se pata chal gaya
+ki uske bachche
+raja ke mahal mein hain.
+
+Woh Raja Shantanu ke paas aaya.
+Apni poori kahani batayi.
+
+Phir usne
+Kripa ko
+astra-vidya ke chaaron bhaag sikhaye.
+Saare gupt rahasya bhi.
+
+Kripa bahut jaldi
+ek mahaan acharya ban gaya.
+
+Uske paas
+Dhritarashtra ke sau putra aaye.
+Pandav aaye.
+Yadav aur Vrishni vansh ke rajkumaar bhi aaye.
+
+Sabne
+Kripa se
+shastra-vidya seekhni shuru ki.
+
+Yahin se
+Kuru rajkumaaron ki
+yuddh shiksha ka
+sachcha aarambh hota hai…"""
             create_image_text_layout(text_content=text2, layout="full")
 
         # Section 1.7.67
