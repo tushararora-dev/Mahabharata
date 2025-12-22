@@ -19387,86 +19387,1701 @@ sachcha aarambh hota hai…"""
 
         # Section 1.7.67
         with st.expander("Section 1.7.67"):
-            text1 = """ """
+            text1 = """ 
+            Section CXXXI – Drona ka Janm, Shiksha aur Guru banna (Hinglish Story Rewrite)
+
+Vaisampayana bole,
+Bhishma apne poton ke liye
+sabse shreshth shikshak chahte the.
+
+Unka vichaar tha,
+“Jo guru ho,
+woh bahut buddhimaan ho.
+Astra-vidya ka poora gyaan ho.
+Aur tejasvi ho.”
+
+Isliye Ganga-putra Bhishma ne
+Pandav aur Kaurav dono ko
+Drona ke sharan mein diya."""
             create_image_text_layout("attached_assets/chapter1/1.7.67.jpg", text1, layout="side", image_position="left")
-            text2 = """ """
+            text2 = """ 
+            Drona,
+Bharadvaja ke putra the.
+Vedo ke gyaata the.
+Aur shastra-vidya mein
+atyant nipun the.
+
+Bhishma ke samman se
+prasann ho kar
+Drona ne
+sab rajkumaron ko
+apna shishya maan liya.
+
+Unhone
+astra-vidya ke
+saare bhaag sikhaye.
+Aur kuch hi samay mein
+Pandav aur Kaurav
+sabhi shastraon mein
+nipun ho gaye.
+
+Tab Janamejaya ne poocha,
+“Hey Brahman Dev,
+Drona ka janm kaise hua?
+Unhone shastra ka gyaan
+kaise paaya?
+Aur woh Kuruvansh tak
+kaise aaye?”
+
+“Mujhe Asvatthama ke janm ki
+kahani bhi sunaiye.”
+
+Vaisampayana bole,
+
+Ganga ke udgam par
+ek mahaan rishi rehte the—
+Bharadvaja.
+
+Ek din
+Agnihotra yagya ke liye
+woh Ganga ke tat par aaye.
+
+Wahin
+apsara Ghritachi snaan kar rahi thi.
+Woh sundar thi.
+Yuva thi.
+
+Uske vastra
+thode vyavasthit ho gaye the.
+
+Use dekh kar
+rishi Bharadvaja ka mann
+kshan bhar ke liye
+vichlit ho gaya.
+
+Unke sharir se
+veerya nikal aaya.
+Par rishi ne
+usey turant
+ek patra mein sambhaal liya.
+
+Us patra ko kehte hain
+drona.
+
+Usi drona se
+ek balak ka janm hua—
+Drona.
+
+Drona ne
+sab ved, upved
+aur shastra-vidya
+seekh li.
+
+Bharadvaja ne pehle
+Agneya astra ka gyaan
+Agnivesh ko diya tha.
+Agnivesh ne
+wahi gyaan
+Drona ko diya.
+
+Us samay
+Raja Prishata the,
+jo Bharadvaja ke mitra the.
+Unke putra ka naam tha
+Drupada.
+
+Drupada aur Drona
+saath khelte the.
+Saath padhte the.
+
+Par samay badla.
+Prishata ki mrityu hui.
+Drupada
+Panchal ka raja ban gaya.
+
+Kuch samay baad
+Rishi Bharadvaja bhi
+swarg sidhaar gaye.
+
+Drona
+aashram mein hi rahe.
+Tapasya aur adhyayan mein
+leen ho gaye.
+
+Phir unka vivaah
+Kripi se hua,
+jo Saradvat ki putri thi.
+
+Kripi ne
+ek putra ko janm diya.
+
+Jaise hi woh balak paida hua,
+woh ghode ki tarah
+hin-hinaya.
+
+Aakash se awaaz aayi,
+“Is balak ki awaaz
+ghode jaisi hai.
+Isliye iska naam
+Asvatthama hoga.”
+
+Drona bahut prasann hue.
+
+Isi dauran
+Drona ko pata chala
+ki Parashurama
+(apne shastra daan ke liye prasiddh)
+sab kuch Brahmanon ko
+daan dena chahte hain.
+
+Drona ne socha,
+“Mujhe unse
+astra-vidya leni chahiye.”
+
+Woh apne shishyon ke saath
+Mahendra parvat gaye.
+
+Wahan Parashurama mile.
+Drona ne pranam kiya.
+Apni poori kahani batayi.
+
+Drona bole,
+“Main Bharadvaja ka putra hoon.
+Main drona se janma hoon.
+Aur main aapse
+aapki sampatti chahata hoon.”
+
+Parashurama bole,
+“Maine apni saari dhan-daulat
+daan kar di hai.”
+
+“Mere paas sirf
+mera sharir
+aur mere shastra bache hain.”
+
+“Bolo,
+kya chahte ho?”
+
+Drona ne kaha,
+“Mujhe
+aapke saare shastra chahiye.
+Aur unka rahasya bhi.”
+
+Parashurama bole,
+“Thik hai.”
+
+Aur unhone
+apni poori astra-vidya
+Drona ko de di.
+
+Drona ka mann
+tripti se bhar gaya.
+
+Shastra paa kar
+woh apne mitra
+Drupada ke nagar ki taraf
+chal pade.
+
+Yahin se
+Drona ka guru ke roop mein
+uday hota hai,
+aur Mahabharat ke
+mahaan yoddha taiyaar hone lagte hain…"""
             create_image_text_layout(text_content=text2, layout="full")
 
         # Section 1.7.68
         with st.expander("Section 1.7.68"):
-            text1 = """ """
+            text1 = """ 
+            Section CXXXII – Drupada ka Ghamand aur Drona ka Apmaan (Hinglish Story Rewrite)
+
+Vaisampayana bole,
+phir Bharadvaja ke putra Drona
+Panchal nagar pahunche.
+
+Woh seedhe
+Raja Drupada ke darbar mein gaye
+aur shaant swar mein bole,
+
+“Rajaa,
+mujhe apna purana mitra samjho.”"""
             create_image_text_layout("attached_assets/chapter1/1.7.68.jpg", text1, layout="side", image_position="left")
-            text2 = """ """
+            text2 = """ 
+            Yeh sunkar
+Drupada ka mann badal gaya.
+Uska hriday khushi se nahi,
+ghamand se bhar gaya.
+
+Daulat aur rajya ke nashe mein
+uski aankhen laal ho gayi.
+Bhaunhen tedhi ho gayi.
+
+Woh gusse se bola,
+
+“Hey Brahman,
+tumhari buddhi kamzor lagti hai.”
+
+“Achaanak aakar
+mujhe apna mitra keh rahe ho?”
+
+“Rajaa aur
+gareeb Brahman
+kab se mitra ho gaye?”
+
+“Pehle hum dost the,
+yeh sach hai.
+Par tab hum
+barabar the.”
+
+“Samay sab kuch badal deta hai.
+Mitrata bhi.”
+
+“Is duniya mein
+koi dosti hamesha nahi rehti.”
+
+“Samay usey ghisa deta hai.
+Aur krodh usey tod deta hai.”
+
+Drupada aur tez bola,
+
+“Is purani dosti ko
+ab chhod do.”
+
+“Meri tumse dosti
+sirf us samay tak thi
+jab iska koi matlab tha.”
+
+“Gareeb aur ameer
+kabhi dost nahi ho sakte.”
+
+“Veer aur kaayar
+kabhi mitra nahi ho sakte.”
+
+“Jo raja nahi hai,
+woh raja ka dost
+kaise ho sakta hai?”
+
+“Isliye,
+is bekaar ki dosti ko
+yaad karke
+apna aur mera
+samay barbaad mat karo.”
+
+Yeh shabd
+Drona ke hriday mein
+teer ki tarah chubh gaye.
+
+Uska chehra shaant tha,
+par mann mein
+agni jal uthi.
+
+Usne kuch pal socha.
+Aur phir
+nirnay kar liya.
+
+“Is ghamand ka
+sahi uttar diya jaayega.”
+
+Bina kuch kahe
+Drona ne Panchal nagar chhod diya.
+
+Uske kadam
+ab Hastinapur ki taraf the.
+Kuruon ki nagri ki taraf.
+
+Yahin se
+apmaan badle ki aag ban gaya,
+aur bhavishya ka
+mahaan sangharsh
+chup-chaap janm lene laga…"""
             create_image_text_layout(text_content=text2, layout="full")
 
         # Section 1.7.69
         with st.expander("Section 1.7.69"):
-            text1 = """ """
+            text1 = """ 
+            Section CXXXIII – Drona ka Parichay aur Bhishma ka Vachan (Hinglish Story Rewrite)
+
+Vaisampayana bole,
+Drona Hastinapur aa kar
+chup-chaap Kripa ke ghar rehne lage.
+
+Unka putra Asvatthama
+kabhi-kabhi Pandavon ko
+astra-vidya sikhata tha.
+Par abhi tak
+kisi ko
+uski asli shakti ka pata nahi tha."""
             create_image_text_layout("attached_assets/chapter1/1.7.69.jpg", text1, layout="side", image_position="left")
-            text2 = """ """
+            text2 = """ 
+            Ek din
+Pandav aur Kaurav
+shehar se bahar
+khelne nikle.
+
+Khushi-khushi
+ball se khel rahe the.
+Achaanak
+ball ek gehre kuen mein
+gir gaya.
+
+Sab rajkumaar
+poori koshish karne lage.
+Par ball
+bahar nahi aayi.
+
+Sab ek-doosre ko
+sharm ke saath
+dekhne lage.
+Sab pareshaan ho gaye.
+
+Tab unhone
+paas hi ek Brahman ko dekha.
+Woh patla-sa tha.
+Saanwla rang.
+Roz ka pooja-paath
+abhi khatam kiya tha.
+
+Woh Brahman
+aur koi nahi,
+Drona hi the.
+
+Rajkumaar unke paas aaye.
+Drona ne unhe dekha
+aur halka sa muskuraye.
+
+Bole,
+“Bharat vansh ke rajkumar ho,
+phir bhi ek ball
+kuen se nahi nikaal pa rahe?”
+
+“Tumhari Kshatriya shakti par
+sharam aani chahiye.”
+
+Phir bole,
+“Agar aaj mujhe
+bhojan ka vachan do,
+toh main
+sirf ghaas ke tanon se
+na keval ball,
+balki apni anguthi bhi
+nikal kar dikhaunga.”
+
+Yeh keh kar
+Drona ne
+apni anguthi
+kuen mein phenk di.
+
+Yudhishthira bole,
+“Hey Brahman Dev,
+sirf bhojan nahi.
+Aap jo maangein,
+hum denge.”
+
+Drona ne
+lambe ghaas ke tan liye.
+Mantra padhe.
+
+Ek tan se
+ball ko cheda.
+Phir us tan ko
+doosre tan se.
+Phir teesre se.
+
+Aakhir
+ball upar aa gayi.
+
+Sab rajkumaar
+hairaan reh gaye.
+
+Phir unhone kaha,
+“Hey Brahman Dev,
+ab anguthi bhi nikaaliye.”
+
+Drona ne
+dhanush uthaya.
+Teer chhoda.
+Anguthi ko ched kar
+bahar le aaye.
+
+Sab rajkumaar
+dandavat ho gaye.
+
+Bole,
+“Aap kaun hain?
+Itni kala kisi mein nahi.”
+
+Drona bole,
+“Bhishma ke paas jao.
+Unhe meri kala batao.
+Woh mujhe pehchaan lenge.”
+
+Rajkumaar
+Bhishma ke paas gaye.
+Sab kuch bataya.
+
+Bhishma samajh gaye,
+“Yeh toh
+Drona hi hain.”
+
+Woh turant
+Drona ke paas gaye.
+Unka samman kiya.
+Aur Hastinapur le aaye.
+
+Bhishma ne poocha,
+“Aap yahan kyun aaye?”
+
+Drona ne
+poori kahani sunai.
+Drupada se dosti.
+Vachan.
+Aur apmaan.
+
+Apne bete Asvatthama ki
+doodh wali kahani bhi batayi.
+Kaise pani aur chawal ko
+doodh samajh kar
+bachcha khush ho gaya tha.
+
+Drona bole,
+“Us din
+mera hriday toot gaya.”
+
+“Isliye main yahan aaya hoon.
+Achhe shishya chahiye.
+Aur apna kartavya nibhana hai.”
+
+Bhishma bole,
+“Hey Brahman Dev,
+aap dhanush uthaiye.”
+
+“Pandav aur Kaurav
+sab aapke shishya honge.”
+
+“Hastinapur ki sampatti,
+rajya aur samman
+sab aapka hai.”
+
+“Jo aap chahte ho,
+woh poora hoga.”
+
+Drona ka mann
+shaant ho gaya.
+Unki aankhon mein
+naya sankalp tha.
+
+Yahin se
+Mahabharat ke mahaan yoddha
+guru Drona ke haathon
+ghadne lage…"""
             create_image_text_layout(text_content=text2, layout="full")
 
         # Section 1.7.70
         with st.expander("Section 1.7.70"):
-            text1 = """ """
+            text1 = """ 
+            Section CXXXIV – Guru Drona, Arjun aur Ekalavya (Hinglish Moral Story)
+
+Vaisampayana bole,
+Bhishma ke samman se prasann ho kar
+Guru Drona
+Kuru rajya mein rehne lage.
+
+Unhe sab aadar dete the.
+Bhishma ne
+Pandav aur Kaurav rajkumaar
+Drona ko shishya roop mein saunp diye.
+
+Saath hi
+ghar, dhan, anna
+sab kuch diya.
+
+Drona khush hue.
+Unhone sab ko
+apna shishya maan liya."""
             create_image_text_layout("attached_assets/chapter1/1.7.70.jpg", text1, layout="side", image_position="left")
-            text2 = """ """
+            text2 = """ 
+            Ek din
+Guru Drona ne sab shishyon ko bulaya.
+Sab ne unke charan sparsh kiye.
+
+Drona bole,
+“Mere mann mein ek iccha hai.
+Agar tum sach mein mere shishya ho,
+toh wada karo
+jab tum mahaan yoddha banoge,
+meri us iccha ko poora karoge.”
+
+Sab chup rahe.
+Sirf Arjun aage aaye.
+
+Arjun bole,
+“Guruji,
+jo aadesh hoga,
+main poora karunga.”
+
+Drona ki aankhon mein
+aansoo aa gaye.
+Unhone Arjun ko
+gale laga liya.
+
+Guru Drona ne
+sab ko samaan gyaan diya.
+Par Arjun ka lagav
+sabse zyada tha.
+
+Karna bhi wahan tha.
+Woh Duryodhan ke saath
+Arjun se irshya karta tha.
+
+Par Arjun
+sirf vidya par dhyaan deta tha.
+Din-raat
+guru seva karta tha.
+
+Drona samajh gaye,
+“Yeh ladka
+sabse aage niklega.”
+
+Drona sab shishyon ko
+paani bharne bhejte the.
+Sab ko patle muh ka ghada milta.
+Par apne putra Asvatthama ko
+chauda muh ka ghada dete.
+
+Arjun ne yeh dekh liya.
+Usne Varun Astra se
+apna ghada turant bhar liya.
+Aur Asvatthama ke saath hi
+laut aaya.
+
+Drona muskura diye.
+Unhe samajh aa gaya,
+“Yeh shishya
+peeche rehne wala nahi.”
+
+Ek raat
+Arjun khana kha raha tha.
+Achanak diya bujh gaya.
+
+Par Arjun
+andhere mein bhi
+khana khaata raha.
+
+Usne socha,
+“Haath toh bina dekhe bhi
+nishana pakad leta hai.”
+
+Usi raat se
+Arjun ne
+andhere mein teer chalane ka
+abhyaas shuru kiya.
+
+Raat ko
+dhanush ki awaaz sun kar
+Drona aaye.
+
+Unhone Arjun ko gale lagaya.
+Bole,
+“Main tujhe
+is duniya ka
+sabse mahaan dhanurdhar banaunga.”
+
+Tab ek aur katha hui.
+Ek Nishad rajkumar – Ekalavya
+Guru Drona ke paas aaya.
+Par jaati ke kaaran
+use shishya nahi banaya gaya.
+
+Ekalavya chup-chaap
+jangal chala gaya.
+Wahan mitti se
+Guru Drona ki murti banayi.
+Aur use hi guru maan kar
+abhyaas karne laga.
+
+Uska shraddha
+bahut gehra tha.
+
+Ek din
+Pandav aur Kaurav
+shikaar par gaye.
+Unka kutta
+jangal mein bhatak gaya.
+
+Ekalavya ne
+sirf yaav ke liye
+us kutte ke muh mein
+saath teer daal diye.
+
+Kutta zinda tha.
+Par bhonk nahi pa raha tha.
+
+Sab rajkumaar hairaan reh gaye.
+Aisi kala
+unhone kabhi nahi dekhi.
+
+Jab Arjun ne yeh suna,
+woh Drona ke paas gaya.
+Bola,
+“Guruji,
+aapne kaha tha
+mujhse behtar koi nahi hoga.
+Phir yeh Ekalavya kaun hai?”
+
+Drona gambhir ho gaye.
+Woh Arjun ko saath le kar
+Ekalavya ke paas gaye.
+
+Ekalavya ne
+guru ke charan sparsh kiye.
+
+Drona bole,
+“Agar tu sach mein mera shishya hai,
+toh guru-dakshina de.”
+
+Ekalavya khush ho gaya.
+Bola,
+“Jo aadesh ho.”
+
+Drona bole,
+“Apna daahina angutha de do.”
+
+Ekalavya ne
+bina soche
+apna angutha kaat diya.
+Aur guru ko de diya.
+
+Us din
+uski kala kam ho gayi.
+Arjun ka mann shaant ho gaya.
+
+Ant mein
+sab shishyon ka gun bataya gaya.
+
+Bhima aur Duryodhan – gada yuddh
+
+Nakula–Sahadev – talwar
+
+Yudhishthira – rath yuddh
+
+Asvatthama – gupt astras
+
+Arjun – sab mein sarvashreshth
+
+Arjun
+Atirathi bana.
+Uski keerti
+poori prithvi par phail gayi.
+
+Par
+Kauravon ke mann mein
+irshya badhti chali gayi.
+
+Yahin se
+Mahabharat ke beej
+aur gehre hote gaye…"""
             create_image_text_layout(text_content=text2, layout="full")
 
         # Section 1.7.71
         with st.expander("Section 1.7.71"):
-            text1 = """ """
+            text1 = """ 
+            Section CXXXV – Arjun ka Lakshya, Guru Drona ka Vishwas (Hinglish explanation)
+
+Vaisampayana kehte hain—
+jab sab shishya nishana lagane mein asafal ho gaye,
+Guru Drona muskuraye aur Arjun ko bulaya.
+
+Drona bole,
+“Tum hi is lakshya ko bhed sakte ho.
+Dhanush uthao aur tayyar raho.”
+
+Arjun ne dhanush taana.
+Tab Drona ne poocha—
+“Arjun, kya tum ped, pakshi aur mujhe dekh rahe ho?”"""
             create_image_text_layout("attached_assets/chapter1/1.7.71.jpg", text1, layout="side", image_position="left")
-            text2 = """ """
+            text2 = """ 
+            Arjun shant swar mein bola,
+“Main sirf pakshi ko dekh raha hoon.
+Na ped, na aap.”
+
+Drona ne phir poocha,
+“Agar pakshi dikh raha hai, to batao—kya poora pakshi?”
+
+Arjun ne kaha,
+“Sirf pakshi ka sir. Uska sharir bhi nahi.”
+
+Yeh sunte hi
+Drona ke romanch khade ho gaye.
+Unhone kaha—
+“Chalao.”
+
+Arjun ka teer chala—
+aur pakshi ka sir
+seedha zameen par aa gira.
+
+Guru Drona ne
+Arjun ko seene se laga liya.
+Unke mann mein yeh nishchit ho gaya—
+Drupad ka ghamand ek din yahin shishya tod dega.
+
+Kuch samay baad
+Drona apne sab shishyon ke saath
+Ganga ke tat par snaan ke liye gaye.
+
+Jab Drona jal mein utre,
+ek ghadiyal ne
+unki jaangh pakad li.
+
+Yeh pariksha thi.
+
+Drona bole,
+“Is prani ko maaro aur mujhe bachao.”
+
+Sab shishya ghabra gaye.
+Sirf Arjun ne
+pal bhar bhi der nahi ki.
+
+Usne paanch tez teer
+jal ke andar hi chala diye.
+
+Ghadiyal tukdon mein kat gaya
+aur Drona mukt ho gaye.
+
+Drona ne mann hi mann maana—
+yeh mera shreshth shishya hai.
+
+Tab Drona ne Arjun se kaha,
+“Main tumhe
+ek ati-shaktishaali astr deta hoon—
+Brahmasira Astra.
+
+Par yaad rakhna—
+ise manav yuddh mein kabhi na chalana.
+Kam shakti wale shatru par chalaya
+toh poora vishv jal sakta hai.
+
+Yeh astr
+teenon lokon mein nirala hai.
+Sirf tab prayog karna
+jab koi amanavi shatru saamne ho.”
+
+Arjun ne
+haath jod kar
+is pratigya ke saath astr grahan kiya.
+
+Tab Guru Drona bole—
+“Is sansaar mein
+tumse bada dhanurdhar koi nahi hoga.
+Tumhara parakram mahaan hoga
+aur koi shatru
+tumhe kabhi parajit nahi kar paayega.”
+
+Is adhyay ka saar
+
+Sahi lakshya = adha yuddh jeetna
+
+Ekagrata hi mahaan banati hai
+
+Guru–shishya ka vishwas astr se bhi shaktishaali hota hai
+
+Yahin se
+Arjun Atirathi banne ki or
+ek aur kadam aage badhta hai."""
             create_image_text_layout(text_content=text2, layout="full")
 
         # Section 1.7.72
         with st.expander("Section 1.7.72"):
-            text1 = """ """
+            text1 = """ 
+            Section CXXXVI – Shastra-vidya ka Mahotsav (Hinglish Story)
+
+Vaisampayana kehte hain—
+jab Pandav aur Kaurav
+sabhi shastra-vidya mein nipun ho gaye,
+to Guru Drona ne
+raja Dhritarashtra se kaha,
+
+“Rajann,
+aapke putron ki shiksha poori ho chuki hai.
+Ab inka kaushal sabke saamne dikhna chahiye.”
+
+Yeh sunkar raja khush ho gaye.
+Unhone kaha,
+“Jaise aap theek samjhein,
+waise hi pratiyogita karwaiye.”"""
             create_image_text_layout("attached_assets/chapter1/1.7.72.jpg", text1, layout="side", image_position="left")
-            text2 = """ """
+            text2 = """ 
+            Vidur ne turant vyavastha sambhali.
+Ek bada, khula maidan tayaar hua.
+Sundar rangmanch bana.
+Raniyon ke liye alag sabha-sthal.
+Shehar ke log tents laga kar aa gaye.
+
+Poora Hastinapur
+jaise utsav mein doob gaya.
+
+Nirdharit din,
+sabha saj chuki thi.
+Bhishma, Kripa, mantri, raniyaan—
+sab apni jagah baith gaye.
+
+Gandhari aur Kunti
+sone ke gehno mein chamak rahi thi.
+Logon ka shor
+samundar ki lehron jaisa lag raha tha.
+
+Tab Guru Drona pravesh karte hain—
+safed vastra,
+shant mukh,
+jaise chandramā aakash mein aa gaya ho.
+
+Pooja hui.
+Shankh aur nagade baje.
+
+Ab rajkumaron ki baari aayi.
+
+Yudhishthira aage the.
+Ek ke baad ek
+sab shastra-pradarshan karne lage.
+
+Tez ghode,
+udte rath,
+nishane par lagte teer.
+
+Log hairaan the.
+Har taraf se awaaz aayi—
+“Shabash! Shabash!”
+
+Talvaar aur dhal chamki.
+Sharir ka santulan,
+chehre par shanti—
+sab kuch adbhut tha.
+
+Phir maidan mein aaye
+Bhima aur Duryodhana.
+
+Gada haath mein.
+Dono garaj pade
+jaise do matwale haathi.
+
+Poora rangmanch
+saans rok kar dekh raha tha.
+
+Aur Vidur,
+andhe raja Dhritarashtra ko
+har drishya shabd mein samjha rahe the.
+
+Conclusion (Saar) 🌸
+
+Yeh sirf khel nahi tha,
+yeh bhavishya ka sanket tha.
+
+Yahin se
+Bhima aur Duryodhana ke beech
+chhupi shatru-ta shuru hui.
+
+Aur yahin duniya ne dekha—
+Pandav aur Kaurav
+sirf rajkumaar nahi,
+balki maha-yoddha ban chuke hain.
+
+Yeh adhyay sikhata hai—
+👉 Kala jab pradarshan ban jaaye,
+toh kismat ki lakeerein khud likhne lagti hain."""
             create_image_text_layout(text_content=text2, layout="full")
 
         # Section 1.7.73
         with st.expander("Section 1.7.73"):
-            text1 = """ """
+            text1 = """ 
+            Section CXXXVII – Arjuna ka Divya Pradarshan (Hinglish Kahani)
+
+Vaisampayana kehte hain—
+jab Duryodhana aur Bhima
+arena mein aaye,
+toh sabha do hisso mein bat gayi.
+
+Kuch log chillaye,
+“Kururon ke raja ko dekho!”
+
+Kuch bole,
+“Bhima ko dekho!”
+
+Shor itna badh gaya
+jaise samundar mein toofan aa gaya ho."""
             create_image_text_layout("attached_assets/chapter1/1.7.73.jpg", text1, layout="side", image_position="left")
-            text2 = """ """
+            text2 = """ 
+            Guru Drona ne dekha.
+Unhone turant kaha,
+“Asvatthaman,
+in dono ko roko.
+Yeh yuddh yahin shant hona chahiye.”
+
+Asvatthaman aage badha.
+Dono gada-yoddha ruk gaye.
+Maahol shaant hua.
+
+Tab Guru Drona bole,
+“Ab dekho us shishya ko
+jo mujhe apne putra se bhi adhik priya hai.”
+
+Aur tab Arjuna arena mein aaya.
+
+Sone ka kavach.
+Haath mein dhanush.
+Teeron se bhara tarkash.
+
+Woh aisa chamak raha tha
+jaise shaam ka badal
+bijli se jagmaga raha ho.
+
+Sabha khushi se bhar gayi.
+Shankh baje.
+Nagadey goonje.
+
+Awaazein aayi—
+
+“Yeh Kunti ka putra hai!”
+“Yeh Pandavon ka madhya bhai hai!”
+“Yeh Indra ka ansh hai!”
+“Yeh dharma ka rakshak hai!”
+
+Kunti ki aankhon se aansu behne lage.
+Maa ka garv
+uske chehre par saaf dikh raha tha.
+
+Andhe raja Dhritarashtra ne poocha,
+“Vidur,
+yeh itna shor kyun?”
+
+Vidur bole,
+“Rajann,
+Arjuna ne pravesh kiya hai.”
+
+Raja bole,
+“Aaj main sach mein dhanya ho gaya.”
+
+Ab Arjuna ne apna kaushal dikhaya.
+
+Aag bani.
+Paani bana.
+Hawa chali.
+Badal garje.
+
+Pahad ubhre.
+Zameen phaili.
+Aur phir sab gaayab.
+
+Kabhi woh bada dikhta.
+Kabhi chhota.
+Kabhi rath par.
+Kabhi zameen par.
+
+Teer aise chalte
+jaise soch se pehle nikal jaate ho.
+
+Sab dekh kar chup the.
+Saans bhi dheemi ho gayi.
+
+Jab pradarshan khatam hone wala tha,
+achanak gate se zor ka shabd aaya.
+
+Dhamm! Dhamm!
+
+Log dar gaye.
+“Kya dharti phat rahi hai?”
+“Kya aakash garaj raha hai?”
+
+Sabne gate ki taraf dekha.
+
+Ek taraf Pandav khade the.
+Beech mein Guru Drona.
+Chand jaise shant.
+
+Doosri taraf Duryodhana khada tha.
+Haath mein gada.
+Saath mein uske sau bhai.
+
+Woh aisa lag raha tha
+jaise koi devta
+apni sena ke beech khada ho.
+
+Saar (Moral) 🌿
+
+Yeh sirf pradarshan nahi tha.
+
+Yeh ahankar aur dharma ka pehla saamna tha.
+
+Arjuna ka kaushal
+sab par bhari pad gaya.
+
+Aur yahin se
+jalan ki aag
+aur tez ho gayi.
+
+👉 Kala jab shreshth ho,
+toh ahankar hamesha kaamp jaata hai."""
             create_image_text_layout(text_content=text2, layout="full")
 
         # Section 1.7.74
         with st.expander("Section 1.7.74"):
-            text1 = """ """
+            text1 = """ 
+            Section CXXXVIII – Karna ka Pravesh aur Takraav (Hinglish Kahani)
+
+Vaisampayana kehte hain—
+jab sab log Arjuna ka adbhut pradarshan dekh kar
+abhi bhi hairaan the,
+tab bheed ne ek raasta banaya.
+
+Us raaste se Karna arena mein aaya.
+
+Uske sharir par prakritik kavach tha.
+Kaanon mein chamakte kundal.
+Haath mein dhanush.
+Kamar par talwar.
+
+Woh chalta hua
+jaise koi pahad chal raha ho."""
             create_image_text_layout("attached_assets/chapter1/1.7.74.jpg", text1, layout="side", image_position="left")
-            text2 = """ """
+            text2 = """ 
+            Karna Surya ka putra tha.
+Tej mein Surya jaisa.
+Sundarta mein Chandra jaisa.
+Shakti mein Agni jaisa.
+
+Sab log chup ho gaye.
+Sab sochne lage—
+“Yeh kaun hai?”
+
+Tab Karna ne garajti hui awaaz mein kaha,
+“O Partha,
+aaj main woh sab karunga
+jo tumne kiya hai—
+aur usse bhi aage jaakar.”
+
+Aur sach mein,
+usne wahi sab kaushal dikhaya
+jo Arjuna ne dikhaya tha.
+
+Bheed phir se goonj uthi.
+
+Duryodhana khushi se uchhal pada.
+Usne Karna ko gale lagaya aur bola,
+“Tumhara aana mere liye bhaagya hai.
+Yeh Kuru rajya bhi tumhara hai!”
+
+Karna ne shaant swar mein kaha,
+“Mujhe rajya nahi,
+sirf tumhari mitrata chahiye.
+Aur Arjuna se yuddh.”
+
+Ab Arjuna ka mann jal utha.
+Usne kaha,
+“O Karna,
+aaj tum mere haathon se bach nahi paoge.”
+
+Karna ne bhi garaj kar uttar diya,
+“Yeh arena sabke liye hai.
+Yahan baatein nahi,
+sirf teer bolte hain!”
+
+Dono yoddha
+yuddh ke liye aage badhe.
+
+Aasmaan mein badal chha gaye.
+Bijli chamakne lagi.
+
+Indra badalon ke peeche se
+Arjuna ko dekh raha tha.
+Surya apni kirno se
+Karna ko roshan kar raha tha.
+
+Maa Kunti
+dono putron ko aamne-saamne dekh kar
+behosh ho gayi.
+
+Maa ka hriday
+is drishya ko seh nahi paaya.
+
+Tab Kripa bole,
+“Yuddh se pehle
+apna vansh batao, Karna.
+Kshatriya yuddh
+barabari mein hota hai.”
+
+Karna ka chehra murjha gaya.
+Uske paas jawab nahi tha.
+
+Turant Duryodhana aage aaya.
+Usne kaha,
+“Yeh yoddha raja hai.
+Aaj se Karna
+Anga ka raja hai!”
+
+Mantron ke saath
+Karna ka rajyabhishek hua.
+Rajchhatra uske sir par tha.
+Bheed ne taali bajayi.
+
+Karna ne Duryodhana se kaha,
+“Tumne mujhe sab kuch diya.
+Main tumhara mitra hoon,
+jeevan bhar.”
+
+Dono ne gale lagkar
+mitrata ka vachan diya.
+
+Saar (Moral) 🌿
+
+Karna ka saahas
+uski pehchaan se bada tha.
+
+Duryodhana ne mitrata ko
+rajya se bhi upar rakha.
+
+Aur Kunti ke liye,
+yeh drishya
+maa ke liye sabse bada dukh tha.
+
+👉 Jab ahankar, pehchaan aur mitrata takraate hain,
+toh itihaas janm leta hai."""
             create_image_text_layout(text_content=text2, layout="full")
 
         # Section 1.7.75
         with st.expander("Section 1.7.75"):
-            text1 = """ """
+            text1 = """ 
+            Section CXXXIX – Karna, Adhiratha aur Apmaan (Hinglish Kahani)
+
+Vaisampayana kehte hain—
+sab kuch shant hone hi wala tha
+tab ek buddha vyakti
+kaampte hue arena mein aaya.
+
+Woh Adhiratha tha.
+Karna ka paalne wala pita.
+Kapde dheele the.
+Haath mein laathi thi.
+Chehra paseene aur thakaan se bhara tha."""
             create_image_text_layout("attached_assets/chapter1/1.7.75.jpg", text1, layout="side", image_position="left")
-            text2 = """ """
+            text2 = """ 
+            Adhiratha ko dekhte hi
+Karna ne apna dhanush chhod diya.
+Rajabhishek ka paani
+abhi bhi uske sir par tha.
+
+Usne jhuk kar
+apne pita ke charan chhuye.
+
+Adhiratha ne
+use gale laga liya.
+Aankhon se aansu beh gaye.
+Woh bola,
+“Tu mera beta hai.”
+
+Yeh dekh kar
+Bhima hans pada.
+Usne tanz mein kaha,
+“O rath haankne wale ka beta!
+Tum Arjuna ke yogya nahi ho.
+Tum rajya ke bhi layak nahi.”
+
+Uski baat
+teer ki tarah lagi.
+
+Karna chup raha.
+Uske honth kaanp gaye.
+Usne sirf Surya ki taraf dekha.
+Kuch nahi bola.
+
+Tab Duryodhana gusse mein khada ho gaya.
+Uski awaaz poori sabha mein goonj uthi.
+
+“Shakti hi Kshatriya ka dharm hai!
+Vansh nahi, veerta maayne rakhti hai.
+
+Aag paani se nikalti hai.
+Vajra haddi se bana.
+Devtaon ka vansh bhi anek hai.
+
+Karna Surya jaisa tejwala hai.
+Yeh poori prithvi ke yogya hai,
+sirf Anga ke rajya ke nahi!”
+
+Sabha mein shor mach gaya.
+Kai log Duryodhana ke paksh mein bole.
+
+Tabhi surya ast ho gaya.
+Yuddh nahi ho saka.
+
+Duryodhana ne
+Karna ka haath pakda
+aur deepak se jagmagate arena se
+use bahar le gaya.
+
+Pandav bhi
+Bhishma, Drona aur Kripa ke saath
+wapas laut gaye.
+
+Log jaate hue bol rahe the—
+“Koi Arjuna jeeta.”
+“Koi Karna.”
+“Koi Duryodhana.”
+
+Kunti ne Karna ko dekha.
+Uske sharir ke chinh
+maa ka hriday pehchaan gaya.
+
+Uska mann khushi aur peeda
+dono se bhar gaya.
+
+Aur is tarah,
+Duryodhana ne Karna ko paakar
+Arjuna se apna darr kam kar liya.
+
+Karna ne bhi
+meethi baaton se
+Duryodhana ka mann jeet liya.
+
+Aur Yudhishthira ne socha—
+“Is dharti par
+Karna jaisa yoddha
+koi nahi.”
+
+Saar (Moral) 🌱
+
+Janm se bada hota hai karm.
+
+Apmaan chup rehkar bhi saha ja sakta hai.
+
+Sachhi mitrata wahi hai
+jo mushkil mein saath khadi rahe.
+
+👉 Karna ki kahani batati hai—
+veer hone ke liye
+sirf rajkumar hona zaroori nahi."""
             create_image_text_layout(text_content=text2, layout="full")
 
         # Section 1.7.76
         with st.expander("Section 1.7.76"):
-            text1 = """ """
+            text1 = """ 
+            Section CXL – Guru Dakshina aur Drupada ki Haar (Hinglish Kahani)
+
+Vaisampayana kehte hain—
+jab Pandav aur Kaurav
+sabhi shastra-vidya mein nipun ho gaye,
+tab Guru Drona ne socha,
+“Ab Guru Dakshina ka samay aa gaya hai.”
+
+Ek din unhone sab shishyon ko bulaya
+aur shaant swar mein kaha—
+
+“Panchal ke raja Drupada ko
+yuddh mein jeet kar
+mere saamne le aao.
+Yahi meri Guru Dakshina hogi.”
+
+Sab ne ek saath kaha—
+“Jaise aap aagya dein, Gurudev.”"""
             create_image_text_layout("attached_assets/chapter1/1.7.76.jpg", text1, layout="side", image_position="left")
-            text2 = """ """
+            text2 = """ 
+            Shishya rath par chadhe
+aur Panchal ki rajdhani par chadhai ho gayi.
+Duryodhana, Karna, Duhshasana—
+sab pehle aage badhe.
+
+Lekin jaise hi yuddh shuru hua,
+Raja Drupada akela hi
+bijli ki tarah ladhne laga.
+
+Uske teeron ki baarish se
+Kaurav sena ghabra gayi.
+Unhe laga jaise
+ek nahi, kai Drupada ladh rahe ho.
+
+Jab sena toot kar bhagi,
+tab shor macha—
+“Pandavon ko bulao!”
+
+Tab Arjuna ne rath sambhala.
+Bhima gadaa le kar
+toofan ki tarah aage badha.
+
+Bhima ne haathiyon ko
+giraa diya jaise khilone ho.
+Khoon aur dhool se
+ranbhoomi bhar gayi.
+
+Arjuna ne shant par bhayanak roop mein
+Panchal sena ko chhed diya.
+Uske teeron mein
+rukne ka naam hi nahi tha.
+
+Aakhirkaar Arjuna
+seedha Drupada ke rath par chadha.
+Usne bina darr ke
+Drupada ko pakad liya—
+jaise Garud naag ko pakadta hai.
+
+Panchal sena bhaag gayi.
+
+Arjuna ne zor se kaha—
+“Yeh raja hamare Guru ka mitra tha.
+Kisi ko anavashyak na maaro.
+Humein sirf Guru Dakshina deni hai.”
+
+Bhima ruk gaya,
+chahe uska mann abhi bhara nahi tha.
+
+Drupada ko
+Guru Drona ke saamne laya gaya.
+Drupada sharminda tha.
+Sir jhuka hua tha.
+
+Drona bole—
+
+“Tumne kabhi kaha tha
+ki raja sirf raja ka mitra hota hai.
+Aaj main raja hoon.”
+
+Phir muskura kar bole—
+
+“Par hum Brahman kshama karte hain.
+Main tumhe aadha rajya wapas deta hoon.
+Tum dakshin ke raja raho,
+main uttar ka.”
+
+Drupada ne haath jod kar kaha—
+“Main aapka mitra hoon.
+Aap mahaan ho.”
+
+Par uske mann mein ek baat reh gayi—
+“Sirf shastra-bal se
+Brahma-bal ko nahi jeeta ja sakta.”
+
+Us din se
+Drupada ne ek aise putra ki kaamna ki
+jo Drona ko hara sake.
+
+Saar (Moral) 🌱
+
+Guru Dakshina sirf daan nahi, kartavya hoti hai.
+
+Shakti se jeet mil sakti hai,
+par kshama se mahaanta.
+
+Ahankar mitrata todta hai,
+aur vinamrata naye rishtay jodti hai.
+
+👉 Yeh kahani sikhati hai—
+sachhi jeet wahi hoti hai
+jisme daya bhi saath ho."""
             create_image_text_layout(text_content=text2, layout="full")
 
         # Section 1.7.77
         with st.expander("Section 1.7.77"):
-            text1 = """ """
+            text1 = """ 
+            Section CXLI – Pandavon ki Udaan aur Dhritarashtra ka Darr (Hinglish Kahani)
+
+Vaisampayana bole—
+
+Ek saal beette hi
+Dhritarashtra ne
+logon ke hit mein
+ek bada faisla liya.
+
+Usne Yudhishthira ko
+rajya ka yuvaraj bana diya.
+
+Yudhishthira shaant tha.
+Dhairyavaan tha.
+Dayalu aur sadaa sach bolne wala.
+
+Thode hi samay mein
+uska vyavhaar itna uttam ho gaya
+ki log
+Pandu ke kaamon ko bhi
+bhoolne lage."""
             create_image_text_layout("attached_assets/chapter1/1.7.77.jpg", text1, layout="side", image_position="left")
-            text2 = """ """
+            text2 = """ 
+            Is dauraan
+Bhima ne
+Balram se
+gada, talwar aur rath yuddh seekha.
+
+Shiksha poori hote hi
+Bhima ki shakti
+bijli jaisi ho gayi.
+
+Woh apne bhaiyon ke saath
+mil-jul kar rehne laga
+par shakti mein
+kisi se kam nahi tha.
+
+Arjuna ki keerti
+har jagah phailne lagi.
+
+Uski pakad majboot thi.
+Nishana bilkul sahi.
+Hath itna tez
+ki aankh follow na kar paaye.
+
+Drona ne khud kaha—
+
+“Arjuna jaisa
+is duniya mein
+koi dhanurdhar nahi.”
+
+Ek din
+Drona ne sabke saamne
+Arjuna se kaha—
+
+“Maine apne guru se
+Brahmasira astra paaya tha.
+Yeh astra
+duniya ko bhi jala sakta hai.”
+
+“Ab yeh vidya
+shishya se shishya ja sakti hai.”
+
+“Par yaad rakhna—
+ise kisi manushya par
+kabhi na chalana.”
+
+Phir Drona bole—
+
+“Ab mujhe
+apni Guru Dakshina do.”
+
+Arjuna ne bina soche kaha—
+
+“Jo aagya ho, Gurudev.”
+
+Drona bole—
+
+“Jab main tumse yuddh karun,
+tum mujhse yuddh karoge.”
+
+Arjuna ne guru ke charan chhoo kar
+haan keh di.
+
+Us din
+poori dharti par
+yeh ghoshna ho gayi—
+
+“Arjuna jaisa
+koi dhanurdhar nahi.”
+
+Sahadeva ne
+dharma aur neeti ka
+poora gyaan paaya.
+
+Nakula
+ek uttam yoddha bana.
+
+Aur Arjuna, Bhima ke saath milkar,
+kai rajyon ko jeetne laga.
+
+Purab, pashchim,
+uttar aur dakshin—
+har jagah
+Pandavon ka prabhav badhne laga.
+
+Itna dhan aur vijay
+Hastinapur pahunchi
+ki rajya samriddh ho gaya.
+
+Par…
+yeh sab dekh kar
+Dhritarashtra ka mann badalne laga.
+
+Pandav majboot ho rahe the.
+Log unse pyaar kar rahe the.
+
+Raja ke hriday mein
+darr ghus gaya.
+
+Woh raat ko
+theek se so bhi
+nahi paata tha.
+
+Saar (Moral) 🌱
+
+Gun aur mehnat se
+samman milta hai.
+
+Jab sachchai aage badhti hai,
+to anyaay dar jaata hai.
+
+Jab shakti badhti hai,
+to kamzor mann mein
+bhay janm leta hai.
+
+👉 Yahin se
+Mahabharat ka
+agla andhera
+shuru hota hai…"""
             create_image_text_layout(text_content=text2, layout="full")
 
         # Section 1.7.78
         with st.expander("Section 1.7.78"):
-            text1 = """ """
+            text1 = """ 
+            Section CXLII – Galat Salah ka Beej (Hinglish Moral Kahani)
+
+Vaisampayana bole—
+
+Jab Dhritarashtra ne suna
+ki Pandu ke bete
+din-ba-din aur zyada shaktishaali ho rahe hain,
+toh uska mann
+shaant na raha.
+
+Andar hi andar
+woh jalne laga.
+Usse neend nahi aati thi.
+Dil hamesha bhara-bhara rehta tha.
+
+Usne apne sabse tez dimaag wale mantri
+Kanika ko bulaya.
+
+Dhritarashtra bola—"""
             create_image_text_layout("attached_assets/chapter1/1.7.78.jpg", text1, layout="side", image_position="left")
-            text2 = """ """
+            text2 = """ 
+            “Pandav
+poori dharti par chha rahe hain.
+Mere mann mein jalan hai.
+Mujhe nahi pata
+unse shanti rakhoon
+ya yuddh.”
+
+“Kanika,
+sach batao.
+Main wahi karunga
+jo tum kahoge.”
+
+Kanika muskuraya.
+Uski baatein meethi nahi thi.
+Par tez thi…
+aur khatarnak bhi.
+
+Kanika bola—
+
+“Raja,
+raaj chalane ke liye
+daya nahi,
+chaturai chahiye.”
+
+“Raja ko hamesha
+waar ke liye tayaar rehna chahiye.
+Apni kamzori chhupaao.
+Dushman ki kamzori dhoondo.”
+
+“Dushman ko
+chhota mat samajhna.
+Chingari bhi
+poora jungle jala sakti hai.”
+
+“Jab mauka mile,
+toh dushman ko
+jad se mita do.
+Daya mat dikhao.”
+
+Phir Kanika ne
+ek kahani sunayi—
+
+Jungle mein
+ek lomdi rehti thi.
+Uske dost the—
+baagh,
+chuha,
+bhediya
+aur nevala.
+
+Ek din
+sabne milkar
+ek hiran maara.
+
+Lekin lomdi ne
+chal chali.
+
+Usne baagh ko bola—
+“Chuha tumhari taakat ka mazaak uda raha hai.”
+
+Baagh chala gaya.
+
+Phir chuhe ko bola—
+“Nevala tumhe maarna chahta hai.”
+
+Chuha bhaag gaya.
+
+Phir bhediye ko dara diya.
+
+Aakhir mein
+lomdi akeli reh gayi
+aur poora shikaar
+akeli kha gayi.
+
+Kanika bola—
+
+“Raja,
+aise hi
+chal se
+sabko alag karo
+aur khud fayda uthao.”
+
+Kanika aur bhi aage gaya.
+
+Usne kaha—
+
+“Agar apna bhi
+dushman ban jaaye,
+toh use bhi mat chhodo.”
+
+“Muskurate hue
+ghaat karo.”
+
+“Baahar se
+dharm ka dikhawa,
+andar se
+chhura tez.”
+
+“Jab maaro,
+toh itna maaro
+ki woh dobara
+uth na sake.”
+
+Yeh sab sun kar
+Dhritarashtra
+chup ho gaya.
+
+Uska mann
+aur bojhil ho gaya.
+
+Aankhon mein
+andhera tha.
+Soch mein
+bhay aur jalan.
+
+Kanika chala gaya.
+
+Aur Hastinapur ke mahal mein
+sirf ek cheez reh gayi—
+
+👉 chinta
+👉 bhay
+👉 aur galat raah ka beej
+
+Saar (Moral) 🌱
+
+Galat salah
+hamesha vinash laati hai.
+
+Chaturai bina dharm
+zehar ban jaati hai.
+
+Jalan se liye gaye faisle
+poori vansh ko jala dete hain.
+
+👉 Yahin se
+Mahabharat ka
+anyaay bhara
+raasta shuru hota hai…"""
             create_image_text_layout(text_content=text2, layout="full")
 
     # Chapter 1.8
