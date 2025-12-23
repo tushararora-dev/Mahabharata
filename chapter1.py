@@ -21089,79 +21089,1574 @@ raasta shuru hota hai…"""
 
         # Section 1.8.1
         with st.expander("Section 1.8.1"):
-            text1 = """ """
+            text1 = """ 
+            Section CXLIII – Lakshagriha ka Saazish aur Pandavon ka Bachav
+
+(Hinglish • short • simple • moral story tone)
+
+Vaisampayana bole:
+
+Duryodhana,
+Shakuni ka beta,
+Karna aur Duhshasana
+sab milkar ek bahut buri saazish banate hain.
+
+Unka plan tha –
+Kunti aur paanch Pandavon ko zinda jala dena.
+
+Is saazish ko
+raja Dhritarashtra ki bhi manzoori mil jaati hai."""
             create_image_text_layout("attached_assets/chapter1/1.8.1.jpg", text1, layout="side", image_position="left")
-            text2 = """ """
+            text2 = """ 
+            Lekin Vidura bahut buddhimaan the.
+Woh chehron ke bhaav dekh kar
+logon ka mann padh lete the.
+
+Sirf unke chehre dekh kar hi
+Vidura samajh gaye
+ki kuch bahut galat hone wala hai.
+
+Unhone turant socha –
+Pandavon ko yahan se bhagana hoga.
+
+Vidura chupke se
+ek majboot naav (boat) tayaar karwa dete hain,
+jo aandhi aur toofan dono seh sake.
+
+Woh Kunti se kehte hain:
+
+“Dhritarashtra
+ab dharma se bhatak raha hai.
+Maut ka jaal tumhare aas-paas bichha diya gaya hai.
+
+Ganga ke kinaare
+ek boat ready hai.
+Apne bachchon ke saath
+turant nikal jao.”
+
+Yeh sunkar
+Kunti ka mann dukhi ho jaata hai.
+Lekin apne bachchon ke liye
+woh himmat karti hain.
+
+Kunti aur paanch Pandav
+raat mein chupchaap
+boat mein baith kar
+Ganga paar kar jaate hain.
+
+Phir jungle ki taraf nikal jaate hain,
+aur Vidura ke kehne par
+boat chhod dete hain.
+
+Udhar Lakshagriha
+(jo lakdi aur lac se bana ghar tha)
+mein aag laga di jaati hai.
+
+Us ghar mein galti se
+ek nishad aurat
+apne bachchon ke saath jal kar mar jaati hai.
+
+Aur us ghar ka banane wala,
+Purochana,
+woh bhi usi aag mein jal jaata hai.
+
+Duryodhana aur uske saathi
+sochte hain –
+“Pandav mar gaye.”
+
+Unki saazish
+unhi par ulta pad jaati hai.
+
+Varanavata ke log
+jalta hua ghar dekh kar
+samajh jaate hain
+ki Pandav mar gaye hain.
+
+Sab log bahut dukhi ho jaate hain.
+Raja Dhritarashtra ko sandesh bhejte hain:
+
+“Aapka kaam poora ho gaya.
+Pandav jal kar mar gaye.”
+
+Dhritarashtra aur uske bete
+bahar se dikhawa ka shok karte hain.
+Antim sanskaar bhi karwa dete hain.
+
+Lekin sach yeh tha –
+Pandav zinda the.
+Vidura ki buddhi
+unki raksha kar chuki thi.
+
+Janamejaya poochhte hain:
+
+“Yeh lakshagriha wali ghatna
+poori batao.
+Mujhe sab kuch detail mein sunna hai.”
+
+Vaisampayana aage bole:
+
+Duryodhana ko
+Bhima ki taakat
+aur Arjuna ki kala
+bilkul pasand nahi thi.
+
+Sheher ke log
+Yudhishthira ki tareef karne lage:
+
+“Yudhishthira hi
+raja banne layak hai.”
+
+Yeh baatein sunkar
+Duryodhana ka mann
+jalan se bhar gaya.
+
+Woh Dhritarashtra ke paas jaakar bola:
+
+“Pitaji,
+log Pandu ke bete ko raja banana chahte hain.
+
+Agar aisa hua,
+toh hamara vansh
+hamesha ke liye side mein ho jaayega.
+
+Kuch aisa karo
+ki hum bhookhe aur par dependent
+na ho jaayein.”
+
+✨ Seekh (Moral):
+Buddhi aur dharma
+saazish se zyada taakatwar hote hain.
+Vidura jaise sache log
+andhere mein bhi
+raasta dikha dete hain."""
             create_image_text_layout(text_content=text2, layout="full")
 
         # Section 1.8.2
         with st.expander("Section 1.8.2"):
-            text1 = """ """
+            text1 = """ 
+            Section CXLIV – Pandavon ko Varanavata bhejne ka plan (Hinglish summary)
+
+Vaisampayana kehte hain:
+
+Dhritarashtra ne jab
+Duryodhana ki baatein suni
+aur Kanika ki purani salah yaad aayi,
+toh unka mann duvidha aur shok se bhar gaya.
+
+Tab Duryodhana, Karna, Shakuni
+aur Duhshasana
+chaaron ne milkar
+chupke se salah ki."""
             create_image_text_layout("attached_assets/chapter1/1.8.2.jpg", text1, layout="side", image_position="left")
-            text2 = """ """
+            text2 = """ 
+            🔥 Duryodhana ka proposal
+
+Duryodhana ne kaha:
+
+“Pitaji, kisi chaalak tareeke se
+Pandavon ko Varanavata bhej dijiye.
+Wahaan chale gaye toh
+humein unse koi darr nahi rahega.”
+
+⚖️ Dhritarashtra ka dharmic conflict
+
+Dhritarashtra ne jawab diya:
+
+Pandu ne hamesha dharma nibhaya
+
+Rajya bhi mujhe bina lalach de diya
+
+Yudhishthira bhi bilkul waisa hi hai
+
+Log usse pyaar karte hain
+
+Uske saath purane mitra aur sainik hain
+
+“Aise insaan ko zabardasti
+kaise nikaala jaa sakta hai?
+Kahin log hum sabko
+maar hi na daalein?”
+
+🧠 Duryodhana ka chaalak tark
+
+Duryodhana bola:
+
+Pitaji, baat sahi hai
+
+Lekin dhan aur pad se logon ko
+apni taraf kiya jaa sakta hai
+
+Treasury aur mantri humare control mein hain
+
+“Bas shanti se, bina jhagda kiye,
+Pandavon ko Varanavata bhej do.
+Jab main raja ban jaaunga,
+tab Kunti aur Pandav wapas aa sakte hain.”
+
+(yeh sirf bolne ki baat thi)
+
+😔 Dhritarashtra ka darr
+
+Dhritarashtra ne kaha:
+
+Yeh vichaar mere mann mein bhi hai
+
+Par yeh bahut paapi hai
+
+Bhishma, Drona, Kripa aur Vidura
+kabhi is baat ko nahi maanenge
+
+Unke liye Pandav aur hum barabar hain
+
+“Aisa kiya toh
+poori duniya humein doshi samjhegi.”
+
+🐍 Duryodhana ka final manipulation
+
+Duryodhana ne sabka jawab tayaar kar rakha tha:
+
+Bhishma neutral rahenge
+
+Asvatthama mere saath hai
+→ Drona bhi mere saath honge
+
+Kripa Drona ka saath chhod nahi sakta
+
+Vidura hum par nirbhar hai
+→ akela kuch nahi bigaad sakta
+
+“Isliye bina darr ke
+Pandavon ko aaj hi Varanavata bhej do.
+Mere mann ki aag bujha do,
+jo mujhe sone bhi nahi deti.”
+
+✨ Moral / Arth
+
+Jab irsha (jealousy) buddhi par haavi ho jaaye,
+toh dharma bhi kamzor pad jaata hai
+
+Duryodhana ne
+har rishte aur maryada ko
+raajneeti ke hisaab se tolna shuru kar diya
+
+Yeh hi Lakshagriha ki ghatna
+ka pehla official step tha"""
             create_image_text_layout(text_content=text2, layout="full")
 
         # Section 1.8.3
         with st.expander("Section 1.8.3"):
-            text1 = """ """
+            text1 = """ 
+            Section CXLV – Pandavon ko Varanavata bhejna (Hinglish kahani)
+
+Vaisampayana bolte hain:
+
+Duryodhana ne dheere-dheere
+logon ka mann apni taraf karna shuru kar diya.
+Kahin dhan baant kar,
+kahin samman dekar.
+Log chupchaap uske saath aane lage.
+
+Isi beech,
+Dhritarashtra ke kehne par,
+kuch chaalak mantri
+ek din sabha mein
+Varanavata ki tareef karne lage."""
             create_image_text_layout("attached_assets/chapter1/1.8.3.jpg", text1, layout="side", image_position="left")
-            text2 = """ """
+            text2 = """ 
+            🎉 Varanavata ka jhootha rang
+
+Mantri bole:
+
+“Varanavata mein
+Pasupati (Shiv ji) ka maha-utsav chal raha hai.
+Logon ki bheed dekhi nahi jaati.
+Juloos itna sundar hai
+ki duniya mein uska koi jawab nahi.
+
+Sheher sajha hua hai,
+gehno se chamak raha hai,
+jo dekhe bas dekhta hi reh jaaye.”
+
+🌱 Pandavon ke mann mein ichchha
+
+Ye baatein sunte-sunte
+Pandavon ke mann mein bhi
+Varanavata jaane ki ichchha jaag uthi.
+
+Dhritarashtra ne jab dekha
+ki unka mann tayaar ho raha hai,
+toh unhone turant kaha:
+
+🎭 Dhritarashtra ka meetha nimantran
+
+“Beta,
+mere log Varanavata ki
+bahut tareef karte rehte hain.
+
+Agar tum festival dekhna chahte ho,
+toh apne mitron aur logon ke saath
+wahaan jao.
+
+Brahmanon aur gaayakon ko
+motiyon aur ratnon ka daan karo.
+Kuch samay wahaan khushi se raho,
+devtaon ki tarah anand lo,
+phir wapas Hastinapur aa jaana.”
+
+(Baat meethi thi,
+par mann mein kuch aur tha)
+
+🧠 Yudhishthira ka samajhdaar jawab
+
+Yudhishthira sab samajh gaye the.
+Unhe Dhritarashtra ka asal iraada dikh raha tha.
+Par wo jaante the:
+
+hum kamzor hain
+
+humare paas shakti nahi
+
+virodh karna abhi sahi nahi
+
+Isliye shant swar mein bole:
+
+👉 “So be it.”
+(“Jaise aap chahein.”)
+
+🙏 Sabse aashirvaad lena
+
+Phir Yudhishthira ne
+sab bade-buzurgon ko
+namrata se sambodhit kiya:
+
+Bhishma, Vidura, Drona, Kripa,
+Ashwatthama, Gandhari,
+sab mantri, brahman, rishi
+aur sheher ke log.
+
+Unhone kaha:
+
+“Hum Dhritarashtra ke aadesh se
+Varanavata jaa rahe hain.
+Kripya humein aashirvaad dijiye,
+taaki humein samriddhi mile
+aur hum paap se bache rahein.”
+
+🌼 Aashirvaad aur vidai
+
+Sab Kaurav bade
+khushi-khushi bole:
+
+“Pandavon,
+sab devta tumhari raksha karein.
+Tumhare raaste mein
+koi bhi buraai na aaye.”
+
+🚶‍♂️ Yatra ki shuruaat
+
+Pandavon ne
+shubh kriyaein ki,
+tayyari poori ki
+aur Varanavata ki yatra par nikal pade.
+
+Unhe nahi pata tha
+ki aage chal kar
+yeh sheher
+unke liye agni-pariksha banne wala hai…
+
+✨ Moral / Seekh
+
+Kabhi-kabhi badi muskaan ke peeche
+gehra shadayantra chhupa hota hai
+
+Yudhishthira ka shant rehna
+kamzori nahi,
+samyak buddhi thi
+
+Yeh kahani sikhati hai
+ki har yuddh talwar se nahi,
+samay aur dhairya se jeeta jaata hai"""
             create_image_text_layout(text_content=text2, layout="full")
 
         # Section 1.8.4
         with st.expander("Section 1.8.4"):
-            text1 = """ """
+            text1 = """ 
+            Section CXLVI – Lakshagriha ka shadayantra (Hinglish kahani)
+
+Vaisampayana bolte hain:
+
+Jab Dhritarashtra ne
+Pandavon ko Varanavata bhejne ki baat maan li,
+toh Duryodhana ka mann khushi se bhar gaya.
+Uske chehre par muskaan thi,
+par dil mein andhera plan."""
             create_image_text_layout("attached_assets/chapter1/1.8.4.jpg", text1, layout="side", image_position="left")
-            text2 = """ """
+            text2 = """ 
+            😈 Purochana se gupt baat
+
+Duryodhana ne
+apne vishwasniya aadmi Purochana ko
+chupke se bulaya.
+Uska haath pakad kar bola:
+
+“Purochana,
+yeh duniya jo dhan se bhari hai,
+meri hai… aur utni hi teri bhi.
+Isliye iski raksha tumhari zimmedari hai.
+
+Tum mere sabse vishwasniya aadmi ho.
+Isliye mera kaam
+chalaaki se poora karo.”
+
+🏰 Lakshagriha ka plan
+
+Duryodhana bola:
+
+“Pandav ab
+Dhritarashtra ke kehne par
+Varanavata jaa rahe hain.
+Tum aaj hi
+tez khachar-wali gaadi mein
+wahaan pahunch jao.
+
+Wahaan tum
+ek chaar-kona mahal banwao.
+Bahut sundar dikhe,
+sabse accha ho,
+taaki kisi ko shaq na ho.
+
+Lekin yaad rakhna—
+us mahal mein istemal karna:
+
+laakh (lac)
+
+tel
+
+ghee
+
+charbi
+
+san aur rassi
+
+lakdi
+
+Sab jalne wali cheezein.”
+
+🔥 Aag chhupi ho, dikhe na
+
+Duryodhana aage bola:
+
+“Deewaron par
+mitti, ghee aur laakh mila kar
+aisa lep lagana
+ki koi bhi pehchaan na paaye
+ki yeh ghar jal sakta hai.
+
+Har taraf
+aise chhupa kar samaan rakhna
+ki dekhne wala
+kuch samajh hi na paaye.”
+
+🎭 Pandavon ka bharosa jeetna
+
+“Jab mahal tayaar ho jaaye,
+toh Pandavon ko
+bade samman ke saath
+wahaan rehne ko bulaana.
+
+Unke liye
+acche palang,
+gaadiyaan,
+baithne ke aasan
+sab kuch badhiya rakhna.
+
+Aisa lage
+jaise Dhritarashtra ne
+khud dhyaan rakha ho.”
+
+🌙 Raat ka andhera, maut ka pal
+
+Duryodhana ne dheere se kaha:
+
+“Jab tumhe pakka ho jaaye
+ki Pandav
+aur Kunti
+nishchint hokar
+ghar ke andar so rahe hain…
+
+👉 tab bahar ke darwaaze se aag laga dena.
+
+Pandav jal kar mar jaayenge,
+aur log kahenge
+yeh sirf ek durghatna thi.”
+
+🏃‍♂️ Purochana ka rawana
+
+Purochana ne sir jhuka kar kaha:
+
+👉 “So be it.”
+
+Aur bina der kiye,
+tez khachar-wali gaadi mein
+Varanavata ki taraf nikal pada.
+
+Wahaan pahunch kar,
+usne bilkul wahi kiya
+jo Duryodhana ne kaha tha.
+
+Lakshagriha banne lagi…
+aur maut
+chupchaap uske saath chal rahi thi.
+
+🌑 Moral / Seekh
+
+Jo bahar se sundar dikhe,
+zaroori nahi andar se surakshit ho
+
+Lalach aur jalan
+aadmi ko andha bana deti hai
+
+Par dharm aur buddhi
+hamesha andhere se raasta dhoondh leti hai"""
             create_image_text_layout(text_content=text2, layout="full")
 
         # Section 1.8.5
         with st.expander("Section 1.8.5"):
-            text1 = """ """
+            text1 = """ 
+            Section CXLVII – Vidura ka gupt sandesh (Hinglish kahani)
+
+Vaisampayana bolte hain:
+
+Pandav
+apni rathon par chadhne lage.
+Ghode hawa jaise tez the.
+Par unke mann
+bohot bhaari the 💔"""
             create_image_text_layout("attached_assets/chapter1/1.8.5.jpg", text1, layout="side", image_position="left")
-            text2 = """ """
+            text2 = """ 
+            🙏 Antim pranam
+
+Rath par chadhne se pehle,
+Pandavon ne
+Bhishma, Dhritarashtra, Drona, Kripa, Vidura
+aur sabhi bade buzurgon ke
+charan chhoo kar pranam kiya.
+
+Unki aankhon mein aansu the.
+Dil mein dukh tha.
+
+Phir apne barabari walon ko gale lagaya,
+bachchon se vida li,
+ghar ki sabhi mahilaon ko
+shraddha se pranam kiya.
+
+Shehar ke nagrikon ko
+antim baar dekha…
+aur Varanavata ki aur nikal pade.
+
+😢 Shehar walon ka dukh
+
+Vidura, Bhishma
+aur kai nagrik
+Pandavon ke saath
+kaafi door tak chale.
+
+Log ro rahe the.
+Aur zor zor se keh rahe the:
+
+“Dhritarashtra
+ek hi nazar se sabko nahi dekhte.
+Unhone dharm ko bhula diya hai!
+
+Yudhishthira paapi nahi.
+Bhima anyayi nahi.
+Arjuna kabhi vidroh nahi karega.
+
+Phir bhi inhe vanvaas?
+Ye anyaay hai!
+
+Agar Pandav ja rahe hain,
+toh hum bhi shehar chhod denge!”
+
+🌼 Yudhishthira ka shant uttar
+
+Yudhishthira ne
+thoda socha.
+Dil dukh se bhara tha,
+par awaaz shant thi.
+
+Unhone kaha:
+
+“Raja hamare pita samaan hain.
+Guru hain.
+Bade hain.
+
+Unka aadesh maanna
+hamara kartavya hai.
+
+Aap sab hamare mitra ho.
+Aapka pyaar
+hamare saath rahega.
+
+Aashirvaad dekar
+apne ghar laut jaaiye.
+Jab samay aayega,
+tab ham aapko yaad karenge.”
+
+Log chup ho gaye.
+Pandavon ko ashirvaad diya.
+Aur dheere dheere
+wapas laut gaye.
+
+🔐 Vidura ka gupt sandesh
+
+Jab sab log peeche reh gaye,
+tab Vidura
+Yudhishthira ke paas aaye.
+
+Unhone
+Mleccha bhasha mein baat ki.
+Aisi bhasha
+jo sirf Yudhishthira samajh sake.
+
+Vidura bole:
+
+“Jo dushman ki chaal jaanta hai,
+wo bach sakta hai.
+
+Kuch hathiyaar
+loha ke nahi hote,
+phir bhi maar dete hain.
+
+Aisi aag hoti hai
+jo bahar se nahi dikhti.
+
+Jo apni indriyon par niyantran rakhe,
+use koi hara nahi sakta.
+
+Jo ghar
+dushman de,
+usme hamesha
+nikalne ke raaste hone chahiye.
+
+Yaad rakhna…
+samajhdaar aadmi
+andhere mein bhi raasta dhoond leta hai.”
+
+🤫 “Main samajh gaya”
+
+Yudhishthira ne
+sir jhuka kar
+sirf itna kaha:
+
+👉 “Main samajh gaya.”
+
+Bas.
+Aur kuch nahi.
+
+Vidura ne unhe pranam kiya,
+ek baar mud kar dekha,
+aur laut gaye.
+
+👩‍👦 Kunti ka prashn
+
+Thodi der baad,
+Kunti Yudhishthira ke paas aayi.
+
+Boli:
+
+“Vidura ne
+tumse ajeeb si baat ki.
+Aur tumne bhi.
+
+Hum kuch samajh nahi paaye.
+Agar galat na ho,
+toh hume bhi batao.”
+
+🔥 Sach ka khulasa
+
+Yudhishthira bole:
+
+“Vidura ne kaha
+ki jo mahal
+hamare liye banaya ja raha hai,
+wo jalne wali cheezon se bana hai.
+
+Unhone kaha
+nikalne ka raasta
+bhi pata hona chahiye.
+
+Aur jo apne mann ko vash mein rakhe,
+wo sab kuch paa sakta hai.
+
+Isliye maine kaha—
+‘Main samajh gaya.’”
+
+Kunti ne gehri saans li.
+Unki aankhon mein chinta thi…
+par vishwas bhi.
+
+🌟 Yatra ka aarambh
+
+Phalguna mahine ka
+aathva din tha.
+Rohini nakshatra chamak raha tha ✨
+
+Pandav
+Varanavata pahunche.
+Shehar sundar tha.
+Log hans rahe the.
+
+Par kahani ka
+andhera hissa
+ab shuru hone wala tha…
+
+🌱 Seekh (Moral)
+
+Jo shabd seedhe na ho,
+unmein bhi sach chhupa hota hai
+
+Buddhi aur shanti
+aag se bhi raasta nikaal leti hai
+
+Dharm ka saath ho,
+toh sabse bada shadayantra bhi haar jaata hai"""
             create_image_text_layout(text_content=text2, layout="full")
 
         # Section 1.8.6
         with st.expander("Section 1.8.6"):
-            text1 = """ """
+            text1 = """ 
+            Section CXLVIII – Lakshagriha ka sach (Hinglish mein samjhaaya hua)
+            Vaisampayana kehte hain:
+
+🎉 Varanavata mein Pandavon ka bhavya swagat
+
+Jaise hi Pandav Varanavata pahunche,
+shehar ke log khushi se jhoom uthe.
+
+Hazaaron rath, gaadiyan,
+
+shastraon ke anusaar shubh samagri,
+
+“Jaya! Jaya!” ke naare
+
+Sab log Pandavon ko gher kar khade ho gaye.
+Yudhishthira unke beech Indra jaise chamak rahe the.
+
+Pandav pehle:
+
+Brahmanon ke ghar gaye
+
+Phir rajkarmiyon, Suton, Vaishyon
+
+Aur Shudron ke ghar bhi
+— sabko samman diya, sabse milkar.
+
+Aakhir mein Purocana unhe us mahal tak le gaya
+jo usne banwaya tha."""
             create_image_text_layout("attached_assets/chapter1/1.8.6.jpg", text1, layout="side", image_position="left")
-            text2 = """ """
+            text2 = """ 
+            🏠 “Blessed Home” – naam shubh, sach shraapit
+
+Pandav wahan 10 raat rahe.
+Sab kuch shandar tha—
+khana, bistar, kapde, seva.
+
+Phir Purocana ne kaha:
+
+“Is ghar ka naam hai Shubh Grih (Blessed Home).”
+
+Pandav us ghar mein gaye…
+lekin Yudhishthira ne jaise hi ghar ko dekha aur sugandh mehsoos ki—
+unhe sach samajh aa gaya.
+
+🔥 Yudhishthira ka khulaasa
+
+Yudhishthira ne Bhima se kaha:
+
+“Is ghar mein
+ghee, charbi, lac, resins, baans, ghaas
+sab bhare hue hain.
+Ye ghar aag pakadne ke liye hi bana hai.”
+
+Unhone spasht kaha:
+
+Ye Duryodhana ki yojana hai
+
+Purocana yahan isliye hai
+taaki mauka milte hi
+humein jala de
+
+Aur phir Vidura ki baat yaad dilayi:
+
+“Vidura pehle hi humein chetavani de chuke the.”
+
+💪 Bhima ka seedha prashn
+
+Bhima bole:
+
+“Agar ghar hi aisa hai
+toh hum pehle wale ghar mein kyun na laut jaayein?”
+
+🧠 Yudhishthira ki buddhi bhari rananiti
+
+Yudhishthira ne shant par gehri baat kahi:
+
+Agar hum ghabra gaye,
+toh Purocana turant aag laga dega
+
+Agar hum bhaag gaye,
+toh Duryodhana
+jasooson se humein marwa dega
+
+Hamare paas:
+
+na sena
+
+na rajya
+
+na dhan
+Par Duryodhana ke paas sab kuch hai
+
+Isliye unka faisla:
+
+“Hum yahin rahenge,
+bilkul nirdosh aur anjaan ban kar
+par poori satarkta ke saath.”
+
+🕳️ Sabse bada rahasya – surang (tunnel)
+
+Yudhishthira ne kaha:
+
+Isi raat
+apne kamre se
+ek gupt underground raasta khudwayenge
+
+Kisi ko pata nahi chalega
+
+Na Purocana
+
+Na shehar ke log
+
+Aur saath hi:
+
+Shikaar ke bahane jungle jaayenge
+
+Raaston se parichit ho jaayenge
+
+Zarurat padi toh turant nikal sakenge
+
+“Agar hum aisa karein,
+toh aag bhi humein nahi jala paayegi.”
+
+🌱 Is section ki gehri seekh
+
+Sirf shakti nahi, buddhi jeet dilati hai
+
+Jo dikh raha hai,
+sach hamesha wahi nahi hota
+
+Shant rehkar, dhoop mein bhi
+chhaaya ka raasta banaya ja sakta hai"""
             create_image_text_layout(text_content=text2, layout="full")
 
         # Section 1.8.7
         with st.expander("Section 1.8.7"):
-            text1 = """ """
+            text1 = """ 
+            Section CXLIX – Gupt Surang aur Vidura ka Vishwas
+            Vaisampayana bole:
+
+Ek raat, Vidura ka ek vishwasniya mitra chupke se Pandavon ke paas aaya.
+Woh khadan (mining) ka expert tha.
+
+Usne dheere se kaha:
+
+“Mujhe Vidura ne bheja hai.
+Main surang banane mein nipun hoon.
+Bataiye, main aapki kya seva karun?”
+
+Phir usne apni pehchaan di:
+
+Vidura ne use sab kuch bataya tha
+
+Purocana ka plan
+
+Andheri paksh ki 14vi raat
+
+Darwaze se aag lagane ka irada
+
+Usne kaha:"""
             create_image_text_layout("attached_assets/chapter1/1.8.7.jpg", text1, layout="side", image_position="left")
-            text2 = """ """
+            text2 = """ 
+            “Pandavon ko aur unki mata Kunti ko
+zinda jala dena
+Duryodhana ka sabse bada sapna hai.”
+
+Aur usne woh gupt baat bhi batayi
+jo Vidura aur Yudhishthira
+sirf Mleccha bhasha mein samajhte the.
+
+Yeh sunte hi
+Yudhishthira samajh gaye
+ki yeh vyakti sach mein Vidura ka hi bheja hua hai.
+
+🤝 Yudhishthira ka bharosa
+
+Yudhishthira ne shaant swar mein kaha:
+
+“Ab mujhe koi sandeh nahi.
+Tum Vidura jaise hi ho,
+hamare apne.”
+
+Phir unhone sach khol diya:
+
+Yeh ghar jalne ke liye bana hai
+
+Purocana sirf mauka dhoondh raha hai
+
+Duryodhana ke paas
+
+dhan hai
+
+mitra hai
+
+shakti hai
+
+Yudhishthira bole:
+
+“Agar hum yahan jal gaye,
+toh Duryodhana jeet jaayega.
+Isliye humein chupchaap bachna hoga.”
+
+Unhone miner se prarthna ki:
+
+“Bina Purocana ko pata chale,
+humein is aag se bacha lo.”
+
+🕳️ Surang ka kaam shuru
+
+Miner ne sir jhuka kar kaha:
+
+“Aisa hi hoga.”
+
+Usne raat ke andhere mein
+ghar ke beech se
+ek badi underground surang khodni shuru ki.
+
+Surang ka muh:
+
+farsh ke barabar
+
+lakdi ke takhton se dhaka hua
+
+Bahar se kisi ko shak na ho
+
+Purocana roz darwaze par nazar rakhta tha
+
+🏹 Pandavon ki dincharya
+
+Raat ko:
+
+Pandav sote
+
+par hathiyaar paas rakhte
+
+Din mein:
+
+shikaar ke bahane
+
+jungle-jungle ghoomte
+
+raaston ko yaad karte
+
+Bahari duniya ke liye:
+
+Pandav khush lagte the
+
+Nirdosh lagte the
+
+Bharose mein lagte the
+
+Par andar se:
+
+Woh satark the
+
+tayyar the
+
+samay ka intezaar kar rahe the
+
+🌑 Gupt yojana ka raaz
+
+Is poori yojana ke baare mein:
+
+Na shehar ko pata tha
+
+Na Purocana ko
+
+Na kisi aur ko
+
+Sirf 6 log jaante the:
+
+Kunti
+
+5 Pandav
+
+aur Vidura ka mitra
+
+🌟 Is kahani ki seekh
+
+Kabhi-kabhi chup rehna bhi shakti hoti hai
+
+Asli mitra
+andhere mein raasta banata hai
+
+Jo dhairya rakhta hai,
+wahi aag se bhi bach jaata hai"""
             create_image_text_layout(text_content=text2, layout="full")
 
         # Section 1.8.8
         with st.expander("Section 1.8.8"):
-            text1 = """ """
+            text1 = """ 
+            Section CL – Aag, Andhera aur Pandavon ka Palayan
+            Vaisampayana bole:
+
+Ek poora saal beet gaya.
+Pandav us ghar mein khush aur nishchint dikhte rahe.
+Yeh dekh kar Purocana bahut khush ho gaya.
+Usse laga,
+“Sab kuch bilkul mere control mein hai.”
+
+Par asli khel toh aur hi tha.
+
+🔥 Yudhishthira ka sanket
+
+Ek din Yudhishthira ne Bhima, Arjuna aur Nakula–Sahadeva se dheere se kaha:
+
+“Woh paapi poori tarah dhokha kha chuka hai.
+Ab nikalne ka samay aa gaya hai.
+Is ghar ko jala do.
+Purocana ko yahin chhod do.
+Aur hum chhupkar nikal jaayenge.”
+
+Sab bhai shaant the.
+Par taiyaar."""
             create_image_text_layout("attached_assets/chapter1/1.8.8.jpg", text1, layout="side", image_position="left")
-            text2 = """ """
+            text2 = """ 
+            🍚 Us raat ka bhoj
+
+Us raat Kunti mata ne daan-bhoj rakha.
+Bahut se Brahman,
+aur shehar ki auratein aayi.
+
+Sabne khaya, piya
+aur apne ghar laut gaye.
+
+Tab bhagya se
+ek Nishad aurat bhi wahan aa gayi.
+Uske paanch bachche bhi saath the.
+
+Sabne zyada peene ki wajah se
+hosh kho diya
+
+Woh aur uske bachche
+ghar ke andar hi so gaye
+
+Kisi ko kuch pata nahi tha.
+
+🌪️ Aandhi aur aag
+
+Raat gehri ho chuki thi.
+Tez hawa chalne lagi.
+
+Tab Bhima utha.
+
+Pehle Purocana ke kamre mein aag lagayi
+
+Phir darwaze par
+
+Phir ghar ke chaaron taraf
+
+Aag bhadak uthi.
+Lak ka ghar jalne laga.
+
+🕳️ Surang ka raasta
+
+Jab pakka ho gaya
+ki aag poore ghar mein phail chuki hai,
+tab:
+
+Kunti mata
+
+paanch Pandav
+
+turant underground surang mein ghus gaye.
+
+Bina shor.
+Bina rukke.
+
+😢 Shehar ka dard
+
+Aag ki garmi aur awaaz se
+poora shehar jaag gaya.
+
+Log rote hue bole:
+
+“Yeh sab Duryodhana ka paap hai!”
+“Nirdosh Pandav jal gaye!”
+“Purocana ne jo khud gaddha khoda tha,
+usmein khud hi jal gaya!”
+
+Poora shehar
+raat bhar ghar ke aas-paas khada raha.
+
+Par Pandav…
+kahin aur nikal chuke the.
+
+💪 Bhima ka adbhut bal
+
+Andhera tha.
+Darr bhi tha.
+Mata ke saath tez chalna mushkil tha.
+
+Tab Bhima aage aaya.
+
+Mata ko kandhe par uthaya
+
+Nakula–Sahadeva ko side mein
+
+Yudhishthira aur Arjuna ko baahon mein
+
+Aur woh andhere jungle mein daud pada.
+
+Ped toot-te gaye
+
+Zameen dhans-ti gayi
+
+Bhima hawa ki tarah aage badhta gaya
+
+🌄 Is kahani ki seekh
+
+Dhokha hamesha jeet nahi paata
+
+Chupchaap ki gayi sahi planning
+sabse badi shakti hoti hai
+
+Aur jab bhai saath ho,
+toh andhera bhi raasta de deta hai"""
             create_image_text_layout(text_content=text2, layout="full")
 
         # Section 1.8.9
         with st.expander("Section 1.8.9"):
-            text1 = """ """
+            text1 = """ 
+            Section CLI – Vidura ka Vishwas, Ganga aur Pandavon ki Raksha
+            Vaisampayana bole:
+
+Isi samay, Vidura, jo sab kuch door se bhi samajhne wale the,
+ne jungle ki taraf ek vishwasniya purush ko bheja—
+ek aisa vyakti jiska charitra shuddh tha
+aur jo Vidura ka poora bharosa jeetta tha.
+
+🌲 Jungle mein mulaqat
+
+Woh vyakti us jagah pahuncha
+jahaan Pandav apni mata Kunti ke saath
+ek nadi ki gehraai naap rahe the—
+yeh jaanch rahe the ki kaunsa raasta surakshit hai.
+
+Vidura ko pehle hi
+Duryodhana ke gupt yojna ka pata chal chuka tha
+apne jaasuson ke zariye.
+Isliye yeh madad bilkul samay par pahunchi."""
             create_image_text_layout("attached_assets/chapter1/1.8.9.jpg", text1, layout="side", image_position="left")
-            text2 = """ """
+            text2 = """ 
+            🚣 Ganga ke kinaare taiyaar nauka
+
+Us vyakti ne Pandavon ko
+Ganga ke pavitra tat par
+ek mazboot nauka dikhayi:
+
+tez hawa aur lehron ko jhelne wali
+
+jisme yantra aur jhande lage the
+
+jo toofan ya vichaar ki gati se chal sakti thi
+
+Yeh sab Vidura ke bharosemand shilpiyon ne banaya tha.
+
+🔑 Vidura ka gupt sandesh (pehchaan ka pramaan)
+
+Us purush ne kaha:
+
+“Yudhishthira,
+yeh shabd Vidura ne kahe the—
+‘Na lakdi jalane wali aag,
+na os sukhaane wali hawa,
+jungle ke bil mein rehne walon ko jala sakti hai.’
+
+In shabdon se pehchaan lo
+ki main sach mein Vidura ka hi bheja hua hoon.”
+
+Pandav samajh gaye.
+Yeh wahi gupt bhaasha thi.
+
+Phir usne aur kaha:
+
+“Vidura ne kaha hai—
+tum avashya Karna, Duryodhana,
+uske bhaiyon aur Shakuni ko yudh mein haraoge.
+Yeh nauka tum sabko surakshit
+in pradeshon se paar le jaayegi.”
+
+🌊 Ganga paar
+
+Pandav aur Kunti mata
+mann mein dukh liye
+par himmat banaye hue
+nauka mein chadh gaye.
+
+Vidura ka dūt
+khud unke saath gaya.
+
+Usne kaha:
+
+“Vidura ne mann hi mann
+tum sabko gale lagaya hai
+aur kaha hai—
+‘Aage ke safar mein kabhi asavdhaan mat hona.’”
+
+Nauka shaant lehron par chali…
+aur Pandav surakshit roop se Ganga ke us paar pahunch gaye.
+
+✨ Vidai aur Vijay
+
+Us vyakti ne:
+
+Pandavon ko ‘Jaya!’ kaha
+
+Unki safalta ki kaamna ki
+
+Aur chupchaap wapas laut gaya
+
+Pandav bhi
+Vidura ke liye sandesh bhej kar
+ab aur gehre jungle ki taraf
+bilkul gupt roop se aage badhne lage.
+
+🌟 Is khand ki seekh
+
+Vidura jaise log door rehkar bhi raksha karte hain
+
+Sahi samay par sahi madad
+poori kismat badal deti hai
+
+Ganga ke paar jaana sirf yatra nahi,
+balki purani zindagi ka ant
+aur nayi yatra ki shuruaat thi"""
             create_image_text_layout(text_content=text2, layout="full")
 
         # Section 1.8.10
         with st.expander("Section 1.8.10"):
-            text1 = """ """
+            text1 = """ 
+            Section CLII – Aag ke Baad ka Sach aur Jungle ki Andheri Yatra
+            Vaisampayana bole:
+
+Subah hui.
+Raat guzar chuki thi.
+Shehar ke log tez-tez bhaagte hue
+Pandavon ko dekhne aaye.
+
+🔥 Jali hui lakshagriha
+
+Aag bujha di gayi thi.
+Logon ne dekha—
+
+Ghar poora lac aur jalne wale saman se bana tha
+
+Purochana usi aag mein jal chuka tha
+
+Tab log zor-zor se rone lage.
+
+“Yeh sab Duryodhana ki yojna thi!”
+“Dhritarashtra ko pata hoga, tabhi toh yeh hua!”
+“Pandavon ko jalne se kyun nahi bachaya gaya?”
+
+Log gusse aur dukh se bhar gaye."""
             create_image_text_layout("attached_assets/chapter1/1.8.10.jpg", text1, layout="side", image_position="left")
-            text2 = """ """
+            text2 = """ 
+            😢 Galat samajh aur jhootha sandesh
+
+Raakh hatate hue
+logon ko ek Nishada aurat aur uske paanch bachche mile—
+sab jal chuke the.
+
+Vidura ke bheje hue khani-kaam jaanne wale vyakti ne
+chupchaap
+gaddhe ke muh ko raakh se dhak diya,
+taaki koi sach na jaan paaye.
+
+Phir sandesh bheja gaya Hastinapur:
+
+“Pandav aur Purochana
+sab jal kar mar gaye.”
+
+🕯️ Hastinapur ka dikhawa
+
+Yeh sun kar Dhritarashtra roya.
+Usne kaha:
+
+“Lagta hai aaj hi
+mere bhai Pandu bhi mar gaye.”
+
+Antim kriya ka aadesh diya gaya.
+Paani chadhaya gaya.
+Sab log rote rahe:
+
+“O Yudhishthira!”
+“O Bhima!”
+“O Arjuna!”
+“O Nakula-Sahadeva!”
+“O Kunti!”
+
+Sirf Vidura kam roya,
+kyunki woh sach jaanta tha.
+
+🌌 Udhar… Pandav zinda the
+
+Isi beech,
+Pandav aur Kunti mata
+Varanavata chhod chuke the.
+
+Woh Ganga ke kinaare pahunche.
+Nauka se us paar gaye.
+Phir andheri raat mein
+taaron ki roshni dekh kar
+south ki taraf chal pade.
+
+🌲 Gehra jungle aur thakaan
+
+Bahut chalne ke baad
+woh ghane jungle mein pahunch gaye.
+
+Sab thak chuke the.
+Pyaas lagi thi.
+Neend aankhon ko bandh kar rahi thi.
+
+Tab Yudhishthira ne Bhima se kaha:
+
+“Isse zyada kasht kya hoga?
+Humein rasta bhi nahi pata.
+Pata nahi Purochana mara ya nahi.
+
+Bhima…
+tum hi sabse taqatwar ho.
+Humein uthakar
+aage le chalo.”
+
+💪 Bhima ka bal
+
+Yudhishthira ki baat sun kar
+Bhima bina kuch bole—
+
+Maa Kunti ko kandhe par uthaya
+
+Bhaiyon ko apni baahon mein liya
+
+Aur hawa ki tarah tez
+andheri jungle mein chal pada.
+
+🌟 Is hissa ki seekh
+
+Jo dikhta hai, hamesha sach nahi hota
+
+Samajh aur sabr
+jaan bacha sakte hain
+
+Bhima ka bal sirf shakti nahi,
+parivaar ke liye pyaar bhi tha"""
             create_image_text_layout(text_content=text2, layout="full")
 
         # Section 1.8.11
         with st.expander("Section 1.8.11"):
-            text1 = """ """
+            text1 = """ 
+            Section CLIII – Jungle ki Andheri Raat aur Bhima ka Dard
+            Vaisampayana bole:
+
+Bhima aage badhta gaya.
+Uske kadmon se jungle kaanp raha tha.
+Ped aur belen
+uske seene se takra kar
+toot rahi thi.
+
+Uski janghon ki gati se
+garmi wali hawa chalne lagi,
+jaise garmiyon ke mahine mein hota hai.
+
+Bhima raasta banata hua chala.
+Bade-bade ped
+phool, phal ke saath
+zameen par girte gaye.
+
+Woh pagal haathi jaisa lag raha tha—
+taqat se bhara,
+gusse se bhara,
+aur rukne wala nahi."""
             create_image_text_layout("attached_assets/chapter1/1.8.11.jpg", text1, layout="side", image_position="left")
-            text2 = """ """
+            text2 = """ 
+            🌊 Nadi, bhesh aur maa ka bojh
+
+Raaste mein kai nadiyan aayi.
+Bhima ne tair kar paar kiya.
+Pandav apna bhesh badalte gaye,
+taaki Kauravon ke jaasoos
+pehchaan na paaye.
+
+Bhima ne
+Kunti maa ko kandhe par uthaya,
+aur pathrile kinaaron se
+sambhal-sambhal kar chalaya.
+
+🌌 Shaam ka andhera
+
+Shaam hote-hote
+woh ek bhayanak jungle mein pahunch gaye.
+
+Phal kam the
+
+Paani mushkil se milta
+
+Pakshiyon aur jaanwaron ki
+darawani awaazein aa rahi thi
+
+Andhera gehra ho gaya.
+Tez hawa chali.
+Ped tootne lage.
+
+Pandav thak chuke the.
+Pyaas se behaal the.
+Neend aankhon par bhaari thi.
+
+Sab bhookhe aur pyaase
+wahin baith gaye.
+
+💧 Maa ki pyaas
+
+Tab Kunti maa ne kaha:
+
+“Main paanch Pandavon ki maa hoon…
+par mujhe bahut pyaas lag rahi hai.”
+
+Unhone yeh baat
+baar-baar kahi.
+
+Yeh sun kar
+Bhima ka dil bhar aaya.
+Maa ke liye uska mann
+karuna se bhar gaya.
+
+🌳 Bargad ka ped
+
+Bhima aage chala
+aur ek bada bargad ka ped dekha.
+
+Usne maa aur bhaiyon ko
+wahin sula diya.
+
+Phir bola:
+
+“Tum yahin aaram karo.
+Mujhe paani ki awaaz aa rahi hai.
+Yahin kahin talab hoga.”
+
+Yudhishthira ne kaha:
+“Jao.”
+
+Bhima chala gaya
+pakshiyon ki awaaz ki taraf.
+
+🏞️ Paani mila
+
+Thodi door jaakar
+Bhima ne ek talab dekha.
+
+Usne paani piya.
+Nahaya.
+Aur phir
+apne kapdon mein paani bhigo kar
+wapas le aaya.
+
+Tez kadmon se
+char kos chal kar
+maa ke paas pahuncha.
+
+😢 Bhima ka aansuon bhara mann
+
+Maa aur bhai
+nangi zameen par so rahe the.
+
+Yeh dekh kar
+Bhima ro pada.
+
+“Arey bhagya!
+Mere bhai
+jo kabhi naram bistar par sote the,
+aaj zameen par so rahe hain!
+
+Meri maa Kunti—
+jo rajmahal mein rahi,
+aaj thaki hui
+zameen par so rahi hai!
+
+Yudhishthira,
+jo teen lok ka raja ban sakta hai,
+aaj aam insaan ki tarah so raha hai!
+
+Arjuna,
+jo badalon jaisa sundar hai,
+zameen par pada hai!
+
+Nakula aur Sahadeva—
+jo Ashwini Kumaron jaise sundar hain—
+bhi zameen par so rahe hain!”
+
+🔥 Krodh aur sanyam
+
+Bhima ka gussa phoot pada.
+
+“Duryodhana!
+Tum abhi zinda ho
+sirf isliye
+kyunki Yudhishthira mujhe rok raha hai!
+
+Agar unhone kaha hota,
+toh aaj hi
+main tum sabko Yama ke paas bhej deta!”
+
+Par phir
+Bhima ne apne gusse ko
+rok liya.
+
+🌙 Raat ka pehra
+
+Bhima ne socha:
+
+“Yahin kahin koi basti hogi.
+Sab so rahe hain.
+Main jaag kar pehra dunga.”
+
+Aur woh
+poori raat jaagta raha,
+maa aur bhaiyon ki raksha karta raha.
+
+Conclusion – Is Kahani ki Seekh 🌟
+
+Sachcha bal sirf taqat nahi, zimmedari hota hai
+
+Bhima ka gussa bhi tha,
+par sanyam usse bada tha
+
+Maa ke liye pyaar
+aur bhaiyon ke liye raksha
+hi uski asli shakti thi"""
             create_image_text_layout(text_content=text2, layout="full")
 
     # Chapter 1.9
