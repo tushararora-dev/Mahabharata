@@ -22664,37 +22664,558 @@ hi uski asli shakti thi"""
 
         # Section 1.9.1
         with st.expander("Section 1.9.1"):
-            text1 = """ """
+            text1 = """ 
+            Section CLIV – Bhima aur Hidimba
+            Pandav gehri jungle mein so rahe the.
+Raat shaant thi.
+Par paas hi ek Rakshas Hidimva rehta tha.
+
+Hidimva bahut bhayanak tha.
+Lambe daant.
+Laal aankhen.
+Insaan ka maans khane wala.
+
+Usse bhook lagi thi.
+Hawa mein insaan ki khushboo mehki.
+Usne Pandavon ko dekh liya.
+
+Woh khush ho gaya.
+Aur apni behen Hidimba ko bola:
+
+“Behna,
+jao aur dekho kaun hai.
+Unhe maar kar le aao.
+Aaj hum daawat karenge.”"""
             create_image_text_layout("attached_assets/chapter1/1.9.1.jpg", text1, layout="side", image_position="left")
-            text2 = """ """
+            text2 = """ 
+            🌙 Hidimba ka mann badalna
+
+Hidimba wahan pahunchi.
+Usne dekha —
+Pandav so rahe hain.
+Kunti maa bhi so rahi hain.
+
+Par ek yodha jaag raha tha.
+Bhima.
+
+Hidimba ne Bhima ko dekha.
+Mazboot.
+Tez.
+Sone jaisa chamakta shareer.
+
+Uska dil pighal gaya.
+Woh sochne lagi:
+
+“Yeh purush mere yogya hai.
+Main apne bhai ka hukm nahi maanungi.
+Ek patni ka prem
+bhai ke darr se bada hota hai.”
+
+Usne Rakshasi roop chhod diya.
+Insaan ka sundar roop dhar liya.
+Aur dheere dheere Bhima ke paas aayi.
+
+💬 Hidimba ka sach
+
+Hidimba ne Bhima se kaha:
+
+“Veer,
+yeh jungle Rakshason ka hai.
+Mera bhai Hidimva
+tum sabko maarna chahta hai.
+
+Par tumhe dekh kar
+mera dil tumhara ho gaya.
+Main tumse vivaah karna chahti hoon.
+
+Main tum sabko bacha sakti hoon.
+Mujhe apni patni bana lo.
+Hum pahadon par khushi se rahenge.”
+
+🛡️ Bhima ka dharm
+
+Bhima ne shant awaaz mein jawab diya:
+
+“Main kaise
+apni maa aur bhaiyon ko
+sote hue chhod sakta hoon?
+
+Koi bhi purush
+apni zimmedari chhod kar
+apna sukh nahi chunta.
+
+Main kisi Rakshas se nahi darta.
+Chahe tumhara bhai aaye,
+main taiyaar hoon.”
+
+Hidimba boli:
+“Main sabko bacha loongi.”
+
+Bhima ne kaha:
+
+“Dar ke kaaran
+main kisi ko jagaunga nahi.
+Mera bal kaafi hai.
+
+Tum chaho toh jao.
+Chaho toh apne bhai ko bhejo.
+Main yahin khada hoon.”
+
+🌱 Is kahani ki seekh
+
+Prem tab pavitra hota hai jab woh dharm ke saath ho
+
+Parivaar aur kartavya, apni ichha se bade hote hain
+
+Sacha veer pehle raksha karta hai, phir apna sukh dekhta hai"""
             create_image_text_layout(text_content=text2, layout="full")
 
         # Section 1.9.2
         with st.expander("Section 1.9.2"):
-            text1 = """ """
+            text1 = """ 
+            Section CLV – Bhima vs Hidimva
+            Pandav gehri neend mein so rahe the.
+Bhima jaag kar pehra de raha tha.
+
+Tab Rakshas Hidimva, jo insaan ka maans khata tha,
+ped se neeche utra.
+Laal aankhen, bhayanak daant,
+baadal jaise shareer ke saath
+woh gusse mein aage badha.
+
+⚠️ Hidimba ka darr
+
+Hidimba ne apne bhai ko aate dekha.
+Woh ghabra gayi aur Bhima se boli:
+
+“Veer Bhima,
+yeh rakshas bahut balwaan hai.
+Main tum sabko utha kar
+aasmaan ke raaste le ja sakti hoon.
+Maa Kunti aur bhaiyon ko jaga do.”"""
             create_image_text_layout("attached_assets/chapter1/1.9.2.jpg", text1, layout="side", image_position="left")
-            text2 = """ """
+            text2 = """ 
+            🛡️ Bhima ka atoot vishwas
+
+Bhima shaant raha aur bola:
+
+“Dar mat,
+jab tak main yahan hoon,
+koi rakshas inhe haani nahi pahuncha sakta.
+
+Main ise tumhare saamne maar dunga.
+Yeh meri takkar ka nahi hai.”
+
+Usne apni bhujaen,
+apna seena,
+apni taangein dikhayi
+— jaise lohe ke gade.
+
+😡 Hidimva ka krodh
+
+Hidimva ne dekha
+uski behen sundar manav roop mein hai.
+Usey samajh aa gaya
+ki woh Bhima se prem kar baithi hai.
+
+Gusse se chillaya:
+
+“Dushta aurat!
+Tum Rakshason ki maryada tod rahi ho!
+Main pehle tujhe maarunga,
+phir in sabko kha jaunga!”
+
+Aur woh apni behen par jhapta.
+
+🗡️ Bhima ka dharmic krodh
+
+Bhima ne turant garaj kar kaha:
+
+“Ruk jaa!
+Kisi stree ko maarna
+veer ka kaam nahi hota!
+
+Agar ladna hai
+toh mujhse lad!”
+
+Bhima ne saaf kaha:
+
+“Yeh ladki doshi nahi.
+Kaam-dev ke vash mein aakar
+uska mann bhatka hai.
+
+Aaj tumhara ant nishchit hai.”
+
+💥 Mahabali yuddh
+
+Hidimva garajta hua Bhima par toota.
+Bhima ne uske dono haath pakad liye
+— jaise sher kisi jaanwar ko pakadta hai.
+
+Usse zameen par ghaseeta
+taaki uski cheekh
+bhaiyon ko na jaga de.
+
+Dono rakshas aur manushya
+do madha hathi jaise ladne lage.
+Ped toot gaye.
+Belain ukhad gayin.
+
+Par shor itna badha
+ki Pandav aur Maa Kunti jaag gaye
+aur dekha —
+Bhima aur Hidimva aamne-saamne yuddh kar rahe hain.
+
+🌱 Is adhyay ki seekh
+
+Stree par hinsa adharm hai
+
+Veer pehle raksha karta hai, phir yuddh
+
+Sachcha bal sirf sharir ka nahi, dharm ka hota hai"""
             create_image_text_layout(text_content=text2, layout="full")
 
         # Section 1.9.3
         with st.expander("Section 1.9.3"):
-            text1 = """ """
+            text1 = """ 
+            Section CLVI – Hidimva ka Ant
+            Pandav aur Maa Kunti achanak neend se jaag gaye.
+Unhone dekha ek bahut sundar stree khadi hai.
+Uski beauty dekh kar sab hairaan reh gaye.
+
+Maa Kunti ne pyaar se poocha:
+
+“Devi si sundar kanya,
+tum kaun ho?
+Kya tum is jungle ki devi ho
+ya koi apsara?”"""
             create_image_text_layout("attached_assets/chapter1/1.9.3.jpg", text1, layout="side", image_position="left")
-            text2 = """ """
+            text2 = """ 
+            🌸 Hidimba ka sach
+
+Hidimba ne shant swar mein kaha:
+
+“Yeh jungle mere bhai Hidimva ka hai.
+Woh ek bhayanak rakshas hai.
+
+Mujhe usne bheja tha
+tum sabko maarne ke liye.
+Par jab maine Bhima ko dekha,
+mera mann badal gaya.
+
+Prem ne mujhe rok liya.
+Bhima hi maine apna pati maana.”
+
+Usne aage kaha:
+
+“Ab dekhiye,
+mera bhai aur Bhima
+aapas mein bhayanak yuddh kar rahe hain.”
+
+⚔️ Yuddh ka drishya
+
+Tab Yudhishthira, Arjuna, Nakula aur Sahadeva
+sab uth khade hue.
+
+Unhone dekha —
+Bhima aur Hidimva
+do sher jaise lad rahe the.
+
+Dhool itni udi
+jaise jungle mein aag lag gayi ho.
+Dono ke shareer
+dhundh se dhake pahadon jaise lag rahe the.
+
+🏹 Arjuna ki chinta
+
+Arjuna muskurate hue bola:
+
+“Bhima bhai, daro mat.
+Agar thak gaye ho
+toh main madad kar doon?”
+
+Bhima garaj kar bola:
+
+“Bas dekhte raho.
+Yeh mere haathon se
+zinda nahi bachega.”
+
+Arjuna ne yaad dilaya:
+
+“Subah hone wali hai.
+Rakshas subah zyada shaktishaali ho jaate hain.
+Ab der mat karo.”
+
+🔥 Bhima ka prachand roop
+
+Yeh sunte hi Bhima ka krodh jag utha.
+Usne apne pita Vayu ki shakti ko yaad kiya.
+
+Bhima ne Hidimva ko
+aasmaan mein utha kar
+kai baar ghumaya.
+
+Aur garaj kar bola:
+
+“Tu adharmi hai.
+Tu manushya ka khoon peeta hai.
+Aaj tera ant nishchit hai.”
+
+💥 Rakshas ka vadh
+
+Bhima ne poori shakti se
+Hidimva ko zameen par patka.
+Ek bhayanak cheekh ghoonji.
+
+Phir Bhima ne
+rakshas ke shareer ko
+do tukdon mein tod diya.
+
+Hidimva ka ant ho gaya.
+
+😊 Khushi aur samman
+
+Sab bhai khush ho gaye.
+Unhone Bhima ko gale lagaya.
+Arjuna ne kaha:
+
+“Yahan se jaldi chalo.
+Kahin Duryodhana ko pata na chal jaye.”
+
+Sab ne “haan” kaha
+aur Maa Kunti ke saath
+aage badh gaye.
+
+Hidimba bhi unke saath chali
+— shant aur vinamra.
+
+🌼 Is kahani ki seekh
+
+Adharma ka ant nishchit hota hai
+
+Prem hinsa se bada hota hai
+
+Sachcha veer apno ki raksha karta hai"""
             create_image_text_layout(text_content=text2, layout="full")
 
         # Section 1.9.4
         with st.expander("Section 1.9.4"):
-            text1 = """ """
+            text1 = """ 
+            Section CLVII – Bhima, Hidimba aur Ghatotkacha ka Janm
+            Bhima ne dekha ki Hidimba unke peeche aa rahi hai.
+Bhima thoda sakht swar mein bola:
+
+“Rakshasi log badla lene ke liye
+chaal aur dhokha use karte hain.
+Isliye tum bhi apne bhai ke raaste chali jao.”"""
             create_image_text_layout("attached_assets/chapter1/1.9.4.jpg", text1, layout="side", image_position="left")
-            text2 = """ """
+            text2 = """ 
+            🌿 Yudhishthira ka dharma
+
+Yeh sun kar Yudhishthira aage aaye.
+Unhone shant par majboot awaaz mein kaha:
+
+“Bhima,
+chahe gussa kitna bhi ho,
+ek aurat ko marna dharma nahi.
+
+Rakshas jo humein marna chahta tha,
+uska ant ho chuka hai.
+Yeh stree ab humara koi nuksaan nahi karegi.”
+
+Bhima shaant ho gaya.
+
+💗 Hidimba ka vinti bhara sach
+
+Hidimba ne Maa Kunti aur Yudhishthira ko
+haath jod kar pranam kiya aur boli:
+
+“Maata ji,
+auraton ke mann mein jo prem jagta hai,
+uska dard bahut gehra hota hai.
+
+Bhima ke liye jo prem mere dil mein hai,
+use main aur nahi jhel sakti.
+Maine apna kul, apne log,
+sab chhod diya hai.
+
+Agar mujhe thukra diya gaya,
+toh main jee nahi paungi.
+
+Kripya mujhe Bhima ki patni bana dijiye.
+Main unhe surakshit rakhungi,
+aur jab bhi aap yaad karengi,
+main turant aa jaungi.”
+
+🌸 Yudhishthira ka faisla
+
+Yudhishthira ne dhyaan se suna aur bole:
+
+“Tum jo keh rahi ho,
+woh dharma ke viruddh nahi hai.
+
+Bhima din bhar tumhare saath rahega.
+Par surya ast hone se pehle,
+use har din wapas aana hoga.”
+
+Bhima ne bhi sir hila kar haan keh di.
+
+🌈 Bhima aur Hidimba ka samay
+
+Hidimba Bhima ko le kar
+pahadon, jangalon aur sundar sthalon par gayi.
+
+Kabhi phoolon se bhare van,
+kabhi nadiyon ke kinaare,
+kabhi shant jheelon ke paas.
+
+Woh Bhima ko khush rakhna chahti thi.
+Aur Bhima bhi apna vachan nibha raha tha.
+
+👶 Ghatotkacha ka janm
+
+Samay ke saath Hidimba ne
+ek bahut shaktishaali putra ko janm diya.
+
+Bachcha paida hote hi
+yuvak jaisa balwaan lag raha tha.
+
+Uski aankhen bhayanak,
+haath majboot,
+aur awaaz garajne wali thi.
+
+Uska sir ghade (ghat) jaisa tha.
+Isliye maa-pita ne uska naam rakha:
+
+👉 Ghatotkacha
+
+Woh bachpan se hi
+sab rakshason se zyada shaktishaali tha.
+
+🤝 Vachan aur vidaai
+
+Ghatotkacha ne
+apne pita Bhima ke charan chhuye.
+Aur bola:
+
+“Jab bhi aap ya Pandav mujhe bulayenge,
+main zaroor aaunga.”
+
+Hidimba ne bhi sab Pandavon ko pranam kiya
+aur apne lok chali gayi.
+
+🌟 Is kahani ki seekh
+
+Dharma gusse se bada hota hai
+
+Prem bal se bhi zyada shaktishaali hota hai
+
+Sahi samay par liya gaya faisla bhavishya banata hai"""
             create_image_text_layout(text_content=text2, layout="full")
 
         # Section 1.9.5
         with st.expander("Section 1.9.5"):
-            text1 = """ """
+            text1 = """ 
+            Section CLVIII – Pandavon ka Vanvaas aur Vyasa Rishi ka Aashirvaad
+            Pandav ab
+ek jungle se doosre jungle ja rahe the.
+Kabhi hiran shikar karte,
+kabhi chhote jaanwar,
+taaki bhookh mita sakein.
+
+Woh Matsya, Trigarta, Panchala aur Kikata deshon se guzre.
+Raste mein sundar jheel, gehre van aur shaant jagahen dekhi."""
             create_image_text_layout("attached_assets/chapter1/1.9.5.jpg", text1, layout="side", image_position="left")
-            text2 = """ """
+            text2 = """ 
+            🌿 Tapasvi jaisa jeevan
+
+Sab Pandav
+jangli kapdon,
+ped ki chhaal aur jaanwaron ki khal pehne hue the.
+
+Unke baal jataa bane hue the.
+Maa Kunti bhi unke saath thi.
+Dekhne mein woh sab rishi-muni jaise lagte the.
+
+Kabhi Bhima
+maa ko kandhon par utha leta.
+Kabhi sab log
+guise mein chupke se chalte.
+Kabhi bahut tez,
+kabhi bahut sambhal kar.
+
+Raat ko woh
+Veda, neeti aur dharma ka adhyan karte.
+Unka mann majboot tha,
+chahe jeevan kathin ho.
+
+🌸 Vyasa Rishi se milan
+
+Ek din jungle mein
+Pandavon ko Maharshi Vyasa mile.
+
+Pandav aur Maa Kunti
+haath jod kar unke saamne khade ho gaye.
+
+Vyasa Rishi ne pyaar se kaha:
+
+“Main jaanta hoon
+tumhare saath jo anyaay hua hai.
+
+Yeh vanvaas
+tumhari bhalaai ke liye hai.
+Isse ghabrao mat.
+
+Jo dukh mein hota hai,
+us par bhagwan aur rishiyon ki
+kripa zyada hoti hai.”
+
+🔮 Bhavishya ki bhavishyavaani
+
+Vyasa Rishi ne Maa Kunti se kaha:
+
+“Tumhara beta Yudhishthira
+ek din poori dharti par raj karega.
+
+Bhima aur Arjuna ke bal se
+sab shatru jeete jaayenge.
+
+Yeh tumhare bete
+Rajasuya aur Ashwamedha yagna bhi karenge.
+
+Tumhara dukh
+ek din mahima aur samman mein badlega.”
+
+Maa Kunti ki aankhon mein aansu the,
+par mann ko shanti mil gayi.
+
+🏡 Ekachakra ka surakshit thikana
+
+Vyasa Rishi
+Pandavon ko Ekachakra naam ke shahar le gaye.
+
+Wahan ek Brahman ke ghar unhe rehne ko mila.
+
+Vyasa ne kaha:
+
+“Yahin raho.
+Desh aur samay ke hisaab se jiyo.
+Main wapas aaunga.”
+
+Pandavon ne haath jod kar kaha:
+“Jaisa aap kahein.”
+
+Aur Vyasa Rishi
+shaant muskaan ke saath
+wahaan se chale gaye.
+
+🌟 Is kahani ki seekh
+
+Kathin samay hamesha sthayi nahi hota
+
+Dharma aur gyaan sabse bada sahara hota hai
+
+Jo shant rehkar sahi raasta chunta hai, wahi aage raj karta hai"""
             create_image_text_layout(text_content=text2, layout="full")
 
     # Chapter 1.10
