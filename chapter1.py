@@ -23223,58 +23223,954 @@ Jo shant rehkar sahi raasta chunta hai, wahi aage raj karta hai"""
 
         # Section 1.10.1
         with st.expander("Section 1.10.1"):
-            text1 = """ """
+            text1 = """ 
+            Section CLIX – Ekachakra mein Dukh ki Awaaz
+            Janamejaya ne poocha:
+“Gurudev,
+Pandav Ekachakra pahunch kar
+kya kar rahe the?”
+
+🏡 Ekachakra ka jeevan
+
+Vaisampayana bole:
+
+Pandav
+Ekachakra mein
+ek Brahman ke ghar rahe.
+
+Woh bhiksha maang kar jeete the.
+Din bhar
+gaav aur jungle dekhte.
+Log unse pyaar karne lage.
+Unki vinamrata aur gyaan sabko achha lagta tha.
+
+Shaam ko
+jo kuch bhi bhiksha milti,
+woh sab Maa Kunti ke paas rakh dete."""
             create_image_text_layout("attached_assets/chapter1/1.10.1.jpg", text1, layout="side", image_position="left")
-            text2 = """ """
+            text2 = """ 
+            Maa Kunti
+sab kuch barabar baant deti.
+Aadha sab bhaiyon ke liye,
+aur aadha Bhima ke liye.
+
+Is tarah
+Pandav shanti se jee rahe the.
+
+😢 Dukh ki awaaz
+
+Ek din
+baaki Pandav bhiksha par gaye.
+Sirf Bhima aur Maa Kunti ghar par the.
+
+Tab achanak
+ghar ke andar se
+rone ki tez awaaz aayi.
+
+Maa Kunti ka mann
+hil gaya.
+Unka dil
+daya se bhar gaya.
+
+Unhone Bhima se kaha:
+
+“Beta,
+yeh Brahman humein
+sharan de raha hai.
+Humein bhi
+uska bhala sochna chahiye.
+
+Jo madad kare,
+uska rin chukana
+dharma hota hai.
+
+Lagta hai
+koi bada dukh
+us par aa pada hai.”
+
+Bhima bola:
+“Maa,
+aap poori baat jaan lo.
+Agar madad mumkin hui,
+main zaroor karunga.”
+
+🕯️ Brahman ka dard
+
+Maa Kunti
+andar gayi.
+
+Wahan unhone dekha:
+Brahman,
+uski patni,
+beta aur beti
+sab dukh mein baithe the.
+
+Brahman keh raha tha:
+
+“Yeh jeevan
+khokhla hai.
+Har jagah
+dukh hi dukh hai.
+
+Dhan paane mein dukh,
+dhan bachane mein dukh,
+aur kho jaaye to aur dukh.
+
+Mujhe samajh nahi aa raha
+kisey bachaoon.
+
+Patni ko chhod doon?
+Beta ko de doon?
+Beti ko tyag doon?
+
+Main kaise
+apne bachchon ko
+marne ke liye de doon?
+
+Aur agar
+main khud mar jaun,
+toh yeh sab
+kaise jeeyenge?
+
+Koi raasta nahi dikh raha.
+Shayad
+sab ka saath hi marna
+behtar hai…”
+
+🌱 Is hissa ki seekh
+
+Jo sharan deta hai, uska dukh apna hota hai
+
+Sachcha dharma sirf apna nahi, doosron ka bhala sochta hai
+
+Sabse gehra dukh wahi hota hai, jahan faisla insaan ko tod deta hai"""
             create_image_text_layout(text_content=text2, layout="full")
 
         # Section 1.10.2
         with st.expander("Section 1.10.2"):
-            text1 = """ """
+            text1 = """ 
+            Section CLX – Maa ka Balidaan
+            Vaisampayana bole:
+
+Brahman ke dukh bhare shabd sunkar
+uski patni aage aayi.
+Uski aankhon mein aansu the,
+par awaaz mein dheeraj aur bal tha."""
             create_image_text_layout("attached_assets/chapter1/1.10.2.jpg", text1, layout="side", image_position="left")
-            text2 = """ """
+            text2 = """ 
+            🌸 Patni ka kathor faisla
+
+Usne kaha:
+
+“Swami,
+aap aise mat roiye
+jaise aam insaan rota hai.
+
+Aap gyaani ho.
+Aap jaante ho
+ki mrityu sabko aani hai.
+Jo nahi badal sakta,
+uske liye shok nahi karna chahiye.
+
+Patni, beta, beti –
+yeh sab bhi
+jeevan ke liye hi chune jaate hain.
+
+Mujhe jaane dijiye.
+Main khud jaungi.
+Yehi stree ka
+sabse bada dharma hai –
+apne pati ke liye apna jeevan dena.
+
+Isse aap bach jaoge.
+Mujhe is sansaar mein
+maan milega,
+aur aage sukh.”
+
+👩‍👧‍👦 Maa ka dard
+
+Woh aage boli:
+
+“Main aapko
+beta aur beti de chuki hoon.
+Mera kartavya poora ho chuka hai.
+
+Aap in bachchon ko
+paal sakte ho.
+Par main,
+aapke bina,
+unhe kaise sambhaal paungi?
+
+Agar aap nahi rahe,
+toh
+yeh duniya
+ek akeli aurat ke liye
+bahut kathor hoti hai.
+
+Buri nazar wale log
+meri beti par nazar daalenge.
+Main use kaise bacha paungi?
+
+Aur agar
+main bachon ke saath reh bhi jaun,
+toh bina aapke
+hum teenon
+zinda nahi reh paayenge.”
+
+🔥 Antim satya
+
+Usne dheere se kaha:
+
+“Isliye,
+aap mujhe chhod do.
+
+Shastra kehte hain,
+maa ban chuki stree ke liye
+pati se pehle marna
+sabse bada punya hai.
+
+Rakshas bhi
+nari-vadh se darte hain.
+Ho sakta hai
+woh mujhe na maare.
+
+Agar koi bhi bach sakta hai,
+toh aap hi bachoge.
+
+Aap phir shaadi kar sakte ho.
+Ye paap nahi.
+Par stree ke liye
+doosra pati
+adharm hota hai.
+
+Isliye,
+mujhe jaane do.
+Mere balidaan se
+aap,
+aapka vansh,
+aur yeh bachche
+bach jaayenge.”
+
+😢 Nishabd dukh
+
+Yeh kehkar
+Brahman patni ke paas gaya.
+Usse gale laga liya.
+
+Dono chup the.
+Par aankhon se
+aansu beh rahe the.
+
+Shabd khatam ho gaye the,
+sirf tyaag aur prem baaki tha.
+
+🌱 Is kahani ki seekh
+
+Sachcha prem apna sukh nahi, doosron ka jeevan dekhta hai
+
+Balidaan jab majboori se ho, tab sabse adhik dukh deta hai
+
+Maa ka dil sabse pehle apne parivaar ko bachata hai"""
             create_image_text_layout(text_content=text2, layout="full")
 
         # Section 1.10.3
         with st.expander("Section 1.10.3"):
-            text1 = """ """
+            text1 = """ 
+            Section CLXI – Beti aur Chhote Bhai ka Prem
+            Vaisampayana bole:
+
+Maa-baap ke dukh bhare shabd sunkar
+Brahman ki beti ka dil bhar aaya.
+Uski aankhon mein aansu the,
+par soch bahut gehri thi."""
             create_image_text_layout("attached_assets/chapter1/1.10.3.jpg", text1, layout="side", image_position="left")
-            text2 = """ """
+            text2 = """ 
+            🌼 Beti ka bada faisla
+
+Usne kaha:
+
+“Pitaji,
+aap aise kyun ro rahe ho
+jaise koi sahara hi na ho?
+
+Main hoon na.
+Mujhe suno.
+
+Ek din toh
+aap mujhe chhodoge hi.
+Toh aaj hi chhod do.
+
+Sabko bachane ke liye
+sirf mujhe de do.
+
+Bachche isliye hote hain
+taaki maa-baap ko bachayein.
+Isi liye bachcha
+Putra kehlata hai.
+
+Main aaj
+apni jaan dekar
+aap sabko bacha lungi.
+Mujhe kisi aur ka intezaar nahi.”
+
+👧💔 Beti ka dard
+
+Woh aage boli:
+
+“Mera bhai abhi bahut chhota hai.
+Agar aap mar gaye,
+toh woh bhi zinda nahi reh paayega.
+
+Agar aap aur bhai dono chale gaye,
+toh pitron ka pind bhi ruk jaayega.
+Sab kuch toot jaayega.
+
+Par agar aap bach gaye,
+maa bach gayi,
+bhai bach gaya,
+toh vansh bhi bachega.
+
+Pitaji,
+beta apna hi roop hota hai.
+Patni dost hoti hai.
+Par beti…
+aksar bojh samjhi jaati hai.
+
+Aaj us bojh ko
+hata dijiye.
+Aur mujhe
+dharma ke raaste par bhej dijiye.”
+
+🌸 Chhoti si muskaan
+
+Itna kehkar
+beti chup ho gayi.
+
+Maa-baap aur beti
+teenon ro pade.
+
+Tab achanak
+chhota bhai,
+jo abhi bachcha tha,
+muskurate hue bola:
+
+“Pitaji, mat royo.
+Maa, aap bhi mat royo.
+Didi, aap bhi nahi.”
+
+Woh hansi-hansi aaya
+aur ghaas ka tinka uthakar bola:
+
+“Isse main
+Rakshas ko maar dunga!”
+
+🌈 Andhere mein ek roshni
+
+Us bachche ke maasoom shabd sunkar
+sabke chehron par
+ek pal ke liye muskaan aa gayi.
+
+Dukh wahi tha,
+par dil ko
+thoda sahara mil gaya.
+
+Usi pal
+Kunti aage badhi.
+Usne mehsoos kiya
+yeh sahi samay hai bolne ka.
+
+Beti ke shabd
+jaise amrit the—
+jo mare hue dilon ko
+phir se zinda kar gaye.
+
+🌱 Is kahani ki seekh
+
+Bachche kabhi bojh nahi hote, woh rakshak hote hain
+
+Beti ka tyaag bhi putra ke samaan mahaan hota hai
+
+Masoomiyat kabhi-kabhi sabse bade dukh ko bhi halka kar deti hai"""
             create_image_text_layout(text_content=text2, layout="full")
 
         # Section 1.10.4
         with st.expander("Section 1.10.4"):
-            text1 = """ """
+            text1 = """ 
+            Section CLXII – Brahman ka Dukh aur Rakshas Vaka
+            Kunti ne shaant aur daya bhare swar mein kaha:
+“Main jaanna chahti hoon
+aapke dukh ka kaaran.
+Agar mumkin hua,
+main ise zaroor door karungi.”"""
             create_image_text_layout("attached_assets/chapter1/1.10.4.jpg", text1, layout="side", image_position="left")
-            text2 = """ """
+            text2 = """ 
+            😔 Brahman ka sach
+
+Brahman ne gehri saans li
+aur bola:
+
+“Devi,
+aapke shabd bilkul aap jaise pavitra hain.
+Par yeh dukh
+kisi insaan ke bas ka nahi lagta.
+
+Is shehar ke paas
+Vaka naam ka ek Rakshas rehta hai.
+Woh insaan ka maans khata hai
+aur poore shehar par raj karta hai.
+
+Uski taqat ke kaaran
+humein kisi aur shatru ka darr nahi.
+Par wahi Rakshas
+hamari sabse badi museebat hai.”
+
+🚚 Bhayanak niyam
+
+Brahman aage bola:
+
+“Vaka ka niyam hai—
+har parivaar ko baari-baari
+uske liye khana bhejna padta hai.
+
+Us khane mein hota hai:
+
+ek gaadi bhar chawal
+
+do bhains
+
+aur ek insaan,
+jo yeh sab us tak le jaaye.
+
+Agar koi mana kare,
+toh woh Rakshas
+poore parivaar ko
+maar kar kha jaata hai.”
+
+⏳ Aaj meri baari
+
+Uski awaaz bharra gayi:
+
+“Bahut saalon baad
+aaj meri baari aayi hai.
+
+Mere paas itna dhan nahi
+ki kisi aur ko bhej sakoon.
+Aur main
+apne parivaar ke kisi bhi sadasya
+ko nahi de sakta.
+
+Na mujhe raasta dikhta hai,
+na umeed.”
+
+👑 Kamzor raja
+
+Brahman ne dard se kaha:
+
+“Is desh ka raja bhi kamzor hai.
+Use raj karna nahi aata.
+Woh humein
+is Rakshas se bacha nahi paaya.
+
+Shayad
+hamari galti yeh hai
+ki hum aise raja ke raj mein reh rahe hain.”
+
+🌊 Antim nirnay
+
+Aankhon mein aansu lekar
+Brahman bola:
+
+“Ab koi raasta nahi bacha.
+
+Aaj
+main apni patni,
+apne bachchon ke saath
+us Rakshas ke paas jaaunga.
+
+Agar marna hi hai,
+toh sab ek saath mar jaayein.
+Yeh dukh
+ab aur saha nahi jaata.”
+
+🌱 Is kahani ki seekh
+
+Jab shasan kamzor hota hai, toh nirdosh log peedit hote hain
+
+Bhay se jeena bhi ek tarah ki mrityu hoti hai
+
+Par jahan anyaay hota hai, wahan dharma zaroor khada hota hai"""
             create_image_text_layout(text_content=text2, layout="full")
 
         # Section 1.10.5
         with st.expander("Section 1.10.5"):
-            text1 = """ """
+            text1 = """ 
+            Section CLXIII – Kunti ka Sahas aur Bhima ka Vachan
+            Kunti ne shaant aur vishwas bhari awaaz mein kaha:
+“Hey Brahman,
+bilkul bhi shok mat karo.
+Mujhe ek raasta dikh raha hai
+jisse tum is Rakshas se bach sakte ho.”
+
+Woh aage boli:
+“Tumhara ek hi beta hai,
+bahut chhota.
+Ek beti hai,
+bilkul nirbal.
+Main yeh bilkul nahi chahti
+ki tum, tumhari patni,
+ya tumhare bachche
+Rakshas ke paas jaayein.
+
+Mere paas paanch bete hain.
+Unmein se ek mera beta
+tumhari taraf se
+Rakshas ke liye bhojan le jaayega.”"""
             create_image_text_layout("attached_assets/chapter1/1.10.5.jpg", text1, layout="side", image_position="left")
-            text2 = """ """
+            text2 = """ 
+            😟 Brahman ka inkaar
+
+Yeh sunkar Brahman ghabra gaya.
+Usne turant kaha:
+
+“Devi,
+main apni jaan bachane ke liye
+kabhi bhi
+kisi Brahman ya atithi ko
+balidaan nahi hone dunga.
+
+Chahe mujhe khud marna pade,
+par main
+tumhare bete ko nahi bhej sakta.
+Brahman ki hatya
+sabse bada paap hai.
+Iska koi prayashchit nahi hota.”
+
+Woh bhari mann se bola:
+“Apni jaan dena
+kam paap hai
+par kisi nirdosh ko dena
+sabse bada adharm.”
+
+🌸 Kunti ka dradh vishwas
+
+Kunti ne dheere se muskura kar kaha:
+“Tumhari baat sahi hai,
+Brahman ka rakshan
+sabse bada dharm hai.
+
+Par suno,
+mera beta koi saadharan nahi hai.
+Woh bahut shaktishaali hai.
+Mantron aur bal mein nipun hai.
+
+Rakshas
+use maar nahi sakta.
+Woh bhojan dega,
+aur khud surakshit laut aayega.”
+
+Phir Kunti ne vinamrata se kaha:
+“Par ek baat yaad rakhna.
+Yeh baat
+kisi aur ko mat batana.
+Varna log
+mere beton ko
+pareshaan karenge.”
+
+🌼 Aasha ki roshni
+
+Yeh sunkar
+Brahman aur uski patni
+khushi se bhar gaye.
+Unke chehre par
+jaise andhere ke baad
+roshni aa gayi.
+
+Kunti phir
+Vayu ke putra Bhima ke paas gayi.
+Usse sab bataya
+aur kaam karne ko kaha.
+
+Bhima ne bina hichkichaye kaha:
+“So be it.
+Main jaaunga.”
+
+🌱 Is kahani ki seekh
+
+Sachcha dharm bal aur daya ka sangam hota hai
+
+Jab koi anyaay ke khilaaf khada hota hai, tab bhagwan uske saath hota hai
+
+Maa ka vishwas aur putra ka sahas, asambhav ko bhi sambhav bana deta hai"""
             create_image_text_layout(text_content=text2, layout="full")
 
         # Section 1.10.6
         with st.expander("Section 1.10.6"):
-            text1 = """ """
+            text1 = """ 
+            Section CLXIV – Maa ka Vishwas aur Putra ka Dharm
+            Bhima ne jab kaha,
+“Main yeh kaam karunga,”
+tab Pandav us din
+bheek se jo mila tha
+woh le kar ghar laut aaye.
+
+Yudhishthira ne
+sirf Bhima ke chehre ko dekh kar hi
+samajh liya
+ki kuch bahut bada aur khatarnaak
+hone wala hai."""
             create_image_text_layout("attached_assets/chapter1/1.10.6.jpg", text1, layout="side", image_position="left")
-            text2 = """ """
+            text2 = """ 
+            Woh maa Kunti ke paas baith kar
+chupchaap poochta hai:
+“Maa,
+yeh kaunsa kaam hai
+jo Bhima karne jaa raha hai?
+Kya yeh aapke kehne par hai
+ya uski apni ichchha se?”
+
+🌺 Kunti ka seedha jawab
+
+Kunti ne shant swar mein kaha:
+“Bhima,
+mere kehne par,
+ek mahaan kaam karega.
+Yeh kaam
+us Brahman ke bhale ke liye hai
+aur poore shehar ki mukti ke liye.”
+
+😠 Yudhishthira ka chinta bhara virodh
+
+Yudhishthira ka mann kaanp utha.
+Usne kaha:
+
+“Yeh aapne kya kar diya, Maa?
+Yeh kaam
+lagbhag aatma-balidaan jaisa hai.
+
+Gyani log kabhi bhi
+apne bachche ko
+is tarah tyagne ki salah nahi dete.
+
+Jis Bhima ke bal par
+hum raat ko nishchint sote hain,
+jiske sahare
+hume apna rajya wapas milega,
+jis Bhima ke dar se
+Duryodhana aur Shakuni
+raat bhar so nahi paate—
+
+usi Bhima ko
+aap tyagna chahti ho?
+
+Kya aapka vivek
+dukh ke kaaran
+dhundhla ho gaya hai, Maa?”
+
+🌸 Maa Kunti ka dradh vishwas
+
+Kunti ne pyaar se kaha:
+“Yudhishthira,
+Bhima ke liye
+chinta mat karo.
+
+Maine yeh faisla
+kisi kamzori mein nahi liya.
+Is Brahman ne
+hume bina pehchaan ke
+apne ghar mein sharan di.
+
+Uska upkaar chukana
+mera dharm hai.”
+
+Woh aage boli:
+“Lakshagriha se bachne ke samay
+aur Hidimba ke vadh ke baad
+mujhe Bhima ke bal par
+poora bharosa ho gaya hai.
+
+Uske haath ka bal
+das hazaar haathiyon ke barabar hai.
+Usi bal se
+woh tum sabko
+Varanavata se uthakar le aaya.
+
+Dharti par
+Bhima ke jaisa balwaan
+koi nahi.”
+
+🔥 Bhima ka bal – janm se hi adbhut
+
+Kunti ne yaad dilaya:
+“Jab Bhima chhota tha,
+meri god se gir kar
+pahaad par ja gira.
+Pahaad toot gaya,
+par Bhima ko kuch nahi hua.
+
+Tab se mujhe pata hai
+ki Bhima saadharan nahi hai.”
+
+🌼 Dharm ka raasta
+
+Kunti boli:
+“Is kaam se
+do cheezein hongi:
+1️⃣ Brahman ka upkaar chukega
+2️⃣ Hume mahaan punya milega
+
+Kshatriya ka dharm hai
+sabki raksha karna—
+Brahman, Vaishya,
+yahaan tak ki Shudra ki bhi.
+
+Yeh baat
+mujhe pehle hi
+Maharshi Vyasa ne samjhai thi.”
+
+Woh shant ho kar boli:
+“Isliye,
+maine soch-samajh kar
+yeh nirnay liya hai.”
+
+🌱 Is kahani ki seekh
+
+Sachcha dharm apno ke dar se upar hota hai
+
+Maa ka vishwas aur dharm ka gyaan, bade se bade sankat ka samna kar sakta hai
+
+Bal sirf shakti nahi, zimmedaari bhi hota hai"""
             create_image_text_layout(text_content=text2, layout="full")
 
         # Section 1.10.7
         with st.expander("Section 1.10.7"):
-            text1 = """ """
+            text1 = """ 
+            Section CLXV – Bhima aur Vaka Rakshas ka Samna
+            Maa Kunti ki baat sun kar
+Yudhishthira shant ho gaya.
+Usne kaha:
+
+“Maa,
+aapne jo faisla liya hai,
+woh sach mein uttam hai.
+Bhima zaroor jeet kar lautega
+aur us rakshas ko maar kar aayega,
+kyunki aap hamesha
+Brahmanon par daya karti ho."""
             create_image_text_layout("attached_assets/chapter1/1.10.7.jpg", text1, layout="side", image_position="left")
-            text2 = """ """
+            text2 = """ 
+            Bas ek baat ka dhyaan rakhna—
+us Brahman se keh dena
+ki yeh baat shehar mein kisi ko pata na chale.
+Woh vachan de
+ki sab kuch gupt rakhe.”
+
+Maa Kunti ne haan mein sir hila diya.
+
+🌙 Subah ka samay – Bhima ka prasthan
+
+Raat beet gayi.
+Subah hui.
+
+Bhima ne
+rakshas ke liye taiyaar kiya gaya
+bhojan uthaya
+aur akela hi
+us jungle ki taraf chal pada
+jahan Vaka Rakshas rehta tha.
+
+Jungle ke paas pahunch kar
+Bhima ne kuch ajeeb kiya.
+
+🍚 Rakshas ka bhojan… Bhima ne hi kha liya
+
+Bhima ne
+us rakshas ka bhojan
+khud hi khana shuru kar diya
+aur zor se awaaz lagayi:
+
+“O Vaka!
+Nikal bahar!”
+
+Bhima shanti se kha raha tha.
+
+😡 Vaka Rakshas ka gussa
+
+Bhima ki awaaz sun kar
+Vaka Rakshas gusse se aag-baboola ho gaya
+aur jungle se bahar nikla.
+
+Woh bahut bhayankar tha—
+laal aankhen,
+laal baal,
+laal daadhi,
+aur itna bada sharir
+ki dharti kaanp uthi.
+
+Uska muh kaanon tak khula tha.
+Har kadam se zameen dhans rahi thi.
+
+Usne Bhima ko dekha
+jo uska bhojan kha raha tha.
+
+Rakshas garja:
+“Kaun hai yeh moorkh
+jo Yama ke ghar jaana chahta hai
+aur mere samne mera hi bhojan kha raha hai?”
+
+😏 Bhima ka shant apmaan
+
+Bhima sirf muskuraaya.
+Usne rakshas ki taraf
+dekha bhi nahi
+aur khaana jaari rakha.
+
+Yeh dekh kar
+Vaka zor se chillaaya
+aur dono baah utha kar
+Bhima par toot pada.
+
+Bhima tab bhi shaant raha.
+Sirf ek halki si nazar daali
+aur khaata raha.
+
+💥 Rakshas ka prahaar, Bhima achal
+
+Gusse mein paagal ho kar
+Vaka ne peeche se
+Bhima ki peeth par
+zor se vaar kiya.
+
+Par Bhima…
+hilaa bhi nahi.
+
+Rakshas aur bhadak gaya.
+Usne ek bada ped ukhaada
+aur Bhima par phenka.
+
+🌳 Pedon ki yuddh-bhoomi
+
+Bhima ne araam se
+poora khaana khatam kiya,
+haath-muh dhoya
+aur khade ho kar bola:
+
+“Ab… lad sakte hain.”
+
+Rakshas ne ped phenka.
+Bhima ne ek haath se pakad liya.
+
+Phir dono
+ek-doosre par ped phenkte rahe.
+Jungle dheere-dheere
+khaali hota gaya.
+
+Aakhir Rakshas chillaaya:
+“Main Vaka hoon!”
+
+Aur Bhima par toot pada.
+
+🤼 Bal ka maha-yuddh
+
+Vaka ne Bhima ko jakad liya.
+Bhima ne bhi Vaka ko pakad liya.
+
+Dono ek-doosre ko
+ghaseetne lage.
+Dharti kaanp uthi.
+Ped toot kar girne lage.
+
+Dheere-dheere
+Vaka thakne laga.
+
+🔥 Antim pal
+
+Bhima ne mauka dekha.
+Usne Vaka ko
+ghutnon se zameen par daba diya.
+
+Ek ghutna peeth par,
+ek haath gardan par,
+aur doosre se kamar ka kapda pakad kar
+Bhima ne rakshas ko
+do hisson mein mod diya.
+
+Vaka bhayanak cheekha.
+Uske muh se khoon nikalne laga.
+
+🌟 Is hissa ki seekh
+
+Shant rehna bhi shakti hoti hai
+
+Sachcha veer pehle kartavya nibhata hai, phir yuddh karta hai
+
+Ahankaar aur bhookh hamesha vinaash laati hai"""
             create_image_text_layout(text_content=text2, layout="full")
 
         # Section 1.10.8
         with st.expander("Section 1.10.8"):
-            text1 = """ """
+            text1 = """ 
+            Section CLXVI – Vaka Rakshas ka Ant aur Ekachakra ki Mukti (Hinglish Summary)
+
+Vaisampayana kehte hain—
+Bhima ke ghutne par tod diya gaya Vaka Rakshas, pahad jaisa vishal, bhayankar cheekhein maarta hua mara. Uski aawaazon se darr kar uske rishtedaar aur saathi bahar nikal aaye.
+
+🛑 Bhima ka Daya–Dand
+
+Bhima ne un bhatke hue Rakshason ko shant kiya aur kaha:
+
+“Aaj ke baad manav-hatya mat karna.
+Agar phir ki, to Vaka jaisa ant hoga.”
+
+Sab Rakshason ne vachan diya.
+Us din ke baad se, us kshetra ke Rakshas manushyon ke prati shaant ho gaye."""
             create_image_text_layout("attached_assets/chapter1/1.10.8.jpg", text1, layout="side", image_position="left")
-            text2 = """ """
+            text2 = """ 
+            🚪 Vaka ka Deh aur Rahasya
+
+Bhima ne Vaka ke nirjeev sharir ko shehar ke ek darwaze par rakh diya
+aur chupchaap nikal gaya.
+Vaka ke parivaar wale darr ke maare idhar-udhar bhaag gaye.
+
+Subah, jab log bahar nikle,
+to lahooluhan Vaka ko pada dekh kar sab stambhit reh gaye.
+Shehar mein khabar phail gayi—Ekachakra azaad ho chuka tha!
+
+Hazaaron nagrik, apni patniyon, bachchon, buzurgon ke saath,
+us drishya ko dekhne aaye.
+Sab devtaon ko dhanyavaad dene lage.
+
+🤫 Pandavon ka Rahasya Surakshit
+
+Logon ne jaanne ki koshish ki—
+“Kal kaun Rakshas ko bhojan dene gaya tha?”
+
+Jab pata chala ki us Brahman ka turn tha,
+to sab uske ghar pahunch gaye.
+
+Brahman ne, Pandavon ko bachane ke liye, kaha:
+
+“Ek mahaan, mantra-vid Brahman ne meri peeda dekh kar kaha—
+‘Aaj main khud bhojan le jaunga, chinta mat karo.’
+Usi ne yeh punya karya kiya.”
+
+Sab log vismit ho gaye—
+Brahman, Kshatriya, Vaishya, Shudra—sab khush the.
+
+🎉 Utsav aur Smriti
+
+Shehar mein utsav manaya gaya.
+Us din se, Ekachakra mein
+Brahman-pooja pramukh karm ban gayi—
+us anjaan upkaar ke smaran mein,
+jisne shehar ko Vaka ke bhay se mukt kar diya.
+
+🌟 Is Adhyay ki Seekh
+
+Shakti ke saath daya ho to sahi parivartan hota hai
+
+Raksha bina ghamand ke ho, to lok-kalyan hota hai
+
+Gupat upkaar sabse shreshth hota hai"""
             create_image_text_layout(text_content=text2, layout="full")
 
     # Chapter 1.11
