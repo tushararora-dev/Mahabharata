@@ -25330,72 +25330,1209 @@ Raja ho ya vyakti, sahi marg guru hi dikhata hai"""
 
         # Section 1.11.10
         with st.expander("Section 1.11.10"):
-            text1 = """ """
+            text1 = """ 
+            Section CLXXVI – Visvamitra–Vasishtha Vair aur ‘Tapatya’ ka Arth
+
+Is ansh mein Arjuna (Arjuna) Gandharva se poochte hain ki Visvamitra aur Vasishtha ke beech shatruta ka mool kya tha, aur unhe “Tapatya” kyun kaha jaata hai. Gandharva is prashn ka uttar Tapati–Samvarana–Kuru parampara ke madhyam se deta hai."""
             create_image_text_layout("attached_assets/chapter1/1.11.10.jpg", text1, layout="side", image_position="left")
-            text2 = """ """
+            text2 = """ 
+            🔱 Tapati ki Katha (Saar)
+
+Tapati, Surya (Vivasvat) ki putri, ka vivah Raja Samvarana se Rishi Vasishtha ke anugrah se hota hai.
+
+Vivah ke baad Samvarana apni patni ke saath parvaton par tapas aur vihār mein lipt rehte hain; rajya ka kaaryabhaar Vasishtha sambhalte hain.
+
+Is avdhi mein 12 varshon ka akaal padta hai—barish band, ann ki kami, praja ka palayan.
+
+Vasishtha Samvarana ko rajya wapas laate hain; raja ke aate hi Indra varsha karte hain, desh phir se jeevant hota hai.
+
+Samvarana–Tapati fir se yajna karte hain; rajya samriddh hota hai.
+
+👑 Kuru Vansh aur ‘Tapatya’
+
+Samvarana aur Tapati se Kuru ka janm hota hai—jo Kuru vansh ke adhar-stambh bane.
+
+Isliye Pandav, jo Kuru vansh ke hain, Tapati ke vanshaj hone ke kaaran “Tapatya” kehlate hain.
+
+Gandharva spasht karta hai: “Tum Kuru ke vansh mein janme ho, isliye Tapatya ho.”
+
+🧠 Mool Sandesh
+
+Rishi Vasishtha ka dharm aur tapas rajya ko bachata hai—raja aur rishi ka sahyog praja-hit ke liye anivarya hai।
+
+Vansh-parampara (Tapati → Kuru → Pandav) se naam aur pehchaan milti hai—“Tapatya” sirf upnaam nahi, itihaas hai।
+
+Aage chal kar isi parampara mein Visvamitra–Vasishtha ka prasiddh sangharsh aata hai—par is ansh mein uska prarambhik sandarbh diya gaya hai."""
             create_image_text_layout(text_content=text2, layout="full")
 
         # Section 1.11.11
         with st.expander("Section 1.11.11"):
-            text1 = """ """
+            text1 = """ 
+            Section CLXXVII – Visvamitra aur Nandini ki Kahani (Hinglish Moral Style)
+
+Arjuna ne Gandharva ki baat suni.
+Uske mann mein bhakti aur shraddha aa gayi.
+Woh jungle mein rehkar shikar karta aur shaant jeevan jeeta.
+
+🌿 Visvamitra Vasishtha ke Aashram Mein
+
+Ek din shikar karte-karte Visvamitra thak gaye.
+Pyaas lagi. Shareer kamzor ho gaya.
+Woh Vasishtha ke aashram pahunch gaye.
+
+Vasishtha ne raja ka poora samman kiya.
+Paani diya.
+Arghya diya.
+Phal, makhan aur shuddh bhojan diya.
+
+Yeh sab Nandini naam ki gaay se mila.
+Yeh koi sadharan gaay nahi thi.
+Jo maanga jaata, wahi de deti."""
             create_image_text_layout("attached_assets/chapter1/1.11.11.jpg", text1, layout="side", image_position="left")
-            text2 = """ """
+            text2 = """ 
+            🐄 Nandini – Iccha Poorn Karne Wali Gaay
+
+Nandini ne:
+
+Swadisht bhojan diya
+
+Doodh aur mishri jaisa amrit diya
+
+Sundar vastra aur ratna bhi diye
+
+Raja Visvamitra bahut prabhavit hue.
+Unhone Nandini ko dhyaan se dekha.
+Unhe laga, “Aisi gaay mere paas honi chahiye.”
+
+👑 Visvamitra Ka Ahankaar
+
+Visvamitra bole:
+“Hey Rishi, mujhe Nandini de do.
+Main badle mein 10,000 gaayen ya apna rajya de dunga.”
+
+Vasishtha shant rahe.
+Unhone kaha:
+“Yeh gaay mere yajna, devta aur atithiyon ke liye hai.
+Main ise kisi keemat par nahi de sakta.”
+
+Yeh sun kar Visvamitra gussa ho gaye.
+Unhone kaha:
+“Main Kshatriya hoon.
+Bal se le loonga.”
+
+⚔️ Bal vs Kshama
+
+Vasishtha bole:
+“Kshatriya ka bal shastra mein hota hai.
+Brahmana ka bal kshama aur tap mein hota hai.
+Tum jo chaho karo.”
+
+Visvamitra ne zabardasti Nandini ko pakad liya.
+Use maarne lage.
+Ghasitne lage.
+
+😢 Nandini Ka Dukh
+
+Nandini ro padi.
+Woh Vasishtha ke paas aayi.
+Boli:
+“Guruji, kya main anath ho gayi hoon?
+Aap mujhe bachayenge nahi?”
+
+Vasishtha bole:
+“Main tumhe nahi chhod raha.
+Agar tum mein shakti hai, toh raho.”
+
+🔥 Tapas Ka Asli Bal
+
+Bas itna sunna tha.
+Nandini bhayanak roop mein aa gayi.
+
+Uski aankhen aag jaisi ho gayi
+
+Uski poonch se angaar barasne lage
+
+Uske shareer se alag-alag senaayein nikli
+
+Palhavas, Yavanas, Shakas, Kiratas, Hunas…
+Har disha se yoddha nikle.
+
+Unhone Visvamitra ki sena ko sirf bhaga diya, maara nahi.
+Sena dara-sahma kar door bhaag gayi.
+
+🌸 Gyaan Ka Jaagran
+
+Visvamitra yeh sab dekh kar hil gaye.
+Unhone kaha:
+“Dhikkar hai Kshatriya bal par.
+Asli shakti tapasya mein hai.”
+
+Us din unhone:
+
+Rajya chhod diya
+
+Sukh-suvidha chhod di
+
+Tapasya ka raasta chuna
+
+Lambe samay ke baad,
+Visvamitra Brahmarshi bane.
+Aur swarg mein Indra ke saath Soma ka paan kiya.
+
+🌟 Moral (Seekh)
+
+Bal se nahi, dharm se jeet hoti hai
+
+Kshama aur tapasya sabse badi shakti hai
+
+Ahankaar jhukta hai, par sachcha tap kabhi nahi"""
             create_image_text_layout(text_content=text2, layout="full")
 
         # Section 1.11.12
         with st.expander("Section 1.11.12"):
-            text1 = """ """
+            text1 = """ 
+            Section CLXXVIII – Raja Kalmashapada aur Shraap ki Kahani (Hinglish Moral Story)
+
+Gandharva ne kaha:
+
+Arjun, purane time mein ek raja tha.
+Uska naam tha Kalmashapada.
+Woh Ikshvaku vansh ka raja tha.
+Bahut shaktishaali aur veer tha."""
             create_image_text_layout("attached_assets/chapter1/1.11.12.jpg", text1, layout="side", image_position="left")
-            text2 = """ """
+            text2 = """ 
+            🌲 Shikaar aur Thakaan
+
+Ek din raja jungle gaya shikaar ke liye.
+Usne kai hiran, suar aur gainde maar diye.
+Lekin kaafi der shikaar ke baad
+woh thak gaya aur pyaasa ho gaya.
+
+Woh aaram karne ke liye jungle mein ruk gaya.
+
+🚶‍♂️ Raja aur Rishi Sakti ka Saamna
+
+Usi samay ek mahan rishi aa rahe the.
+Unka naam tha Sakti,
+jo Vasishtha ke putra the.
+
+Raja aur Rishi ek hi raaste par aa gaye.
+Raja ne gusse mein kaha:
+👉 “Raasta chhod do.”
+
+Rishi shaant swar mein bole:
+👉 “Yeh mera raasta hai.
+Dharma ke anusaar raja ko
+Brahmana ko raasta dena chahiye.”
+
+Dono ne ek dusre se kaha:
+“Tum hat jao.”
+
+Na raja jhuka.
+Na rishi jhuke.
+
+⚔️ Ahankaar Ka Paap
+
+Raja gusse mein aa gaya.
+Usne Rishi ko chabuk se maara.
+
+Yeh dekh kar Rishi Sakti ka krodh jaag gaya.
+Unhone raja ko shraap de diya:
+
+👉 “Tum Rakshas ban jaoge.
+Insaano ka maans khaoge.
+Dharti par bhatakte rahoge.”
+
+Shraap lag chuka tha.
+
+🕶️ Visvamitra Ki Chaalaaki
+
+Usi jagah Visvamitra bhi maujood the.
+Woh chhupkar sab dekh rahe the.
+
+Unhone ek Rakshas (Kinkara) ko
+raja ke sharir mein ghusa diya.
+
+Ab raja Rakshas ke vash mein aa gaya.
+
+🍖 Paap Aur Dusra Shraap
+
+Kuch samay baad ek bhooka Brahmana
+raja ke paas aaya aur bhojan maanga.
+
+Raja ne kaha:
+👉 “Ruko, main bhejta hoon.”
+
+Raat ko raja ne apne rasoiye ko aadesh diya:
+👉 “Brahmana ko bhojan aur maans do.”
+
+Rasoiye ko maans nahi mila.
+Rakshas ke prabhav mein raja bola:
+👉 “Insaan ka maans de do.”
+
+Brahmana ne apni divya drishti se
+sab pehchaan liya.
+Gusse mein usne bhi shraap de diya:
+
+👉 “Ab tum hamesha
+insaani maans ke bhookhe rahoge.”
+
+Shraap aur zyada gehra ho gaya.
+
+😨 Rakshas Ban Chuka Raja
+
+Ab raja poori tarah se Rakshas ban chuka tha.
+Usne Rishi Sakti ko dekha aur bola:
+
+👉 “Main sabse pehle tumhe hi khaunga.”
+
+Aur raja ne Sakti ko maar kar kha liya.
+
+Visvamitra ne Rakshas ko aur bhadkaya.
+Raja ne Vasishtha ke baaki putron ko bhi maar diya.
+
+🕊️ Vasishtha Ki Mahaan Kshama
+
+Jab Vasishtha ko pata chala
+ki unke sab putra maare ja chuke hain,
+toh unka mann toot gaya.
+
+Lekin unhone krodh nahi kiya.
+Unhone socha:
+👉 “Main dusron ko nasht nahi karunga.”
+
+Dukh mein unhone apna jeevan tyagne ki koshish ki:
+
+Meru parvat se kud gaye – kuch nahi hua
+
+Aag mein gaye – aag thandi lagne lagi
+
+Samudra mein kood gaye – lehron ne bahar pheink diya
+
+Mrityu ne unhe chhua bhi nahi.
+
+Ant mein,
+Vasishtha apne aashram laut aaye.
+Dukh mein, par dhairya ke saath.
+
+🌟 Moral (Seekh)
+
+Ahankaar se paap hota hai
+
+Shraap aur krodh zindagi barbad kar dete hain
+
+Asli shakti kshama aur sanyam mein hoti hai
+
+Vasishtha jaise log dukh mein bhi dharm nahi chhodte"""
             create_image_text_layout(text_content=text2, layout="full")
 
         # Section 1.11.13
         with st.expander("Section 1.11.13"):
-            text1 = """ """
+            text1 = """ 
+            Section CLXXIX – Vasishtha ka Dukh, Dhairya aur Asha (Hinglish Moral Story)
+
+Gandharva ne kaha:
+
+Vasishtha ka aashram bilkul soona ho chuka tha.
+Apne sab putron ko kho kar,
+Muni ka mann gehre dukh mein doob gaya."""
             create_image_text_layout("attached_assets/chapter1/1.11.13.jpg", text1, layout="side", image_position="left")
-            text2 = """ """
+            text2 = """ 
+            🌧️ Dukh Mein Aatma-tyaag Ki Koshish
+
+Dukh se bhare hue,
+Vasishtha fir se bhatakne lage.
+
+Ek din unhone dekha ek bhari hui nadi.
+Barish ka paani tez tha.
+Pedh-paudhe beh ja rahe the.
+
+Muni ne socha:
+👉 “Agar main isme kood jaun,
+toh shayad meri peeda khatam ho jaaye.”
+
+Unhone rassiyon se khud ko baandha
+aur nadi mein kood gaye.
+
+Lekin nadi ne:
+
+rassiyan kaat di
+
+aur Muni ko kinare par la diya
+
+Tab se us nadi ka naam pada
+👉 Vipasa – jo bandhan tod de.
+
+🌊 Dusri Nadi, Wahi Aanjaam
+
+Dukh kam nahi hua.
+Vasishtha aur aage chale.
+
+Unhone dekhi ek aur bhayankar nadi –
+Haimavati,
+jismein magarmach aur bhayanak jeev the.
+
+Muni ne fir se kood kar
+apni jaan deni chahi.
+
+Lekin nadi ne unhe aag ka gola samajh kar
+sau dhaaron mein baant diya.
+
+Tab se us nadi ka naam hua
+👉 Satadru – sau dhaaron wali nadi.
+
+Muni bole:
+👉 “Main apne haath se bhi nahi mar sakta.”
+
+👩‍🦱 Ek Awaaz, Ek Nayi Asha
+
+Wapas aashram jaate hue,
+unke peeche koi aa raha tha.
+
+Unhone suna:
+👉 Vedon ka madhur paath.
+
+Vasishtha ne pucha:
+👉 “Kaun hai jo mere peeche aa raha hai?”
+
+Jawab mila:
+👉 “Main Adrisyanti hoon.
+Saktri ki patni.”
+
+Vasishtha bole:
+👉 “Yeh awaaz toh Saktri jaisi hai.”
+
+Adrisyanti ne kaha:
+👉 “Aapke putra ka putra
+mere garbh mein hai.
+Barah saal se.”
+
+🌱 Umeed Ki Jeet
+
+Yeh sunte hi Vasishtha ka mann bhar aaya.
+Unhone kaha:
+👉 “Mere vansh ka vanshaj zinda hai!”
+
+Isi pal,
+unhone apni jaan dene ka vichaar chhod diya.
+
+Woh Adrisyanti ke saath
+wapas aashram laut aaye.
+
+👹 Rakshas Raja Ka Samna
+
+Raste mein unhe mila
+Raja Kalmashapada,
+jo Rakshas ke vash mein tha.
+
+Rakshas Raja ne
+Vasishtha ko dekh kar
+unhe khaane ke liye aage badha.
+
+Adrisyanti dar gayi aur boli:
+👉 “Yeh Rakshas humein maar dega!”
+
+✨ Mantra Aur Mukti
+
+Vasishtha shaant rahe.
+Unhone sirf ek shabd kaha:
+👉 “Hum”
+
+Mantron ke paani se
+Raja ko chhidka.
+
+Rakshas ka prabhav
+turant toot gaya.
+
+Barah saal baad,
+Raja phir se insaan ban gaya.
+
+Raja ne vinamrta se kaha:
+👉 “Main aapka shishya hoon.
+Mujhe batayein main kya karun?”
+
+Vasishtha bole:
+👉 “Rajya jao.
+Nyay se shasan karo.
+Aur kabhi Brahman ka apmaan mat karna.”
+
+👶 Ikshvaku Vansh Ki Raksha
+
+Raja ne ek aur prarthana ki:
+👉 “Mujhe ek putra dijiye
+jo mere vansh ko aage badhaye.”
+
+Vasishtha ne kaha:
+👉 “Tathaastu.”
+
+Ayodhya laut kar,
+sab log khushi se jhoom uthe.
+
+Kuch samay baad,
+queen ke garbh se
+Asmaka ka janm hua.
+Wahi aage chal kar
+ek mahaan raja bana.
+
+🌟 Moral (Seekh)
+
+Asha kabhi nahi chhodni chahiye
+
+Dukh mein bhi dhairya rakho
+
+Dharm aur kshama sabse badi shakti hai
+
+Zindagi hamesha koi na koi raasta dikhati hai"""
             create_image_text_layout(text_content=text2, layout="full")
 
         # Section 1.11.14
         with st.expander("Section 1.11.14"):
-            text1 = """ """
+            text1 = """ 
+            Section CLXXX – Parāśara ka Krodh aur Vasishtha ki Mahān Sikṣā (Hinglish Explanation)
+
+Gandharva ne kaha:
+
+Adrisyanti ne samay aane par ek putra ko janm diya,
+jo Saktri ke vansh ka rakshak bana.
+Woh balak gun, tej aur tapasya mein
+bilkul Saktri jaisa tha.
+
+👶 Janm aur Naam
+
+Vasishtha ne svayam apne potey ke sanskār kiye
+
+Kyunki Vasishtha kabhi aatma-tyaag ka vichaar kar chuke the
+aur is balak ke janm se unka jeevan phir se jeevit ho utha,
+
+Isliye balak ka naam pada Parāśara
+👉 “jo mare hue ko phir se jeevit kare”
+
+Balak Parāśara bachpan se hi Vasishtha ko
+apna pita samajhta tha."""
             create_image_text_layout("attached_assets/chapter1/1.11.14.jpg", text1, layout="side", image_position="left")
-            text2 = """ """
+            text2 = """ 
+            💔 Sach ka Ghaav
+
+Ek din, Parāśara ne sabke saamne Vasishtha ko
+“pitaji” keh kar pukara.
+
+Yeh sunkar, maa Adrisyanti ki aankhon mein aansu aa gaye.
+Unhone kaha:
+
+“Beta, yeh tumhare pita nahi, tumhare dada hain.
+Tumhare pita Saktri ko ek Rakshas ne maar diya tha.”
+
+⚡ Is sach ne Parāśara ke hriday ko jala diya
+
+Pehle dukh
+
+Phir krodh
+
+Aur phir vināsh ka sankalp
+
+Parāśara ne socha:
+👉 “Main poori srishti ka naash kar dunga!”
+
+🧘‍♂️ Vasishtha ka Gyaan – Krodh par Vijay
+
+Vasishtha ne apne potey ke mann ka vichaar jaan liya.
+Unhone turant use roka aur ek purāni kathā sunai
+— taaki uska krodh shaant ho.
+
+📖 Kathā: Kshatriya–Bhrigu Vināsh
+
+Vasishtha ne kaha:
+
+Ek raja tha Kritavirya,
+jo Bhrigu Rishiyon ka shishya tha.
+
+Usne yagy aur daan se Brahmano ko prasann kiya.
+
+Par uske baad:
+
+Uske vanshaj gareeb ho gaye
+
+Dhan ke liye Bhrigu Brahmano ke paas bhiksha maangne aaye
+
+Kuch Bhriguon ne:
+
+Dhan chhupa liya
+
+Kuch ne daan de diya
+
+Lekin:
+
+Kuch Kshatriyon ne chhupe hue khazane dekh liye
+
+Unhe laga Brahman dhokha kar rahe hain
+
+⚔️ Phir kya hua?
+
+Kshatriyon ne Bhrigu Brahmano ka nar-sanhār shuru kar diya
+
+Yahan tak ki garbh mein shishu bhi nahi chhode
+
+🌄 Ek Stree, Ek Garbh, Ek Chamatkaar
+
+Bhrigu striyan bhaag kar Himalaya pahunchi
+
+Ek stree ne apne jaangh (thigh) mein
+ek tejashvi garbh ko chhupa liya
+
+Ek darpok stree ne yeh baat Kshatriyon ko bata di.
+
+Kshatriya aaye garbh ko nasht karne…
+
+🔥 Par chamatkaar hua!
+
+Garbh jaangh phaad kar bahar nikla
+
+Uski tej se Kshatriya andhe ho gaye
+jaise dopahar ka surya aankhon par pad gaya ho
+
+🙏 Kshama ki Shakti
+
+Andhe Kshatriya ghabra gaye.
+Unhone us stree se prarthana ki:
+
+“Humein drishti de do,
+hum kabhi paap nahi karenge.”
+
+Yahin par Vasishtha ne Parāśara ko roka
+aur samjhaya (aage ke section mein):
+
+👉 Kshama vināsh se badi hoti hai
+👉 Krodh srishti ko jalata hai, kshama use bachati hai
+
+🌟 Is Section ki Seekh
+
+Janm se hi mahān hona kaafi nahi,
+sanyam aur vivek bhi chahiye
+
+Krodh se vināsh hota hai
+
+Brahman ka bal shastra nahi, kshama hai
+
+Sachcha mahaan wahi hai
+jo badla lene ki shakti hote hue bhi
+kshama chune"""
             create_image_text_layout(text_content=text2, layout="full")
 
         # Section 1.11.15
         with st.expander("Section 1.11.15"):
-            text1 = """ """
+            text1 = """ 
+            Section CLXXXI – Aurva Rishi ka Krodh aur Pitron ki Antim Shikṣā (Hinglish Explanation)
+
+Vasishtha ne apne potey Parāśara ko aage samjhaya:
+
+🌿 Bhrigu Stree aur Andhe Kshatriya
+
+Jab andhe Kshatriya us Brahmana stree ke paas aaye,
+toh usne shant swar mein kaha:
+
+“Bachcho, maine tumhari drishti nahi chheeni,
+aur na hi main tumse krodhit hoon.
+Tumhari aankhen mere putra ke krodh se jali hain.”
+
+Woh balak Bhrigu vansh ka tha
+
+Usne apne kul ke sanhār ka smaran karke krodh dharan kiya tha
+
+Isi divya tej se Kshatriyon ki aankhen jal gayi
+
+Stree ne kaha:
+
+“Jab tum Bhrigu vansh ke garbh tak nasht kar rahe the,
+tab yeh balak mere jaangh (thigh) mein sau varsh tak raksha mein raha.
+Isi avadhi mein poore Veda apni shaakhon ke saath iske hriday mein aa gaye.”
+
+👉 Isliye us balak ka krodh saadharan nahi,
+balki vaidik aur divya tha."""
             create_image_text_layout("attached_assets/chapter1/1.11.15.jpg", text1, layout="side", image_position="left")
-            text2 = """ """
+            text2 = """ 
+            🙏 Prarthana aur Kshama
+
+Stree ne Kshatriyon se kaha:
+
+“Is balak se prarthana karo.
+Agar yeh prasann hua, toh tumhari drishti laut aayegi.”
+
+Kshatriyon ne balak se kaha:
+👉 “Prasann ho jaiye!”
+
+Aur:
+
+Balak ne kshama ki
+
+Kshatriyon ki aankhen laut aayi
+
+Is balak ka naam pada Aurva
+👉 “jo jaangh se janma ho”
+
+🔥 Aurva ka Pralay Sankalp
+
+Lekin yahin kahani samapt nahi hui.
+
+Aurva Rishi ne socha:
+
+“Main poori srishti ka vināsh kar dunga”
+
+Apne pitraon ko prasann karne ke liye
+unhone bhayankar tapasya shuru kar di
+
+⚡ Unki tapasya se:
+
+Devta
+
+Asura
+
+Manushya
+sabhi peedit hone lage
+
+Teenon lok jalne lage.
+
+👴 Pitron ka Avtaran
+
+Tab Bhrigu pitra svayam swarg se aaye
+aur Aurva se bole:
+
+“Putra, tumhara tej humne dekh liya.
+Lekin apna krodh roko.”
+
+Unhone kaha:
+
+🧠 Gehri Rahasya Bhari Baat
+
+Bhrigu Rishi kamzor nahi the
+
+Unhone apna vināsh jaanbujhkar sweekar kiya
+
+“Hum lambe jeevan se thak gaye the,
+isliye humne Kshatriyon ke haathon mrityu chuni.”
+
+Dhan chhupaya gaya tha jaanbujhkar
+
+Taaki Kshatriya krodhit ho jaayen
+
+Aur hamara ant ho sake
+
+⚠️ Aatmahatya ka dosh
+Pitron ne kaha:
+
+“Jo swayam aatmahatya karta hai,
+usey swarg nahi milta.”
+
+Isliye:
+
+Unhone apni mrityu ka saadhan
+Kshatriyon ko banaya
+
+👉 Yeh sab sochi-samjhi yojna thi
+
+🛑 Antim Updesh
+
+Pitron ne Aurva se kaha:
+
+“Isliye, putra,
+poori srishti ka vināsh hamen sweekar nahi.
+Tumhara krodh tumhari tapasya ko kalankit kar raha hai.”
+
+Kshatriyon ka vināsh mat karo
+
+Saaton lokon ka naash mat karo
+
+Is krodh ko hi nasht karo
+
+🌸 Is Section ki Mool Shikṣā
+
+Vasishtha ne Parāśara ko yeh kahani sunakar samjhaya:
+
+Krodh tapasya ko bhi jalata hai
+
+Kshama hi sachchi shakti hai
+
+Mahān hone ka arth hai:
+
+Badla lene ki shakti hote hue bhi,
+badla na lena
+
+Aur yahin Parāśara ka krodh dheere-dheere shaant hua 🌿"""
             create_image_text_layout(text_content=text2, layout="full")
 
         # Section 1.11.16
         with st.expander("Section 1.11.16"):
-            text1 = """ """
+            text1 = """ 
+            Section CLXXXII – Aurva Rishi ka Krodh, Pitron ka Upāy, aur Vadavamukha ka Janm (Clear Explanation)
+
+Is section mein Aurva Rishi aur Pitron ke beech ka sabse gehra darshanik samvaad aata hai—jahaan krodh, nyāy, tapasya aur jagat-rachna sab ek saath jud jaate hain."""
             create_image_text_layout("attached_assets/chapter1/1.11.16.jpg", text1, layout="side", image_position="left")
-            text2 = """ """
+            text2 = """ 
+            🔥 Aurva Rishi ka Tarka (Justification of Anger)
+
+Aurva Pitron se kehte hain:
+
+Mera krodh vyarth nahi ja sakta
+
+“Jo apne krodh aur sankalp ko vyarth jaane deta hai,
+woh dharma–artha–kāma tino ko hi siddh nahi kar sakta.”
+
+Nyāy ke liye krodh avashyak hai
+
+Raja jab krodh dikhata hai, to:
+
+Dushṭ log niyantrit hote hain
+
+Sajjan log surakshit rehte hain
+
+Mera krodh anuchit nahi, anivārya hai
+Aurva kehte hain:
+
+Garbh mein hote hue bhi unhone
+
+Bhrigu striyon ke vilāp
+
+Apne kul ke vināsh
+ko suna
+
+Jab koi rakshak nahi tha, tab krodh hi raksha bana
+
+Dand na ho to paap badhta hai
+
+“Jahan dand nahi hota, wahan aparādh badhta hai.”
+
+Jo dand de sakta hai aur nahi deta,
+woh bhi doshi hota hai
+
+Isliye Aurva kehte hain:
+
+“Main is paap ka dand dene mein saksham hoon.
+Agar main chup raha, to aisa atyachaar phir hoga.”
+
+⚖️ Aurva ka Sankat
+
+Aurva Pitron se antim baat kehte hain:
+
+Agar main:
+
+Krodh ko daba doon → woh mujhe hi jala dega
+
+Agar main:
+
+Jagat ka vināsh kar doon → lok naṣṭ ho jaayenge
+
+👉 Isliye woh Pitron se mārgdarshan maangte hain:
+
+“Aisa upaay bataiye jo mujhe bhi bachaye
+aur srishti ko bhi.”
+
+🌊 Pitron ka Mahān Samādhān (The Great Solution)
+
+Pitri kehte hain:
+
+Jal hi srishti ka mool tattva hai
+
+Ras, sharir, jeevan—sab jal par aadharit hain
+
+Isliye:
+
+“Apne krodh ki agni ko jal mein pravisht kara do”
+
+🔑 Gehra Arth
+
+Tumhara sankalp bhi poora ho jaayega
+
+Jagat ka vināsh bhi nahi hoga
+
+👉 Agni jal ko khayegi,
+na ki praniyon ko
+
+🐴 Vadavamukha ka Janm (Horse-Headed Fire)
+
+Aurva ne apne krodh ki agni ko
+Varuna ke lok (maha-samudra) mein daal diya
+
+Wah agni:
+
+Ghode ke sir jaisi prakat hui
+
+Jise Vedon mein kaha gaya:
+
+Vadavamukha (Horse-mouth Fire)
+
+Yeh agni:
+
+Samudra ke jal ko peeti rehti hai
+
+Isliye samudra kabhi overflow nahi karta
+
+Aur pralay bhi santulit rehta hai
+
+👉 Aaj bhi Ved kehte hain:
+
+Samudra ke neeche ek agni hai
+jo jal ko nirantar grahan karti rehti hai
+
+🧠 Is Kathā ka Darshanik Saar
+1️⃣ Krodh galat nahi, anuyamit krodh galat hai
+2️⃣ Nyāy ke liye shakti ka upyog avashyak hai
+3️⃣ Mahān vyakti wahi hai jo:
+
+Apni shakti ko santulan mein rakhe
+
+Na swayam jale
+
+Na jagat ko jalaye
+
+Aur is prakar Aurva Rishi:
+
+Apna sankalp bhi nibhaate hain
+
+Aur srishti ki raksha bhi karte hain
+
+✨ Vasishtha ka Sandesh Parasara ko
+
+Isliye Vasishtha ant mein kehte hain:
+
+“Hey Parasara,
+tum bhi krodh se jagat ka vināsh mat chaho.
+Buddhi se usse sahi disha do.”"""
             create_image_text_layout(text_content=text2, layout="full")
 
         # Section 1.11.17
         with st.expander("Section 1.11.17"):
-            text1 = """ """
+            text1 = """ 
+            Section CLXXXIII – Parāśara Rishi ka Krodh aur Shaanti ka Vijay (Hinglish Moral Story Rewrite)
+
+Vasishtha ke shabd sun kar Parāśara Rishi ne apna woh krodh rok liya
+jo poore jagat ka vināsh kar sakta tha.
+Lekin unka dil abhi bhi dukh se bhara tha."""
             create_image_text_layout("attached_assets/chapter1/1.11.17.jpg", text1, layout="side", image_position="left")
-            text2 = """ """
+            text2 = """ 
+            🔥 Rakshasa Yagya ka Aarambh
+
+Parāśara Rishi ko apne pita Saktri ki yaad aa rahi thi.
+Unke hriday mein nyāy ki aag jal rahi thi.
+
+Isliye unhone ek vishesh yagya shuru kiya —
+jise log Rakshasa Yagya ke naam se jaante hain.
+
+Is yagya mein
+Rakshas, chahe chhote ho ya bade,
+us agni mein bhent ho rahe the.
+
+Parāśara teen bhadakti agniyon ke beech baithe the,
+aur khud chauthe agni jaise tej se chamak rahe the.
+
+Unka tej aisa tha
+jaise badalon se nikla hua Suraj.
+
+Sab Rishi dekh kar chakit the.
+
+🌞 Rishiyon ka Aagman
+
+Us samay kuch mahan Rishi wahan aaye:
+
+Atri
+
+Pulastya
+
+Pulaha
+
+Kratu
+
+Unka mann Rakshason ko bachane ke liye vyakul tha.
+
+🕊️ Pulastya ka Updesh
+
+Pulastya ne pyaar aur gyaan se Parāśara se kaha:
+
+“O Parāśara,
+kya tumhein sach mein is vināsh se sukh mil raha hai?”
+
+Unhone aage kaha:
+
+Yeh Rakshas tumhare pita ke doshi nahi hain
+
+Bahut se toh nirdosh hain
+
+Ek Brahmana ka dharma shaanti hota hai, vināsh nahi
+
+Pulastya bole:
+
+“Shaanti sabse bada dharma hai.”
+
+Phir unhone ek gehri baat kahi:
+
+Saktri ki mrityu
+unke apne shabd (shraap) ka phal thi
+
+Koi Rakshas unhe zabardasti nahi kha gaya
+
+Sab log apne karm ke phal bhogte hain
+
+Unhone kaha:
+
+“Tum bhi is vināsh ke sirf ek madhyam ban rahe ho.”
+
+🌼 Krodh se Shaanti ki Or
+
+Pulastya aur Vasishtha ke shabd
+Parāśara ke dil tak pahunch gaye.
+
+Unhone apni aankhen band ki
+aur gahri saans li.
+
+Fir dheere se kaha:
+
+“Main apna yagya yahin samaapt karta hoon.”
+
+🔥 Agni ka Antim Gaman
+
+Parāśara ne yagya ki agni ko
+Himavat ke uttar ke gehre van mein daal diya.
+
+Kaha jaata hai:
+
+Woh agni aaj bhi wahan jalti hai
+
+Rakshason, pedon aur patharon ko bhasm karti hai
+
+Par bina poori srishti ko nuksaan pahunchaye
+
+🌟 Is Katha ka Moral (Seekh)
+
+❌ Andha badla dharma nahi hota
+
+✅ Shaanti aur samajh hi sabse badi shakti hoti hai
+
+🔥 Krodh ko mitaana nahi, sahi disha dena chahiye
+
+🕊️ Mahaan wahi hai jo
+krodh par vijay paaye
+
+Parāśara ne yeh seekh di
+ki shaanti hi sabse badi tapasya hai."""
             create_image_text_layout(text_content=text2, layout="full")
 
         # Section 1.11.18
         with st.expander("Section 1.11.18"):
-            text1 = """ """
+            text1 = """ 
+            Section CLXXXIV – Kalmashapada, Vasishtha aur Sachchai ka Rahasya (Hinglish Moral Story Rewrite)
+
+Arjuna ne Gandharva se vinamrta se poocha:
+“Yeh batao,
+King Kalmashapada ne apni rani ko
+Rishi Vasishtha ke paas kyun bheja?
+Aur Vasishtha jaise mahaan Rishi ne
+aisa kaam kyun kiya?
+Kya yeh paap tha?”
+
+Gandharva ne shant swar mein jawab diya."""
             create_image_text_layout("attached_assets/chapter1/1.11.18.jpg", text1, layout="side", image_position="left")
-            text2 = """ """
+            text2 = """ 
+            🌲 Shraap ke Baad ka Andhera Jeevan
+
+King Kalmashapada
+pehle hi Saktri ke shraap ke kaaran
+apna santulan kho chuke the.
+
+Woh apni rani ke saath
+ghane jungle mein bhatak rahe the
+
+Unka mann bhatak chuka tha
+
+Bhookh aur krodh ne
+unki buddhi dhundhli kar di thi
+
+Ek din, bhookh se pareshan hokar,
+unhone jungle mein ek Brahmana aur uski patni ko dekha
+jo saath the.
+
+😢 Ek Bhayanak Paap
+
+Dar ke maare woh dono bhaag gaye.
+Lekin Kalmashapada ne
+Brahmana ko pakad liya.
+
+Brahmani ne rote hue kaha:
+“Hey Maharaj,
+main apne pati ke saath thi.
+Meri iccha abhi poori bhi nahi hui.
+Kripya unhe chhod do.”
+
+Lekin shraap ke prabhav mein
+Kalmashapada ne
+us Brahmana ko maar diya aur kha gaya.
+
+🔥 Brahmani ka Shraap
+
+Yeh dekh kar Brahmani ka dukh
+aag ban gaya.
+
+Usne shraap diya:
+
+“Jis din tum apni patni ke paas jaoge,
+usi din tumhari mrityu ho jaayegi.”
+
+“Tumhari rani ek putra ko janm degi,
+lekin Vasishtha Rishi ke dwara.”
+
+“Wahi putra
+tumhari vansh ko aage badhaayega.”
+
+Shraap dekar
+woh Brahmani
+aag mein sama gayi.
+
+🕊️ Vasishtha ka Gyaan aur Maryada
+
+Rishi Vasishtha ne
+apni tapasya aur gyaan se
+sab jaan liya.
+
+Bahut samay baad,
+jab Kalmashapada shraap se mukt hue,
+woh apni rani Madayanati ke paas gaye.
+
+Lekin rani ne mana kar diya.
+Us shraap ki yaad aa chuki thi.
+
+Tab raja ko apni galti ka
+gehra pachtava hua.
+
+🌱 Paap Nahi, Kartavya
+
+Isliye raja ne
+Vasishtha se prarthana ki
+ki woh rani ko putra pradaan karein.
+
+Yeh kaam vasna se nahi,
+balki dharma aur vansh ki raksha ke liye tha
+
+Vasishtha ne
+apna kartavya nibhaya
+
+Ismein koi paap nahi tha
+
+🌟 Is Katha ki Seekh (Moral)
+
+❌ Shraap aur krodh
+insaan ko galat raaste par le jaate hain
+
+✅ Mahaan log
+kartavya ko bhavna se upar rakhte hain
+
+🕊️ Kabhi-kabhi
+kathin faisle bhi
+dharma ke liye lene padte hain
+
+🌱 Sachchi pavitrata
+mann aur uddeshya mein hoti hai
+
+Yeh kahani sikhaati hai:
+Har ajeeb ghatna paap nahi hoti,
+kabhi-kabhi woh dharma ka gehra roop hoti hai."""
             create_image_text_layout(text_content=text2, layout="full")
 
         # Section 1.11.19
         with st.expander("Section 1.11.19"):
-            text1 = """ """
+            text1 = """ 
+            Section CLXXXV – Pandavas ko Mila Sahi Guru (Hinglish Moral Story)
+
+Arjuna ne Gandharva se poocha:
+“O Gandharva,
+aap sab kuch jaante ho.
+Humein batao,
+kaun sa Veda-jaanne wala Brahmana
+hamara Guru (priest) banne ke yogya hai?”"""
             create_image_text_layout("attached_assets/chapter1/1.11.19.jpg", text1, layout="side", image_position="left")
-            text2 = """ """
+            text2 = """ 
+            🌿 Gandharva ka Salah
+
+Gandharva ne shaant swar mein kaha:
+“Is jungle mein
+Utkocaka naam ka ek pavitra aashram hai.
+Wahan Rishi Dhaumya,
+jo Devala ke chhote bhai hain,
+tapassya kar rahe hain.
+
+Agar tum chaho,
+unhe apna Guru bana sakte ho.”
+
+🔥 Arjuna ka Dhanyavaad
+
+Sab sun kar Arjuna bahut prasann hua.
+Usne shraddha ke saath
+apna agni-astra (fire weapon)
+Gandharva ko wapas de diya.
+
+Arjuna ne kaha:
+“O Shreshtha Gandharva,
+jo divya ghode aapne humein diye the,
+abhi aapke paas hi rahne do.
+Jab samay aayega,
+hum unhe le lenge.”
+
+Dono ne
+ek-doosre ko pranam kiya
+aur apne-apne raaste chal pade.
+
+🏞️ Rishi Dhaumya ka Aashram
+
+Pandavas apni maa Kunti ke saath
+Utkocaka ke aashram pahunche.
+
+Rishi Dhaumya ne
+unhe phal aur kand-mool dekar
+prem se swagat kiya.
+
+Pandavas ne vinamrata se
+unse apna Guru banne ki prarthana ki.
+
+Rishi Dhaumya ne
+prasann hokar sweekar kar liya.
+
+🌸 Nayi Shuruaat ka Vishwas
+
+Guru milte hi
+Pandavas ka mann mazboot ho gaya.
+
+Unhe laga:
+
+Jaise unka raajya wapas mil hi gaya ho
+
+Jaise Panchal rajkumari ka swayamvar
+unka intezaar kar raha ho
+
+Rishi Dhaumya
+Vedo aur dharma ke gyaata the.
+Unhone Pandavas ko
+apna yajmaan (shishya) banaya.
+
+Guru ko dekh kar
+unhe poora bharosa tha
+ki yeh veer bhai
+apne karm aur gun se
+sab kuch phir se paa lenge.
+
+🌟 Is Kahani ki Seekh (Moral)
+
+🙏 Sahi Guru jeevan ka sabse bada sahara hota hai
+
+🌱 Jahan dharma aur gyaan hota hai,
+wahan bhavishya surakshit hota hai
+
+💫 Vinamrata aur shraddha
+hamesha sahi raasta dikhati hai
+
+🕊️ Guru mil jaaye to
+mushkil safar bhi aasaan lagta hai
+
+Is tarah,
+Pandavas apne Guru ke saath
+Panchal ki disha mein
+ek nayi umeed aur vishwas ke saath
+aage badhne ka nirnay lete hain 🌼"""
             create_image_text_layout(text_content=text2, layout="full")
 
     # Chapter 1.12
