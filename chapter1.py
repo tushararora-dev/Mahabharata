@@ -24178,65 +24178,1154 @@ Gupat upkaar sabse shreshth hota hai"""
 
         # Section 1.11.1
         with st.expander("Section 1.11.1"):
-            text1 = """ """
+            text1 = """ 
+            Section CLXVII – Ekachakra mein nayi kahani (Hinglish Moral Story)
+
+Rakshasa Vaka ke marne ke baad,
+shehar ke log
+shanti se apne ghar laut gaye.
+
+Aur
+Pandavas
+phir se
+Ekachakra mein rehne lage,
+bilkul pehle jaise."""
             create_image_text_layout("attached_assets/chapter1/1.11.1.jpg", text1, layout="side", image_position="left")
-            text2 = """ """
+            text2 = """ 
+            🌿 Janamejaya ka sawaal
+
+Janamejaya ne pucha:
+
+“Guruji,
+Vaka ke marne ke baad
+Pandavas ne kya kiya?”
+
+📖 Vaisampayana bole
+
+Vaisampayana bole:
+
+Pandavas
+us Brahman ke ghar hi rahe,
+jahan pehle se reh rahe the.
+
+Woh roz
+Vedas padhte.
+Shaant jeevan jeete.
+Maa Kunti
+unke saath thi.
+
+🧙‍♂️ Ek naye mehmaan ka aana
+
+Kuch hi dinon mein
+ek aur Brahman
+wahan aaya.
+
+Woh tapasya wala tha.
+Seedha aur shaant.
+
+Ghar ke malik ne
+uska poora samman kiya.
+Paani diya.
+Aasan diya.
+Rehne ki jagah di.
+
+Pandavas khush hue.
+
+🔥 Rochak kahaniyaan
+
+Pandavas ne kaha:
+
+“Maharaj,
+apni yatra ki kahani sunaiye.”
+
+Brahman muskuraya.
+
+Usne bataya:
+
+alag-alag desh
+
+pavitra nadiyaan
+
+rajaa aur nagar
+
+mandir aur teerth
+
+Sab sun kar
+Pandavas dhyaan se sunte rahe.
+
+🌸 Draupadi ki adbhut janm-katha
+
+Phir Brahman ne
+ek bahut khaas baat batayi.
+
+Usne kaha:
+
+“Panchal ke raja
+Drupada
+ne ek maha-yagya kiya.
+
+Us yagya se
+aag ke beech se
+ek kanya janmi.
+
+Uska naam tha
+Draupadi.”
+
+Pandavas hairaan ho gaye.
+
+Brahman ne aage bataya:
+
+Dhrishtadyumna ka janm
+
+Shikhandi ka janm
+
+aur Drona aur Drupada ki purani dosti ka tootna
+
+🤔 Pandavas ki jigyasa
+
+Pandavas ne ek saath pucha:
+
+“Yeh sab kaise hua?
+Aag se janm kaise?
+Dosti kyun tooti?”
+
+Brahman muskuraya.
+
+Usne kaha:
+
+“Main tumhe
+Draupadi ki poori kahani
+agle adhyay mein sunaunga.”
+
+🌟 Is Ansh ki Seekh
+
+Shanti ke baad gyaan aata hai
+
+Mehmaan ka samman dharma hota hai
+
+Har badi kahani se pehle jigyasa hoti hai"""
             create_image_text_layout(text_content=text2, layout="full")
 
         # Section 1.11.2
         with st.expander("Section 1.11.2"):
-            text1 = """ """
+            text1 = """ 
+            Section CLXVIII – Drona ka Janm, Shiksha aur Drupada se Vair (Hinglish Story Explanation)
+
+Yeh ansh Mahabharata ki ek bahut hi mahatvapurn background story batata hai—
+jisse aage chal kar Draupadi, Dhrishtadyumna, aur Kurukshetra yuddh ka beej padta hai."""
             create_image_text_layout("attached_assets/chapter1/1.11.2.jpg", text1, layout="side", image_position="left")
-            text2 = """ """
+            text2 = """ 
+            🌊 Rishi Bharadvaja aur Drona ka janm
+
+Ganga ke kinare ek maha-rishi rehte the—
+Bharadvaja
+
+Ek din Ganga snaan ke samay
+apsara Ghritachi hawa ke kaaran vastrahin ho gayi.
+Rishi ne brahmacharya ka vrat liya tha,
+lekin prakriti ke niyam ke kaaran
+unke sharir se veerya nikal gaya.
+
+👉 Rishi ne us veerya ko ek matke (drana) mein sambhaal liya.
+Usi se ek balak ka janm hua—
+jiska naam pada Drona
+(isiliye Dronacharya = pot-born).
+
+📚 Drona aur Drupada ki bachpan ki dosti
+
+Usi samay Panchal ke raja Prishata ke yahan
+ek putra hua—
+Drupada
+
+Drona aur Drupada
+ek hi ashram mein
+saath padhte–khelte bade hue
+
+Bachpan mein dono gehre mitra the
+
+Lekin…
+samay badla.
+
+Prishata ke baad
+Drupada raja ban gaya
+aur Drona ek garib Brahman hi raha.
+
+⚔️ Parashurama se shastra-prapti
+
+Drona ne suna ki
+Parashurama
+apni saari sampatti daan kar rahe hain.
+
+Drona unke paas gaya.
+
+Parashurama bole:
+
+“Mere paas sirf
+mera sharir aur mere shastra bache hain.”
+
+Drona ne maanga:
+
+“Aapke sab shastra aur unka gyaan.”
+
+👉 Parashurama ne
+sabhi divya astra–shastra
+Drona ko de diye,
+yahan tak ki Brahmastra bhi.
+
+Isse Drona
+sabse shreshth dhanurdharon mein ginne jaane lage.
+
+💔 Drupada ka apmaan
+
+Ab Drona
+apni purani dosti yaad karke
+Drupada ke darbar gaye aur bole:
+
+“Mujhe apna mitra mano.”
+
+Drupada ne ghamand mein kaha:
+
+“Raja aur garib Brahman ki dosti nahi hoti.”
+
+⚡ Yeh shabd
+Drona ke hriday mein
+gehra ghaav ban gaye.
+
+🏹 Guru Drona aur pratishodh
+
+Drona ne Hastinapur jaakar
+Bhishma ke sahyog se
+Pandavas–Kauravas ko shiksha deni shuru ki.
+
+Shiksha ke baad
+unhone guru-dakshina maangi:
+
+“Drupada ko harao
+aur uska rajya mujhe do.”
+
+Pandavas ne
+Drupada ko yuddh mein hara diya
+aur bandi bana kar
+Drona ke samne laaya.
+
+🏰 Rajya ka vibhaajan
+
+Drona ne kaha:
+
+“Ab hum barabar ke raja hain,
+isliye dosti sambhav hai.”
+
+Ganga ke dakshin ka rajya → Drupada
+
+Ganga ke uttar ka rajya → Drona
+
+Drupada ne upar se haan keh di…
+lekin andar hi andar
+uska apmaan jalta raha.
+
+👉 Yahin se Drupada ke yagya,
+Dhrishtadyumna aur Draupadi ke janm,
+aur Drona ke vinash ki kahani shuru hoti hai.
+
+🌟 Is Ansh ki Gehari Seekh
+
+Ahankar dosti tod deta hai
+
+Apmaan badla ban jaata hai
+
+Shabd talwar se zyada ghaav dete hain
+
+Guru–shishya sambandh yuddh ki disha badal dete hain"""
             create_image_text_layout(text_content=text2, layout="full")
 
         # Section 1.11.3
         with st.expander("Section 1.11.3"):
-            text1 = """ """
+            text1 = """ 
+            Section CLXIX – Drupada ka Yagya aur Agni se Janm (Hinglish Moral Story)
+
+Bahut samay tak
+Raja Drupada ka mann shaant nahi tha.
+Uske dil mein sirf ek dard tha.
+Aur ek hi iccha.
+
+👉 “Mujhe aisa beta chahiye
+jo Drona ko hara sake.”"""
             create_image_text_layout("attached_assets/chapter1/1.11.3.jpg", text1, layout="side", image_position="left")
-            text2 = """ """
+            text2 = """ 
+            😔 Drupada ka dukh
+
+Drupada ghoomta raha.
+Ek ashram se doosre ashram.
+Brahmanon se milta raha.
+
+Woh aksar kehta tha:
+“Jo bachche mere paas hain,
+woh kaabil nahi.”
+
+Uska dukh
+badle ki aag ban chuka tha.
+
+🔥 Yaja aur Upayaja Rishi
+
+Ek din
+Drupada ko do maha-rishi mile—
+Yaja aur Upayaja.
+
+Upayaja pavitra the
+
+Yaja thode worldly the
+
+Drupada ne pehle Upayaja se kaha:
+👉 “Mere liye yagya karo
+aur mujhe aisa beta do
+jo Drona ko maar sake.”
+
+Upayaja ne shaant swar mein mana kar diya.
+
+🤝 Yaja ka maan jana
+
+Phir Drupada
+Yaja ke paas gaya.
+Usne kaha:
+
+👉 “Main hazaaron gaaye dunga.
+Bas ek beta chahiye—
+jo Drona ka ant kare.”
+
+Yaja ne socha.
+Aur phir bola:
+“Theek hai.”
+
+Upayaja ne bhi
+bina kisi lalach ke
+is yagya mein madad ki.
+
+🪔 Mahaan Yagya
+
+Sab taiyaari ho gayi.
+Agni jalaayi gayi.
+Mantra bole gaye.
+
+Yaja ne rani ko bulaya.
+Rani boli:
+👉 “Main abhi taiyaar nahi hoon.”
+
+Yaja muskuraye aur bole:
+👉 “Yagya rukta nahi.”
+
+⚔️ Agni se Putra ka janm
+
+Agni se
+ek tejshwi yoddha nikla.
+
+haath mein talwar
+
+sharir par kavach
+
+aankhon mein veerta
+
+Aakash se awaaz aayi:
+👉 “Yeh balak
+Drona ke vinash ke liye janma hai.”
+
+Uska naam rakha gaya—
+Dhrishtadyumna.
+
+🌸 Agni se Putri ka janm
+
+Usi yagya se
+ek sundar kanya bhi nikli.
+
+gehri kaali aankhen
+
+neeli ghungraali zulfein
+
+kamal jaisi sundarta
+
+Aakashvani hui:
+👉 “Yeh kanya
+bahut se Kshatriyon ke vinash ka kaaran banegi.
+Aur Kauravon ke liye kaal hogi.”
+
+Uska naam rakha gaya—
+Krishna,
+jo baad mein Draupadi ke naam se vikhyat hui.
+
+📚 Vidhambna ki seekh
+
+Kismat ka khel dekho—
+
+👉 Drona,
+jise maarne ke liye
+Dhrishtadyumna janma tha,
+usi Drona ne usey shastra-shiksha di.
+
+Destiny apna raasta
+khud banati hai.
+
+🌟 Is Kahani ki Seekh
+
+Badla aag hai,
+jo poora vansh jala sakta hai
+
+Bhagya ko koi rok nahi sakta
+
+Jo janma agni se hota hai,
+woh itihaas badal deta hai"""
             create_image_text_layout(text_content=text2, layout="full")
 
         # Section 1.11.4
         with st.expander("Section 1.11.4"):
-            text1 = """ """
+            text1 = """ 
+            Section CLXX – Ek Naya Safar Shuru Hone Wala Hai (Hinglish Moral Story)
+
+Brahmana ki baat sunte hi
+Kunti ke saare bete
+jaise andar se hila diye gaye.
+
+Unke chehre shaant the,
+par mann ashant ho chuka tha."""
             create_image_text_layout("attached_assets/chapter1/1.11.4.jpg", text1, layout="side", image_position="left")
-            text2 = """ """
+            text2 = """ 
+            🌸 Maa Kunti ki soch
+
+Tab sachchi aur samajhdaar Maa Kunti
+ne sabko dekha.
+Unke bete chup the,
+soch mein doobe hue.
+
+Maa ne Yudhishthira se kaha:
+
+👉 “Beta,
+humne is Brahmana ke ghar
+bahut din bita liye hain.
+
+Humne yahaan
+izzat se bhiksha payi,
+aur shaanti se jeevan jiya.”
+
+🌿 Badlav ki zarurat
+
+Phir Maa boli:
+
+👉 “Jo jungle aur baag
+humne yahaan dekhe,
+ab unhe dobara dekhkar
+mann khush nahi hota.
+
+Har cheez ek jagah
+zyada din rehne se
+purani ho jaati hai.”
+
+🥖 Practical sach
+
+Maa ne aage kaha:
+
+👉 “Ab yahaan bhiksha bhi
+pehle jaisi aasaan nahi milti.
+
+Maine suna hai
+Panchala desh mein
+Brahmanon ka bahut samman hota hai.
+
+Wahaan ke raja
+daan aur dharm mein aage hain.”
+
+🛤️ Safar ka prastaav
+
+Maa ne pyar se kaha:
+
+👉 “Hum Panchala chalein?
+Woh desh humne nahi dekha.
+Naya sthal,
+naya anubhav.”
+
+👉 “Zyada samay
+ek hi jagah rehna
+achha nahi hota.”
+
+👑 Yudhishthira ka uttar
+
+Yeh sun kar
+Yudhishthira ne namrata se kaha:
+
+👉 “Maa,
+aapka aadesh
+hamare liye dharm hai.
+
+Aap jo kehti hain,
+woh hamare bhale ke liye hota hai.”
+
+Phir usne shaant swar mein kaha:
+
+👉 “Bas ek baat hai, Maa…
+mujhe nahi pata
+mere chhote bhai
+is safar ke liye
+taiyaar hain ya nahi.”
+
+🌟 Is Kahani ki Seekh
+
+Jeevan mein badlav zaroori hota hai
+
+Maa ka anubhav
+bachchon ka rakshak hota hai
+
+Kabhi-kabhi
+aage badhne ke liye
+peeche chhodna padta hai"""
             create_image_text_layout(text_content=text2, layout="full")
 
         # Section 1.11.5
         with st.expander("Section 1.11.5"):
-            text1 = """ """
+            text1 = """ 
+            Section CLXXI – Vyasa ka Bhavishyavani aur Panchala ki Yatra (Hinglish Moral Story)
+🚶‍♂️ Pandavon ka Faisla
+
+Maa Kunti ne jab
+Bhimasena, Arjuna, Nakula aur Sahadeva se
+Panchala jaane ki baat kahi,
+toh sabne ek swar mein kaha:
+
+👉 “So be it.”
+
+Phir Maa Kunti aur Pandavon ne
+us Brahmana ko vinamr pranam kiya
+jinke ghar ve chhupkar rahe the,
+aur sab milkar
+Maharaj Drupada ke nagar Panchala
+ki aur chal pade."""
             create_image_text_layout("attached_assets/chapter1/1.11.5.jpg", text1, layout="side", image_position="left")
-            text2 = """ """
+            text2 = """ 
+            🌿 Rishi Vyasa ka Aagaman
+
+Isi dauran,
+Vyasa,
+Satyavati ke putra,
+Pandavon se milne aaye.
+
+Pandav unhe dekhkar
+khade ho gaye,
+aage badhkar pranam kiya
+aur haath jodkar chupchaap khade rahe.
+
+Vyasa prasann hue aur bole:
+
+👉 “Kya tum sab
+dharm ke marg par chal rahe ho?
+Kya tum Brahmanon ka samman karte ho?”
+
+Unhone dharm, maryada aur jeevan
+par updesh diya
+aur phir ek rahasyamayi kahani sunayi.
+
+🔮 Pichhle Janm ki Kahani
+
+Vyasa ne bataya:
+
+Ek tapasvi Rishi ki
+ek sundar, gunwaan beti thi.
+Pichhle janm ke karmon ke kaaran
+use pati nahi mila.
+
+Usne kathor tapasya ki
+aur Mahadev (Shiva) ko prasann kiya.
+
+Mahadev bole:
+👉 “Var maango.”
+
+Us kanya ne paanch baar kaha:
+👉 “Mujhe pati do,
+jo sab gunon se yukt ho.”
+
+Shiv ji bole:
+
+👉 “Tumne paanch baar pati maanga hai,
+isliye agle janm mein
+tumhare paanch pati honge.”
+
+🌸 Bhavishyavani ka Sach
+
+Vyasa ne kaha:
+
+👉 “Wahi kanya
+is janm mein
+Draupadi,
+yaani Krishna Panchali,
+Drupada
+ke ghar janmi hai.”
+
+👉 “Wahi tum sab
+Pandavon ki patni banegi.”
+
+👉 “Panchala jao,
+wahaan raho,
+tum sab usse vivaah karke
+bahut sukhi rahoge.”
+
+🙏 Vidai
+
+Itna kehkar
+Rishi Vyasa ne
+Pandavon ko aashirvaad diya
+aur apne ashram ki aur chale gaye.
+
+🌟 Is Adhyay ki Seekh
+
+Kismat aur karm apna kaam karte hain
+
+Jo cheez samajhna mushkil lagti hai,
+uske peeche bhi gehra dharm aur niyati hoti hai
+
+Jeevan ke bade mod
+pehle se likhe hote hain,
+bas samay aane par khulte hain"""
             create_image_text_layout(text_content=text2, layout="full")
 
         # Section 1.11.6
         with st.expander("Section 1.11.6"):
-            text1 = """ """
+            text1 = """ 
+            Section CLXXII – Pandav, Gandharva aur Ganga ka Gyaan (Hinglish Moral Story)
+🌄 Panchala ki Yatra
+
+Vyasa ji ke jaane ke baad,
+Pandav bhai, apni Maa Kunti ke saath,
+us Brahmana ko pranam karke
+khushi-khushi Panchala ki taraf chal pade।
+
+Din–raat chal kar
+ve Bhagwan Shiv ke pavitra sthaan pahúnche,
+phir Ganga ji ke kinaare aaye.
+
+Sabse aage Arjuna chal rahe the,
+haath mein mashaal (torch) thi,
+taaki raasta dikhe aur
+jangli jaanwaron se raksha ho."""
             create_image_text_layout("attached_assets/chapter1/1.11.6.jpg", text1, layout="side", image_position="left")
-            text2 = """ """
+            text2 = """ 
+            🌊 Ganga ke Tat par Takraav
+
+Usi samay,
+Gandharvon ke raja Angaraparna
+apni patniyon ke saath
+Ganga mein khel rahe the.
+
+Pandavon ke kadmon ki aahat sun kar
+Angaraparna gusse mein aa gaya.
+
+Usne dhanush uthaya aur bola:
+
+👉 “Yeh twilight ka samay hai.
+Yeh samay Gandharva, Yaksha aur Rakshas ka hota hai.
+Insaan yahan nahi aane chahiye.
+Door raho!
+Yeh meri van-bhoomi hai!”
+
+🔥 Arjuna ka Nirbhay Uttar
+
+Arjuna shaant par dridh awaaz mein bole:
+
+👉 “Ganga kisi ki private jagah nahi hai.
+Din ho ya raat,
+har koi yahan aa sakta hai.
+Yeh pavitra nadi sabki hai.”
+
+👉 “Jo kamzor hote hain,
+woh dhamki dete hain.
+Hum darr ke liye nahi bane.”
+
+⚔️ Yuddh aur Vijay
+
+Gusse mein aakar
+Angaraparna ne baan chalaye.
+
+Arjuna ne
+apni mashaal aur dhal se
+sab baan rok liye.
+
+Phir Arjuna ne
+agni-astra chhoda.
+
+🔥 Gandharva ka rath jal gaya.
+Angaraparna behosh ho gaya.
+
+Arjuna ne use pakad kar
+apne bhaiyon ke paas laaya.
+
+🙏 Karuna aur Daya
+
+Gandharva ki patni Kumbhinasi
+Yudhishthira ke paas bhaagi
+aur boli:
+
+👉 “Maharaj,
+mere pati ko bacha lijiye.”
+
+Yudhishthira ne Arjuna se kaha:
+
+👉 “Jo har chuka ho,
+aur sharan mein aaya ho,
+use maarna dharm nahi.”
+
+Arjuna ne turant kaha:
+
+👉 “Tum ja sakte ho.
+Tumhe jeevan daan diya jaata hai.”
+
+🎁 Gyaan aur Upahaar
+
+Angaraparna ne sharm aur shraddha se kaha:
+
+👉 “Aaj mera ghamand toot gaya.
+Isliye main tumhe
+Cakshushi Vidya deta hoon.”
+
+👉 “Is vidya se
+tum jo chaho,
+jaise chaho,
+dekh sakte ho.”
+
+Usne Pandavon ko
+divya ghode bhi dene ka vachan diya.
+
+Arjuna ne kaha:
+
+👉 “Mujhe badle mein
+apna agni-astra le lo.
+Hamaari mitrata bani rahe.”
+
+🌙 Raat ka Rahasya
+
+Angaraparna ne sach bataya:
+
+👉 “Raat ke samay
+hum Gandharvon ki shakti badh jaati hai.”
+
+👉 “Lekin tum Brahmacharya mein ho,
+isliye tum mujhse jeet gaye.”
+
+👉 “Jo raja
+Brahmana ke bina hota hai,
+uska raj tikta nahi.”
+
+🌟 Is Kahani ki Seekh
+
+Daya aur karuna
+jeet ke baad sabse badi shakti hoti hai
+
+Gyaan ka daan
+hamesha yuddh se upar hota hai
+
+Dharma, sanyam aur Brahmacharya
+insaan ko mahaan banate hain
+
+Ghamand girta hai,
+vinamrata jeet jaati hai"""
             create_image_text_layout(text_content=text2, layout="full")
 
         # Section 1.11.7
         with st.expander("Section 1.11.7"):
-            text1 = """ """
+            text1 = """ 
+            Section CLXXIII – Tapati aur Raja Samvarana ki Kahani (Hinglish Moral Story)
+❓ Arjuna ka Sawaal
+
+Arjuna ne Gandharva se poocha:
+
+👉 “Aap mujhe baar-baar Tapatya kehte ho.
+Hum to Kunti ke putra hain,
+phir yeh Tapati kaun hai?
+Aur hum uske vanshaj kaise hue?”
+
+Gandharva muskuraya aur bola:
+
+👉 “Arjuna,
+main tumhe ek sundar aur pavitra kahani sunata hoon.
+Dhyaan se sunna.”"""
             create_image_text_layout("attached_assets/chapter1/1.11.7.jpg", text1, layout="side", image_position="left")
-            text2 = """ """
+            text2 = """ 
+            ☀️ Surya Dev ki Putri – Tapati
+
+Swarg mein Surya Dev (Vivasvat) ki ek beti thi,
+jiska naam tha Tapati.
+
+✨ Woh apni behen Savitri se bhi chhoti thi,
+par sundarta aur gunon mein
+teenon lokon mein mashhoor thi.
+
+Aankhen badi aur kaali
+
+Swabhav shant aur pavitra
+
+Tapasya mein leen
+
+Har roop mein sundar
+
+Surya Dev sochte the:
+
+👉 “Is duniya mein
+kaun hai jo meri beti Tapati ke layak ho?”
+
+👑 Raja Samvarana
+
+Us samay dharti par
+ek mahaan raja the — Samvarana.
+
+Dharm ke maarg par chalne wale
+
+Surya Dev ke bhakt
+
+Sundar, veer aur gyaani
+
+Dushmanon ke liye Surya jaise tezz
+
+Mitron ke liye Chandra jaise shant
+
+Surya Dev ne nirnay liya:
+
+👉 “Meri beti Tapati ke liye
+Samvarana se achha pati
+koi nahi ho sakta.”
+
+🌲 Van Mein Achanak Mulakaat
+
+Ek din Raja Samvarana
+shikaar ke liye
+pahadon ke jungle mein gaye.
+
+Safar lamba ho gaya.
+Unka ghoda thak kar gir gaya.
+
+Raja akela jungle mein
+chal rahe the…
+
+Tab unhone dekha —
+
+🌟 Ek apsara si sundar kanya
+akeli khadi thi.
+
+Raja ruk gaye.
+Unki aankhen bhar aayi.
+
+👉 “Yeh to Lakshmi jaisi lagti hai…”
+👉 “Ya Surya ki roshni ka roop?”
+
+Uski chamak aag jaisi thi,
+par chehra chaand sa shant.
+
+Pahad bhi
+uske saamne sone jaise lag rahe the.
+
+💘 Prem aur Vishmay
+
+Raja ka mann
+bilkul bandhan mein bandh gaya.
+
+Unhone kaha:
+
+👉 “Tum kaun ho?
+Kiski ho?
+Yahan akeli kyun ho?”
+
+👉 “Tum kisi dev, yaksha,
+ya insaan jaisi nahi lagti.”
+
+👉 “Tumhe dekh kar
+Kaamdev mujhe jalane lage hain.”
+
+Par…
+
+⚡ Tapati ne kuch nahi kaha.
+Aur bijli ki tarah
+uski aankhon ke saamne se
+gaayab ho gayi.
+
+😢 Virah aur Peeda
+
+Raja Samvarana
+poore jungle mein
+use dhoondhte rahe.
+
+Par Tapati nahi mili.
+
+Raja thak kar ruk gaye,
+mann dukhi ho gaya.
+
+👉 “Shayad maine
+sapna dekha tha…”
+
+Aur woh
+dukh mein doob gaye.
+
+🌼 Is Kahani ki Seekh
+
+Sundarta ke saath sanyam zaroori hai
+
+Bhagya apna samay leta hai
+
+Saccha prem shant hota hai, zabardasti nahi
+
+Dev yojna hamesha dharm ke saath hoti hai"""
             create_image_text_layout(text_content=text2, layout="full")
 
         # Section 1.11.8
         with st.expander("Section 1.11.8"):
-            text1 = """ """
+            text1 = """ 
+            Section CLXXIV – Tapati aur Raja Samvarana (Hinglish Moral Story)
+
+Gandharva ne kahani aage badhaayi:
+
+🌲 Tapati ka wapas aana
+
+Jab woh sundar kanya achanak gaayab hui,
+toh Raja Samvarana
+prem ke dukh mein apna hosh kho baithe.
+
+💔 Kaamdev ke baan unke mann ko jala rahe the.
+Aur wahi raja
+zameen par gir pade.
+
+Tab achanak—
+
+✨ Tapati phir se saamne aayi.
+Chehre par halki si muskaan thi.
+
+Woh boli:
+
+👉 “Utho, O veer raja.
+Aap jaise mahaan purush ko
+apna hosh khona shobha nahi deta.”
+
+Raja ne aankhen kholi.
+Saamne wahi sundar kanya khadi thi."""
             create_image_text_layout("attached_assets/chapter1/1.11.8.jpg", text1, layout="side", image_position="left")
-            text2 = """ """
+            text2 = """ 
+            💘 Raja ka prem-bhara nivedan
+
+Raja ka hriday pighal gaya.
+Awaaz kaanp rahi thi.
+
+👉 “O sundar nayan wali kanya,
+main prem ki aag mein jal raha hoon.”
+
+👉 “Tumhari ek jhalak ne
+mera sab kuch chheen liya.”
+
+👉 “Tumhari aankhen kamal jaisi hain,
+tumhari awaaz madhur hai.”
+
+👉 “Tum bin main jee nahi sakta.”
+
+👉 “Kripya mujh par daya karo.”
+
+👉 “Mera mann bhatak raha hai.”
+👉 “Tumhe dekh kar
+kisi aur ko dekhna hi nahi chahta.”
+
+👉 “Main tumhara daas hoon.”
+👉 “Mujhe apna lo.”
+
+👉 “Is prem ki aag ko
+apne pyaar se shant kar do.”
+
+👉 “Gandharva vivaah sabse uttam mana gaya hai.
+Mujhse vivaah kar lo.”
+
+🌸 Tapati ka dharm aur maryada
+
+Tapati shant thi.
+Uski awaaz komal par dridh thi.
+
+👉 “O raja,
+main apni swatantra nahi hoon.”
+
+👉 “Main apne pita ke adheen hoon.”
+
+👉 “Agar aapka prem sachcha hai,
+toh mere pita se meri maang karo.”
+
+Phir Tapati ne sach kaha:
+
+👉 “Aapne pehli nazar mein
+mera bhi mann jeet liya hai.”
+
+👉 “Par na main apne sharir ki maalik hoon,
+na apne faislon ki.”
+
+👉 “Nari kabhi swatantra nahi hoti.”
+
+👉 “Kaun si stri hogi
+jo aap jaise dharmic aur dayalu raja ko
+apna pati na chahe?”
+
+👉 “Tapasya, pooja aur niyam ke saath
+mere pita se meri maang karo.”
+
+👉 “Agar pita ne anumati di,
+toh main sada aapki patni banungi.”
+
+Phir usne apna parichay diya:
+
+👉 “Mera naam Tapati hai.”
+👉 “Main Savitri ki chhoti behen hoon.”
+👉 “Main Surya Dev ki putri hoon.”
+
+🌼 Is Kahani ki Seekh
+
+Saccha prem dhairya maangta hai
+
+Maryada prem se upar hoti hai
+
+Nari ki ijjat aur dharm ka samman zaroori hai
+
+Jo sahi tareeke se maanga jaaye, wahi tikta hai"""
             create_image_text_layout(text_content=text2, layout="full")
 
         # Section 1.11.9
         with st.expander("Section 1.11.9"):
-            text1 = """ """
+            text1 = """ 
+            Section CLXXV – Tapati ka Vivaah aur Vasishtha ki Mahima (Hinglish Moral Story)
+
+Gandharva ne kahani aage badhaayi 🌿
+
+🌤️ Tapati ka aakash mein lautna
+
+Yeh kehkar Tapati
+aasmaan ki taraf udd gayi.
+
+Raja Samvarana
+phir se dharti par gir pade.
+Prem ne unka hosh chheen liya tha.
+
+Unke mantri aur sainik
+poore jungle mein dhoondhte hue aaye.
+Aakhir unhe raja
+ek akela pahad par pada mila.
+
+👑 Raja ko aise dekhkar
+mukhyamantri ka hriday jal utha.
+
+Woh daud kar aaye.
+Pyaar aur samman se
+raja ko uthaya."""
             create_image_text_layout("attached_assets/chapter1/1.11.9.jpg", text1, layout="side", image_position="left")
-            text2 = """ """
+            text2 = """ 
+            💧 Raja ka hosh mein aana
+
+Mantri ne thande,
+kamal-pankhudiyon se sugandhit jal se
+raja ka sir bhigoya.
+
+Dheere-dheere raja ko hosh aaya.
+
+Raja ne sabko jaane ko kaha.
+Sirf mukhyamantri ko paas rakha.
+
+Phir raja ne
+shuddhi ki.
+Aur pahad par baith kar
+haath jod kar Surya Dev ki pooja ki.
+
+Unhone apne guru
+Rishi Vasishtha ka smaran kiya.
+
+📿 Raja bina ruke
+baarah din aur raat
+tap mein baithe rahe.
+
+🌞 Vasishtha aur Surya Dev ka milan
+
+Barahve din
+Rishi Vasishtha wahan aaye.
+
+Unhone apni tap-shakti se
+jaan liya
+ki raja prem-vedna mein doobe hain.
+
+Rishi ne raja ko aashvasan diya.
+
+Phir wahi Rishi
+aasmaan mein gaye
+aur Surya Dev ke paas pahunche.
+
+🙏 Vasishtha ne kaha:
+“Main Vasishtha hoon.”
+
+Surya Dev ne muskurakar kaha:
+“Jo maango, milega.”
+
+Rishi bole:
+
+👉 “Aapki putri Tapati,
+raja Samvarana ke liye maangta hoon.”
+
+👉 “Woh dharmic hai.
+Mahaan hai.
+Aapki putri ke yogya hai.”
+
+Surya Dev prasann hue.
+
+🌼 “Samvarana shreshth raja hai.
+Tapati shreshth nari hai.
+Aur aap shreshth Rishi ho.”
+
+Isliye Surya Dev ne
+Tapati ko Vasishtha ko saunp diya.
+
+⚡ Vivaah ka mangal pal
+
+Vasishtha Tapati ko lekar
+wapas aaye.
+
+Tapati bijli ki tarah
+aasmaan se utri.
+Das dishaayein chamak uthi.
+
+Raja Samvarana ka
+hriday anand se bhar gaya.
+
+💍 Baaraha din ka vrat poora hua.
+Rishi Vasishtha ne
+Tapati ka vivaah
+Samvarana se karwaya.
+
+Is tarah raja ne
+pooja aur dhairya se
+patni paayi.
+
+🌿 Vasishtha ki Mahima
+
+Arjuna ne poocha:
+“Yeh Vasishtha kaun hain?”
+
+Gandharva bola:
+
+✨ Vasishtha
+Brahma ji ke putra hain.
+Arundhati ke pati hain.
+
+🔥 Kaam aur krodh bhi
+unke charan dabate the.
+
+⚖️ Apne putron ke dukh mein bhi
+unhone maryada nahi todi.
+
+👑 Jin rajaon ke guru Vasishtha the,
+unhone dharti par raj kiya.
+
+🕉️ Isliye,
+jo raja vijay chahta hai,
+use pehle
+ek dharmic Brahmana ko guru banana chahiye.
+
+🌸 Is Kahani ki Seekh
+
+Saccha prem tapasya se milta hai
+
+Guru aur dharm ka sahara sabse bada hota hai
+
+Maryada aur dhairya se hi sukh milta hai
+
+Raja ho ya vyakti, sahi marg guru hi dikhata hai"""
             create_image_text_layout(text_content=text2, layout="full")
 
         # Section 1.11.10
