@@ -26540,65 +26540,1019 @@ aage badhne ka nirnay lete hain 🌼"""
 
         # Section 1.12.1
         with st.expander("Section 1.12.1"):
-            text1 = """ """
+            text1 = """ 
+            Pandavas,
+yaani Yudhishthira, Bhima, Arjuna, Nakula aur Sahadeva,
+apni maa Kunti ke saath
+Panchal ki taraf nikal pade.
+
+Unke mann mein ek hi baat thi —
+Draupadi ka Swayamvara dekhna.
+Utsav, rang, aur naye bhavishya ki umeed 🌸"""
             create_image_text_layout("attached_assets/chapter1/1.12.1.jpg", text1, layout="side", image_position="left")
-            text2 = """ """
+            text2 = """ 
+            🌾 Raaste mein Mulakaat
+
+Raaste mein
+unhone dekha ki
+bahut saare Brahmana
+ek hi disha mein ja rahe hain.
+
+Un Brahmanon ne Pandavas se poocha:
+“Tum log kahan ja rahe ho?
+Aur kahan se aaye ho?”
+
+🧘 Yudhishthira ka Shaant Uttar
+
+Yudhishthira ne vinamrata se kaha:
+“Hum paanch bhai hain,
+ek hi maa ke putra.
+Hum Ekachakra se aa rahe hain.”
+
+🎉 Brahmanon ki Khabar
+
+Brahman bole:
+“Toh phir aaj hi
+Raja Drupada ke rajya Panchal chalo.
+
+Wahan ek bahut bada Swayamvara ho raha hai.
+Bahut dhan kharch hoga.
+Bahut utsav hoga.”
+
+Unhone aage bataya:
+
+Raja Drupada ki beti Draupadi
+
+Jo yajna ki agni se janmi
+
+Aankhen kamal jaisi 🌸
+
+Roop aur buddhi dono mein shreshth
+
+Uske sharir se neele kamal ki khushboo failti hai
+
+Aur uska bhai Dhrishtadyumna,
+jo janm se hi
+talwar, dhanush aur kavach ke saath paida hua tha.
+
+👑 Rajao ka Jamaavda
+
+Brahman bole:
+“Is Swayamvara mein
+door-door se raja aur rajkumar aayenge.
+
+Veer honge
+
+Sundar honge
+
+Dhanush-vidya mein nipun honge
+
+Sab Draupadi ka haath paane ke liye
+dhan, gau aur bhojan daan karenge.”
+
+Wahan
+
+Nachne wale
+
+Gaane wale
+
+Katha sunane wale
+
+Pehelwan
+sab honge.
+
+“Sab kuch dekh kar,
+daan lekar,
+hum sab apne raaste chale jayenge.”
+
+😊 Pandavas ki Prashansa
+
+Brahman muskurate hue bole:
+“Tum paanchon bhi
+devtaon jaise lagte ho.
+
+Ho sakta hai
+Draupadi tum mein se
+kisi ko chun le.”
+
+🌟 Yudhishthira ka Faisla
+
+Yeh sab sun kar
+Yudhishthira ne shaant mann se kaha:
+
+“Hey Brahmano,
+hum bhi aapke saath
+Draupadi ka Swayamvara
+dekhne chalenge.”
+
+🌼 Is Kahani ki Seekh (Moral)
+
+🤝 Saath chalna safar ko aasaan banata hai
+
+🙏 Vinamrata se diya uttar
+hamesha samman laata hai
+
+🌸 Utsav sirf khushi ka nahi,
+bhavishya ka dwar bhi hota hai
+
+✨ Jo apna kartavya bhoolta nahi,
+uske liye bhagya raasta kholta hai
+
+Is tarah,
+Pandavas aur Brahman
+ek saath
+Draupadi ke Swayamvara
+ki ore badhne lage 🌈"""
             create_image_text_layout(text_content=text2, layout="full")
 
         # Section 1.12.2
         with st.expander("Section 1.12.2"):
-            text1 = """ """
+            text1 = """ 
+            Pandavas ne
+Brahmanon ki baat sun kar
+Dakshin Panchal ki yatra shuru ki.
+Yeh rajya Raja Drupada ka tha."""
             create_image_text_layout("attached_assets/chapter1/1.12.2.jpg", text1, layout="side", image_position="left")
-            text2 = """ """
+            text2 = """ 
+            🌿 Raaste ka Pavitra Milap
+
+Raaste mein
+un veer bhaiyon ne
+ek mahaan Rishi ko dekha —
+Ved Vyasa,
+jinhe Dvaipayana bhi kaha jaata hai।
+
+Pandavas ne vinamrata se
+Rishi ko pranam kiya 🙏
+Rishi ne bhi unhe aashirvaad diya
+aur kaha:
+“Jaao, Drupada ke nagar jaao.”
+
+Pandavas dheere-dheere chale,
+sundar jungle aur shant jheelon ke paas rukte hue,
+aur ant mein
+Panchal desh pahunch gaye 🌸
+
+🏺 Kumhar ka Ghar aur Gupth Jeevan
+
+Panchal ki rajdhani pahunch kar
+Pandavas ne
+ek kumhar (potter) ke ghar mein
+rehna shuru kiya.
+
+Unhone apni pehchaan chhupa li,
+Brahman ban kar
+bhiksha se jeevan jeene lage.
+
+Koi bhi
+yeh nahi pehchan paaya
+ki yeh paanch log
+asal mein
+duniya ke mahaan veer hain.
+
+🎯 Drupada ka Mann ka Sapna
+
+Raja Drupada
+hamesha mann hi mann
+ek hi ichchha rakhta tha —
+apni beti Draupadi ka vivaah
+Arjuna se ho 💫
+
+Par unhone yeh baat
+kabhi kisi se nahi kahi.
+
+Isliye unhone
+ek bahut kathin dhanush banwaya —
+aisa dhanush
+jo sirf Arjuna hi utha aur jod sakta tha.
+
+🏹 Kathin Shart
+
+Aakash mein
+ek ghoomne wali yantra lagayi gayi,
+us par ek chhota sa nishaan tha.
+
+Drupada ne ghoshna ki:
+“Jo is dhanush ko jodega,
+aur in teer se
+machine ke chhed ke beech se
+nishaan ko bhed dega,
+wahi meri beti Draupadi se vivaah karega.”
+
+👑 Swayamvara ka Utsav
+
+Yeh sunte hi
+door-door se
+raja, rajkumar, rishi
+sab Panchal aa gaye.
+
+Duryodhana
+aur Karna bhi aaye.
+
+Shehar utsav se bhar gaya 🎉
+rang-birange parde,
+phoolon ki mala,
+chandan ki khushboo
+har taraf fail gayi।
+
+Amphitheatre itna sundar tha
+jaise swarg dharti par aa gaya ho ✨
+
+🌸 Draupadi ka Pravesh
+
+Kai dinon ke baad,
+16ve din,
+jab sab taiyaar ho gaya,
+tab Draupadi ne pravesh kiya 🌺
+
+Sone ke gehne
+
+Sundar vastra
+
+Haath mein phoolon ki mala
+
+Sab log
+use dekh kar
+chup ho gaye.
+
+🔔 Dhrishtadyumna ki Ghoshna
+
+Uske bhai Dhrishtadyumna
+gehri aur garajti awaaz mein bole:
+
+“Yeh hai dhanush,
+yeh hai nishaan,
+aur yeh paanch teer.
+
+Jo veer
+is kathin kaam ko poora karega,
+wahi aaj
+meri behen Draupadi ka pati banega.”
+
+Phir woh
+sab rajao ke naam aur parichay
+Draupadi ko batane lage.
+
+🌼 Is Kahani ki Seekh (Moral)
+
+🌱 Sachchi pehchaan kabhi na kabhi saamne aati hai
+
+🎯 Kathin pariksha hi sachche veer ko pehchanti hai
+
+🙏 Vinamrata aur dhairya
+sabse bade shastra hote hain
+
+🌸 Bhagya unhi ka saath deta hai
+jo chup-chaap apna kartavya nibhate hain
+
+Yahin se
+Draupadi ke jeevan
+aur Pandavas ke bhagya
+ka naya adhyay shuru hota hai ✨"""
             create_image_text_layout(text_content=text2, layout="full")
 
         # Section 1.12.3
         with st.expander("Section 1.12.3"):
-            text1 = """ """
+            text1 = """ 
+            Dhrishtadyumna ne
+apni behen Draupadi ka haath pakad kar
+sabke saamne bolna shuru kiya.
+
+Uski awaaz gehri thi,
+shaant thi,
+aur garv se bhari hui thi."""
             create_image_text_layout("attached_assets/chapter1/1.12.3.jpg", text1, layout="side", image_position="left")
-            text2 = """ """
+            text2 = """ 
+            👑 Kuruvansh ke Veer
+
+“Behen,”
+usne kaha,
+“yeh dekho Kuru vansh ke veer aaye hain:
+
+Duryodhana
+
+Duhshasana
+
+Vikarna
+
+aur unke kai bhai
+
+Sab shaktishaali hain,
+sab yudh mein nipun hain.
+Karna bhi unke saath aaya hai.”
+
+🏹 Door-Desh ke Maharathi
+
+Phir usne aage kaha:
+
+“Gandhar desh ke rajkumar bhi aaye hain.
+Shakuni aur uske bhai bhi yahan maujood hain.”
+
+“Mahaan guru-putra Ashvatthama bhi aaye hain.
+Bhoja jaise veer bhi aaye hain.”
+
+🌍 Poore Bharat ke Raja
+
+Dhrishtadyumna rukta nahi.
+
+“Virata apne beton ke saath yahan hai.
+Shalya Madra desh se aaya hai.
+Somadatta aur uske veer putra bhi aaye hain.”
+
+“Chekitana, Jarasandha, Sisupala,
+aur kai anya raja—
+sab apni shakti dikhane aaye hain.”
+
+🌟 Yadukul ke Mahaan Veer
+
+Phir uski awaaz mein shraddha aa gayi:
+
+“Yadukul ke veer bhi aaye hain—
+
+Balarama
+
+Krishna
+
+Satyaki
+
+Akrura
+
+Uddhava
+
+Yeh sab dharma aur shaurya ke prateek hain.”
+
+🎯 Antim Vachan
+
+Ant mein Dhrishtadyumna ne
+Draupadi ki taraf dekha
+aur kaha:
+
+“Behen,
+yeh sab veer
+is kathin pariksha mein bhaag lenge.
+
+Jo bhi
+is dhanush ko jod kar
+nishaan ko bhed dega,
+wahi tumhara pati hoga.”
+
+🌼 Is Kahani ki Seekh (Moral)
+
+👑 Naam aur vansh se nahi, karm se yogya bante hain
+
+🎯 Pariksha sabke liye ek jaisi hoti hai
+
+🌸 Chunav ka adhikaar uska hota hai
+jiska jeevan uss faisle se juda ho
+
+🙏 Sachcha veer
+shor se nahi,
+kaam se pehchana jaata hai
+
+Aur iss tarah,
+sab rajaōn ki bheed mein,
+bhagya chup-chaap
+apna veer chunne ko tayaar khada tha ✨"""
             create_image_text_layout(text_content=text2, layout="full")
 
         # Section 1.12.4
         with st.expander("Section 1.12.4"):
-            text1 = """ """
+            text1 = """ 
+            Sabhi yuva rajkumar
+kundal pehne,
+seena chaudaa kiye
+ek-dusre se aage nikalne ko tayaar ho gaye.
+
+Har ek ke mann mein ek hi soch thi:
+
+“Krishna meri hogi.”
+
+Unke andar
+apne vansh ka ghamand,
+apni shakti ka nasha,
+apni jawani ka garv
+poori tarah bhara hua tha.
+
+Wo aise lag rahe the
+jaise Himalaya ke madmast haathi—
+aankhon mein garmi,
+dil mein ahankaar."""
             create_image_text_layout("attached_assets/chapter1/1.12.4.jpg", text1, layout="side", image_position="left")
-            text2 = """ """
+            text2 = """ 
+            🌸 Moh aur Jalan
+
+Sab rajaōn ne
+Draupadi ko dekha
+aur apne hi mitron ko
+shanka ki nazar se dekhne lage.
+
+Kaamdev ke baan
+unke dilon ko chhed rahe the.
+
+Swarg se bhi
+Devta aa gaye the—
+Indra, Rudra, Aditya,
+Gandharva, Apsara,
+Narad aur Parvat bhi.
+
+Aasmaan
+phoolon aur sugandh se bhar gaya.
+
+👀 Krishna ki Pehchaan
+
+Yahin par
+Krishna ne Pandavōn ko dekha
+aur Balram se kaha:
+
+“Woh Yudhishthira hai,
+woh Bhima,
+woh Arjuna,
+aur woh Nakul-Sahadev.”
+
+Balram muskuraye,
+jaise sach pehchan liya ho.
+
+Lekin baaki rajaōn ki aankhen
+sirf Draupadi par thi.
+Unhone Pandavōn ko dekha hi nahi.
+
+🏹 Kathin Pariksha
+
+Ek-ek karke
+raja aage aaye.
+
+Karna, Duryodhana, Salya, Sisupala, Jarasandha—
+sabne koshish ki.
+
+Kisi se dhanush hila bhi nahi.
+Kisi ko uthate hi
+zameen chhooni padi.
+
+Paseena baha,
+saans phooli,
+garv toot gaya.
+
+Sabki hope
+dheere-dheere thandi ho gayi.
+
+☀️ Karna ka Aage Badhna
+
+Phir Karna aage badhe.
+
+Unhone dhanush uthaya,
+string chadha di.
+
+Sab Pandav samajh gaye—
+“Ab nishana toot gaya.”
+
+Tabhi Draupadi ki awaaz ghoonj uthi:
+
+👉 “Main Suta ko apna pati nahi chunoongi.”
+
+Karna hansa,
+thoda dukh bhi hua,
+aur dhanush chhod diya.
+
+🪨 Ghamand ka Ant
+
+Sisupala aaya—
+ghutnōn ke bal gir gaya.
+
+Jarasandha aaya—
+chattan jaisa khada raha,
+phir gir gaya.
+
+Salya aaya—
+woh bhi gir pada.
+
+Ek-ek karke
+sab maharathi haar gaye.
+
+Sabha mein khamoshi chha gayi.
+
+🌟 Ant Mein Utha Asli Veer
+
+Jab sab rajaōn ka ghamand
+mitti mein mil gaya,
+jab sab thak chuke the—
+
+tab
+ek shaant sa Brahman utha.
+
+Wahi tha
+Arjuna
+—Jishnu,
+Kunti ka putra.
+
+Usne dhanush ki taraf kadam badhaye…
+
+aur kahani
+yahin se badalne wali thi ✨
+
+🌼 Is Kahani ki Seekh (Moral)
+
+👑 Ghamand se shakti kamzor ho jaati hai
+
+🏹 Sirf bal nahi, dhairya aur sadhana chahiye
+
+🌸 Chunav roop ya vansh ka nahi, yogya hone ka hota hai
+
+🔥 Asli veer shor nahi karta, kaam karta hai
+
+Kabhi-kabhi,
+sabse shaant vyakti hi
+sabse bada kaam karta hai 🌿"""
             create_image_text_layout(text_content=text2, layout="full")
 
         # Section 1.12.5
         with st.expander("Section 1.12.5"):
-            text1 = """ """
+            text1 = """ 
+            Jab sab raja log us kathin bow ko bend karne ki koshish karke haar gaye,
+toh sab chup ho gaye.
+
+Tab Arjuna (Jishnu), jo Brahmanon ke beech baitha tha,
+shaant steps se aage badha.
+
+Kuch Brahmana darr gaye 😟
+aur bole,
+“Yeh toh ek young Brahmana hai.
+Jo kaam itne bade-bade warriors nahi kar paaye,
+yeh kaise karega?”"""
             create_image_text_layout("attached_assets/chapter1/1.12.5.jpg", text1, layout="side", image_position="left")
-            text2 = """ """
+            text2 = """ 
+            Par kuch wise Brahmanas muskuraye 😊
+aur bole,
+“Is ladke ki body strong hai.
+Iska walk lion jaisa hai.
+Iske eyes mein confidence hai.
+Bina power ke koi itna aage nahi badhta.”
+
+Unhone yaad dilaya,
+“Brahman ki power sirf muscles mein nahi hoti,
+tapasya aur willpower mein hoti hai.
+Rishi Parshuram aur Agastya jaise examples humne dekhe hain.”
+
+Sabne decide kiya,
+“Let him try.”
+
+Arjuna calmly bow ke paas gaya.
+Usne Shiva ko pranam kiya,
+aur Krishna ko yaad kiya 🙏.
+
+Phir jo bow
+Salya, Duryodhana, Karna jaise warriors
+poori taqat laga ke bhi nahi utha paaye the…
+
+Arjuna ne use
+ek hi pal mein string kar diya ✨
+
+Sabki aankhen khul gayi 😲
+
+Usne paanch arrows liye,
+aur perfect focus ke saath
+nishana lagaya.
+
+🎯 Mark seedha gir gaya!
+
+Achanak
+poora sky shor se bhar gaya 🌸
+Devtas ne flowers barsaaye,
+music bajne laga,
+Brahmanas khushi se cheer karne lage.
+
+Jo raja haar gaye the,
+woh udaas aur shocked ho gaye.
+
+Drupada khushi se bhar gaya 💖
+aur socha,
+“Yahi meri beti ke layak hai.”
+
+Krishna muskuraye 😊
+aur Arjuna ko
+white cloth aur flower garland diya.
+
+Brahmanas ne Arjuna ko blessings di.
+Aur Draupadi,
+sharmili muskaan ke saath,
+Arjuna ke saath chali gayi 🌼
+
+🌟 Moral of the Story
+
+True strength sirf body se nahi, inner focus aur faith se aati hai
+
+Jo log shaant rehte hain, wahi bada kaam kar paate hain
+
+Bhagwan par bharosa aur mehnat kabhi fail nahi hoti"""
             create_image_text_layout(text_content=text2, layout="full")
 
         # Section 1.12.6
         with st.expander("Section 1.12.6"):
-            text1 = """ """
+            text1 = """ 
+            Jab Drupada ne yeh kaha ki
+jis Brahmana ne nishana lagaya hai, wahi meri beti ka pati hoga,
+toh sab raja log gusse se bhadak uthe 😠.
+
+Unhone aapas mein kaha:
+“Hum jaise bade-bade Kshatriya yahan baithe hain
+aur Drupada ek Brahmana ko chun raha hai?
+Yeh toh hum sab ka apmaan hai!
+Swayamvara Kshatriyon ke liye hota hai!”
+
+Gussa itna badh gaya ki kuch raja bole:
+“Is Drupada ko aur iske bete ko maar do!”
+Kuch ne toh itna bhi keh diya:
+“Agar kanya kisi ko nahi chunti,
+toh use agni mein daal do aur chale jao!”
+
+⚡ Ghamand aur ahankaar andha kar deta hai."""
             create_image_text_layout("attached_assets/chapter1/1.12.6.jpg", text1, layout="side", image_position="left")
-            text2 = """ """
+            text2 = """ 
+            🛡️ Bhima–Arjuna ka Raksha Stand
+
+Jab raja log hathiyaar utha kar Drupada par toot pade,
+toh Drupada dar ke maare Brahmanon ki sharan gaya.
+
+Tab aage badhe do veer 🔥
+Bhima aur Arjuna.
+
+Bhima ne bijli jaise bal se
+poora ka poora ped ukhaad liya 🌳💥
+aur use apni gada ki tarah pakad liya.
+Woh Yama jaise bhayanak lag raha tha.
+
+Arjuna shaant khada tha,
+par uske haath mein dhanush tha 🎯
+aur aankhon mein nidar dridh nishchay.
+
+Raja log ruk gaye.
+Unhone samajh liya —
+yeh koi sadharan Brahmana nahi hain.
+
+👀 Krishna aur Balarama ka Pehchaan Pal
+
+Door se yeh sab dekh rahe the
+Krishna aur Balarama.
+
+Krishna muskuraye 😊 aur bole:
+“Jo sher ki chaal se chal raha hai,
+jo dhanush ko aasani se kheench raha hai —
+woh Arjuna hai.”
+
+“Aur jo ped ukhaad ke khada hai,
+woh sirf Bhima ho sakta hai.”
+
+Phir Krishna ne dheere se kaha:
+“Jo shaant, vinamra, aur netron mein dharm liye
+thodi der pehle yahan se gaya —
+woh Yudhishthira hai.”
+
+Balarama khush ho gaye 🌸
+aur bole:
+“Achha hua!
+Pritha (Kunti) aur Pandu ke putra
+lakshagriha ke agni se bach gaye.”
+
+🌼 Is Section ka Sandesh (Moral)
+
+Ahankaar buddhi chheen leta hai
+
+Asli veerta shor mein nahi, sanyam mein hoti hai
+
+Dharma aur shakti jab saath ho,
+toh anyay apne aap ruk jaata hai
+
+Jo sach mein mahaan hota hai,
+pehle pehchaana nahi jaata — par jab pehchaana jaata hai, toh sab jhuk jaate hain"""
             create_image_text_layout(text_content=text2, layout="full")
 
         # Section 1.12.7
         with st.expander("Section 1.12.7"):
-            text1 = """ """
+            text1 = """ 
+            Jaise hi raja log gusse mein ladne ko aaye,
+Brahmana log bole,
+“Dar mat! Hum bhi yudh karenge!”
+
+Par Arjuna muskuraye 😊
+aur shant awaaz mein bole,
+“Tum sirf dekho.
+Yeh kaam hum sambhaal lenge.”"""
             create_image_text_layout("attached_assets/chapter1/1.12.7.jpg", text1, layout="side", image_position="left")
-            text2 = """ """
+            text2 = """ 
+            🏹 Arjuna–Bhima ka Veer Roop
+
+Arjuna ne apna dhanush uthaya,
+aur Bhima uske saath
+pahad jaise atal khade ho gaye ⛰️.
+
+Samne the gusse se bhare raja,
+aur sabse aage tha Karna.
+
+Karna seedha Arjuna par toot pada.
+Arjuna ne bhi turant teer chala diye 🎯.
+
+Dono itni tez lad rahe the
+ki log unhe dekh bhi nahi pa rahe the.
+Bas teeron ki awaaz sunai de rahi thi ⚡.
+
+Karna hairaan ho gaya.
+Usne kaha,
+“Tum kaun ho?
+Indra? Vishnu?
+Ya khud Arjuna?”
+
+Arjuna shant raha aur bola,
+“Main sirf ek Brahmana hoon.
+Par main tumhe yahan rokne aaya hoon.”
+
+Yeh sunkar Karna ruk gaya.
+Woh jaanta tha —
+Brahma-shakti ke aage bal kaam nahi karta.
+
+🤼 Bhima vs Salya
+
+Dusri taraf Bhima aur Salya
+do hathi jaise lad rahe the 🐘🐘.
+
+Mukko se, ghutno se,
+zamin par patak kar —
+yudh bhayanak tha 😮.
+
+Achanak Bhima ne Salya ko uthaya
+aur door phek diya 💥.
+
+Sab dang reh gaye.
+Par Bhima ne use zyada chot nahi pahunchai.
+Yeh veerta ke saath karuna thi ❤️.
+
+🌼 Buddhi Jeet Gayi, Yudh Ruk Gaya
+
+Raja log bole,
+“Yeh Brahmana sadharan nahi hain.
+Yeh toh Pandav lagte hain!”
+
+Tab Krishna aage aaye
+aur shant swar mein bole,
+“Draupadi ko nyay se jeeta gaya hai.”
+
+Yeh sunkar sab raja ruk gaye.
+Yudh band ho gaya ✋.
+Sab apne-apne rajya laut gaye.
+
+🌙 Maa Kunti ka Maa-sa Pyaar
+
+Udhar Kunti
+potter ke ghar intezaar kar rahi thi 😟.
+
+Soch rahi thi:
+“Kahin mere bete maare toh nahi gaye?
+Kahin koi chal toh nahi ho gayi?”
+
+Dil maa ka tha,
+darr bhi maa ka tha 💔.
+
+Tab shaam ke sannate mein
+Arjuna aur Bhima wapas aaye.
+Aise lag raha tha jaise
+badalon ke beech se suraj aur chaand nikal aaye ho 🌤️🌕.
+
+🌟 Is Section ka Moral
+
+Asli shakti sirf bal nahi, sanyam hoti hai
+
+Veer woh hai jo maar kar nahi, rok kar jeete
+
+Ghamand yudh karwata hai, buddhi use rok deti hai
+
+Maa ka pyaar bina bole bhi sab mehsoos kar leta hai ❤️"""
             create_image_text_layout(text_content=text2, layout="full")
 
         # Section 1.12.8
         with st.expander("Section 1.12.8"):
-            text1 = """ """
+            text1 = """ 
+            Yeh section Mahabharata ke sabse gehre, sabse delicate palon me se ek hai —
+jahaan maa ka ek vaakya, bhaiyon ka sanyam, aur dharma ka rahasya saamne aata hai 🌸
+
+🌼 “Maa ka Vachan” – anjaane mein diya gaya aadesh
+
+Jab Pandavas potter ke ghar lautte hain,
+woh Draupadi ko apni maa ke saamne le jaakar kehte hain:
+
+“Aaj hum jo bhiksha laaye hain, yahi hai.”
+
+Us waqt Kunti andhar kamre mein hoti hain,
+betaon ko dekhe bina keh deti hain:
+
+“Tum sab milkar bhog lo.”"""
             create_image_text_layout("attached_assets/chapter1/1.12.8.jpg", text1, layout="side", image_position="left")
-            text2 = """ """
+            text2 = """ 
+            Jaise hi Kunti bahar aati hain aur Draupadi ko dekhti hain,
+unka hriday kaanp jaata hai 💔
+
+“Hey Ram! Yeh maine kya keh diya?”
+
+Yeh maa ka vachan tha —
+aur Mahabharata mein maa ka vachan dharma se upar hota hai.
+
+⚖️ Yudhishthira ka dharma-sankat
+
+Kunti ghabra kar Yudhishthira se kehti hain:
+
+Mera vachan jhootha na ho
+
+Draupadi par paap na aaye
+
+Sab kuch dharma ke anukul ho
+
+Yudhishthira shant ho kar sochte hain 🤔
+aur pehle kehte hain ki Arjuna hi vivaah kare.
+
+🏹 Arjuna ka mahān sanyam
+
+Par Arjuna turant mana kar dete hain:
+
+“Yeh adharma hoga.
+Pehle aap vivaah karein,
+phir Bhima, phir main,
+phir Nakul aur Sahadev.”
+
+Yeh hai Arjuna ka charitra —
+jeetne ke baad bhi lobh nahi, sirf maryada 🙏
+
+💔➡️❤️ Draupadi aur paanch bhai — ek ankahee sachchai
+
+Sab bhai Draupadi ko dekhte hain.
+Aur Draupadi bhi un sabko.
+
+Kisi ne kuch kaha nahi…
+par Kaamdev ne sabke hriday ko sparsh kar liya.
+
+Yudhishthira yeh sab samajh jaate hain.
+Aur unhe yaad aata hai Vyasa ka purana vachan.
+
+Tab woh kehte hain:
+
+“Draupadi hum paanchon ki patni hogi.”
+
+Yeh faisla:
+
+lobh se nahi
+
+kaam se nahi
+
+balki bhaiyon ke ekta-rakshan ke liye tha 🌿
+
+🌸 Krishna ka aana — satya ki pehchaan
+
+Tab Krishna aur Balarama potter ke ghar aate hain.
+
+Krishna Yudhishthira ke charan chhoote hain 🙏
+aur kehte hain:
+
+“Aag chahe dhaki ho,
+par pehchaani jaati hai.
+Aisi veerta sirf Pandav hi dikha sakte hain.”
+
+Krishna unhe chetavani dete hain:
+
+“Abhi bhi gupt raho.
+Samay aane par sab prakat hoga.”
+
+Aur phir chupchaap chale jaate hain 🌙
+
+🌟 Is Section ka Gehra Moral
+
+Maa ka vachan kabhi vyarth nahi jaata
+
+Dharma kabhi seedha nahi hota, par toot-ta bhi nahi
+
+Bhaiyon ki ekta, vyaktigat ichchha se upar hoti hai
+
+Krishna hamesha tab aate hain jab dharma ko sahara chahiye"""
             create_image_text_layout(text_content=text2, layout="full")
 
         # Section 1.12.9
         with st.expander("Section 1.12.9"):
-            text1 = """ """
+            text1 = """ 
+            Yeh section bahut shaant, bahut pavitra, aur saath hi future ke maha-visphot ka beej hai 🌱
+Yahan Rajkumari se grihini, veeron se tapasvi, aur rahasya se satya ki yatra hoti hai.
+
+🕵️‍♂️ Dhrishtadyumna ka gupt anveshan
+
+Jab Bhima aur Arjuna potter ke ghar ja rahe hote hain,
+tab Dhrishtadyumna unka peecha karta hai.
+
+Apne saare sainikon ko wapas bhej deta hai
+
+Chupke se potter ke ghar mein chhup jaata hai
+
+Pandav use pehchaan nahi paate
+
+👉 Yeh uska rajneetik buddhi + bhai ka kartavya dono hai."""
             create_image_text_layout("attached_assets/chapter1/1.12.9.jpg", text1, layout="side", image_position="left")
-            text2 = """ """
+            text2 = """ 
+            🍚 Draupadi ka pehla grihasthi dharma
+
+Shaam ko sab bhiksha laate hain aur Yudhishthira ko dete hain.
+
+Tab Kunti Draupadi ko siksha deti hain —
+yeh sasural ka pehla paath hai:
+
+Devtaon ke liye arpan
+
+Brahmanon ko daan
+
+Atithiyon ko bhojan
+
+Bhima ko zyada (kyonki ve bahut khaate hain 😄)
+
+Baaki ko barabar
+
+Ek hissa apna
+
+Ek hissa Draupadi ka
+
+👉 Yahan Draupadi raani nahi,
+balki dharma-patni aur grihalakshmi ban jaati hain 🌼
+
+Aur woh bina kisi sankoch ke sab karti hain.
+
+🌙 Kusha grass par rajkumaron ki raat
+
+Sahadeva kusa grass bichhata hai
+
+Sab apni deer-skin bichha kar so jaate hain
+
+Pandav sir dakshin ki taraf rakhte hain
+
+Kunti unke sir ki line mein
+
+Draupadi unke pairon ki line mein
+
+⚠️ Bahut mahatvapurn baat:
+
+Draupadi, paanch veeron ke saath,
+us avastha mein bhi mann mein koi ashuddhi ya lajja mehsoos nahi karti.
+
+Yeh batata hai:
+
+unka man pavitra hai
+
+sambandh ka adhaar dharma hai, kaam nahi
+
+🗣️ Veeron ki raat ki baatein
+
+Pandav aapas mein baat karte hain:
+
+rath
+
+astr–shastr
+
+yuddh
+
+devlok
+
+bhavishya ke sangram
+
+Aur Dhrishtadyumna sab sunta hai 😮
+Tab usse poora vishvaas ho jaata hai:
+
+“Yeh koi sadharan Brahman nahi…
+yeh rajkumaar aur maha-yoddha hain.”
+
+🌅 Subah ka satya aur Drupada ka dard
+
+Subah hote hi Dhrishtadyumna Drupada ke paas jaata hai.
+
+Drupada ka hriday bhara hua hai 😔
+woh ghabra kar puchte hain:
+
+Kahin koi Shudra ya Vaisya to nahi?
+
+Kahin kisi ne meri beti ka apmaan to nahi?
+
+Kahin yeh swayamvara vyarth to nahi gaya?
+
+Aur phir woh baat kehte hain jo unka asli sapna tha:
+
+“Agar meri beti Partha (Arjuna) ko mili ho,
+to main shok nahi, anand manaunga.”
+
+Aur woh seedha prashn karte hain:
+
+“Kya Partha jeevit hai?
+Kya wahi tha jisne dhanush uthaya?”
+
+Yahin se satya ke prakat hone ka marg shuru hota hai 🌄
+
+🌟 Is Section ka Gehra Moral
+
+Rajkumari bhi pehle dharma seekhti hai
+
+Veerta shor se nahi, sanyam se pehchaani jaati hai
+
+Pavitrata sharir se nahi, mann se hoti hai
+
+Jo chupchaap dharma nibhaate hain, unka satya swayam bolta hai"""
             create_image_text_layout(text_content=text2, layout="full")
 
     # Chapter 1.13
