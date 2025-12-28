@@ -28424,72 +28424,940 @@ Pandavon ko bhavishya ke sangharsh ke liye taiyaar karna"""
 
         # Section 1.14.1
         with st.expander("Section 1.14.1"):
-            text1 = """ """
+            text1 = """ 
+            Vaisampayana kehte hain—
+
+Jaise hi Draupadi ke swayamvar ki khabar phaili,
+sab rajaon ke guptcharon ne unhe sach bata diya.
+
+👉 Draupadi ki shaadi Pandavon se hui hai.
+👉 Jo dhanush todkar nishana laga gaya tha,
+woh aur koi nahi balki Arjuna tha.
+
+Aur jo yoddha
+
+Raja Shalya ko zameen par patak deta hai
+
+Ped ukhaad kar sabko dara deta hai
+
+Aur jo sirf sparsh se shatru ko maar sakta hai
+
+woh tha Bhima 💪."""
             create_image_text_layout("attached_assets/chapter1/1.14.1.jpg", text1, layout="side", image_position="left")
-            text2 = """ """
+            text2 = """ 
+            😲 Sab Raja Hairaan
+
+Sab raja ye sun kar chaunk gaye.
+
+Unhe yaad aaya—
+
+“Toh kya Pandav mare nahi the?”
+
+Unhone toh suna tha ki
+Lakshagriha mein
+Kunti aur Pandav jal kar mar gaye.
+
+Ab lag raha tha jaise
+Pandav mrityu se laut aaye ho.
+
+Sab bol uthe:
+
+“Dhikkar hai Bhishma par!”
+“Dhikkar hai Dhritarashtra par!”
+
+😞 Duryodhana ka Dukh
+
+Jab swayamvar khatam hua,
+sab raja apne-apne rajya chale gaye.
+
+Udhar Duryodhana ka chehra murjha gaya 😔.
+Use pata chala—
+Draupadi ne Arjuna ko chuna hai.
+
+Bhaiyon,
+Karna, Shakuni, Kripa aur Ashwatthama ke saath
+woh udaas mann se Hastinapur lauta.
+
+Tab Duhshasana ne dheere se kaha:
+
+“Bhaiya,
+agar Arjuna Brahman ka vesh na dharta,
+toh woh kabhi jeet hi nahi paata.
+Bhagya sabse bada hai.
+Hamari koshish bekaar gayi.
+Pandav abhi bhi zinda hain…”
+
+Sab Purochana ko dosh dete hue,
+sharm aur gham ke saath nagar mein pravesh kar gaye.
+
+Pandav zinda,
+Drupad jaise mitra,
+Dhrishtadyumna aur Shikhandi jaise yoddha—
+yeh soch kar Kaurav dar gaye.
+
+😊 Vidur ka Anand
+
+Udhar Vidura ko jaise hi khabar mili,
+unka mann khushi se bhar gaya.
+
+Woh Dhritarashtra ke paas gaye aur bole:
+
+“Maharaj,
+Kuru vansh bhagya se phool raha hai!”
+
+Dhritarashtra khush ho gaye 😄 aur bole:
+
+“Kya shubh samachar hai, Vidur? Batao!”
+
+Andhe raja ne galat samajh liya
+ki shayad Draupadi ne Duryodhana ko chuna hai.
+
+Unhone turant aadesh diya—
+
+Draupadi ke liye gehne banao
+
+Use Duryodhana ke saath
+shaan se Hastinapur lao
+
+🧠 Sach ka Saamna
+
+Tab Vidur ne sach bata diya:
+
+“Maharaj,
+Draupadi ne Pandavon ko chuna hai.
+Woh sab zinda hain.
+Drupad ne unka samman se swagat kiya hai.
+Aur unke paas ab
+bahut saare shaktishaali mitra hain.”
+
+🤔 Dhritarashtra ka Vichar
+
+Yeh sun kar Dhritarashtra bole:
+
+“Vidur,
+Pandav mujhe Pandu ke putron jaise hi priya hain.
+Balki ab toh aur bhi zyada.
+Woh surakshit hain,
+mitra bana chuke hain.
+Drupad jaisa saathi
+kaun nahi chahega?”
+
+Vidur ne kaha:
+
+“Maharaj,
+aapki yeh buddhi
+sau varsh tak sthir rahe 🙏.”
+
+Aur woh wapas chale gaye.
+
+😠 Andar ki Saazish
+
+Vidur ke jaane ke baad,
+Duryodhana aur Karna aaye.
+
+Unhone kaha:
+
+“Pitashri,
+Vidur ke saamne hum kuch bol nahi sakte the.
+Par aapne Pandavon ki tareef kyun ki?
+Woh hamare shatru hain!”
+
+“Ab humein roz aisa karna hoga
+jisse Pandav kamzor padein.
+Nahi toh woh
+humein, hamare parivaar ko
+sabko nigal jayenge!”
+
+🌿 Is Katha ki Seekh
+
+Sach chahe jitna daba do,
+woh ek din saamne aata hi hai.
+Pandav zinda the,
+aur dharma dheere-dheere
+apni jagah bana raha tha 🌱."""
             create_image_text_layout(text_content=text2, layout="full")
 
         # Section 1.14.2
         with st.expander("Section 1.14.2"):
-            text1 = """ """
+            text1 = """ 
+            Vaisampayana kehte hain—
+
+Dhritarashtra ne dheere se kaha:
+
+“Beta,
+main wahi karna chahta hoon
+jo tum log salah do.
+Par main Vidur ko
+apne mann ka bhed
+ek bhi ishare se nahi batana chahta tha.
+
+Isliye maine uske saamne
+Pandavon ki tareef ki.
+Ab Vidur ja chuka hai.
+Ab batao—
+tumne kya socha hai,
+aur tum bhi bolo,
+Karna.”"""
             create_image_text_layout("attached_assets/chapter1/1.14.2.jpg", text1, layout="side", image_position="left")
-            text2 = """ """
+            text2 = """ 
+            😈 Duryodhana ki Soch
+
+Tab Duryodhana bola.
+Uski awaaz mein jalan thi.
+Aur soch mein sirf chal thi.
+
+“Pitashri,
+hum kai tareeke apna sakte hain.
+
+👉 Kuch chalaak Brahman bhej kar
+Kunti aur Madri ke beton mein
+jhagda paida kar dein.
+
+👉 Drupad, uske beton
+aur mantriyon ko
+bahut saara dhan dekar
+Yudhishthira se tod dein.
+
+👉 Guptchar Pandavon ko samjha dein
+ki Hastinapur mein rehna mushkil hai,
+aur Pancala mein bas jao—
+taaki woh humse door ho jaayen.
+
+👉 Kuch spies
+Pandavon ke mann mein
+ek-doosre ke liye jalan bhar dein.
+
+👉 Kisi tarah
+Draupadi ko
+apne patiyon ke khilaaf bhadka dein.
+Uske kai pati hain,
+yeh kaam mushkil nahi hoga.
+
+👉 Ya Pandavon ko hi
+Draupadi se naraaz kar dein.
+Phir Draupadi bhi
+unse khush nahi rahegi.
+
+⚔️ Bhima – Sabse Bada Dar
+
+Duryodhana ki aankhen aur tez ho gayin.
+
+“Pitashri,
+sabse zaroori baat suno.
+
+👉 Chupke se
+Bhima ko marwa do.
+
+Bhima hi sabse taqatwar hai.
+Pandav sirf uske bharose
+humein nazarandaz karte the.
+
+Agar Bhima mar gaya,
+toh baaki sab kamzor ho jaayenge.
+Phir woh kabhi
+rajya wapas lene ki
+himmat nahi karenge.
+
+👉 Bhima ke bina
+Arjuna bhi
+Radheya ke chauthe hisse ke barabar nahi.
+
+🕸️ Aur Bhi Chal
+
+Duryodhana rukta nahi.
+
+“Ya phir agar Pandav yahan aayein
+aur hamari baat maan lein,
+toh hum neeti-shastra ke hisaab se
+unhe dheere-dheere dabaa denge.
+
+👉 Sundar ladkiyon se unhe lubha dein,
+taaki Draupadi gussa ho jaaye.
+
+👉 Ya phir unhe yahin bulwa lo,
+aur mauka dekh kar
+chupke se marwa do.
+
+Pitashri,
+inmein se jo tareeka
+aapko sahi lage,
+use apna lijiye.
+
+⏳ Samay kam hai.
+Jab tak Pandavon ka bharosa
+Drupad par pakka na ho,
+tab tak hum jeet sakte hain.
+Uske baad—
+haar pakki hai.”
+
+🤨 Ant mein
+
+Duryodhana ne poocha:
+
+“Ab aap batao,
+Karna,
+tum kya sochte ho?”
+
+🌱 Is Katha ki Seekh
+
+Jab mann mein irshya hoti hai,
+toh buddhi bhi andhi ho jaati hai.
+Saazish par saazish rachi ja rahi thi,
+par dharma chupchaap
+apna raasta bana raha tha."""
             create_image_text_layout(text_content=text2, layout="full")
 
         # Section 1.14.3
         with st.expander("Section 1.14.3"):
-            text1 = """ """
+            text1 = """ 
+            Vaisampayana kehte hain—
+
+Jab Duryodhana ne apni saari chaalein rakh diं,
+toh Karna ne shant par kathor swar mein kaha:
+
+🧠 Karna ka mool tark
+
+“Duryodhana,
+mujhe tumhari chaalein
+majboot nahi lagti.
+
+Pandavon ke khilaaf
+koi gupt yojna kaam nahi karegi.”
+
+🔎 Karna ka pehla point
+
+Jab Pandav bachche the,
+tab bhi tum unka kuch bigaad nahi paaye.
+
+Ab woh yuvak, shaktishaali, door reh rahe hain.
+
+Ab saazish se unhe chot pahunchana asambhav hai.
+
+“Jo pehle paas rehkar nahi haare,
+woh ab door rehkar kaise haarenge?”"""
             create_image_text_layout("attached_assets/chapter1/1.14.3.jpg", text1, layout="side", image_position="left")
-            text2 = """ """
+            text2 = """ 🤝 Pandav kabhi toot nahi sakte
+
+Karna ne ek bahut gehra point kaha:
+
+“Unmein phoot daalna asambhav hai.
+Woh ek hi patni se bandhe hue hain.”
+
+Draupadi ne Pandavon ko
+vipatti mein chuna.
+
+Ab samriddhi mein
+woh unhe kabhi nahi chhodegi.
+
+“Jo dukh mein saath de,
+woh sukh mein aur bhi majboot hota hai.”
+
+👑 Drupada ko kharida nahi ja sakta
+
+Drupada:
+
+Imaandaar
+
+Dharmic
+
+Laalach-rahit
+
+“Tum apna poora rajya bhi de do,
+woh Pandavon ko nahi chhodega.”
+
+Dhrishtadyumna bhi Pandav-paksh mein dridh hai.
+
+⚔️ Karna ka ekmatra upaay – YUDDH
+
+Phir Karna ne bina ghoom-phir ke kaha:
+
+“Ab sirf ek raasta bacha hai—
+shakti se yuddh.”
+
+🗡️ Kab yuddh karo?
+
+Jab tak:
+
+Drupada ki sena poori tarah tayaar na ho
+
+Saare mitra aur rajya ekjut na ho
+
+Krishna
+Yadava sena ke saath na aa jaaye
+
+“Aaj nahi toh kabhi nahi.”
+
+🏹 Kshatriya dharma ka saar
+
+Karna ke shabd kathor the, par siddhant spasht:
+
+“Kshatriyon ke liye
+parakram hi sabse bada gun hai.”
+
+Bharata ne parakram se prithvi jeeti
+
+Indra ne parakram se teen lok
+
+“Na daan, na bhed, na chaal—
+sirf parakram.”
+
+🏛️ Dhritarashtra ka pratikriya
+
+Dhritarashtra ne Karna ki baat sun kar kaha:
+
+“Tum buddhimaan ho,
+shastra-vidya mein nipun ho.
+Tumhari baat
+tumhare swabhav ke anukul hai.”
+
+Lekin usne antim nirnay rok diya:
+
+“Bhishma, Drona, Vidura,
+tum dono—
+sab milkar salah karo.
+Jo rajya ke hit mein ho,
+wahi apnaayenge.”
+
+🌱 Is Adhyay ki Gehra Seekh
+
+Duryodhana = chaal aur irshya
+
+Karna = shakti aur seedha raasta
+
+Pandav = ekta + bhagya + dharma
+
+Jab dharma ke saath shakti ho,
+toh saazish apne aap haar jaati hai."""
             create_image_text_layout(text_content=text2, layout="full")
 
         # Section 1.14.4
         with st.expander("Section 1.14.4"):
-            text1 = """ """
+            text1 = """ 
+            Vaisampayana kehte hain—
+
+Jab Dhritarashtra ne salah maangi,
+toh Bhishma ne gambhir aur shaant swar mein kaha:
+
+🧓 Bhishma ka dil kya kehta hai
+
+“Dhritarashtra,
+Pandavon se jhagda
+main kabhi sahi nahi maanta.”
+
+Jaise Pandu mere liye the,
+waise hi Pandav bhi hain.
+
+Jaise Gandhari ke putra mere apne hain,
+waise hi Kunti ke putra bhi.
+
+“Main dono ko barabar rakhta hoon.
+Mera farz hai dono ki raksha.”"""
             create_image_text_layout("attached_assets/chapter1/1.14.4.jpg", text1, layout="side", image_position="left")
-            text2 = """ """
+            text2 = """ 
+            🏞️ Rajya ka sach
+
+Bhishma ne bina ghoom-phir ke kaha:
+
+“Pandavon ka bhi is rajya par
+utna hi haq hai
+jitna Duryodhana ka.”
+
+Ye unke pita ka rajya tha.
+
+Agar Pandavon ko haq nahi mile,
+toh phir kisi ko bhi nahi milna chahiye.
+
+“Shaanti se rajya baant do.
+Aadha tumhara, aadha unka.”
+
+⚖️ Ye raasta sabke liye achha hai
+
+Bhishma bole:
+
+“Aisa karoge toh
+sabka bhala hoga.”
+
+Par agar ulta kiya—
+
+Apmaan milega
+
+Vinash aayega
+
+Naam badnaam hoga
+
+🌟 Naam hi asli shakti hai
+
+Bhishma ne ek gehri baat kahi:
+
+“Insaan tab tak zinda hota hai
+jab tak uska naam zinda hota hai.”
+
+Jiska naam chala gaya,
+woh jeete-jee bhi mar jata hai.
+
+“Apni izzat sambhalo, Duryodhana.”
+
+🧬 Kuru vansh ki reet
+
+“Apne purkhon ka anukaran karo.
+Dharma se hi rajya tikta hai.”
+
+Bhishma ne yaad dilaya:
+
+Achha hua Pandav zinda hain
+
+Achha hua Kunti zinda hain
+
+Achha hua Purocana apni chaal mein khud hi mara
+
+“Us aag ke baad
+main kisi ka saamna nahi kar pa raha tha.”
+
+🔥 Log kisko doshi maante hain?
+
+Bhishma ne kadwa sach bola:
+
+“Duniya aaj bhi
+Purocana se zyada
+tumhe doshi maanti hai.”
+
+Pandavon ka bach jana
+tumhari badnaami ko kam karta hai.
+
+🛡️ Antim chetavni
+
+“Jab tak Pandav zinda hain,
+Indra bhi unka haq
+cheen nahi sakta.”
+
+Woh dharmic hain
+
+Ekjut hain
+
+Unke saath anyay ho raha hai
+
+🌼 Bhishma ka antim nivedan
+
+“Agar tum sabka bhala chahte ho,
+agar meri baat maante ho,
+toh Pandavon ko aadha rajya de do.”
+
+✨ Is bhaag ki seekh
+
+Dharma = Shaanti
+
+Lobh = Vinash
+
+Izzat = Asli jeevan"""
             create_image_text_layout(text_content=text2, layout="full")
 
         # Section 1.14.5
         with st.expander("Section 1.14.5"):
-            text1 = """ """
+            text1 = """ 
+            Vaisampayana kehte hain—
+Bhishma ke bol chukne ke baad, Drona ne apni baat rakhi—aur woh bilkul dharma aur rajneeti dono ke beech ka santulan thi.
+
+🧘 Drona ka updesh: Shaanti se rajya ka hal
+
+Drona ne kaha:
+
+“Salah dene wale mitra ko sach, dharmic aur yash-vardhak baat hi kehni chahiye.”
+
+Main Bhishma se poori tarah sahmat hoon—Pandavon ko rajya ka hissa do. Ye sanatan dharma hai.
+
+🕊️ Practical plan (step-by-step)"""
             create_image_text_layout("attached_assets/chapter1/1.14.5.jpg", text1, layout="side", image_position="left")
-            text2 = """ """
+            text2 = """ 
+            Drona ne sirf siddhant nahi, action plan diya:
+
+Drupada ke paas turant ek madhur-vakta doot bhejo
+– Pandavon ke liye bahut sa dhan le jaaye.
+
+Dulha-dulhan (Pandav & Draupadi) ke liye uttam uphaar.
+
+Drupada aur Dhrishtadyumna ko baar-baar batao:
+
+Is vivaah se Hastinapura prasann hai.
+
+Ye alliance uchit aur samman-yogya hai.
+
+Draupadi ko shuddh sone ke abhushan do.
+
+Drupada ke sab putron ko uchit daan.
+
+Phir Pandavon ko Hastinapura wapas aane ka nimantran.
+
+Aane par Duhshasana aur Vikarna unka swagat karein.
+
+Dhritarashtra khud prem se unka samman karein aur
+paitrik singhasan par baithaayein—praja ki ichchha ke anusar.
+
+Drona ka saar:
+Pandav tumhare hi putron jaise hain—unke saath nyay karo.
+
+🔥 Karna ka virodh: Bhagya hi sab kuch?
+
+Iske baad Karna bolta hai—aur swar teekha ho jata hai:
+
+Bhishma aur Drona par aarop:
+
+“Tum dono ko raja ki daulat aur kripa mili hai—isliye aisi salah de rahe ho.”
+
+Karna ka mool siddhant:
+
+Sab kuch bhagya par nirbhar hai.
+
+Mitra-shatru kuch nahi kar sakte—jo hona hai, wahi hoga.
+
+📖 Karna ka drishtant (Amvuvica katha)
+
+Raja Amvuvica ne raj-kaaj chhod diya.
+
+Mantri Mahakarni ne sab kuch hadap liya.
+
+Phir bhi raja ka singhasan uske haath nahi aaya.
+
+Karna ka nishkarsh:
+Rajya bhagya se milta hai—koshish se nahi.
+
+🧠 Drona ka pratyuttar: Teekha par dharmic
+
+Drona turant jawab dete hain:
+
+“Tumhari baat tumhari dusht buddhi se nikli hai.”
+
+“Tum Pandavon ka nuksaan chahte ho—isi liye hamari salah ko galat keh rahe ho.”
+
+“Meri salah Kuru vansh ke hit ke liye hai.”
+
+⚠️ Chetavni:
+
+Agar meri salah nahi maani gayi,
+toh Kuruvansh ka vinaash door nahi.
+
+🌱 Is section ki gahri seekh
+
+Drona & Bhishma: Dharma + Rajneeti = Shaanti aur sthirta
+
+Karna: Bhagya-vaad = Karm se palayan
+
+Mahabharata ka sandesh: Bhagya par bharosa ho sakta hai,
+par karm aur dharma chhodna vinaash ko bulaana hai."""
             create_image_text_layout(text_content=text2, layout="full")
 
         # Section 1.14.6
         with st.expander("Section 1.14.6"):
-            text1 = """ """
+            text1 = """ 
+            Vaisampayana kehte hain—
+Jab Drona chup ho gaye, tab Vidura bole.
+Unki awaaz shaant thi.
+Par baat bahut gehri thi.
+
+🧠 Vidura ka sach: Sunna nahi chahte, isliye samajh nahi paate
+
+Vidura ne Dhritarashtra se kaha:
+
+“Maharaj, aapke mitra aapka bhala hi chahte hain.
+Par aap sunna hi nahi chahte.”
+
+Bhishma jo kehte hain, woh bilkul sahi hai.
+Par aap us par dhyan nahi dete.
+
+Guru Drona ne bhi jo kaha, woh hit mein hai.
+Lekin Karna usse maanta hi nahi."""
             create_image_text_layout("attached_assets/chapter1/1.14.6.jpg", text1, layout="side", image_position="left")
-            text2 = """ """
+            text2 = """ 
+            👴 Bhishma aur Drona – sabse sachche mitra
+
+Vidura bole:
+
+“In dono se bada aapka koi mitra nahi.”
+
+“Budhape mein bhi gyaanwaan.
+Vidya mein bhi mahaan.”
+
+“Yeh aapko aur Pandavon ko barabar dekhte hain.”
+
+“Kabhi bhi inhone aapko galat salah nahi di.”
+
+Seedhi baat:
+Jo bina swarth sach bole, wahi asli mitra hota hai.
+
+⚖️ Pandav bhi aapke hi putra hain
+
+Vidura ne yaad dilaya:
+
+“Pandav bhi aapke utne hi putra hain,
+jitne Duryodhana aur baaki.”
+
+“Jo mantri Pandavon ke khilaaf salah dete hain,
+woh asal mein aapka bhi bhala nahi chahte.”
+
+🦁 Pandavon ki shakti – sach ko maan lo
+
+Vidura ne ginti kar di:
+
+Arjuna
+– dono haathon se barabar yuddh karta hai.
+Usse kaun hara sakta?
+
+Bhima
+– das hazaar haathiyon jaisi shakti.
+
+Nakula–Sahadeva
+– Yama ke putron jaise yoddha.
+
+Yudhishthira
+– dhairya, daya, satya aur veerta ka ghar.
+
+Aur upar se—
+
+Balarama saathi
+
+Krishna margdarshak
+
+Satyaki mitra
+
+Drupada sasur
+
+Dhrishtadyumna jaise saale
+
+Vidura ka nishkarsh:
+Aise log yuddh mein pehle hi jeet chuke hote hain.
+
+🧼 Kalank ko dhone ka mauka
+
+Vidura ne kaha:
+
+“Purocana wali ghatna ka daag abhi bhi aap par hai.”
+
+“Pandavon ke saath daya se vyavhaar karke
+is kalank ko mita sakte ho.”
+
+🌱 Shaanti ka raasta, yuddh ka nahi
+
+“Jab baat samjhaute se ho sakti hai,
+toh yuddh kyun?”
+
+“Praja Pandavon ko dekhna chahti hai.
+Unke mann ka khayal rakho.”
+
+Aur ant mein kathor shabd:
+
+“Duryodhana, Karna aur Shakuni paapi aur aviveki hain.
+Unki baat mat suno.
+Maine pehle hi kaha tha—
+Duryodhana ki galti se poora vansh nash hoga.”
+🌟 Is section ki moral
+
+Sach bolne wale kadve lag sakte hain.
+Par wahi raksha karte hain.
+
+Jo apnon mein bhed karta hai,
+woh apna hi vinaash bulata hai.
+
+Dharma + nyay + samay par faisla = shaanti."""
             create_image_text_layout(text_content=text2, layout="full")
 
         # Section 1.14.7
         with st.expander("Section 1.14.7"):
-            text1 = """ """
+            text1 = """ 
+            🏛️ Dhritarashtra ka faisla (der se, par sahi)
+
+Vaisampayana kehte hain—
+Sabhi baatein sunne ke baad Dhritarashtra ne maana:
+
+Bhishma, Drona aur Vidura—teenon ne satya aur hit hi kaha.
+
+Jaise uske apne putra rajya ke adhikari hain, waise hi Pandu ke putra (Pandav) bhi.
+
+Pandav Pandu ke bachche hain—iss roop mein Dhritarashtra ke bhi bachche.
+
+👉 Nirnay:
+Pandavon ko pyaar aur samman ke saath Hastinapura bulaya jaaye—
+Kunti aur Draupadi (Krishna of Panchala) ke saath.
+
+Dhritarashtra ne isse saubhagya bataya:
+
+Pandav zinda hain
+
+Draupadi ka vivah hua
+
+Purocana ka ant hua
+
+Uska bada shokh (dukh) shaant hua"""
             create_image_text_layout("attached_assets/chapter1/1.14.7.jpg", text1, layout="side", image_position="left")
-            text2 = """ """
+            text2 = """ 
+            🧭 Vidura ka mission: Shaanti aur samman
+
+Dhritarashtra ke aadesh par Vidura gaye Drupada (Yajnasena) ke yahan.
+
+Vidura:
+
+Ratn aur dhan le gaye—Pandav, Kunti, Draupadi, Drupada aur unke putron ke liye.
+
+Drupada ka maryada se satkar kiya.
+
+Pandavon aur Krishna (Vasudeva/Keshava) se milkar sneh se gale mile.
+
+📜 Vidura ka sandesh (official message)
+
+Vidura ne Drupada ke samne kaha:
+
+Dhritarashtra, Bhishma, Drona aur sab Kurus—is vivah-bandhan se bahut prasann hain.
+
+Is alliance ko woh naye rajya se bhi zyada keemti maante hain.
+
+Hastinapura Pandavon ko dekhne ko utsuk hai—praja, mahilaen, sab.
+
+👉 Prarthana:
+Kripya anumati dein ki Pandav apne purkhi rajya laut jaayein—
+Kunti aur Draupadi ke saath.
+Anumati milte hi, Vidura turant sandesh bhej denge aur yatra hogi.
+
+🌟 Is section ki moral
+
+Satya der se samjhe, par samajhna bhi ek jeet hoti hai.
+
+Shaanti aur samman se rishte majboot hote hain.
+
+Vidura jaise doot—jo sach, maryada aur karuna saath le jaate hain—
+wahi itihas ko yuddh se bachate hain."""
             create_image_text_layout(text_content=text2, layout="full")
 
         # Section 1.14.8
         with st.expander("Section 1.14.8"):
-            text1 = """ """
+            text1 = """ 
+            🤝 Drupada ka vinamr faisla
+
+Drupada ne Vidura ki baat sunkar kaha:
+
+“Vidura, tum bilkul sahi keh rahe ho.
+Is alliance se mujhe bhi bahut khushi hui hai.
+Pandavon ka apne purkhi rajya lautna bilkul uchit hai.”
+
+Par Drupada ne ek maryada wali baat bhi kahi:
+“Yeh faisla main zabardasti nahi karunga.
+Agar Yudhishthira, Bhima, Arjuna, aur Nakula–Sahadeva khud jaana chahen,
+aur Krishna aur Balarama bhi sahmat ho,
+tabhi Pandav wahan jaayen.”
+
+👉 Drupada jaante the:
+Krishna aur Balarama hamesha Pandavon ke hit mein hi sochte hain."""
             create_image_text_layout("attached_assets/chapter1/1.14.8.jpg", text1, layout="side", image_position="left")
-            text2 = """ """
-            create_image_text_layout(text_content=text2, layout="full")
+            text2 = """ 
+            🙏 Yudhishthira ka vinay
 
-        # Section 1.14.9
-        with st.expander("Section 1.14.9"):
-            text1 = """ """
-            create_image_text_layout("attached_assets/chapter1/1.14.9.jpg", text1, layout="side", image_position="left")
-            text2 = """ """
-            create_image_text_layout(text_content=text2, layout="full")
+Yudhishthira bole:
+“Rajaji, hum sab aap par nirbhar hain.
+Jo aapka aadesh hoga, hum wahi karenge.”
 
-        # Section 1.14.10
-        with st.expander("Section 1.14.10"):
-            text1 = """ """
-            create_image_text_layout("attached_assets/chapter1/1.14.10.jpg", text1, layout="side", image_position="left")
-            text2 = """ """
+Yeh sunkar Krishna ne kaha:
+“Mujhe bhi lagta hai Pandavon ko jaana chahiye.
+Par antim faisla Drupada ji ka hi hona chahiye.”
+
+Drupada muskura kar bole:
+“Main bhi is baat se sehmat hoon.
+Pandav mere liye bhi utne hi apne hain jitne Krishna ke liye.”
+
+🚶‍♂️ Hastinapura ki yatra
+
+Drupada ke aadesh par:
+
+Pandav,
+
+Kunti,
+
+Draupadi,
+
+Krishna,
+
+aur Vidura
+
+sab milkar Hastinapura ki taraf chale.
+Raaste mein ve rukte, vishraam karte, aur anand lete gaye.
+
+🌆 Shehar ka swagat
+
+Jaise hi Pandav shehar ke kareeb aaye,
+Dhritarashtra ne swagat ke liye log bheje—
+Bhishma, Drona, Kripa, aur Vikarna.
+
+Pandav jaise hi shehar mein pravesh hue,
+poora Hastinapura khushi se chamak utha ✨
+
+Log bol rahe the:
+
+“Dekho, dharm ka rakshak laut aaya!”
+
+“Aaj lagta hai khud Pandu raja wapas aa gaye hain.”
+
+“Hamare punya rang laa gaye, Pandav laut aaye!”
+
+Pandavon ne:
+
+Dhritarashtra aur Bhishma ke charan chue,
+
+sab logon ka kushal-mangal poocha,
+
+aur apne kaksh mein vishraam kiya.
+
+⚖️ Antim faisla: aadha rajya
+
+Kuch samay baad, darbar mein
+Dhritarashtra ne Yudhishthira se kaha:
+
+“Tum apne bhaiyon ke saath
+Khandavaprastha jao.
+Rajya ka aadha hissa tumhara hoga.
+Isse aage koi vivad nahi hoga.”
+
+Yudhishthira ne namrata se sweekar kiya 🙏
+
+🌱 Jangal se swarg tak
+
+Pandav Khandavaprastha gaye—
+jo pehle ek veeran jangal tha 🌾
+
+Par:
+
+unki mehnat,
+
+dharm,
+
+aur unity se
+
+woh jagah dheere-dheere
+Indraprastha ban gayi 🌟
+
+Badi sadkein
+
+sundar mahal
+
+bagiche, talab, vriksh
+
+shanti aur samriddhi
+
+Sab kuch wahan bas gaya.
+
+Pandavon ka sukh
+din-pratidin badhta gaya 😊
+
+🕊️ Ant mein
+
+Pandav bas gaye.
+Nyaya ka raasta chuna gaya.
+Aur Krishna aur Balarama
+Pandavon se vida lekar
+Dwaraka laut gaye।
+
+🌼 Is kahani ki moral
+
+Dharm aur sabr se liya gaya faisla hamesha tikau hota hai
+
+Aadha bhi nyay se mile, to poora sukh deta hai
+
+Sahi salah aur vinamrta jangal ko bhi swarg bana sakti hai"""
             create_image_text_layout(text_content=text2, layout="full")
 
     # Chapter 1.15
