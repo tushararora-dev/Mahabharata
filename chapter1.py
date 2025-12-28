@@ -27560,51 +27560,863 @@ Jo chupchaap dharma nibhaate hain, unka satya swayam bolta hai"""
 
         # Section 1.13.1
         with st.expander("Section 1.13.1"):
-            text1 = """ """
+            text1 = """ 
+            Yeh Section CLXLV Draupadī-svayaṃvara ke baad ka bahut hi mahatvapūrṇa hissa hai. Ismein dheere-dheere rahasya khulta hai ki jo Brahman veṣh mein aaye veer asal mein kaun hain.
+
+🌸 Dhrishtadyumna ki Drupada ko Soochna
+
+Dhrishtadyumna apne pita Drupada ko batata hai:
+
+Ek deer-skin pehne yuva (Brahman ke roop mein) ne sabse kathin dhanush ko string kiya
+
+Aur upar latke machhli ke nishaan ko gira diya
+
+Us yuva ke laal, bade netra, shaant tej aur asadharan shakti thi
+
+Wahi yuva asal mein Arjuna tha."""
             create_image_text_layout("attached_assets/chapter1/1.13.1.jpg", text1, layout="side", image_position="left")
-            text2 = """ """
+            text2 = """ 
+            🛡️ Bhīma ka Pratāp
+
+Jab anya rājā gusse mein chadh aaye, tab:
+
+Ek aur veer (Bhima)
+
+Poora ped ukhaad kar rājāon par toot pada
+
+Sab rājā Yama ke bhay se jaise jam gaye
+
+Isse sabko samajh aa gaya ki yeh saadharan Brahman nahi.
+
+🏺 Kumhār ka Ghar – Mātā Kuntī
+
+Pāṇḍav Draupadī ko le jaakar kumhār ke ghar pahunchte hain:
+
+Wahan ek tejस्वी strī baithi hai – yeh hai Kunti
+
+Paanch veer unke charan sparsh karte hain
+
+Bhiksha se jo mila:
+
+Pehle devtāon ko
+
+Phir Brahmanon ko
+
+Ant mein sabhi bhaiyon aur Kunti ko baanta gaya
+
+Yeh unki maryādā aur sanskār dikhata hai.
+
+🌙 Raat ka Drishya – Veeron ki Pehchān
+
+Raat ko:
+
+Sab kusa ghaas aur deer-skin par soye
+
+Draupadī unke pairon ke paas leti hain (vinamrata ka pratik)
+
+Unki baatcheet:
+
+Na Brahmanon jaisi
+
+Na Vaishya/Sudra jaisi
+
+Balki shuddh Kshatriya yuddh-vidyā par
+
+Isse Dhrishtadyumna ko poori nishchiti ho jaati hai:
+👉 Yeh Pāṇḍav hi hain, jo Lakṣa-gṛha se bache the.
+
+📜 Drupada ka Purohit – Pehchān ki Pushti
+
+Drupada apna purohit bhejte hain:
+
+Woh kehte hain:
+
+“Drupad hamesha chahte the ki Draupadī ka vivāh Arjuna se ho.”
+
+Yudhishthira jawab dete hain:
+
+“Jo dhanush koi na utha saka, jo nishaan koi na gira saka — wahi uska adhikārī hai.”
+
+“Ab jaati ya vansh ka sawal arth-heen hai.”
+
+Yani karma hi pehchān hai, janm nahi.
+
+🎉 Antim Soochna
+
+Tabhi ek doot aata hai aur kehta hai:
+
+“Vivāh bhoj taiyār hai.”
+
+Yahin se Draupadī-vivāh ki prakriya aage badhti hai.
+
+🌱 Is Ansh ki Gehrī Seekh
+
+Satya dheere-dheere prakāshit hota hai
+
+Veer apni pahchān chhupa sakta hai, shakti nahi
+
+Karma aur yogyaata, jaati aur veṣh se badi hoti hai
+
+Vinay aur maryādā, mahānata ki pehchān hai"""
             create_image_text_layout(text_content=text2, layout="full")
 
         # Section 1.13.2
         with st.expander("Section 1.13.2"):
-            text1 = """ """
+            text1 = """ 
+            Yeh Section CLXLVI ek bahut hi sūkṣma aur buddhimān drishya dikhata hai, jahan Drupada bina seedha poochhe Pāṇḍavon ki asli pehchān jaan leta hai.
+
+🏰 Drupada ka Nimantran
+
+Rājā Drupada ka doot kehta hai:
+
+Vivāh-bhoj taiyār hai
+
+Pāṇḍav raj-sadrish rath par baithkar aayein
+
+Krishna (Draupadī) ka vivāh yahin sampann hoga
+
+Is par Kuru-veeroṅ ne:
+
+Purohit ko vidā kiya
+
+Kunti aur Draupadi ko ek rath par bithaya
+
+Swyam anya sundar rathon par baithkar Panchāla nagar ki or prasthān kiya"""
             create_image_text_layout("attached_assets/chapter1/1.13.2.jpg", text1, layout="side", image_position="left")
-            text2 = """ """
+            text2 = """ 
+            🧠 Drupada ki Buddhimatta – Pariksha ka Upāy
+
+Drupada seedha yeh nahi poochta:
+
+“Tum kaun ho?”
+
+Balki woh chaar varṇon (Brahmana, Kṣatriya, Vaiśya, Śūdra) ke vivāh-sambandhit sāmān taiyār karwata hai:
+
+🔹 Brahmana ke liye:
+
+Phal, mala, pavitra vastu
+
+🔹 Vaiśya ke liye:
+
+Gāy, beej, kheti ke auzār
+
+🔹 Śūdra ke liye:
+
+Kapde, shilp aur seva sambandhi sāmān
+
+🔹 Kṣatriya ke liye:
+
+Talwārein, dhal, kavach
+
+Ratha, ghode
+
+Dhanush, baan, gada, tomara
+
+Yuddh ke auzār
+
+👉 Drupada ka uddeshya:
+Yeh dekhna ki in veeron ka man kis or akarṣhit hota hai.
+
+👑 Rajmahal ka Drishya
+
+Kunti Draupadī ke saath antahpur mein jaati hain
+
+Panchāla ki raniyaan Kuru-kul ki rani ka samman karti hain
+
+Udhar:
+
+Pāṇḍav nirbhayata se singhāsanon par baithte hain
+
+Koi hichkichahat nahi, koi jhijhak nahi
+
+Umar ke kram mein baithte hain — jaise rajputr baithte hain
+
+Yeh janmjaat raj-sanskar ka sanket hai.
+
+🍽️ Bhoj ke Baad – Asli Pariksha
+
+Bhojan ke baad:
+
+Pāṇḍav vastron, shilp ya krida mein ruchi nahi dikhate
+
+Unki drishti seedhi jaati hai:
+
+Shastra
+
+Astra
+
+Kavach
+
+Yuddh-sāmagrī
+
+🛡️⚔️
+Yahi Kṣatriya svabhāv ka sabse bada pramāṇ hai.
+
+🌟 Drupada ka Antim Nishchay
+
+Is drishya ko dekhkar:
+
+Drupada
+
+Unke mantri
+
+Unke putra Dhrishtadyumna
+
+Sab ek saath samajh jaate hain:
+
+“Yeh Kunti ke putra hain — shuddh Kṣatriya, raj-vansh ke veer.”
+
+Ab koi sandeh nahi rehta.
+
+🌱 Is Ansh ki Gehri Seekh
+
+Pehlā sawal ‘kaun ho?’ nahi, ‘kaise ho?’ hota hai
+
+Svabhāv aur ruchi, asli pehchān batate hain
+
+Kṣatriyatva veṣh se nahi, pravṛtti se hota hai
+
+Buddhimān rājā seedhe prashn nahi karta, pariksha rachata hai"""
             create_image_text_layout(text_content=text2, layout="full")
 
         # Section 1.13.3
         with st.expander("Section 1.13.3"):
-            text1 = """ """
+            text1 = """ 
+            Yeh Section CLXLVII Mahābhārata ka ek bahut hi gahra, dhārmik aur adhyātmik mod hai. Yahin par:
+
+Pāṇḍav apni asli pehchān batāte hain
+
+Draupadī ke vivāh ka adbhut aur aparāmpār nirṇay samne aata hai
+
+Aur Vyāsa ke aagaman se dharm ka rahasya khulne wala hota hai
+
+👑 Drupada ka Seedha Prashn
+
+Rājā Drupada, jo ab tak parīkṣā se sach jaan chuke the, ab khule shabdon mein prashn karte hain:
+
+“Tum Kṣatriya ho?
+Brahmana ho?
+Ya Devta jo Brahmana ka veṣh dharan karke aaye ho?”
+
+Drupada ek rājā ka dharm nibhate hue kehte hain:
+
+Satya balidaan se bhi bada hota hai
+
+Mujhe sach batao, taaki vivāh dharm ke anusaar ho"""
             create_image_text_layout("attached_assets/chapter1/1.13.3.jpg", text1, layout="side", image_position="left")
-            text2 = """ """
+            text2 = """ 
+            🌟 Yudhishthira ka Satya-Prakāś
+
+Tab Yudhishthira aage badhkar kehte hain:
+
+“Hum Kṣatriya hain
+Mahārāj Pāṇḍu ke putra hain
+Main sabse bada hoon
+Ye Bhima aur Arjuna hain
+Aur Draupadī ko Arjuna ne jeeta”
+
+Yeh satya ka ujjwal kshan tha — bina bhay, bina chhal.
+
+😭➡️😊 Drupada ka Anand
+
+Yeh sunkar Drupada:
+
+Ānkhon mein ānanda ke aasu bhar lete hain
+
+Kuch kshan bol nahi paate
+
+Phir Pandavon se poochte hain:
+
+Tum Vāraṇāvata ke lakṣa-gṛha se kaise bache?
+
+Yudhishthira poori ghatna batate hain:
+
+Lakṣa-gṛha
+
+Agni
+
+Surang
+
+Rakṣā
+
+Drupada:
+
+Dhṛtarāṣṭra ki nindā karte hain
+
+Yudhishthira ko rajya lautāne ki pratijñā karte hain
+
+💍 Vivāh ka Prastāv
+
+Drupada kehte hain:
+
+“Aaj shubh din hai
+Arjuna Draupadī ka pāṇigrahaṇ kare”
+
+Par yahin par sabse bada twist aata hai.
+
+⚖️ Yudhishthira ka Adbhut Vachan
+
+Yudhishthira kehte hain:
+
+“Mere aur Bhīma ke vivāh bhi abhi nahi hue
+Mātā Kunti ka ādesh hai
+Draupadī hum sab ki patnī banengi”
+
+🧠 Yeh koi lobh ya vasna nahi —
+👉 Yeh mātṛ-ājñā, parivārik niyam aur purātan dharm ka paalan hai.
+
+😲 Drupada ka Virodh
+
+Drupada chintit hokar kehte hain:
+
+“Ek purush ki anek patni ho sakti hain
+Par ek strī ke anek pati — yeh to na vedon mein suna, na paramparā mein!”
+
+Yeh samājik aur vaidik chinta hai.
+
+🔥 Yudhishthira ka Dhārmik Uttar
+
+Yudhishthira ka jawab Mahābhārata ke sabse gehre darśanik vākyaon mein se ek hai:
+
+“Dharm sūkṣma hai.”
+
+“Main kabhi asatya nahi bolta
+Meri mā̃ ka ādesh hai
+Mera antahkaraṇ ise dhārmik maanta hai
+Isliye yahi dharm hai”
+
+Yeh Satya + Shraddhā + Paramparā ka sangam hai.
+
+🌿 Antim Nirṇay sthagit
+
+Drupada kehte hain:
+
+“Tum, Kunti aur Dhrishtadyumna milkar vichār karo
+Kal main uchit nirṇay loonga”
+
+Aur isi kshan —
+
+🌟 Vyāsa ka Aagaman
+
+Tabhi:
+
+Vyasa
+
+Dvīp mein janme, Mahārṣi
+
+Dharm ke param gyātā
+
+Pravesh karte hain.
+
+👉 Agle adhyaay mein Draupadī ke pañch pati hone ka divya rahasya khulne wala hai.
+
+🕉️ Is Section ki Gehri Seekh
+
+Satya ko chhupana adharm hai, bhale hi wo kathin ho
+
+Dharm hamesha pustakon mein nahi hota — kabhi-kabhi antahkaraṇ mein hota hai
+
+Mātā ka vachan ved-sadrish hota hai
+
+Mahābhārata samājik niyamon se aage jaakar dharm ke tattva ko samjhata hai"""
             create_image_text_layout(text_content=text2, layout="full")
 
         # Section 1.13.4
         with st.expander("Section 1.13.4"):
-            text1 = """ """
+            text1 = """ 
+            Sab log achanak khade ho gaye.
+Jab Vyasa aaye, to poora sabha shant ho gayi.
+Pandav, Drupada, aur sabhi rajaon ne shraddha se pranam kiya.
+
+Vyāsa ne sabka haal-chaal poocha,
+phir sone ke aasan par baith gaye.
+Unke kehne par sab log bhi apni jagah baith gaye.
+
+🤔 Drupada ka Kathin Sawal
+
+Thodi der baad Drupada ne vinamr awaaz mein poocha:
+
+“Hey Maharshi,
+ek strī ka paanch purushon ki patnī banna
+kaise paap ke bina ho sakta hai?
+Kripya sach bataiye.”"""
             create_image_text_layout("attached_assets/chapter1/1.13.4.jpg", text1, layout="side", image_position="left")
-            text2 = """ """
+            text2 = """ 
+            🕉️ Vyāsa ka Shaant Uttar
+
+Vyāsa bole:
+
+“Yeh pratha aaj ke yug mein
+vedon aur parampara ke viruddh maani jaati hai,
+isliye yeh ab chalन mein nahi hai.
+
+Par pehle main yeh sunna chahta hoon
+ki tum sab kya sochte ho.”
+
+❌ Drupada ka Vichaar
+
+Drupada ne pehle kaha:
+
+“Mere liye yeh dharm-sandeh se bhara hai.
+Maine kabhi nahi dekha
+ki ek strī ke anek pati ho.
+
+Jo cheez ved aur parampara ke viruddh ho,
+use main sweekar nahi kar sakta.”
+
+Unke mann mein raja ka kartavya aur samaj ka bhay dono the.
+
+⚖️ Dhrishtadyumna ki Chinta
+
+Phir Dhrishtadyumna bole:
+
+“Bade bhai ka
+chhote bhai ki patnī ke paas jana
+mujhe uchit nahi lagta.
+
+Dharma bahut sūkshma hota hai,
+isliye main bhi nischit nahi hoon.”
+
+🌟 Yudhishthira ka Dharm-Yukt Tarka
+
+Tab Yudhishthira bole:
+
+“Meri jeevan bhar ki pratigya hai –
+na jhooth bolna, na adharm karna.
+
+Agar mera hriday ise paap nahi maanta,
+to yeh paap ho hi nahi sakta.
+
+Phir unhone purane udaharan diye:
+
+Jatila naam ki ek pavitra strī
+jinhone 7 rishiyon se vivāh kiya tha
+
+Ek anya katha jahan ek kanya ne
+10 bhaiyon se vivāh kiya tha
+
+Aur phir bole:
+
+“Sabse bada guru maa hoti hai.
+Mata Kunti ka aadesh hum kaise tal sakte hain?
+
+Isliye mere liye yeh poori tarah dharmik hai.”
+
+🌺 Mata Kunti ka Bhay
+
+Tab Kunti boli:
+
+“Yahi satya hai.
+Mujhe bas ek baat ka bhay hai –
+meri baat jhoothi na ho jaye.
+
+Main asatya ka bojh nahi utha sakti.”
+
+Yeh maa ka pavitra bhay tha –
+na apne liye, balki dharm ke liye.
+
+🔔 Vyāsa ka Antim Vachan
+
+Sabki baat sunne ke baad Vyāsa bole:
+
+“Kunti ka satya bachana hi sanātan dharm hai.
+
+Jo Yudhishthira keh rahe hain,
+wahi sachcha dharm hai.”
+
+Phir Vyāsa ne kaha:
+
+“Main yeh rahasya sabke saamne nahi bataunga.
+Sirf Drupada tum mere saath aao.
+
+Main tumhe bataunga
+ki yeh pratha puratan, divya aur nirdosh kyun hai.”
+
+🚶‍♂️ Rahasya ki Ore
+
+Vyāsa ne Drupada ka haath pakda
+aur unhe alag kaksh mein le gaye.
+
+Bahaar:
+
+Pandav
+
+Kunti
+
+Dhrishtadyumna
+
+sab shant hokar intezaar karne lage.
+
+🌼 Is Section ki Moral Seekh
+
+Dharma hamesha dikhai dene wala nahi hota
+
+Maa ka vachan ved ke samaan hota hai
+
+Satya ko bachana sabse bada punya hai
+
+Parampara se bhi upar kabhi-kabhi dharm hota hai
+"""
             create_image_text_layout(text_content=text2, layout="full")
 
         # Section 1.13.5
         with st.expander("Section 1.13.5"):
-            text1 = """ """
+            text1 = """ 
+            Vyāsa bole,
+“Suno, Drupada.
+Yeh kahani bahut purani hai,
+aur ismein dharma ka gehra raaz chhupa hai.”
+
+🌍 Jab Mrityu Ruk Gayi
+
+Bahut pehle, Naimisha van mein
+devtaon ka ek bada yagya ho raha tha.
+Us samay Yama yagya mein vyast the,
+isliye manushya marna band ho gaye.
+
+Duniya bhar gayi.
+Devta ghabra gaye.
+
+Sab devta Prajapati ke paas gaye aur bole,
+“Prabhu, log amrit jaise ho gaye hain.
+Kripya kuch kijiye.”
+
+Prajapati bole,
+“Ghabrao mat.
+Yagya ke baad Yama phir apna kaam karenge.”"""
             create_image_text_layout("attached_assets/chapter1/1.13.5.jpg", text1, layout="side", image_position="left")
-            text2 = """ """
+            text2 = """ 
+            ⚡ Indra ka Ghamand
+
+Usi samay Indra ne Ganga ke paas
+ek aurat ko rote hue dekha.
+Uske aansuon se sone ke kamal ban rahe the.
+
+Indra uske peeche gaye
+aur Shiv ko dekha—
+dice khelte hue, bilkul shaant.
+
+Indra ne ghamand mein kaha,
+“Main jagat ka raja hoon.”
+
+Shiv sirf muskuraye.
+Unki drishti padte hi
+Indra stambhit ho gaye.
+
+Shiv bole,
+“Tum jaise ghamandi
+seekh paane ke liye
+manushya yoni mein janm loge.”
+
+👑 Paanch Indra, Paanch Pandav
+
+Us gufa mein paanch Indra band the.
+Shiv ne kaha,
+“Tum sab manushya banoge,
+veer banoge,
+phir punya se swarg lautoge.”
+
+Wahi paanch Indra
+baad mein Pandav bane.
+
+Yudhishthira – Dharma ka ansh
+
+Bhima – Vayu ka bal
+
+Arjuna – Indra ka ansh
+
+Nakula–Sahadeva – Ashwini Kumar
+
+🌸 Draupadī ka Sach
+
+Jo aurat ro rahi thi,
+wo koi aur nahi,
+Devi Shri thi—
+saundarya aur shree ki devi.
+
+Shiv ne use vardaan diya:
+“Tum paanch veeron ki patni banogi.”
+
+Aur wahi devi
+yagya ki agni se janmi—
+Draupadī ke roop mein.
+
+Isliye Draupadī:
+
+paanch Pandavon ki patni bani
+
+bina paap
+
+bina adharm
+
+Yeh sab pehle se likha hua tha.
+
+✨ Divya Drishti
+
+Vyāsa ne Drupada ko
+divya drishti di.
+
+Drupada ne dekha:
+Pandav devtaon jaise chamak rahe the,
+sone ke mukut,
+divya sharir,
+Indra jaise tej.
+
+Draupadī bhi
+chandrama aur agni si prakashmaan thi.
+
+Drupada bhavuk ho gaye.
+Unhone Vyāsa ke charan chhooye aur bole,
+“Rishi, aap mein kuch bhi asambhav nahi.”
+
+🌼 Antim Vachan
+
+Vyāsa bole,
+“Drupada,
+yeh vivah sanatan yojna ka hissa hai.
+Ismein paap nahi,
+sirf purvajanm ka phal hai.
+
+Ab tum jo uchit samjho, wahi karo.”
+
+🌱 Is Kahani ki Moral
+
+Har cheez jo alag dikhe, galat nahi hoti
+
+Dharma kabhi-kabhi purvajanm se juda hota hai
+
+Bhagya aur karma milkar jeevan banate hain
+
+Satya samajhne ke liye drishti badi honi chahiye"""
             create_image_text_layout(text_content=text2, layout="full")
 
         # Section 1.13.6
         with st.expander("Section 1.13.6"):
-            text1 = """ """
+            text1 = """ 
+            🔱 Drupada ka Antim Nirnay
+
+Drupada bole:
+
+“Maharshi, pehle main jo soch raha tha, wo adhuri jankari par adharit tha.
+Ab jab aapne mujhe daiviy satya bata diya hai, to main bhagya ke nirnay ke viruddh nahi ja sakta.
+Vidhi ka bandhan kabhi nahi khulta.
+Jo devon ne likha hai, wahi hota hai.”
+
+Unhone maana ki:
+
+Draupadī ka paanch Pandavon se vivāh purvajanm aur dev-yojana ka phal hai
+
+Jab Bhagwan Śaṅkara ne vardaan diya, to usme paap ka prashn hi nahi
+
+Isliye anand se vivāh sampann hoga"""
             create_image_text_layout("attached_assets/chapter1/1.13.6.jpg", text1, layout="side", image_position="left")
-            text2 = """ """
+            text2 = """ 
+            🌕 Shubh Muhūrt
+
+Tab Vyasa ne kaha:
+
+“Aaj Pushya Nakshatra hai – atyant shubh.
+Aaj hi vivāh hona chahiye.
+Pehle Yudhishthira, phir kram se sab bhai.”
+
+🔥 Vivāh Vidhi
+
+Drupada aur Dhrishtadyumna ne bhavya taiyari ki
+
+Draupadī ko snān ke baad:
+
+ratna, moti, abhooshan
+
+sundar vastra
+se sajaya gaya
+
+Rajya ke:
+
+raja, mantri, brahman, nagrik
+sab upasthit hue
+
+Rajmahal:
+
+kamal aur kumud se saja
+
+ratnon se chamakta
+
+taaron bhare aakash jaisa lag raha tha ✨
+
+🕊️ Agni ke Saakshi
+
+Pandav, sugandhit chandan lagakar,
+apne guru Dhaumya Rishi ke saath aaye
+
+Yudhishthira aur Draupadī ne pehla pherā liya
+
+Uske baad:
+
+Bhima
+
+Arjuna
+
+Nakula
+
+Sahadeva
+ne alag-alag din, vedic riti se Draupadī ka haath thama
+
+👉 Adbhut Rahasya:
+Vyāsa ne bataya ki:
+
+“Har vivāh ke baad Draupadī apni punah kumāritva (virginity) prapt karti thi.”
+Yeh divya shakti ka chamatkar tha, na ki sadharan baat.
+
+🎁 Drupada ka Mahadaan
+
+Vivāh ke baad Drupada ne diya:
+
+🚗 100 rath (sone ke dhvaj aur ghode)
+
+🐘 100 shubh-lakshan wale hathi
+
+👩‍🦰 100 daasiyan (yuvati, sundar vastron mein)
+
+💎 apar sampatti, vastra, ratn
+
+Sab kuch Agni ko saakshi maan kar diya gaya.
+
+🌸 Sukhad Jeevan
+
+Vivāh ke baad:
+
+Pandavon ne Draupadī ko dusri Shri (Lakshmi) ke samaan paaya
+
+Panchal nagari mein:
+
+anand
+
+samriddhi
+
+shanti
+ka vaas hua
+
+Pandav Indra ke samaan sukh se jeene lage
+
+🌼 Is Adhyay ki Shiksha (Moral)
+
+Bhagya aur karma insaan ke niyantran se pare hote hain
+
+Jo baat bahar se galat lage, wo daiviy yojna ka hissa ho sakti hai
+
+Gyaan aane par apna ahankaar chhod dena hi dharma hai
+
+Stree ka samman uske divya swarup ko samajhne se hota hai, na ki keval samajik niyamon se"""
             create_image_text_layout(text_content=text2, layout="full")
 
         # Section 1.13.7
         with st.expander("Section 1.13.7"):
-            text1 = """ """
+            text1 = """ 
+            🌸 Drupada ke Bhay ka Ant
+
+Pandavon se sambandh sthapit hone ke baad:
+
+Raja Drupada ke sabhi bhay mit gaye
+
+Ab unhe devon ka bhi bhay nahi raha
+
+Yeh sandhi unke liye rajneetik aur daivik dono roop se raksha-kavach ban gayi
+
+🙏 Kunti ka Samman
+
+Drupada ke rajmahal ki sabhi striyan:
+
+Kunti ke paas aayi
+
+apna-parichay diya
+
+charanon mein mastak jhuka kar pranam kiya
+
+Isse yeh spasht hota hai ki:
+
+Kunti ko sirf sas nahi, kul-mata ke roop mein dekha gaya"""
             create_image_text_layout("attached_assets/chapter1/1.13.7.jpg", text1, layout="side", image_position="left")
-            text2 = """ """
+            text2 = """ 
+            🌺 Draupadī ka Vinay
+
+Draupadi, laal reshmi vastra pehne
+
+haathon mein mangal-sutra ke sootr
+
+saas Kunti ko pranam karke vinay se khadi rahi
+
+🔔 Kunti ka Divya Aashirvaad
+
+Kunti ne Draupadī ko aashirvaad diya, jo Mahābhārata ke sabse sundar stri-aashirvaadon mein se ek hai:
+
+“Tum apne patiyon ke liye waisi hi ho jao jaise—
+Shachi Indra ke liye,
+Svaha Agni ke liye,
+Rohini Chandra ke liye,
+Damayanti Nala ke liye,
+Arundhati Vasishtha ke liye,
+Lakshmi Narayana ke liye.”
+
+Aashirvaad ka saar:
+
+tum veer putron ki mata bano
+
+saubhagya aur samriddhi tumhara saath na chhode
+
+pativrat dharm ka palan karo
+
+atithiyon, vriddhon, bachchon aur brahmanon ka samman karo
+
+Hastinapur aur Kurujangala ki Maharani bano (Yudhishthira ke saath)
+
+ashvamedh yagya ke baad poori prithvi ka daan karo
+
+ratnon, yash aur sukh se 100 varsh tak jeeyo
+
+Ant mein Kunti ke shabd:
+
+“Jaise aaj main tumhe laal vastra mein dekhkar anandit hoon,
+waise hi tumhe putra-mata ke roop mein dekhkar phir prasann houngi.”
+
+👉 Yeh aashirvaad nari-shakti, grihasth-dharm aur rajdharm ka sangam hai.
+
+🎁 Krishna ke Mahadaan
+
+Vivāh ke baad Bhagwan Krishna ne Pandavon ko apaar uphaar bheje:
+
+💎 moti aur neelmani jaddit sone ke abhushan
+
+👘 vibhinn deshon ke keemti vastra
+
+🛏️ mulayam kambal, resham, bichhaune
+
+🏺 ratn-jadit saikdon bartan
+
+👩‍🦰 hazaaron sundar aur gun-sampann dasiyan
+
+🐘 Madra desh ke prashikshit hathi
+
+🐎 uttam ghode aur rath
+
+💰 karonon-karod sone ke sikke, alag-alag dheron mein
+
+Yudhishthira ne in sab ko:
+
+anand aur vinamrata ke saath sweekar kiya
+
+kyunki yeh sirf dhan nahi, Krishna ka prem aur sahyog tha
+
+🌼 Is Adhyay ka Gahan Sandesh
+
+Vivāh ke baad nari ka samman kul aur rajya dono ko shakti deta hai
+
+Kunti ka aashirvaad dikhata hai ki:
+
+ek stri sirf patni nahi, rajya ki dhuri hoti hai
+
+Krishna ke daan ka arth:
+
+Pandavon ko bhavishya ke sangharsh ke liye taiyaar karna"""
             create_image_text_layout(text_content=text2, layout="full")
 
     # Chapter 1.14
