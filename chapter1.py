@@ -29365,37 +29365,617 @@ Sahi salah aur vinamrta jangal ko bhi swarg bana sakti hai"""
 
         # Section 1.15.1
         with st.expander("Section 1.15.1"):
-            text1 = """ """
+            text1 = """ 
+            Section CCX – Pandavon ka Raj aur Narad Muni ka Updesh
+
+Janamejaya ne poocha,
+“Hey tapasya se sampann rishi,
+jab mere dada Pandavas
+ne Indraprastha ka rajya paa liya,
+tab unhone kya kiya?”
+
+“Unki patni Draupadi
+sab bhaiyon ke saath kaise rehti thi?
+Aur itne bhai ek hi patni ke saath reh kar bhi
+unka man-bhed kyun nahi hua?”
+
+“Main sab kuch detail mein sunna chahta hoon.”"""
             create_image_text_layout("attached_assets/chapter1/1.15.1.jpg", text1, layout="side", image_position="left")
-            text2 = """ """
+            text2 = """ 
+            Vaisampayana bole,
+“Hey raja,
+Pandavon ne Dhritarashtra
+ke aadesh se apna rajya paaya.”
+
+“Woh Khandavaprastha
+mein Draupadi ke saath
+sukh aur shanti se rehne lage.”
+
+Yudhishthira,
+jo satya aur dharma se jude the,
+rajya ka sahi tareeke se paalan karte the.
+Unke saath unke bhai madad karte the.
+
+Pandav shatruon ko jeet kar
+khushi se jee rahe the.
+Woh raj-sinhason par baith kar
+nyay aur kartavya nibhaate the.
+
+Ek din achanak
+ghoomte hue jaate hue
+Narada
+wahan aa pahunche.
+
+Narad ji ko dekh kar
+Yudhishthira ne apna aasan de diya.
+Unhone apne haathon se
+arghya diya.
+Aur rajya ki sthiti batayi.
+
+Narad ji prasann hue.
+Ashirvaad diya.
+Aur Yudhishthira ko baithne ko kaha.
+
+Tab Yudhishthira ne
+Draupadi ko sandesh bheja.
+Yeh sunkar Draupadi
+shuddh hokar aayi.
+
+Woh laaj aur maryada ke saath
+Narad ji ke saamne khadi hui.
+Haath jode.
+Parda kiya.
+
+Narad ji ne usse bhi
+ashirvaad diya.
+Aur use wapas jaane ko kaha.
+
+Uske baad Narad ji ne
+Pandavon se akela baat ki.
+Aur kaha,
+
+“Panchal ki rajkumari
+tum sabki patni hai.
+Isliye apne beech
+ek niyam banao.”
+
+“Man-bhed se bacho.
+Prem aur ekta banaye rakho.”
+
+Narad ji ne ek kahani sunayi.
+
+“Purane samay mein
+Sunda
+aur Upasunda
+naam ke do bhai the.”
+
+“Woh ek saath rehte the.
+Ek hi ghar.
+Ek hi palang.
+Ek hi bhojan.”
+
+“Par phir bhi
+ek apsara Tilottama
+ke liye
+dono ek-dusre ko maar daale.”
+
+“Isliye, hey Yudhishthira,
+tum sab apna mitrata
+kabhi mat todna.”
+
+Yeh sun kar Yudhishthira ne poocha,
+“Hey mahamuni,
+Sunda–Upasunda ka janm kaise hua?”
+
+“Tilottama kaun thi?
+Apsara ya kisi devta ki beti?”
+
+“Hum sab yeh kahani
+poori detail mein sunna chahte hain.”
+
+Yudhishthira ka mann
+jigyasa se bhar gaya tha."""
             create_image_text_layout(text_content=text2, layout="full")
 
         # Section 1.15.2
         with st.expander("Section 1.15.2"):
-            text1 = """ """
+            text1 = """ 
+            Section CCXI – Sunda aur Upasunda ki Kathor Tapasya
+
+Vaisampayana bole,
+“Yudhishthira ki baat sun kar
+Narada ne kaha—
+
+‘Hey Yudhishthira,
+apne bhaiyon ke saath dhyaan se suno.
+Main tumhe ek purani kahani sunaata hoon,
+bilkul waise hi jaise sab kuch hua tha.’”"""
             create_image_text_layout("attached_assets/chapter1/1.15.2.jpg", text1, layout="side", image_position="left")
-            text2 = """ """
+            text2 = """ 
+            Purane samay mein
+Hiranyakashipu ke vansh mein
+ek maha-daitya tha— Nikumbha.
+Woh bahut shaktishaali tha.
+
+Uske do putra hue—
+Sunda
+aur Upasunda.
+
+Dono bhai
+bahut balwaan the.
+Aur bahut kroor bhi.
+
+Dono ka sochna ek jaisa tha.
+Dono ka lakshya bhi ek hi tha.
+Khushi ho ya dukh—
+sab kuch saath-saath.
+
+Woh kabhi alag nahi rehte the.
+Na kahin jaate the bina ek-doosre ke.
+Unka swabhav itna milta tha
+jaise ek hi sharir ke do tukde ho.
+
+Jaise-jaise bade hue,
+unke mann mein ek hi iccha thi—
+teenon lokon par raj karna.
+
+Is uddeshya se
+dono bhai
+Vindhya Mountains
+ki pahaadiyon par chale gaye.
+
+Wahan unhone kathor tapasya shuru ki.
+
+Bhookh aur pyaas se pareshaan.
+Sir par jata-joot.
+Ped ki chhaal pehne hue.
+
+Kabhi sirf hawa par jeete.
+Kabhi pairon ke angoothe par khade rahe.
+Kabhi apne sharir ke tukde
+agni mein ahuti ke roop mein daale.
+
+Bahut lamba samay beet gaya.
+Unki tapasya se Vindhya parvat
+tapne lage.
+Har taraf se bhaap nikalne lagi.
+
+Devta ghabra gaye.
+Unhone tapasya todne ki koshish ki.
+
+Khoobsurat striyaan bheji.
+Dhan aur sukh dikhaya.
+Par dono bhai nahi hile.
+
+Phir maya rachi gayi.
+Aisa dikhaya gaya jaise
+unki maa, behnein, patniyaan
+roti hui madad maang rahi hain.
+
+Ek rakshas unhe bhala maar raha tha.
+“Bachao! Bachao!” ki awaaz aayi.
+
+Par dono bhai
+apni tapasya se nahi toote.
+Sab drishya gaayab ho gaya.
+
+Aakhirkaar
+Brahma
+svayam wahan prakat hue.
+
+Dono bhai
+haath jod kar khade ho gaye.
+
+Unhone kaha,
+“Hey Pitamah,
+agar aap prasann hain,
+toh humein sab astron ka gyaan do.
+Sab maya shakti do.
+Apar bal do.
+Jo roop chahen, le saken.”
+
+“Aur sabse aakhri baat—
+humein amar bana do.”
+
+Brahma bole,
+“Amar hona sambhav nahi.
+Par baaki sab tumhe milega.”
+
+“Par ek baat batao—
+tumhari mrityu ka kaunsa roop ho?”
+
+Dono bhai bole,
+“Humein teenon lokon mein
+kisi se bhi bhay na ho—
+sirf ek-doosre se ho.”
+
+Brahma ne kaha,
+“Tumhara vardaan sweekaar hai.”
+
+Aur woh wapas chale gaye.
+
+Ab Sunda aur Upasunda
+ajey ho chuke the.
+Unhone jata kaat di.
+Sir par mukut pehne.
+
+Sundar vastra aur gehne pehne.
+Unke shehar mein
+roz chaand ugne laga.
+
+Har ghar mein
+khushi ka shor tha.
+“Khane do, peene do, gaane do!”
+har jagah utsav tha.
+
+Woh itne sukh mein doob gaye
+ki saal ek din jaisa lagne laga.
+
+Par yeh sukh
+bahut din tikne wala nahi tha…"""
             create_image_text_layout(text_content=text2, layout="full")
 
         # Section 1.15.3
         with st.expander("Section 1.15.3"):
-            text1 = """ """
+            text1 = """ 
+            Section CCXII – Sunda aur Upasunda ka Atyachaar
+
+Narada aage bole—
+
+Utsav khatam hote hi
+Sunda aur
+Upasunda
+ne mantrana ki.
+
+Unka sapna ek hi tha.
+Teenon lokon ka raj.
+
+Raat ke samay,
+jab Magha nakshatra chamak raha tha,
+woh apni badi sena ke saath nikle.
+Rakshas kavach pehne hue the.
+Gada, kulhaadi aur bhale haath mein the."""
             create_image_text_layout("attached_assets/chapter1/1.15.3.jpg", text1, layout="side", image_position="left")
-            text2 = """ """
+            text2 = """ 
+            Charan ga rahe the.
+Jeet ke geet.
+Rakshas khush the.
+Aur yuddh ke liye taiyaar.
+
+Aakash ke raaste
+woh devlok ki taraf badhe.
+
+Devta yeh jaante the.
+Unke vardaan bhi.
+Isliye devta bhag gaye.
+Aur Brahma
+ki sharan mein chale gaye.
+
+Rakshas bhaiyon ne
+Indra
+ka lok jeet liya.
+Yaksha, Rakshas,
+aur aakash ke jeev—
+sab haar gaye.
+
+Phir unhone
+pataal ke Nag jeete.
+Samudra ke jeev jeete.
+Mlecchon par bhi kabza kiya.
+
+Ab unki nazar dharti par thi.
+
+Unhone sena ko aadesh diya,
+“Brahman aur rajrishi
+yagya karke devtaon ko shakti dete hain.
+Woh Asuron ke shatru hain.
+Isliye un sab ka vinash karo.”
+
+Yeh sun kar
+rakshas charon dishaon mein phail gaye.
+
+Jahan yagya chal raha tha,
+wahan khoon baha.
+Rishiyon ke ashram jala diye gaye.
+Agni kund paani mein phenk diye gaye.
+
+Rishiyon ke shraap
+kaam nahi aaye.
+Vardaan unhe bacha rahe the.
+
+Brahman bhag gaye.
+Rishi bhi dar gaye.
+Jaise saanp
+Garuda
+ko dekh kar bhaag jaate hain.
+
+Ashram toot gaye.
+Kalash aur patra bikhar gaye.
+Dharti sunsaan ho gayi.
+
+Phir rakshas bhai
+alag-alag roop lene lage.
+Kabhi haathi bane.
+Kabhi sher.
+Kabhi baagh.
+
+Jo rishi dikha,
+turant maar diya.
+
+Yagya band ho gaye.
+Ved adhyayan ruk gaya.
+Raja aur Brahman nasht hone lage.
+
+Gaon khaali ho gaye.
+Kheti band ho gayi.
+Pashuon ki dekhbhaal nahi rahi.
+
+Shaadi, sanskaar,
+sab ruk gaye.
+
+Dharti haddi aur khopdiyon se bhar gayi.
+Dekhne mein bhayanak ho gayi.
+
+Pitron ke kriya-karm bhi ruk gaye.
+“Vashat” ki dhwani khamosh ho gayi.
+
+Surya, Chandra,
+grah aur taare—
+sab dukhi ho gaye.
+
+Aakhirkaar
+Sunda aur Upasunda
+sab dishaon ko jeet kar
+Kurukshetra
+mein bas gaye.
+
+Unka koi pratidwandvi nahi bacha tha.
+
+Par ahankaar badh raha tha.
+Aur vinash
+ab zyada door nahi tha…"""
             create_image_text_layout(text_content=text2, layout="full")
 
         # Section 1.15.4
         with st.expander("Section 1.15.4"):
-            text1 = """ """
+            text1 = """ 
+            Section CCXIII – Tilottama ka Janm aur Devon ki Yojna
+
+Narada ne aage kaha—
+
+Jab Sunda aur Upasunda ke atyachaar badh gaye,
+toh devrishi aur maharishi bahut dukhi ho gaye.
+Sab shant, sanyami rishi
+karuna se bhare hue
+Brahma
+ke lok mein gaye.
+
+Wahan Brahma ji baithe the.
+Unke saath devta aur rishi the.
+Mahadeva bhi wahan the.
+Agni,
+Vayu,
+Surya,
+Indra—
+sab maujood the."""
             create_image_text_layout("attached_assets/chapter1/1.15.4.jpg", text1, layout="side", image_position="left")
-            text2 = """ """
+            text2 = """ 
+            Sab rishiyon ne milkar
+Sunda–Upasunda ke paapon ki kahani sunayi.
+Brahma ji shaant ho kar soche.
+Phir unhone ek upaay socha.
+
+Brahma ji ne Visvakarman ko bulaya.
+Aur kaha,
+“Ek aisi kanya banao
+jo sabke mann ko moh le.”
+
+Visvakarman ne dhyaan se
+ek adbhut sundar kanya banayi.
+Usme har ratna ka thoda-thoda tej tha.
+Woh teenon lokon mein
+sabse sundar thi.
+
+Uski sundarta aisi thi
+ki jo dekhe, bas dekhta reh jaaye.
+Brahma ji ne uska naam rakha—
+Tilottama.
+
+Tilottama ne haath jod kar poocha,
+“Prabhu, mujhe kis kaam ke liye banaya gaya hai?”
+
+Brahma ji bole,
+“Tum Sunda aur Upasunda ke paas jao.
+Apni sundarta se unhe moh lo.
+Aisa karo ki
+woh dono ek-doosre se hi jhagad padein.”
+
+Tilottama ne pranam kiya
+aur “aisa hi hoga” keh kar chal padi.
+
+Jab Tilottama
+dev sabha ke chaaron taraf ghoom rahi thi,
+toh sab ki nazar us par padi.
+
+Sirf Indra aur Mahadeva
+apna sanyam rakh paaye.
+Par Mahadeva bhi use dekhna chahte the.
+Isliye unke sharir par
+chaar dishaon mein chaar mukh prakat ho gaye.
+
+Aur Indra ko
+hazaar netra mil gaye.
+Taaki woh Tilottama ko dekh sakein.
+
+Sab devta samajh gaye—
+kaam ho chuka hai.
+Yojna safal hone wali hai.
+
+Tilottama jab
+Asuron ke nagar ki ore chali,
+toh Brahma ji ne sab rishiyon aur devon ko
+vidaa kar diya.
+
+Vinash ka beej
+ab moh ke roop mein
+bo diya gaya tha…"""
             create_image_text_layout(text_content=text2, layout="full")
 
         # Section 1.15.5
         with st.expander("Section 1.15.5"):
-            text1 = """ """
+            text1 = """ 
+            Section CCXIV – Tilottama aur Asuron ka Vinash
+
+Narada aage bole—
+
+Dharti jeetne ke baad
+Sunda
+aur
+Upasunda
+ka koi shatru nahi bacha tha.
+
+Teenon lok unke adheen the.
+Ab unhe lagne laga—
+“Ab aur kuch karna baaki nahi.”
+
+Devtaon, Gandharvon, Yakshon,
+Nagon, Rakshason aur rajyon ke
+saare khazane unke paas aa gaye."""
             create_image_text_layout("attached_assets/chapter1/1.15.5.jpg", text1, layout="side", image_position="left")
-            text2 = """ """
+            text2 = """ 
+            Ab dono bhai
+sirf sukh aur bhog mein jeene lage.
+Bilkul devtaon jaise.
+
+Sugandh, mala, bhojan,
+peya aur sundar striyan—
+har sukh unke paas tha.
+
+Kabhi mahal mein,
+kabhi bagiche mein,
+kabhi pahaadon par—
+jahaan mann hua, wahaan raas-rang.
+
+Ek din
+dono bhai
+Vindhya Mountains
+ke ek sundar patharile maidān par gaye.
+Wahan phool khile hue the.
+
+Sab sukh ke saaman laaye gaye.
+Sundar striyan nritya aur gaayan karne lagi.
+
+Tabhi wahan
+ek adbhut kanya aayi.
+
+Woh ek laal reshmi vastra pehne thi.
+Haath mein jangli phool the.
+Uski sundarta
+mann ko bandh lene wali thi.
+
+Yeh thi Tilottama.
+
+Jaise hi dono bhaiyon ki nazar us par padi,
+unka vivek kho gaya.
+Madira aur ahankaar ne
+unka mann dhundhla kar diya.
+
+Dono apni jagah se uth gaye.
+Dono Tilottama ki taraf badhe.
+
+Sunda ne uska daahina haath pakad liya.
+Upasunda bhi usi pal aage badha.
+
+Sunda bola,
+“Yeh meri patni banegi!”
+
+Upasunda bola,
+“Nahi! Yeh meri hai!”
+
+Dono ka gussa bhadak utha.
+Prem aur bhai-chaara
+pal bhar mein bhool gaye.
+
+“Main pehle aaya!”
+“Main pehle pakda!”
+
+Yahi keh kar
+dono ne apni gadayein uthayi.
+
+Aur bhai bhai par toot pade.
+
+Thodi hi der mein
+dono khoon se lat-pat
+zameen par gir pade.
+Jaise aakash se
+do suraj gir gaye ho.
+
+Wahan maujood striyan
+aur anya asur
+dar ke maare bhaag gaye.
+
+Tab swayam
+Brahma
+devtaon aur rishiyon ke saath aaye.
+
+Unhone Tilottama ki prashansa ki.
+Aur use vardaan diya—
+
+“Tum Adityas ke lok mein rahogi.
+Tumhara tej itna hoga
+ki koi tumhe zyada der
+dekh bhi nahi paayega.”
+
+Teenon lok phir se
+Indra
+ke adheen ho gaye.
+
+Aur Brahma ji
+apne lok laut gaye.
+
+Narada bole—
+
+“Is prakar
+jo bhai kabhi alag nahi hote the,
+woh moh ke kaaran
+ek-doosre ka vinash ban gaye.”
+
+“Isliye, hey Bharata vansh ke veeron,
+main prem se kehta hoon—
+Draupadi ke kaaran
+kabhi paraspar jhagda mat hone dena.”
+
+Vaisampayana bole—
+
+Narada ji ki baat sun kar
+Pandavas
+ne aapas mein salah ki.
+
+Unhone ek niyam banaya—
+
+“Jab koi ek Pandav
+Draupadi ke saath ho,
+toh baaki chaar
+usse na dekhen.”
+
+“Jo dekhega,
+use 12 varsh vanvaas karna hoga.
+Brahmacharya ka paalan karega.”
+
+Yeh niyam
+Narada ji ke saamne banaya gaya.
+
+Narada ji prasann hue.
+Aur wahan se chale gaye.
+
+Is tarah,
+hey Janamejaya,
+Pandavon ke beech
+kabhi koi vivaad nahi hua.
+
+Ek patni,
+par poori maryada.
+Yahi dharma tha."""
             create_image_text_layout(text_content=text2, layout="full")
 
 
