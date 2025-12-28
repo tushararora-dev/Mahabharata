@@ -29984,44 +29984,663 @@ Yahi dharma tha."""
 
         # Section 1.16.1
         with st.expander("Section 1.16.1"):
-            text1 = """ """
+            text1 = """ 
+            Section CCXV – Arjuna ka Vanvaas (Mahābhārata, Arjuna-vanavāsa Parva)
+
+Is section mein dharma vs personal cost ka bahut gehra udāharan milta hai.
+
+Pandavon ka Sukhi Rajya
+
+Rule banne ke baad Pandavas Indraprastha mein shanti aur nyāya se raj karte hain.
+Unki dhārmikta ke kaaran poora Kuru-vansh phalta-phoolta hai.
+Draupadi apne paanch veer patiyon ke saath santusht aur prasann rehti hain, aur Pandav bhi unse.
+
+Brahmana ki Pukaar
+
+Ek din kuch chor ek Brahmana ki gaayen chura lete hain.
+Brahmana ro-ro kar Pandavon ke darbar mein aata hai aur kehta hai:
+
+“Jo raja raksha nahi karta, uska raj paap se bhara hota hai.
+Meri gaayen loot li ja rahi hain – mujhe bachaiye!”
+
+Yeh raja ka dharma yaad dilane wali baat thi."""
             create_image_text_layout("attached_assets/chapter1/1.16.1.jpg", text1, layout="side", image_position="left")
-            text2 = """ """
+            text2 = """ 
+            Arjuna ka Sankat
+
+Yeh sunkar Arjuna (Dhananjaya) turant madad karna chahte hain.
+Par samasya yeh hoti hai ki:
+
+Unke astra-shastra us kamre mein hain
+
+Jahan Yudhishthira Draupadi ke saath baithe hain
+
+Aur Pandavon ka banaya niyam kehta hai:
+
+“Jo bhai is sthiti mein kamre mein pravesh karega, use 12 varsh vanvaas hoga.”
+
+Arjuna ke saamne do raste the:
+
+Niyam na todna → Brahmana ki raksha na karna (adharma)
+
+Niyam todna → Vanvaas ka dand
+
+Arjuna ka Nirnay
+
+Arjuna gehri soch mein padte hain aur kehte hain:
+
+“Agar main Brahmana ki raksha na karun,
+to raj paap se kalankit ho jaayega.
+Shareer se bada dharma hota hai.”
+
+Aur woh niyam todne ka dand sweekar karte hue kamre mein pravesh kar jaate hain, shastra uthate hain, choron ka peecha karte hain aur:
+
+Choron ko hara dete hain
+
+Brahmana ki gaayen wapas dila dete hain
+
+Yudhishthira ka Prem aur Arjuna ki Dridhta
+
+Yudhishthira Arjuna ko rokna chahte hain aur kehte hain:
+
+“Tumne koi aparadh nahi kiya.
+Chhote bhai ka pravesh dosh nahi hota.”
+
+Lekin Arjuna uttar dete hain:
+
+“Satya par tark nahi hota.
+Satya hi mera shastra hai.”
+
+Aur antatah 12 varsh ke vanvaas ke liye prasthan kar jaate hain.
+
+Gehri Seekh (Moral Insight)
+
+Dharma sirf niyam nahi hota, kartavya hota hai
+
+Arjuna ne dikhaya ki:
+
+Dusron ki raksha = apni suvidha se upar
+
+Satya ka paalan = personal loss ke baad bhi
+
+Yeh vanvaas aage chal kar:
+
+Ulupi, Chitrangada,
+
+Subhadra vivah,
+
+aur divya astron ki prapti ka kaaran banta hai
+
+👉 Is ek nirnay ne poori Mahābhārata ki disha badal di."""
             create_image_text_layout(text_content=text2, layout="full")
 
         # Section 1.16.2
         with st.expander("Section 1.16.2"):
-            text1 = """ """
+            text1 = """ 
+            Section CCXVI – Arjuna aur Ulupi ki Kahani (Hinglish Moral Style)
+
+Jab Arjuna vanvaas ke liye nikle,
+toh kai Brahmana, rishi, tapasvi aur geet gaane wale log
+thodi door tak unke saath chale.
+
+Arjuna ka chalna aisa lag raha tha
+jaise Indra ke saath Marut dev chal rahe hon.
+Sab log unki maryada aur sachchai ka samman kar rahe the."""
             create_image_text_layout("attached_assets/chapter1/1.16.2.jpg", text1, layout="side", image_position="left")
-            text2 = """ """
+            text2 = """ 
+            Ganga ke Tat par Tapasya
+
+Arjuna sundar vanon, nadiyon aur parvaton se hote hue
+Ganga Maa ke udgam sthal par ruk gaye.
+
+Wahan roz:
+
+snaan hota
+
+Agnihotra hota
+
+mantron ki madhur dhvani gunjti
+
+Us pavitra sthal ki sundarta aur badh gayi.
+
+Ulupi ka Aana
+
+Ek din Ganga mein snaan ke baad,
+achanak Arjuna ko paani ke andar kheench liya gaya.
+
+Yeh thi Ulupi,
+Nagon ke raja Kauravya ki putri.
+
+Woh kaam-dev ke prabhav mein thi
+aur Arjuna par mohit ho chuki thi.
+
+Ulupi ne vinamrta se kaha:
+
+“Main avivahit hoon.
+Aap mujhe sweekar kijiye.
+Agar aap mana karenge, toh main jee nahi paungi.”
+
+Arjuna ka Dharma-Sankat
+
+Arjuna shaant swar mein bole:
+
+“Main Brahmacharya ke vrat mein hoon.
+Main asatya ya adharma nahi kar sakta.”
+
+Par unhone yeh bhi kaha:
+
+“Agar bina dharma tode
+main tumhari peeda door kar sakun,
+toh batayo kaise.”
+
+Ulupi ka Dharmic Tarka
+
+Ulupi ne samjhaaya:
+
+Tumhara vanvaas Draupadi ke niyam ke kaaran hai
+
+Yeh vrat kisi aur stri ke liye mana nahi karta
+
+Peedit ki raksha bhi dharma hai
+
+Aur bola:
+
+“Mujhe bachakar tum paap nahi,
+punya kamaoge.”
+
+Dharma ke Saath Sweekar
+
+Arjuna ne dharma ko kendr bana kar
+Ulupi ki ichha sweekar ki.
+
+Raat ke baad subah,
+dono Ganga tat par wapas aaye.
+Ulupi ne vida li aur apne lok chali gayi.
+
+Ulupi ka Vardaan
+
+Jaate-jaate Ulupi ne Arjuna ko vardaan diya:
+
+“Paani mein
+koi bhi jeev tumhe hara nahi paayega.”
+
+Seekh (Moral Lesson)
+
+Dharma kathor nahi hota, samvedansheel hota hai
+
+Arjuna ne dikhaya:
+
+vrat + karuna saath chal sakte hain
+
+sachchai bina kathorta ke bhi nibhai ja sakti hai
+
+Yeh ghatna aage chal kar
+Arjuna ke jeevan mein bade parivartan laati hai"""
             create_image_text_layout(text_content=text2, layout="full")
 
         # Section 1.16.3
         with st.expander("Section 1.16.3"):
-            text1 = """ """
+            text1 = """ 
+            Section CCXVII – Arjuna ka Yaatra aur Chitrangada ki Kahani (Hinglish Moral Style)
+
+Arjuna ne sab kuchh
+un Brahmanon ko bata diya jo unke saath the.
+Phir woh Himavat parvat ki taraf nikal pade.
+
+Woh Agastyavata,
+Vashishtha ke shikhar,
+aur Bhrigu parvat tak gaye.
+Har pavitra sthal par snaan kiya,
+pooja ki,
+aur hazaaron gaayein aur ghar
+Brahmanon ko daan diye.
+
+Arjuna ka man shuddh tha
+aur karm nishkaam."""
             create_image_text_layout("attached_assets/chapter1/1.16.3.jpg", text1, layout="side", image_position="left")
-            text2 = """ """
+            text2 = """ 
+            Teerth-Yatra aur Purab ki Ore
+
+Uske baad Arjuna
+poorab ki disha mein chale.
+Unhone ek ke baad ek
+pavitra nadiyan dekhi:
+
+Utpalini
+
+Nanda aur Apara Nanda
+
+Kausiki
+
+Gaya
+
+Ganga
+
+Har jagah snaan,
+har jagah daan.
+Jahan gaye,
+wahan dharma faila.
+
+Kalinga rajya ke gate par
+Brahmanon ne Arjuna se vida li.
+Ab Arjuna
+sirf kuchh sevakon ke saath
+aage badhe.
+
+Manipur aur Chitrangada
+
+Samundar ke kinare-kinare chalte hue
+Arjuna Manipur pahunche.
+Wahan ke raja the
+Citravahana.
+
+Unki beti thi
+Chitrangada —
+sundar, garvili aur shant.
+
+Arjuna ne jab Chitrangada ko dekha,
+toh unka man uski taraf khinch gaya.
+Unhone seedhe raja se kaha:
+
+“Main Pandu ka putra hoon.
+Aapki beti se vivaah karna chahta hoon.”
+
+Raja ka Niyam
+
+Raja Citravahana bole:
+
+“Meri vansh-parampara mein
+har peedhi mein sirf ek hi santaan hoti hai.
+Mere paas beta nahi,
+sirf yeh beti hai.
+
+Maine ise Putrika maana hai.
+Iska beta
+mere vansh ko aage badhaayega.”
+
+Yeh ek shart thi,
+par adharmik nahi.
+
+Arjuna ka Sweekar
+
+Arjuna ne bina sankoch kaha:
+
+“So be it.”
+
+Unhone Chitrangada se vivaah kiya.
+Teen saal Manipur mein rahe.
+
+Phir Chitrangada ne
+ek putra ko janm diya.
+Arjuna ne prem se
+maa aur putra ko gale lagaya.
+
+Uske baad,
+raja se aashirvaad lekar,
+Arjuna apni yaatra par
+phir nikal pade.
+
+Seekh (Moral Lesson)
+
+Dharma sirf yuddh mein nahi, samjhaute mein bhi hota hai
+
+Arjuna ne:
+
+parampara ka samman kiya
+
+kisi ke vansh ko samapt nahi hone diya
+
+Yeh kahani sikhati hai:
+
+vivaah sirf prem nahi, zimmedaari bhi hoti hai
+
+sachcha veer wahi hai
+jo apni shakti se doosron ka bhavishya surakshit kare"""
             create_image_text_layout(text_content=text2, layout="full")
 
         # Section 1.16.4
         with st.expander("Section 1.16.4"):
-            text1 = """ """
+            text1 = """ 
+            Section CCXVIII – Arjuna aur Shraap se Mili Apsara (Hinglish Moral Story)
+
+Vaisampayana bole—
+
+Arjuna,
+jo Bharata vansh ka gaurav tha,
+dakshin samundar ke kinaare
+pavitra teerthon par pahuncha.
+
+Wahan paanch pavitra jal-sthal the.
+Bahut shaktishaali,
+bahut punya dene wale.
+Par ek ajeeb baat thi.
+
+Wahan rehne wale
+sab tapasvi un paaniyon se
+door rehte the.
+
+Arjuna ne vinamrta se poocha:
+“Hey tapasviyon,
+yeh itne pavitra jal
+phir bhi chhode kyun jaate hain?”"""
             create_image_text_layout("attached_assets/chapter1/1.16.4.jpg", text1, layout="side", image_position="left")
-            text2 = """ """
+            text2 = """ 
+            Tapasvi bole:
+“In paaniyon mein
+paanch bhayanak magarmachh rehte hain.
+Jo bhi snaan karta hai,
+use pakad lete hain.
+Isi dar se hum yahan nahi jaate.”
+
+Arjuna ka Sahas
+
+Yeh sunkar bhi
+Arjuna nahi ruka.
+Veer ka kaam hota hai
+dar ke aage badhna.
+
+Woh Saubhadra naam ke teerth par gaya
+aur bina soche
+paani mein utar gaya.
+
+Tabhi—
+ek bada magarmachh
+uske pair ko pakad leta hai!
+
+Shakti aur Karuna
+
+Par Arjuna kamzor nahi tha.
+Usne magarmachh ko
+poori taakat se kheench kar
+kinaare par la diya.
+
+Aur tab—
+ek chamatkaar hua.
+
+Woh magarmachh
+ek sundar apsara ban gayi.
+Divya roop,
+chamakta chehra,
+swarg jaisi sundarta.
+
+Arjuna hairaan hua aur bola:
+“Tum kaun ho?
+Aur tum magarmachh kyun thi?
+Yeh paap tum par kyun aaya?”
+
+Apsara ki Kahani
+
+Apsara boli:
+“Main ek Apsara hoon.
+Mera naam Varga hai.
+Main Kubera ki priya thi.
+
+Meri chaar saheliyan bhi thi.
+Ek din hum swarg se ja rahe the.
+Raaste mein
+ek yuva Brahmana ko dekha.
+
+Woh akela tha.
+Ved padh raha tha.
+Uska tap aur tej
+poore jungle ko chamka raha tha.
+
+Humne use bhatakane ki koshish ki.
+Gaana, muskaan,
+sab upaay kiye.
+
+Par us Brahmana ka mann
+ek pal bhi nahi dola.
+Uski drishti mein krodh tha.
+Aur usne kaha:
+
+‘Tum sab
+sau saal tak magarmachh ban kar
+paani mein rahogi!’”
+
+Seekh (Moral Lesson)
+
+Tapasya ka tej sabse bada hota hai
+
+Jo apne kartavya par dridh rahe,
+use koi moh hila nahi sakta
+
+Aur jo shraap bhi bhogte hain,
+unhe bhi ek din
+daya aur veerta se mukti milti hai
+
+Arjuna ne sirf shakti nahi,
+karuna bhi dikhayi.
+Isi liye woh
+sirf veer nahi,
+dharm ka rakshak tha 🌊✨"""
             create_image_text_layout(text_content=text2, layout="full")
 
         # Section 1.16.5
         with st.expander("Section 1.16.5"):
-            text1 = """ """
+            text1 = """ 
+            Section CCXIX – Apsaraon ka Shraap aur Arjuna ka Karuna Bhara Kaarya (Hinglish Moral Story)
+
+Vaisampayana bole—
+
+Varga ne aage kaha:
+
+“Hey Bharata vansh ke shreshth veer,
+shraap sunkar hum sab
+bahut dukhi ho gaye the.
+
+Hum us mahaan Brahmana ke paas gaye
+aur vinamrta se bole:"""
             create_image_text_layout("attached_assets/chapter1/1.16.5.jpg", text1, layout="side", image_position="left")
-            text2 = """ """
+            text2 = """ 
+            ‘Hum apni sundarta aur jawani ke ghamand mein
+galat kar baithe.
+Kaam-dev ke vash mein aakar
+aapko bhatkana chaha.
+
+Hey Brahmana,
+kripya humein maaf kar dijiye.
+Aap jaante hain—
+stree-vadh kabhi dharm nahi hota.
+
+Aap to sab praaniyon ke mitra hote hain.
+Jo sharan maange,
+use bachana hi mahaanon ka kartavya hota hai.
+Hum aapki sharan aaye hain.’”
+
+Brahmana ki Karuna
+
+Un Brahmana ka hriday
+daya se bhar gaya.
+Unhone shaant swar mein kaha:
+
+“Main kabhi asatya nahi bolta.
+Par mera ‘sau varsh’ ka arth
+anant kaal nahi tha.
+
+Tum sirf sau varsh
+magarmachh ban kar rahogi.
+Uske baad
+ek mahaan purush aayega
+jo tumhe paani se nikaalega.
+
+Tab tum apna asli roop
+phir se paa logi.
+
+Aur jin jal-sthalon mein
+tumhara kasht hua,
+woh aage chal kar
+Nari-Teerth kehlaayenge.
+Woh paap-nashak
+aur pavitra maane jaayenge.”
+
+Narad Muni ka Margdarshan
+
+Varga boli:
+
+“Hum unhe pranam karke
+bhari man se wahan se chale.
+Man mein ek hi sawal tha—
+woh mahaan vyakti kaun hoga
+jo humein mukt karega?
+
+Tabhi humein
+Narad Muni mile.
+Unhe dekhkar
+hamare chehre par umeed aa gayi.
+
+Unhone sab sun kar kaha:
+
+‘Dakshin samundar ke paas
+paanch pavitra jal hain.
+Wahin jao.
+Wahan Dhananjaya Arjuna
+tum sab ko avashya mukt karega.’”
+
+Arjuna ka Mahaan Kaam
+
+Varga ne Arjuna se kaha:
+
+“Aaj aapne mujhe mukt kiya.
+Par meri chaar saheliyan
+abhi bhi baaki jal-sthalon mein hain.
+Hey veer,
+unhe bhi bacha lijiye.”
+
+Arjuna muskuraaya.
+Uska hriday daya se bhara tha.
+
+Usne ek-ek karke
+sab jal-sthalon se
+saari apsaraon ko bahar nikala.
+Sab ne apna
+divya roop wapas paa liya.
+
+Jal-sthal shuddh ho gaye.
+Shraap khatam ho gaya.
+
+Aage ka Safar
+
+Apsaraon ko vida dekar
+Arjuna ka mann
+phir se Citrangada ko dekhne ka hua.
+
+Woh Manipura gaya.
+Wahan usne apne putra
+Vabhruvahana ko raj-sinhansan par dekha.
+
+Patni se milkar
+Arjuna aage badha
+aur Gokarna ki ore
+apna van-vas ka safar jaari rakha.
+
+Seekh (Moral Lesson)
+
+Karuna shraap ko bhi mukt kar sakti hai
+
+Tapasya aur daya,
+dono milkar hi
+sachcha dharm banate hain
+
+Jo doosron ke kasht door karta hai,
+wahi sachcha veer hota hai"""
             create_image_text_layout(text_content=text2, layout="full")
 
         # Section 1.16.6
         with st.expander("Section 1.16.6"):
-            text1 = """ """
+            text1 = """ 
+            Section CCXX – Arjuna aur Krishna ka Milan (Hinglish Bhavarth + Moral)
+Vaisampayana kehte hain—
+
+Arjuna, jinhen Vibhatsu bhi kaha jaata hai, apni van-yaatra ke dauraan pashchim samundar ke kinaare sthit sabhi pavitra teerthon aur jal-sthalon ka darshan karte hue Prabhasa Teerth pahunche.
+
+Jaise hi wahan Arjuna ke aane ka samachar mila,
+Krishna (Madhava) turant apne priya mitra se milne aa gaye."""
             create_image_text_layout("attached_assets/chapter1/1.16.6.jpg", text1, layout="side", image_position="left")
-            text2 = """ """
+            text2 = """ 
+            Do Yugon ke Rishi – Nara aur Narayana
+
+Jab dono mile,
+unhone ek-doosre ko galey lagaya,
+kushal-mangal poochha
+aur saath baith gaye.
+
+Krishna ne pyaar se poochha:
+
+“O Pandava, tum dharti par itna bhraman kyun kar rahe ho,
+sab teerthon ke darshan kyun?”
+
+Arjuna ne apni poori van-yaatra
+— apna niyam, tapasya, anubhav,
+aur jo-jo ghatnaayein hui thi —
+sab bata diya.
+
+Sab sun kar Krishna muskuraaye aur bole:
+
+“Yahi uchit hai.”
+(Yehi dharm ka maarg hai.)
+
+Raivataka Parvat – Vishraam aur Aanand
+
+Kuch samay Prabhasa mein bitane ke baad,
+dono Raivataka Parvat gaye.
+Krishna ke aadesh par
+vah parvat pehle se hi
+sajaaya gaya tha,
+bhojan, kalaakar, nritya aur sangeet se.
+
+Arjuna aur Krishna ne:
+
+nritya–sangeet dekha
+
+has-parihas kiya
+
+purani yaadein taaza ki
+
+Raat ko Arjuna sundar shayya par so gaye,
+aur sote-sote bhi
+apni teerth-yaatra ke anubhav
+Krishna ko sunaate rahe.
+
+Dwaraka Mein Bhavya Swagat
+
+Subah madhur veena-dhwani aur geeton se Arjuna uthe.
+Krishna ke saath swarna rath par baithkar
+woh Dwaraka pahunche.
+
+Dwaraka nagari:
+
+pushpon se saji thi
+
+ghar, baag, raaste chamak rahe the
+
+Bhoja, Vrishni, Andhaka vansh ke log
+hazaaron ki sankhya mein umad pade
+
+Yuvak, vriddh, striyaan—
+sab Arjuna ke darshan ko utsuk the.
+
+Arjuna ne:
+
+sab ko pranam kiya
+
+jo poojya the, unka aadar kiya
+
+apne samaan mitron ko gale lagaya
+
+Ant mein,
+woh Krishna ke ratna-jadit mahal mein
+kuch dinon tak unke saath rahe.
+
+Moral / Seekh
+
+Sacha mitrata kaal se pare hoti hai
+
+Tapasya ke baad,
+satsang aur mitrata hriday ko shant karti hai
+
+Nara–Narayana ka milan yaad dilata hai ki
+dharm aur karuna saath-saath chalte hainx"""
             create_image_text_layout(text_content=text2, layout="full")
 
 
