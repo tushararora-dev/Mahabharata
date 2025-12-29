@@ -30649,16 +30649,275 @@ dharm aur karuna saath-saath chalte hainx"""
 
         # Section 1.17.1
         with st.expander("Section 1.17.1"):
-            text1 = """ """
+            text1 = """ 
+            Section CCXXI – Subhadra-Harana ka Aarambh 💛🏹
+
+(Prem, utsav aur ek maha-nirnay)
+
+🌄 Raivataka Parvata ka Mahotsav
+
+Vaisampayana batate hain ki kuch hi dinon baad
+Raivataka Parvat par Vrishnis aur Andhakas ka bhavya parv aarambh hua।
+
+Is mahotsav mein:
+
+Brahmanon ko hazaaron daan
+
+Ratnon se sajje mahal
+
+Gaane, nritya, veena, mridang
+
+Sona-jade rath aur alankrit yuvak
+
+Pura parvat svarg ke saman lag raha tha।"""
             create_image_text_layout("attached_assets/chapter1/1.17.1.jpg", text1, layout="side", image_position="left")
-            text2 = """ """
+            text2 = """ 
+            👑 Yadu-Vansh ke Mahaan
+
+Is utsav mein kai pratapshali purush maujood the:
+
+Balarama (Haladhara) – madira se prasan, Revati ke saath
+
+Ugrasena – apni patniyon ke saath
+
+Krishna – sabke kendra mein
+
+Akrura, Satyaki, Uddhava, Gada aur anek Yadava veer
+
+Yeh utsav shakti + saundarya + utsah ka sangam tha।
+
+👀 Arjuna ki Nazar Subhadra par
+
+Utsav dekhte hue:
+
+Arjuna
+
+Krishna
+
+saath-saath ghoom rahe the.
+
+Tab Arjuna ki nazar padi—
+Subhadra par
+(jo yahan Bhadra ke naam se ullekhit hai)
+
+Ratnon se sajji
+Saakhiyon ke beech
+Shaant, sundar, tej se bhari
+
+Aur bas…
+Kaamdev ne Arjuna ke hriday par baan chala diya 💘
+
+🙂 Krishna ka Muskurata Prashn
+
+Krishna sab samajh gaye.
+
+Muskurate hue bole:
+
+“Vanvaasi ka hriday bhi kaam se kampit ho gaya?”
+
+Phir spasht kaha:
+
+“Yeh meri behen hai, Vasudeva ki putri—
+agar tumhara man us par sthir hai,
+toh mujhe batao.”
+
+🏹 Arjuna ka Sankalp
+
+Arjuna ne bina chhupaav ke kaha:
+
+“Itni sundar kanya kisko mohit na karegi?”
+“Agar yeh meri patni bane,
+toh mera jeevan dhanya ho jaaye.”
+
+Aur phir bola:
+
+“Bas batao, use kaise praapt karun—
+main har sambhav prayas karne ko taiyaar hoon.”
+
+🧠 Krishna ka Rajneetik Gyaan
+
+Krishna ne Kshatriya-dharma samjhaya:
+
+Swayamvar → anishchit
+
+Veer Kshatriya ke liye → Harana (forcible abduction) bhi dharm-sammat
+
+Aur spasht kaha:
+
+“Isliye Arjuna,
+meri behen ko haran karke le jao.”
+
+Yeh kehna:
+
+Sirf bhai ka nahi
+
+Ek Rajnitik + Dharmik salah thi
+
+📩 Yudhishthira ki Anumati
+
+Krishna aur Arjuna ne:
+
+Sandesh bheja Yudhishthira ko
+
+Sab baat batai
+
+Aur Yudhishthira ne turant kaha:
+
+“Main sahmat hoon.”
+
+✨ Yahin se aarambh hota hai…
+💫 Subhadra-Harana
+
+Jo keval prem-katha nahi
+
+Balki Mahabharata ke bhavishya ka ek mahatvapurn mod hai
+
+👉 Agla Section:
+🏹 Arjuna ka veer haran
+💛 Subhadra ka saahas
+🔥 Aur Yadava sabha ka bhavishya"""
             create_image_text_layout(text_content=text2, layout="full")
 
         # Section 1.17.2
         with st.expander("Section 1.17.2"):
-            text1 = """ """
+            text1 = """ 
+            Section CCXXII – Subhadra-Harana aur Yadava Sabha ka Ubalta Krodh 🔥🏹
+
+(Veerta, prem aur maryada ka takraav)
+
+🏹 Arjuna ka Nischay aur Krishna ki Sahmati
+
+Vaisampayana kehte hain ki jaise hi
+Arjuna
+ko Yudhishthira ki anumati mili,
+unhone turant Krishna se antim salah ki।
+
+Krishna ki poori sahmati ke saath:
+
+Arjuna apne sone ke rath par chadhe
+
+Rath ke ghante megh-garjan jaise goonj rahe the
+
+Ghode: Saivya aur Sugriva
+
+Khud kavach-dhari, talwar se sajjit
+
+Yeh sab aisa lag raha tha jaise shikar yatra,
+par vastav mein yeh itihaas rachne ja rahe the।"""
             create_image_text_layout("attached_assets/chapter1/1.17.2.jpg", text1, layout="side", image_position="left")
-            text2 = """ """
+            text2 = """ 
+            🌄 Raivataka Parvat par Subhadra
+
+Isi samay:
+
+Subhadra
+
+Raivataka Parvat ki pooja karke
+
+Devtaon aur Brahmanon se aashirvaad lekar
+
+Dwaraka ki or laut rahi thi
+
+Aur tabhi—
+
+⚡ Subhadra-Harana
+
+Kaamdev ke baan se vyakul Arjuna ne:
+
+Achanak apna rath aage badhaya
+
+Subhadra ko balpurvak rath par bithaya
+
+Aur bijli ki gati se Indraprastha ki disha mein badh gaye
+
+Yeh haran:
+
+Kshatriya-dharma ke anusar veerta tha
+
+Par Yadava drishti se apmaan bhi
+
+🚨 Dwaraka mein Halla
+
+Subhadra ke rakshak:
+
+Daudte hue Dwaraka pahunche
+
+Sudharma Sabha mein poora vruttant sunaya
+
+Turant:
+
+Yuddh-ka-nagada baja
+
+Bhoja, Vrishni aur Andhaka veer ikattha hue
+
+Bhojan chhod diye gaye
+
+Madira ke paatra gir pade
+
+Hathiyaar, rath, kavach mangaye gaye
+
+Sabka ek hi bhaav:
+
+“Arjuna ne maryada bhang ki hai!”
+
+🐘 Balram ka Prakop
+
+Tab uthe:
+Balarama
+(Kailasa ke shikhar jaise ujjwal, madira se matta)
+
+Unhone garaj kar kaha:
+
+“Tum sab moorkh ho!
+Jab tak Janardana chup hain,
+bina jaane unka man, tum krodh mein kyun bhadak rahe ho?”
+
+Sab ne ek swar mein kaha:
+
+“Saadh! Saadh!”
+aur sab shaant ho gaye।
+
+🔥 Balram ka Aakrosh (Krishna se)
+
+Shaanti ke baad bhi Balram ka krodh ubhar pada:
+
+“Govinda!
+Humne Arjuna ka samman tumhare liye kiya tha.
+Par usne to hamari thali tod di,
+jismein bhojan kiya tha!”
+
+Unhone kaha:
+
+Arjuna ne Yadava vansh ka apmaan kiya
+
+Subhadra ka haran karke apni mrityu bula li
+
+“Main aaj akela hi Pandavon ka ant kar dunga!”
+
+Sab Yadava veer:
+
+Meghon jaise garje
+
+Balram ke paksh mein khade ho gaye
+
+✨ Is Ansh ka Marm
+
+Prem ne veerta ka roop liya
+
+Veerta ne rajneeti ko chhed diya
+
+Krishna ka maun sabse gehra sandesh tha
+
+👉 Aage kya hoga?
+
+Kya Krishna yuddh hone denge?
+
+Ya Subhadra ka swayam-vachan sab kuch badal dega?
+
+📜 Agla Section (CCXXIII):
+💛 Subhadra ka spashṭikaran
+🧠 Krishna ki kootniti
+🔥 Yadava–Pandava sangharsh ka nirakaran"""
             create_image_text_layout(text_content=text2, layout="full")
 
     # Chapter 1.18
@@ -30666,9 +30925,151 @@ dharm aur karuna saath-saath chalte hainx"""
 
         # Section 1.18.1
         with st.expander("Section 1.18.1"):
-            text1 = """ """
+            text1 = """ 
+            Section CCXXIII – Subhadra-Vivah, Shanti aur Naya Aarambh 🌸✨
+
+(Prem, samajhdaari aur parivaar ki khushi)
+
+🕊️ Krishna ki Buddhi aur Faisla
+
+Vaisampayana kehte hain ki jab Vrishni veer baar-baar krodh mein bol rahe the, tab
+Krishna ne shaant aur gehri baat kahi.
+
+Krishna bole:
+
+Arjuna ne apmaan nahi kiya.
+
+Usne toh hamari izzat badhaai hai.
+
+Kshatriya reeti mein bal-haran bhi ek maanya marg hai.
+
+Subhadra bhi mahaan hai, Arjuna bhi mahaan hai—yeh vivaah bilkul yogya hai.
+
+Krishna ne sabko samjhaya:
+
+“Yuddh se naam kharab hoga.
+Sulah (conciliation) mein koi laaj nahi hoti.”
+
+Sab ne Krishna ki baat maani.
+Veer Arjuna ko roka gaya, aur Dwaraka lautaya gaya."""
             create_image_text_layout("attached_assets/chapter1/1.18.1.jpg", text1, layout="side", image_position="left")
-            text2 = """ """
+            text2 = """ 
+            💍 Arjuna–Subhadra ka Vivaah
+
+Dwaraka aakar:
+
+Arjuna aur Subhadra ka vidhipoorvak vivaah hua.
+
+Vrishni vansh ne Arjuna ka sammaan kiya.
+
+Arjuna ek saal Dwaraka mein sukh se rahe.
+
+Uske baad:
+
+Vanvaas ka antim varsh Pushkar mein poora kiya.
+
+12 saal poore hote hi Arjuna Indraprastha laute.
+
+🌺 Draupadi ka Maan aur Kunti ka Aashirvaad
+
+Indraprastha mein:
+
+Draupadi ko thodi jalan hui.
+
+Par Arjuna ne vinamrata se maafi maangi.
+
+Subhadra:
+
+Gwalin jaise saade vastron mein aayi, phir bhi aur sundar lagi.
+
+Sabse pehle Kunti Maa ko pranam kiya.
+
+Kunti ne pyaar se sir sunggha aur aashirvaad diya.
+
+Phir Subhadra Draupadi ke paas gayi aur boli:
+
+“Main aapki daasi hoon.”
+
+Krishna ne muskurakar kaha:
+
+“Tumhara pati nirbhay aur vijayi rahe.”
+
+Draupadi ne kaha:
+
+“Tathaastu!”
+
+Aur ghar mein shanti aur prem aa gaya। 💛
+
+🎁 Bade Utsav aur Daan
+
+Krishna, Balarama, aur Vrishni-Andhaka veer Indraprastha aaye.
+
+Sone ke rath
+
+Hazaaron gaayen
+
+Ghode, haathi, daasiyaan
+
+Ratn aur vastra
+
+Yudhishthira ne sabka adar-satkar kiya.
+Shehar sugandh, phool aur geeton se bhar gaya. 🎶
+
+👶 Abhimanyu ka Janm
+
+Kuch samay baad:
+
+Subhadra ne ek veer putra ko janm diya—
+Abhimanyu.
+
+Uske gun:
+
+Majboot bhujayein
+
+Nidar hriday
+
+Chandra jaisa mukh
+
+Baagh jaisi veerta
+
+Krishna ne uske bal-sanskar kiye.
+Abhimanyu bachpan se hi sabka laadla ban gaya।
+
+👨‍👩‍👦 Pandav Putron ka Utsav
+
+Draupadi ke paanch putra:
+
+Prativindhya (Yudhishthira se)
+
+Sutasoma (Bhima se)
+
+Srutakarman (Arjuna se)
+
+Satanika (Nakula se)
+
+Srutasena (Sahadeva se)
+
+Sab:
+
+Veer
+
+Sanskari
+
+Astra-shastra mein nipun
+
+Pandav khushi se bhar gaye.
+Ghar mein utsav, hans-muskaan aur dharma ka raaj tha। 🌼
+
+🌟 Is Ansh ka Sandesh
+
+Samajhdaari gusse se badi hoti hai
+
+Prem aur maryada se hi parivaar chalta hai
+
+Naye rishte vinamrata se mazboot bante hain
+
+👉 Yahin se Abhimanyu ki kahani shuru hoti hai…
+Ek chhota sa balak, jo aage chalkar maha-veer banega। 🏹✨"""
             create_image_text_layout(text_content=text2, layout="full")
 
 
@@ -30677,16 +31078,224 @@ dharm aur karuna saath-saath chalte hainx"""
 
         # Section 1.19.1
         with st.expander("Section 1.19.1"):
-            text1 = """ """
+            text1 = """ 
+            Section CCXXIV – Indraprastha ka Sukha aur Yamuna ka Vihār 🌿🌊
+
+(Shanti, nyay aur anjaan mehmaan)
+
+Vaisampayana kehte hain…
+
+Pandav Indraprastha mein bas gaye.
+Ye sab Dhritarashtra aur Bhishma ke aadesh se hua.
+Dheere-dheere, Pandav apni veerta se dusre rajaon ko bhi apne saath laane lage.
+
+Rajya ke log bahut khush the.
+Wo Yudhishthira par bharosa karte the,
+jaise sharir apni aatma par karta hai.
+
+Yudhishthira:
+
+Dharma, Artha aur Kama—
+teeno ko santulan mein rakhta tha.
+
+Kabhi kathor nahi bola.
+
+Kabhi jhooth nahi bola.
+
+Hamesha sabke hit mein socha.
+
+Log usse sirf raja nahi,
+apna apna maante the. 🌕
+Wo nishkalank chaand jaisa lagta tha.
+
+Uske chaar bhai saath the,
+toh rajya aur bhi ujwal lagta tha—
+jaise yagya chaar Vedon ke saath poora hota hai."""
             create_image_text_layout("attached_assets/chapter1/1.19.1.jpg", text1, layout="side", image_position="left")
-            text2 = """ """
+            text2 = """ 
+            ☀️ Garmiyon ka Din, Yamuna ka Plan
+
+Kuch din baad, Arjuna ne
+Krishna se kaha:
+
+“Krishna, garmiyan aa gayi hain.
+Chalo Yamuna ke kinare ghoomne chalte hain.
+Shaam ko wapas aa jayenge.”
+
+Krishna muskuraye:
+“Ye meri bhi ichchha hai, Partha.
+Doston ke saath paani aur van ka aanand lete hain.”
+
+Yudhishthira se anumati lekar,
+Arjuna aur Krishna doston ke saath nikal pade.
+
+🎶 Utsav aur Aanand
+
+Yamuna ke paas ek sundar sthal tha—
+lambe ped, sundar mahal,
+khana-peena, phool, sugandh—sab tayaar.
+
+Sab apni marzi se mauj-masti karne lage:
+
+Koi paani mein khel raha tha
+
+Koi van mein ghoom raha tha
+
+Koi mahal mein hans-gaana kar raha tha
+
+Draupadi aur Subhadra khushi mein
+aurton ko vastra aur gehne daan kar rahi thi.
+Kahin naach, kahin gaana,
+kahin hasi-mazaak—
+jaise Lakshmi swayam wahan bas gayi ho. ✨
+
+🌳 Shant Baithak aur Anjaan Aagman
+
+Is shor-sharaabe se thoda door,
+Arjuna aur Krishna
+ek shaant jagah par baith gaye.
+
+Dono purani veerta ki baatein kar rahe the.
+Bilkul Ashvin Kumar jaise,
+swarg mein baithkar baat karte hue.
+
+Tab ek Brahman wahan aaya.
+
+Wo:
+
+Uncha aur shaant
+
+Pighle hue sone jaisa chamakdar
+
+Jata-dhari, rags pehne
+
+Subah ke suraj jaisa tejwaan
+
+Uski aankhen kamal jaisi thi.
+Poora sharir prakash se bhara tha.
+
+Us Brahman ko dekh kar,
+Arjuna aur Krishna turant khade ho gaye.
+Haath jod kar, vinamrata se bole:
+
+“Prabhu, aapka aadesh kya hai?”
+
+🌟 Is Ansh ka Sandesh
+
+Achha shasan = dharma + daya + satya
+
+Sukh ke beech bhi vinamrata zaroori hoti hai
+
+Kabhi-kabhi ishwar swayam mehmaan bankar aate hain"""
             create_image_text_layout(text_content=text2, layout="full")
 
         # Section 1.19.2
         with st.expander("Section 1.19.2"):
-            text1 = """ """
+            text1 = """ 
+            Section CCXXV – Khandava Van aur Agni ka Bhookh 🔥🌳
+
+(Hinglish moral story style)
+
+Vaisampayana kehte hain…
+
+Wo tejwaan Brahmana
+Arjuna aur Krishna se bola:
+
+“Tum dono Khandava van ke paas rehte ho.
+Tum dharti ke sabse bade veer ho.
+Main bahut bhooka hoon.
+Mujhe bahut zyada khana chahiye.”
+
+Krishna aur Arjuna ne shant swar mein kaha:
+“Batayiye, aap kya khana chahte hain?”
+
+Tab Brahmana muskuraya aur bola:
+
+“Main koi normal Brahmana nahi hoon.
+Main Agni hoon. 🔥
+Aur mujhe wahi bhojan chahiye jo mujhe suit karta hai.”"""
             create_image_text_layout("attached_assets/chapter1/1.19.2.jpg", text1, layout="side", image_position="left")
-            text2 = """ """
+            text2 = """ 
+            🌲 Agni ka Dukh
+
+Agni ne kaha:
+
+“Khandava van mera bhojan hai.
+Par Indra is van ko bachata hai.
+Wo baarish bhej deta hai.
+Is van mein Takshaka bhi rehta hai, jo Indra ka mitra hai.
+
+Main jalna chahta hoon,
+par baar-baar rok diya jata hoon.
+
+Isliye main tum dono ke paas aaya hoon.
+Tum mere liye Indra ki baarish roko.
+Aur kisi prani ko bhaagne mat do.
+Tab main apna bhojan kar paunga.”
+
+❓ Janamejaya ka Prashn
+
+Raja Janamejaya ne poocha:
+
+“Agni itna bechain kyun hai?
+Khandava van hi kyun chahiye?
+Iske peeche koi badi wajah hogi.”
+
+🔱 Raja Svetaki ki Kahani
+
+Vaisampayana bole:
+
+Bahut pehle ek raja tha—Svetaki.
+Wo bahut daani aur yagya-premi tha.
+
+Usne itne zyada yagya kiye
+ki Agni ne 12 saal tak sirf ghrit (ghee) piya.
+
+Lagatar ghee peene se
+Agni beemar ho gaya.
+Uski chamak kam ho gayi.
+Uski shakti ghatt gayi.
+
+Agni ne Brahma ke paas jaakar kaha:
+“Main bhara-bhara mehsoos kar raha hoon.
+Mujhe meri purani shakti wapas chahiye.”
+
+🌍 Brahma ka Upay
+
+Brahma ne kaha:
+
+“Agni, tum bahut zyada ghee pee chuke ho.
+Ab tumhe charbi aur jeevan-urja chahiye.
+
+Khandava van mein
+bahut saare prani bas gaye hain.
+Unka bhojan karne se
+tum phir se shaktishaali ban jaoge.”
+
+Agni turant Khandava van pahucha
+aur Vayu ki madad se jalne laga.
+
+💦 Van ke Jeevon ka Prayas
+
+Par van ke prani chup nahi baithe.
+
+Hathi soond mein paani laane lage
+
+Naag apni kai phanon se paani barsane lage
+
+Sab milkar aag bujhate rahe
+
+Aisa saat baar hua.
+Agni baar-baar jala.
+Aur baar-baar bujhaya gaya.
+
+🌟 Is Ansh ka Sandesh
+
+Ati (zyada) bhi kabhi-kabhi rog ban jaati hai
+
+Bhagwan bhi kabhi-kabhi santulan chahte hain
+
+Har ghatna ke peeche ek purani kahani hoti hai"""
             create_image_text_layout(text_content=text2, layout="full")
 
         # Section 1.19.3
