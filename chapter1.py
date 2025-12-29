@@ -31300,70 +31300,1384 @@ Har ghatna ke peeche ek purani kahani hoti hai"""
 
         # Section 1.19.3
         with st.expander("Section 1.19.3"):
-            text1 = """ """
+            text1 = """ 
+            🔥 Agni ki peeda aur Brahma ka upaay
+
+Agni (Havyavahana)
+Khandava van ko baar-baar jalane ki koshish karta hai,
+lekin Indra baarish karke
+aag bujha deta hai.
+
+Thaka aur dukhi Agni
+Brahma ke paas jaata hai.
+
+Brahma kuch kshan soch kar kehte hain:"""
             create_image_text_layout("attached_assets/chapter1/1.19.3.jpg", text1, layout="side", image_position="left")
-            text2 = """ """
+            text2 = """ 
+            “Ab samay aa gaya hai.
+Devta Nara–Narayana
+manushya roop mein prithvi par avatrit ho chuke hain.
+Unke naam hain Arjuna aur Krishna.
+
+Ve is samay Khandava van mein hi hain.
+Tum unse sahayata maango.
+
+Ve na sirf van ke praniyon ko bhagne se rokenge,
+balki Indra ko bhi rok denge.”
+
+🤝 Agni ka Krishna–Arjuna se nivedan
+
+Agni turant
+Krishna aur Arjuna ke paas jaata hai
+aur unse Khandava van jalane mein sahayata maangta hai.
+
+🏹 Arjuna ki maang (Yuddh ke liye avashyak saadhan)
+
+Arjuna kehte hain (bahut spasht aur yoddha-soch ke saath):
+
+Mere paas bahut se divya astr hain
+
+Lekin:
+
+Mere bal ke layak dhanush nahi
+
+Aise baan chahiye jo kabhi samapt na hon
+
+Mera rath itna majboot ho jo asankhya astr sambhaal sake
+
+Safed, hawa jaise tez ghode
+
+Aisa rath jiska tej surya jaisa ho aur
+jiske pahiyon ki awaaz badalon ki garaj jaise ho
+
+⚡ Krishna ke liye bhi shastra
+
+Arjuna saath hi kehte hain:
+
+“Krishna ke bal aur urja ke yogya
+koi shastra bhi hona chahiye,
+jisse ve Naga aur Pisacha jaise praniyon ka vinash kar saken.”
+
+🔥 Antim sankalp
+
+Arjuna aur Krishna dono kehte hain:
+
+“Agni Dev,
+hum apni veerata aur purusharth mein koi kami nahi rakhenge.
+
+Lekin safalta ke liye sahi saadhan aapko hi dene honge.”
+
+🌟 Is ansh ka gehra arth (Meaning & Symbolism)
+
+Agni = shuddhi + vinash + punar-nirman
+
+Indra = purani vyavastha jo parivartan se darti hai
+
+Krishna–Arjuna (Nara–Narayana) =
+Ishwariya shakti + Manaviya purusharth ka sangam
+
+👉 Sirf shakti kaafi nahi hoti,
+👉 Sahi upkaran + dharma ke saath shakti chahiye.
+
+📌 Aage kya hoga?
+
+Agni
+Krishna aur Arjuna ko
+divya dhanush, akshaya baan, rath aur shastra dega
+— aur tab shuru hoga
+🔥 Khandava Van ka maha-dahan 🔥"""
             create_image_text_layout(text_content=text2, layout="full")
 
         # Section 1.19.4
         with st.expander("Section 1.19.4"):
-            text1 = """ """
+            text1 = """ 
+            Agni Dev gusse aur dukh mein the.
+Unka rog abhi bhi theek nahi hua tha.
+
+Tab unhone yaad kiya Varuna ko.
+Jo jal ke devta the.
+Aur dishaon ke rakshak bhi.
+
+Varuna turant prakat hue.
+Agni ne vinamrata se kaha:
+
+“Mujhe Soma se praapt
+divya dhanush Gandiva,
+akshaya tarkash,
+aur vanar-dhwaj rath de do.
+
+Arjuna Gandiva se maha karya karega,
+aur Krishna apne chakra se.”"""
             create_image_text_layout("attached_assets/chapter1/1.19.4.jpg", text1, layout="side", image_position="left")
-            text2 = """ """
+            text2 = """ 
+            Varuna muskuraye.
+Unhone kaha,
+“Main sab deta hoon.”
+
+🏹 Gandiva ka prakat hona
+
+Varuna ne Gandiva diya.
+Yeh dhanush:
+
+Kabhi tootne wala nahi
+
+Sab astron ka shreshtha
+
+Ek lakh dhanushon ke barabar shakti
+
+Devta aur Gandharva bhi ise poojte the
+
+Saath hi mile:
+
+Do akshaya tarkash (jo kabhi khali na ho)
+
+Divya rath, jiska dhwaj vanar ka tha
+
+Rath ke ghode:
+
+Safed baadal jaise
+
+Hawa aur mann se bhi tez
+
+Sone ke sajawat se chamakte hue
+
+Yeh rath Vishvakarma ne banaya tha.
+Iska tej surya jaisa tha.
+Iske pahiyon ki awaaz badalon ki garaj jaisi thi.
+
+⚡ Arjuna ka sankalp
+
+Arjuna ne devtaon ko pranam kiya.
+Rath ke chaaron or ghoome.
+Phir us par chadh gaye.
+
+Jab Arjuna ne Gandiva par dor chadhaayi,
+toh uski garaj se sab kaanp gaye.
+
+Arjuna khush ho gaye.
+Unhe laga,
+“Ab main kaam ke yogya hoon.”
+
+🌪️ Krishna ko divya shastra
+
+Phir Agni ne Krishna ko diya
+Sudarshan Chakra.
+
+Agni bole:
+
+“Is chakra se tum
+manav, devta, rakshas, naga
+sab par vijay paa sakte ho.
+
+Yeh chakra shatru ko maar kar
+wapas tumhare haath aa jaayega.”
+
+Varuna ne Krishna ko
+Kaumodaki gada bhi di.
+Uski awaaz bijli jaisi thi.
+Aur woh har daitya ka ant kar sakti thi.
+
+🤝 Krishna–Arjuna ka vachan
+
+Krishna aur Arjuna bole:
+
+“Ab hum tayaar hain.
+Indra bhi aaye, toh hum rukenge nahi.
+
+Agni Dev,
+aap nishchint hokar van jalaiye.
+Hum aapke saath hain.”
+
+🔥 Khandava Van ka maha-dahan
+
+Tab Agni ne apna
+bhayanak roop dharan kiya.
+
+Saat jwalaon se
+Khandava van ko chaaron or se gher liya.
+
+Aag ki garaj se:
+
+Prani kaanp uthe
+
+Van surya ke tej se chamak utha
+
+Jaise Yug ka ant aa gaya ho
+
+Khandava van
+jalte hue Meru Parvat jaisa lag raha tha.
+
+🌱 Is katha ka sandesh (Moral)
+
+Shakti + sahi upkaran = Vijay
+
+Dharma ke saath yuddh kabhi vyarth nahi hota
+
+Jab Ishwar aur purusharth saath ho,
+toh koi Indra bhi rok nahi sakta"""
             create_image_text_layout(text_content=text2, layout="full")
 
         # Section 1.19.5
         with st.expander("Section 1.19.5"):
-            text1 = """ """
+            text1 = """ 
+            Vaisampayana bole —
+
+Tab Krishna aur
+Arjuna,
+dono apne–apne rathon par chadh gaye.
+
+Dono ne Khandava van ko
+do taraf se gher liya.
+
+Jo bhi prani
+van se bhaagne ki koshish karta,
+wahan turant
+Krishna aur Arjuna pahunch jaate.
+
+Aisa lag raha tha
+jaise do rath nahi, ek hi rath ho.
+Aur do yoddha nahi, ek hi shakti ho."""
             create_image_text_layout("attached_assets/chapter1/1.19.5.jpg", text1, layout="side", image_position="left")
-            text2 = """ """
+            text2 = """ 
+            🔥 Van ke andar ka dard
+
+Aag phail rahi thi.
+Har taraf cheekh–pukaar thi.
+
+Kuch prani aadhe jale hue the
+
+Kuch bhay se idhar–udhar bhaag rahe the
+
+Kuch apne bachchon ko gale lagaye
+unke saath hi mar gaye
+
+Prem itna gehra tha
+ki chhod kar bhaag hi nahi paaye
+
+Kuch prani
+jalti aag se bachne ko upar ude,
+par phir ghoomte hue
+neeche gir pade.
+
+Pankh, aankhen, pair —
+sab jal chuke the.
+Zameen par girkar
+wo tarapte rahe.
+
+🌊 Jal bhi aag ban gaya
+
+Van ke talab aur jheel
+itni garam ho gayi
+ki paani ubalne laga.
+
+Machhliyan aur kachhuye
+sab mar gaye.
+
+Jalte sharir
+aise lag rahe the
+jaise aag ne anek roop dharan kar liye ho.
+
+🏹 Arjuna ke baan
+
+Jo pakshi udkar bachna chahte the,
+Arjuna ke teer
+unhe beech aakash mein hi kaat dete.
+
+Cheekhte hue
+pakshi neeche aag mein girte.
+
+Har taraf shor tha.
+Aisa shor,
+jaise kabhi Samudra Manthan ke samay tha.
+
+☁️ Devta ghabra gaye
+
+Aag ki jwala
+aasmaan tak pahunch gayi.
+
+Devta ghabra uthe.
+Sab milkar gaye
+Indra ke paas.
+
+Devta bole:
+
+“Prabhu,
+kya duniya ka ant aa gaya hai?
+Agni itna bhayanak kyun jal raha hai?”
+
+🌧️ Indra ka prahar
+
+Indra ne dekha
+Agni ka prakop.
+
+Wo turant nikle
+Khandava van ko bachane.
+
+Indra ne
+aasmaan ko ghane baadalon se bhar diya.
+Aur zor–zor se
+baarish hone lagi.
+
+Hazaaron baadal
+jang ke rath ke danda jaise
+motey phuhar barsa rahe the.
+
+🔥⚡ Aag vs Baarish
+
+Par Agni ki garmi itni tez thi
+ki baarish aasmaan mein hi sookh jaati.
+
+Paani zameen tak pahunch hi nahi paata.
+
+Indra aur krodhit ho gaye.
+Unhone aur ghane baadal bulaye.
+Aur bhayanak baarish karwa di.
+
+Ab drishya aur bhi darawna ho gaya—
+
+Neeche aag ki jwala
+
+Upar bijli aur baadal
+
+Beech mein dhuaan aur cheekhein
+
+Khandava van
+dekhne mein hi
+bhay paida kar raha tha.
+
+🌱 Is bhaag ka sandesh (Moral)
+
+Jab dharma ka karya chal raha ho,
+toh prakriti bhi pariksha leti hai
+
+Aag aur baarish jaise vipreet tatva bhi
+apna–apna kartavya nibhate hain
+
+Par jab Ishwariya yojana chal rahi ho,
+toh koi shakti use turant rok nahi sakti"""
             create_image_text_layout(text_content=text2, layout="full")
 
         # Section 1.19.6
         with st.expander("Section 1.19.6"):
-            text1 = """ """
+            text1 = """ 
+            Vaisampayana bole —
+
+Tab Arjuna,
+Pandu ke putra,
+apne divya astra yaad karke
+Indra ki baarish ko
+apni astra-varsha se rok dete hain.
+
+Aasman teeron se bhar jaata hai.
+Aisa lagta hai jaise
+chandni mein ghana kohra chha gaya ho.
+
+Ab koi bhi prani
+Khandava van se bhaag nahi paata."""
             create_image_text_layout("attached_assets/chapter1/1.19.6.jpg", text1, layout="side", image_position="left")
-            text2 = """ """
+            text2 = """ 
+            🐍 Takshaka ka beta – Ashvasena
+
+Us waqt Takshaka
+Kurukshetra mein tha.
+
+Par uska beta Ashvasena
+van mein maujood tha.
+
+Wo bachne ki koshish karta hai.
+Par Arjuna ke teer
+har raasta band kar dete hain.
+
+Tab uski maa
+use bachane ka nirnay leti hai.
+
+Wo pehle
+beta ka sir nigal leti hai,
+phir poonch.
+
+Par jaise hi
+wo zameen se upar uthti hai,
+Arjuna ek tez teer se
+uska sir kaat dete hain.
+
+🌬️ Indra ka chhal
+
+Indra
+ye sab dekh kar ghabra jaate hain.
+
+Apne mitra ke bete ko bachane ke liye
+wo tez aandhi chalate hain.
+
+Arjuna kuch pal ke liye
+behosh ho jaate hain.
+
+Isi beech
+Ashvasena bach kar bhaag jaata hai.
+
+Hosh aate hi
+Arjuna ko chhal ka pata chalta hai.
+Wo bahut krodhit hote hain.
+
+Arjuna,
+Krishna
+aur Agni milkar kehte hain—
+
+“Jo dhokhe se bacha,
+wo kabhi mahan nahi banega!”
+
+⚔️ Devta yuddh ke liye utarte hain
+
+Arjuna gusse mein
+aasman teeron se bhar dete hain.
+
+Indra bhi
+yuddh ke liye taiyaar ho jaate hain.
+
+Baadal, bijli, pathar, shastra—
+sab chhod diye jaate hain.
+
+Arjuna Vayavya Astra chala dete hain.
+Baadal chhat jaate hain.
+Baarish sookh jaati hai.
+Suraj phir chamak uthta hai.
+
+🔥 Agni ka prakop
+
+Agni khush ho jaate hain.
+Wo alag–alag roop lekar
+aur tez jalne lagte hain.
+
+Garuda vansh ke pakshi,
+Naga, Asura, Gandharva, Yaksha—
+sab yuddh ke liye aate hain.
+
+Par—
+
+Arjuna ke teer sabko kaat dete hain
+
+Krishna ka Sudarshan Chakra
+Daityon ko gira deta hai
+
+Shatru
+lehro ke baad kinare pade lakdi jaise
+nishchal ho jaate hain.
+
+🐘 Indra ka antim prahaar
+
+Indra apne
+safed haathi par chadh kar aate hain.
+
+Wo apna Vajra uthate hain.
+Devta bhi apne–apne shastra le lete hain.
+
+Par Arjuna aur Krishna
+shaant, dridh, nirbhay khade rehte hain.
+
+Indra
+Mandara parvat ka ek bada shikhar
+ukhaad kar Arjuna par phenkte hain.
+
+Arjuna us parvat ko
+hazaar tukdon mein kaat dete hain.
+
+Tukde girte hain.
+Khandava van mein
+bahut se prani
+uske neeche dab jaate hain.
+
+🌱 Is bhaag ka sandesh (Moral)
+
+Shakti bina dharma ke andhi hoti hai
+
+Dhokha jeet nahi deta, sirf der karta hai
+
+Jab Ishwariya yojana poori hoti hai,
+toh devta bhi use rok nahi paate"""
             create_image_text_layout(text_content=text2, layout="full")
 
         # Section 1.19.7
         with st.expander("Section 1.19.7"):
-            text1 = """ """
+            text1 = """ 
+            Vaisampayana kehte hain —
+
+Khandava van mein bhay aur vinash chha gaya.
+Danava, Rakshasa, Naga, pashu, pakshi—
+sab girti hui chattanon, bhayankar aag,
+aur Krishna–Arjuna ke shastra dekh kar
+sthambhit ho gaye.
+
+Aag chaaro taraf thi.
+Aasman garaj raha tha.
+Aur Krishna
+apne Sudarshan Chakra ke saath
+Mrityu samaan vichar rahe the.
+
+Chakra chala—
+shatru kate—
+aur chakra phir se Krishna ke haath mein laut aata.
+
+Koi bhi devta
+Krishna aur Arjuna
+ko yuddh mein hara na saka."""
             create_image_text_layout("attached_assets/chapter1/1.19.7.jpg", text1, layout="side", image_position="left")
-            text2 = """ """
+            text2 = """ 
+            🌩️ Devta peechhe hat gaye
+
+Jab devta samajh gaye
+ki Khandava ko bachana sambhav nahi,
+sab yuddh chhod kar laut gaye.
+
+Tab Indra
+ke kaan mein
+akashvani hui:
+
+“Takshaka zinda hai—
+par Krishna aur Arjuna Nara–Narayana hain.
+Inhe koi hara nahi sakta.
+Khandava ka vinash vidhi dwara nishchit hai.”
+
+Indra ne apna krodh chhod diya
+aur devta swarg laut gaye.
+
+Krishna aur Arjuna
+singh-garjana karte hain
+aur nirdar bhay se
+Agni ki sahayata jaari rakhte hain.
+
+🔥 Agni tript hota hai
+
+Teeron aur chakra se ghayal prani
+Agni ke mukh mein girte jaate hain.
+
+Charo dishaon mein
+cheekh-pukaar hoti hai.
+
+Agni
+laal aankhon,
+jalti jihva,
+aur prachand roop mein
+prasann ho jaata hai.
+
+Use
+maans, rakt aur charbi ka
+“amrit” milta hai.
+
+🛕 Maya Danava ka uddhaar
+
+Tab Krishna
+Maya
+ko bhaagte hue dekhte hain.
+
+Agni use jalaane aata hai.
+Krishna chakra uthate hain.
+
+Dara hua Maya pukarta hai—
+
+“Arjuna! Meri raksha karo!”
+
+Arjuna kehte hain—
+
+“Bhay mat karo.”
+
+Sirf itna sunte hi
+Maya ko jeevan daan mil jaata hai.
+
+Krishna use nahi maarte.
+Agni bhi use nahi jalata.
+
+👉 Yahin se aage chal kar
+Maya Danava, Pandavon ke liye
+Maya-Sabha ka nirmaan karega.
+
+⏳ Ant mein
+
+Agni 15 din tak Khandava ko jalata raha.
+
+Sirf 6 prani bach paaye:
+
+Ashvasena (Takshaka ka putra)
+
+Maya Danava
+
+4 Sarngaka pakshi
+
+Baaki sab
+vidhi ke anusaar
+Agni mein samarpit ho gaye.
+
+🌱 Is adhyay ka mool sandesh (Core Moral)
+
+Nara–Narayana (Krishna–Arjuna)
+sirf veer nahi, daivi niyati ke saadhak hain
+
+Vidhi (Destiny) ke saamne
+devta bhi peeche hat jaate hain
+
+Karuna aur sharan
+maha-vinash ke beech bhi sambhav hai
+
+Jo raksha maangta hai
+aur jise dharm bachana chahe—
+use jeevan milta hai"""
             create_image_text_layout(text_content=text2, layout="full")
 
         # Section 1.19.8
         with st.expander("Section 1.19.8"):
-            text1 = """ """
+            text1 = """ 
+            Janamejaya poochte hain:
+“Guruji, ek baat samajh nahi aayi.
+Jab poora Khandava van jal gaya,
+toh Sarngaka pakshi kaise bach gaye?
+Ye toh bahut adbhut lagta hai.”
+
+Vaisampayana muskurakar kehte hain:
+
+Beta, main tumhe iska sachcha kaaran batata hoon.
+Ye kahani tapassya, maa-baap ke pyaar aur karuna ki hai."""
             create_image_text_layout("attached_assets/chapter1/1.19.8.jpg", text1, layout="side", image_position="left")
-            text2 = """ """
+            text2 = """ 
+            🌿 Rishi Mandapala ki kahani
+
+Bahut pehle,
+ek mahaan rishi the — Mandapala।
+Wo bahut vidvaan, sanyami, aur dharmic the.
+
+Unhone tapasya ki.
+Yagya kiye.
+Par unke koi santaan nahi thi.
+
+Jab wo Pitrlok gaye,
+toh unhe wahan ka phal nahi mila.
+
+Devtaon ne kaha:
+
+“Rishi, tum par putra-rin baaki hai.
+Santaan ke bina moksha poora nahi hota.”
+
+Mandapala dukhi ho gaye.
+Unhone socha:
+“Jaldi santaan kaise ho?”
+
+🕊️ Pakshi roop aur janm
+
+Unhone dekha ki
+pakshi jaldi bachche dete hain.
+
+Toh Mandapala ne
+Sarngaka pakshi ka roop liya
+aur Jarita naam ki pakshi se
+chaar putra paida kiye.
+
+Ye chaaron bachche
+andey ke andar hi rishi-swaroop the.
+
+Mandapala doosri patni ke paas chale gaye,
+par maa Jarita ne
+apne andon ko chhoda nahi.
+
+Wo jungle mein hi
+maa ke pyaar se unki raksha karti rahi ❤️
+
+🔥 Khandava van jalne wala tha
+
+Kuch samay baad,
+Mandapala wapas aaye
+aur dekha ki
+Agni
+Khandava van jalane aa rahe hain.
+
+Unka dil kaanp gaya 😨
+“Mere bachche toh yahin hain!”
+
+🙏 Agni ki stuti
+
+Mandapala turant
+Agni dev ki bhakti se stuti karte hain:
+
+“Agni dev,
+aap hi sab kuch ho.
+Yagya aap se chalte hain.
+Sansaar aap par tikka hai.”
+
+Agni dev prasann ho gaye 😊
+aur bole:
+
+“Mango, kya chahte ho?”
+
+Mandapala haath jod kar bole:
+
+“Jab aap van jalao,
+mere bachchon ko bacha lena.”
+
+Agni dev ne kaha:
+
+“Tathaastu.”
+
+🌈 Isliye Sarngaka bach gaye
+
+Isliye beta,
+jab poora Khandava van jal gaya,
+tab bhi Sarngaka pakshi ke chaar bachche surakshit rahe.
+
+Agni dev ne
+Mandapala ke bachchon ko haani nahi pahunchayi.
+
+🌟 Is kahani ka Moral
+
+Maa-baap ka pyaar sabse badi shakti hota hai
+
+Bhakti aur vinamrata se devta bhi pighal jaate hain
+
+Dharm sirf shastra nahi, karuna bhi hai
+
+Jab niyat shuddh ho,
+toh vinash ke beech bhi raksha hoti hai"""
             create_image_text_layout(text_content=text2, layout="full")
 
         # Section 1.19.9
         with st.expander("Section 1.19.9"):
-            text1 = """ """
+            text1 = """ 
+            Vaisampayana bolte hain:
+
+Jab Khandava van mein aag bhadak uthi,
+toh chhote-chhote Sarngaka pakshi bahut ghabra gaye.
+Wo bahut naazuk the.
+Na unke pankh the,
+na taangein mazboot.
+
+Aag har taraf se aa rahi thi.
+Bachchon ko koi raasta nazar nahi aa raha tha."""
             create_image_text_layout("attached_assets/chapter1/1.19.9.jpg", text1, layout="side", image_position="left")
-            text2 = """ """
+            text2 = """ 
+            😢 Maa Jarita ka dard
+
+Unki maa Jarita ye sab dekhkar
+phoot-phoot kar rone lagi.
+
+Wo boli:
+“Ye bhayankar aag
+poore jungle ko jala degi.
+Mere ye nanhe bachche
+abhi kuch samajhne layak bhi nahi hain.
+
+Na main in sab ko lekar bhaag sakti hoon.
+Na main inhe chhod sakti hoon.
+Mera dil toot raha hai 💔
+
+Kise bachaoon?
+Kise chhod doon?
+Mera dharm kya kehta hai?
+
+Lagta hai main
+apne pankhon se inhe dhak loon
+aur inke saath hi mar jaoon.”
+
+Usne apne pati ki baat yaad ki:
+“Ek beta vansh aage badhaayega,
+ek tapasya karega,
+ek vedon ka gyata banega.”
+
+Jarita roti hui boli:
+“Phir ye vipatti kyun aa gayi?
+Ab main kya karoon?”
+
+🧠 Bachchon ki samajhdaari
+
+Tab un nanhe pakshiyon ne
+apni maa se kaha:
+
+“Maa,
+aap humein chhod kar chali jao.
+Aap bach jaogi,
+toh phir se santaan ho sakti hai.
+
+Agar aap mar gayi,
+toh hamara vansh hi khatam ho jaayega.
+
+Kripya apne dil par kabu pao.
+Aapka jeevit rehna
+hamare vansh ke liye zaroori hai.”
+
+🕳️ Aakhri upaay
+
+Maa Jarita ne aas-paas dekha
+aur boli:
+“Yahan ek choohe ka bil hai.
+Tum sab isme ghus jao.
+Main upar se mitti se band kar doongi.
+Aag shant hogi,
+toh main wapas aa jaungi.”
+
+⚠️ Do khatron ke beech faisla
+
+Par bachche bole:
+“Maa,
+hum bina pankh ke
+sirf maans ke gole hain.
+
+Agar hum bil mein gaye,
+toh chooha humein kha jaayega.
+Aur yahin rahe,
+toh aag humein jala degi.
+
+Dono taraf maut hai.
+Par aag mein marna
+choohe se khaaye jaane se
+zyada garima-poorn hai.”
+
+🌟 Is kahani ka Moral
+
+Saccha gyaan umr se nahi, soch se aata hai
+
+Kabhi-kabhi bachche bhi
+bahut bade faisle samajhdaari se lete hain
+
+Dharm sirf jeena nahi, sahi tareeke se jeena (aur marna) bhi sikhata hai
+
+Maa ka pyaar aur bachchon ka balidaan
+dono hi atyant pavitra hote hain"""
             create_image_text_layout(text_content=text2, layout="full")
 
         # Section 1.19.10
         with st.expander("Section 1.19.10"):
-            text1 = """ """
+            text1 = """ 
+            Vaisampayana kehte hain:
+
+Apne bachchon ki baat sunkar
+Maa Jarita ne phir kaha:
+
+“Beta, jo chooha is bil mein rehta tha,
+use ek baaz (hawk) apne panjon mein pakad kar
+yahan se le gaya hai.
+Ab tum bina darr ke
+is bil mein ja sakte ho.”"""
             create_image_text_layout("attached_assets/chapter1/1.19.10.jpg", text1, layout="side", image_position="left")
-            text2 = """ """
+            text2 = """ 
+            🤔 Bachchon ka tark
+
+Nanhe pakshi phir bole:
+
+“Maa,
+humein poori tarah vishwas nahi hai
+ki chooha sach mein chala gaya hai.
+
+Ho sakta hai
+yahan aur choohe ho.
+Unse humein poora darr hai.
+
+Aur dekho,
+hawa ka rukh badal raha hai.
+Aag shayad yahan tak aaye hi na.
+
+Bil mein jaane par
+maut pakki hai,
+par yahin ruke rehne par
+maut anishchit hai.
+
+Jahan maut anishchit ho,
+wo sthaan behtar hota hai
+jahan maut nishchit ho.
+
+Isliye, Maa,
+aap khud bach jao.
+Aap zinda rahogi
+toh phir se achhe bachche pa sakti ho.”
+
+🕊️ Maa ka sach
+
+Tab Maa Jarita ne dhairya se kaha:
+
+“Beta,
+maine apni aankhon se dekha hai.
+Wo baaz sach mein choohe ko utha le gaya.
+
+Main uske peeche tak gayi thi.
+Aur maine usse aashirvaad diya:
+‘Tum hamare shatru ko le ja rahe ho,
+isliye tum swarg mein
+sunehre sharir ke saath raho.’
+
+Us baaz ne chooha kha liya,
+aur tab main wapas aayi.
+Isliye ab tum nishchint ho jao.
+Bil surakshit hai.”
+
+🧠 Bachchon ki kathor par sachchi baat
+
+Phir bhi bachche bole:
+
+“Maa,
+hum aapko jhootha nahi keh rahe.
+Par jab kisi ka mann
+dukh aur bhay se bhara ho,
+toh uski soch bhramit ho sakti hai.
+
+Aap humse
+koi labh nahi pa rahi ho.
+Phir bhi aap
+itna bada balidaan kyun kar rahi ho?
+
+Aap jawaan ho, sundar ho.
+Aap apne pati ke paas ja sakti ho.
+Phir se santaan pa sakti ho.
+
+Humein aag mein jaakar
+uttam lok mil jaayenge.
+Agar hum bache rahe,
+toh aap wapas aa sakti ho.”
+
+💔 Maa ka kathin faisla
+
+Apne bachchon ki baat sunkar
+Maa Jarita ka dil bhar aaya.
+
+Ant mein,
+unhe Khandava van mein chhodkar,
+wo jaldi se us jagah chali gayi
+jahan aag nahi thi.
+
+🔥 Aag ka saamna
+
+Thodi hi der mein
+Agni dev apni bhayankar lapton ke saath
+wahan aa pahunche
+jahan Mandapala ke chaar bachche the.
+
+Nanhe pakshiyon ne
+aag ko apni taraf aate dekha.
+
+Tab Jaritari,
+jo sabse bada tha,
+Agni ke saamne
+bolna shuru karta hai…
+
+(Agla bhaag yahin se shuru hota hai) ✨
+
+🌟 Is kahani ka Moral
+
+Vivek bhay se bada hota hai
+
+Kabhi-kabhi maa ka pyaar
+uski soch ko bhi hila deta hai
+
+Nishchit maut se anishchit maut behtar hoti hai
+
+Sachcha balidaan
+bina shor ke hota hai"""
             create_image_text_layout(text_content=text2, layout="full")
 
         # Section 1.19.11
         with st.expander("Section 1.19.11"):
-            text1 = """ """
+            text1 = """ 
+            Aag bilkul paas aa chuki thi.
+Chaaron bhai ek-dusre ko dekh rahe the.
+Darr tha, par buddhi zinda thi.
+
+🧠 Jaritari (sabse bada bhai) bola
+
+“Jo buddhiwaan hota hai,
+wo maut ko yaad rakh kar hi jeeta hai.
+
+Jab maut saamne aati hai,
+toh use dard nahi hota.
+
+Par jiska mann uljha hota hai,
+use maut ke pal mein bhi shanti nahi milti,
+aur use mukti nahi milti.”"""
             create_image_text_layout("attached_assets/chapter1/1.19.11.jpg", text1, layout="side", image_position="left")
-            text2 = """ """
+            text2 = """ 
+            💪 Sarisrikka (doosra bhai) bola
+
+“Bhai,
+tum shaant aur samajhdaar ho.
+
+Aaj humari jaan khatre mein hai.
+Aise samay mein
+sirf koi ek hi
+sach mein veer aur buddhimaan hota hai.”
+
+🛡️ Stamvamitra (teesra bhai) bola
+
+“Bade bhai ko rakshak kaha jaata hai.
+Wahi chhote bhaiyon ko bachata hai.
+
+Agar bade bhai hi
+bachane mein asamarth ho jaaye,
+toh chhote kya kar sakte hain?”
+
+🔥 Drona (sabse chhota bhai) bola
+
+“Dekho!
+Saat jeebh aur saat muh wala
+Agni dev
+tez chamak ke saath
+seedha hamari taraf aa raha hai.
+
+Jo kuchh bhi uske raaste mein hai,
+sab jalata ja raha hai.”
+
+🙏 Chaaron bhaiyon ki Agni-stuti
+
+Phir chaaron bhaiyon ne
+Agni dev ki prarthna shuru ki.
+
+Jaritari ki prarthna
+
+“Agni dev,
+aap vayu ki atma ho.
+Prithvi ki hariyali ka sharir ho.
+
+Aap jal se janme ho,
+aur jal aapse hi janm leta hai.
+
+Surya ki kirnon jaise
+aapki lapten
+har disha mein failti hain.”
+
+Sarisrikka ki prarthna
+
+“Hey dhuaan-dhvaj dharan karne wale Agni!
+Na maa dikhti hai,
+na pita ka pata hai.
+
+Hamaare pankh bhi abhi nahi uge.
+Aapke siwa koi rakshak nahi.
+
+Hum chhote hain, Rishi hain.
+Humein bachaiye.
+
+Hey Agni,
+apne shubh roop se humein suraksha dijiye.
+Kripya kisi aur raaste se chale jaaiye.”
+
+Stamvamitra ki prarthna
+
+“Agni dev,
+aap hi sab kuchh ho.
+
+Poora brahmand
+aap par tikka hai.
+
+Aap yagya ka ghee bhi ho
+aur use grahan karne wale bhi.
+
+Srishti bhi aap se hoti hai,
+aur samay aane par
+vinaash bhi aap hi karte ho.”
+
+Drona ki prarthna
+
+“Hey jagat ke swami,
+aap sharir ke andar rehkar
+bhojan ko pachate ho.
+
+Aap hi surya ho,
+jo jal ko kheench kar
+baadal banata hai
+aur phir varsha karta hai.
+
+Ped, bel, talab, samundar—
+sab aapse hi aaye hain.
+
+Par hey Agni,
+hum itni garmi sah nahi sakte.
+
+Kripya humein na jalaaiye.
+Jaise samundar
+kinare ke ghar ko chhod deta hai,
+waise hi aap bhi
+kisi door ke raaste se chale jaaiye.”
+
+🌟 Agni dev ka varadaan
+
+Drona ki baat sunkar
+Agni dev prasann hue.
+
+Unhe Mandapala ka vachan yaad aaya.
+Agni bole:
+
+“Drona,
+tum sachche Rishi ho.
+Tumhaari baatein
+vedon ke saman hain.
+
+Maine tumhaare pita se vaada kiya tha
+ki tumhe bachaunga.
+
+Main tumhaari prarthna se prasann hoon.
+Nidar raho.
+Bolo, main kya karoon?”
+
+🐭 Drona ki maang
+
+Drona ne kaha:
+“Hey Agni,
+yeh billiyaan humein roz pareshaan karti hain.
+Kripya unhe
+unke saathiyon samet
+jala daaliye.”
+
+🔥 Ant
+
+Agni dev ne
+Sarngaka bachchon ki baat maan li.
+
+Unhe apna iraada bataya.
+Aur phir,
+aur bhi adhik shakti ke saath,
+Khandava van ko jalana shuru kiya.
+
+🌱 Is kahani ka Moral
+
+Sachchi prarthna mein gyaan hota hai, darr nahi
+
+Chhote hone ka matlab kamzor hona nahi
+
+Buddhi aur satya se bhagwan bhi prasann hote hain
+
+Vachan aur dharm ki shakti sabse badi hoti hai"""
             create_image_text_layout(text_content=text2, layout="full")
 
         # Section 1.19.12
         with st.expander("Section 1.19.12"):
-            text1 = """ """
+            text1 = """ 
+            Mandapala Rishi ka mann shaant nahi tha.
+Agni se baat ho chuki thi.
+Par pita ka dil fir bhi ghabra raha tha.
+
+😟 Mandapala ki Chinta
+
+Mandapala ne Lapita se kaha:
+“Lapita, mere bachche chal nahi sakte.
+Aag tez hogi.
+Hawa bhi chal padegi.
+
+Kaise bach paayenge wo?
+Unki maa kya kar paayegi?
+
+Jarita akeli hai.
+Bachchon ko bachate hue
+uska dil toot jaayega.
+
+Jaritari ka kya haal hoga?
+Sarisrikka ka?
+Stamvamitra ka?
+Aur chhote Drona ka?
+Aur unki maa ka kya hoga?”
+
+Uska swar bhara tha.
+Dil bojhil tha."""
             create_image_text_layout("attached_assets/chapter1/1.19.12.jpg", text1, layout="side", image_position="left")
-            text2 = """ """
+            text2 = """ 
+            😠 Lapita ka Jalan Bhara Jawaab
+
+Lapita ke mann mein jalan thi.
+Usne kaha:
+“Tum kyun itni chinta karte ho?
+
+Tumne khud kaha tha
+wo Rishi bachche hain.
+Agni unhe nuksaan nahi pahunchayega.
+
+Agni ne vaada kiya hai.
+Devta apna vachan nahi todte.
+
+Sach batao,
+tumhe mujhe chhodkar
+us Jarita ki yaad aa rahi hai.
+
+Tumhara pyaar mere liye
+pehle jaisa nahi raha.
+
+Jiska mann do jagah bandha ho,
+wo paas wale ka dard nahi samajhta.
+
+Jaao, Jarita ke paas jaao.
+Main akeli hi chal dungi.
+Yehi meri kismat hai.”
+
+🧠 Mandapala ka Jawaab
+
+Mandapala ne shaant swar mein kaha:
+“Tum galat soch rahi ho.
+
+Main yahan sirf santaan ke liye hoon.
+Aur jo santaan hai,
+wo khatre mein hai.
+
+Jo apne paas jo hai
+use chhodkar
+sirf aage ke laalach mein bhagta hai,
+wo paapi hota hai.
+
+Tum apni marzi se ja sakti ho.
+Par ye aag
+mere mann mein bure sanket jagaa rahi hai.”
+
+🌱 Maa aur Bachchon ka Milan
+
+Tab tak aag
+Sarngaka bachchon ke ghar se
+aage badh chuki thi.
+
+Jarita bhaagti hui aayi.
+Dil dhadak raha tha.
+Aankhon mein darr tha.
+
+Usne dekha—
+saare bachche surakshit the.
+
+Zinda.
+Sahi-salaamat.
+
+Bachche maa ko dekhkar rone lage.
+Maa bhi ro padi.
+Usne ek-ek ko gale lagaya.
+
+Wo aansu
+dukh ke nahi the.
+Wo sukoon ke the.
+
+👀 Mandapala ka Aana
+
+Usi waqt Mandapala wahan pahucha.
+Par bachchon ne khushi nahi dikhayi.
+Jarita bhi chup rahi.
+
+Mandapala ne poocha:
+“Kaun bada hai?
+Kaun doosra?
+Kaun teesra?
+Kaun sabse chhota?
+
+Main bol raha hoon,
+tum chup kyun ho?
+
+Maine tumhe chhoda tha,
+par main khush nahi tha.”
+
+💔 Jarita ka Kathor Sach
+
+Jarita boli:
+“Tumhe kya matlab
+kaun bada, kaun chhota?
+
+Tum to mujhe chhodkar
+Lapita ke paas chale gaye the.
+
+Ab wahi jaao.
+Mujhse kya poochte ho?”
+
+🔥 Mandapala ka Kadwa Updesh
+
+Mandapala ne kaha:
+“Stree ke jeevan mein
+sabse bada dukh hota hai—
+sautelepan ka darr.
+
+Jalan sab kuch jala deti hai.
+
+Arundhati jaisi pavitra stree bhi
+Vashishtha se jalan kar baithi thi.
+Uska parinaam bura hua.
+
+Maine tumhe kabhi dhokha nahi diya.
+Par tumne jalan mein
+mujh par bharosa nahi kiya.
+
+Purushon ko bhi seekhna chahiye,
+aur streeon ko bhi—
+jalan se rishton ka nash hota hai.”
+
+🤲 Ant mein Shanti
+
+Iske baad bachche aage aaye.
+Unhone pita ko pranam kiya.
+
+Mandapala ka mann pighal gaya.
+Usne sabko pyaar se dekha.
+Sabko bharosa diya.
+
+Aag chali gayi thi.
+Par ek sabak chhod gayi thi.
+
+🌼 Moral (Seekh)
+
+Maa ka pyaar bina shart hota hai
+
+Jalan rishton ko kamzor karti hai
+
+Vachan aur bhagwan par bharosa shakti deta hai
+
+Parivaar tab bachta hai jab ahankar nahi, samajh hoti hai
+
+Yeh kahani batati hai—
+aag sirf jungle nahi jalati,
+dil ke bojh bhi jala sakti hai…
+agar sach aur pyaar saath ho 🌿✨"""
+            create_image_text_layout(text_content=text2, layout="full")
+
+        # Section 1.19.13
+        with st.expander("Section 1.19.13"):
+            text1 = """ 
+👨‍👦 Mandapala ka Spashtikaran
+
+Mandapala ne apne bachchon se kaha:
+
+“Maine Agni se tum sabki raksha ka vachan liya tha.
+
+Agni ne mujhe ashvasan diya tha.
+
+Tumhari maa Jarita ka dharm aur tum sabki Rishi-shakti jaankar hi main pehle nahi aaya.”
+
+Isliye, bachchon ko pita ke prati koi rosh nahi rakhna chahiye—yeh baat Mandapala ne saaf ki.
+
+Phir Mandapala apni patni aur bachchon ko saath lekar us pradesh se chala gaya."""
+            create_image_text_layout("attached_assets/chapter1/1.19.12.jpg", text1, layout="side", image_position="left")
+            text2 = """ 
+🔥 Khandava Van ka Ant
+
+Is prakar, Agni ne Mahabharata ke is prasang mein,
+Krishna aur Arjuna ki sahayata se
+Khandava van ko lok-kalyan ke liye bhasm kiya.
+
+Agni ne maans, charbi aur majja grahan karke apni shakti poori ki aur prasann hua.
+
+⚡ Indra ke Vardaan
+
+Tab Indra (Purandara) Maruton ke saath utre aur bole:
+
+“Tum dono ne aisa karya kiya hai jo devta bhi mushkil se kare.
+
+Apna-apna var maango.”
+
+Arjuna ne Indra ke sab astr-shastr maange.
+Indra ne kaha:
+
+“Jab Madhava (Krishna) tumse prasann honge, tab main tumhe apne sab astr doonga.”
+
+Krishna ne var maanga:
+
+“Meri aur Arjuna ki mitrata sadaiv bani rahe.”
+Indra ne yeh var turant de diya.
+
+🌊 Agni ka Aashirvaad
+
+Agni ne kaha:
+
+“Tum dono par main ati-prasann hoon.
+
+Meri aagya se tum jahan chaho ja sakte ho.”
+
+Iske baad Krishna, Arjuna aur Danava Maya nadi ke sundar tat par jaakar vishram karte hain.
+
+✨ Mukhya Arth (Key Takeaways)
+
+Vachan aur Shraddha: Agni ka vachan aur Mandapala ka bharosa—dharm ki jeet.
+
+Lok-kalyan: Khandava-daha sirf vinash nahi, santulan ka karya hai.
+
+Mitrata ki Shakti: Krishna–Arjuna ki amar dosti ko devtaon ka bhi aashirvaad.
+
+Yogya Samay: Astr-vidya bhi samay aur adhikar se milti hai."""
             create_image_text_layout(text_content=text2, layout="full")
