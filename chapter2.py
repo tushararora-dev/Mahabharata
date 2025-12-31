@@ -2017,69 +2017,728 @@ dharma ke liye anivarya hote hain"""
     with st.expander("Chapter 2.3 – Rajasuyarambha Parva (Commencement of the Rajasuya Sacrifice)"):
 
         with st.expander("Section 2.3.1 – Section XIV"):
-            text1 = """ """
+            text1 = """ 
+            Krishna ne shaant awaaz mein kaha—
+
+“Hey Maharaj, tum Rajasuya Yagya ke liye poori tarah yogya ho.
+Tum sab kuch jaante ho.
+Phir bhi, main ek baat bataana chahta hoon.”
+
+“Pehle ke Kshatriya bahut mahaan the.
+Par aaj ke Kshatriya un jaise nahi rahe.
+Purane veeron ki shakti aur maryada ab kam ho chuki hai.”"""
             create_image_text_layout(
                 "attached_assets/chapter2/2.3.1.jpg",
                 text1,
                 layout="side",
                 image_position="left"
             )
-            text2 = """ """
+            text2 = """ 
+            Krishna ne aage kaha—
+
+“Bahut se raja apne aap ko bade vanshon ka vanshaj bolte hain.
+Par asli shakti sirf naam se nahi hoti.
+Sachchi shakti dharm aur sahas se aati hai.”
+
+“Is samay ek raja hai—Jarasandha.
+Uski shakti bahut zyada hai.
+Usne kai rajao ko dara kar apne adheen kar liya hai.”
+
+“Kaafi veer raja, darr ke kaaran, apne rajya chhod kar bhaag gaye.
+Kuch pahadon ki taraf chale gaye.
+Kuch door deshon mein sharan lene lage.”
+
+Krishna thoda ruk kar bole—
+
+“Hum Yadavo ne bhi ye sab saha.
+Humein Mathura chhodni padi.
+Hum apni suraksha ke liye Dwaraka chale gaye.”
+
+“Humne Dwaraka ko itna majboot banaya
+ki dushman wahan pahunch bhi nahi sakta.
+Ab hum wahan bina darr ke rehte hain.”
+
+Phir Krishna ne gambhir swar mein kaha—
+
+“Hey Rajan, sach ye hai
+jab tak Jarasandha zinda hai,
+Rajasuya Yagya poora nahi ho sakta.”
+
+“Usne kai nirdosh rajao ko bandi bana rakha hai.
+Jaise sher gufa mein haathi ko bandh leta hai,
+waise hi usne rajao ko qaid kiya hai.”
+
+Krishna ne prem se samjhaya—
+
+“Agar tum Rajasuya karna chahte ho,
+to pehle bandi rajao ko mukt karna hoga.
+Aur Jarasandha ke anyay ka ant karna hoga.”
+
+Ant mein Krishna bole—
+
+“Hey dharmic raja,
+ab faisla tumhare haath mein hai.
+Socho, samjho, aur jo tumhe sahi lage, wahi karo.”
+
+Moral:
+Sachcha samrat wahi hota hai
+jo shakti se pehle dharma,
+aur apne sukh se pehle dusron ki mukti ko chunta hai 🌼"""
             create_image_text_layout(text_content=text2, layout="full")
 
         with st.expander("Section 2.3.2 – Section XV"):
-            text1 = """ """
+            text1 = """ 
+            Yudhishthira ne shaant aur vinamr awaaz mein kaha—
+
+“Krishna, tum bahut gyaani ho.
+Jo baat tumne kahi,
+wo koi aur keh hi nahi sakta.”
+
+“Duniya mein bahut se raja hain.
+Sab apna-apna faayda dekhte hain.
+Par sachcha samrat banna bahut mushkil hota hai.”"""
             create_image_text_layout(
                 "attached_assets/chapter2/2.3.2.jpg",
                 text1,
                 layout="side",
                 image_position="left"
             )
-            text2 = """ """
+            text2 = """ 
+            “Jo dusron ki shakti jaanta hai,
+wo kabhi apni tareef nahi karta.
+Aur jo yuddh mein bhi maryada rakhe,
+wahi sach mein poojne yogya hota hai.”
+
+Yudhishthira thoda soch kar bole—
+
+“Insaan ki ichchhayein bahut hoti hain.
+Par mukti aur shanti
+sirf unchi soch aur dharm se milti hai.”
+
+“Mere liye sabse badi cheez
+mann ki shanti hai.
+Agar main Rajasuya karun,
+shayad mujhe wo shanti na mile.”
+
+Phir unhone dheere se kaha—
+
+“Hum sab Jarasandha se darte hain.
+Uska anyay bahut bhayanak hai.”
+
+“Krishna, jab tum jaise veer bhi
+uski shakti ko gambhir maante ho,
+to main khud ko kaise mahaan samjhun?”
+
+“Mujhe baar-baar ye soch pareshaan karti hai—
+kya Jarasandha ko
+tum, Balram, Bhima ya Arjuna
+hara paayenge?”
+
+“Krishna, is baat par
+tum hi meri aakhri aashray ho.”
+
+Yeh sun kar Bhima aage aaye aur bole—
+
+“Jo bina taiyaari ke
+taakatwar shatru se ladta hai,
+wo mitti ke dhele ki tarah toot jaata hai.”
+
+“Par buddhi aur yojna se
+kamzor bhi jeet sakta hai.”
+
+“Krishna ke paas neeti hai.
+Mere paas shakti hai.
+Aur Arjuna ke paas vijay.”
+
+“Jaise teen yagya-agni milkar
+yagya poora karti hain,
+waise hi hum milkar
+Jarasandha ka ant karenge.”
+
+Tab Krishna ne sabko samjhaya—
+
+“Jo bina bhavishya soche
+sirf apni ichchha dekhta hai,
+wo galti karta hai.”
+
+“Purane yug mein
+bahut se raja samrat bane.
+Kisi ne daya se,
+kisi ne shakti se,
+kisi ne tapasya se.”
+
+“Par Yudhishthira,
+tum sabhi gunon se yukt ho—
+jeet, daya, dharm, samriddhi aur neeti.”
+
+“Jarasandha bhi bahut shaktishaali hai.
+Usne lagbhag sau rajao ko
+apne adheen kar liya hai.”
+
+“Par wo bachpan se hi kroor hai.
+Aur uski lalach kabhi poori nahi hoti.”
+
+Krishna ne gambhir swar mein kaha—
+
+“Usne kai rajao ko
+bandi bana kar
+Shiv mandir mein qaid kar rakha hai.”
+
+“Yuddh mein marna
+ek Kshatriya ke liye
+samman ki baat hoti hai.”
+
+“Toh phir hum kyun na
+Jarasandha ka saamna karein?”
+
+“Usne ab tak chhiyaasi raja pakad liye hain.
+Bas chaudah aur chahiye.”
+
+“Jo uska raasta roke,
+uska naam amar hoga.”
+
+“Aur jo Jarasandha ko hara de,
+wahi sachcha samrat kehlaayega.”
+
+Moral:
+Sachchi shakti akeli nahi hoti.
+Buddhi, sahas aur dharm
+jab saath aate hain,
+tab anyay ka ant hota hai 🌼"""
             create_image_text_layout(text_content=text2, layout="full")
 
         with st.expander("Section 2.3.3 – Section XVI"):
-            text1 = """ """
+            text1 = """ 
+            Yudhishthira ne udaas mann se kaha—
+
+“Krishna,
+agar main sirf rajya ki ichchha se
+aur sirf himmat par bharosa karke
+tumhe Jarasandha ke paas bhej doon,
+to kya ye sahi hoga?”
+
+“Bhima aur Arjuna
+meri aankhon jaise hain.
+Aur tum, Janardana,
+mera mann ho.”
+
+“Main aankhon aur mann ke bina
+kaise jee paunga?”"""
             create_image_text_layout(
                 "attached_assets/chapter2/2.3.3.jpg",
                 text1,
                 layout="side",
                 image_position="left"
             )
-            text2 = """ """
+            text2 = """ 
+            “Jarasandha ki sena bahut bhayanak hai.
+Uski shakti ko toh Yama bhi
+aasaani se nahi hara sakte.”
+
+“Phir tum teen
+uske saamne kaise tik paoge?”
+
+Yudhishthira ka swar bhaari ho gaya—
+
+“Mujhe darr lag raha hai.
+Ye kaam galat bhi ho sakta hai.
+Isse bada nuksaan ho sakta hai.”
+
+“Mujhe lagta hai
+Rajasuya Yagya abhi
+bahut kathin hai.”
+
+Tab Arjuna aage aaye.
+Unki awaaz mein vishwas tha—
+
+“Maharaj,
+mujhe divya dhanush mila hai.
+Akshay baan mile hain.
+Shakti, saathi aur yash bhi mila hai.”
+
+“Ye sab cheezein
+aasaani se nahi milti.”
+
+“Log vansh ki tareef karte hain.
+Par sabse badi cheez hoti hai—
+veerata.”
+
+“Jo veer nahi,
+chahe bade vansh mein janma ho,
+wo adhura hota hai.”
+
+“Par jo veer hai,
+chahe chhote vansh ka ho,
+wo mahaan hota hai.”
+
+Arjuna ne shaant par dridh swar mein kaha—
+
+“Sachcha Kshatriya wahi hai
+jo apni veerata se
+apna yash badhata hai.”
+
+“Veerata ke bina
+baaki sab gun bekaar ho jaate hain.”
+
+“Jeet ke teen stambh hote hain—
+dhyaan, parishram aur bhagya.”
+
+“Par bina savdhaani ke
+sirf shakti bhi kaam nahi aati.”
+
+“Isliye humein
+na kamzori chahiye,
+na ghamand.”
+
+Arjuna ne Yudhishthira ki taraf dekha—
+
+“Agar hum Jarasandha ko hara kar
+bandi rajao ko mukt karte hain,
+to isse bada dharm ka kaam
+koi nahi ho sakta.”
+
+“Aur agar hum darr ke kaaran
+peeche hat gaye,
+to duniya humein
+kamzor samjhegi.”
+
+Unhone vishwas se kaha—
+
+“Hum kamzor nahi hain, Maharaj.”
+
+“Jaise sanyasi shaanti ke liye
+peele vastra pa lete hain,
+waise hi vijay ke baad
+samrajya apne aap mil jaayega.”
+
+“Isliye hum yuddh karenge.
+Dharma ke liye.
+Nyay ke liye.”
+
+Moral:
+Sirf darr se rukna bhi galat hai,
+aur sirf ghamand se aage badhna bhi.
+Himmat + soch + dharma
+jab saath ho,
+tab hi sahi faisla hota hai 🌼"""
             create_image_text_layout(text_content=text2, layout="full")
 
         with st.expander("Section 2.3.4 – Section XVII"):
-            text1 = """ """
+            text1 = """ 
+            Vasudeva (Krishna) ne shaant par dridh awaaz mein kaha—
+
+“Arjuna ne wahi soch batayi
+jo Bharata vansh mein janme veer ki hoti hai.
+Humein nahi pata
+maut raat ko aayegi ya din mein.”
+
+“Ladai se bhaag kar
+kabhi amar nahi hua jaata.
+Isliye dharm ke saath
+dushman ka saamna karna
+ek Kshatriya ka kartavya hai.”"""
             create_image_text_layout(
                 "attached_assets/chapter2/2.3.4.jpg",
                 text1,
                 layout="side",
                 image_position="left"
             )
-            text2 = """ """
+            text2 = """ 
+            “Jab sahi neeti saath ho
+aur bhagya rukawat na bane,
+to kaam safal hota hi hai.”
+
+“Do paksh ladte hain
+to dono jeet nahi sakte.
+Koi ek hi jeetega.”
+
+Krishna ne samjhaya—
+
+“Bina neeti ke yuddh
+vinaash laata hai.
+Aur jab shakti barabar ho,
+to parinaam anishchit hota hai.”
+
+“Toh phir,
+hum sahi yojna ke saath
+Jarasandha ka saamna kyun na karein?”
+
+“Jaise tez dhara
+ped ko ukhaad deti hai,
+waise hi hum use gira sakte hain.”
+
+Krishna ne gambhir hote hue kaha—
+
+“Bahut shaktishaali shatru se
+seedha yuddh zaroori nahi.
+Buddhimaan log
+chalaki aur samay ka
+sahi upyog karte hain.”
+
+“Agar chhupkar uske ghar jaakar
+us par prahaar karein,
+to koi apmaan bhi nahi hoga.”
+
+“Jarasandha
+abhi ghamand mein jee raha hai.
+Par mujhe uska ant nazar aa raha hai.”
+
+“Apne logon ki raksha ke liye
+ya to hum use maarenge,
+ya phir veerta ke saath
+swarg ko praapt honge.”
+
+Yudhishthira ne poocha—
+
+“Krishna,
+ye Jarasandha kaun hai?
+Usmein aisi kaunsi shakti hai
+ki tumhe chhoone par bhi
+jal nahi gaya?”
+
+Krishna muskuraye aur bole—
+
+“Sunno, main tumhe
+Jarasandha ki kahani batata hoon.”
+
+“Bahut pehle
+Magadh ka raja tha—
+Vrihadratha.
+Bahut shaktishaali,
+Indra jaisa tej.”
+
+“Uski do raniyaan thi,
+dono sundar aur pyaari.
+Raja dono se barabar prem karta tha.”
+
+“Par saalon tak
+unhe koi santaan nahi hui.
+Raja bahut udaas rehta tha.”
+
+Ek din—
+
+“Ek mahaan rishi
+Chandakaushik
+wahan aaye.
+Raja ne unka
+poora aadar-samman kiya.”
+
+Rishi bole—
+
+“Raja,
+koi vardaan maango.”
+
+Raja ne aansuon ke saath kaha—
+
+“Mujhe putra chahiye.
+Bina putra ke
+raajya ka kya arth?”
+
+Rishi dhyaan mein baithe.
+Tab ek aam unke paas gira.
+
+Unhone mantra padhe
+aur raja ko aam de diya—
+
+“Isse tumhara sapna poora hoga.
+Wapas jao.”
+
+Raja ne aam
+dono raniyon mein baant diya.
+Dono ne kha liya
+aur kuch samay baad
+dono garbhvati ho gayin.
+
+Par jab bachche paida hue,
+to dono adhoore the.
+Raniyan darr gayin.
+Un tukdon ko chhod diya gaya.
+
+Raat ko ek Rakshasi
+Jara wahan aayi.
+Usne dono tukdon ko joda.
+
+Aur achanak—
+ek poora, majboot bachcha
+zinda ho gaya.
+
+Bachche ki awaaz itni tez thi
+ki mahal goonj utha.
+
+Raja aur raniyan bhaag kar aaye.
+Jara ne daya dikhayi
+aur bachcha unhe de diya.
+
+“Ye tumhara putra hai,”
+usne kaha.
+
+Krishna ne ant mein kaha—
+
+“Isi Jara ke naam par
+uska naam pada—
+Jarasandha.”
+
+Moral:
+Zindagi mein kabhi-kabhi
+sabse bade veer bhi
+ajnabi kahaniyon se janm lete hain.
+Par shakti bina dharm ke
+aakhirkaar ghamand ban jaati hai 🌼"""
             create_image_text_layout(text_content=text2, layout="full")
 
         with st.expander("Section 2.3.5 – Section XVIII"):
-            text1 = """ """
+            text1 = """ 
+            Krishna ne kahani aage badhayi—
+
+Raja ki baat sun kar
+Rakshasi stree ne namrata se kaha—
+
+“Rajao ke raja,
+tum sada sukhi raho.”
+
+“Main Jara hoon.
+Main roop badal sakti hoon.
+Main tumhare ghar mein
+Grihadevi ke roop mein rehti hoon.”"""
             create_image_text_layout(
                 "attached_assets/chapter2/2.3.5.jpg",
                 text1,
                 layout="side",
                 image_position="left"
             )
-            text2 = """ """
+            text2 = """ 
+            “Main roz logon ke ghar jaati hoon.
+Bhagwan ne mujhe
+Danavo ke vinash ke liye banaya tha.”
+
+“Jo mere chitra ko
+apne ghar ki deewaar par
+bachchon ke beech dikhata hai,
+uske ghar mein
+sukh aur samriddhi rehti hai.”
+
+“Tumhare mahal ki deewaar par bhi
+mera chitra bana hai.
+Main roz wahan
+phool, dhoop aur bhojan se pooji jaati hoon.”
+
+“Isliye main hamesha sochti hoon
+ki tumhara bhala kaise karun.”
+
+Jara ne pyaar se kaha—
+
+“Jab maine tumhare putra ke
+alag-alag tukde dekhe,
+to unhe jod diya.”
+
+“Tumhare achhe bhagya se
+ek jeevit aur majboot shishu bana.”
+
+“Main sirf ek madhyam thi.
+Asli kripa tumhare punya ki thi.”
+
+“Tumhari bhakti se prasann hokar
+maine ye putra tumhe diya.”
+
+Itna keh kar
+Jara wahin gaayab ho gayi.
+
+Krishna ne aage kaha—
+
+Raja apne putra ko lekar
+khushi-khushi mahal gaye.
+Bachche ke sab sanskar kiye gaye.
+Poore rajya mein
+utsav manaya gaya.
+
+Raja ne kaha—
+
+“Ye shishu Jara ke dwara
+joda gaya hai.
+Isliye iska naam hoga—
+Jarasandha.”
+
+Wo bachcha
+din-pratidin majboot hota gaya.
+Jaise aag mein ghee dalne se
+aag aur tez ho jaati hai.
+
+Chaand jaise
+shukla paksh mein badhta hai,
+waise hi wo shishu
+maa-baap ka aanand badhata gaya.
+
+Moral:
+Kabhi-kabhi
+jeevan ke sabse shaktishaali log
+bhagya aur bhakti se janm lete hain.
+Par shakti ka sahi upyog hi
+insaan ko mahaan banata hai 🌼"""
             create_image_text_layout(text_content=text2, layout="full")
 
         with st.expander("Section 2.3.6 – Section XIX"):
-            text1 = """ """
+            text1 = """ 
+            Krishna ne kahani aage sunayi—
+
+Kuch samay baad
+mahaan rishi Chandakaushik
+phir se Magadh aaye.
+
+Raja Vrihadratha
+bahut khush hue.
+Woh apne mantri, purohit,
+raniyon aur putra ke saath
+rishi ka swagat karne gaye."""
             create_image_text_layout(
                 "attached_assets/chapter2/2.3.6.jpg",
                 text1,
                 layout="side",
                 image_position="left"
             )
-            text2 = """ """
+            text2 = """ 
+            Raja ne
+charan dhoye,
+arghya diya,
+aur vinamrata se kaha—
+
+“Rishi ji,
+main apna poora rajya
+aur apna putra
+aapko samarpit karta hoon.”
+
+Rishi muskuraye.
+Unhone shaant mann se kaha—
+
+“Raja,
+mujhe sab pehle se pata tha.
+Ab suno,
+tumhara putra aage jaakar
+kya banega.”
+
+“Ye putra
+bahut shaktishaali hoga.
+Iski veerata
+sab rajao se aage hogi.”
+
+“Jaise Garuda ki gati
+koi pakshi nahi pa sakta,
+waise hi
+koi raja
+is putra ki shakti ke barabar
+nahi hoga.”
+
+“Is par pheke gaye
+astra-shastra bhi
+ise haani nahi pahuncha paayenge.”
+
+“Ye sab rajao ke sir par
+tej ki tarah chamkega.”
+
+“Jaise suraj
+sab roshniyon ko dhundhla kar deta hai,
+waise hi
+ye putra
+sab rajao ki shaan
+kam kar dega.”
+
+“Bade-bade raja bhi
+iske saamne
+aag mein pade keede jaise
+mit jaayenge.”
+
+“Ye sab rajao ki samriddhi
+samundar ki tarah
+apne mein sama lega.”
+
+“Ye prithvi ki tarah
+sab varnon ka
+bojh sambhalega.”
+
+“Sab raja
+iske aadesh maanenge,
+jaise prani
+hava par nirbhar rehte hain.”
+
+“Ye Magadh ka rajkumar
+bhagwan Rudra (Shiva)
+ko bhi apni aankhon se dekhega.”
+
+Itna keh kar
+rishi apne maarg par chal diye.
+
+Raja Vrihadratha
+rajya laut aaye.
+Sab ko bulaya
+aur apne putra
+Jarasandha
+ko raja ghoshit kar diya.
+
+Iske baad
+Vrihadratha ka mann
+rajya se uth gaya.
+Woh apni raniyon ke saath
+van mein tapasya karne chale gaye.
+
+Kuch samay baad
+tap aur dhyaan ke baad
+woh swarg chale gaye.
+
+Jarasandha ne
+apne pita ke baad
+rajya sambhala.
+Usne rajya ko
+pitaji ki tarah
+shasan kiya.
+
+Baad mein
+jab Kansa
+Krishna ke dwara maara gaya,
+to Jarasandha ka
+Krishna se bair ho gaya.
+
+Gusse mein
+Jarasandha ne
+apni gada ko
+99 baar ghuma kar
+Mathura ki taraf phenka.
+
+Gada
+Mathura ke paas
+giri.
+Is jagah ka naam pada—
+Gadavasan.
+
+Mathura ke log
+Krishna ke paas gaye
+aur sab bataya.
+
+Jarasandha ke do mitra the—
+Hansa aur Dimvaka.
+Dono itne shaktishaali the
+ki astra-shastra
+unhe nahi maar sakte the.
+
+Neeti aur buddhi mein bhi
+woh sabse aage the.
+
+Isi shakti ke kaaran
+Kukkura, Andhaka aur Vrishni vansh
+seedha yuddh karne se
+ruk gaye.
+
+Unhone samjha—
+“Har ladai
+talwar se nahi jeeti jaati.
+Kabhi-kabhi
+buddhi hi sabse badi shakti hoti hai.”
+
+Moral:
+Bahut zyada shakti
+agar ghamand ban jaaye,
+to duniya mein darr failta hai.
+Par buddhi aur dharm
+hamesha
+sahi raasta dikhate hain 🌼"""
             create_image_text_layout(text_content=text2, layout="full")
 
     with st.expander("Chapter 2.4 – Jarasandha-badha Parva (Slaying of Jarasandha)"):
