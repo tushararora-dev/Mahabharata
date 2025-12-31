@@ -2744,58 +2744,557 @@ sahi raasta dikhate hain 🌼"""
     with st.expander("Chapter 2.4 – Jarasandha-badha Parva (Slaying of Jarasandha)"):
 
         with st.expander("Section 2.4.1 – Section XX"):
-            text1 = """ """
+            text1 = """ 
+            Krishna ne shaant par dridh awaaz mein kaha—
+
+“Ab samay aa gaya hai.
+Hansa aur Dimvaka gir chuke hain.
+Kansa bhi apni sena ke saath nasht ho chuka hai.”
+
+“Ab Jarasandha ka ant zaroori hai.
+Yuddh mein use koi hara nahi paaya.
+Par hum use vyaktigat muqable mein hara sakte hain.”"""
             create_image_text_layout(
                 "attached_assets/chapter2/2.4.1.jpg",
                 text1,
                 layout="side",
                 image_position="left"
             )
-            text2 = """ """
+            text2 = """ 
+            Krishna muskuraye—
+
+“Mere paas neeti hai.
+Bhima ke paas bal hai.
+Aur Arjuna ke paas vijay hai.”
+
+“Hum teen chupke se Magadha jayenge.
+Jarasandha apne ghamand se
+Bhima ko hi chunega.”
+
+“Bhima,
+apni bhujon se
+use gira dega.
+Jaise mrityu
+ghamand ko gira deti hai.”
+
+Krishna ne Yudhishthira ki taraf dekha—
+
+“Agar tumhe mujh par vishwas hai,
+to Bhima aur Arjuna
+mujhe saunp do.”
+
+Yeh sunkar Yudhishthira bole—
+
+“Achyuta,
+tum hi hamare margdarshak ho.”
+
+“Tumhare kehne par
+mujhe lagta hai
+jaise Jarasandha pehle hi mar chuka ho.
+Jaise bandi raja mukt ho chuke hon.
+Jaise Rajasuya poora ho chuka ho.”
+
+“Krishna ke bina
+main jee nahi sakta.
+Jaise rog se peedit vyakti
+bal ke bina reh jaata hai.”
+
+“Krishna aur Arjuna saath hon
+to kuch bhi asambhav nahi.
+Aur Bhima saath ho
+to shakti aur badh jaati hai.”
+
+Yudhishthira ne samjhaya—
+
+“Bina neta ke sena
+bejaan hoti hai.
+Sahi netritva
+raasta dikhata hai.”
+
+“Isliye hum
+Govinda ke netritva mein
+aage badhenge.”
+
+“Pehle Krishna.
+Phir Arjuna.
+Aur phir Bhima.”
+
+“Neeti + bhagya + bal
+milkar vijay laate hain.”
+
+Vaisampayana ne kaha—
+
+Phir Krishna, Arjuna aur Bhima
+Snataka Brahmanon ka vesh pehen kar
+Magadha ki taraf nikal pade.
+
+Log unhe dekh kar bole—
+
+“Jarasandha ka ant
+ab nischit hai.”
+
+Teeno veer
+pahadon, nadiyon aur vanon se guzre.
+Ganga aur Sone ko paar kiya.
+Aur aakhir
+Magadha ki seema mein pahunche.
+
+Unhone
+Goratha parvat ke paas
+Magadha nagari dekhi—
+dhann, jal aur hariyali se bhari hui.
+
+Teeno ke chehre par
+shanti thi.
+Par mann mein
+nyay ka sankalp jal raha tha.
+
+Moral (Soft Message):
+
+Jab buddhi, shakti aur sahas
+ek saath chalte hain,
+to sabse bada ghamand bhi
+jhuk jaata hai 🌼"""
             create_image_text_layout(text_content=text2, layout="full")
 
         with st.expander("Section 2.4.2 – Section XXI"):
-            text1 = """ """
+            text1 = """ 
+            Krishna ne dheere se kaha—
+
+“Partha,
+yeh dekho Magadha ki sundar nagari.
+Gaiyon, paani aur dhan se bhari hui.
+Yahan kisi cheez ki kami nahi.”
+
+Shehar ke aas-paas
+paanch bade pahad the—
+Vaihara, Varaha, Vrishava, Rishigiri
+aur pyara sa Caitya Parvat.
+Jaise yeh pahad
+milkar shehar ki raksha kar rahe ho."""
             create_image_text_layout(
                 "attached_assets/chapter2/2.4.2.jpg",
                 text1,
                 layout="side",
                 image_position="left"
             )
-            text2 = """ """
+            text2 = """ 
+            Thandi chhaaya dene wale ped,
+phoolon se bhari daaliyan,
+aur sugandhit van—
+sab kuch shant aur sundar lag raha tha.
+
+Krishna bole—
+“Isi shakti aur suraksha ke bharose
+Jarasandha
+apne ghamand mein rehta hai.
+Par aaj hum uska ghamand tod denge.”
+
+Phir Krishna, Bhima aur Arjuna
+Brahmanon ka vesh pehen kar
+Magadha nagar mein pravesh kar gaye.
+
+Shehar khushhaal tha.
+Bazaaron mein phool, mithai,
+aur rang-birangi cheezein thi.
+
+Log haste-muskurate the.
+Par teeno veer
+apna lakshya nahi bhool rahe the.
+
+Unhone phoolon ki mala uthayi,
+rang-birange vastra pehne,
+aur dheere-dheere
+Jarasandha ke mahal ki taraf badhe.
+
+Unke majboot haath
+chandan se lage hue the.
+Log unhe dekh kar hairaan the—
+“Yeh kaun Brahman hain
+jo haathi jaise balwaan lag rahe hain?”
+
+Jab Jarasandha ne unhe dekha,
+toh woh turant khada ho gaya.
+Usne samman se paani, madhu
+aur arghya arpit kiya.
+
+“Swagat hai,”
+raja ne kaha.
+
+Bhima aur Arjuna chup rahe.
+Tab Krishna bole—
+
+“Rajan,
+yeh dono Snataka vrat mein hain.
+Aadhi raat tak
+yeh maun rahenge.”
+
+Jarasandha ne unhe
+yagya-sthal mein thehra diya.
+
+Aadhi raat ko
+Jarasandha khud aaya.
+Usne unhe dhyaan se dekha
+aur kaha—
+
+“Snataka Brahman
+is tarah phool aur chandan se sajte nahi.
+Tumhare haath par
+dhanush ki rassi ke nishaan kyun hain?”
+
+“Sach batao—
+tum kaun ho?
+Aur galat dwar se
+shehar mein kyun aaye?”
+
+Tab Krishna shaant awaaz mein bole—
+
+“O rajan,
+Snataka vrat
+Brahman, Kshatriya aur Vaishya
+sab rakh sakte hain.”
+
+“Kshatriya
+bol se nahi,
+bal se apni shakti dikhate hain.”
+
+“Shastra ka niyam hai—
+dushman ke ghar
+galat dwar se pravesh karo.”
+
+“Aur jab hum
+dushman ke ghar aate hain,
+toh uska samman
+sweekaar nahi karte.”
+
+Krishna ki baaton mein
+shaanti bhi thi
+aur sankalp bhi.
+
+Jarasandha chup ho gaya.
+Woh samajh gaya—
+yeh saadharan Brahman
+nahi hain.
+
+Moral (Soft Message):
+
+Sach aur dhairya se boli gayi baat
+sabse bade ghamand ko bhi
+sochne par majboor kar deti hai 🌼"""
             create_image_text_layout(text_content=text2, layout="full")
 
         with st.expander("Section 2.4.3 – Section XXII"):
-            text1 = """ """
+            text1 = """ 
+            Jarasandha ne shaant par garv bhari awaaz mein kaha—
+
+“Main yaad karke bhi
+yeh nahi paata
+ki maine tumhara kya bigaada.
+Jab maine tumhe nuksaan hi nahi diya,
+to tum mujhe dushman kyun maan rahe ho?”
+
+“Ek sacha Kshatriya
+kabhi nirdosh ko nuksaan nahi pahunchata.
+Jo nirdosh ki khushi aur dharma todta hai,
+woh ant mein apni hi unnati kho deta hai.”"""
             create_image_text_layout(
                 "attached_assets/chapter2/2.4.3.jpg",
                 text1,
                 layout="side",
                 image_position="left"
             )
-            text2 = """ """
+            text2 = """ 
+            Tab Krishna ne gambhir par shaant swar mein kaha—
+
+“O rajan,
+tum apne aap ko nirdosh keh rahe ho,
+par sach yeh hai
+ki tumne kai rajaon ko
+bandi bana rakha hai.”
+
+“Tum unhe
+bhagwan Rudra ke naam par
+bali dena chahte ho.
+Insaanon ki bali
+kabhi dharm nahi hoti.”
+
+“Jo raja
+dusre rajaon ko
+pashu samajhne lage,
+woh bhatak chuka hota hai.”
+
+“Har vyakti
+apne karm ka phal paata hai.
+Isliye hum
+bandi rajaon ko mukt karne
+aur anyay rokne aaye hain.”
+
+Krishna aage bole—
+
+“Tum sochte ho
+ki tumse bada veer koi nahi.
+Yeh ghamand hai, rajan.”
+
+“Bahut se veer
+chup hote hain,
+par kamzor nahi.”
+
+“Kshatriya ke liye
+yuddh sirf hinsa nahi,
+kartavya hota hai.
+Aur dharm ke liye
+yuddh mein veer-gati
+swarg ka nishchit maarg hota hai.”
+
+“Isliye
+apna ghamand chhodo.
+Apni sena, putron aur mantriyon ko
+anarth ki taraf mat le jao.”
+
+“Hum Brahman nahi hain.
+Main Sauri (Krishna) hoon.
+Aur yeh dono
+Bhima
+aur Arjuna
+Pandav hain.”
+
+“Ab faisla tumhara hai—
+ya to bandi rajaon ko chhod do,
+ya phir yuddh ke liye
+samne aao.”
+
+Jarasandha ne garaj kar kaha—
+
+“Main kisi raja ko
+bina haraye bandi nahi banata.
+Yahi Kshatriya ka dharm hai.”
+
+“Sena se sena,
+ya ek se teen—
+main har tarah ke yuddh ke liye
+taiyaar hoon!”
+
+Usne turant
+apne putra Sahadeva ko
+rajya par bithaya.
+
+Phir usne
+apne purane veer saathi
+Hansa aur Dimvaka
+(jo ab Kausika aur Chitrasena ke naam se jaane jaate the)
+ko yaad kiya.
+
+Par Krishna ne mann hi mann
+Brahma ka niyam yaad rakha—
+Jarasandha ka ant
+Krishna ke haath se nahi,
+balki Bhima ke haath se hona tha.
+
+Isliye Krishna
+khud yuddh ke liye aage nahi badhe.
+
+Moral (Soft Message):
+
+Ghamand aankhon ko andha kar deta hai.
+Aur anyaay ko dharm samajhna
+sabse bada bhool hoti hai.
+Sachcha bal
+hamesha dharm aur vinamrata ke saath hota hai 🌼"""
             create_image_text_layout(text_content=text2, layout="full")
 
         with st.expander("Section 2.4.4 – Section XXIII"):
-            text1 = """ """
+            text1 = """ 
+            Vaisampayana ne kaha—
+
+Tab Krishna ne shaant awaaz mein
+Jarasandha se poocha—
+
+“O rajan,
+hum teen mein se
+tum kis se yuddh karna chahte ho?”
+
+Jarasandha ne bina soche kaha—
+“Main Bhima se yuddh karunga.
+Shreshth veer se haarna
+apmaan nahi hota.”
+
+Yeh kehkar
+Jarasandha ne apna mukut utaara.
+Baalo ko baandha.
+Aur samundar jaise
+garajta hua khada ho gaya.
+
+Bhima bhi
+poori taiyaari ke saath
+aage badhe.
+Krishna ne devtaon ko smaran kiya
+aur Bhima ko aashirvaad diya."""
             create_image_text_layout(
                 "attached_assets/chapter2/2.4.4.jpg",
                 text1,
                 layout="side",
                 image_position="left"
             )
-            text2 = """ """
+            text2 = """ 
+            Ab dono veer
+sirf apni bhujon ke sahare
+ek-dusre par toot pade.
+
+Kabhi baahon ko pakadte,
+kabhi pairon ko lapet lete.
+Kabhi kandhe se kandha
+to kabhi maatha se maatha takra jaata.
+
+Unke vaar se
+chingaariyaan nikalti.
+Zameen kaanp jaati.
+
+Woh dono
+jaise do matwale haathi
+ya do gusse bhare sher
+aapas mein takra rahe ho.
+
+Kabhi Bhima
+Jarasandha ko door pheinkta.
+Kabhi Jarasandha
+Bhima ko ghaseet leta.
+
+Dono mahaan pehelwan
+ek-dusre ko giraane,
+dabane aur palatne ke
+sab daav laga rahe the.
+
+Shehar ke log—
+Brahman, Kshatriya, Vaishya,
+striyaan aur buzurg—
+sab yeh drishya dekhne aa gaye.
+
+Taaliyon, shor
+aur bhujon ki thap-thap
+se aakash goonj utha.
+
+Yeh yuddh
+ek din ka nahi tha.
+Din-raat chalta raha.
+Bina ruke.
+Bina bhojan ke.
+
+Kartika maas ke
+pehle din se
+terahvi raat tak
+yeh sangharsh chalta raha.
+
+Chaudahvi raat
+Jarasandha thak gaya.
+
+Tab Krishna ne Bhima se kaha—
+
+“Bhima,
+thake hue shatru par
+poora zor lagana
+uchit nahi hota.”
+
+“Uske bal ke barabar hi
+apna bal lagao.”
+
+Bhima samajh gaye.
+Unhone Jarasandha ki
+sthiti pehchaan li.
+
+Ab unhone
+poori himmat
+aur buddhi ke saath
+antim nirnay lene ka
+sankalp kiya.
+
+Moral (Soft Message):
+
+Sachcha veer
+sirf shakti se nahi,
+sanyam aur samajh se jeetta hai.
+Aur jab bal ke saath
+buddhi ho,
+toh adbhut parinaam nikalta hai 🌼"""
             create_image_text_layout(text_content=text2, layout="full")
 
         with st.expander("Section 2.4.5 – Section XXIV"):
-            text1 = """ """
+            text1 = """ 
+            Vaisampayana ne kaha—
+
+Bhima ne dridh awaaz mein kaha—
+“Krishna, jo anyaay karta rahe
+aur abhi bhi yuddh par ada ho,
+use chhodna theek nahi.”
+
+Krishna ne pyaar se himmat badhayi—
+“Bhima, aaj apni poori shakti dikhao.
+Tumhe yeh bal
+pavan-dev Marut se mila hai.”
+
+Bhima ne Jarasandha ko
+uthaya,
+aasmaan ki taraf ghumaya,
+aur apne ghutne se
+uska ghamand tod diya.
+Jarasandha ka ant ho gaya.
+
+Bhima ki garaj
+poore shehar mein goonj uthi.
+Log bhay se chup ho gaye.
+Par anyaay ka yug
+wahin samaapt ho gaya."""
             create_image_text_layout(
                 "attached_assets/chapter2/2.4.5.jpg",
                 text1,
                 layout="side",
                 image_position="left"
             )
-            text2 = """ """
+            text2 = """ 
+            Phir Krishna ne
+bandi rajaon ko mukt kiya.
+Sab raja khushi se
+Krishna ko pranam karne lage.
+Unhone kaha—
+“Aapne humein
+dukh ke gaddhe se nikaal liya.”
+
+Krishna ne unse kaha—
+“Yudhishthira
+Rajasuya yagya karna chahte hain.
+Aap sab unka saath dena.”
+
+Sab rajaon ne
+khushi se sweekaar kiya—
+“Avashya!”
+
+Jarasandha ke putra Sahadeva
+bhay aur vinamrata ke saath aage aaye.
+Krishna ne use aashwasan diya
+aur Magadha ka raja bana diya.
+
+Phir Krishna, Bhima aur Arjuna
+Indraprastha laut aaye.
+Yudhishthira ne
+Krishna ka samman kiya
+aur Bhima–Arjuna ko gale lagaya.
+
+Shehar mein
+khushi ka mahaul tha.
+Sab raja apne-apne desh
+shaanti ke saath laut gaye.
+
+Ant mein Krishna
+Dvarka ke liye prasthaan hue.
+Pandavon ne unka
+adar aur krtagyata se
+parikrama ki.
+
+Moral (Soft Message):
+
+Jab shakti, buddhi aur dharm
+ek saath chaltein hain,
+to anyaay ka ant
+aur shaanti ka aarambh hota hai 🌼"""
             create_image_text_layout(text_content=text2, layout="full")
     
     with st.expander("Chapter 2.5 – Digvijaya Parva (The Universal Conquest)"):
