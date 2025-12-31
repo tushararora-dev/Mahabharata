@@ -532,7 +532,8 @@ Sahi raja wahi hai jo sabka samman kare"""
 
         with st.expander("Section 2.2.1 – Section V"):
             text1 = """ 
-            Section VI – Raja Yudhishthira aur Narada ka Samvaad Pandavas apni Sabha mein baithe the.
+            Section V – Rishi Narada ka Raj-dharma Updesh
+            Pandavas apni Sabha mein baithe the.
 Sab shaant tha.
 Sab maryada mein.
 
@@ -701,14 +702,21 @@ Praja ki khushi = rajya ki shakti"""
 
         with st.expander("Section 2.2.2 – Section VI"):
             text1 = """ 
-            Section VII – Indra ki Divya Sabha (Pushkaramalini Sabha) Narada ji ke updesh khatam hue.
+            Section VI – Raja Yudhishthira aur Narada ka Samvaad
+Narada ji ke updesh khatam hue.
 Sab shaant ho gaye.
 
 Yudhishthira ne
 vinamrata se Narada ji ko pranam kiya 🙏
-aur unka poora aadar kiya.
-
-🌼 Yudhishthira ka Uttar
+aur unka poora aadar kiya."""
+            create_image_text_layout(
+                "attached_assets/chapter2/2.2.2.jpg",
+                text1,
+                layout="side",
+                image_position="left"
+            )
+            text2 = """ 
+            🌼 Yudhishthira ka Uttar
 
 Yudhishthira bole:
 
@@ -726,15 +734,9 @@ wahi sahi raasta hai.”
 “Hum bhi wahi raah chunna chahte hain,
 jahan mann par poora niyantran ho.”
 
-Narada ji muskuraye 😊"""
-            create_image_text_layout(
-                "attached_assets/chapter2/2.2.2.jpg",
-                text1,
-                layout="side",
-                image_position="left"
-            )
-            text2 = """ 
-            🤔 Ek Jigyaasa
+Narada ji muskuraye 😊
+
+🤔 Ek Jigyaasa
 
 Thoda soch kar,
 Yudhishthira ne ek prashn poocha:
@@ -823,7 +825,7 @@ seekhna kabhi band nahi hota"""
 
         with st.expander("Section 2.2.3 – Section VII"):
             text1 = """ 
-            Section VIII – Yama Dev ki Divya Sabha Narada ji bole:
+            Section VII – Indra ki Divya Sabha (Pushkaramalini Sabha) Narada ji bole:
 
 ✨ Indra ki Sabha ka Roop
 
@@ -839,17 +841,7 @@ Lambai: 150 yojana
 
 Chaudai: 100 yojana
 
-Unchai: 5 yojana
-
-Yeh Sabha
-jahaan chaho wahan ja sakti hai ✨
-Budhapa, dukh, thakaan aur darr
-sab yahin mit jaate hain.
-
-Yeh jagah
-bahut shubh aur mangalmay hai 🌼
-Yahan sundar kamre, aasan
-aur divya vriksh lage hue hain."""
+Unchai: 5 yojana"""
             create_image_text_layout(
                 "attached_assets/chapter2/2.2.3.jpg",
                 text1,
@@ -857,7 +849,17 @@ aur divya vriksh lage hue hain."""
                 image_position="left"
             )
             text2 = """ 
-            👑 Indra aur Sachi
+           Yeh Sabha
+jahaan chaho wahan ja sakti hai ✨
+Budhapa, dukh, thakaan aur darr
+sab yahin mit jaate hain.
+
+Yeh jagah
+bahut shubh aur mangalmay hai 🌼
+Yahan sundar kamre, aasan
+aur divya vriksh lage hue hain.
+
+👑 Indra aur Sachi
 
 Is Sabha ke beech mein,
 ek shreshth singhasan par
@@ -957,7 +959,165 @@ Seva aur vinamrata se mahanta aati hai
 Sachcha sukh
 shobha ke saath dharma se aata hai"""
             create_image_text_layout(text_content=text2, layout="full")
+
         with st.expander("Section 2.2.4 – Section VIII"):
+            text1 = """ 
+            Section VIII – Yama Dev ki Divya Sabha Narada ji bole:
+
+🌟 Yama Dev ki Sabha
+
+“Yudhishthira,
+ab main tumhe Yama
+ki Sabha ke baare mein batata hoon.”
+
+Yeh Sabha
+Vishvakarma
+ne banayi thi 🛕
+Bahut tapasya ke baad.
+
+Yeh Sabha
+pighle hue sone jaisi chamak rakhti hai ✨
+Sooraj jaise tej se bhari hui."""
+            create_image_text_layout(
+                "attached_assets/chapter2/2.2.4.jpg",
+                text1,
+                layout="side",
+                image_position="left"
+            )
+            text2 = """ 
+           🌿 Is Sabha ka Vaatavaran
+
+Na zyada thand ❄️
+
+Na zyada garmi 🔥
+
+Dil ko sukoon dene wali hawa 🌬️
+
+Yahan:
+
+Na bhookh hai
+
+Na pyaas hai
+
+Na budhaapa hai
+
+Na dukh hai
+
+Koi bhi bura bhaav
+is jagah tik nahi paata 🌼
+
+🍎 Sab kuch uplabdh
+
+Is Sabha mein
+har tarah ki cheez milti hai:
+
+Meethi cheezein 🍯
+
+Ras bhara bhojan 🍇
+
+Peene ka amrit jaisa paani 💧
+
+Thanda aur garam, dono prakar ka jal
+
+Ped bhi yahan
+mann-chaha phal dete hain 🌳
+
+Phoolon ki mala
+bahut sugandhit hoti hai 🌸
+
+👑 Kaun-kaun yahan hota hai
+
+Yama Dev ki Sabha mein
+bahut se rajarshi aur maharshi aate hain.
+
+Jaise:
+
+Yayati
+
+Nahusha
+
+Mandhata
+
+Bhagiratha
+
+Janaka
+
+Rama aur Lakshmana
+
+Parashurama
+
+Aur anek mahaan raja
+jo dharma ke raaste par chale 👑
+
+⚖️ Yama Dev ka Karya
+
+Yahan Dharma ka raaj hota hai ⚖️
+Sab log apne karm ke hisaab se pehchaane jaate hain.
+
+Yama Dev ke saath:
+
+Mrityu (Death)
+
+Kaal (Time)
+
+Pitru dev
+
+Siddha aur Yogi
+
+Sab milkar
+nyay aur santulan banaye rakhte hain 🌍
+
+🎶 Sangeet aur Shanti
+
+Is Sabha mein:
+
+Gandharva gaate hain 🎵
+
+Apsara nritya karti hain 💃
+
+Har taraf:
+
+Madhur awaaz
+
+Pavitra sugandh
+
+Shanti aur garima ✨
+
+🧘 Tapasvi aur Sannyasi
+
+Yahan aate hain:
+
+Shant sannyasi
+
+Pavitra tapasvi
+
+Sach bolne wale rishi
+
+Sab safed vastron mein
+apne karmon ki chamak ke saath 🌟
+
+🌈 Narada ji ka Sandesh
+
+“Yudhishthira,” Narada ji bole,
+“Yeh Yama Dev ki Sabha hai.”
+
+“Yahan nyay bhi hai
+aur karuna bhi.”
+
+“Jo dharma ke saath jeeta hai,
+uske liye yeh jagah
+shanti aur samman se bhari hoti hai.”
+
+🌱 Chhoti si Seekh (Moral)
+
+Karm hi pehchaan hai
+
+Nyay sabke liye ek jaisa
+
+Achha jeevan = shant ant 🌼"""
+            create_image_text_layout(text_content=text2, layout="full")
+
+        with st.expander("Section 2.2.5 – Section IX"):
             text1 = """ 
 Section IX – Varuna Dev ki Divya Sabha
 
@@ -978,7 +1138,7 @@ paaani ke beech banayi gayi hai 🌊
 Aur isse banaya hai
 Vishvakarma ne."""
             create_image_text_layout(
-                "attached_assets/chapter2/2.2.4.jpg",
+                "attached_assets/chapter2/2.2.5.jpg",
                 text1,
                 layout="side",
                 image_position="left"
@@ -1127,7 +1287,7 @@ Narada ji bole:
 yeh thi Varuna Dev ki Sabha.”"""
             create_image_text_layout(text_content=text2, layout="full")
 
-        with st.expander("Section 2.2.5 – Section IX"):
+        with st.expander("Section 2.2.6 – Section X"):
             text1 = """ 
             Section X – Kuvera Dev ki Divya Sabha (Dhan aur Samriddhi ka Lok)
             Narada ji bole:
@@ -1144,7 +1304,7 @@ bahut hi chamakdaar hai ✨
 Aur apni roshni se
 chandramā ko bhi feeka kar deti hai 🌙"""
             create_image_text_layout(
-                "attached_assets/chapter2/2.2.5.jpg",
+                "attached_assets/chapter2/2.2.6.jpg",
                 text1,
                 layout="side",
                 image_position="left"
@@ -1316,7 +1476,7 @@ Narada ji bole:
 yeh thi Kuvera Dev ki Sabha.”"""
             create_image_text_layout(text_content=text2, layout="full")
 
-        with st.expander("Section 2.2.6 – Section X"):
+        with st.expander("Section 2.2.7 – Section XI"):
             text1 = """ 
             Section XI – Brahma Ji ki Sabha (Srishti aur Gyaan ka Lok)
             Narada ji bole:
@@ -1333,7 +1493,7 @@ aisi hai jiska poora varnan
 koi shabdon mein
 kabhi nahi kar sakta ✨"""
             create_image_text_layout(
-                "attached_assets/chapter2/2.2.6.jpg",
+                "attached_assets/chapter2/2.2.7.jpg",
                 text1,
                 layout="side",
                 image_position="left"
@@ -1515,146 +1675,6 @@ wahan shanti hoti hai 🕊️
 
 Sabhi jeev
 ek hi srishti ka hissa hain 🌍"""
-            create_image_text_layout(text_content=text2, layout="full")
-
-        with st.expander("Section 2.2.7 – Section XI"):
-            text1 = """ 
-            Section XII – Raja Harishchandra, Pandu ka Sandesh & Rajasuya Yajna
-            👑 Yudhishthira ka Prashn
-
-Yudhishthira ne Narada ji se vinamrata se poocha:
-
-“Aapne sab Dev-Sabha ka varnan kiya,
-lekin Indra ki Sabha mein sirf ek hi raja ka naam liya—
-Raja Harishchandra.
-
-Unhone kaunsa maha-karm kiya
-jisse ve Indra ke samaan ho gaye?”
-
-Aur saath hi poocha:
-
-“Mere pita Pandu se aapki mulaqat kaise hui?”
-
-“Unhone mere liye kya sandesh bheja?”"""
-            create_image_text_layout(
-                "attached_assets/chapter2/2.2.7.jpg",
-                text1,
-                layout="side",
-                image_position="left"
-            )
-            text2 = """ 
-            🌟 Narada ji ka Uttar – Raja Harishchandra
-
-Narada ji bole:
-
-Harishchandra
-ek Chakravarti Samrat the 👑
-— dharti ke sab raja unke adheen the.
-
-Unhone:
-
-poori prithvi (7 dweep) jeeti 🌍
-
-Rajasuya Yajna ka aayojan kiya 🔥
-
-Is yajna mein:
-
-Rajaon ne apna dhan diya
-
-Harishchandra ne maange se 5 guna zyada daan diya 🤲
-
-Brahman santusht hue
-
-Sab ne kaha:
-
-“Yeh raja sab se mahaan hai.”
-
-👉 Is maha-daan aur dharm ke kaaran,
-Raja Harishchandra
-Indra Lok mein jaakar
-Indra ke saath Sabha mein virajmaan hue ✨
-
-⚔️ Indra Lok ka Marg
-
-Narada ji ne bataya:
-
-Indra Lok paane ke 3 mukhya maarg:
-
-Rajasuya Yajna
-
-Dharma-yuddh mein veerta se mrityu
-
-Kathor tapasya ke baad sharir tyag
-
-🌿 Pandu ka Sandesh (Pitri Lok se)
-
-Yudhishthira ke pita
-Pandu
-Narada ji se bole:
-
-“Mere putra Yudhishthira
-apne bhaiyon ke saath
-poori dharti jeet sakte hain.
-
-Agar ve Rajasuya Yajna karen,
-to main bhi
-Harishchandra ki tarah
-Indra Lok pahunch sakta hoon.”
-
-Narada ji ne vaada kiya
-ki yeh sandesh
-Yudhishthira tak pahunchayenge 📜
-
-⚠️ Rajasuya ka Kathan Satarkta
-
-Narada ji ne chetavani bhi di:
-
-Rajasuya bahut kathin yajna hai
-
-Brahma Rakshas use bigaadne ka prayas karte hain
-
-Yajna ke dauraan:
-
-Yuddh ho sakta hai ⚔️
-
-Kshatriyon ka vinash ho sakta hai
-
-Poora rajya sankat mein aa sakta hai
-
-👉 Isliye:
-
-Raja ko chatur, satark aur dharmic rehna hota hai
-
-Chaar varnon (Brahman, Kshatriya, Vaishya, Shudra) ki raksha zaroori hai
-
-🌱 Antim Updesh
-
-Narada ji ne kaha:
-
-“Brahmanon ko daan do,
-dharma ki raksha karo,
-aur jo kartavya hai
-use poori soch ke karo.”
-
-Fir Narada ji
-Dwaravati
-ki or prasthaan kar gaye.
-
-Unke jaane ke baad,
-Yudhishthira aur Pandav bhai
-Rajasuya Yajna par
-gambhir vichaar karne lage 🤔
-
-🌸 Moral / Seekh
-
-Daan + Dharma = Amar Kirti
-
-Raja Harishchandra ne dikhaya
-ki sachchai aur udarta
-devtaon ke samaan bana deti hai ✨
-
-Har bada karm
-soch, sanyam aur sahas maangta hai"""
             create_image_text_layout(text_content=text2, layout="full")
 
         with st.expander("Section 2.2.8 – Section XII"):
