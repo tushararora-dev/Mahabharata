@@ -3300,80 +3300,983 @@ aur shaanti ka aarambh hota hai 🌼"""
     with st.expander("Chapter 2.5 – Digvijaya Parva (The Universal Conquest)"):
 
         with st.expander("Section 2.5.1 – Section XXV"):
-            text1 = """ """
+            text1 = """ 
+            Section XXV – Pandavon ka Digvijay (Hinglish Kahani)
+
+Arjun ne jab
+divya dhanush,
+kabhi na khatam hone wale quiver,
+special rath aur dhwaj,
+aur sabha-bhavan pa liya,
+tab woh Yudhishthira ke paas gaye."""
             create_image_text_layout(
                 "attached_assets/chapter2/2.5.1.jpg",
                 text1,
                 layout="side",
                 image_position="left"
             )
-            text2 = """ """
+            text2 = """ 
+            Arjun ne shaant par dridh awaaz mein kaha:
+
+“Maharaj,
+ab humare paas sab kuch hai —
+shastra, bal, saathi, sena, yash aur rajya.
+
+Ab samay aa gaya hai
+raaj-kosh (treasury) ko majboot karne ka.
+
+Main chahta hoon
+ki sab rajaa humare saamne
+kar (tribute) dein.
+
+Main shubh din aur shubh nakshatra mein
+Uttar disha ki vijay ke liye
+prasthan karna chahta hoon.”
+
+Yudhishthira ne muskurate hue kaha 😊
+
+“Arjun,
+tum aage badho.
+
+Brahman tumhe aashirvaad dein,
+shatruon ke liye bhay
+aur mitron ke liye anand bano.
+
+Mujhe poora vishwas hai
+vijay tumhari hi hogi.”
+
+Pandav alag-alag dishaon mein
+
+Fir kya tha—
+
+Arjun ne divya rath par chadhkar
+Uttar disha jeeti
+
+Bhima ne apni shakti se
+Purab (East) ko jhuka diya 💪
+
+Sahadeva ne
+Dakshin (South) par vijay paayi
+
+Nakula ne apni chaturai aur shastra-gyaan se
+Paschim (West) ko jeet liya
+
+Sab bhai apni-apni sena ke saath
+nikal pade the 🚩
+
+Yudhishthira ka dharm
+
+Jab sab bhai yuddh aur vijay mein lage the,
+tab Yudhishthira
+Indraprastha mein rehkar
+rajya ko dharm aur nyay se chala rahe the.
+
+Rajya mein sukh, shanti aur samriddhi thi 🌸
+
+Bhagadatta ka vachan
+
+Yeh sab sun kar
+Bhagadatta ne kaha:
+
+“Arjun,
+jaise tum mere apne ho,
+waise hi Yudhishthira bhi mere hain.
+
+Main poora sahyog dunga.
+Bas batao,
+aur kya karna hai?”
+
+Is kahani ka moral 🌿
+
+Sahi samay par sahi kadam zaroori hota hai
+
+Teamwork se hi bada lakshya poora hota hai
+
+Shakti, buddhi aur dharm — teenon ka santulan jeet dilata hai"""
             create_image_text_layout(text_content=text2, layout="full")
 
         with st.expander("Section 2.5.2 – Section XXVI"):
-            text1 = """ """
+            text1 = """ 
+            Section XXVI – Arjun ka Uttar Digvijay (Hinglish Kahani)
+
+Vaisampayana bole—
+
+Bhagadatta ki baat sun kar Arjun ne shaant mann se kaha:
+
+“Agar tum apna vachan nibhaoge,
+to mere liye wahi kaafi hai.”
+
+Itna kehkar,
+Kunti putra Arjun
+Uttar disha ki taraf badh chale—
+woh disha jahan dhan ke devta ka raj maana jaata hai."""
             create_image_text_layout(
                 "attached_assets/chapter2/2.5.2.jpg",
                 text1,
                 layout="side",
                 image_position="left"
             )
-            text2 = """ """
+            text2 = """ 
+            Pahadon ki jeet
+
+Arjun ne pehle
+pahadi ilaakon aur unke aas-paas ke rajyon ko jeeta.
+Jo bhi raja wahan raaj karte the,
+sabne uski shakti ko maana
+aur kar (tribute) diya.
+
+Arjun ne sirf jeeta hi nahi,
+unke dil bhi jeet liye ❤️
+
+Vrihanta ka yuddh
+
+Fir Arjun
+Uluka ke raja Vrihanta ke khilaaf badhe.
+
+Nagade,
+rath ke pahiye,
+aur hathi ki garaj se
+dharti kaanp uthi 🌍
+
+Yuddh bhayankar tha.
+Par Vrihanta
+Arjun ke bal ko seh na paaya.
+
+Ant mein,
+woh apna rajya aur dhan lekar
+Arjun ke saamne jhuk gaya.
+
+Arjun ne rajya le liya,
+par shanti bhi bana li 🤝
+
+Ek ke baad ek vijay
+
+Fir Arjun ne—
+
+Senavindu ko rajya se bahar kiya
+
+Modapura, Vamadeva, Sudaman, Susankula
+aur kai uttar ke rajyon ko jeeta
+
+Kuch jagah par khud gaye
+
+Kuch jagah sirf apni sena bheji
+
+Arjun ne Devaprastha mein apna shivir banaya
+aur wahin se yuddh ka netritva kiya.
+
+Kathin yuddh
+
+Arjun ne—
+
+Puru vansh ke raja Visvagasva ko haraya
+
+Parvatiya lutere aur Utsava-sanketa naam ke saath kabile ko jhukaya
+
+Kashmir, Lohita, aur dus rajyon ke rajon ko parajit kiya
+
+Trigarta, Darava, Kokonada jaise veer rajyon ko bhi hara diya
+
+Kuch yuddh itne kathin the
+jaise devta aur asuron ka sangram ⚔️
+
+Antim vijay
+
+Sabse kathin yuddh
+Rishikon ke saath hua.
+
+Par ant mein,
+Arjun jeet gaya.
+
+Rishiyon ne kar mein diye:
+
+Hare tota rang ke 8 ghode 🐎
+
+Aur kai tez aur sundar ghode
+
+Ant mein,
+Arjun ne Himalaya aur Nishkuta parvat jeete
+aur Safed Parvat (White Mountains) par
+apna shivir lagaya 🏔️
+
+Is kahani ka moral 🌱
+
+Shakti ke saath vinamrata ho, to rajya tikta hai
+
+Jeet sirf talwar se nahi, dil se bhi hoti hai
+
+Achha neta wahi hota hai jo jeet ke baad shanti banaye"""
             create_image_text_layout(text_content=text2, layout="full")
 
         with st.expander("Section 2.5.3 – Section XXVII"):
-            text1 = """ """
+            text1 = """ 
+            Section XXVII – Arjun ka Uttari Digvijay (Hinglish Saral Arth)
+
+Vaisampayana kehte hain—
+
+Mahaveer Arjuna, jo Pandavon mein sabse aage the,
+Safed Parvat (White Mountains) ko paar karke
+Limpurusha desh mein pravesh karte hain."""
             create_image_text_layout(
                 "attached_assets/chapter2/2.5.3.jpg",
                 text1,
                 layout="side",
                 image_position="left"
             )
-            text2 = """ """
+            text2 = """ 
+            Limpurushon par vijay
+
+Yeh desh Durmaputra ke adheen tha.
+Yahan bhayankar yuddh hua,
+jismein anek Kshatriya mare gaye.
+
+Ant mein Arjun ne:
+
+Poore desh ko apne adheen kiya
+
+Apni poori prabhuta sthapit ki
+
+Harataka aur Manasarovar
+
+Uske baad Arjun
+Harataka desh gaye,
+jahan Guhak raj karte the.
+
+Yahan Arjun ne:
+
+Yuddh nahi, balki saam–daam (conciliation) se kaam liya
+
+Rajaon ko apna mitra banaya 🤝
+
+Isi kshetra mein Arjun ne:
+
+Manasa Sarovar
+
+Aur anya Rishiyon ke pavitra sarovar dekhe
+
+Yahin Gandharvon ke kshetron par bhi unka adhikar hua,
+jahan se unhe uttam ghode kar mein mile:
+
+Tittiri
+
+Kalmasha
+
+Manduka
+
+Uttar Harivarsha aur Uttari Kuru
+
+Ant mein Arjun Uttar Harivarsha ki taraf badhe.
+
+Wahan ke rakshak, jo ati-balshali aur divya the,
+Arjun se bole:
+
+“O Pritha-putra,
+yeh desh manushyon ke liye nahi hai.
+Yahan Uttari Kuru rehte hain.
+Yahan yuddh nahi hota,
+aur manav aankhon se kuchh dikhai bhi nahi deta.”
+
+Unhone Arjun ko aadar ke saath roka.
+
+Arjun ka dharmic uttar
+
+Arjun muskura kar bole:
+
+“Mera uddeshya yeh desh jeetna nahi hai.
+Main sirf Yudhishthira ke liye
+Samrat pad (Rajasuya) ki siddhi chahta hoon.”
+
+Is par Uttari Kurun ne:
+
+Divya vastra
+
+Swargiya abhushan
+
+Divya resham
+
+Alaukik chamde (skins)
+kar ke roop mein diye ✨
+
+Mahaan vijay ka samapan
+
+Is prakar Arjun ne:
+
+Uttar ke sabhi jeetne yogya deshon ko jeeta
+
+An-ginat yuddh lade
+
+Apaar dhan, ratna, aur tez ghode ikatthe kiye 🐎
+
+Fir woh:
+
+Indraprastha laut aaye
+
+Saara dhan Yudhishthira ko arpan kar diya
+
+Aur raja ke aadesh se vishram ke liye apne kaksh mein gaye
+
+Is adhyaay ka saar 🌿
+
+Shakti ke saath sanyam Arjun ki pehchaan hai
+
+Jahan yuddh anuchit ho, wahan maryada sarvopari hoti hai
+
+Sabhi jeete gaye rajyon ka uddeshya tha —
+Dharmic Samrajya (Rajasuya) ka nirmaan"""
             create_image_text_layout(text_content=text2, layout="full")
 
         with st.expander("Section 2.5.4 – Section XXVIII"):
-            text1 = """ """
+            text1 = """ 
+            Section XXVIII – Bhima ka Purab Digvijay (Hinglish Saral Kahani)
+
+Vaisampayana kehte hain—
+
+Bhima, jo apni apaar shakti ke liye mashhoor the,
+Yudhishthira ki anumati lekar
+Purab (East) ki taraf yatra par nikle।
+
+Unke saath:"""
             create_image_text_layout(
                 "attached_assets/chapter2/2.5.4.jpg",
                 text1,
                 layout="side",
                 image_position="left"
             )
-            text2 = """ """
+            text2 = """ 
+            Bade-bade haathi 🐘
+
+Tez ghode 🐎
+
+Majboot rath
+
+Aur shastron se sajji hui vishaal sena thi
+
+Bhima jahan se guzarte,
+dushmanon ke dil mein bhay aa jaata.
+
+Panchal, Gandak aur Videh
+
+Sabse pehle Bhima Panchal desh gaye.
+Yahan unhone:
+
+Saam-daam se kaam liya
+
+Logon ko apna mitra banaya 🤝
+
+Fir Bhima ne:
+
+Gandaka
+
+Videha
+ko jaldi hi apne adheen kar liya.
+
+Uske baad Dasarna desh jeeta gaya.
+
+Dasarna ke Raja Sudharman
+
+Dasarna mein raja Sudharman ne
+nange haathon Bhima se yuddh kiya 💪
+
+Yeh yuddh:
+
+Kathor tha
+
+Par veerata se bhara tha
+
+Bhima ne Sudharman ki himmat dekh kar:
+
+Unhe apni sena ka mukhya senapati bana diya 👑
+
+Yeh Bhima ka gun tha —
+shakti ke saath samman.
+
+Asvamedha aur Purvi Kshetra
+
+Fir Bhima aage badhe.
+Unki sena ke kadmon se dharti kaanp uthi 🌍
+
+Bhima ne:
+
+Rocamana, jo Asvamedha desh ka raja tha,
+
+Use poori sena ke saath yuddh mein hara diya
+
+Is tarah Bhima ne:
+
+Poora Purab ka kshetra apne adheen kar liya
+
+Pulinda, Sukumara aur Sumitra
+
+Uske baad Bhima:
+
+Pulinda desh gaye
+
+Wahan Sukumara aur Raja Sumitra ko bhi apne adheen kiya
+
+Bhima jahan jaate,
+vijay unke saath chalti.
+
+Chedi aur Sisupala
+
+Ant mein Bhima:
+
+Chedi desh pahunche
+
+Jahan raja Sisupala raj karta tha
+
+Sisupala ne:
+
+Bhima ka sammaan se swagat kiya
+
+Yuddh ka raasta nahi chuna
+
+Donon veeron ne:
+
+Ek doosre ka kushal-mangal poocha 😊
+
+Sisupala muskura kar bola:
+
+“Bhima, tumhara uddeshya kya hai?”
+
+Bhima ne:
+
+Yudhishthira ke Rajasuya ka lakshya bataya
+
+Yeh sunkar Sisupala ne:
+
+Apna rajya samarpit kar diya
+
+Bhima ko 30 raaton tak aadar aur seva di 🌙
+
+Uske baad Bhima:
+
+Apni sena aur rathon ke saath
+
+Aage ki yatra par nikal pade
+
+Is khand ka saar 🌼
+
+Bhima sirf balwaan nahi, nyay-priya bhi the
+
+Veerata ke saath sammaan unki pehchaan hai
+
+Sabhi vijayon ka uddeshya ek hi tha —
+Dharmic Rajasuya ke liye marg banana"""
             create_image_text_layout(text_content=text2, layout="full")
 
         with st.expander("Section 2.5.5 – Section XXIX"):
-            text1 = """ """
+            text1 = """ 
+            Section XXIX – Bhima ka Mahaan Digvijay (Hinglish Saral Kahani)
+
+Vaisampayana kehte hain—
+
+Bhima, jo sabhi shatruon ke daman karne wale the,
+apni poorvi–uttari digvijay ko aage badhate hue
+ek ke baad ek rajyon ko apne adheen laate gaye."""
             create_image_text_layout(
                 "attached_assets/chapter2/2.5.5.jpg",
                 text1,
                 layout="side",
                 image_position="left"
             )
-            text2 = """ """
+            text2 = """ 
+            Kosala, Ayodhya aur Uttari Desh
+
+Sabse pehle Bhima ne:
+
+Kumara desh ke raja Srenimat ko haraaya
+
+Fir Kosala ke raja Vrihadvala ko jeeta
+
+Uske baad Bhima ne:
+
+Ayodhya ke veer raja Dirghayaghna ko
+apni bhayanak shakti se parajit kiya
+
+Fir:
+
+Gopalakaksha
+
+Uttari Kosala
+
+Malla desh
+sab Bhima ke adheen aa gaye.
+
+Himalaya ke neeche ke aardra (moist) kshetron mein bhi
+Bhima ka ekchhatra prabhav sthapit ho gaya.
+
+Kashi, Matsya aur Pahadi Rajya
+
+Bhima ne aage badhkar:
+
+Bhallata desh
+
+Suktimanta parvat
+jeet liya.
+
+Fir Kashi ke raja Suvahu:
+
+Yuddh mein kabhi peechhe na hatne wale the
+
+Lekin Bhima ne unhe bhi paraajit kar diya
+
+Uske baad:
+
+Kratha (Suparsa kshetra)
+
+Matsya
+
+Malada
+
+Pasubhumi
+sab Bhima ke adheen ho gaye.
+
+Videha, Janaka aur Mleccha Desh
+
+Bhima ne:
+
+Madahara, Mahidara, Somadheya jeete
+
+Fir Vatsabhumi, Bharga, Nishada, Manimat ko bhi vash mein kiya
+
+Yahan ek mahatvapurn baat:
+
+Janaka, Videha ke mahan raja,
+Bhima se aasani se parajit ho gaye
+
+Isse pata chalta hai ki Bhima ka prabhav
+sirf bal se hi nahi, raajneeti se bhi tha
+
+Bhima ne:
+
+Saka
+
+Barbar (Mleccha) jatiyon
+ko bhi yuktipoorvak apne adheen kiya.
+
+Kirata, Magadha aur Karna
+
+Videha se Bhima ne:
+
+Indra parvat ke paas rehne wale
+7 Kirata rajyon ko jeeta
+
+Fir:
+
+Subma aur Prasuhma ko jeet kar
+
+Magadha ki taraf badhe
+
+Raaste mein:
+
+Danda aur Dandadhara rajaon ko vash mein kiya
+
+Girivraja pahunche
+
+Wahan:
+
+Jarasandha ke putra ko
+saam-daam se apna mitra banaya
+
+Unse kar (tribute) liya
+
+Iske baad Bhima:
+
+Kansa ki disha mein badhe
+
+Aur yahin unka saamna hua
+Karna se
+
+Bhima ne:
+
+Karna ko bhi paraajit kar diya
+
+Unhe apne adheen laaya
+
+Vanga, Samudra-tat aur Apar Sampatti
+
+Bhima ne aage:
+
+Madagiri ke raja ko yuddh mein maar giraya
+
+Pundra, Kausika-kaccha, Vanga
+ke rajyon ko jeeta
+
+Unhone:
+
+Samudrasena
+
+Chandrasena
+
+Tamralipta
+
+Karvata, Suhma
+aur samudra-tat ke sabhi rajaon ko vash mein kiya
+
+Saath hi:
+
+Sabhi Mleccha jatiyon ko bhi parajit kiya
+
+Aparimit Dhan aur Ant
+
+Samudri aur marshy kshetron ke rajaon ne Bhima ko:
+
+Chandan, agaru
+
+Kapde, ratna, moti
+
+sona–chandi, moonga, kambal
+aur arab–kharab mudraen bhent ki
+
+Itna dhan tha ki:
+
+“Sankhya mein ginna mushkil tha”
+
+Ant mein:
+Bhima:
+
+Indraprastha laut aaye
+
+Aur saara dhan
+Yudhishthira ko samarpit kar diya 🙏
+
+Is khand ka saar 🌼
+
+Bhima ka digvijay sabse vishaal tha
+
+Bal + neeti + dhairya = Bhima
+
+Sabhi vijayon ka ek hi uddeshya tha:
+Dharmic Rajasuya Yajna ke liye
+Yudhishthira ki samrajya sthaapna"""
             create_image_text_layout(text_content=text2, layout="full")
 
         with st.expander("Section 2.5.6 – Section XXX"):
-            text1 = """ """
+            text1 = """ 
+            Section XXX – Sahadeva ka Dakshin Digvijay (Hinglish Moral Story)
+
+Vaisampayana kehte hain—
+
+Sahadeva,
+Yudhishthira ke aashirvaad ke saath,
+dakshin disha ki taraf nikle.
+Unke saath ek badi aur majboot sena thi."""
             create_image_text_layout(
                 "attached_assets/chapter2/2.5.6.jpg",
                 text1,
                 layout="side",
                 image_position="left"
             )
-            text2 = """ """
+            text2 = """ 
+            Shuruat: Chhoti jeet, badi soch
+
+Sabse pehle Sahadeva ne:
+
+Surasena ko haraya
+
+Matsya ke raja ko apne adheen kiya
+
+Phir:
+
+Dantavakra ko parajit kiya
+
+Lekin daya dikhate hue,
+unhe wapis singhasan par bithaya
+
+Yeh Sahadeva ka nyay aur santulan dikhata hai.
+
+Dakshin ke rajya
+
+Sahadeva ne ek ke baad ek:
+
+Sukumara, Sumitra
+
+Nishada desh, Gosringa parvat
+
+Navarashtra
+ko apne adheen kiya.
+
+Kuntibhoja ne khud hi
+Sahadeva ka adhipatya sweekar kar liya.
+
+Narmada aur Avanti
+
+Narmada ke kinaare:
+
+Avanti ke raja Vinda aur Anuvinda
+ne yuddh kiya
+
+Sahadeva ne unhe hara kar kar (tribute) liya
+
+Phir:
+
+Bhojakata mein
+do din tak bhayanak yuddh hua
+
+Ant mein Sahadeva jeet gaye
+
+Kishkindha aur Vanar Raja
+
+Aage badhte hue:
+
+Sahadeva ne Kishkindha ki gufaen dekhi
+
+Wahan Mainda aur Dwivida se
+7 din tak yuddh hua
+
+Lekin:
+
+Vanar raja Sahadeva se prasann ho gaye
+
+Unhone kaha:
+
+“Yudhishthira ka karya safal ho”
+
+Aur khushi se kar diya.
+
+Mahishmati aur Agni ka rahasya 🔥
+
+Mahishmati mein:
+
+Sahadeva ka saamna hua Raja Nila se
+
+Is yuddh mein Agni khud
+Raja Nila ki madad kar rahe the
+
+Agni ki aag se:
+
+Sahadeva ki sena ghabra gayi
+
+Sab kuch jalta hua sa lag raha tha
+
+Sahadeva ne:
+
+shant mann se
+
+Agni ki stuti aur prarthana ki
+
+Unki sachchai aur bhakti dekh kar:
+
+Agni prasann ho gaye
+
+Bole:
+
+“Main tumhari pariksha le raha tha”
+
+Raja Nila ne:
+
+Sahadeva ko maan diya
+
+Aur kar arpit kiya
+
+Antim dakshini rajya
+
+Iske baad Sahadeva ne:
+
+Tripura, Paurava, Saurashtra
+
+Surparaka, Dandaka van
+
+Samudra-tat ke Mleccha rajya
+sab apne adheen kiye
+
+Unhone:
+
+Dravida, Andhra, Kerala, Kalinga
+
+Yavana aur anya deshon se
+ratna, sona, chandan liya
+
+Vibhishana aur shant ant
+
+Samudra ke paas:
+
+Sahadeva ne sandesh bheja
+Vibhishana ko
+
+Vibhishana ne:
+
+Isse kaal ka niyam maana
+
+Aur khushi se uphaar bheje
+
+Wapsi aur safalta 🌸
+
+Ant mein Sahadeva:
+
+Indraprastha laut aaye
+
+Saara dhan Yudhishthira ko diya
+
+Sahadeva ne mehsoos kiya:
+
+“Mera kartavya poora hua”
+
+Aur woh santosh aur shanti se jeene lage.
+
+Is khand ki seekh 🌱
+
+Sirf bal nahi, vinamrata bhi jeet dilati hai
+
+Bhakti + buddhi + dhairya
+sabse badi shakti hoti hai
+
+Sachcha vijeta woh hota hai
+jo ahankar nahi karta"""
             create_image_text_layout(text_content=text2, layout="full")
 
         with st.expander("Section 2.5.7 – Section XXXI"):
-            text1 = """ """
+            text1 = """ 
+            Section XXXI – Nakula ka Pashchim Digvijay (Hinglish Moral Story)
+
+Vaisampayana kehte hain—
+
+Nakula
+ab apni kahani shuru karte hain.
+Yeh woh yatra thi
+jo pashchim disha ki taraf gayi.
+
+Nakula:
+
+badi sena ke saath
+
+Khandavaprastha se nikle
+
+Rath ke pahiyon aur yoddhaon ki garaj se
+dharti kaanp uthi"""
             create_image_text_layout(
                 "attached_assets/chapter2/2.5.7.jpg",
                 text1,
                 layout="side",
                 image_position="left"
             )
-            text2 = """ """
+            text2 = """ 
+            Pehla sangharsh
+
+Nakula sabse pehle pahunche:
+
+Rohitaka parvat desh
+
+Yeh desh:
+
+samriddh tha
+
+gaay-dhan aur anaj se bhara tha
+
+Yahan:
+
+Mattamyuraka logon se
+bhayanak yuddh hua
+
+Ant mein Nakula jeet gaye
+
+Ek ke baad ek rajya
+
+Nakula ne:
+
+registani pradesh
+
+Sairishaka
+
+Mahetta
+
+sab apne adheen kiye.
+
+Phir unhone:
+
+Dasarna, Sivi, Trigarta
+
+Malava, Ambashtha
+
+aur anya rajyon ko
+vinamrata aur bal se jeeta
+
+Samudra ke paas
+
+Nakula pahunche:
+
+samudra ke kinaare
+
+jahan Gramaniya, Abhira,
+aur machhua samuday rehte the
+
+Unhone:
+
+kisi par anyaay nahi kiya
+
+sabko saath lekar
+kar (tribute) liya
+
+Vasudeva aur Shalya 🤝
+
+Nakula ne:
+
+sandesh bheja Vasudeva ko
+
+Sabhi Yadava:
+
+Pandavon ka adhipatya
+sweekar kar gaye
+
+Phir Nakula pahunche:
+
+Sakala, Madra desh
+
+Wahan:
+
+unke mama Shalya
+ne unhe pyaar se swagat kiya
+
+Shalya ne:
+
+bina yuddh ke
+
+ratna aur dhan diya
+
+Antim vijay
+
+Nakula ne:
+
+Mlecca, Yavana, Shaka,
+Kirata jaise rajyon ko
+apne adheen kiya
+
+Yeh jeet:
+
+sirf talwar se nahi
+
+buddhi aur maryada se hui
+
+Itna dhan mila ki:
+
+10,000 oont
+mushkil se utha paaye
+
+Wapsi aur samarpan
+
+Nakula:
+
+Indraprastha laut aaye
+
+Saara dhan
+Yudhishthira ko de diya
+
+Unke mann mein:
+
+koi ghamand nahi
+
+sirf kartavya poora hone ka sukh
+
+Is kahani ki seekh 🌱
+
+Sachchi jeet mein ahankar nahi hota
+
+Parivaar aur sambandh
+yuddh se zyada shaktishaali hote hain
+
+Jo apna kartavya nibha kar
+sab kuch arpit kar de,
+wahi mahaan hota hai"""
             create_image_text_layout(text_content=text2, layout="full")
     
     with st.expander("Chapter 2.6 – Rajasuyika Parva (Performance of the Rajasuya Sacrifice)"):
