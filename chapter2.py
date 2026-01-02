@@ -5117,63 +5117,1273 @@ tab vinash raasta ban jaata hai."""
     with st.expander("Chapter 2.7 – Sisupala-badha Parva (Death of Sisupala)"):
 
         with st.expander("Section 2.7.1 – Section XXXIX"):
-            text1 = """ """
+            text1 = """ 
+            Vaisampayana ne kaha—
+
+Sabhi raja gusse se bhare hue the.
+Woh sab ek bade samundar jaise lag rahe the,
+jo tez hawa se hil raha ho.
+
+Yudhishthira ne yeh dekha.
+Unka mann chinta se bhar gaya.
+Woh dheere se Bhishma Pitamah ke paas gaye."""
             create_image_text_layout("attached_assets/chapter2/2.7.1.jpg", text1, layout="side", image_position="left")
-            text2 = """ """
+            text2 = """ 
+            Yudhishthira bole,
+“Pitamah, sab raja bahut gusse mein hain.
+Mujhe bataiye, main kya karun?
+Mera yagya rukna nahi chahiye.
+Aur meri praja ko bhi koi nuksaan na ho.”
+
+Bhishma Pitamah shaant muskaan ke saath bole—
+
+“Dar mat, beta.
+Kya kabhi kutta sher ko hara sakta hai?”
+
+“Yeh sab raja, gusse mein bhaukne wale kutton jaise hain.
+Aur sher abhi so raha hai.”
+
+“Woh sher hai Shri Krishna.
+Jab tak woh jaagte nahi,
+tab tak Shishupala apne aap ko bahut bada samajh raha hai.”
+
+“Par sach yeh hai,
+yeh sab raja sirf shor macha rahe hain.
+Unke paas asli shakti nahi hai.”
+
+“Shishupala ki buddhi bhrasht ho chuki hai.
+Aur jo bhi uske saath chalna chahta hai,
+uski soch bhi galat ho jaati hai.”
+
+“Krishna hi srishti ko janam dene wale hain.
+Aur wahi ant bhi karte hain.”
+
+“Jo ahankaar mein andha ho jaata hai,
+uska patan nishchit hota hai.”
+
+Vaisampayana aage kehte hain—
+
+Yeh baatein sun kar Shishupala aur bhi gusse mein aa gaya.
+Usne Bhishma Pitamah se kathor aur kadve shabd bole.
+
+Par sab jaante the—
+Gussa shor karta hai.
+Aur dharm shaant rehta hai."""
             create_image_text_layout(text_content=text2, layout="full")
 
         with st.expander("Section 2.7.2 – Section XL"):
-            text1 = """ """
+            text1 = """ 
+            Shishupala gusse se bola—
+
+“Bhishma!
+Tum buddhe ho gaye ho,
+phir bhi itna jhooth bolte ho.
+
+Tum sab rajaon ko bekaar ka darr dikha rahe ho.
+Kya tumhe sharam nahi aati?”
+
+“Tum Kuruvansh ke bade ho.
+Par tumhari salah dharm se door hai.
+Jo tumhe follow karte hain,
+woh andhon ke peechhe chalne wale andhon jaise hain.”"""
             create_image_text_layout("attached_assets/chapter2/2.7.2.jpg", text1, layout="side", image_position="left")
-            text2 = """ """
+            text2 = """ 
+            “Tum baar-baar Krishna ki tareef karte ho.
+Putana, vulture, Govardhan—
+yeh sab suna kar
+tum hamare dil dukhate ho.”
+
+“Krishna ek gwala tha.
+Ismein kaunsi badi baat hai?
+Agar bachpan mein kisi ko maar diya,
+ya pahad utha liya,
+toh ismein kya chamatkaar hai?”
+
+“Aur sabse galat baat yeh hai—
+jis Kansa ka khana khaya,
+usi ko maar diya.
+Yeh toh dharm ke khilaaf hai.”
+
+“Budhe Bhishma,
+tum dharm ki baat karte ho,
+par tum khud use follow nahi karte.”
+
+“Tum kehte ho—
+‘Krishna sabse gyaani hai.’
+‘Krishna poore jagat ka swami hai.’
+
+Par baar-baar bolne se
+jhooth sach nahi ho jaata.”
+
+“Har jeev apni soch ke hisaab se kaam karta hai.
+Aur tumhari soch bahut chhoti hai.”
+
+“Pandav bhi tumhari baat maante hain.
+Isliye unki soch bhi bhrasht ho gayi hai.”
+
+Phir Shishupala aur tez bola—
+
+“Tum dharm ki baat karte ho,
+par Amba ke saath kya kiya,
+woh sab bhool gaye?”
+
+“Tumhari pratigya,
+tumhara brahmacharya—
+sab bekaar hai.”
+
+“Bina santaan ke
+saare vrat aur pooja
+vyarth ho jaate hain.”
+
+Phir Shishupala ne ek kahani sunayi—
+
+“Ek buddha hans tha.
+Woh sabko dharm sikhata tha.
+Par chupke se
+sabke ande kha jaata tha.”
+
+“Jab sach saamne aaya,
+toh baaki pakshiyon ne
+usse maar diya.”
+
+Shishupala bola—
+
+“Bhishma,
+tum bhi uss hans jaise ho.
+Agar gussa badha,
+toh yeh raja tumhe bhi nuksaan pahuncha sakte hain.”
+
+Kahani yahin rukti hai—
+
+👉 Jo sirf bolta hai, par karta nahi,
+uska sach ek din saamne aa jaata hai.
+
+👉 Gussa bolta hai,
+par dharm shaant rehta hai.
+
+👉 Aur ahankaar
+apna hi patan likhta hai."""
             create_image_text_layout(text_content=text2, layout="full")
 
         with st.expander("Section 2.7.3 – Section XLI"):
-            text1 = """ """
+            text1 = """ 
+            Shishupala phir se zor se bola—
+
+“Jarasandha ek mahaan raja tha.
+Usne Krishna se ladna bhi nahi chaha.
+Usne kaha, ‘Yeh toh ek daas hai.’
+Mujhe us raja par garv tha.”
+
+“Par jo kaam Krishna, Bhima aur Arjuna ne kiya,
+woh kaun sa dharm tha?”
+
+“Woh teeno Brahman ka bhesh bana kar aaye.
+Galat raaste se mahal mein ghuse.
+Sirf taqat jaanchne ke liye.”"""
             create_image_text_layout("attached_assets/chapter2/2.7.3.jpg", text1, layout="side", image_position="left")
-            text2 = """ """
+            text2 = """ 
+            “Jarasandha ne pehle unke pair dhone ke liye paani diya.
+Tab Krishna ne kaha,
+‘Main Brahman nahi hoon.’”
+
+“Phir jab Jarasandha ne bhojan ka nimantran diya,
+toh Krishna ne mana kar diya.”
+
+“Agar yeh sach mein poore jagat ka swami hai,
+toh phir Brahman ka roop kyun nahi maanta?”
+
+“Hairani ki baat yeh hai,
+tum Pandavon ko galat raah par le ja rahe ho,
+phir bhi woh tumhe sachcha maante hain.”
+
+“Shayad yeh bhi hairani ki baat nahi hai.
+Tum buddhe ho gaye ho,
+aur dil se kamzor pad gaye ho.
+Isliye woh tumhari har baat maan lete hain.”
+
+—
+
+Yeh kadve shabd sun kar Bhima ka khoon khol utha.
+Uski aankhen laal ho gayi.
+Chehra gusse se bhar gaya.
+
+Woh daant peesne laga.
+Aisa lag raha tha jaise
+pralay ke samay Mrityu khud khadi ho.
+
+Bhima uchhal kar aage badhne hi wala tha.
+Tab Bhishma Pitamah ne
+uska haath pakad liya.
+
+Bhishma ne pyaar aur gyaan se samjhaya.
+Bhima dheere-dheere shaant ho gaya.
+
+Jaise samundar kitna bhi bhare,
+phir bhi apni seema nahi todta—
+waise hi Bhima ne
+Bhishma ki baat maan li.
+
+Par Shishupala bilkul nahi dara.
+Usne Bhima ki taraf dekha bhi nahi.
+Jaise sher chhote jaanwar ko
+nazaron mein bhi na laata ho.
+
+Woh hanste hue bola—
+
+“Bhishma, ise chhod do.
+Sab raja dekhenge
+kaise meri shakti ise
+aag mein pade keede jaise jala degi.”
+
+Yeh sun kar Bhishma ne
+Bhima se shaant shabdon mein kaha—
+
+🟢 Gussa shor karta hai.
+🟢 Par dhairya hi asli shakti hota hai.
+🟢 Jo apne aap ko bahut bada samajhta hai,
+woh aksar apni seema bhool jaata hai."""
             create_image_text_layout(text_content=text2, layout="full")
 
         with st.expander("Section 2.7.4 – Section XLII"):
-            text1 = """ """
+            text1 = """ 
+            Bhishma Pitamah bole—
+
+“Bhima,
+main tumhe Shishupala ki kahani sunata hoon.”
+
+“Jab Shishupala paida hua,
+uske teen aankhen thi
+aur chaar haath the.”
+
+“Paida hote hi
+woh zor-zor se chillaya.
+Uski awaaz gadhe jaisi thi.”
+
+“Maa-baap darr gaye.
+Sab rishte-naate ghabra gaye.
+Unhone socha—
+ise chhod dena chahiye.”"""
             create_image_text_layout("attached_assets/chapter2/2.7.4.jpg", text1, layout="side", image_position="left")
-            text2 = """ """
+            text2 = """ 
+            Tab achanak
+aakash se awaaz aayi—
+
+“Dar mat, raja.
+Yeh bachcha bhagyashaali hoga.
+Bahut shaktishaali hoga.”
+
+“Iski mrityu abhi nahi hogi.
+Jo ise marega,
+woh bhi janm le chuka hai.”
+
+Yeh sun kar
+maa ka dil pighal gaya.
+Usne haath jod kar poocha—
+
+“Kaun hoga
+mere bete ka vinash karne wala?”
+
+Awaaz boli—
+
+“Jis kisi ki god mein
+ise bithane par
+iske extra haath gir jaayenge,
+aur teesri aankh gaayab ho jaayegi—
+wahi iska ant karega.”
+
+Yeh baat sun kar
+duniya ke kai raja
+Chedi nagar aaye.
+
+Raja ne apne bete ko
+ek-ek karke
+sabki god mein bithaya.
+
+Par kuch bhi nahi hua.
+Haath aur aankh
+waise hi rahe.
+
+Phir Dwarka se
+Balarama aur Krishna aaye.
+Woh rani ke bhai the.
+
+Sabko pranam karke
+woh shaant baith gaye.
+
+Rani khushi-khushi
+bachche ko
+Krishna ki god mein bitha deti hai.
+
+Aur tab—
+chamatkaar ho gaya.
+
+Extra haath gir gaye.
+Teesri aankh bhi gaayab ho gayi.
+
+Rani darr gayi.
+Usne Krishna se kaha—
+
+“Mujhe bacha lo.
+Mera beta tumhare haath se
+na mare.”
+
+Krishna ne pyaar se kaha—
+
+“Dar mat, mausi.
+Bolo, kya vardaan chahiye?”
+
+Rani boli—
+
+“Mere bete ke aparadh
+maaf kar dena.
+Bas yahi vardaan chahiye.”
+
+Krishna bole—
+
+“Main uske sau aparadh
+maaf karunga.
+Tum shok mat karo.”
+
+Bhishma Pitamah ne baat khatam karte hue kaha—
+
+“Bhima,
+yeh wahi Shishupala hai.
+Krishna ke vardaan ke ghamand mein
+aaj bhi ladne ko tayaar khada hai.”
+
+🌱 Moral (Soft & Simple):
+
+Vardaan ghamand ke liye nahi hote.
+
+Gussa jab had paar karta hai,
+toh maafi bhi khatam ho jaati hai.
+
+Jo apni seema bhool jaata hai,
+wahi apna ant bulata hai."""
             create_image_text_layout(text_content=text2, layout="full")
 
         with st.expander("Section 2.7.5 – Section XLIII"):
-            text1 = """ """
+            text1 = """ 
+            Bhishma Pitamah bole—
+
+“Bhima,
+jo Shishupala tumhe yudh ke liye bula raha hai,
+yeh uska apna faisla nahi hai.”
+
+“Yeh sab Krishna ki ichchha se ho raha hai.”
+
+“Batao,
+is dharti par kaunsa raja
+mujhse aise baat karne ki himmat karta,
+agar us par Mrityu ka saaya na hota?”"""
             create_image_text_layout("attached_assets/chapter2/2.7.5.jpg", text1, layout="side", image_position="left")
-            text2 = """ """
+            text2 = """ 
+            “Shishupala mein
+Hari ki hi shakti ka ek hissa hai.
+Aur ab Bhagwan
+apni shakti wapas lena chahte hain.”
+
+“Isi liye
+yeh Chedi ka raja
+garaj raha hai,
+bina kisi ka darr kiye.”
+
+—
+
+Yeh sun kar
+Shishupala ka gussa aur badh gaya.
+Usne zor se kaha—
+
+“Bhishma!
+Agar tumhe kisi ki tareef hi karni hai,
+toh Krishna ko chhod do.”
+
+“Dusre rajaon ki tareef karo.
+Karna ki karo—
+jo mahaan dhanurdhar hai.”
+
+“Drona aur Ashwatthama ki karo—
+jo dharti hila sakte hain.”
+
+“Duryodhana, Jayadratha,
+Rukmi, Bhagadatta,
+Virata, Drupada—
+itne veer raja hain!”
+
+“Un sab ko chhod kar
+tum Krishna ki hi pooja kyun karte ho?”
+
+“Achhe log
+na apni tareef karte hain,
+na doosron ki.”
+
+“Tum bina samjhe
+Krishna ko mahaan bana rahe ho.”
+
+Phir Shishupala ne
+ek chhoti si kahani sunayi—
+
+“Ek chhoti si chidiya hoti hai.
+Woh hamesha gyaan ki baat karti hai.”
+
+“Par khud
+sher ke daant se
+maans chura leti hai.”
+
+“Woh sher ki daya par jeeti hai.”
+
+“Bhishma,
+tum bhi usi chidiya jaise ho.”
+
+—
+
+Yeh kadvi baatein sun kar
+sab raja gusse mein aa gaye.
+Kuch ne kaha—
+
+“Bhishma bahut ghamandi ho gaye hain.
+Inhe saza milni chahiye.”
+
+Bhishma shaant rahe.
+Unhone dheere se kaha—
+
+“Haan,
+main in rajaon ki daya par jeeta hoon.”
+
+“Par sach yeh hai—
+main inhe
+ghaas ke tinke ke barabar bhi
+nahi maanta.”
+
+Yeh sunte hi
+sab raja aur bhadak gaye.
+
+Tab Bhishma ne
+aakhri baat kahi—
+
+“Shabd ka ant
+shabd se nahi hota.”
+
+“Yahan Krishna khade hain—
+Govinda,
+jo kabhi kamzor nahi hote.”
+
+“Jise jaldi mrityu chahiye,
+woh aage badhe
+aur Madhava ko yudh ke liye bula le.”
+
+—
+
+🌱 Soft Moral:
+
+Zyada bolna gyaan nahi hota.
+
+Ahankaar aankhon ko andha kar deta hai.
+
+Shaant dharm,
+shor machate gusse se hamesha bada hota hai."""
             create_image_text_layout(text_content=text2, layout="full")
 
         with st.expander("Section 2.7.6 – Section XLIV"):
-            text1 = """ """
+            text1 = """ 
+            Vaisampayana bole—
+
+Bhishma ke shabd sunte hi
+Shishupala aur bhadak gaya.
+Woh Krishna ki taraf muda
+aur zor se bola—
+
+“Krishna!
+Main tumhe yudh ke liye bulata hoon.
+Aaj main tumhe
+aur Pandavon ko
+ek saath mita dunga.”"""
             create_image_text_layout("attached_assets/chapter2/2.7.6.jpg", text1, layout="side", image_position="left")
-            text2 = """ """
+            text2 = """ 
+            “Tum raja nahi ho.
+Phir bhi inhone tumhari pooja ki.
+Is galti ki saza
+sabko milegi.”
+
+Yeh keh kar
+Shishupala gusse mein
+garajne laga.
+
+Tab Krishna shaant rahe.
+Unhone sab rajaon ki taraf dekha
+aur dheere se bole—
+
+“Yeh Shishupala
+mera hi rishtedaar hai.
+Phir bhi hamesha
+mujhse dvesh rakhta hai.”
+
+“Isne Dwarka jalayi.
+Mere pita ke yagya ka ghoda chura liya.
+Nirdosh logon ko bandi banaya.
+Aur anek paap kiye.”
+
+“Main sab kuch
+apni mausi ke liye
+chupchaap sah leta raha.”
+
+“Par aaj,
+sab rajaon ke saamne,
+iska ghamand had paar kar gaya hai.”
+
+“Isliye
+aaj ise dand milna hi chahiye.”
+
+Yeh sun kar
+sab raja Shishupala ko
+daantne lage.
+
+Par Shishupala hans pada.
+Woh bola—
+
+“Krishna,
+tumhe sharam nahi aati?
+Apni patni ka naam
+sabke saamne le rahe ho?”
+
+“Maafi mile ya na mile,
+tum mera kya bigaad loge?”
+
+Tab Krishna ne
+man hi man
+apne Sudarshan Chakra ko yaad kiya.
+
+Krishna bole—
+
+“Rajaon,
+maine iske sau aparadh
+maaf kiye the.
+Yeh vaada
+maine iski maa se kiya tha.”
+
+“Aaj
+woh ginti poori ho chuki hai.”
+
+“Ab dand ka samay aa gaya hai.”
+
+Itna keh kar
+Krishna ne
+Sudarshan Chakra chalaya.
+
+Ek pal mein
+Shishupala gir pada.
+Bijli se gire pahad jaise.
+
+Uske sharir se
+ek tej roshni nikli.
+Woh roshni
+Krishna ko pranam karke
+unmein sama gayi.
+
+Aakash garaj utha.
+Dharti kaanp gayi.
+Bina baadal
+baarish hone lagi.
+
+Sab raja
+sann reh gaye.
+
+Kuch khamosh rahe.
+Kuch gusse mein the.
+Aur kuch ne mann hi mann
+Krishna ki mahima ko maana.
+
+Rishiyon ne
+Krishna ki stuti ki.
+Sabke dil shaant ho gaye.
+
+Yudhishthira ne
+Shishupala ke antim sanskar
+poore samman ke saath karwaye.
+Uske bete ko
+Chedi ka raja banaya.
+
+Rajasuya yagya
+safalta se poora hua.
+Krishna ne
+har kadam par
+raksha ki.
+
+Sab raja
+vida lene aaye.
+Yudhishthira ne
+sabka samman kiya.
+
+Pandav bhai
+rajaon ko
+seema tak chhod kar aaye.
+
+Phir Krishna
+Dwarka jaane lage.
+
+Yudhishthira ne kaha—
+
+“Govinda,
+aapki kripa se
+sab safal hua.”
+
+Krishna muskuraye.
+Unhone aashirvaad diya—
+
+“Raja,
+apni praja ka
+dhyaan rakhna.
+Unke liye
+chhaon ban kar rehna.”
+
+Phir dono ne
+prem se vida li.
+
+Krishna Dwarka chale gaye.
+Aur sab apne-apne ghar.
+
+🌱 Soft Moral (Simple):
+
+Maafi ki bhi ek seema hoti hai.
+
+Ahankaar jab had paar kare,
+toh dand zaroor milta hai.
+
+Shaant dharm
+aakhir mein jeet ta hai."""
             create_image_text_layout(text_content=text2, layout="full")
 
         with st.expander("Section 2.7.7 – Section XLV"):
-            text1 = """ """
+            text1 = """ 
+            Vaisampayana bole—
+
+Jab Rajasuya Yagya poori tarah sampann ho gaya,
+tab Maharshi Vyasa
+apne shishyon ke saath
+Yudhishthira ke paas aaye.
+
+Yudhishthira turant
+apni jagah se khade ho gaye.
+Bhaiyon ke saath
+Rishi ko pranam kiya.
+Unke charan dhoye
+aur asan diya."""
             create_image_text_layout("attached_assets/chapter2/2.7.7.jpg", text1, layout="side", image_position="left")
-            text2 = """ """
+            text2 = """ 
+            Vyasa ji shaant roop se baithe
+aur bole—
+
+“Beta, baitho.”
+
+Phir unhone kaha—
+
+“Yudhishthira,
+tumne bahut bada rajya paya hai.
+Yeh asaan nahi tha.”
+
+“Tumhare kaaran
+poora Kuru vansh
+samriddh hua hai.”
+
+“Mujhe tumne
+poora samman diya.
+Ab mujhe aage jaana hai.”
+
+Yudhishthira ne
+Vyasa ji ke charan chhuye
+aur bole—
+
+“Pitamah,
+mere mann mein
+ek gehra sawaal hai.”
+
+“Rishi Narada ne kaha tha
+Rajasuya ke baad
+teen tarah ke apashagun aate hain.”
+
+“Kya Shishupala ke girne se
+woh sab khatam ho gaye?”
+
+Vyasa ji gambhir ho gaye.
+Unhone kaha—
+
+“Rajya ke baad
+aane wale 13 saalon mein
+bade ghatnaayein hongi.”
+
+“Samay aane par
+saare Kshatriya
+nasht honge.”
+
+“Ismein
+Duryodhana ke paap
+aur Bhima-Arjuna ki shakti
+ka kaaran hoga.”
+
+“Tum aaj raat
+sapne mein
+Bhagwan Shiv ko dekhoge.”
+
+“Woh Kailash jaise ujjwal honge.
+Nandi par baithe honge.
+Aur dakshin disha ki taraf dekh rahe honge.”
+
+“Is sapne se ghabrana mat.
+Samay se bada
+koi nahi hota.”
+
+“Ab main Kailash jaa raha hoon.
+Tum dhairya aur satarkta se
+rajya chalao.”
+
+Itna keh kar
+Vyasa ji chale gaye.
+
+Yudhishthira ka mann
+bhari ho gaya.
+Woh sochne lage—
+
+“Kya bhagya ko
+mehnat se badla ja sakta hai?”
+
+Phir unhone
+apne bhaiyon se kaha—
+
+“Rishi ke shabd sach honge.
+Agar meri wajah se
+sab nasht hona hai,
+toh mujhe jeena hi kyun?”
+
+Yeh sun kar
+Arjuna bole—
+
+“Bhaiya,
+nirasha mat karo.
+Himmat rakho.
+Jo sabke liye acha ho
+wahi karo.”
+
+Tab Yudhishthira bole—
+
+“Aaj se main ek vachan leta hoon.”
+
+“Agale 13 saal,
+main kabhi bhi
+kisi se kathor shabd nahi bolunga.”
+
+“Main apne aur paraye mein
+bhed nahi karunga.”
+
+“Jab jhagda nahi hoga,
+toh yudh bhi nahi hoga.”
+
+“Shanti hi
+sabse bada dharm hai.”
+
+Sab bhaiyon ne
+is vachan ko
+poori shraddha se maana.
+
+Phir Yudhishthira ne
+devtaon aur purohiton ko
+prasann kiya.
+
+Sab raja chale gaye.
+Pandav apne mahal laute.
+
+Sirf Duryodhana
+aur Shakuni
+sabha mein ruk gaye.
+
+🌱 Soft Moral (Simple & Clear):
+
+Shakti se bada hota hai dhairya.
+
+Yudh jhagdon se janm leta hai.
+
+Shanti aur vinamrata
+sabse badi jeet hoti hai."""
             create_image_text_layout(text_content=text2, layout="full")
 
         with st.expander("Section 2.7.8 – Section XLVI"):
-            text1 = """ """
+            text1 = """ 
+            Vaisampayana bole—
+
+Duryodhana abhi bhi
+Pandavon ke sabha-bhavan mein tha.
+Woh Shakuni ke saath
+us bhavan ko ghoom-ghoom kar dekh raha tha.
+
+Woh bhavan bahut sundar tha.
+Aisa jaisa Duryodhana ne
+kabhi Hastinapur mein nahi dekha tha.
+
+Ek din
+Duryodhana ne
+sheeshe ka zameen dekha.
+Use laga
+yeh paani hai."""
             create_image_text_layout("attached_assets/chapter2/2.7.8.jpg", text1, layout="side", image_position="left")
-            text2 = """ """
+            text2 = """ 
+            Usne apne kapde upar utha liye.
+Par asal mein
+woh zameen thi.
+Galti samajh aate hi
+use bahut sharm aayi.
+
+Thodi der baad
+usne sheeshe ka talaab dekha.
+Use laga
+yeh zameen hai.
+Aur woh seedha
+paani mein gir gaya.
+
+Yeh dekh kar
+Bhima zor-zor se hans pada.
+Sevak bhi hansne lage.
+
+Kapde badal kar
+jab Duryodhana utha,
+toh Bhima, Arjuna
+aur Nakula-Sahadeva
+sab hansne lage.
+
+Duryodhana
+apmaan sehna nahi jaanta tha.
+Usne kuch kaha nahi.
+Par dil ke andar
+aag jal rahi thi.
+
+Phir ek aur galti hui.
+Kabhi darwaza band laga
+jo khula tha.
+Kabhi khula laga
+jo band tha.
+
+Kabhi sar takra gaya.
+Kabhi gir pada.
+
+Aakhir mein
+Duryodhana
+Pandavon se anumati le kar
+Hastinapur ke liye nikal gaya.
+
+Raaste bhar
+uska mann dukhi tha.
+Woh sirf
+Pandavon ki samriddhi
+aur sabha-bhavan ke baare mein
+sochta raha.
+
+Pandav khush the.
+Sab raja
+unhe naman kar rahe the.
+Yudhishthira ka yash
+har jagah phail raha tha.
+
+Yeh sab dekh kar
+Duryodhana ka chehra
+peela pad gaya.
+
+Woh itna khoya hua tha
+ki Shakuni ke poochhne par bhi
+kuch nahi bola.
+
+Shakuni ne poocha—
+“Bhatije,
+itna chup kyun ho?”
+
+Duryodhana bola—
+
+“Maama,
+Pandav poori dharti ke raja ban gaye hain.
+Unka yagya
+Indra ke yagya jaisa lagta hai.”
+
+“Mera dil
+jalan se bhar gaya hai.
+Main din-raat jal raha hoon.”
+
+“Shishupala ke marne par bhi
+kisi ne virodh nahi kiya.
+Sab Pandavon ke paksh mein the.”
+
+“Sab raja
+Yudhishthira ko
+daan aur khazana de rahe the.
+Jaise woh unke sevak hon.”
+
+“Yeh sab dekh kar
+mujhe eersha ho rahi hai.
+Aur main khud se
+naraz hoon.”
+
+Phir woh aur dukhi hote hue bola—
+
+“Maama,
+mujhe jeene ka mann nahi karta.
+Main aag mein kood jaun,
+ya zehar pee loon.”
+
+“Jo apne shatru ko
+itna safal dekhe,
+woh kaise shaant reh sakta hai?”
+
+“Maine Pandavon ko
+rokne ki koshish ki.
+Par woh kamal ki tarah
+aur khil gaye.”
+
+“Lagta hai
+bhagya sab kuch hai.
+Aur mehnat bekaar.”
+
+“Pandav badhte ja rahe hain.
+Aur hum dheere-dheere
+kamzor ho rahe hain.”
+
+“Unka bhavan,
+unke sevakon ki hansi—
+sab kuch
+mere dil ko jala raha hai.”
+
+“Maama,
+yeh sab pitaji ko bata dena.
+Main eersha aur dukh se
+bhara hua hoon.”
+
+🌱 Soft Moral (Simple & Clear):
+
+Eersha dil ko jala deti hai.
+
+Doosron ki khushi dekh kar jalna,
+apne sukh ko khud khatam kar deta hai.
+
+Vinay aur mehnat
+sachchi shanti laate hain."""
             create_image_text_layout(text_content=text2, layout="full")
 
         with st.expander("Section 2.7.9 – Section XLVII"):
-            text1 = """ """
+            text1 = """ 
+            Shakuni dheere se bola—
+
+“Duryodhana,
+Yudhishthira se jalan mat rakho.”
+
+“Pandav jo paa rahe hain,
+woh unke bhagya aur mehnat ka phal hai.”
+
+“Tumne unhe kai baar
+nuksaan pahunchane ki koshish ki.
+Par har baar
+woh bach gaye.”"""
             create_image_text_layout("attached_assets/chapter2/2.7.9.jpg", text1, layout="side", image_position="left")
-            text2 = """ """
+            text2 = """ 
+            “Unhe Draupadi jaisi patni mili.
+Drupada aur uske putra
+unke saathi bane.”
+
+“Krishna jaise shaktishaali mitra
+unke saath hain.
+Isliye woh aage badh rahe hain.”
+
+“Arjuna ko Gandiva dhanush mila.
+Akshay baan mile.
+Usne kai rajaon ko
+jeet liya.”
+
+“Maya daanav ne
+unke liye
+woh adbhut sabha banayi.”
+
+“Ismein dukhi hone ki
+kya baat hai?”
+
+“Tum kehte ho
+tumhare paas saathi nahi hain.
+Yeh sach nahi.”
+
+“Tumhare bhai tumhare saath hain.
+Drona, Ashwatthama, Karna,
+Kripa, main,
+aur Saumadatti—
+sab tumhare mitra hain.”
+
+“In sab ke saath
+tum poori dharti jeet sakte ho.”
+
+—
+
+Duryodhana bola—
+
+“Maama,
+agar tum saath do,
+toh main Pandavon ko hara sakta hoon.”
+
+“Unka rajya,
+unka dhan,
+aur woh sabha—
+sab mera ho jayega.”
+
+—
+
+Shakuni thoda ruk kar bola—
+
+“Par yudh se
+Pandav jeete nahi ja sakte.”
+
+“Woh bahut balwaan hain.”
+
+“Lekin
+ek aur raasta hai.”
+
+Duryodhana turant bola—
+
+“Maama,
+agar bina khoon-kharabi ke
+koi upaay ho,
+toh batao.”
+
+—
+
+Shakuni muskuraaya—
+
+“Yudhishthira
+jua khelna pasand karta hai.”
+
+“Par use khelna
+achha nahi aata.”
+
+“Woh mana nahi kar paata.”
+
+“Main jua mein
+bahut nipun hoon.”
+
+“Tum usse
+jua khelne ke liye bulao.”
+
+“Main uska rajya
+aur saari sampatti
+jeet lunga.”
+
+“Par pehle
+yeh baat
+raja Dhritarashtra ko batao.”
+
+“Unki anumati se
+sab ho jayega.”
+
+—
+
+Duryodhana bola—
+
+“Maama,
+yeh baat
+tum hi pitaji ko samjhao.”
+
+“Main itni samajhdari se
+baat nahi kar paunga.”
+
+🌱 Soft Moral (Simple & Clear):
+
+Eersha jab buddhi par haavi ho jaati hai,
+toh galat raaste dikhne lagte hain.
+
+Yudh se jo na mile,
+chaal se lene ki soch
+vinash ki shuruaat hoti hai.
+
+Laalach aksar
+adharm ka darwaza kholta hai."""
             create_image_text_layout(text_content=text2, layout="full")
 
         with st.expander("Section 2.7.10 – Section XLVIII"):
-            text1 = """ """
+            text1 = """ 
+            Vaisampayana bole—
+
+Rajasuya yagya dekh kar
+Shakuni ko Duryodhana ke mann ki baat
+pehle hi samajh aa gayi thi.
+
+Woh Duryodhana ke saath
+sabha se nikalte hue
+seedha Dhritarashtra ke paas gaya.
+
+Raja andhe the,
+par buddhi se bade the.
+Shakuni ne namrata se kaha—"""
             create_image_text_layout("attached_assets/chapter2/2.7.10.jpg", text1, layout="side", image_position="left")
-            text2 = """ """
+            text2 = """ 
+            “Rajaji,
+aapke putra Duryodhana
+andar se bahut dukhi hai.”
+
+“Uska rang udd gaya hai.
+Woh kamzor aur chintit ho gaya hai.”
+
+“Kripya poochhiye,
+uske mann ka dukh kya hai.”
+
+Dhritarashtra ne
+Duryodhana se pyaar se poocha—
+
+“Beta,
+tum itne dukhi kyun ho?”
+
+“Tumhare paas
+dhan, bhog, vastra,
+ghode, mahal—
+sab kuch hai.”
+
+“Phir bhi
+tum aise kyun lag rahe ho
+jaise tumhare paas
+kuch bhi nahi?”
+
+Duryodhana ne kaha—
+
+“Pitaji,
+main jeete hue bhi
+jal raha hoon.”
+
+“Jab tak
+shatru ka ghamand
+tootta nahi,
+dil ko shanti nahi milti.”
+
+“Yudhishthira ki samriddhi
+dekh kar
+mera mann aur bhi jalta hai.”
+
+“Woh hazaron Brahmanon ko
+roj bhojan deta hai.”
+
+“Raja log
+uske liye
+daan aur khazana laate hain.”
+
+“Uske yagya mein
+itna dhan tha
+jo maine kabhi dekha bhi nahi.”
+
+“Uski sabha
+sitaaron se bhare
+aakash jaisi lagti thi.”
+
+“Sab raja
+uske aage
+sir jhuka rahe the.”
+
+“Yeh sab dekh kar
+mujhe neend nahi aati.”
+
+“Mera mann maanta hai—
+Pandav badhte ja rahe hain.
+Aur hum ghatt rahe hain.”
+
+“Pitaji,
+yeh jalan
+mujhe jeene nahi deti.”
+
+Yeh sun kar
+Shakuni dheere se bola—
+
+“Duryodhana,
+agar tumhe
+Pandavon jaisi samriddhi chahiye,
+toh ek upaay hai.”
+
+“Main jua khelne mein
+sabse tez hoon.”
+
+“Yudhishthira ko
+khelne ka shauk hai,
+par kala nahi.”
+
+“Agar use bulaaya jaaye,
+toh woh mana nahi karega.”
+
+“Main chaal se
+uska sab kuch
+jeet sakta hoon.”
+
+Duryodhana turant bola—
+
+“Pitaji,
+Shakuni taiyaar hai.”
+
+“Kripya
+anumati de dijiye.”
+
+Dhritarashtra ne kaha—
+
+“Main pehle
+Vidura se poochhna chahta hoon.”
+
+Yeh sun kar
+Duryodhana ghabra gaya—
+
+“Agar aap Vidura se poochhenge,
+toh woh mana kar denge.”
+
+“Aur agar mana kiya,
+toh main
+jeevit nahi rahunga.”
+
+Yeh sun kar
+Dhritarashtra ka mann
+hil gaya.
+
+Unhone turant
+sabha banwane ka aadesh diya.
+
+Par andar hi andar
+unhe galat hone ka
+ehsaas tha.
+
+Isliye
+Vidura ko bhi bulaya.
+
+Vidura aaye.
+Unhone namrata se kaha—
+
+“Rajaji,
+yeh jua
+vinash ka raasta hai.”
+
+“Isse bhaiyon mein
+bhed paida hoga.”
+
+Par Dhritarashtra bole—
+
+“Vidura,
+shayad yeh sab
+bhagya ne likha hai.”
+
+“Main ise rok nahi paunga.”
+
+“Tum jao
+aur Yudhishthira ko
+bulakar laao.”
+
+Vidura ka dil
+dukh se bhar gaya.
+
+Unhone samajh liya—
+Kali ka samay aa gaya hai.
+
+Woh Bhishma ke paas gaye,
+aankhon mein chinta liye.
+
+🌱 Soft Moral (Simple & Deep):
+
+Jalan buddhi ko andha kar deti hai.
+
+Jua aur chaal
+vinash ka darwaza hoti hai.
+
+Jab galat ko bhagya keh diya jaaye,
+tab patan shuru ho jaata hai."""
             create_image_text_layout(text_content=text2, layout="full")
 
         with st.expander("Section 2.7.11 – Section XLIX"):
