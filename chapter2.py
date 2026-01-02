@@ -4282,80 +4282,836 @@ wahi mahaan hota hai"""
     with st.expander("Chapter 2.6 – Rajasuyika Parva (Performance of the Rajasuya Sacrifice)"):
 
         with st.expander("Section 2.6.1 – Section XXXII"):
-            text1 = """ """
+            text1 = """ 
+            Section XXXII – Yudhishthira ka Dharmic Raj (Hinglish Moral Story)
+
+Yudhishthira ek nyay-priya raja the.
+Woh hamesha sach aur dharm ke raaste par chalte the.
+Isliye unke rajya mein shanti aur samriddhi thi. 🌾"""
             create_image_text_layout(
                 "attached_assets/chapter2/2.6.1.jpg",
                 text1,
                 layout="side",
                 image_position="left"
             )
-            text2 = """ """
+            text2 = """ 
+            Rajya ka haal
+
+Log apna-apna kaam khushi se karte the.
+Kisan kheti karte the.
+Vyapari imaandari se vyapar karte the.
+Pashu, kheti aur bazaar – sab phool rahe the.
+
+Barish jitni chahiye utni hoti thi.
+Na zyada, na kam.
+Na akaal tha,
+na baadh,
+na bimaari,
+na aag,
+aur na hi asamay maut.
+
+Yahan tak ki chor aur dhokebaaz bhi
+aapas mein jhoot nahi bolte the.
+Aisa tha Yudhishthira ka raj. 🌸
+
+Raja ka kosh
+
+Raj-kosh itna bhara hua tha
+ki sau saal mein bhi khatam na ho.
+Par yeh dhan
+galat tareeke se nahi,
+dharm se kamaya hua tha.
+
+Yudhishthira ne socha—
+
+“Ab mujhe ek mahaan yagya karna chahiye,
+jisme yeh dhan
+sahi jagah lag sake.”
+
+Unke mitra aur mantri bole—
+“Rajasuya Yagya ka samay aa gaya hai.”
+
+Krishna ka aagman
+
+Tabhi Shri Krishna aaye.
+Woh apne saath
+bahut saara dhan aur sena laaye.
+
+Unke aane se
+Indraprastha aisa chamak utha
+jaise andhere mein suraj aa gaya ho. ☀️
+
+Yudhishthira ne unka swagat kiya
+aur poocha—
+“Sab kushal mangal?”
+
+Phir vinamrata se bole—
+
+“Hey Krishna,
+yeh rajya aur yeh dhan
+sab aapki kripa se mila hai.
+Main chahta hoon
+is dhan ka upyog
+dharm ke kaam mein ho.”
+
+Krishna ka aashirvaad
+
+Krishna muskuraye aur bole—
+
+“Yudhishthira,
+tum rajya ke yogya ho.
+Rajasuya Yagya tum hi karo.
+Main tumhare saath hoon.”
+
+Yeh sun kar
+Yudhishthira bahut prasann hue. 😊
+
+Yagya ki taiyaari
+
+Sab bhai milkar kaam mein lag gaye.
+Sahadeva ne saman ikattha karwaya.
+Brahmanon ko bulaya gaya.
+Sundar yagya-mandap bane.
+
+Door-door se—
+
+Brahman aaye
+
+Raja aaye
+
+Vyapari aaye
+
+Aam log bhi aaye
+
+Sabka swagat barabari aur prem se hua.
+
+Dan aur seva
+
+Roz yagya mein gunjta tha—
+
+👉 “Do”
+👉 “Khao”
+
+Yudhishthira ne—
+
+Gaayen di
+
+Sona diya
+
+Vastra diye
+
+Aashray diya
+
+Koi bhookha nahi raha.
+Koi udaas nahi raha.
+
+Yeh yagya
+sirf shakti ka nahi,
+daya aur dharm ka yagya tha. 🌼
+
+Ant mein seekh ✨
+
+Sachcha rajya nyay se chalta hai
+
+Dhan ka asli upyog daan aur seva mein hai
+
+Jab raja dharmic hota hai,
+toh poora rajya sukhi hota hai
+
+🌸 Yudhishthira ka raj
+humein sikhata hai
+ki shakti se bada
+dharm hota hai."""
             create_image_text_layout(text_content=text2, layout="full")
 
         with st.expander("Section 2.6.2 – Section XXXIII"):
-            text1 = """ """
+            text1 = """ 
+            Section XXXIII – Rajasuya Yagya ka Mahaan Milan (Hinglish Moral Story)
+
+Nakula, jo Pandu ke veer putra the,
+Hastinapura pahunche.
+Unhone Bhishma Pitamah aur Dhritarashtra ko
+poore samman ke saath
+Rajasuya Yagya ka nimantran diya. 🙏
+
+Bhishma, Drona aur sab gurujan
+khushi-khushi aaye.
+Unke aage-aage
+ved paath karte hue Brahman chal rahe the."""
             create_image_text_layout(
                 "attached_assets/chapter2/2.6.2.jpg",
                 text1,
                 layout="side",
                 image_position="left"
             )
-            text2 = """ """
+            text2 = """ 
+            Sab rajaon ka aagman
+
+Jab sabko pata chala
+ki Yudhishthira Rajasuya Yagya kar rahe hain,
+toh desh-desh se raja aane lage.
+
+Koi ratna laya,
+koi sona,
+koi anmol uphaar.
+
+Kaurav bhai aaye,
+Duryodhana bhi aaya.
+Karna, Shalya, Kripa, Drona, Ashwatthama –
+sab mahaan yoddha wahan the.
+
+Gandhar, Kalinga, Vanga, Dravida, Sindhu,
+Parvat ke raja,
+Samudra ke paas ke deshon ke raja –
+sab aaye.
+
+Yadav vansh ke veer bhi aaye –
+Pradyumna, Aniruddha, Gada aur anek yoddha.
+
+Yeh sirf yagya nahi tha,
+yeh Bharatvarsh ka maha-sammelan tha. 🌍
+
+Mehmanon ka samman
+
+Yudhishthira ne sabko
+pyar aur maryada ke saath swagat kiya.
+
+Har raja ko
+ek sundar mahal diya gaya.
+Yeh mahal:
+
+Chand aur baraf jaise safed the
+
+Phoolon aur sugandh se bhare hue
+
+Sone ke jaali wale jharokhe
+
+Motiyon se sajje hue
+
+Mulayam farsh aur sundar seedhiyan
+
+Door se dekhne par
+woh Himalaya ke shikhar jaise lagte the. ✨
+
+Yagya ka drishya
+
+Thodi der vishraam ke baad
+sab raja yagya-mandap mein aaye.
+
+Wahan Yudhishthira:
+
+Brahmanon ko daan de rahe the
+
+Rishiyon ka samman kar rahe the
+
+Dharm ke niyam nibha rahe the
+
+Woh yagya-mandap
+aisa lag raha tha
+jaise swarg dharti par aa gaya ho. 🌸
+
+Ant mein seekh ✨
+
+Sachcha raja sabka samman karta hai
+
+Shakti ka asli roop vinamrata aur seva hai
+
+Jab sabko barabari se jagah mile,
+tabhi rajya mahaan banta hai
+
+🌼 Rajasuya Yagya
+sirf shakti ka nahi,
+ekta, samman aur dharm ka utsav tha."""
             create_image_text_layout(text_content=text2, layout="full")
 
         with st.expander("Section 2.6.3 – Section XXXIV"):
-            text1 = """ """
+            text1 = """ 
+            Section XXXIV – Rajasuya Yagya: Seva, Vyavastha aur Samman (Hinglish Moral Story)
+
+Vaisampayana bole—
+
+Yudhishthira ne sabse pehle
+Bhishma Pitamah, Dronacharya, Kripacharya
+aur sab bade-buzurgon ko
+vinamrata se pranam kiya. 🙏
+
+Phir Yudhishthira ne kaha:
+“Yeh yagya sirf mera nahi,
+hum sabka hai.
+Jo khazana yahan hai,
+woh bhi aap sabka hi hai.
+Aap sab milkar mujhe margdarshan dein.”
+
+Yeh sun kar
+sab bade log khush ho gaye.
+Unhone mehsoos kiya
+ki raja sach mein sabko apna maanta hai. 🌼"""
             create_image_text_layout(
                 "attached_assets/chapter2/2.6.3.jpg",
                 text1,
                 layout="side",
                 image_position="left"
             )
-            text2 = """ """
+            text2 = """ 
+            Kaam ka sahi bantwara
+
+Yudhishthira ne har ek ko
+uski yogyaata ke hisaab se
+zimmedari di:
+
+Dushasana → bhojan aur suvidhaon ka prabandh
+
+Ashwatthama → Brahmanon ki seva
+
+Sanjaya → anya rajao ka samman
+
+Bhishma aur Drona → poori vyavastha par nazar
+
+Kripa → ratna, sona aur daan ka prabandh
+
+Vidura → nyay aur vitran (distribution)
+
+Duryodhana → rajao se aane wali bhent aur tributes
+
+Aur Shri Krishna?
+Woh toh khud
+Brahmanon ke charan dhone mein lage the. 🌸
+Itni shakti hone ke baad bhi
+unka mann seva mein tha.
+
+Rajao ka maha-samman
+
+Jo bhi raja aaya,
+woh hazaaron uphaar le kar aaya.
+Koi ratna laya,
+koi sona,
+koi anmol vastu.
+
+Sab soch rahe the:
+“Main bhi is maha yagya mein
+apna yogdan doon.”
+
+Yagya ka poora sthal
+mahalon se bhara hua tha.
+Yeh mahal:
+
+Devtaon ke rathon jaise chamakdar
+
+Ratno se sajje hue
+
+Rakshakon aur veeron se surakshit
+
+Aisa lag raha tha
+jaise swarg dharti par utar aaya ho. ✨
+
+Sabka pet bhara, sabka mann bhara
+
+Yudhishthira ne:
+
+Sabko pet bhar kar khana diya 🍚
+
+Brahmanon ko daan diya
+
+Garibon, mehmanon, sabka dhyan rakha
+
+Devta bhi khush hue
+havan, hom aur mantron se.
+Brahman bhi prasann hue
+daan aur bhojan se.
+Aur aam log bhi
+khushi se bhar gaye. 😊
+
+Ant mein seekh 🌟
+
+Achha raja woh hota hai
+jo zimmedari baantna jaane
+
+Asli mahaanta
+seva aur vinamrata mein hoti hai
+
+Jab sabka samman ho,
+tabhi koi kaam sach mein mahaan banta hai
+
+🌼 Rajasuya Yagya
+sirf ek rasam nahi,
+balki ek misaal thi
+ki shakti ke saath
+seva aur nyay zaroori hai."""
             create_image_text_layout(text_content=text2, layout="full")
 
         with st.expander("Section 2.6.4 – Section XXXV"):
-            text1 = """ """
+            text1 = """ 
+            Section XXXV – Sabse Pehla Sammaan (Hinglish Moral Story)
+
+Vaisampayana bole—
+
+Rajasuya yagya ka aakhri din tha.
+Aaj raja Yudhishthira par
+pavitra jal ka abhishek hona tha. 💧
+
+Sab mahaan Rishi,
+aur door–door se aaye raja,
+milkar yagya-mandap ke
+andar gaye.
+
+Narada ji aage the.
+Sab Rishi shaant baithe the.
+Aisa lag raha tha
+jaise Brahma-lok ho. ✨"""
             create_image_text_layout(
                 "attached_assets/chapter2/2.6.4.jpg",
                 text1,
                 layout="side",
                 image_position="left"
             )
-            text2 = """ """
+            text2 = """ 
+            Gyaan bhari baatein
+
+Rishi aapas mein baat kar rahe the:
+
+“Yeh sahi hai.”
+
+“Nahi, aisa nahi.”
+
+“Ho sakta hai.”
+
+Koi tark se baat jeet raha tha.
+Koi shaant muskaan ke saath sun raha tha.
+Pura mandap
+taaron se bhara aakash jaisa lag raha tha. 🌌
+
+Wahan koi bhi bina maryada ka nahi tha.
+Sab shuddh mann aur vrat ke saath baithe the.
+
+Narada ji ka gehra vichaar
+
+Narada ji ne
+Yudhishthira ki samriddhi dekhi.
+Unhone sab rajaon ko dekha.
+
+Unka mann soch mein doob gaya. 🤍
+Unhe yaad aaya—
+Devta dharti par aaye hain.
+Aur Narayana khud
+manav roop mein yahin hain.
+
+Narada ji samajh gaye:
+Yeh sab ek divya yojna ka hissa hai.
+Yeh sab shaktiwaan veer
+apna kaam poora karke
+wapas jayenge.
+
+Yeh soch kar
+Narada ji shant ho gaye.
+
+Bhishma Pitamah ka sujhav
+
+Tab Bhishma Pitamah bole—
+
+“Yudhishthira,
+sab raja yahan kaafi samay se hain.
+Inka samman hona chahiye.”
+
+Unhone kaha:
+“Guru, Rishi, rishtedaar, mitra aur raja—
+yeh sab Arghya ke yogya hote hain.”
+
+“Par pehle
+sabse shreshtha ko Arghya dena chahiye.”
+
+Yudhishthira ne namrata se poocha:
+“Pitamah,
+aapke hisaab se
+sabse shreshtha kaun hai?”
+
+Sach ka faisla
+
+Bhishma Pitamah ne kaha—
+
+“Jaise suraj
+sab roshniyon mein sabse upar hota hai,
+waise hi Krishna
+hum sab mein shreshtha hain. ☀️
+
+Yeh yagya-mandap
+unhi se chamak raha hai.”
+
+Yeh sun kar
+Sahadeva aage aaye.
+Unhone pehla Arghya
+Krishna ko diya. 🌸
+
+Krishna ne use
+shaant muskaan ke saath sweekar kiya.
+Par ghamand ko chot lagi
+
+Lekin Shishupala
+yeh dekh kar chup na reh saka. 😠
+Uske mann mein
+gussa bhar gaya.
+
+Usne sabke saamne
+Bhishma aur Yudhishthira par
+ungli uthai.
+Aur Krishna ke liye
+kathor shabd bole.
+
+Seekh 🌼
+
+Sachcha samman
+yogyaata se milta hai
+
+Gyaan aur vinamrata
+hamesha shreshtha hote hain
+
+Ghamand
+aankhon par parda daal deta hai
+
+🌟 Jahan sach ka samman hota hai,
+wahan ahankaar tik nahi paata."""
             create_image_text_layout(text_content=text2, layout="full")
 
         with st.expander("Section 2.6.5 – Section XXXVI"):
-            text1 = """ """
+            text1 = """ 
+            Section XXXVI – Ahankaar ka Ubaal (Hinglish Moral Story)
+
+Shishupala gusse mein bola— 😠
+
+“O Kuru-vansh ke raja,
+yeh Vrishni vansh ka Krishna
+is sab mahaan rajaon ke beech
+raaj-sammaan ke layak nahi hai.
+
+Yudhishthira,
+tum Pandav bachche ho.
+Tumhe dharma ki gehraai samajh hi nahi aati.
+Dharma bahut sookshm hota hai.
+
+Aur Bhishma!
+Aapse mujhe yeh umeed nahi thi.
+Agar aap jaise gyaani
+apne fayde ke liye faisla karein,
+toh yeh ninda ke yogya hai.”"""
             create_image_text_layout(
                 "attached_assets/chapter2/2.6.5.jpg",
                 text1,
                 layout="side",
                 image_position="left"
             )
-            text2 = """ """
+            text2 = """ 
+            Sawal par sawal
+
+Shishupala rukha nahi.
+Usne ek ke baad ek sawal daag diye—
+
+“Krishna raja bhi nahi hai.
+Phir kaise usse pehla samman?
+
+Agar umar ki baat hai,
+toh Vasudeva yahin hain.
+
+Agar mitrata ki baat hai,
+toh Drupada bhi yahin hain.
+
+Agar guru ki baat hai,
+toh Drona aur Kripa baithe hain.
+
+Agar yagya ke rishi chahiye,
+toh Vedavyasa yahin hain.
+
+Phir bhi Krishna ko hi
+pehla Arghya kyun?”
+
+Ghamand bol raha tha
+
+Shishupala aur tez ho gaya—
+
+“Bhishma, Bhishmaka, Rukmi, Shalya,
+Pandya, Ekalavya, Karna—
+sab yahan maujood hain.
+
+Karna jaise maha-veer ko chhod kar
+Krishna ko chunna
+sirf apmaan hai.
+
+Krishna na raja hai,
+na guru,
+na yagya-purohit.
+
+Phir bhi usey samman diya gaya—
+yeh sab swarth ke kaaran hua hai!”
+
+Krishna par aarop
+
+Shishupala ne Krishna ki taraf dekha—
+
+“Janardana,
+tumne yeh samman kyun sweekar kiya?
+Jo tumhare layak hi nahi tha?
+
+Tum toh us kutte jaise ho
+jo akela baith kar
+ghee chaat leta hai
+aur khud ko mahan samajhta hai.
+
+Yeh raaj-sammaan
+tumhare liye waisa hi hai—
+jaise andhe ko rang,
+ya nirbal ko shringaar.”
+
+Ant mein apmaan
+
+Shishupala ne kaha—
+
+“Aaj sabka asli chehra saamne aa gaya.
+Yudhishthira ka,
+Bhishma ka,
+aur Krishna ka bhi.”
+
+Yeh keh kar,
+Shishupala apni jagah se uth khada hua.
+Uske saath kuch raja bhi uthe.
+Aur woh sabha chhod kar bahar nikal gaye. 🚶‍♂️🚶‍♂️
+Seekh 🌱
+
+Ahankaar jab bolta hai,
+toh gyaan chup ho jata hai
+
+Sachcha mahan
+shor nahi karta
+
+Jo shant rehta hai,
+wahi sabse shaktishaali hota hai
+
+✨ Jahan ghamand hota hai,
+wahan patan shuru ho jaata hai."""
             create_image_text_layout(text_content=text2, layout="full")
 
         with st.expander("Section 2.6.6 – Section XXXVII"):
-            text1 = """ """
+            text1 = """ 
+            Section XXXVII – Shanti, Gyaan aur Sachchai (Hinglish Moral Story)
+
+Shishupala gusse mein sabha chhod kar ja raha tha.
+Tab Raja Yudhishthira turant uske peeche gaye.
+Unki awaaz shaant aur pyaar bhari thi. 🌿"""
             create_image_text_layout(
                 "attached_assets/chapter2/2.6.6.jpg",
                 text1,
                 layout="side",
                 image_position="left"
             )
-            text2 = """ """
+            text2 = """ 
+            Yudhishthira bole
+
+“O Chedi ke raja,
+jo baatein tumne kahi hain
+woh uchit nahi hain.
+
+Bhishma jaise mahaan purush ko
+yeh kehna ki unhe dharma nahi aata,
+yeh paap aur anuchit hai.
+
+Dekho, yahan maujood
+bahut se raja
+tumse bade aur anubhav-shaali hain.
+Sab Krishna ke samman ko sweekar kar rahe hain.
+
+Tum bhi unki tarah
+sanyam rakho.
+Bhishma Krishna ko jaante hain,
+tum unhe utna nahi jaante.”
+
+Bhishma ka gyaan
+
+Tab Bhishma Pitamah khade hue.
+Unki awaaz gambhir thi,
+par shant bhi. 🕊️
+
+“Jo Krishna ke samman ko
+sweekar nahi karta,
+woh samjhaane layak hi nahi hota.
+
+Jo veer kisi shatru ko jeet kar
+usey chhod deta hai,
+woh uska guru ban jaata hai.
+
+Is sabha mein
+koi bhi aisa raja nahi
+jo kabhi Krishna se
+jeeta na gaya ho.
+
+Isliye Krishna
+sirf humare liye nahi,
+teenon lokon ke liye poojniya hain.”
+
+Krishna ka mahattva
+
+Bhishma ne aage kaha—
+
+“Hum Krishna ko
+na rishte ke kaaran poojte hain,
+na laabh ke liye.
+
+Hum unhe poojte hain
+kyunki unmein
+gyaan, bal aur dharma hai.
+
+Gyaan Brahman ka shreshth gun hai.
+Bal Kshatriya ka shreshth gun hai.
+Aur dono Krishna mein hain.”
+
+Antim sach
+
+Bhishma bole—
+
+“Yeh poora sansaar
+Krishna mein sthapit hai.
+Surya, Chandra, dharti, aakash—
+sab unse hi hain.
+
+Jaise Surya sabse tejasvi hai,
+waise hi Kesava sabse shreshth hain.
+
+Shishupala abhi bachcha hai.
+Isliye woh
+Krishna ko samajh nahi paata.
+
+Jo sachcha dharma chaahta hai,
+usey ghamand chhodna hota hai.”
+
+Seekh 🌼
+
+Gussa aankhen band kar deta hai
+
+Gyaan shant mann se aata hai
+
+Jo sach mein mahaan hota hai,
+usey apni mahaanta dikhani nahi padti
+
+✨ Jahan ahankaar khatam hota hai,
+wahi se gyaan shuru hota hai."""
             create_image_text_layout(text_content=text2, layout="full")
 
         with st.expander("Section 2.6.7 – Section XXXVIII"):
-            text1 = """ """
+            text1 = """ 
+            Section XXXVIII – Ghamand ka Ubharta Toofan (Hinglish Moral Story)
+
+Bhishma Pitamah chup ho gaye.
+Sabha mein gehri shaanti chhaa gayi.
+Tab Sahadeva aage badhe.
+Unka chehra shaant tha,
+par shabdon mein dridh nischay tha. 🌿"""
             create_image_text_layout(
                 "attached_assets/chapter2/2.6.7.jpg",
                 text1,
                 layout="side",
                 image_position="left"
             )
-            text2 = """ """
+            text2 = """ 
+            Sahadeva ka kathor sach
+
+Sahadeva bole—
+
+“Jo bhi raja
+Kesava ke samman ko
+sahan nahi kar sakta,
+jo Krishna ki pooja se jalta hai—
+
+Mera pair uske ahankaar par hai.
+
+Agar kisi mein himmat ho,
+toh iska uttar de.
+Aur jo buddhi-shaali hain,
+woh jaante hain ki
+Krishna guru, pita aur margdarshak hain.
+Unka samman bilkul uchit hai.”
+
+Sabha ka pratikriya
+
+Sahadeva ne jaise hi yeh kaha,
+sabhi mahaan aur ghamandi raja
+chup ho gaye.
+
+Kisi ke paas
+koi uttar nahi tha. 🤐
+
+Tab aakash se phoolon ki varsha hui. 🌸
+Aur ek divya awaaz boli—
+
+👉 “Bahut achha, bahut achha.”
+
+Narada ka antim sandesh
+
+Tab Narada Rishi bole.
+Unki awaaz gambhir thi,
+par sach se bhari hui. 🕊️
+
+“Jo vyakti
+lotus-netra Krishna ka samman nahi karta,
+woh jeevit hote hue bhi
+mrit samaan hai.
+
+Usse baat karna bhi
+vyarth hai.”
+
+Shishupala ka gussa
+
+Krishna ko Arghya mil chuka tha.
+Yeh dekh kar Shishupala ka krodh bhadak utha. 🔥
+Uski aankhen laal ho gayi.
+
+Woh sab rajaon se bola—
+
+“Jab main yahan hoon,
+toh tum kya soch rahe ho?
+Chalo, Pandavon aur Vrishnion ke
+khilaaf yudh ki taiyaari karein!”
+
+Ghamand ka andhaapan
+
+Shishupala ke shabdon se
+kai raja bhadak gaye.
+Unke chehre pe irsha aur krodh tha.
+
+Woh bole—
+
+“Hum aisa kuch karenge
+ki yeh yagya
+poora na ho sake.
+Aur Krishna ka samman
+humne sweekar kiya—
+yeh baat kabhi na lage!”
+
+Doston ne samjhaya,
+par gussa
+samajh par bhaari pad gaya.
+
+Unke chehre
+aise lag rahe the
+jaise shikaar chhin jaane par
+dahaadte hue sher. 🦁
+Krishna ki samajh
+
+Krishna sab dekh rahe the.
+Unhone samajh liya—
+
+Yeh rajaon ka samuh
+ab toofan banne ko tayaar hai.
+Sainyon ki lahron wala
+ek bada samundar
+uchhalne hi wala hai… 🌊
+
+Seekh 🌼
+
+Ahankaar buddhi ko andha kar deta hai
+
+Sach bolne wala akela bhi sahi hota hai
+
+Jo dharma ke viruddh khada hota hai,
+woh ant mein khud hi girta hai
+
+✨ Jab gussa neta ban jaaye,
+tab vinash raasta ban jaata hai."""
             create_image_text_layout(text_content=text2, layout="full")
 
     with st.expander("Chapter 2.7 – Sisupala-badha Parva (Death of Sisupala)"):
