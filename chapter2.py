@@ -6387,63 +6387,1355 @@ tab patan shuru ho jaata hai."""
             create_image_text_layout(text_content=text2, layout="full")
 
         with st.expander("Section 2.7.11 – Section XLIX"):
-            text1 = """ """
+            text1 = """ 
+            Janamejaya ne poocha—
+
+“Gurudev,
+woh jua ka khel kaise hua
+jisne Pandavon ko
+itna dukh diya?”
+
+“Kaun-kaun se raja wahan the?
+Kaun mana kar raha tha,
+aur kaun haan bol raha tha?”
+
+“Mujhe sab kuch
+detail mein sunna hai.
+Kyunki wahi
+duniya ke vinaash ka kaaran bana.”"""
             create_image_text_layout("attached_assets/chapter2/2.7.11.jpg", text1, layout="side", image_position="left")
-            text2 = """ """
+            text2 = """ 
+            Sauti bole—
+
+“Raja ke kehne par
+Vyasa ji ke shishya
+Vaisampayana ne
+sab kuch sunaya.”
+
+Vaisampayana bole—
+
+“Raja Janamejaya,
+agar tum sunna chahte ho,
+toh dhyaan se suno.”
+
+Dhritarashtra ne
+Vidura ki baat sun kar
+Duryodhana ko alag bulaaya.
+
+Woh bole—
+
+“Beta,
+jua mat khelo.”
+
+“Vidura gyaani hai.
+Woh galat salah
+kabhi nahi deta.”
+
+“Jua
+raajya ko tod deta hai.”
+
+“Tumhare paas
+sab kuch hai—
+rajya, dhan, samman.”
+
+“Phir bhi
+tum itne dukhi kyun ho?”
+
+Duryodhana ne kaha—
+
+“Pitaji,
+main jee raha hoon,
+par jal raha hoon.”
+
+“Dushman ki tarakki dekh kar
+jo na jale,
+woh insaan hi nahi.”
+
+“Yudhishthira ki samriddhi
+meri aankhon mein chubhti hai.”
+
+“Poora sansaar
+uske raaj mein lagta hai.”
+
+“Sab raja
+uske mahal mein
+daas jaise rehte hain.”
+
+“Sab khazana
+uske paas aa raha hai.”
+
+Duryodhana ne aage kaha—
+
+“Pitaji,
+mujhe unke yagya mein
+ratna lene ka kaam diya gaya.”
+
+“Mere haath thak gaye the,
+par daan aana band nahi hua.”
+
+“Jab main thak jaata,
+log intezaar karte.”
+
+“Maya daanav ne
+unke liye sheeshe ka talaab banaya.”
+
+“Maine use paani samajh liya.”
+
+“Kapde upar kiye—
+aur Bhima hans pada.”
+
+“Woh hansi
+aaj tak mujhe jalati hai.”
+
+“Phir ek baar
+main paani ke talaab mein gir gaya.”
+
+“Is baar
+Bhima aur Arjuna hase.”
+
+“Draupadi bhi hansi.”
+
+“Kapde badle gaye—
+woh bhi mera apmaan bana.”
+
+Duryodhana ki awaaz bhar aayi—
+
+“Ek aur baar
+maine darwaza samajh kar
+deewar se takkar maar li.”
+
+“Mera sir lag gaya.”
+
+“Nakula aur Sahadeva
+mujhe sambhaalne aaye.”
+
+“Sahadeva ne
+muskurate hue kaha—
+‘Yahan se jaaiye.’”
+
+“Bhima phir hansa.”
+
+“Pitaji,
+yeh sab yaadein
+mera dil jala rahi hain.”
+
+“Isi jalan mein
+main jee raha hoon.”
+
+🌱 Soft Moral (Simple & Deep):
+
+Jalan jab mann mein bas jaati hai,
+toh buddhi andhi ho jaati hai.
+
+Apmaan ka bojh
+galat raaste dikhaata hai.
+
+Jua aur ahankaar
+vinaash ka pehla kadam hote hain."""
             create_image_text_layout(text_content=text2, layout="full")
 
         with st.expander("Section 2.7.12 – Section L"):
-            text1 = """ """
+            text1 = """ 
+            Duryodhana bola—
+
+“Pitaji,
+ab main aapko batata hoon
+Pandavon ki woh daulat
+jo maine apni aankhon se dekhi.”
+
+“Woh khazana dekh kar
+meri buddhi ghoom gayi.
+Main apne aap ko
+sambhaal nahi paaya.”
+
+“Dharti ke har kone se
+raja log
+Yudhishthira ke liye
+uphaar la rahe the.”"""
             create_image_text_layout("attached_assets/chapter2/2.7.12.jpg", text1, layout="side", image_position="left")
-            text2 = """ """
+            text2 = """ 
+            “Kamboja ke raja
+bahut hi sundar chamde laaye.
+Naram kambal laaye.
+Sunehre dhaagon se bane hue.”
+
+“Unhone
+tez ghode diye.
+Oont diye.
+Gadhiyaan di.”
+
+“Sab kuch itna achha tha
+ki dekh kar hi
+aankhen bhar jaati thi.”
+
+“Bahut saare Brahman
+gate par khade rahe.
+Unke paas
+bahut zyada daan tha.”
+
+“Par jagah kam pad gayi,
+isliye
+unhe andar nahi jaane diya gaya.”
+
+“Phir bhi
+daan aata hi raha.”
+
+“Samundar ke kinaare ke raja
+bahut si dasiyan laaye.
+Sundar vastra laaye.
+Hiran ki chamdi laaye.”
+
+“Van, pahaad,
+door-door ke deshon se
+log aaye.”
+
+“Koi bakri laaya,
+koi gai.
+Koi shehad,
+koi ratna.”
+
+“Sab gate par hi
+intezaar karte rahe.”
+
+“Bhagadatta raja bhi aaye.
+Unke saath
+tez ghode the.
+Sundar talwaarein thi.”
+
+“Par unhe bhi
+andar jaane ka mauka
+baad mein mila.”
+
+“Kuch log
+ajeeb se the.
+Kisi ki aankhen alag jagah par.
+Kisi ke pair kam.”
+
+“Par sab
+Yudhishthira ke liye
+uphaar la rahe the.”
+
+“Valhika ke log
+hazaaron gadhe laaye.
+Tez daudne wale.
+Sundar rang ke.”
+
+“Unhone
+oon ke kambal diye.
+Kapde diye.
+Chamdi diye.”
+
+“Talwaarein,
+kulhaadiyaan,
+sugandh,
+ratna—
+sab kuch diya.”
+
+“Shak, Tukhara,
+aur anya jaatiyon ke raja
+haathi laaye.
+ghode laaye.
+sone ke dher laaye.”
+
+“Poorab ke deshon se
+sundar rath aaye.
+hathiyaar aaye.
+sone-chandi se sajje hue.”
+
+“Yeh sab dekh kar
+mera mann jal utha.”
+
+“Pitaji,
+yeh woh daulat thi
+jo maine dekhi.”
+
+“Isi jalan ne
+mere dil ko
+shaant nahi rehne diya.”
+
+🌱 Soft Moral (Simple & Deep):
+
+Zyada daulat dekh kar
+kamzor mann jal jaata hai.
+
+Jalan aankhon ko nahi,
+buddhi ko andha karti hai.
+
+Jo doosron ki samriddhi se jalta hai,
+woh apni shanti kho deta hai."""
             create_image_text_layout(text_content=text2, layout="full")
 
         with st.expander("Section 2.7.13 – Section LI"):
-            text1 = """ """
+            text1 = """ 
+            Duryodhana bola—
+
+“Pitaji,
+ab main aapko
+aur bhi bataata hoon.”
+
+“Yudhishthira ke paas
+jo daulat thi,
+woh sirf sone-chandi ki nahi thi.”
+
+“Woh poori duniya ki
+izzat aur samman thi.”"""
             create_image_text_layout("attached_assets/chapter2/2.7.13.jpg", text1, layout="side", image_position="left")
-            text2 = """ """
+            text2 = """ 
+            “Pahaadon ke paas rehne wale log
+mitti ke neeche se nikla hua sona laaye.”
+
+“Bans ke jhundon mein rehne wale
+shehad laaye,
+phoolon ki mala laaye.”
+
+“Par unmein se
+bahut se log
+gate par hi ruk gaye.”
+
+“Andar jagah hi nahi thi.”
+
+“Uttar ke pahaadon se
+Kirata log aaye.”
+
+“Unke paas
+chandan, agaru,
+sona, chamda,
+aur sundar jaanwar the.”
+
+“Hazaaron daasiyaan bhi thi.”
+
+“Par unhe bhi
+intezaar karna pada.”
+
+“Har disha se
+raja aaye.”
+
+“Koi Anga se,
+koi Vanga se.”
+
+“Koi Chola se,
+koi Pandya se.”
+
+“Sab apna-apna
+shreshth uphaar laaye.”
+
+“Haathi,
+ghode,
+rath,
+kapde,
+ratna,
+aur sone ke dher.”
+
+“Kuch raja
+sirf tab andar ja paaye
+jab unhone
+hazaar-hazaar haathi diye.”
+
+“Un haathiyon par
+sunehri patte the.”
+
+“Woh pahaad jaise majboot the.”
+
+“Gandharva raja
+tez ghode laaye.”
+
+“Virata raja ne
+hazaaron haathi diye.”
+
+“Drupada ne
+poora rajya tak
+daan mein de diya.”
+
+“Aur Krishna—
+unhone Arjuna ke samman ke liye
+hazaaron shreshth haathi diye.”
+
+“Krishna aur Arjuna
+ek hi aatma jaise the.”
+
+“Jo Arjuna chahe,
+Krishna poora kare.”
+
+“Yudhishthira ke mahal mein
+koi bhooka nahi tha.”
+
+“Har jagah
+khana bant raha tha.”
+
+“Kahin anaaj tola ja raha tha,
+kahin pak raha tha,
+kahin baanta ja raha tha.”
+
+“Har vyakti ke paas
+vastra, bhojan,
+aur aadar tha.”
+
+“Hazaaron Brahman
+roz wahan bhojan karte.”
+
+“Yajnaseni pehle
+sabko khilati,
+phir khud khati.”
+
+“Yahan tak ki
+kamzor aur beemar log bhi
+bhookhe nahi rehte.”
+
+“Pitaji,
+yeh sab dekh kar
+mera mann toot gaya.”
+
+“Mujhe laga—
+meri zindagi bekaar hai.”
+
+“Dusron ki itni samriddhi dekh kar
+main jee nahi pa raha tha.”
+
+“Isi jalan ne
+mujhe andha kar diya.”
+
+🌱 Soft Moral (Simple & Deep):
+
+Daulat se zyada
+samman logon ka dil jeetta hai.
+
+Jalan jab badh jaaye,
+toh sach bhi bojh lagne lagta hai.
+
+Jo sabko saath lekar chalta hai,
+usi ke paas asli samriddhi hoti hai."""
             create_image_text_layout(text_content=text2, layout="full")
 
         with st.expander("Section 2.7.14 – Section LII"):
-            text1 = """ """
+            text1 = """ 
+            Duryodhana bola—
+
+“Pitaji…
+duniya ke sabse bade raja,
+sabse gyaani log,
+sabse pavitra log—
+sab Yudhishthira ko
+jhuk kar pranam kar rahe the.”
+
+“Jo satya par chalte hain,
+jo vrat rakhte hain,
+jo Ved jaante hain,
+jo dharm ko jeete hain—
+sab unki seva karte hain.”"""
             create_image_text_layout("attached_assets/chapter2/2.7.14.jpg", text1, layout="side", image_position="left")
-            text2 = """ """
+            text2 = """ 
+            “Hazaaron gaaye aayi thi.
+Har gaay ke saath
+dudh ke bartan the.”
+
+“Yeh sab
+Brahmanon ko daan dene ke liye tha.”
+
+“Rajasuya ke ant mein,
+jab Yudhishthira ka
+abhishek hua—
+toh har raja
+khud jal lekar aaya.”
+
+“Kisi ne rath diya,
+kisi ne ghode jode.”
+
+“Kisi ne dhwaj pakda,
+kisi ne kavach.”
+
+“Kisi ne talwar,
+kisi ne dhanush.”
+
+“Sab milkar
+Yudhishthira ki seva mein lage the.”
+
+“Dhaumya Rishi,
+Vyasa,
+Narada—
+sab mantra padh rahe the.”
+
+“Pandav bhai
+chamar hilate the.”
+
+“Satyaki chhatra pakde tha.”
+
+“Krishna khud
+Yudhishthira ko snan kara rahe the.”
+
+“Samudra se
+Varun ka shankh aaya.”
+
+“Us shankh se
+snan hua.”
+
+“Woh shankh dekh kar
+main behosh ho gaya.”
+
+“Poorab, paschim,
+dakshin ke samudron se
+log aa sakte hain.”
+
+“Par uttar samudra
+sirf pakshi hi dekh sakte hain.”
+
+“Fir bhi…
+Pandavon ka raaj
+wahan tak phail chuka tha.”
+
+“Wahan ke shankh bhi
+yahan baj rahe the.”
+
+“Jab sab shankh
+ek saath baje—
+mera sharir kaanp gaya.”
+
+“Kuch raja gir gaye.”
+
+“Mujhe bhi hosh nahi raha.”
+
+“Aur us waqt…
+Pandav,
+Krishna,
+Satyaki—
+sab hans rahe the.”
+
+“Unki hansi
+mere dil mein
+aag ban kar ghus gayi.”
+
+“Arjuna ne
+Brahmanon ko
+sone ke singh wali
+gaaye daan di.”
+
+“Rajasuya poora hua.”
+
+“Yudhishthira ko
+aisa sukh mila
+jo pehle kisi ko nahi mila.”
+
+“Pitaji…
+yeh sab dekh kar
+mujhe laga—
+jeena bekaar hai.”
+
+“Mere andar
+shanti hi nahi bachi.”
+
+“Lagta hai jaise—
+andha aadmi
+jua bandhe.”
+
+“Bade kamzor ho rahe hain,
+chhote badhte ja rahe hain.”
+
+“Main chaah kar bhi
+is dukh se
+baahar nahi aa pa raha.”
+
+“Isi liye
+main murjha gaya hoon.”
+
+“Isi liye
+main jal raha hoon.”
+
+🌱 Soft Moral (Very Simple & Deep):
+
+Jab doosron ki shanti
+apne dil ko jala de,
+toh dukh hi dukh bachta hai.
+
+Sachchi samriddhi
+daulat nahi,
+logon ka prem hoti hai.
+
+Jalan dheere-dheere
+insaan ko andar se
+kha jaati hai."""
             create_image_text_layout(text_content=text2, layout="full")
 
         with st.expander("Section 2.7.15 – Section LIII"):
-            text1 = """ """
+            text1 = """ 
+            Dhritarashtra ne pyaar se kaha—
+
+“Beta,
+tum mere sabse bade putra ho.
+Isliye meri baat dhyaan se suno.”
+
+“Jo insaan jalan karta hai,
+woh hamesha dukhi rehta hai.”
+
+“Jalan
+dil ko dheere-dheere
+maar deti hai.”"""
             create_image_text_layout("attached_assets/chapter2/2.7.15.jpg", text1, layout="side", image_position="left")
-            text2 = """ """
+            text2 = """ 
+            “Yudhishthira
+chhal nahi jaante.”
+
+“Unke paas
+utni hi sampatti hai
+jitni tumhare paas.”
+
+“Unke mitra
+tumhare bhi mitra hain.”
+
+“Woh kabhi
+tumse jalan nahi karte.”
+
+“Phir tum
+unse jalan kyun karte ho?”
+
+“Tum aur Pandav
+barabar ho.”
+
+“Phir
+apne bhai ki cheez
+chheen ne ka vichaar
+kyun laate ho?”
+
+“Isse ruk jao.”
+
+“Shant ho jao.”
+
+“Beta,
+agar tum bhi
+bade yagya ka maan chahte ho,
+toh apna yagya karo.”
+
+“Raja log
+khud tumhare paas aayenge.”
+
+“Daan bhi milega,
+samman bhi.”
+
+“Dusron ki cheez
+chahna
+bahut neecha bhav hota hai.”
+
+“Jo apne paas jo hai
+usmein santosh rakhta hai,
+wahi sach mein sukhi hota hai.”
+
+“Sachchi mahaanta
+teen cheezon mein hoti hai—
+
+Apne kaam mein mehnat
+
+Dusron ki cheez par nazar na rakhna
+
+Jo mila hai, uski raksha karna”
+
+“Jo musibat mein bhi
+hilta nahi,
+jo vinamr rehta hai,
+jo satark rehta hai—
+uske paas
+sampatti khud chal kar aati hai.”
+
+“Pandav
+tumhare apne haath jaise hain.”
+
+“Apne hi haathon ko
+kaatna
+buddhimaani nahi hoti.”
+
+“Daulat ke liye
+ghar ke andar
+aag mat lagao.”
+
+“Apne bhaiyon se
+jagda karna
+bahut bada paap hai.”
+
+“Tumhare purvaj
+unke bhi purvaj hain.”
+
+“Yagya mein daan do.
+Jo mann chahe
+achha kaam karo.”
+
+“Khushi se jiyo.
+Shaanti se jiyo.”
+
+“Yahi jeevan ka
+sahi raasta hai.”
+
+🌱 Soft Moral (Simple & Clear):
+
+Jalan se kabhi sukh nahi milta.
+
+Santosh hi sabse badi daulat hai.
+
+Apne logon ke saath ladkar
+koi jeet nahi paata."""
             create_image_text_layout(text_content=text2, layout="full")
 
         with st.expander("Section 2.7.16 – Section LIV"):
-            text1 = """ """
+            text1 = """ 
+            Duryodhana ne kaha—
+
+“Pitaji,
+sirf sun lene se
+samajh nahi aata.”
+
+“Jaise chamach
+soup ko chhoota hai
+par swaad nahi jaanta—
+waise hi
+bina kaam ki samajh
+kuch nahi hoti.”
+
+“Aap sab jaante ho,
+phir bhi
+mujhe rok rahe ho.”
+
+“Hum dono
+ek hi naav mein bandhe hain.”"""
             create_image_text_layout("attached_assets/chapter2/2.7.16.jpg", text1, layout="side", image_position="left")
-            text2 = """ """
+            text2 = """ 
+            “Kya aap
+apna fayda bhool gaye ho?”
+
+“Ya phir
+aap mere viruddh ho?”
+
+“Jo raja
+sahi samay par kaam nahi karta,
+uska rajya
+doob jaata hai.”
+
+“Jo aaj karna hai
+use kal par chhodna—
+yeh galat hai.”
+
+“Rajaon ke niyam
+aam logon jaise nahi hote.”
+
+“Raja ko
+hamesha
+apna laabh dekhna chahiye.”
+
+“Kshatriya ke liye
+sirf jeet maayne rakhti hai.”
+
+“Chahe raasta
+achha ho ya bura.”
+
+“Dushman ki chamakti hui
+samriddhi ko chheen ne ke liye
+har disha ko vash mein lana padta hai.”
+
+“Hathiyaar
+sirf kaatne ke liye nahi hote—
+woh har tarah se
+dushman ko haraane ka zariya hote hain.”
+
+“Kaun dost hai,
+kaun dushman—
+yeh shakal se nahi,
+kaam se tay hota hai.”
+
+“Jo tumhe dukh deta hai,
+wahi tumhara dushman hai.”
+
+“Pitaji,
+asantosha hi
+tarakki ki jad hai.”
+
+“Isliye
+main asantosht rehna chahta hoon.”
+
+“Jo zyada chahata hai,
+wahi aage badhta hai.”
+
+“Shaant rehne wala raja
+zameen nigal jaati hai.”
+
+“Jaise saanp
+bil mein rehne wale
+jeev ko kha jaata hai.”
+
+“Chhota dushman bhi
+agar badhne diya,
+toh ped ko
+deemak ki tarah
+andar se kha jaata hai.”
+
+“Pandav roz badh rahe hain.”
+
+“Hum wahi ke wahi hain.”
+
+“Isliye
+mujhe unki samriddhi chahiye.”
+
+“Ya toh
+main woh sab paa loonga—
+ya phir
+yuddh mein gir jaaunga.”
+
+“Ab mujhe
+jeevan ki parvah nahi.”
+
+🌱 Soft Moral (Warning for Children, very simple):
+
+Jab laalach buddhi par haavi ho jaaye,
+toh dharm dhundhla ho jaata hai.
+
+Asantosha mehnat bhi bana sakta hai,
+aur vinaash bhi.
+
+Gussa aur jalan
+insaan ko dheere-dheere
+galat raaste par le jaate hain."""
             create_image_text_layout(text_content=text2, layout="full")
 
         with st.expander("Section 2.7.17 – Section LV"):
-            text1 = """ """
+            text1 = """ 
+            Sakuni bola—
+
+“Raja,
+jo samriddhi tumhe dukh de rahi hai,
+main woh tumhare liye
+cheen lunga.”
+
+“Bas Yudhishthira ko bula lo.”
+
+“Jise khel aata ho,
+woh bina chot khaye
+jeet jaata hai.”
+
+“Jua mera dhanush hai.
+Paase mere teer.”
+
+“Khel ki chaupat
+mera rath hai.”"""
             create_image_text_layout("attached_assets/chapter2/2.7.17.jpg", text1, layout="side", image_position="left")
-            text2 = """ """
+            text2 = """ 
+            Duryodhana turant bola—
+
+“Pitaji,
+Sakuni taiyaar hai.”
+
+“Bas aap
+anumati de do.”
+
+Dhritarashtra bole—
+
+“Main pehle
+Vidura se poochunga.”
+
+Duryodhana gusse se bola—
+
+“Vidura hamesha
+Pandavon ka bhala chahta hai.”
+
+“Woh aapka mann
+badal dega.”
+
+“Do logon ki salah
+kabhi ek jaisi nahi hoti.”
+
+“Jo hamesha darr ke kaaran
+ruk jaata hai,
+woh keede jaisa
+khud hi khatam ho jaata hai.”
+
+“Bimari ya maut
+yeh nahi dekhti
+ki samay achha hai ya bura.”
+
+“Jab tak jaan hai,
+tab tak kaam kar lena chahiye.”
+
+Dhritarashtra ne thande swar mein kaha—
+
+“Majboot logon se dushmani
+mujhe theek nahi lagti.”
+
+“Dushmani khud
+ek hathiyaar ban jaati hai.”
+
+“Tum jis cheez ko
+sukh ka darwaza keh rahe ho,
+wahi yuddh ka beej hai.”
+
+“Jab yeh shuru hota hai,
+toh talwaar aur teer
+khud ban jaate hain.”
+
+Par Duryodhana ruka nahi—
+
+“Jua purane zamane se chala aa raha hai.”
+
+“Ismein
+na khoon bahata hai,
+na talwaar chalti hai.”
+
+“Isse toh
+swarg ka darwaza khulta hai.”
+
+“Pandav aur hum
+barabar ho jaayenge.”
+
+“Isliye
+juye ka khel hone do.”
+
+Dhritarashtra thak kar bole—
+
+“Tumhari baatein
+mujhe theek nahi lagti.”
+
+“Par jao,
+jo tumhe theek lage karo.”
+
+“Par yaad rakhna—
+tumhein iska
+pachtava hoga.”
+
+“Galat raaste se
+kabhi bhavishya ka sukh
+nahi milta.”
+
+“Vidura ne
+yeh sab pehle hi dekh liya tha.”
+
+“Yeh sab
+bhagya ka likha hai.”
+
+Vaisampayana kehte hain—
+
+Dhritarashtra ne
+bhagya ko sab kuch maan liya.
+
+Aur phir
+apne putra ki baat maan kar
+aadesh diya—
+
+“Turant
+ek bhavya sabha bhavan banao.”
+
+“Hazaar khambhon wala.
+Sheeshe jaisa chamakta.”
+
+“Sone aur neelam se sajja hua.”
+
+“Sau darwaaze hon.”
+
+“Bahut bada ho.”
+
+Hazaaron kaarigar
+lag gaye.
+
+Jaldi hi
+sabha tayaar ho gayi.
+
+Sundar.
+Chamakti hui.
+Ratnon se bhari.
+
+Phir Dhritarashtra ne
+Vidura ko bulaya aur kaha—
+
+“Jaakar
+Yudhishthira ko bula lao.”
+
+“Unke bhaiyon ke saath.”
+
+“Woh meri sabha dekhein.”
+
+“Aur phir
+dostana juye ka khel ho.”
+
+🌱 Soft Moral (Bahut Saral, Bachchon ke liye):
+
+Galat salah jab mann ko bha jaaye,
+toh buddhi thak jaati hai.
+
+Jua muskaan ke saath aata hai,
+par aansuon ke saath jaata hai.
+
+Jab koi bhagya ke naam par
+galat faisla karta hai,
+toh kahani ka andhera shuru hota hai."""
             create_image_text_layout(text_content=text2, layout="full")
 
         with st.expander("Section 2.7.18 – Section LVI"):
-            text1 = """ """
+            text1 = """ 
+            Vaisampayana bole—
+
+Raja Dhritarashtra
+apne bete ke mann ko samajh chuke the.
+Unhe lag raha tha
+ki bhagya ko
+koi taal nahi sakta.
+
+Par Vidura—
+jo bahut buddhimaan the—
+chup nahi rahe.
+
+Unhone dhire par spasht shabdon mein kaha—
+
+“Raja,
+mujhe aapka yeh faisla
+bilkul theek nahi lagta.”"""
             create_image_text_layout("attached_assets/chapter2/2.7.18.jpg", text1, layout="side", image_position="left")
-            text2 = """ """
+            text2 = """ 
+            “Is raaste par mat chaliye.”
+
+“Mujhe darr hai
+ki yeh khel
+hamare poore vansh ka
+vinaash ban jaayega.”
+
+“Jab bhai
+ek-doosre se ladne lagen,
+toh ghar toot jaata hai.”
+
+“Juya
+sirf khel nahi hota,
+yeh phoot ka beej hota hai.”
+
+Par Dhritarashtra ne
+gambhir swar mein kaha—
+
+“Vidura,
+agar bhagya saath hoga
+toh kuch bura nahi hoga.”
+
+“Yeh poori duniya
+vidhaata ke niyam se chalti hai.”
+
+“Koi bhi
+poori tarah swatantra nahi.”
+
+“Isliye
+jo likha hai
+wahi hoga.”
+
+“Tum jao,
+aur Yudhishthira ko
+mere aadesh se
+yahaan le aao.”
+
+Vidura chup ho gaye.
+Unke mann mein
+ashanka thi.
+Par kartavya
+unhe chalne par
+majboor kar raha tha.
+
+Aur yahin se
+kahani ka
+sabse kathin mod
+shuru hota hai.
+
+🌱 Soft Moral (Bachchon ke liye, bahut simple):
+
+Jo samjhaata hai,
+woh hamesha dushman nahi hota.
+
+“Bhagya” keh kar
+galat faisla lena
+sahi baat nahi hoti.
+
+Jab buddhi ki baat
+nahi suni jaati,
+toh dukh ka raasta
+khul jaata hai."""
             create_image_text_layout(text_content=text2, layout="full")
 
         with st.expander("Section 2.7.19 – Section LVII"):
-            text1 = """ """
+            text1 = """ 
+            Vaisampayana ne kaha—
+
+Raja Dhritarashtra ka aadesh
+Vidura ke mann ke viruddh tha.
+Par kartavya ke kaaran
+Vidura chal pade.
+
+Tez ghodon ke saath
+woh Pandavon ki nagari pahunche.
+Buddhimaan Vidura
+seedhe Yudhishthira ke mahal gaye."""
             create_image_text_layout("attached_assets/chapter2/2.7.19.jpg", text1, layout="side", image_position="left")
-            text2 = """ """
+            text2 = """ 
+            Yudhishthira ne
+Vidura ka swagat kiya.
+Pyaar se poocha—
+
+“Kshatta,
+aapka mann udaas kyun lag raha hai?”
+
+“Kya sab theek hai
+Hastinapur mein?”
+
+Vidura bole—
+
+“Sab theek hai, raja.”
+
+“Dhritarashtra ne
+naya sabha bhavan banwaya hai.”
+
+“Woh chahte hain
+aap bhaiyon ke saath aakar dekhein.”
+
+“Phir
+ek dostana juye ka khel ho.”
+
+Yudhishthira ne
+shant swar mein kaha—
+
+“Vidura,
+juya jhagda laata hai.”
+
+“Jo yeh jaanta ho,
+woh khelne ko
+kaise raazi ho?”
+
+“Aap hi batao,
+humein kya karna chahiye?”
+
+Vidura bole—
+
+“Main jaanta hoon
+juya dukh ka mool hai.”
+
+“Par raja ne
+aadesh diya hai.”
+
+“Jo hitkar ho,
+wahi kijiye.”
+
+Yudhishthira ne poocha—
+
+“Kaun-kaun se
+juari wahan honge?”
+
+Vidura ne kaha—
+
+“Sakuni,
+aur kuch aur
+chalak khelne wale.”
+
+Yudhishthira kuch der chup rahe.
+Phir bole—
+
+“Main juya pasand nahi karta.”
+
+“Par agar
+mujhe sabha mein
+chunauti di gayi,
+toh main mana nahi kar sakta.”
+
+“Yeh mera vrat hai.”
+
+Yeh keh kar
+Yudhishthira ne
+yatra ki taiyaari ka aadesh diya.
+
+Agli subah
+Pandav bhai,
+Draupadi aur parivar ke saath
+Hastinapur chal pade.
+
+Chalte hue
+Yudhishthira bole—
+
+“Bhagya jab
+aankhon ke saamne girta hai,
+toh buddhi bandh jaati hai.”
+
+Hastinapur pahunch kar
+Pandavon ne
+sab badon ko pranam kiya.
+
+Gandhari ne
+aashirvaad diya.
+
+Dhritarashtra ne
+pyaar se
+unke sir soonghe.
+
+Sab khush hue.
+
+Pandavon ko
+sundar kaksh diye gaye.
+
+Raat shanti se beeti.
+
+Subah
+sabha bhavan mein
+sab taiyaar the.
+
+Aur wahan—
+juye ka khel
+shuru hone wala tha.
+
+🌱 Soft Moral (Bahut Saral):
+
+Kartavya aur bhagya
+kabhi-kabhi
+galat raaste par le jaate hain.
+
+Achhe log bhi
+galat khel mein
+fas sakte hain.
+
+Kahani ka andhera
+yahin se gahra hota hai."""
             create_image_text_layout(text_content=text2, layout="full")
 
         with st.expander("Section 2.7.20 – Section LVIII"):
-            text1 = """ """
+            text1 = """ 
+            Vaisampayana bole—
+
+Dhritarashtra ka aadesh
+Vidura ke mann ko pasand nahi tha.
+Phir bhi kartavya ke liye
+Vidura chupchaap chal pade.
+
+Tez aur shaant ghodon ke saath
+woh Pandavon ki nagari ki taraf gaye.
+Raste bhar
+unka mann bhaari tha,
+par chehra shant."""
             create_image_text_layout("attached_assets/chapter2/2.7.20.jpg", text1, layout="side", image_position="left")
-            text2 = """ """
+            text2 = """ 
+            Pandav nagar pahunch kar
+Vidura seedhe
+Yudhishthira ke mahal gaye.
+Mahal Indra ke ghar jaisa lag raha tha.
+Brahmanon se ghira hua.
+
+Yudhishthira ne
+Vidura ka aadar se swagat kiya.
+Phir pyaar se poocha—
+
+“Kshatta,
+aap kuch udaas lag rahe ho.
+Sab theek toh hai na?”
+
+“Kya Hastinapur mein
+sab shanti se hai?”
+
+Vidura bole—
+
+“Raja Dhritarashtra theek hain.
+Unke putra bhi theek hain.”
+
+“Unhone naya sabha-bhavan banwaya hai.”
+
+“Unki ichchha hai
+aap bhaiyon ke saath wahan aayen.”
+
+“Sabha dekhen
+aur phir
+ek dostana juye ka khel ho.”
+
+Yudhishthira ne
+gehri saans li.
+Phir bole—
+
+“Vidura,
+juya hamesha jhagda laata hai.”
+
+“Jo yeh jaanta ho,
+woh khelne ko
+kaise taiyaar ho?”
+
+“Aap batao,
+humein kya karna chahiye?”
+
+Vidura ne kaha—
+
+“Main bhi jaanta hoon
+juya dukh ka mool hai.”
+
+“Maine raja ko mana kiya tha.”
+
+“Par raja ne
+mujhe bheja hai.”
+
+“Ab aap hi sochiye
+jo hit mein ho.”
+
+Yudhishthira ne poocha—
+
+“Wahan kaun-kaun khelne wale hain?”
+
+Vidura bole—
+
+“Sakuni,
+jo dice mein bahut chalak hai.”
+
+“Uske saath
+aur bhi kuch
+tedhe khelne wale hain.”
+
+Yudhishthira kuch pal chup rahe.
+Phir shaant swar mein bole—
+
+“Main juya nahi chahta.”
+
+“Par agar sabha mein
+mujhe chunauti di gayi,
+toh main mana nahi karunga.”
+
+“Yeh mera vrat hai.”
+
+Itna kehkar
+Yudhishthira ne
+yatra ki taiyaari ka aadesh diya.
+
+Agli subah
+Pandav bhai,
+Draupadi
+aur parivaar ke saath
+Hastinapur ke liye nikle.
+
+Chalte hue
+Yudhishthira bole—
+
+“Jab bhagya saamne aa jata hai,
+toh buddhi bandh jaati hai.”
+
+“Insaan
+bhagya ke dhage se
+bandh jaata hai.”
+
+Hastinapur pahunch kar
+sab badon ko pranam hua.
+Gandhari ne aashirvaad diya.
+Dhritarashtra ne pyaar se
+sir chhoo kar ashirvad diya.
+
+Sab khush dikh rahe the.
+
+Pandavon ko
+sundar kamre mile.
+Raat geet aur shanti mein beeti.
+
+Subah
+sabha bhavan mein
+sab taiyaar the.
+
+Aur wahin se
+ek dukh bhari kahani
+shuru hone wali thi…
+
+🌱 Soft Moral (Bahut Saral):
+
+Galat khel
+achhe logon ko bhi
+dukh ki taraf le ja sakta hai.
+
+Kartavya aur zidd
+kabhi-kabhi
+buddhi par bhaari ho jaate hain.
+
+Kahani yahin se
+andhera mod leti hai."""
             create_image_text_layout(text_content=text2, layout="full")
 
         with st.expander("Section 2.7.21 – Section LIX"):
