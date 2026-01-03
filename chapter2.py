@@ -7739,33 +7739,496 @@ andhera mod leti hai."""
             create_image_text_layout(text_content=text2, layout="full")
 
         with st.expander("Section 2.7.21 – Section LIX"):
-            text1 = """ """
+            text1 = """ 
+            Vaisampayana batate hain ki jab sabha saj chuki thi,
+toh Dhritarashtra ke netritva mein sab raja apni–apni jagah baith gaye.
+
+Peechhe, udaas mann se baithe the:
+
+Bhishma
+
+Drona
+
+Kripa
+
+Vidura
+
+Sabha itni bhavya thi ki svarg jaise lag rahi thi—
+jaise devta ikattha ho gaye hon.
+Sab raja veer the, Vedoṁ ke gyata the, aur tej se chamak rahe the."""
             create_image_text_layout("attached_assets/chapter2/2.7.21.jpg", text1, layout="side", image_position="left")
-            text2 = """ """
+            text2 = """ 
+            🎲 Jua (Dice Game) ki Shuruaat
+
+Tab Yudhishthira bole:
+
+“O Raja, samudra-manthan se prapt moti,
+jo shuddh sone se sajaaye gaye hain—
+yeh meri baazi (stake) hai.
+Aap apni kaunsi sampatti ko saamne rakhte hain?”
+
+Is par Duryodhana ne kaha:
+
+“Mere paas bahut dhan aur ratna hain,
+par main unka ghamand nahi karta.
+Jeet lo tum is baazi ko.”
+
+🧠 Sakuni ka Dhokha
+
+Phir Sakuni,
+jo juye mein maahir aur chalak tha,
+usne paasé uthaye aur phenk kar kaha:
+
+“Dekho! Main jeet gaya!”
+
+Yahin se anyaay aur vinash ki kahani aage badhti hai.
+
+⚠️ Is Ansh ki Gehri Seekh (Moral)
+
+Jua dosti ka mukhota pehne vinash hota hai
+
+Jahan niyam ek taraf se tode jaayein, wahan khel nahi hota
+
+Yudhishthira ka dharma unki kamzori ban gaya
+
+Sakuni ka kapat sabha ke gaurav ko nigal gaya
+
+Bade-bade gyaani bhi jab maun rehte hain, to anyaay badhta hai
+
+🌑 Sandesh:
+
+Jahan laalach aur ahankar baazi ban jaaye,
+wahan dharma haarne lagta hai—
+aur poora vansh uski keemat chukata hai."""
             create_image_text_layout(text_content=text2, layout="full")
 
         with st.expander("Section 2.7.22 – Section LX"):
-            text1 = """ """
+            text1 = """ 
+            Sabha mein sannata tha.
+Par juye ka zehar dheere-dheere phail raha tha.
+
+Yudhishthira bole, shant par dridh awaaz mein:
+
+“Sakuni,
+tumne pehli jeet anyaay se jeeti hai.
+Par ghamand mat karo.
+Aao phir se khelte hain…
+hazaaron par hazaaron ka daav.”
+
+Unhone kaha,
+“Mere paas sone ke ghade hain.
+Har ghada hazaar nishkon se bhara.
+Sona, chandi, ratna—
+yeh meri baazi hai.”
+
+Sakuni ne paasé phenké.
+Muskaan ke saath bola:
+
+👉 “Main jeet gaya.”"""
             create_image_text_layout("attached_assets/chapter2/2.7.22.jpg", text1, layout="side", image_position="left")
-            text2 = """ """
+            text2 = """ 
+            Yudhishthira ruke nahi.
+
+Unhone apna divya rath daav par rakh diya.
+Jo hazaar rathon ke barabar tha.
+Ghantiyaan bajti thi jaise badal garaj rahe hon.
+Safed ghode, bijli jaise tez.
+
+Sakuni ne phir paasé phenké.
+👉 “Main jeet gaya.”
+
+Phir Yudhishthira bole:
+
+“Lakhon daasiyan meri seva mein hain.
+Sone ke gehne, kalaon mein nipun.
+Yeh bhi meri baazi hai.”
+
+Paasé gire.
+👉 “Main jeet gaya.”
+
+“Hazaaron sevak.”
+“Rajya ke haathi.”
+“Yudh ke rath.”
+“Veer yoddha.”
+“Tez ghode.”
+“Anmol nidhi.”
+
+Ek-ek karke
+sab kuch daav par chadhta gaya.
+
+Aur har baar
+Sakuni wahi bolta raha:
+
+👉 “Main jeet gaya.”
+
+Sabha dekh rahi thi.
+Par chup thi.
+
+🌑 Is Section ki Gehri Seekh (Moral)
+
+Galat khel mein sachchai haar jaati hai
+
+Lalach rukna nahi jaanta
+
+Jab dharma laalach ke saath baith jaaye,
+toh vivek uth kar chala jaata hai
+
+Baar-baar haar ke baad bhi
+na rukna hi sabse badi haar hoti hai
+
+🪔 Baal-kahani jaisa sandesh:
+
+Jo khel imandari se na ho,
+usme jeetna bhi haar hoti hai.
+Aur jo laalach ko “bas ek baar aur” kehta hai,
+woh apna sab kuch khud hi daav par rakh deta hai."""
             create_image_text_layout(text_content=text2, layout="full")
 
         with st.expander("Section 2.7.23 – Section LXI"):
-            text1 = """ """
+            text1 = """ 
+            Sabha chal rahi thi.
+Paase gir rahe the.
+Aur vinaash dheere-dheere paas aa raha tha.
+
+Tab Vidura khade hue.
+Unka chehra shaant tha.
+Par awaaz mein dard aur sachchai thi."""
             create_image_text_layout("attached_assets/chapter2/2.7.23.jpg", text1, layout="side", image_position="left")
-            text2 = """ """
+            text2 = """ 
+            Vidura bole Dhritarashtra se:
+
+“Maharaj,
+meri baat kadvi lagegi.
+Par jaise mariz ko dawa kadvi lagti hai,
+waise hi yeh sach bhi chubhega.
+
+Jab Duryodhana paida hua tha,
+uski awaaz geedad jaisi thi.
+Tabhi sab jaan gaye the—
+yeh bachcha Kuru vansh ka vinaash banega.
+
+Aapke ghar mein ek geedad reh raha hai, Maharaj.
+Aap use beta samajh rahe ho.
+Par woh sabko le doobega.”
+
+Vidura ne ek kahani sunayi.
+
+“Jo log pahaadon par shehad lene jaate hain,
+woh shehad par dhyaan dete hain.
+Par yeh nahi dekhte
+ki neeche gehri khaai hai.
+
+Aise hi Duryodhana bhi hai.
+Paason ke nashé mein
+woh yeh nahi dekh raha
+ki woh apna ant khud likh raha hai.”
+
+Vidura bole:
+
+“Bhojon ne ek galat bachche ko chhod diya tha.
+Yadavo ne Kansa ko tyag diya.
+Aur jab Krishna ne Kansa ko maara,
+poora rajya sukhi ho gaya.
+
+Aap bhi wahi kijiye, Maharaj.
+Is ek ko chhod dijiye.
+Aur poora vansh bacha lijiye.”
+
+Phir Vidura ne kaha:
+
+“Ek kauwa dekar
+mor kharid lo.
+Ek geedad dekar
+baagh bacha lo.
+
+Kabhi-kabhi
+ek vyakti ko chhodna padta hai
+taaki parivaar bach sake.
+Kabhi poora gaon chhodna padta hai
+taaki rajya bache.
+
+Yeh kathor lagta hai.
+Par yahi raajneeti ka sach hai.”
+
+Vidura ne ek aur drishtant diya:
+
+“Ek raja ke ghar
+sone ugalne wale pakshi the.
+Lalach mein aakar
+usne unhe maar diya.
+
+Aur usne
+vartamaan bhi kho diya, bhavishya bhi.”
+
+Aakhir mein Vidura bole:
+
+“Pandav phoolon ke jaise hain.
+Unse dheere-dheere phal lo.
+Unhe jala mat do.
+
+Unse yudh mat chhedo, Maharaj.
+Arjuna aur uske bhaiyon se
+devta bhi takra nahi sakte.”
+
+🌿 Is Section ki Moral Seekh
+
+Sach bolne wala aksar akela hota hai
+
+Lalach aankhon par parda daal deta hai
+
+Jo waqt par galat ko nahi roakta,
+woh baad mein sab kuch kho deta hai
+
+Kabhi-kabhi
+ek ka tyag, hazaaron ko bacha leta hai
+
+🪔 Children-style Moral Line:
+
+Jo sirf shehad dekhta hai,
+woh khaai bhool jaata hai.
+Aur jo sirf laalach dekhta hai,
+woh vinaash nahi dekh paata."""
             create_image_text_layout(text_content=text2, layout="full")
 
         with st.expander("Section 2.7.24 – Section LXII"):
-            text1 = """ """
+            text1 = """ 
+            Vidura phir bole.
+Is baar unki awaaz aur bhi bhaari thi.
+
+“Jua hamesha jhagdon ki jad hota hai.
+Yeh logon ko tod deta hai.
+Aur iska ant bahut bhayanak hota hai.
+
+Phir bhi Duryodhana
+isi raaste par chal raha hai.
+Aur apne liye
+gehri dushmani paida kar raha hai.”"""
             create_image_text_layout("attached_assets/chapter2/2.7.24.jpg", text1, layout="side", image_position="left")
-            text2 = """ """
+            text2 = """ 
+            Vidura ne kaha:
+
+“Pratipa aur Shantanu ke vanshaj,
+unki sena,
+aur unke mitra—
+sab Duryodhana ke paapon ke kaaran
+vinaash ki taraf ja rahe hain.
+
+Jua ka nasha
+uski buddhi chheen raha hai.
+Woh apni hi rajya ki kismat ko
+us gusse bhare bail ki tarah
+khud tod raha hai
+jo apne hi singh tod leta hai.”
+
+Vidura bole:
+
+“Jo vyakti apni soch chhod kar
+kisi aur ke kehne par chalta hai,
+uski halat us aadmi jaisi hoti hai
+jo bachche ke haath mein naav dekar
+samundar mein utar jaaye.
+
+Aaj Duryodhana
+Yudhishthira ke saath jua khel raha hai.
+Aur aap khush ho
+kyunki woh jeet raha hai.
+
+Par yaad rakhiye—
+aisi jeet
+yudh ko janam deti hai.
+Aur yudh
+sirf laashein chhodta hai.”
+
+Vidura ne sab ko sambodhit kiya:
+
+“Hey Kuru vansh ke logo,
+is aag mein mat koodo.
+Yeh aag ek galat vyakti ke kaaran bhadki hai.
+
+Jab Yudhishthira ka sanyam tootega,
+jab Bhima ka gussa jaagega,
+jab Arjuna dhanush uthayega,
+aur Nakula–Sahadeva saath khade honge—
+tab kaun tumhara sahara banega?”
+
+Vidura ne shanti se kaha:
+
+“Maharaj,
+aap dhan ka bhandaar ho.
+Aap bina jua ke bhi
+jitna chaho utna kama sakte ho.
+
+Pandavon ka dhan jeetkar
+aapko kya milega?
+Agar Pandav khud jeet liye,
+toh woh dhan se kahin zyada keemti honge.”
+
+Ant mein Vidura bole:
+
+“Hum sab jaante hain
+Shakuni
+kitna chalak hai.
+Use jua ke
+bahut gande tareeke aate hain.
+
+Use yahin se wapas bhej do.
+Hey Bharata,
+Pandavon se yudh mat chhedo.”
+
+🌿 Is Section ki Moral Seekh
+
+Jua sirf haar-jeet nahi, rishton ka ant hota hai
+
+Jo galat jeet par khush hota hai,
+woh sahi haar ke liye taiyaar ho raha hota hai
+
+Log dhan se nahi, logon se ameer bante hain
+
+Galat salah dene wale ko door rakhna hi
+sabse badi buddhi hai
+
+🪔 Simple Moral Line (Children Style):
+
+Jua khelne wala sirf paase nahi phenakta,
+woh apna bhavishya bhi phenakta hai."""
             create_image_text_layout(text_content=text2, layout="full")
 
         with st.expander("Section 2.7.25 – Section LXIII"):
-            text1 = """ """
+            text1 = """ 
+            Duryodhana gusse se bola.
+Uski awaaz tez thi.
+Aur mann aur bhi zyada kathor.
+
+“O Vidura,
+tum hamesha Pandavon ki tareef karte ho.
+Aur Dhritarashtra ke putron ko neecha dikhate ho.
+
+Humein pata hai tumhara dil kis taraf hai.
+Tum humein bachcha samajhte ho.
+Par tumhari zubaan
+tumhara sach dikha deti hai.”"""
             create_image_text_layout("attached_assets/chapter2/2.7.25.jpg", text1, layout="side", image_position="left")
-            text2 = """ """
+            text2 = """ 
+            Duryodhana aur kadak ho gaya.
+
+“Humne tumhe
+goud mein paale hue saanp ki tarah rakha.
+Aur tum billi jaise
+chupke se nuksaan chahte ho.
+
+Guru ko nuksaan pahunchana
+sabse bada paap hota hai.
+Tumhe iska darr kyun nahi?”
+
+Phir woh bola:
+
+“Tum hamesha dushmanon se
+shanti ki baat karte ho.
+Isliye tum humein pasand nahi.
+
+Jo aadmi
+apno ke saamne
+dushman ki tareef kare,
+woh apni party ke raaz kholta hai.
+
+Isliye bas karo.
+Humein sikhaane ki koshish mat karo.
+Jahan jaana hai, chale jao.”
+
+Yeh sun kar
+Vidura shaant rahe.
+Unhone gussa nahi kiya.
+Aur dheere se bole.
+
+Vidura bole:
+
+“Maharaj,
+zara aap hi bataiye—
+jo sevak
+bhala salah de
+aur usse nikaal diya jaaye,
+kya yeh nyay hai?
+
+Raja pehle raksha karta hai,
+phir wahi raja dard deta hai.
+Yeh rajon ka swabhav
+kabhi-kabhi bahut chanchal hota hai.”
+
+Vidura ne Duryodhana ki taraf dekha.
+
+“Tum khud ko buddhi-man samajhte ho.
+Aur mujhe bachcha.
+
+Par sach toh yeh hai—
+jo pehle kisi ko apna maanta hai
+aur baad mein ussi par dosh lagata hai,
+woh hi asli bachcha hota hai.”
+
+Vidura ne kaha:
+
+“Bura mann
+kabhi seedhi raah par nahi aata.
+Jaise
+achhe ghar mein bhi
+buri aadat wali patni sudhar nahi paati.
+
+Sach bolna
+hamesha meetha nahi hota.
+Par sach hi dawa hota hai.”
+
+Phir Vidura ne ek gehri baat kahi:
+
+“Is duniya mein
+meethi baat bolne wale bahut mil jaate hain.
+Par kadvi par sahi baat bolne wala
+bahut hi kam hota hai.
+
+Sacha mitra wahi hota hai
+jo raja ko
+pasand aaye ya na aaye,
+par sach bole.”
+
+Vidura bole:
+
+“Vinamrata
+ek kadvi dawa jaisi hoti hai.
+Peene mein achhi nahi lagti.
+Par bimari door kar deti hai.
+
+Isse pee kar
+raja apna hosh wapas paata hai.”
+
+Ant mein Vidura ne kaha:
+
+“Main hamesha
+Dhritarashtra aur unke putron ke liye
+sukh aur yash chahta hoon.
+
+Ab main pranaam karta hoon.
+Brahman mujhe aashirvaad dein.
+
+Aur yaad rakhna—
+samajhdaar log
+zehreeli nazar wale saanpon ko
+kabhi gussa nahi dilate.”
+
+🌿 Is Section ki Moral Seekh
+
+Sach bolna aksar kadwa hota hai, par zaroori hota hai
+
+Jo sirf meethi baat sunna chahta hai,
+woh sach se door ho jaata hai
+
+Sacha mitra wahi hota hai
+jo galat waqt par bhi sahi bole
+
+Gussa samajh chheen leta hai,
+vinamrata buddhi laati hai
+
+🪔 Simple Moral Line (Children Style):
+
+Jo sach se bhaagta hai,
+woh apni hi chhaaya se ladta hai."""
             create_image_text_layout(text_content=text2, layout="full")
 
         with st.expander("Section 2.7.26 – Section LXIV"):
