@@ -8232,33 +8232,735 @@ woh apni hi chhaaya se ladta hai."""
             create_image_text_layout(text_content=text2, layout="full")
 
         with st.expander("Section 2.7.26 – Section LXIV"):
-            text1 = """ """
+            text1 = """ 
+            Sabha mein Shakuni ne thandi awaaz mein kaha:
+
+“O Yudhishthira,
+tum apni bahut saari sampatti haar chuke ho.
+Kya abhi kuch baaki hai?”
+
+Yudhishthira ne gehri saans li.
+Aankhon mein thakaan thi.
+Par zidd abhi zinda thi.
+
+🎲 Andha ahankar
+
+Yudhishthira bole:
+
+“Shakuni,
+mere paas aseem dhan hai.
+Agar tum crore, arab, kharab bhi lagao,
+main khel sakta hoon.”"""
             create_image_text_layout("attached_assets/chapter2/2.7.26.jpg", text1, layout="side", image_position="left")
-            text2 = """ """
+            text2 = """ 
+            Shakuni ne paas phenke.
+Hamesha ki tarah.
+Dhoka.
+
+“Jeet gaya,”
+usne kaha.
+
+🐄🐎 Desh aur log
+
+Phir Yudhishthira ne kaha:
+
+Gaayen aur ghode
+
+Shehar aur zameen
+
+Log (Brahman chhodkar)
+
+Sab daav par lag gaya.
+
+Har baar ek hi shabd:
+
+“Jeet gaya.”
+
+Sabha sann ho gayi.
+Budhe log kaanp gaye.
+Vidura
+sir pakad kar baith gaye.
+
+👑 Bhai bhi daav par
+
+Ab Yudhishthira ne kaha:
+
+Nakula
+
+Sahadeva
+
+Dono haar gaye.
+
+Shakuni muskuraya 😈
+aur bola:
+
+“Lagta hai tum
+Arjuna
+aur
+Bhima
+se zyada pyaar karte ho.”
+
+Yudhishthira gusse mein bole:
+
+“Neech!
+Bhaiyon mein phoot daalne ki koshish mat kar!”
+
+Par jua kisi ki nahi sunta.
+
+Ek-ek karke
+Arjuna aur Bhima bhi haar gaye.
+
+🧍‍♂️ Khud ko haarna
+
+Ab Yudhishthira bole:
+
+“Main hi baaki hoon.
+Mujhe bhi daav par rakhta hoon.”
+
+Shakuni ne paas phenke.
+
+“Jeet gaya.”
+
+Sabha mein saans ruk gayi.
+
+🌸 Sabse bhayanak daav
+
+Phir Shakuni bola:
+
+“Ab bhi ek cheez baaki hai.
+Draupadi.
+Use daav par rakho.
+Usse jeetkar
+khud ko jeet lo.”
+
+Yudhishthira ka mann bhrasht ho chuka tha.
+Budhi dhundhli ho chuki thi.
+
+Usne Draupadi ka varnan kiya—
+uski sundarta,
+uska swabhav,
+uski seva.
+
+Aur phir bola:
+
+“Use daav par rakhta hoon.”
+
+😢 Sabha ka vilap
+
+Sabha se awaaz uthi:
+
+“Fie! Fie!”
+“Ye adharm hai!”
+
+Bhishma,
+Drona,
+sab paseene mein doob gaye.
+
+Vidura chup ho gaye.
+Aankhen jhuk gayi.
+
+Par Dhritarashtra
+baar-baar poochta raha:
+
+“Jeet gaya kya?”
+“Jeet gaya kya?”
+
+Aur Shakuni ne
+aakhri baar kaha:
+
+“Jeet gaya.”
+
+🪔 Moral (Seekh)
+
+Laalach sabse pehle buddhi cheen leta hai
+
+Jua sirf dhan nahi, maryada bhi chheen leta hai
+
+Jab insaan apno ko vastu samajhne lage,
+tab vinash shuru ho jaata hai
+Simple line:
+Jo apni seema bhool jaaye,
+wo apni sabse keemti cheez bhi haar jaata hai."""
             create_image_text_layout(text_content=text2, layout="full")
 
         with st.expander("Section 2.7.27 – Section LXV"):
-            text1 = """ """
+            text1 = """ 
+            Sabha mein Duryodhana gusse aur ghamand se bola:
+
+“Aao Vidura,
+Draupadi ko yahan lao.
+Pandavon ki pyaari patni.
+Usse jhaadu lagwao.
+Use daasi ke jaise rakh do.”
+
+Yeh shabd nahi the.
+Yeh agni thi.
+Jo sab kuch jala dene wali thi."""
             create_image_text_layout("attached_assets/chapter2/2.7.27.jpg", text1, layout="side", image_position="left")
-            text2 = """ """
+            text2 = """ 
+            ⚠️ Vidura ki kathor chetavani
+
+Vidura ka chehra kathor ho gaya.
+Aankhon mein dard tha.
+Par awaaz bilkul saaf.
+
+“Duryodhana,
+kya tum jaante nahi
+tum apne hi haathon
+apni gardan mein rassi daal rahe ho?
+
+Tum khaai ke kinaare latak rahe ho.
+Tum ek hiran ho
+aur sher ko chhed rahe ho.
+
+Zehrele saanp
+tumhare sir par naach rahe hain!”
+
+Sabha mein sannata chha gaya.
+
+⚖️ Dharam ki baat
+
+Vidura aage bole:
+
+“Draupadi daasi nahi ho sakti.
+Kyunki use daav par
+tab lagaya gaya
+jab Yudhishthira
+khud ko haar chuke the.
+
+Jo apna malik nahi rehta,
+wo kisi aur ko
+kaise daav par laga sakta hai?”
+
+Yeh shabd nyay the.
+Par ghamand ke kaan band hote hain.
+
+🎲 Jua = Vinash
+
+Vidura ne gahri saans li:
+
+“Jaise baans
+phal dene ke baad
+mar jaata hai,
+waise hi Dhritarashtra ka beta
+aaj jo jeet raha hai
+wo uska antim pal hai.
+
+Jua dosti todta hai.
+Jua nafrat paida karta hai.
+Aur ant mein
+sirf vinaash chhodta hai.”
+
+🗣️ Kadve shabd, gehra ghaav
+
+Vidura bole:
+
+“Kadve shabd
+talwar se zyada gehra ghaav dete hain.
+
+Ek bol
+dil ko cheer deta hai.
+Aur jiska dil jala ho,
+wo din-raat jalta rehta hai.
+
+Isliye gyaani log
+kabhi apmaan ke shabd
+nahi bolte.”
+
+🐐 Ek chhoti si kahani
+
+Vidura ne udaharan diya:
+
+“Ek bakri ke gale mein
+kaanta atak gaya.
+Use nikalte waqt
+shikari ne
+uska gala hi faad diya.
+
+Waise hi,
+Pandavon ki sampatti
+nigalne ki koshish mat karo.
+
+Warna
+tum khud barbaad ho jaoge.”
+
+🚪 Adharm ka raasta
+
+Vidura ka swar bhari ho gaya:
+
+“Pandav
+kabhi aise shabd nahi bolte.
+
+Yeh sirf neech logon ka kaam hai,
+jo kutto ki tarah
+sab par bhonkte hain.
+
+Be-imaani
+narak ka darwaza hai.
+Aur tum
+khud us darwaze ko
+khol rahe ho.”
+
+🌑 Ant ki bhavishyavani
+
+Aakhri shabd bhari the:
+
+“Jab mitron ki salah
+dawa ki tarah ho
+aur phir bhi
+na suni jaaye…
+
+Jab laalach badhta jaaye…
+
+Tab yaad rakhna—
+poore vansh ka vinaash
+nischit hota hai.”
+
+Sabha chup thi.
+Par vinaash ka beej
+bo diya gaya tha.
+
+🪔 Moral (Seekh)
+
+Apmaan sabse bada paap hai
+
+Jua sirf dhan nahi, poora vansh le doobta hai
+
+Jo gyaani ki baat na sune,
+wo vinaash ko amantran deta hai
+
+Simple line:
+Ghamand jab bolta hai,
+tab buddhi chup ho jaati hai."""
             create_image_text_layout(text_content=text2, layout="full")
 
         with st.expander("Section 2.7.28 – Section LXVI"):
-            text1 = """ """
+            text1 = """ 
+            Duryodhana ghamand mein andha ho chuka tha.
+Usne zor se kaha:
+
+“Dhikkar hai Vidura par!
+Pratikami,
+jao aur Draupadi ko yahan le aao.
+Pandav kuch nahi kar sakte.
+Sirf Vidura hi bekaar ka darr dikhaata hai.”"""
             create_image_text_layout("attached_assets/chapter2/2.7.28.jpg", text1, layout="side", image_position="left")
-            text2 = """ """
+            text2 = """ 
+            🚪 Pratikami ka sandesh
+
+Pratikami bhay se kaanpta hua
+Pandavon ke mahal mein gaya.
+Sher ke bil mein jaise koi kutta ghus jaaye.
+
+Usne Draupadi se kaha:
+
+“Yudhishthira ne tumhe haar diya hai.
+Ab tum Kauravon ki ho.
+Chalo, tumhe daasi ka kaam diya jaayega.”
+
+Draupadi chaunk gayi.
+
+“Kaunsa raja apni patni ko daav par lagata hai?
+Kya uske paas aur kuch nahi tha?”
+
+Pratikami bola:
+
+“Pehle bhai haare.
+Phir khud.
+Phir tum.”
+
+⚖️ Draupadi ka prashn
+
+Draupadi ne shaant par dridh swar mein kaha:
+
+“Jao aur poochho.
+Yudhishthira ne pehle kya haara—
+khud ko ya mujhe?
+Jawaab laao.
+Tab hi main aaoongi.”
+
+Pratikami sabha mein laut aaya.
+Sawal poochha.
+
+Par Yudhishthira
+chup rahe.
+Aankhen neeche.
+Buddhi jaise shoonya ho gayi ho.
+
+😈 Duryodhana ka nirnay
+
+Duryodhana hansa:
+
+“Use yahin aane do.
+Sab ke saamne sawaal kare.”
+
+Pratikami phir Draupadi ke paas gaya.
+Darr ke saath bola:
+
+“Rajkumar bula rahe hain.
+Mujhe lagta hai
+Kauravon ka ant paas hai.”
+
+🌼 Draupadi ka dharm
+
+Draupadi boli:
+
+“Sukh aur dukh
+sab ke jeevan mein aate hain.
+Par dharma sabse upar hai.
+
+Jo buddhi aur dharm jaante hain,
+jo vriddh aur gyaani hain—
+main unka nirnay maanoongi.”
+
+Sandesh sabha tak pahucha.
+Par sab chup rahe.
+Dar se.
+Ya lobh se.
+
+🔥 Dusshasana ka paap
+
+Tab Dussasana utha.
+Laal aankhen.
+Zehar bhara mann.
+
+“Chalo, Draupadi!
+Tum jeeti ja chuki ho!”
+
+Draupadi ghabra kar
+raniyon ke mahal ki taraf bhaagi.
+Par Dusshasana ne
+uske lambe kaale baal pakad liye.
+
+Wahi baal—
+jo Rajasuya mein pavitra jal se siche gaye the.
+
+Wahi baal—
+jinhe aaj sabha mein ghaseeta ja raha tha.
+
+😢 Draupadi ka vilaap
+
+Ghaseeti hui Draupadi ro padi:
+
+“Main ritu mein hoon.
+Ek hi vastra pehne hoon.
+Mujhe sabha mein mat lao!”
+
+Dusshasana hansa:
+
+“Daasi ho tum.
+Jo man aaye, karenge.”
+
+Sabha ka sir jhuk gaya.
+Par koi bola nahi.
+
+🌩️ Sabha ki chup
+
+Draupadi ne sabki taraf dekha:
+
+“Yahan Drona hain.
+Bhishma hain.
+Vidura hain.
+Raja khud yahan hai.
+
+Phir bhi koi mujhe nahi bachata?
+Kya Kuru dharm yahin mar gaya?”
+
+Pandav jal uthe.
+Par vachan mein bandhe the.
+Unka dukh rajya chhinne ka nahi tha—
+Draupadi ke apmaan ka tha.
+
+Dusshasana “daasi, daasi” chillaata raha.
+Karna aur
+Shakuni hans rahe the.
+
+Baaki sab
+sharm se sir jhukaaye baithe the.
+
+🪔 Moral (Seekh)
+
+Jab adharm sabha mein aata hai,
+sabse pehle chup uska saath deti hai
+
+Apmaan sirf ek vyakti ka nahi hota,
+poore samaaj ka hota hai
+
+Jo galat dekh kar bhi chup rahe,
+woh bhi doshi hota hai
+
+Ek line mein:
+Jis din sabha chup ho jaati hai,
+us din vinaash bolna shuru karta hai."""
             create_image_text_layout(text_content=text2, layout="full")
 
         with st.expander("Section 2.7.29 – Section LXVII"):
-            text1 = """ """
+            text1 = """ 
+            Sabha ka mahaul bhaari ho chuka tha.
+Draupadi ro rahi thi.
+Pandav jal rahe the.
+Aur nyay… chup khada tha.
+
+🔥 Bhima ka gussa
+
+Bhima se raha nahi gaya.
+
+Usne Yudhishthira ki taraf dekha aur bola:"""
             create_image_text_layout("attached_assets/chapter2/2.7.29.jpg", text1, layout="side", image_position="left")
-            text2 = """ """
+            text2 = """ 
+            “Raja, sab kuch haar gaye,
+rajya, dhan, hum bhai…
+main chup raha, kyunki aap humare swami ho.
+
+Par Draupadi ko daav par lagana
+yeh galat tha.
+Yeh nirdosh hai.
+Iska yeh apmaan sahen layak nahi.
+
+Meri naaraazgi aap se hai.
+Agar dharm ka bandhan na hota,
+main aaj aapke haath jala deta.”
+
+Bhima ka gussa prem se bhara tha.
+Par niyantran bhi tha.
+
+🕊️ Arjuna ka sanyam
+
+Arjuna aage aaya.
+
+“Bhima, aise shabd tumne kabhi nahi kahe.
+Shatru humse yahi chahta hai
+ki hum apna dharm bhool jaayein.
+
+Raja ne kshatriya maryada ke kaaran
+khelna sweekar kiya.
+Yeh humare maan ke liye tha.”
+
+Bhima ne sir jhukaya.
+
+“Haan…
+warna main aaj kuch aur hi karta.”
+
+⚖️ Vikarna – ek awaaz
+
+Tab sabha mein ek yuva utha.
+Woh tha Vikarna.
+
+Uski awaaz kaanp rahi thi,
+par sach bol rahi thi.
+
+“Agar hum nyay ka faisla nahi karenge,
+toh hum sab narak ke bhaagi honge.
+
+Bhishma ji, Drona ji, Vidura ji—
+aap sab yahan ho.
+Phir bhi koi jawaab kyun nahi deta?
+
+Main kehta hoon—
+Draupadi jeeti nahi gayi.
+
+Raja pehle khud haar chuka tha.
+Jo apna nahi,
+woh kisi aur ko daav par kaise laga sakta hai?”
+
+Sabha mein shor mach gaya.
+Log Vikarna ki baat se sehmat the.
+
+😈 Karna ka adharm
+
+Par phir Karna bola.
+Uski baat zehar thi.
+
+“Tum bacche ho, Vikarna.
+Dharm nahi jaante.
+
+Draupadi Pandavon ki sampatti thi.
+Isliye jeeti gayi.
+
+Aur jiske kai pati ho,
+usse sabha mein laana galat nahi.”
+
+Yeh shabd chabuk jaise the.
+Sabha ka sir aur jhuk gaya.
+
+🌸 Draupadi ki prarthna
+
+Jab Dusshasana vastra kheenchne laga,
+Draupadi ne aankhen band ki.
+
+Aur dil se pukara:
+
+“He Govinda…
+He Krishna…
+Main doob rahi hoon.
+Mujhe bacha lo.”
+
+Aur tab…
+chamatkaar hua.
+
+Ek vastra gaya.
+Dusra aa gaya.
+Phir teesra.
+Phir anek.
+
+Sabha sann reh gayi.
+
+⚡ Bhima ki pratigya
+
+Bhima ka sharir kaanp utha.
+Aankhon mein aag thi.
+
+“Sun lo sab log!
+Agar maine is Dusshasana ka seena cheer kar
+iska khoon na piya,
+toh mujhe apne purkhon ka lok na mile.”
+
+Dusshasana thak gaya.
+Sharminda ho kar baith gaya.
+
+🪔 Vidura ka gyaan
+
+Ant mein Vidura bole.
+
+“Jo nyay jaanta ho aur chup rahe,
+woh bhi doshi hota hai.
+
+Sabha ka kaam hai
+jalte hue ko bujhaana,
+na ki dekhte rehna.”
+
+Par fir bhi…
+adhikansh log chup rahe.
+
+🌱 Moral (Seekh)
+
+Sach bolna mushkil hota hai,
+par wahi dharm hai
+
+Jo nyay jaanta ho aur chup rahe,
+woh bhi paap ka bhaagi hota hai
+
+Ishwar tab yaad aate hain,
+jab insaan fail ho jaata hai
+
+Ek line mein:
+Jab sabha nyay bhool jaaye,
+tab Ishwar swayam khade ho jaate hain."""
             create_image_text_layout(text_content=text2, layout="full")
 
         with st.expander("Section 2.7.30 – Section LXVIII"):
-            text1 = """ """
+            text1 = """ 
+            Sabha ab bhi bhari thi.
+Kapde bikhre pade the.
+Log chup the.
+Aur Draupadi… khadi nahi reh paayi.
+
+🌸 Draupadi ka antim sahas
+
+Draupadi ne Dusshasana ko rokte hue kaha:
+
+“Ruk jao, tum sabse neech insaan.
+Ek kartavya abhi baaki hai."""
             create_image_text_layout("attached_assets/chapter2/2.7.30.jpg", text1, layout="side", image_position="left")
-            text2 = """ """
+            text2 = """ 
+            Jab mujhe bal se ghaseeta ja raha tha,
+meri buddhi chali gayi thi.
+Main is sabha ke vriddh aur poojya logon
+ko pranam nahi kar paayi.
+
+Agar pehle nahi kar saki,
+toh yeh meri galti nahi hai.”
+
+Par kisi ne nahi roka.
+
+😔 Zameen par giri hui rani
+
+Aur phir…
+Use aur zor se ghaseeta gaya.
+
+Draupadi zameen par gir padi.
+Aankhon se aansu behne lage.
+Aur poori sabha ke beech uska dard phoot pada:
+
+“Haay…
+Sirf ek baar, swayamvar ke din,
+maine sabha dekhi thi.
+Uske baad kabhi nahi.
+
+Jise dhoop aur hawa tak
+mahal ke andar nahi chhoo paayi,
+aaj woh bheed ke saamne laayi ja rahi hai.
+
+Jin Pandavon ne
+mujhe hawa bhi chhoone nahi di,
+aaj woh mujhe is neech ke haath
+ghaseet-te hue dekh rahe hain.
+
+Kya samay itna bigad gaya hai?
+Kya maryada mar chuki hai?
+
+Purane raja kabhi
+apni patni ko sabha mein nahi laate the.
+Phir aaj yeh kyun?”
+
+Uski awaaz kaanp rahi thi,
+par sawaal mazboot the.
+
+⚖️ Seedha sawaal
+
+Draupadi ne sabha ki taraf dekha aur boli:
+
+“Main Yudhishthira ki patni hoon.
+Isi vansh ki bahu hoon.
+
+Batao mujhe—
+kya main daasi hoon
+ya rani?
+
+Main tumhara faisla sweekar karungi.
+Bas sach bolo.”
+
+Poora sabha sann ho gaya.
+
+🕯️ Bhishma ka dukh bhara satya
+
+Tab Bhishma bole.
+Awaaz bhaari thi.
+Aankhen jhuki hui.
+
+“Putri, maine pehle bhi kaha tha—
+dharm bahut sookshm hota hai.
+
+Kabhi kabhi
+buddhi-maan log bhi
+ise poori tarah samajh nahi paate.
+
+Jab lalach aur moorkhta
+raj kare,
+toh vinash door nahi hota.
+
+Tumhara dhairya,
+tumhara dharm par tikey rehna—
+yeh tumhari mahaanta hai.
+
+Lekin…
+is prashn ka uttar
+Yudhishthira hi de sakte hain.”
+
+Aur phir…
+sab phir chup ho gaye.
+
+🌱 Moral (Seekh)
+
+Dharm tab parikshit hota hai, jab sab chup ho jaate hain
+
+Nyay sirf shakti se nahi, sahas se bhi aata hai
+
+Jo sabha sach na bole, woh sabha nahi hoti
+
+Ek line mein:
+Jab poori duniya chup ho jaaye,
+tab bhi sach bolna hi sabse bada dharm hota hai."""
             create_image_text_layout(text_content=text2, layout="full")
 
         with st.expander("Section 2.7.31 – Section LXIX"):
