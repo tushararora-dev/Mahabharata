@@ -8964,39 +8964,807 @@ tab bhi sach bolna hi sabse bada dharm hota hai."""
             create_image_text_layout(text_content=text2, layout="full")
 
         with st.expander("Section 2.7.31 – Section LXIX"):
-            text1 = """ """
+            text1 = """ 
+            Section LXIX – Sabha ka Sannata (Hinglish Kahani)
+
+Sabha mein gehra sannata chha gaya tha.
+Saare raja Duryodhana ke darr se chup the.
+Koi sach bolne ki himmat nahi kar pa raha tha.
+
+Bechari Draupadi
+dukhi pakshi ki tarah
+baar-baar sabha se nyay maang rahi thi.
+Par sab log nazrein jhukaaye baithe rahe."""
             create_image_text_layout("attached_assets/chapter2/2.7.31.jpg", text1, layout="side", image_position="left")
-            text2 = """ """
+            text2 = """ 
+            😈 Duryodhana ka Vyarth Garv
+
+Duryodhana ne dekha
+sab chup hain.
+Uske chehre par jhooti muskaan aa gayi.
+
+Usne Draupadi se kaha:
+
+“Yajnaseni,
+tumhara sawal
+tumhare patiyon se juda hai.
+Bhima, Arjuna, Nakula, Sahadeva—
+yeh batayein.
+
+Agar yeh keh dein
+ki Yudhishthira unke swami nahi,
+toh tum azaad ho jaogi.
+
+Ya phir
+Yudhishthira khud bolein
+ki woh tumhare pati hain ya nahi.
+Unke shabd hi tumhara bhavishya tay karenge.”
+
+Uski baat sunkar
+uske saathi khush ho gaye.
+Sabha mein taaliyon aur isharón ka shor hua.
+
+Par kuch logon ke muh se
+“Alas!” bhi nikla.
+Unka mann dukh se bhar gaya.
+
+👀 Sabki Nazar Yudhishthira par
+
+Ab sabha ki nazrein
+Yudhishthira par tik gayi.
+Sab soch rahe the—
+Ab woh kya kahenge?
+
+Sab Arjuna, Bhima,
+aur dono judwa bhaiyon ki
+baat sunna chahte the.
+
+Sannata aur gehra ho gaya.
+
+🔥 Bhima ka Dharam-bhara Krodh
+
+Tab Bhima khade hue.
+Unki baahen
+chandan se lipti hui,
+par mann mein aag jal rahi thi.
+
+Bhima bole:
+
+“Agar Yudhishthira
+hamare swami na hote,
+toh aaj Kuru-vansh
+zinda na bachta.
+
+Woh hamare dharm ke bhi swami hain,
+hamari jaan ke bhi.
+
+Agar woh khud ko haara hua maante hain,
+toh hum sab bhi haare hue hain.
+
+Varna iss dharti par
+koi bhi jeevit na bach pata
+jisne Draupadi ke baalon ko chhua hota.”
+
+Bhima ne apni balshali baahen dikhayi aur bole:
+
+“Main sirf isliye chup hoon
+kyunki
+main apne bade bhai ke aadesh mein bandha hoon.
+
+Agar ek shabd bhi
+Yudhishthira ne keh diya,
+toh main in adharmiyon ko
+pal bhar mein mita doon.”
+
+🌿 Buddhi ka Sandesh
+
+Bhima ki baat sunkar
+Bhishma, Drona aur Vidura bole:
+
+“Shant raho, Bhima.
+Tumse sab sambhav hai.”
+
+Unhone samjhaaya—
+kabhi-kabhi sanyam
+talwar se zyada bada hota hai.
+
+🌱 Seekh (Moral)
+
+Sach bolna mushkil hota hai, par avashyak hota hai
+
+Jab sab chup ho jaate hain,
+tab anyay sabse zyada badhta hai
+
+Bal tabhi shreshth hai jab dharm se bandha ho
+
+Bade bhai ka samman
+aur dharm ka paalan
+sabse upar hota hai
+
+✨ Is sabha ka sannata hi
+aane wale vinaash ka sanket tha."""
             create_image_text_layout(text_content=text2, layout="full")
 
         with st.expander("Section 2.7.32 – Section LXX"):
-            text1 = """ """
+            text1 = """ 
+            Section LXX – Sabha Mein Antim Mod (Hinglish Kahani)
+
+Sabha ka mahaul aur zehreela ho gaya.
+Tab Karna aage badha.
+Uski awaaz mein ghamand tha,
+aur shabd teer jaise chubh rahe the."""
             create_image_text_layout("attached_assets/chapter2/2.7.32.jpg", text1, layout="side", image_position="left")
-            text2 = """ """
+            text2 = """ 
+            😠 Karna ke Katu Vachan
+
+Karna bola:
+
+“Is sabha mein sirf teen log
+apni marzi se bolte hain—
+Bhishma, Vidura aur Drona.
+Baaki sab apne swami par nirbhar hain.
+
+Patni, beta aur daas—
+yeh sab apne malik ke adheen hote hain.
+Jo kamate hain,
+woh bhi unka nahi hota.”
+
+Phir usne Draupadi ki taraf dekh kar kaha:
+
+“Tum ek daas ki patni ho.
+Ab Pandav tumhare swami nahi rahe.
+Ab Dhritarashtra ke mahal mein jao
+aur wahan seva karo.
+
+Ab Kaurav tumhare swami hain.
+Chaaho toh naya pati chun lo.
+Daasi striyon par koi dosh nahi lagta.”
+
+Yeh shabd zeher jaise the.
+Sabha mein saans bhi bhari lag rahi thi.
+
+🔥 Bhima ka Dard aur Krodh
+
+Yeh sunte hi Bhima ka seena tez chalne laga.
+Uski aankhon mein aag thi,
+par woh abhi bhi dharm se bandha hua tha.
+
+Bhima bola:
+
+“Main is suta-putra ki baaton par
+gussa nahi karta,
+kyunki hum sach mein daas ban chuke hain.
+
+Par agar mere bhai ne
+Draupadi ko daav par na lagaya hota,
+toh koi shatru
+mujhe aise shabd bolne ki himmat nahi karta.”
+
+😈 Duryodhana ka Antim Apmaan
+
+Duryodhana ne dekha
+Bhima ka gussa badh raha hai.
+Usne aur aag lagane ke liye
+sabha ke beech
+apni jaang ughaadi
+aur Draupadi ko dikhayi.
+
+Yeh dekh kar Bhima ka krodh phoot pada.
+
+Bhima garja:
+
+“Agar main is yudh mein
+teri jaang na todun,
+toh mujhe apne purkhon ka lok na mile!”
+
+Uske sharir se
+jaise chingariyan nikal rahi thi.
+
+⚠️ Vidura ki Chetavani
+
+Tab Vidura bole,
+unka swar gambhir tha:
+
+“Hey Kauravo,
+Bhima ka krodh vinaash ka sanket hai.
+
+Jab sabha mein dharm ko
+pairon tale ronda jaata hai,
+poori sabha doshi ban jaati hai.
+
+Jo vyakti pehle hi
+apna adhikar kho chuka ho,
+woh kisi aur ko
+daav par nahi laga sakta.
+
+Aisi jeet
+sapne ki jeet hoti hai.”
+
+🌩️ Ashubh Sanket
+
+Usi samay,
+raja ke mahal mein siyar bol utha.
+Gadhe zor-zor se chillaane lage.
+Pakshi bhayanak awaaz nikalne lage.
+
+Bhishma, Drona aur Gautama bole:
+
+“Swasti! Swasti!”
+
+Gandhari aur Vidura samajh gaye—
+yeh sab vinaash ke sanket hain.
+
+👑 Dhritarashtra ka Pashchataap
+
+Ant mein Dhritarashtra bole.
+Is baar unki awaaz mein
+pachtava tha:
+
+“Duryodhana,
+tumne apni hi kulvadhu ka
+apmaan karke
+apna vinaash bula liya hai.”
+
+Phir unhone Draupadi se kaha:
+
+“Putri,
+tum jo chaaho var maango.”
+
+🌸 Draupadi ke Var – Dharm aur Sanyam
+
+Draupadi ne shant swar mein kaha:
+
+“Mera pehla var yeh ho
+ki Yudhishthira
+daas-bhav se mukt ho jaayein.
+
+Mere putra ko
+daas ka beta na kaha jaaye.”
+
+Dhritarashtra ne turant kaha:
+“Yeh var diya.”
+
+Draupadi ne doosra var maanga:
+
+“Bhima, Arjuna,
+Nakula aur Sahadeva bhi
+bandhan se mukt ho jaayein.”
+
+Yeh bhi maan liya gaya.
+
+Phir Dhritarashtra bole:
+“Teesra var maango.”
+
+Draupadi ne sir jhuka kar kaha:
+
+“Laalach dharm ko nasht karta hai.
+Main teesra var nahi maangungi.
+
+Ab mere pati
+apne karm se
+apna bhavishya banaayenge.”
+
+🌱 Seekh (Moral)
+
+Sanyam aur buddhi
+krodh se zyada shaktishaali hoti hai
+
+Lalach aur ahankaar
+poore vansh ka vinaash kar dete hain
+
+Stree ka samman
+poore samaj ka dharm hota hai
+
+Sach aur maryada
+andhere mein bhi roshni ban jaate hain
+
+✨ Yahin se Mahabharat ke vinaash ka
+beej poori tarah bo diya gaya."""
             create_image_text_layout(text_content=text2, layout="full")
 
         with st.expander("Section 2.7.33 – Section LXXI"):
-            text1 = """ """
+            text1 = """ 
+            Section LXXI – Sabha ka Antim Tanav (Hinglish Vyakhya)
+
+Is hissa mein sabha ka mahaul apne charam par pahunch jaata hai.
+Yeh woh pal hai jahan apmaan, krodh, sanyam aur dharma sab ek-dusre se takra rahe hain.
+
+🗡️ Karna ka Badla Hua Swaran (Par Abhi Bhi Teekha)
+
+Karna kehta hai:
+
+“Aisi ghatna humne kabhi nahi suni.
+Jab Pandu aur Dhritarashtra ke putra krodh se bhare the,
+tab Draupadi hi Pandavon ki raksha bani.
+
+Jaise bina naav ke samundar mein doobte hue logon ke liye naav hoti hai,
+waise hi Panchal ki rajkumari Pandavon ke liye uddhaar ban gayi.”
+
+👉 Arth (Meaning):
+Yeh baat Karna ke muh se aa rahi hai, jo pehle Draupadi ka apmaan kar chuka tha.
+Yahan woh maan raha hai ki Draupadi ki buddhi aur dhairya ne Pandavon ko poore vinaash se bacha liya."""
             create_image_text_layout("attached_assets/chapter2/2.7.33.jpg", text1, layout="side", image_position="left")
-            text2 = """ """
+            text2 = """ 
+            🔥 Bhima ka Antar-Vedna (Gussa + Apmaan)
+
+Yeh sunte hi Bhima ka dard phoot padta hai.
+Woh Arjuna se kehta hai:
+
+“Devala ne kaha hai ki har vyakti mein teen jyoti hoti hain—
+santan, karm aur gyaan.
+
+Jab sharir nasht hota hai, tab yahi teen cheezein saath deti hain.
+Par aaj hamari aatmik jyoti bujh gayi
+kyunki hamari patni ka sabha mein apmaan hua.
+
+Arjuna,
+is apmaan se janme santan
+hamare liye kaise kalyaan laa sakti hai?”
+
+👉 Gehra Arth:
+Bhima yahan sirf gussa nahi dikha raha—
+woh kul, vansh aur bhavishya ki chinta kar raha hai.
+Uske liye Draupadi ka apmaan = Pandav vansh ka apmaan.
+
+🏹 Arjuna ka Sanyam aur Raj-Dharma
+
+Arjuna shant swar mein uttar deta hai:
+
+“Uchchh purush kabhi
+neech logon ke kathor shabdon par dhyaan nahi dete.
+
+Jo log samman ke yogya hote hain,
+woh shatru ke apmaan ko yaad nahi rakhte,
+balki unke achchhe karmon ko yaad rakhte hain.”
+
+👉 Seekh:
+Arjuna kshatriya sanyam aur aane wale yudh ki tayyari soch raha hai.
+Abhi krodh mein sab khatam karna uske liye dharm nahi hai.
+
+🌋 Bhima ka Pralay-Roop
+
+Bhima ka krodh phir ubhar aata hai:
+
+“Kya main abhi sab shatruon ko maar daalun?
+Ya mahal ke bahar jaakar unhe jad se mita doon?
+
+Main abhi poori prithvi par
+tumhe nirvivad raja bana sakta hoon!”
+
+Uska roop Yama jaisa bhayanak ho jaata hai—
+kaan, aankhon aur indriyon se jaise aag nikal rahi ho.
+
+👑 Yudhishthira ka Antim Sanyam
+
+Tab Yudhishthira aage badhte hain.
+Woh Bhima ko baahon mein bhar kar kehte hain:
+
+“Bas karo.
+Shaant raho.
+Abhi dhairya hi hamara shastra hai.”
+
+Aur phir
+haath jod kar
+Dhritarashtra ke paas jaate hain.
+
+👉 Yahin Pandav apni pratigya nibhaate hain—
+abhi nahi, par samay aane par nyay hoga.
+
+🌺 Is Section ki Mukhya Seekh
+
+Draupadi sirf patni nahi,
+Pandavon ki naitik shakti hai
+
+Bhima = krodh aur nyay
+
+Arjuna = buddhi aur sanyam
+
+Yudhishthira = dharma aur tyag
+
+✨ Yahin se Mahabharat ka yudh anivarya ho jaata hai—
+par abhi nahi…
+abhi sirf dhairya aur pratigya ka samay hai."""
             create_image_text_layout(text_content=text2, layout="full")
 
         with st.expander("Section 2.7.34 – Section LXXII"):
-            text1 = """ """
+            text1 = """ 
+            Section LXXII – Vidaai, Sanyam aur Dharma ka Marg (Hinglish Kahani)
+
+Sabha ab dheere-dheere shaant ho rahi thi.
+Dil bhare hue the, par shabd sambhle hue.
+
+👑 Yudhishthira ka Vinamr Vachan
+
+Yudhishthira ne shaant swar mein kaha:
+
+“O Maharaj, aap hi hamare swami ho.
+Jo aap aadesh dein, wahi hum karenge.
+Hum sada aapki agya mein rehna chahte hain.”
+
+Yeh shabd ahankaar ke nahi,
+balki dharma aur vinamrata ke the."""
             create_image_text_layout("attached_assets/chapter2/2.7.34.jpg", text1, layout="side", image_position="left")
-            text2 = """ """
+            text2 = """ 
+            👴 Dhritarashtra ka Updesh (Der se, Par Gehra)
+
+Tab Dhritarashtra bole—
+awaaz mein thakaan thi, par anubhav bhara tha:
+
+“Ajatasatru, tumhara bhala ho.
+Shanti aur suraksha ke saath apne rajya jao.
+Apna rajya, apni sampatti ke saath shasan karo.
+
+Aur ek buddhe ki baat yaad rakhna—
+yeh salah sharir ke liye poshak bhojan jaisi hai.”
+
+🌿 Achchhe Manushya ki Pehchaan
+
+Dhritarashtra aage kehte hain:
+
+“Tum dharma ka sookshm marg jaante ho.
+Jahan buddhi hoti hai, wahan sahansheelta hoti hai.
+
+Kulhadi lakdi par chalti hai, pathar par nahi.
+Tum samjha ja sakte ho,
+Duryodhana nahi.”
+
+(🩶 Yahan pehla baar pita ne putra ki kamzori maani.)
+
+🌸 Mahaan Logon ka Marg
+
+Woh aur kehte hain:
+
+“Sabse uttam log woh hote hain
+jo shatru ke apmaan ko yaad nahi rakhte,
+sirf uske gun yaad rakhte hain.
+
+Achchhe log bina phal ki ichha ke
+doosron ka bhala karte hain.”
+
+🧠 Krodh ka Uttar = Maun
+
+“Neech log jhagde mein kathor shabd bolte hain.
+Madhyam log unka uttar dete hain.
+Par buddhiman log un shabdon ko yaad hi nahi rakhte.”
+
+Yeh baat Draupadi ke apmaan ke baad
+aur bhi bhaari lagti hai.
+
+🤍 Parivaar ka Sandesh
+
+Dhritarashtra bole:
+
+“Duryodhana ke shabd yaad mat rakhna.
+Mujhe yaad rakho,
+apni maa Gandhari ko yaad rakho.
+
+Main andha hoon, buddha hoon,
+par abhi zinda hoon.”
+
+Woh sweekar karte hain:
+
+“Rajneeti ke liye maine dyut-krida hone di.
+Doston aur apne putron ki shakti
+aur kamzori jaanne ke liye.”
+
+🧩 Pandavon ki Shaktiyon ka Smaran
+
+Dhritarashtra kehte hain:
+
+“Jin Kuruvanshiyon ke raja tum ho,
+aur jinke mantri Vidura jaise gyaani hain,
+unhe shok ka koi kaaran nahi.
+
+Tum mein dharma hai.
+Arjuna mein dhairya.
+Bhima mein parakram.
+Aur Nakula-Sahadeva mein
+buzurgon ke liye shraddha.”
+
+🛤️ Antim Aadesh: Shanti ka Rasta
+
+“Khandavaprastha laut jao.
+Apne cousins ke saath bhai-chaara rakho.
+Aur apna mann sada dharma par sthir rakho.”
+
+🌈 Vidaai ka Pal
+
+Vaisampayana kehte hain:
+
+Yudhishthira ne
+sab maryada-purn kriyaayein poori ki.
+Phir Pandav apne bhaiyon ke saath,
+Draupadi ke saath,
+megh jaise rang ke rathon par baithkar
+Indraprastha (Khandavaprastha) ki aur chal pade.
+
+Unke chehre par
+shanti thi, par bhavishya ka bhaar bhi.
+
+✨ Is Section ki Seekh (Children’s Moral Tone)
+
+Sachcha bal = sanyam
+
+Sachchi jeet = dharma par tikna
+
+Apmaan ka uttar = shanti, abhi
+
+Nyay ka samay = baad mein
+
+🌱 Yahin se Mahabharat ka beej aur gehra ho jaata hai—
+bahar shanti,
+andar pratigya."""
             create_image_text_layout(text_content=text2, layout="full")
 
         with st.expander("Section 2.7.35 – Section LXXIII"):
-            text1 = """ """
+            text1 = """ 
+            Section LXXIII – Lalach, Bhay aur Phir Se Dyut (Hinglish Moral Kahani)
+❓ Janamejaya ka Sawaal
+
+Janamejaya ne poocha:
+
+“Jab Pandav
+sab dhan–daulat aur ratnon ke saath
+Dhritarashtra ki agya se
+Hastinapur chhod kar chale gaye,
+tab Dhritarashtra ke putron ka mann kaisa tha?”"""
             create_image_text_layout("attached_assets/chapter2/2.7.35.jpg", text1, layout="side", image_position="left")
-            text2 = """ """
+            text2 = """ 
+            🧠 Vaisampayana ka Uttar
+
+Vaisampayana bole:
+
+Pandav ja chuke the.
+Par Kauravon ka mann shaant nahi tha.
+
+😠 Dussasana ka Krodh
+
+Jaise hi Dussasana ko pata chala,
+woh seedha apne bhai Duryodhana ke paas gaya.
+
+Usne dukhi aur gusse mein kaha:
+
+“Bhaiyon,
+jo kuch humne itni mehnat se jeeta tha,
+pitaji ne sab dushmanon ko lauta diya.
+
+Saari sampatti, saara rajya,
+sab Pandavon ko de diya.”
+
+🔥 Duryodhana–Karna–Shakuni ka Gupt Manthan
+
+Yeh sunkar
+Duryodhana,
+Karna
+aur
+Shakuni
+teenon ek saath ho gaye.
+
+Teeno ka mann ahankaar aur lalach se bhara tha.
+
+Woh chhupke se
+Dhritarashtra
+ke paas gaye
+aur meethi par khatarnaak baatein kehne lage.
+
+🐍 Duryodhana ka Dar aur Chal
+
+Duryodhana bola:
+
+“Pitaji,
+Brihaspati ne bhi kaha hai—
+jo shatru hamesha chal se nuksaan kare,
+use har tareeke se rokna chahiye.
+
+Agar Pandav wapas aaye,
+toh woh zehrele saanpon jaise honge.
+Ek baar gale par chadh gaye,
+toh utarna mushkil ho jaata hai.”
+
+Phir usne dar ke saath kaha:
+
+“Arjuna kavach pehne,
+Gandiva uthaye gusse mein chal raha hai.
+
+Bhima apni gada ghumata hua
+rath par chadh chuka hai.
+
+Nakula talwar ke saath,
+Sahadeva aur Yudhishthira bhi
+taiyaari mein hain.
+
+Draupadi ke apmaan ko koi maaf nahi karega.”
+
+🎲 Phir Se Dyut ka Sujhav
+
+Duryodhana ne aakhri chaal chali:
+
+“Chaliye,
+phir se dyut khelte hain.
+
+Shart yeh ho—
+jo haare, woh 12 saal vanvaas
+aur 13va saal guptvaas kare.
+
+Agar pehchaane gaye,
+toh dobara vanvaas.”
+
+Usne ghamand se kaha:
+
+“Shakuni ko paase ka poora gyaan hai.
+Is dauran hum apni sena majboot kar lenge.
+
+Aur agar Pandav laut bhi aaye,
+toh hum unka saamna kar sakte hain.”
+
+⚖️ Dhritarashtra ka Kamzor Faisla
+
+Yeh sab sunkar
+Dhritarashtra ka mann dagmaga gaya.
+
+Unhone kaha:
+
+“Pandav chahe kitni door chale gaye ho,
+unhe wapas bula lao.
+Dyut phir se hoga.”
+
+🕊️ Buddhi ka Antim Prayas
+
+Tab sab gyaani uthe:
+
+Bhishma
+
+Drona
+
+Vidura
+
+Vikarna
+
+aur anya vriddh
+
+Sabne ek hi baat kahi:
+
+“Dyut mat shuru kijiye.
+Shanti rakhiye.”
+
+Par…
+
+🌑 Antim Nirnay
+
+Putra-moh ne
+raja-dharma ko hara diya.
+
+Dhritarashtra ne
+sabki salah ko nazarandaz karke
+Pandavon ko phir se bulwa liya.
+
+Aur isi pal se
+Mahabharat ka andhera aur gehra ho gaya.
+
+🌱 Is Kahani ki Seekh (Children’s Moral)
+
+Lalach andha kar deta hai
+
+Dar se liye gaye faisle galat hote hain
+
+Jab buddhi ki baat na suni jaaye, vinaash nishchit hota hai
+
+Ek galti ko sudhaar ke bajay, usse dohrana sabse badi bhool hoti hai
+
+✨ Yahin se katha phir se us mod par jaati hai
+jahan khel sirf paason ka nahi,
+kismat aur dharma ka ho jaata hai."""
             create_image_text_layout(text_content=text2, layout="full")
 
         with st.expander("Section 2.7.36 – Section LXXIV"):
-            text1 = """ """
+            text1 = """ 
+            Section LXXIV – Maa Gandhari ka Antim Updesh (Hinglish Moral Kahani)
+🧾 Vaisampayana bole
+
+Vaisampayana ne kaha:
+
+Us samay Gandhari,
+jo apne putron ke moh aur dukh se bhari hui thi,
+apne pati Dhritarashtra se boli.
+
+Uski awaaz mein maa ka dard tha
+aur shabdon mein bhavishya ki chetavani."""
             create_image_text_layout("attached_assets/chapter2/2.7.36.jpg", text1, layout="side", image_position="left")
-            text2 = """ """
+            text2 = """ 
+            👶 Duryodhana ke Janm ki Purani Chetavani
+
+Gandhari ne kaha:
+
+“Jab Duryodhana paida hua tha,
+tab Vidura ne kaha tha—
+
+‘Is bachche ko is duniya se door bhejna hi uchit hai.
+Yeh siyaar ki tarah roya tha.
+Yeh hamare vansh ka vinaash banega.’”
+
+Phir Gandhari ne bhaari mann se kaha:
+
+“Mere swami,
+apni galti se vinaash ke samundar mein mat doobiye.
+Awaara aur immature logon ki salah par
+apni mohar mat lagaiye.”
+
+🔥 Shant Aag ko Phir Se Jalana
+
+Gandhari boli:
+
+“Jo bandh toot chuka ho,
+use kaun dobara todta hai?
+
+Jo aag bujh chuki ho,
+use kaun phir se bhadkata hai?
+
+Aur jo Pandav shant baithe hain,
+unhe kaun jaan-boojhkar uksata hai?”
+
+Usne aage kaha:
+
+“Aap sab jaante hain,
+par phir bhi keh rahi hoon—
+shastra kabhi durbuddhi ko sudhaar nahi paate.
+
+Aur jo bachkaney mann ka hota hai,
+woh kabhi buzurgon jaisa vyavhaar nahi karta.”
+
+🛑 Maa ka Antim Aagrah
+
+Gandhari ne aansuon ke saath kaha:
+
+“Aapke putr aapko apna margdarshak maanein.
+Aisa na ho ki woh
+hamesha ke liye aapse alag ho jaayein—
+maut ke roop mein.
+
+Isliye, meri baat maan lijiye.
+Is vansh ke kalank ko chhod dijiye.
+
+Aap maa–baap ke moh mein pehle yeh nahi kar paaye,
+par ab samay aa gaya hai.”
+
+Phir usne gehri baat kahi:
+
+“Jo sampatti galat tareekon se milti hai,
+woh zyada din tikti nahi.
+
+Par jo shanti, daya aur neeti se milti hai,
+woh peedhi dar peedhi chalti hai.”
+
+🌑 Dhritarashtra ka Nirasha Bhara Uttar
+
+Itna sab kehne ke baad bhi,
+Dhritarashtra ka mann kamzor pad gaya.
+
+Unhone thake hue swar mein kaha:
+
+“Agar hamare vansh ka vinaash likha hai,
+toh hone do.
+
+Main ise rok nahi sakta.
+
+Jaise mere putr chahte hain,
+waise hi hone do.
+
+Pandavon ko wapas bulao.
+Dyut phir se hoga.”
+
+🌱 Is Kahani ki Seekh (Moral for All Ages)
+
+Maa ka gyaan bhi tab haar jaata hai, jab pita ka mann kamzor ho
+
+Putra-moh kabhi-kabhi raja-dharma ko dhundhla kar deta hai
+
+Galat ko rokne ka mauka chhod diya jaaye, toh vinaash tay hota hai
+
+Shanti ko chhedna, yuddh ko bulana hota hai
+
+✨ Yahin se katha us bindu par pahunchti hai
+jahan samjhauta sambhav tha,
+par ahankaar jeet gaya."""
             create_image_text_layout(text_content=text2, layout="full")
 
         with st.expander("Section 2.7.37 – Section LXXV"):
