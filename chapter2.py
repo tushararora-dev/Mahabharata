@@ -9768,37 +9768,808 @@ par ahankaar jeet gaya."""
             create_image_text_layout(text_content=text2, layout="full")
 
         with st.expander("Section 2.7.37 – Section LXXV"):
-            text1 = """ """
+            text1 = """ 
+            Vaisampayana ne kaha—
+
+Raja Dhritarashtra ka ek messenger tez chal kar Yudhishthira ke paas aaya.
+Yudhishthira kaafi aage nikal chuke the.
+Messenger ne vinamr awaaz mein kaha,
+
+“Yeh aapke pita-samaan chacha ke shabd hain.
+Sabha tayaar hai.
+Hey Pandu-putra Yudhishthira, aaiye aur paasaa kheliye.”
+
+Yudhishthira shaant hue.
+Unhone socha.
+Phir bole,"""
             create_image_text_layout("attached_assets/chapter2/2.7.37.jpg", text1, layout="side", image_position="left")
-            text2 = """ """
+            text2 = """ 
+            “Achha aur bura phal sab ko milta hai.
+Yeh sab bhagya ke niyam se hota hai.
+Main khelun ya na khelun, phal to milna hi hai.
+Yeh paasaa khelne ka bulawa hai.
+Aur buzurg raja ka aadesh bhi.
+Main jaanta hoon yeh mere liye vinaash laa sakta hai.
+Phir bhi main mana nahi kar sakta.”
+
+Vaisampayana aage bole—
+
+Jaise sona ka hiran asli nahi hota,
+phir bhi Rama uske moh mein aa gaye the.
+Waise hi jab vipatti paas hoti hai,
+insaan ka mann uljhan mein aa jaata hai.
+
+Yudhishthira yeh sab jaante the.
+Phir bhi apne bhaiyon ke saath wapas mud gaye.
+Unhe Shakuni ki chaal ka poora gyaan tha.
+Fir bhi woh paasaa khelne sabha mein aa gaye.
+
+Sab veer yoddha dobara sabha mein aaye.
+Unke mitron ka mann dukhi ho gaya.
+Par bhagya ne unhe baandh rakha tha.
+Aur woh apne hi vinaash ke liye paasaa khelne baith gaye.
+
+Tab Shakuni bola,
+
+“Buzurg raja ne aapka dhan wapas kar diya.
+Yeh achha hua.
+Par ek bada daav abhi baaki hai.
+
+Ya to hum haarenge.
+To hum barah saal van mein rahenge.
+Terahva saal shehar mein chup kar, pehchaan chhupa kar.
+Agar pehchaan ho gayi, to fir barah saal vanvaas.
+
+Ya agar aap haare,
+to aap Krishna ke saath yahi karenge.
+
+Terah saal ke baad,
+jo jeete, usse rajya mil jayega.
+
+Hey Yudhishthira,
+is shart ke saath paasaa kheliye.”
+
+Yeh sun kar sabha ke log ghabra gaye.
+Unhone haath utha kar kaha,
+
+“Haay!
+Duryodhana ke mitra use chetavani kyun nahi dete?
+Raja samjhe ya na samjhe,
+sach kehna unka farz hai.”
+
+Vaisampayana bole—
+
+Yudhishthira ne yeh sab suna.
+Par laaj aur dharm ke bhaav se,
+woh phir paasaa khelne baith gaye.
+
+Woh buddhimaan the.
+Unhe sab anjaam pata tha.
+Phir bhi aisa laga jaise
+Kuru-vansh ka vinaash paas aa chuka ho.
+
+Yudhishthira bole,
+
+“Hey Shakuni,
+main kshatriya hoon.
+Paasaa khelne ka bulawa kaise thukra doon?
+Isliye main khelta hoon.”
+
+Shakuni muskuraya aur bola,
+
+“Hamara dhan bahut hai.
+Gaaye, ghode, haathi, sona, daas-daasi sab kuch.
+Par is baar sirf ek hi daav hai—
+vanvaas.
+
+Jo haarega,
+woh barah saal jungle mein rahega.
+Terahva saal chup kar.
+Pehchaan hui to fir barah saal.
+
+Is shart par hum khelte hain.”
+
+Yeh baat sirf ek baar kahi gayi.
+Yudhishthira ne bina hichkichaye swikar kar li.
+
+Shakuni ne paasaa uthaya.
+Aur phenk kar bola,
+
+“Dekho…
+main jeet gaya.”
+
+✨ Moral (Sikh):
+Jab insaan apne dharm aur bhagya ke beech phans jaata hai,
+toh sahi jaante hue bhi galat kadam utha leta hai.
+Isliye faisla hamesha sirf niyam se nahi,
+buddhi aur vivek se bhi lena chahiye."""
             create_image_text_layout(text_content=text2, layout="full")
 
         with st.expander("Section 2.7.38 – Section LXXVI"):
-            text1 = """ """
+            text1 = """ 
+            Vaisampayana ne kaha—
+
+Paasaa haarne ke baad, Pandu ke putra vanvaas ke liye taiyaar hue.
+Ek-ek karke unhone apne raj-vastra utaare.
+Aur deer-skin pehen li.
+
+Yeh dekh kar Dussasana zor se bola.
+Uske shabd kathor the.
+Aur ghamand se bhare hue.
+
+“Ab Duryodhana ka raaj shuru hua.
+Pandu-putra haar chuke hain.
+Aaj hum vijayi hue.
+Aur woh sab dukhi.”
+
+Woh unka mazaak udaane laga.
+Bola,"""
             create_image_text_layout("attached_assets/chapter2/2.7.38.jpg", text1, layout="side", image_position="left")
-            text2 = """ """
+            text2 = """ 
+            “Jo kabhi apne dhan par ghamand karte the,
+aaj jungle ja rahe hain.
+Deer-skin pehne hue.
+Bilkul beej bina giri jaise.”
+
+Usne Draupadi (Yajnaseni) ko bhi apmaanit kiya.
+Aur kaha,
+
+“Ab inse kya kaam?
+Yahan se koi aur pati chuno.
+Yeh sab to ab nirbal ho gaye hain.”
+
+Yeh shabd bahut krur the.
+Sab sun rahe the.
+
+Yeh sun kar Bhima ka khoon khol utha.
+Woh aage badhe.
+Sher jaise garaj kar bole,
+
+“O neech!
+Aise shabd sirf paapi bolte hain.
+Jo jhooth aur dhokhe se jeete hain,
+unhe ghamand ka adhikaar nahi.”
+
+“Jaise tumne aaj mere hriday ko chot pahunchayi,
+waise hi main yudh mein
+tumhara seena cheerunga.”
+
+Dussasana phir bhi nahi ruka.
+Woh naachne laga.
+Aur cheekh kar bola,
+“Gai! Gai!”
+
+Bhima aur gusse mein aa gaye.
+Bole,
+
+“Sun le!
+Agar main yudh mein
+tumhara rakt na piya,
+toh mujhe shanti na mile.”
+
+Pandav sabha se nikal rahe the.
+Tab Duryodhana khushi mein Bhima ki chaal ki nakal karne laga.
+
+Bhima ne aadha mud kar kaha,
+
+“Samajh mat ki tu jeet gaya.
+Main tujhe aur tere saathiyon ko
+jaldi hi yudh mein haraunga.”
+
+Sab bahar jaate hue Bhima ne kaha,
+
+“Main Duryodhana ko maarunga.
+Arjuna Karna ko.
+Sahadeva Shakuni ko.”
+
+“Dussasana ka rakt
+main sher ki tarah piyunga.”
+
+Arjuna shaant swar mein bole,
+
+“Veer purush ke sankalp
+sirf shabdon mein nahi hote.
+Chaudah saal baad
+sab dekh lenge kya hota hai.”
+
+Bhima ne phir kaha,
+
+“Yeh dharti
+Duryodhana, Karna, Shakuni
+aur Dussasana ka rakt piyegi.”
+
+Arjuna ne dridh vachan diya,
+
+“Main Karna ko yudh mein maarunga.
+Yeh mera sankalp hai.
+Parvat hile ya suraj bujh jaaye,
+par mera vachan nahi badlega.”
+
+Phir Sahadeva bole,
+aankhon mein aag thi,
+
+“Shakuni,
+jinhe tum hara hua samajhte ho,
+woh abhi teer jaise tez hain.
+Samay aane par
+main tumhe yudh mein maarunga.”
+
+Tab Nakula bole,
+
+“Jinhone Draupadi ka apmaan kiya,
+main un sab ka vinaash karunga.
+Yudhishthira ke aadesh se,
+aur anyaay ko yaad rakh kar.”
+
+Vaisampayana ne kaha—
+
+Is prakaar,
+veer Pandav apne dharm par dridh rahe.
+Unhone krodh ko roka.
+Aur nyay ke vachan ke saath
+Dhritarashtra ke paas gaye.
+
+✨ Moral (Sikh):
+Ghamand aur apmaan
+turant jeet dikhate hain,
+par ant mein vinaash laate hain.
+Jo dharm par tik jaata hai,
+samay uska saath zaroor deta hai."""
             create_image_text_layout(text_content=text2, layout="full")
 
         with st.expander("Section 2.7.39 – Section LXXVII"):
-            text1 = """ """
+            text1 = """ 
+            Yudhishthira ne sabha mein kaha—
+
+“Main sab Bharata-vansh ke logon ko pranam karta hoon.
+Pitamah Bhishma ko.
+Drona, Kripa, aur sab rajaon ko.
+Vidura ko.
+Dhritarashtra ko.
+Aur unke putron ko bhi.
+
+Sab darbaar ke logon ko main alvida kehta hoon.
+Aaj ja raha hoon,
+par ek din wapas aaunga.”"""
             create_image_text_layout("attached_assets/chapter2/2.7.39.jpg", text1, layout="side", image_position="left")
-            text2 = """ """
+            text2 = """ 
+            Vaisampayana bole—
+
+Sab log sharm se chup ho gaye.
+Koi kuch keh na saka.
+Par sabke mann mein ek hi prarthna thi—
+“Yudhishthira surakshit rahein.”
+
+Tab Vidura bole—
+
+“Pritha ek rajkumari hain.
+Unka jungle jaana uchit nahi.
+Woh komal aur vriddh hain.
+Mere ghar mein, mere samman ke saath rahengi.
+
+Tum sab nischint raho.
+Suraksha tumhare saath rahe.”
+
+Pandav bole—
+
+“O nishpaap Vidura,
+jaise aap kahen, waisa hi hoga.
+Aap hamare chacha ho.
+Pita-samaan ho.
+
+Hum aapki aagya maante hain.
+Agar aur kuch karna ho,
+toh aadesh dijiye.”
+
+Vidura ne shant swar mein kaha—
+
+“Hey Yudhishthira,
+paap se haari hui haar
+dil ko dukh dene layak nahi hoti.
+
+Tum dharm jaante ho.
+Arjuna yudh mein vijayi hai.
+Bhima shatru-nashak hai.
+Nakula dhan-sangrah karta hai.
+Sahadeva raj-kaarya jaanta hai.
+Dhaumya vedon ka gyaata hai.
+Aur Draupadi dharm aur maryada jaanti hai.
+
+Tum sab ek-dusre se jude hue ho.
+Koi shatru tumhe alag nahi kar sakta.
+Is sanyam bhare vanvaas ka
+tumhe bada laabh milega.
+
+Tum pehle bhi
+mahan rishiyon se gyaan pa chuke ho.
+Un shikshaon ko yaad rakhna.
+Unhe kabhi na chhodna.
+
+Apne buddhi-bal se Indra jaisi vijay paana.
+Yama jaisa krodh-niyantran rakhna.
+Kuvera jaise daan dena.
+Varuna jaise indriyon ko sambhalna.
+
+Chandra se shitalta lo.
+Jal se dhairya.
+Prithvi se sahansheelta.
+Surya se urja.
+Vayu se shakti.
+
+Swasth raho.
+Nirbhay raho.
+Main tumhe safal hokar
+wapas dekhna chahta hoon.
+
+Har paristhiti mein
+dharm ka paalan karna.
+Ab tum ja sakte ho.
+Mera aashirvaad tumhare saath hai.”
+
+Vaisampayana bole—
+
+Vidura ke shabd sun kar
+Yudhishthira ne kaha,
+“Yahi hoga.”
+
+Unhone Bhishma aur Drona ko pranam kiya.
+Aur shaant mann se
+vanvaas ke liye nikal pade.
+
+✨ Moral (Sikh):
+Jo dharm par tik jaata hai,
+haar bhi uske liye shiksha ban jaati hai.
+Sanyam, gyaan aur ekta
+ant mein vijay laate hain."""
             create_image_text_layout(text_content=text2, layout="full")
 
         with st.expander("Section 2.7.40 – Section LXXVIII"):
-            text1 = """ """
+            text1 = """ 
+            Vaisampayana ne kaha—
+
+Jab Draupadi vanvaas ke liye nikalne wali thi,
+woh sabse pehle Mata Kunti ke paas gayi.
+Unse aagya maangi.
+
+Usne ghar ki sabhi striyon ko bhi pranam kiya.
+Sab dukhi thi.
+Sabki aankhon mein aansu the."""
             create_image_text_layout("attached_assets/chapter2/2.7.40.jpg", text1, layout="side", image_position="left")
-            text2 = """ """
+            text2 = """ 
+            Sabko gale laga kar
+Draupadi jaane lagi.
+Tab Pandavon ke mahal ke andar
+dukhi rone ki awaaz goonj uthi.
+
+Mata Kunti ne Draupadi ko dekha.
+Unka mann toot gaya.
+Bharrai hui awaaz mein boli—
+
+“Beta, is vipatti se tootna mat.
+Tum apne kartavya jaanti ho.
+Tumhara acharan pavitra hai.
+
+Tum pativrata ho.
+Tumhare gun
+tumhare janm-vansh aur vivaah-vansh
+dono ko shobha dete hain.
+
+Yeh bhi saubhagya hai
+ki tumhare krodh se
+Kaurav jal kar bhasm nahi hue.
+
+Meri duaon ke saath jao.
+Achhi striyaan
+jo avashya hona hai,
+us par mann ko dukhi nahi karti.
+
+Van mein rehte hue
+mere Sahadeva ka dhyaan rakhna.
+Uska mann kamzor na padne dena.”
+
+Draupadi ne kaha,
+“Yahi hoga.”
+
+Aansoon mein doobi hui,
+ek hi vastra pehne,
+bikhre hue baalon ke saath
+woh aage badhi.
+
+Mata Kunti bhi roti hui
+uske peeche chali.
+
+Thoda aage jaakar
+Kunti ne apne putron ko dekha.
+Unke gehne aur raj-vastra nahi the.
+Deer-skin pehne hue the.
+Sir jhuke hue the.
+
+Dushman khush the.
+Mitra dukhi.
+
+Mata ka hriday bhar aaya.
+Unhone sab putron ko gale lagaya
+aur boli—
+
+“Tum sab gunwaan ho.
+Sushil ho.
+Devtaon aur gurus ki seva karte ho.
+
+Phir yeh vipatti kyun aayi?
+Kaunsa paap ho gaya?
+
+Lagta hai
+yeh sab meri hi durbhagya se hua.
+Tum shakti, veerta aur sahas mein
+kabhi kam nahi the.
+
+Ab jungle mein
+bina dhan ke
+kaise rahoge?
+
+Agar mujhe pehle pata hota,
+toh main kabhi Hastinapur nahi aati.
+
+Tumhare pita Pandu
+sach mein bhagyashaali the.
+Unhe apne putron ka yeh dukh
+dekhna nahi pada.
+
+Madri bhi bhagyashaali thi.
+Shayad usse pehle hi sab gyaat tha.
+
+Haay, meri jeevan-iccha par dhikkar hai.
+Tum sab mujhe bahut pyaare ho.
+Main tumhe chhod nahi sakti.
+Main bhi saath chalungi.
+
+Hey Krishna (Draupadi),
+mujhe kyun chhod kar ja rahi ho?
+
+Hey Dwaraka-nivaasi Krishna,
+tum kahan ho?
+Tum sabko bachate ho,
+phir aaj kyun nahi?
+
+Jab Bhishma, Drona, Kripa jaise
+bade-bade gyaani maujood hain,
+toh yeh anyaay kaise hua?
+
+Hey Pandu,
+tum kahan ho?
+Apne putron ko aise
+vanvaas jaate hue kaise dekh rahe ho?
+
+Hey Sahadeva,
+tum mere sabse pyaare ho.
+Mujhe chhod kar mat jao.”
+
+Vaisampayana ne kaha—
+
+Pandavon ne apni maa ko sambhala.
+Aansoon pochhe.
+Aur dukhi mann se
+jungle ki or chal pade.
+
+Vidura ne bhi dukhi Kunti ko
+samjhaaya.
+Aur unhe apne ghar le gaye.
+
+Dhritarashtra ke mahal ki striyaan
+yeh sab sun kar ro padi.
+Pandavon ka vanvaas
+aur Draupadi ka apmaan
+sabko jala gaya.
+
+Raja Dhritarashtra bhi
+chinta mein doob gaye.
+Unka mann shaant nahi raha.
+
+Unhone turant sandesh bheja—
+
+“Vidura ko turant bulao.”
+
+Vidura aaye.
+Raja ne ghabra kar poocha—
+
+“Batao,
+Pandav Hastinapur se
+kaise gaye?”
+
+✨ Moral (Sikh):
+Sachche log
+dukh mein bhi maryada nahi chhodte.
+Maa ka prem
+sabse bada bal hota hai.
+Aur anyaay ke beech bhi
+dharm chup-chaap apna raasta chalta rehta hai."""
             create_image_text_layout(text_content=text2, layout="full")
 
         with st.expander("Section 2.7.41 – Section LXXIX"):
-            text1 = """ """
+            text1 = """ 
+            Vaisampayana ne kaha—
+
+Jab Vidura wapas aaye,
+toh Raja Dhritarashtra ghabra gaye.
+Dheemi awaaz mein poocha—
+
+“Yudhishthira kaise ja rahe hain?
+Arjuna kaise?
+Madri ke dono putra kaise?
+Dhaumya kaise chal rahe hain?
+Aur Draupadi ka kya haal hai?
+Mujhe sab batao.”
+
+Vidura bole—"""
             create_image_text_layout("attached_assets/chapter2/2.7.41.jpg", text1, layout="side", image_position="left")
-            text2 = """ """
+            text2 = """ 
+            “Yudhishthira ne apna chehra kapde se dhak liya hai.
+Bhima apni majboot baahon ko baar-baar dekhte hue ja rahe hain.
+Arjuna raja ke peeche ja rahe hain,
+aur raaste mein ret ke kan bikher rahe hain.
+
+Sahadeva apna chehra mal rahe hain,
+taaki pehchaan na ho.
+Nakula apne sharir par dhool laga rahe hain,
+taaki koi unki sundarta par mohit na ho.
+
+Badi aankhon wali Draupadi
+bikhre baalon ke saath roti hui ja rahi hain.
+Woh Yudhishthira ke peeche chal rahi hain.
+
+Aur Dhaumya haath mein kusha ghaas liye
+Sama Veda ke gambhir mantra bolte hue ja rahe hain.”
+
+Dhritarashtra ne poocha—
+
+“Vidura,
+yeh sab alag-alag tarah se kyun ja rahe hain?”
+
+Vidura ne kaha—
+
+“Raja Yudhishthira anyaay se haare gaye.
+Phir bhi unka mann dharm se nahi hata.
+Unhe bhay hai
+ki gusse se kisi ko dekh bhi liya,
+toh nuksaan ho jaayega.
+Isliye unhone chehra dhak liya.
+
+Bhima sochte hain—
+‘Meri baahon ka bal sabse bada hai.’
+Isliye woh apni shakti dikhate hue ja rahe hain.
+
+Arjuna ret bikher kar yeh sanket de rahe hain—
+jaise ret aasani se bikhar jaati hai,
+waise hi yudh mein
+unke teer barasenge.
+
+Sahadeva apna chehra chhupa rahe hain,
+taaki mushkil samay mein
+koi unhe pehchaan na le.
+
+Nakula dhool laga rahe hain,
+taaki log unki sundarta se na atken.
+
+Draupadi ka haal
+bhavishya ka sanket hai.
+Woh keh rahi hain—
+‘Chaudah saal baad,
+jin striyon ke pati ne mujhe yeh dukh diya,
+woh bhi isi dukh se guzrengi.’
+
+Dhaumya ke mantra
+yudh ke baad ke shok ka sanket hain.
+
+Nagar ke log ro rahe hain.
+Woh keh rahe hain—
+‘Haay!
+Hamare sachche raja ja rahe hain.
+Lalach ke kaaran
+Pandu ke putron ko nikala gaya.’
+
+Aur jab Pandav shehar se nikle,
+toh ashubh sanket dikhe.
+Bijli chamki bina badal ke.
+Dharti kaanp uthi.
+Pakshi aur jaanwar cheekhne lage.
+
+Yeh sab is baat ka sanket tha—
+Bharata-vansh par
+bada vinaash aane wala hai.”
+
+Vaisampayana ne aage kaha—
+
+Isi beech,
+sabha mein ek divya rishi prakat hue.
+Unhone bhayanak vachan kaha—
+
+“Chaudah saal baad,
+Duryodhana ke dosh se
+Kaurav nasht honge.
+Bhima aur Arjuna ke haathon.”
+
+Yeh keh kar
+rishi aakash mein vilin ho gaye.
+
+Tab Duryodhana, Karna aur Shakuni
+Drona ke paas gaye.
+Unhone unhe apna sahara maana.
+
+Drona ne gambhir swar mein kaha—
+
+“Pandav dev-putra hain.
+Unka vinaash sambhav nahi.
+
+Par bhagya sabse bada hai.
+Woh vanvaas ke baad
+krodh ke saath lautenge.
+
+Mujhe Dhrishtadyumna se bhay hai.
+Wahi mera vadh karega.
+Yeh baat sab jaante hain.
+
+Duryodhana,
+tumhari khushi choti hai.
+Jaise sardiyon mein
+khajoor ke ped ki chhaaya.
+
+Jo bhala ho sakta hai,
+abhi kar lo.
+Chaudah saal baad
+bada sankat aayega.”
+
+Vaisampayana ne kaha—
+
+Drona ki baat sun kar
+Dhritarashtra bole—
+
+“Vidura,
+turant Pandavon ko wapas bulao.
+Agar na aaye,
+toh unhe samman ke saath jaane do.
+Aur mere putron ko bhi
+shastra aur sena ke saath rakho.”
+
+✨ Moral (Sikh):
+Dharm se jeeti hui haar
+anyaay se mili jeet se badi hoti hai.
+Samay sab yaad rakhta hai.
+Jo aaj hans raha hai,
+kal usse hisaab dena hi padta hai."""
             create_image_text_layout(text_content=text2, layout="full")
 
         with st.expander("Section 2.7.42 – Section LXXX"):
-            text1 = """ """
+            text1 = """ 
+            Vaisampayana ne kaha—
+
+Pandav paasaa haar kar
+jungle chale gaye.
+Iske baad Raja Dhritarashtra
+bahut chintit ho gaye.
+
+Woh bechain the.
+Lambi saansein le rahe the.
+
+Tab Sanjaya paas aaye aur bole—"""
             create_image_text_layout("attached_assets/chapter2/2.7.42.jpg", text1, layout="side", image_position="left")
-            text2 = """ """
+            text2 = """ 
+            “Hey Maharaj,
+ab jab poori prithvi
+aapke putron ke haath mein hai,
+aur Pandu-putra vanvaas mein chale gaye,
+toh aap itna dukhi kyun hain?”
+
+Dhritarashtra bole—
+
+“Jo veer Pandavon se yudh karega,
+woh dukhi kyun nahi hoga?
+Woh maharathi hain.
+Rath par ladte hain.
+Aur balwaan mitron se ghire hain.”
+
+Sanjaya ne kaha—
+
+“Hey Raja,
+yeh sab aapke galat faislon ka phal hai.
+Isse bhayankar vinaash aayega.
+
+Bhishma, Drona aur Vidura ne mana kiya tha.
+Phir bhi aapke putra Duryodhana ne
+Pandavon ki pativrata patni Draupadi ko
+sabha mein ghaseet kar bulwaya.
+
+Jab vinaash paas hota hai,
+toh bhagwan pehle buddhi cheen lete hain.
+Phir galat cheez sahi lagne lagti hai.
+Aur sahi cheez galat.
+
+Vinaash danda le kar nahi aata.
+Woh mann ko bhramit kar deta hai.
+
+Draupadi jaise pavitra stri ka apmaan
+iss vinaash ka kaaran bana.
+Aag se janmi,
+dharm jaanti hui,
+uska apmaan kis aur ne kiya?
+Sirf Duryodhana ne.
+
+Woh ek hi vastra mein thi.
+Avastha bhi kathin thi.
+Phir bhi use sabha mein laya gaya.
+
+Usne Pandavon ki taraf dekha.
+Par woh bandhan mein the.
+Na raj tha.
+Na bal dikha sakte the.
+
+Sabha mein
+Duryodhana aur Karna ne
+us par kathor shabd kahe.
+Yeh sab bhayankar sanket hai.”
+
+Dhritarashtra bole—
+
+“Sanjaya,
+Draupadi ki dukh bhari drishti
+poori dharti ko jala sakti hai.
+Kya mera koi bhi putra bachega?
+
+Us din sab striyaan ro padi thi.
+Brahmanon ne Agnihotra bhi nahi kiya.
+Tez aandhi chali.
+Bijli kadki.
+Ulka-paat hua.
+Rahu ne asamay suraj ko dhak liya.
+
+Rath jal uthe.
+Dhwaj gir gaye.
+Giddh aur siyar cheekhne lage.
+
+Bhishma, Drona, Kripa
+sab sabha chhod kar chale gaye.
+
+Vidura ki salah par
+maine Draupadi se kaha—
+‘Jo chaho maango.’
+
+Usne Pandavon ki mukti maangi.
+Maine unhe chhod diya.
+
+Par Vidura ne tab kaha tha—
+‘Yahi apmaan Bharata-vansh ka vinaash banega.’
+
+Draupadi koi sadharan stri nahi.
+Woh Shri-svaroop hai.
+Pandav is apmaan ko kabhi nahi bhoolenge.
+
+Vrishni aur Pancala ke veer bhi
+chup nahi baithenge.
+Krishna ke sahare
+Arjuna wapas aayega.
+Bhima apni gada ke saath
+Yama jaise pralay layega.
+
+Isliye Vidura ne mujhe kaha tha—
+‘Yudh nahi,
+shanti karo.
+Pandav hamesha Kuruvon se shaktishaali rahe hain.’
+
+Bhima ne bina shastra
+Jarasandha ko maar diya tha.
+Yeh tum jaante ho.
+
+Par maine
+putra-moh mein
+Vidura ki baat nahi maani.”
+
+Vaisampayana ne kaha—
+
+Yahin Sabha Parva samapt hota hai.
+
+✨ Moral (Sikh):
+Jab anyaay ko shakti mil jaati hai,
+toh vinaash nischit ho jaata hai.
+Buddhi ki baat na sunna
+aur ahankaar ka saath dena
+raja aur vansh—dono ko le doobta hai."""
             create_image_text_layout(text_content=text2, layout="full")
