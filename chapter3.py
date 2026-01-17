@@ -1773,7 +1773,13 @@ bach paata hai."""
         # Section 3.2.1
         # --------------------------------------------------
         with st.expander("Section 3.2.1  Section XI"):
-            text1 = """ """
+            text1 = """ 
+            Dhritarashtra ne poocha
+
+Dhritarashtra bole:
+“O Vidura, mujhe batao—
+Kirmira ka vinash kaise hua?
+Bhima aur Rakshasa ka yuddh kaise hua?”"""
             create_image_text_layout(
                 "attached_assets/chapter3/3.2.1.jpg",
                 text1,
@@ -1781,7 +1787,115 @@ bach paata hai."""
                 image_position="left"
             )
 
-            text2 = """ """
+            text2 = """ 
+            Vidura ne kahani shuru ki
+
+Vidura bole:
+“Raja, dhyaan se suno.
+Yeh Bhima ki veerta ki kahani hai.”
+
+Jungle ka bhay
+
+Jua haarne ke baad
+Pandav raat ke andhere mein
+Kamyaka van pahunche.
+
+Yeh raat Rakshason ki ghadi hoti hai.
+Tapasvi aur gop sab jungle chhod dete hain.
+
+Rakshasa ka aagman
+
+Achanak aag ke shole jaisa
+bhayanak Rakshasa aaya.
+Aankhen jal rahi thi.
+Daant bahar nikle hue.
+Gurrata hua rasta rok liya.
+
+Dar ke maare jungle kaanp utha.
+Pashu–pakshi bhag gaye.
+
+Draupadi dar se kaanp uthi.
+Pandav usey gher kar khade ho gaye.
+
+Dhaumya ka mantra
+
+Rishi Dhaumya ne
+mantron se Rakshasa ka moh tod diya.
+Rakshasa aur bhi gusse mein aa gaya.
+
+Yudhishthira ka prashn
+
+Yudhishthira bole:
+“Tum kaun ho?
+Kya chahte ho humse?”
+
+Kirmira ka parichay
+
+Rakshasa hansa:
+“Main Kirmira hoon.
+Vaka ka bhai.
+
+Bhima ne mere bhai ko mara.
+Aaj main badla loonga.
+Bhima ko yahin kha jaunga!”
+
+Bhima aage badhe
+
+Bhima ne
+ek bada ped ukhaad liya 🌳
+Arjuna ne Gandiva chadha diya,
+par Bhima bole—
+“Isse main hi nipatunga.”
+
+Bhayankar yuddh
+
+Ped aur pathar ude.
+Aag ke shole pheinke gaye.
+Jungle tootne laga.
+
+Dono ek–dusre se
+haath–paon se bhid gaye.
+Do gusse wale saand jaise!
+
+Bhima ka krodh
+
+Bhima ko yaad aaya
+Draupadi ka apmaan.
+Unhone poori taakat jod li.
+
+Rakshasa ko pakda.
+Zameen par patka.
+Ghuma–ghuma kar thaka diya.
+
+Phir seene par ghutna rakha
+aur gardan daba di.
+
+Antim shabd
+
+Bhima bole:
+“Ab tu Yama ke lok jaa!”
+
+Aur
+Kirmira mar gaya.
+
+Shanti ka samay
+
+Jungle shant ho gaya 🌙
+Pandav surakshit ho gaye.
+Draupadi ne chain ki saans li.
+
+Sab ne Bhima ki veerta ki prashansa ki.
+Phir Pandav aage badh gaye,
+Krishna ko aage rakh kar.
+
+Moral 🌱
+
+Anyay ka ant hota hai
+
+Raksha ke liye shakti ka upyog dharm hai
+
+Bhakti aur sahas saath ho
+toh bhay tik nahi pata"""
             create_image_text_layout(
                 text_content=text2,
                 layout="full"
@@ -1793,7 +1907,18 @@ bach paata hai."""
         # Section 3.3.1
         # --------------------------------------------------
         with st.expander("Section 3.3.1  Section XII"):
-            text1 = """ """
+            text1 = """ 
+            Pandav van mein
+
+Jab Pandav vanvaas mein the,
+unke apne log unse milne aaye.
+
+Bhoj, Vrishni, Andhak,
+Panchal ke rishte-daar,
+aur Chedi ke raja bhi aaye.
+
+Sabka ek hi sawaal tha:
+“Ab anyay ka kya jawab hoga?”"""
             create_image_text_layout(
                 "attached_assets/chapter3/3.3.1.jpg",
                 text1,
@@ -1801,7 +1926,103 @@ bach paata hai."""
                 image_position="left"
             )
 
-            text2 = """ """
+            text2 = """ 
+            Krishna ka krodh
+
+Krishna bole:
+“Duryodhana, Karna, Dushasana, Shakuni—
+sab ka ant nishchit hai.
+
+Dharm yahi kehta hai:
+anyayi ka vinash zaroori hai.”
+
+Krishna ka roop agni jaisa ho gaya.
+Laga jaise sab kuch bhasm kar denge.
+
+Arjuna ka shant stavan
+
+Tab Arjuna aage aaye.
+Unhone Krishna ki mahima gaayi.
+
+“Tum hi Vishnu ho.
+Tum hi srishti ke aarambh aur ant ho.
+
+Tumne hazaron yugo mein
+asuron ka vinash kiya.
+Tum hi Narayana ho.”
+
+Arjuna ke shabd sun kar
+Krishna shaant ho gaye.
+
+Krishna bole:
+“Tum Nara ho,
+aur main Narayana.
+Hum alag nahi.”
+
+Draupadi ka dard
+
+Tab Draupadi aage aayi.
+Aankhon mein aansu.
+Dil mein agni.
+
+“Krishna,
+mujhe sabha mein ghasita gaya.
+Sab ke saamne mera apmaan hua.
+
+Mere pati chup rahe.
+Mera vastra kheencha gaya.
+Aur Duryodhana hansa.”
+
+Uski awaaz kaanp rahi thi.
+Yaadein phir zinda ho gayi.
+
+Purane paap yaad aaye
+
+Draupadi boli:
+“Yahi Duryodhana hai
+jisne Bhima ko zeher diya.
+Jisne ghar jalwaya.
+
+Fir bhi aaj zinda hai!”
+
+Wo ro padi.
+Haath se chehra dhak liya.
+
+Krishna ka vachan
+
+Krishna ne shant par dridh awaaz mein kaha:
+“Draupadi, mat ro.
+
+Jinke pati tumse bair rakhte hain,
+unki patniyaan bhi royengi.
+
+Main pratigya karta hoon:
+Tum phir se rani banogi.
+
+Aakash gir jaaye,
+pahaad toot jaaye,
+par mere vachan jhoothe nahi honge.”
+
+Veeron ka sankalp
+
+Arjuna bole:
+“Krishna ka vachan atal hai.”
+
+Dhrishtadyumna ne kaha:
+“Drona marega.
+Bhishma girega.
+Duryodhana aur Karna ka ant hoga.”
+
+Sab veer Krishna ki taraf dekhne lage.
+Yuddh ka beej boyaa ja chuka tha.
+
+Moral 🌱
+
+Anyay chup rehne se badhta hai
+
+Dharma ka saath dena hi veerta hai
+
+Krishna ka vachan = satya + nyay"""
             create_image_text_layout(
                 text_content=text2,
                 layout="full"
@@ -1811,7 +2032,16 @@ bach paata hai."""
         # Section 3.3.2
         # --------------------------------------------------
         with st.expander("Section 3.3.2  Section XIII"):
-            text1 = """ """
+            text1 = """ 
+            Krishna ka dukh
+
+Krishna bole:
+“Hey prithvi ke raja,
+agar main us samay Dwarka mein hota,
+to yeh anarth kabhi na hota.”
+
+Unki awaaz mein pashchataap tha.
+Dil bhara hua tha."""
             create_image_text_layout(
                 "attached_assets/chapter3/3.3.2.jpg",
                 text1,
@@ -1819,7 +2049,102 @@ bach paata hai."""
                 image_position="left"
             )
 
-            text2 = """ """
+            text2 = """ 
+            Jua hota hi nahi
+
+Krishna bole:
+“Chahe mujhe bulaya jaata ya nahi,
+main sabha mein aa jata.
+
+Main Dhritarashtra, Duryodhana,
+aur sab Kauravon ko rokta.”
+
+Bhishma, Drona, Kripa, Vahlika—
+sab ko saath le leta.
+
+Dice ke bhayanak parinaam
+
+Krishna ne kaha:
+“Jua ek din mein
+sab kuch chheen leta hai.
+
+Dhan, maryada, shanti—
+sab nash kar deta hai.”
+
+Wo bole:
+“Shastra kehte hain—
+chaar cheezein vinaash laati hain:
+
+Jua
+
+Stri ka andha moh
+
+Shikar
+
+Madira”
+
+Jo inmein phans jaata hai,
+wo apna hi dushman ban jaata hai.
+
+Dhritarashtra ko chetavani
+
+Krishna bole:
+“Main Dhritarashtra se kehta:
+‘Apne putron ko jua se door rakho.’
+
+Ek galat khel
+poore vansh ko jala deta hai.”
+
+Agar wo baat maan lete,
+to Kuru vansh bach jaata.
+Aur dharma bhi surakshit rehta.
+
+Zarurat padti to bal prayog
+
+Krishna ne dridh swar mein kaha:
+“Aur agar meri baat na maante,
+to main bal se bhi rok deta.
+
+Jo jhoothe mitra the,
+jo jua badha rahe the—
+un sab ko main wahi samaapt kar deta.”
+
+Unki aankhon mein kshama nahi,
+sirf nyay tha.
+
+Der se mili khabar
+
+Krishna bole:
+“Mujhe Dwarka pahunch kar
+Yuyudhana se sab pata chala.
+
+Jab suna ki tum vanvaas mein ho,
+mera hriday kaanp gaya.”
+
+Isliye bina der kiye,
+wo seedhe yahan aa gaye.
+
+Pandavon ki dasha
+
+Krishna ne dekha:
+Yudhishthira,
+Bhima, Arjuna, Nakul, Sahadev—
+sab kasht mein the.
+
+Krishna bole:
+“Alas!
+Pandavon par kitna bada dukh aa pada hai.”
+
+Unki aankhon mein karuna thi.
+Aur saath hi nyay ka sankalp.
+
+Moral 🌱
+
+Jua sirf khel nahi, vinaash hai
+
+Galat nirnay poore vansh ko gira dete hain
+
+Krishna ka shok = dharma ka dard"""
             create_image_text_layout(
                 text_content=text2,
                 layout="full"
@@ -1829,7 +2154,17 @@ bach paata hai."""
         # Section 3.3.3
         # --------------------------------------------------
         with st.expander("Section 3.3.3  Section XIV"):
-            text1 = """ """
+            text1 = """ 
+            Yudhishthira ka sawaal
+
+Yudhishthira bole:
+“O Krishna,
+aap us samay Dwarka mein kyun nahi the?
+Aap kahan gaye the?
+Aur kya kar rahe the?”
+
+Unka sawal shaant tha,
+par dil bhara hua tha."""
             create_image_text_layout(
                 "attached_assets/chapter3/3.3.3.jpg",
                 text1,
@@ -1837,7 +2172,102 @@ bach paata hai."""
                 image_position="left"
             )
 
-            text2 = """ """
+            text2 = """ 
+            Krishna ka uttar
+
+Krishna bole:
+“O Bharata-vansh ke shreshtha,
+main Saubha nagar ke raja Salva ko samaapt karne gaya tha.”
+
+Ye zaroori tha.
+Dharma ke liye zaroori.
+
+Shishupala ka badla
+
+Krishna bole:
+“Tumhare Rājasūya yajna mein
+maine Shishupala ka vadh kiya tha.
+
+Wo krodh mein andha ho gaya tha.
+Mujhe pratham pooja milte dekh
+wo apmaan se jal utha.”
+
+Usi krodh ka badla tha Salva.
+
+Dwarka par hamla
+
+Krishna bole:
+“Jab main yahan tha,
+Salva ne khali Dwarka par aakraman kar diya.
+
+Uska vimaan Saubha
+sone–chandi se bana tha.
+Aakash mein kahin bhi ja sakta tha.”
+
+Usne Vrishni yuvaon se yuddh kiya.
+Kai veer mare gaye.
+Udyan aur nagar ujhad gaye.
+
+Salva ka ghamand
+
+Salva chillaya:
+“Vasudeva kahan hai?
+Kansa aur Kesi ke vadh ka ghamand karta hai!
+
+Main usse maar kar hi lautunga.
+Yahi meri pratigya hai!”
+
+Wo baar-baar mera naam le kar
+aakash mein ghoomta raha.
+
+Krishna ka sankalp
+
+Krishna bole:
+“Jab mujhe ye sab pata chala,
+mera hriday krodh se bhar gaya.
+
+Anartta desh par atyachar,
+mera apmaan,
+aur uska ghamand—
+sab kuch dekh kar
+maine nishchay kar liya.”
+
+Salva ka vinash hona hi tha.
+
+Antim yuddh
+
+Krishna bole:
+“Main samudra ke beech
+ek dweep par usse mila.
+
+Maine apna Panchajanya shankh bajaya
+aur yuddh ka ahvaan kiya.”
+
+Kai Danav aaye.
+Sab dhool chaat gaye.
+
+Isi yuddh ke kaaran
+main us samay tumhare paas
+nahi aa saka.
+
+Ant mein
+
+Krishna bole:
+“Jaise hi mujhe pata chala
+ki Hastinapur mein jua hua,
+aur tum vanvaas mein ho—
+main turant yahan aa gaya.”
+
+Unki awaaz mein spasht tha:
+“Tumhara dukh mera dukh hai.”
+
+Moral 🌿
+
+Dharma ke liye kabhi-kabhi door jaana padta hai
+
+Krishna ki anupasthiti laaparwahi nahi, kartavya thi
+
+Ant mein Bhagwan bhakt ke paas zaroor aate hain"""
             create_image_text_layout(
                 text_content=text2,
                 layout="full"
@@ -1847,7 +2277,15 @@ bach paata hai."""
         # Section 3.3.4
         # --------------------------------------------------
         with st.expander("Section 3.3.4  Section XV"):
-            text1 = """ """
+            text1 = """ 
+            Yudhishthira ka prashn
+
+Yudhishthira bole:
+“O balshali Vasudeva,
+Saubha ke raja Salva ka ant kaise hua,
+yeh vistaar se batao.
+
+Abhi meri jigyāsa poori nahi hui.”"""
             create_image_text_layout(
                 "attached_assets/chapter3/3.3.4.jpg",
                 text1,
@@ -1855,7 +2293,149 @@ bach paata hai."""
                 image_position="left"
             )
 
-            text2 = """ """
+            text2 = """ 
+            Krishna bolna shuru karte hain
+
+Krishna bole:
+“O Pandu-putra,
+jab maine Shishupala ka vadh kiya,
+tab uska mitra Salva krodh se jal utha.
+
+Badla lene ke liye
+wo seedha Dwarka aa gaya.”
+
+Dwarka ka gherav
+
+Salva ne apni sena ko
+charo taraf phaila diya.
+
+Wo sirf zameen par nahi,
+aakash se bhi yuddh kar raha tha.
+
+Har disha se
+teer, shastra aur agni barsne lage.
+
+Yuddh shuru ho chuka tha.
+
+Dwarka ki majboot taiyaari
+
+Krishna bole:
+“O Bharata-shreshtha,
+Dwarka pehle se hi
+shastra-vidya ke niyamon se bani hui nagari thi.”
+
+Nagari mein tha:
+
+unche prakar aur burj
+
+majboot darwaaze
+
+agni-fenkne wali yantra
+
+pathron aur garam dravya ko phenknay wale upkaran
+
+bhari shields, bhale, talwaren
+
+sadkon par kaante aur lakdi ke avrodh
+
+Har jagah taiyaari thi.
+
+Veer rakshak
+
+Nagari ki raksha kar rahe the:
+
+Gada
+
+Shamva
+
+Uddhava
+
+aur kai parikshit yoddha
+
+Sab veer the.
+Sab anubhavshali.
+
+Rath, ghode aur hathi
+sadkon par tayaar khade the.
+
+Sanyam aur satarkta
+
+Krishna bole:
+“Ugrasena aur Uddhava ne
+nagari mein ghoshna kar di—
+
+❝Koi bhi madira ka sevan nahi karega❞”
+
+Sab Vrishni aur Andhak jaante the:
+agar laparwahi hui,
+to Salva daya nahi karega.
+
+Isliye:
+
+sab sober rahe
+
+sab satark rahe
+
+Suraksha ke kathor niyam
+
+Nagari se:
+
+nritya, gaayan, tamasha band
+
+nadiyon ke pul tod diye gaye
+
+naav chalana mana
+
+khayi ke neeche nokile baans lagaye gaye
+
+Nagari ke aas-paas:
+
+zameen ko khod kar
+gaddhe aur jaal bichhaye gaye
+
+aag lagane wale padarth chhupa diye gaye
+
+Koi bina pehchaan ke
+andar–bahar nahi ja sakta tha.
+
+Dwarka – Indra ki nagari jaisi
+
+Krishna bole:
+“In sab taiyariyon ke kaaran
+Dwarka aur bhi majboot ho gayi.
+
+Wo Indrapuri jaisi lag rahi thi.”
+
+Yoddhaon ko:
+
+sona (gold)
+
+bhojan
+
+vastra
+
+shastra
+
+sab kuch mila.
+Koi bhi aprasann nahi tha.
+
+Ant mein
+
+Krishna bole:
+“Is tarah,
+Ahuka (Ugrasena) ke netritva mein
+Dwarka poori tarah surakshit thi.”
+
+Salva ka ghamand
+ab zyada der tak tikne wala nahi tha.
+
+Moral 🌿
+
+Dharma sirf shakti se nahi, sanyam se jeet ta hai
+
+Sahi taiyaari bina ghabrahat ke raksha karti hai
+
+Jahan anushasan hota hai, wahan adharma haar jata hai"""
             create_image_text_layout(
                 text_content=text2,
                 layout="full"
