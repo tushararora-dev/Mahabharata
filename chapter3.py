@@ -2445,7 +2445,22 @@ Jahan anushasan hota hai, wahan adharma haar jata hai"""
         # Section 3.3.5
         # --------------------------------------------------
         with st.expander("Section 3.3.5  Section XVI"):
-            text1 = """ """
+            text1 = """ 
+            Vasudeva bole—
+
+“Hey rājā,
+Saubha ka swami Śālva
+bahut badi sena le kar
+Dvārakā ki taraf aaya.
+
+Paidal sainik.
+Ghode.
+Haathi.
+Sab kuch tha uske paas.
+
+Uski sena ne
+paani ke paas wali
+samatal bhoomi gher li."""
             create_image_text_layout(
                 "attached_assets/chapter3/3.3.5.jpg",
                 text1,
@@ -2453,7 +2468,167 @@ Jahan anushasan hota hai, wahan adharma haar jata hai"""
                 image_position="left"
             )
 
-            text2 = """ """
+            text2 = """ 
+            Mandir, shamshān,
+dev-vriksh,
+aur pavitra sthaan
+chhod kar
+baaki sab jagah
+unhone kabza kar liya.
+
+Shehar ki sadkein band ho gayin.
+Gupt raaste bhi rok diye gaye.
+
+Garuḍ ki tarah
+Śālva apni udti hui
+Saubha-nagri par
+tezi se aage badha.
+
+Uski sena
+achhi tarah poshit thi.
+Achhe shastra the.
+Jhande lehra rahe the.
+Veer lag rahe the.
+
+Yeh dekh kar
+Vrishni vansh ke
+yuvrajon ka khoon
+garam ho gaya.
+
+Unhone tay kiya—
+‘Hum shehar se bahar nikal kar
+samna karenge.’
+
+Cārudeṣṇa, Sāmba aur Pradyumna
+apne rathon par chadhe.
+
+Kavach pehne.
+Gehne sajaye.
+Aur seedhe yuddh-bhoomi ki taraf badhe.
+
+Sāmba ne sabse pehle
+Śālva ke senapati
+Kṣemavṛddhi par
+baan barsaye.
+
+Baan itne ghanay the
+jaise Indra ki varsha.
+
+Par Kṣemavṛddhi
+Himālaya ki tarah
+achal raha.
+
+Usne māyā se bhare
+teekhe baan chhode.
+
+Sāmba ne bhi
+chāl se kaam liya.
+Us māyā ko
+māyā se hi kaat diya.
+
+Hazāron baan
+senapati ke rath par bars gaye.
+
+Ant mein
+Kṣemavṛddhi
+ghode ke sahare
+yuddh-bhoomi chhod kar bhag gaya.
+
+Tab ek bhayankar
+Daitya Vegavān
+Sāmba par toot pada.
+
+Sāmba zara bhi nahi hila.
+
+Usne ghoomti hui
+gada uthai
+aur zor se phenki.
+
+Gada lagte hi
+Vegavān dharti par gira—
+jaise purana ped
+jhad kar gir jata hai.
+
+Sāmba bina dare
+sena ke beech ghus gaya
+aur sabse ladne laga.
+
+Dusri taraf
+ek aur Daitya Vivindhya
+Cārudeṣṇa se bhid gaya.
+
+Unka yuddh
+sheron ki takkar jaisa tha.
+
+Garaj.
+Tez baan.
+Koi peeche nahi hata.
+
+Tab Rukmini ke putra
+ne ek divya astra uthaya.
+
+Mantron se jagaya.
+Aankhon mein agni thi.
+
+Us astra ke lagte hi
+Vivindhya dharti par gir pada.
+Nishchit.
+Nishprāṇ.
+
+Yeh dekh kar
+Śālva phir aage badha.
+
+Uski udti hui Saubha-nagri
+dekh kar
+Dvārakā ke yoddha
+ek pal ke liye ghabra gaye.
+
+Tab Pradyumna aage aaye.
+
+Unki awaaz shaant thi
+par hriday dridh.
+
+Unhone kaha—
+
+“Ghabrao mat.
+Yahin ruko.
+Mujhe ladne do.
+
+Aaj main
+is Saubha ko
+aur Śālva ko
+dono ko rokunga.
+
+Mere baan
+saanpon jaise honge.
+Is sena ko
+aaj yahin samaapt karunga.
+
+Nidar raho.
+Aaj Saubha ka ant hoga.”
+
+Pradyumna ke shabdon se
+Yādav sena ka mann
+phir majboot ho gaya.
+
+Sabke chehron par
+hosla aa gaya.
+
+Aur phir
+yuddh dobara
+poore bal ke saath
+shuru ho gaya ⚔️
+
+Is kahani ka bhāv 🌿
+
+Jab apna ghar khatre mein ho,
+to veer peeche nahi hat-te
+
+Sachcha sahas
+shant vaani se bhi dikhta hai
+
+Ek dridh hriday
+poori sena ko majboot bana deta hai"""
             create_image_text_layout(
                 text_content=text2,
                 layout="full"
@@ -2463,7 +2638,23 @@ Jahan anushasan hota hai, wahan adharma haar jata hai"""
         # Section 3.3.6
         # --------------------------------------------------
         with st.expander("Section 3.3.6  Section XVII"):
-            text1 = """ """
+            text1 = """ 
+            Vasudeva bole—
+
+“Hey Bharata-vansh ke shreshṭh veer,
+yeh keh kar
+Rukmiṇī ka putra Pradyumna
+apne sunehre rath par chadh gaya.
+
+Uska rath
+shreshṭh ghodon se jhuta tha.
+Ghode kavach pehne hue the.
+
+Rath par
+Makara-dhvaja tha—
+khula hua muh,
+bhayanak,
+jaise mrityu khud khadi ho."""
             create_image_text_layout(
                 "attached_assets/chapter3/3.3.6.jpg",
                 text1,
@@ -2471,7 +2662,136 @@ Jahan anushasan hota hai, wahan adharma haar jata hai"""
                 image_position="left"
             )
 
-            text2 = """ """
+            text2 = """ 
+            Ghode
+zamin par daud nahi rahe the,
+jaise hawa mein ud rahe hon.
+
+Pradyumna ne
+tarakash sambhala.
+Talvaar saath thi.
+Ungliyon par chamda chadha tha.
+
+Usne bijli jaise chamakte
+dhanush ko zor se taana.
+
+Kabhi daayein haath se,
+kabhi baayein haath se—
+jaise shatru ki
+koi parvah hi na ho.
+
+Danav aur Saubha ke yoddha
+ghabra gaye.
+Unki panktiyaan
+tootne lagi.
+
+Pradyumna lagataar
+baan barsata raha.
+
+Do baanon ke beech
+ek pal ka bhi antar nahi.
+
+Uske chehre ka rang
+badla nahi.
+Sharir zara bhi
+kaanpa nahi.
+
+Bas
+uski garajti hui
+sinh-naad
+sunai deti rahi.
+
+Makara-dhvaja
+Salva ke sainikon ke
+hriday mein
+bhay bhar raha tha.
+
+Phir Pradyumna
+seedha Śālva ki taraf badha.
+
+Is chunauti ko
+Śālva sah nahi paaya.
+
+Krodh se andha hokar
+woh apne sundar rath se
+neeche utar aaya.
+
+Donon ka yuddh
+aisa tha
+jaise Indra aur Bali
+saamne aa gaye hon.
+
+Śālva ne
+apne rath par chadh kar
+teekhe baan chhode.
+
+Pradyumna ne bhi
+baanon ki baarish kar di.
+
+Aakash bhar gaya.
+Zameen kaanp uthi.
+
+Śālva ne
+agni jaise jalte astra chhode.
+Par Pradyumna ne
+sab ko kaat diya.
+
+Tab Pradyumna ne
+ek vishesh baan chhoda.
+
+Woh baan
+kavach ko cheerta hua
+Śālva ke hriday mein ghus gaya.
+
+Śālva
+achanak behosh hokar
+gir pada.
+
+Yeh dekh kar
+Danav sena bhag uthi.
+Dharti unke bhaagti kadmon se
+kampne lagi.
+
+Har taraf se
+“Haay! Alas!”
+ki awaaz ghoonj uthi.
+
+Par kuch hi palon baad
+Śālva ne
+hosh sambhala.
+
+Usne phir se
+baan chhodne shuru kiye.
+
+Is baar
+Pradyumna ke gale ke paas
+gehra ghav laga.
+
+Pradyumna
+kamzor padne laga.
+
+Śālva ne
+sinh ki tarah garaj kar
+poori prithvi ko
+kaampa diya.
+
+Aur bina ruke
+aur bhi baan chhodta raha.
+
+Ant mein—
+baanon se chhinn-bhinn,
+chetnā-rahit,
+Pradyumna yuddh-bhoomi par
+nishchal ho gaya.
+
+Is drishya ka bhāv 🌑
+
+Veerta ka matlab sirf jeetna nahi,
+ant tak dat kar khade rehna bhi hota hai
+
+Kabhi-kabhi sabse mahaan yoddha bhi
+girta hai—
+par uska sahas amar rehta hai"""
             create_image_text_layout(
                 text_content=text2,
                 layout="full"
@@ -2481,7 +2801,25 @@ Jahan anushasan hota hai, wahan adharma haar jata hai"""
         # Section 3.3.7
         # --------------------------------------------------
         with st.expander("Section 3.3.7  Section XVIII"):
-            text1 = """ """
+            text1 = """ 
+            Vasudeva bole—
+
+“Hey rājā,
+jab Śālva ke baanon se chhalni hokar
+Pradyumna behosh ho gaya,
+toh Vr̥ṣṇi yoddhāon ke mann toot gaye.
+
+Har taraf se
+‘Haay!’ ‘Alas!’
+ki dhvani uthne lagi.
+
+Dushman prasann ho gaye.
+
+Tab Daruka ka putra,
+jo Pradyumna ka sārathi tha,
+usse turant
+yuddh-bhoomi se
+door le gaya."""
             create_image_text_layout(
                 "attached_assets/chapter3/3.3.7.jpg",
                 text1,
@@ -2489,7 +2827,114 @@ Jahan anushasan hota hai, wahan adharma haar jata hai"""
                 image_position="left"
             )
 
-            text2 = """ """
+            text2 = """ 
+            Rath zyada door nahi gaya tha
+ki Pradyumna ko chetnā laut aayi.
+
+Usne dhanush uthaya
+aur kathor svar mein bola—
+
+“Hey Sūta-putra!
+Yeh tumne kya kiya?
+Yuddh-bhoomi chhod kar
+rath kyun mod diya?
+
+Kya Śālva ko dekh kar
+tum ghabra gaye?
+Ya tumhara mann toot gaya?
+Sach-sach batao!”
+
+Sārathi ne vinamrta se uttar diya—
+
+“Hey Janārdan-putra,
+na mujhe bhay hua,
+na main bhramit hua.
+
+Par mujhe laga
+Śālva tumse bhi adhik balshāli hai.
+
+Sārathi ka kartavya hai
+jab veer behosh ho jaaye
+toh uski rakṣā kare.
+
+Tum akela ho,
+aur Danav anek hain.
+Isi liye
+main tumhe bacha kar le ja raha hoon.”
+
+Yeh sun kar
+Makara-dhvaja-dhārī Pradyumna
+tej se bola—
+
+“Rath ghumao, Daruka-putra!
+Aur yaad rakhna—
+jab tak main jeevit hoon,
+yuddh se kabhi peeth nahi pherni!
+
+Vr̥ṣṇi-putra woh nahi
+jo yuddh chhod de,
+ya gir chuke shatru ko maare,
+ya strī, balak, vriddh par vaar kare.
+
+Tum Vr̥ṣṇi-riti jaante ho!
+Phir yeh palayan kyun?”
+
+Phir Pradyumna ke shabd
+aur bhi kathor ho gaye—
+
+“Mādhava kya kahenge
+jab unhe pata chale
+ki main peeth dikha kar bhaga?
+
+Baladeva kya kahenge?
+Sātyaki, Śāmba, Gada, Cārudeṣṇa
+kya sochenge?
+
+Aur Vr̥ṣṇi-veero ki patniyaan?
+
+Kya woh nahi kahengi—
+‘Yeh Pradyumna to kायर nikla!’
+
+Lajja mere liye mrityu se bhi bhayankar hai!”
+
+Pradyumna ki aankhon mein
+aag thi,
+par mann mein maryādā.
+
+“Hari mujhe yahan chhod kar
+Yudhiṣṭhira ke yajña mein gaye hain.
+
+Main yahan chup kaise baith sakta hoon?
+
+Kritavarman ko maine roka tha—
+‘Tum ruko, Śālva se main ladunga.’
+
+Ab yuddh chhod kar
+main uska saamna kaise karunga?”
+
+Uski aawaaz kampit thi,
+par sankalp atal—
+
+“Agar peeth par ghaav lekar
+yahan se jeeta raha,
+toh main jee hi nahi paunga!
+
+Hey Daruka-putra,
+rath ghumao!
+
+Yuddh se bhaag kar jeevan
+mere liye jeevan nahi.”
+
+Is drishya ka saar ⚔️
+
+Veer ke liye pratiṣṭhā prāṇ se bhi upar hoti hai
+
+Yuddh sirf jeet-haar nahi,
+maryādā aur aatma-samman ka parikshan hota hai
+
+Pradyumna gir kar bhi veer hi raha,
+kyunki usne bhay ko nahi,
+dharma ko chuna"""
             create_image_text_layout(
                 text_content=text2,
                 layout="full"
@@ -2499,7 +2944,25 @@ Jahan anushasan hota hai, wahan adharma haar jata hai"""
         # Section 3.3.8
         # --------------------------------------------------
         with st.expander("Section 3.3.8  Section XIX"):
-            text1 = """ """
+            text1 = """ 
+            Vasudeva bole—
+
+Pradyumna ke kathor shabd sun kar,
+Daruka ke putra ne turant,
+shaant par dridh svar mein kaha—
+
+“Hey Rukmiṇī-putra,
+main yuddh se nahi darta.
+
+Vr̥ṣṇi-riti mujhe bhali-bhaanti aati hai.
+
+Par sārathi ko sikhaya jata hai—
+veer behosh ho jaaye,
+toh pehle uski rakṣā!
+
+Tum Śālva ke baanon se
+bahut ghaayal ho chuke the.
+Isliye main rath mod kar le gaya.”"""
             create_image_text_layout(
                 "attached_assets/chapter3/3.3.8.jpg",
                 text1,
@@ -2507,7 +2970,144 @@ Jahan anushasan hota hai, wahan adharma haar jata hai"""
                 image_position="left"
             )
 
-            text2 = """ """
+            text2 = """ 
+            Phir usne gaurav se kaha—
+
+“Ab tum poori tarah sachet ho.
+
+Hey Keśava-putra,
+ab meri sārathi-kala dekho!
+
+Main Daruka ka putra hoon.
+Mujhe poori shikṣā mili hai.
+
+Ab main bina bhay
+Śālva ke vyuh mein ghusunga!”
+
+Yeh keh kar,
+sārathi ne lagam kheench li.
+
+Ghode bijli jaise daud pade.
+
+Kabhi daayein,
+kabhi baayein,
+kabhi ghoomte hue,
+kabhi seedhe—
+aise lag raha tha
+jaise zameen ko chhoo hi nahi rahe.
+
+Daruka-putra ke haath
+itne halke aur nishchit the
+ki ghode bhi uski ichchha samajh gaye.
+
+Pradyumna ne
+Śālva ki sena ke chaaro taraf
+rath ghumaya.
+
+Yeh drishya dekh kar
+sab yoddhā
+vismit reh gaye.
+
+Yeh dekh kar
+Śālva kruddh ho utha.
+
+Usne teen teekhe baan
+sārathi par chhod diye.
+
+Par Daruka-putra ne
+unhe maano dekha hi nahi.
+
+Rath apni gati mein bana raha.
+
+Phir Śālva ne
+Pradyumna par
+har prakaar ke astra barsa diye.
+
+Par Rukmiṇī-putra muskuraya.
+
+Apni adbhut phurti se
+usne sab astra
+beech mein hi kaat diye.
+
+Ab Śālva ne
+Asur-māyā ka sahara liya.
+
+Teer, teer, aur teer—
+andhakaar sa chha gaya.
+
+Tab Pradyumna ne
+Brahmāstra ka prayog kiya.
+
+Asuri astra
+akash mein hi tukdon mein toot gaye.
+
+Uske baad
+Pradyumna ke baan
+Śālva ke
+sir, vaksh aur mukh mein lage.
+
+Śālva behosh hokar
+gir pada.
+
+Sab taraf
+“Haay! Alas!”
+ki dhvani goonj uthi.
+
+Pradyumna ne
+ek aur bhayankar baan
+dhanush par chadha diya.
+
+Woh baan
+aag jaisa chamak raha tha,
+aur vishakt sarp jaise
+mrityu lekar aa raha tha.
+
+Tab Indra, Kubera
+aur devtāon ne
+Nārada aur Vāyu-dev ko bheja.
+
+Unhone Pradyumna se kaha—
+
+“Hey veer,
+yeh baan wapas le lo.
+
+Śālva tumhare haathon nahi marega.
+
+Uska ant
+Devakī-putra Śrī Kṛṣṇa ke haathon
+likha hai.
+
+Vidhi ko jhootha mat hone do.”
+
+Yeh sun kar
+Pradyumna prasann hua.
+
+Usne shreshṭh baan
+wapas tarkash mein rakh diya.
+
+Ghaayal,
+mann se toota hua Śālva
+uth khada hua.
+
+Apne chamakdar
+Saubha-rath par chadha
+aur aakash mein uḍ gaya.
+
+Dvārikā se
+bhaag nikla.
+
+Is khand ka saar ⚔️
+
+Sārathi aur veer ka rishta
+kartavya aur vishvaas par tikta hai
+
+Veer ka kaushal
+jab maryādā se jud jaaye
+toh vidhi bhi bol uthti hai
+
+Pradyumna jeet sakta tha,
+par vidhi ka aadesh maanne mein
+bhi veerta hoti hai"""
             create_image_text_layout(
                 text_content=text2,
                 layout="full"
@@ -2517,7 +3117,16 @@ Jahan anushasan hota hai, wahan adharma haar jata hai"""
         # Section 3.3.9
         # --------------------------------------------------
         with st.expander("Section 3.3.9  Section XX"):
-            text1 = """ """
+            text1 = """ 
+            Vasudeva bole—
+
+Jab Śālva Anartta-nagar chhod kar chala gaya,
+tab, hey rājā,
+tumhare Rājasūya yajña ke baad
+main Dvārakā laut aaya.
+
+Par jo dekha,
+mera hriday bhar aaya।"""
             create_image_text_layout(
                 "attached_assets/chapter3/3.3.9.jpg",
                 text1,
@@ -2525,7 +3134,182 @@ Jahan anushasan hota hai, wahan adharma haar jata hai"""
                 image_position="left"
             )
 
-            text2 = """ """
+            text2 = """ 
+            Nagar ki chamak bujh chuki thi.
+Na Vedón ka swar,
+na yajñón ki aahuti.
+
+Sundar striyaan
+abhooshan thi.
+Udyān soone the.
+Har chehre par chinta aur shok.
+
+Main ghabra gaya.
+Aur Hṛdik-putra Kritavarman se poocha—
+
+“Hey veer,
+Vr̥ṣṇi-nagar itna dukhi kyun hai?”
+
+Usne mujhe
+Śālva ka akraman
+aur uski udaan
+sab kuchh bata diya.
+
+Sab sun kar
+mera nishchay pakka ho gaya—
+
+Śālva ka ant nishchit hai.
+
+Main nagar ke veeron se bola—
+
+“Hey Yādav-shreshṭho!
+Tum nagar ki rakṣā karo.
+
+Main Śālva ko maar kar hi lautunga.
+
+Saubha-rath ke saath
+uska vinaash karunga.
+
+Dundubhi bajao—
+shatru ke hriday kaanp jaaye!”
+
+Sab veeron ne kaha—
+“Jaao, vijay paao!”
+
+Brāhmaṇon ke aashirvaad ke saath,
+Śiva ko naman karke,
+main apne rath par chadha.
+
+Saivya aur Sugrīva
+ghode jute hue the.
+
+Main Pañcajanya shankh phoonka—
+akash goonj utha.
+
+Chaaron prakaar ki sena ke saath
+main nikal pada.
+
+Desh, parvat, nadiyaan
+peeche chhoot ti gayi.
+
+Ant mein
+Mātrikāvarta pahucha.
+
+Wahin suna—
+Śālva apne chamakdar Saubha-rath par
+samudra ke paas ghoom raha hai.
+
+Main uske peeche gaya.
+
+Samudra ke beech,
+lahron ke upar,
+uska rath akash mein tha.
+
+Door se dekh kar
+usne mujhe lalkaara.
+
+Maine baan chhode—
+par rath bahut door tha.
+
+Mera krodh badha.
+
+Śālva ne
+hazaaron teer barsa diye.
+
+Mere sainikon,
+mere ghodon,
+mere sārathi Daruka—
+sab par teer.
+
+Pal bhar ko
+mujhe kuchh dikhai nahi diya.
+
+Par maine dhairya nahi chhoda.
+
+Mantron se bhare
+hazaaron teer
+maine bhi chhode.
+
+Saubha-rath
+itna upar tha
+ki meri sena
+sirf dekh sakti thi—
+
+Par ve garaj kar utsaah badha rahe the.
+
+Mere teer
+Danavon ke sharir mein
+keenon jaise ghus rahe the.
+
+Ghaayal Danav
+samudra mein gir rahe the.
+Jal-jantu unhe nigal rahe the.
+
+Tab maine
+Pañcajanya zor se phoonka.
+
+Shankh-naad ne
+dishaon ko kaanpa diya.
+
+Śālva ne dekha—
+uski sena gir rahi hai.
+
+Tab usne
+Asuri māyā ka sahara liya.
+
+Gada, hal, shakti,
+talvaar, parshu,
+aag jaise teer—
+sab meri taraf.
+
+Par main shaant raha.
+
+Prati-māyā se
+maine sab nasht kar diya.
+
+Phir Śālva ne
+parvat-shikhar phenkne shuru kiye.
+
+Akash ajeeb ho gaya.
+
+Kabhi andhera,
+kabhi roshni.
+Kabhi garmi,
+kabhi thand.
+
+Angaar, raakh,
+astra—
+sab baras rahe the.
+
+Maine samajh liya—
+yeh sab māyā hai.
+
+Aur samay aane par
+maine Prāgṇāstra chhoda.
+
+Woh māyā
+rooi ke reshon jaise
+ud kar mit gayi.
+
+Fir prakash lauta.
+
+Yuddh fir se shuru hua.
+
+Aur main
+Śālva ke saamne
+dridh aur sthir khada raha.
+
+Is khand ka saar ⚔️
+
+Bhagavān ka krodh bhi
+niyantrit aur maryādit hota hai
+
+Asuri māyā
+divya buddhi ke aage tik nahi paati
+
+Jab dharm yuddh ho,
+tab akash, jal, aur agni
+bhi sakshi ban jaate hain"""
             create_image_text_layout(
                 text_content=text2,
                 layout="full"
