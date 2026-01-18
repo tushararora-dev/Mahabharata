@@ -3319,7 +3319,15 @@ bhi sakshi ban jaate hain"""
         # Section 3.3.10
         # --------------------------------------------------
         with st.expander("Section 3.3.10  Section XXI"):
-            text1 = """ """
+            text1 = """ 
+            Vasudeva bole—
+
+Hey rājā,
+jab Śālva mere saath yuddh karta hua
+phir se akash mein utha,
+toh us dusht ne
+jeet ki lalasa mein
+bhayankar astron ki baarish kar di."""
             create_image_text_layout(
                 "attached_assets/chapter3/3.3.10.jpg",
                 text1,
@@ -3327,7 +3335,182 @@ bhi sakshi ban jaate hain"""
                 image_position="left"
             )
 
-            text2 = """ """
+            text2 = """ 
+            Sataghnī,
+bhari gadayen,
+jalti hui shaktiyaan,
+aur bhayanak mudgar—
+sab akash se meri taraf aaye.
+
+Par main shaant raha.
+
+Mere tez baan
+un sab ko
+aane se pehle hi
+do–teen tukdon mein kaat dete.
+
+Aakash mein
+bhayankar garjana hui.
+
+Śālva ne
+mere sārathi Daruka,
+mere ghodon,
+aur mere rath par
+hundreds teer barsa diye.
+
+Tab Daruka,
+thartharate swar mein bola—
+
+“Prabhu…
+kartavya ke kaaran
+main ab tak khada hoon…
+par ab sharir
+bilkul shaktihin ho gaya hai…”
+
+Maine dekha—
+
+Daruka ka sharir
+teeron se bhara tha.
+Sir, seena, haath—
+kahin bhi ek jagah
+khaali nahi thi.
+
+Khoon beh raha tha.
+Woh laal mitti ke pahad
+jaise lag raha tha.
+
+Us pal
+maine use dhairya diya.
+
+Tabhi achanak
+Dvārakā ka ek vyakti
+mere rath ke paas aaya.
+
+Woh Ahuka ka sevak
+lag raha tha.
+
+Uski awaaz
+dukh se bhari thi.
+
+Usne kaha—
+
+“Hey Keśava…
+tumhare pitā ke mitra Ahuka ka sandesh hai…
+
+Tumhari anupasthiti mein
+Śālva ne Dvārakā par aakraman karke
+Vasudeva ko maar diya hai!
+
+Ab yuddh vyarth hai.
+Janārdana, laut chalo.
+Dvārakā ki rakṣā hi
+tumhara mukhya kartavya hai…”
+
+Yeh sunkar
+mera hriday bhaari ho gaya.
+
+Main samajh nahi paaya—
+kya karoon,
+kya na karoon.
+
+Mera mann
+Baladeva,
+Sātyaki,
+Pradyumna,
+sab par chala gaya.
+
+“Kya ve sab bhi…?”
+“Kya pitā… sach mein…?”
+
+Maine socha—
+
+Jab Baladeva jaise veer jeevit ho,
+toh Vasudeva ka vadh kaise?
+
+Par phir mann ne kaha—
+shayad sab nasht ho chuke hain.
+
+Is soch ne
+mujhe shok-sāgar mein daal diya.
+
+Isi dukh ke saath
+main phir Śālva ka saamna karne laga.
+
+Tabhi, hey rājā—
+maine dekha—
+
+Mera pitā Vasudeva
+Saubha-rath se
+gir rahe hain!
+
+Unka mukut bikhar gaya.
+Vastra ast-vyast.
+Sharir neeche ja raha tha—
+
+Bilkul aisa
+jaise Yayāti swarg se gir raha ho.
+
+Yeh dekh kar
+mere haath se Śārṅga dhanush
+chhoot gaya.
+
+Meri aankhon ke saamne
+andhera chha gaya.
+
+Main murchhit ho gaya.
+
+Rath ke kinare
+baith gaya.
+
+Sena cheekh uthi—
+
+“Haay! Haay!”
+
+Pitā
+pakshi jaise
+neeche girte dikh rahe the.
+
+Shatru veeron ne
+un par astr chalaye.
+
+Mera hriday kaanp gaya.
+
+Par agle hi pal—
+
+meri chetna lauti.
+
+Maine dekha—
+
+Na Saubha-rath.
+Na Śālva.
+Na pitā.
+
+Tab mujhe spasht ho gaya—
+
+👉 Yeh sab Māyā hai.
+👉 Asuri bhram.
+
+Main poori tarah
+sambhal gaya.
+
+Aur phir—
+
+sau-sau teer
+maine dobara chhode.
+
+Iss baar
+poore bodh ke saath.
+
+Is khand ka saar 🌑➡️🌕
+
+Asur yuddh mein bhavnatmak bhram bhi laate hain
+
+Bhagavān bhi līlā mein mānush-bhaav dikhate hain
+
+Par vivek jagte hi māyā toot jaati hai
+
+Dharm-yoddhā ka bal
+buddhi + sthirata se aata hai"""
             create_image_text_layout(
                 text_content=text2,
                 layout="full"
@@ -3337,7 +3520,19 @@ bhi sakshi ban jaate hain"""
         # Section 3.3.11
         # --------------------------------------------------
         with st.expander("Section 3.3.11  Section XXII"):
-            text1 = """ """
+            text1 = """ 
+            Vasudeva bole—
+
+Hey Bharata-shreshṭha,
+phir maine Śārṅga dhanush uthaya
+aur dev-shatru Dānavon ke
+sir kaatne laga—
+us sone-jaise uḍte rath (Saubha) se.
+
+Mere baan
+saap jaise tedhe,
+bahut ūnchā jaane wale,
+aur bhayanak shakti se bhare the."""
             create_image_text_layout(
                 "attached_assets/chapter3/3.3.11.jpg",
                 text1,
@@ -3345,7 +3540,188 @@ bhi sakshi ban jaate hain"""
                 image_position="left"
             )
 
-            text2 = """ """
+            text2 = """ 
+            Par achanak—
+Saubha-rath gaayab ho gaya!
+Sirf māyā.
+
+Main vismit reh gaya.
+
+Tab charon taraf se
+Dānavon ki
+bhayankar cheekh-pukaar gūnj uṭhi.
+
+Maine ek aisa astr chuna
+jo sirf dhvani (awaaz) ko pakad kar
+shatru ko bhed deta tha.
+
+Jaise hi maine chhoda—
+
+🔇 Shor band.
+☀️ Tez baan chamke.
+
+Jo bhi chilaya—
+aasmaan mein,
+chhupe hue,
+adrishya—
+sab nasht ho gaye.
+
+Har disha se phir shor—
+aur har disha mein
+meri pratighaati shakti.
+
+Tab Saubha nagar
+phir pragat hua—
+is baar Prāgjyotiṣa ke paas.
+
+Aur achanak—
+pathron ki baarish!
+
+Itni bhari
+ki main,
+mere ghode,
+saarthi,
+rath—
+sab pahaad ke neeche dab gaye.
+
+Main
+deemak ke teele jaisa
+dikhne laga.
+
+Meri sena
+ghabra kar bhag uthi.
+
+Aakash, prithvi, antariksh—
+sab jagah
+“Haay! Haay!”
+
+Mere mitr ro pade.
+Shatru prasann ho gaye.
+
+Par tab—
+maine Indra ke vajra jaise astr se
+saare pathar
+choor-choor kar diye!
+
+Mere ghode
+lagbhag marne wale the,
+kaamp rahe the.
+
+Par jaise hi
+main dikha—
+sabke chehre par
+surya uday jaisi khushi chha gayi.
+
+Tab Daruka bola—
+
+“Prabhu!
+Woh raha Śālva—
+ab komalta chhod do.
+
+Yeh shatru
+shaant upaayon se
+jeetne layak nahi.
+
+Isse abhi nasht karo!
+Dvārakā ka vidhwansak
+mitra nahi ho sakta!”
+
+Main samajh gaya—
+yeh satya hai.
+
+Maine kaha—
+“Daruka, zara rukna.”
+
+Aur tab—
+
+🔥 divya agni-astr
+maine dhanush par chadhaaya.
+
+Phir, krodh aur mantra ke saath—
+maine chhoda
+apna priya astr:
+
+🟡 Sudarśana Chakra 🟡
+
+Woh doosre surya jaisa
+yug-anta ke samaan chamka.
+
+Sudarśana ne
+Saubha nagar ko
+aise kaata
+jaise aara
+vriksh ko kaat de.
+
+Tripura ke patan jaisa
+Saubha do tukdon mein gira.
+
+Chakra lauta—
+maine phir kaha—
+
+“Ab Śālva ke paas jao.”
+
+⚔️ Śālva ka sharir do bhaagon mein kata.
+🔥 Shatru jal utha.
+😱 Dānav-striyan bhaag uṭhīn.
+
+Maine śaṅkha bajaya—
+mitron ke hriday khil uthe.
+
+Saubha
+Meru jaise uncha tha—
+ab raakh tha.
+
+Dvārakā lautkar
+maine apnon ko
+anand diya.
+
+Aur isliye—
+hey rājā,
+main us samay
+Hastināpura nahi aa saka.
+
+Agar aata—
+toh Suyodhana zinda na rehta,
+ya dyūt-kreeda hoti hi nahi.
+
+Par—
+bandh toot jaaye,
+toh paani kaise roka jaaye?
+
+Antim drishya 🌅
+
+Krishna ne
+Pandavon ko pranam kiya.
+
+Yudhiṣṭhira ne
+aadar diya.
+Bhīma ne
+sir soongha.
+Arjuna ne
+baahon mein bhar liya.
+
+Draupadī
+aankhon se poojne lagi.
+
+Subhadrā aur Abhimanyu ke saath
+Krishna Dvārakā ke liye nikle.
+
+Aur Kamyaka van mein
+Pandav
+apni yatra ke liye
+tayyar hue.
+
+Is adhyaay ka saar ✨
+
+Māyā ka ant vivek + divya shakti se hota hai
+
+Sudarśana = dharma ka nirṇayak astr
+
+Jab samay nikal jaaye,
+toh pachtawa reh jaata hai
+
+Bhagavān bhi kehte hain:
+“Ab kya… bandh toot chuka hai.”"""
             create_image_text_layout(
                 text_content=text2,
                 layout="full"
@@ -3355,7 +3731,15 @@ bhi sakshi ban jaate hain"""
         # Section 3.3.12
         # --------------------------------------------------
         with st.expander("Section 3.3.12  Section XXIII"):
-            text1 = """ """
+            text1 = """ 
+            Krishna ke jaane ke baad,
+Yudhishthira, Bhīma, Arjuna,
+aur Nakula–Sahadeva
+mehngē rathon par chadhe.
+
+Ghode shreshṭh the.
+Chehre tej se chamak rahe the.
+Par mann bhaari tha."""
             create_image_text_layout(
                 "attached_assets/chapter3/3.3.12.jpg",
                 text1,
@@ -3363,7 +3747,119 @@ bhi sakshi ban jaate hain"""
                 image_position="left"
             )
 
-            text2 = """ """
+            text2 = """ 
+            Chalte waqt,
+Pandavon ne Brāhmaṇon ko
+sona, vastra aur gaayein daan ki.
+Yeh unka dharm tha.
+
+Beech-beech mein
+bees yoddhā
+hathiyaaron ke saath chal rahe the.
+
+Rajkumāri ke kapde,
+gehne,
+daaiyan aur sevikaayein—
+sab saath thi.
+
+Indrasena
+tez rath par
+peeche-peeche aaya.
+
+Jab ve aage badhe,
+Kurujāṅgala ke nagrik
+unke paas aa gaye.
+
+Brāhmaṇon ne
+prem se aashirvaad diya.
+Yudhishthira ne bhi
+vinamr namaskar kiya.
+
+Thodi der
+vahaan ruke.
+
+Rāja ne
+logon ko aise dekha
+jaise pita
+apne bachchon ko dekhta hai.
+
+Aur log—
+unhe apna pita maan rahe the.
+
+Tab logon ki aankhon mein
+aansoo aa gaye.
+
+Sab bole—
+
+“Haay Prabhu!
+Haay Dharm!”
+
+“Tum hi hamare rāja ho.
+Tum hi hamare rakshak ho.
+Phir humein chhodkar
+van kyon ja rahe ho?”
+
+“Dhritarāshṭra ka beta nirdayi hai!
+Suvala ka beta bhi durbuddhi hai!
+Aur Karna—
+un sab ka saath dene wala!”
+
+Log bole—
+
+“Tumne Indraprastha basaya.
+Swarg jaisa nagar.
+Māyā ka banaya hua
+adbhut mahal.
+
+Usse chhodkar
+kahaan ja rahe ho,
+hey Dharm ke putra?”
+
+Unki awaaz
+kamp rahi thi.
+Dil bhar aaye the.
+
+Tab Arjuna aage aaye.
+Unki awaaz sthir thi.
+
+Unhone kaha—
+
+“Vanvaas mein rehkar
+rāja
+apne shatruon ka
+jhootha maan todna chahte hain.
+
+Aap sab—
+rishiyon ke paas jaaiye.
+Unse ashirvaad maangiye.
+Yahi hamare
+param hit ka raasta hai.”
+
+Yeh sunkar,
+Brāhmaṇ aur nagrik
+Pandavon ke chaaron or ghoome.
+
+Sabne namaskar kiya.
+Aankhen bhaari thi.
+
+Phir dheere-dheere
+apne gharon ki taraf
+laut gaye.
+
+Dil bhaari tha.
+Par vishvaas bhi tha.
+
+Is drishya ka bhaav 🌿
+
+Rāja sirf shāsak nahi, parivaar hota hai
+
+Dharm ka raasta aksar tyaag maangta hai
+
+Sachchai ke saath chalne wale
+akela mehsoos hote hain
+
+Par unke saath
+logon ka aashirvaad hota hai"""
             create_image_text_layout(
                 text_content=text2,
                 layout="full"
@@ -3373,7 +3869,18 @@ bhi sakshi ban jaate hain"""
         # Section 3.3.13
         # --------------------------------------------------
         with st.expander("Section 3.3.13  Section XXIV"):
-            text1 = """ """
+            text1 = """ 
+            Yudhishthira—
+Kuntī ke dharm-putra,
+apne vachan par atal,
+bhaiyon se bole:
+
+“Hamein baarah saal
+is nirjan van mein rehna hai.
+Isliye aisa sthaan dhundo
+jo shubh ho, sundar ho—
+jahan pakshi, hiran, phal, phool ho,
+aur jahan rehna sukhdayak ho.”"""
             create_image_text_layout(
                 "attached_assets/chapter3/3.3.13.jpg",
                 text1,
@@ -3381,7 +3888,85 @@ bhi sakshi ban jaate hain"""
                 image_position="left"
             )
 
-            text2 = """ """
+            text2 = """ 
+            Yeh sunkar Arjuna (Dhananjaya)
+raja ko aise naman kiya
+jaise guru ko kiya jaata hai,
+aur bole:
+
+“Aapne bade-bade rishiyon ki seva ki hai—
+Dvaipāyana (Vyāsa), Nārada jaise
+maha-yogiyon ke saath sampark raha hai.
+
+Isliye jo aap nirṇay lenge,
+wahi hamare liye shubh hoga.
+
+Phir bhi, yahan paas hi
+Dvaitavana naam ka pavitra jheel hai—
+phoolon se bhara,
+pakshiyon se gunjta hua.
+Agar aap chahein,
+hum yahin apna vanvaas bita sakte hain.”
+
+Yudhishthira ne shant mann se kaha:
+
+“Partha, tumhara vichaar
+mujhe bhi uchit lagta hai.
+Chalo, Dvaitavana chalte hain.”
+
+🌿 Dvaitavana ka Divya Drishya
+5
+
+Pandav
+anek Brāhmaṇon aur tapassviyon ke saath
+us pavitra van mein pravesh karte hain.
+
+Koi agnihotra karta hai,
+koi ved-adhyayan,
+koi bhiksha par jeevan,
+aur koi vanaprastha jeevan mein sthit.
+
+Van mein dikhta hai—
+
+Śāla, Aam, Kadamba, Madhuka, Arjuna ke vriksh
+
+Mor, Kokil, Chakora ki madhur dhwani
+
+Hathi—parvat jaise,
+mad-matt avastha mein
+
+Sarasvatī (Bhogavatī) nadi ke kinare
+jata-dhaari rishi, bark ke vastron mein
+
+Yeh van jeevit lagta hai—
+tap, shanti aur prakriti ka sangam.
+
+Pandav rathon se utarte hain.
+Yudhishthira aise lagte hain
+jaise Indra swarg mein pravesh kar raha ho.
+
+Siddh, Chāraṇ,
+aur van-nivasi rishi
+unke darshan ke liye aate hain.
+
+Sab ek maha-vriksh ke neeche baithte hain—
+phoolon aur latāon se jhukta hua.
+
+Paanch maha-dhanurdhar
+uske neeche vishraam karte hue
+aise lagte hain
+jaise paanch hathi parvat ke paas
+shant ho kar khade ho.
+
+🌸 Is adhyay ka saar
+
+Vanvaas palayan nahi, saadhana hai
+
+Raja dharm se alag nahi hota,
+chahe singhāsan ho ya van
+
+Prakriti bhi
+satpurushon ka swaagat karti hai"""
             create_image_text_layout(
                 text_content=text2,
                 layout="full"
@@ -3391,7 +3976,17 @@ bhi sakshi ban jaate hain"""
         # Section 3.3.14
         # --------------------------------------------------
         with st.expander("Section 3.3.14  Section XXV"):
-            text1 = """ """
+            text1 = """ 
+            Vanvaas ke dukh ke baad,
+Pandavon ko Dvaitavana ke van mein
+antatah ek sukhad nivaas mil gaya.
+
+Yeh van—
+Śāla vrikshon se bhara,
+Sarasvatī ke jal se pavitra,
+jahaan Pandav
+Indra ke saman tejashvi lagte hue
+shant roop se rehne lage."""
             create_image_text_layout(
                 "attached_assets/chapter3/3.3.14.jpg",
                 text1,
@@ -3399,7 +3994,120 @@ bhi sakshi ban jaate hain"""
                 image_position="left"
             )
 
-            text2 = """ """
+            text2 = """ 
+            🌿 Yudhishthira ka Dharma
+
+Raja Yudhishthira—
+Kuru-vansh ke shreshṭh putra—
+van ke Yatiyon, Muniyon aur Brāhmaṇon
+ko phal aur kand-mool arpan karke
+unhe santusht karne lage.
+
+Unke purohit Dhaumya Ṛṣi,
+pitā saman snehi hokar,
+Ishti aur Paitreya yagya
+niyamit roop se karte rahe.
+
+Vanvaas ka jeevan
+sirf kathin nahi,
+dharm-may ban gaya.
+
+🌸 Mārkaṇḍeya Ṛṣi ka Aagaman
+
+Isi samay,
+ek divya atithi aaye—
+MahāṚṣi Mārkaṇḍeya,
+jo devon aur manushya-rishiyon
+dono dwara vandit the.
+
+Yudhishthira ne
+vinamr bhav se unka samman kiya.
+
+Mārkaṇḍeya Ṛṣi ne
+Draupadī, Bhīma, Arjuna aur Yudhishthira
+ko tapasviyon ke beech dekha—
+aur muskuraye.
+
+Yeh dekhkar
+Yudhishthira ne poocha:
+
+“Sab rishi mujhe dekhkar dukhi hain,
+par aap muskurā kyun rahe hain?”
+
+🔥 Rāma ka Smaran
+
+Mārkaṇḍeya bole:
+
+“Putra, main anand se nahi muskuraya.
+Tumhari dasha dekhkar
+mujhe Rāma yaad aa gaye.”
+
+Unhone kaha—
+
+Rāma, jo Indra jaise shaktishali the
+
+Jo Yama ke saman nyaypriya the
+
+Jo Namuchi ke vināshak the
+
+Phir bhi,
+pitā ke vachan par
+van mein rahe.
+
+“Isliye, koi bhi yeh sochkar
+adharm na kare—
+‘Main shaktishali hoon’.”
+
+📜 Dharm ke Udāharan
+
+Mārkaṇḍeya ne kaha:
+
+Nabhāga, Bhagiratha jaise rājā
+satya ke bal par
+swarg ko prapt hue
+
+Kāśī–Karuṣa ke rājā
+rajya tyag kar bhi
+dharm ke maarg par chale
+
+Saptarishi
+Vedo ke niyam palan se
+aakash mein prakashit hue
+
+Bade-bade hathi bhi
+srishti ke niyam ka ulanghan nahi karte
+
+“Jab prakriti bhi niyam maanti hai,
+to manushya ko
+ghamand kyun?”
+
+🌟 Yudhishthira ke liye Aashvasan
+
+Ant mein Ṛṣi ne kaha:
+
+“Satya, vinamrata aur sadachar mein
+tum sab se aage ho.
+
+Yeh vanvaas tumhara
+dharm aur tej ko aur nikhaarega.
+
+Samay aane par,
+tum apni hi shakti se
+Kauravon se apna rajya wapas loge.”
+
+Yeh kehkar,
+Mārkaṇḍeya Ṛṣi
+Pandavon aur Dhaumya ko naman karke
+uttar disha ki or chal pade.
+
+🌼 Is adhyaay ka saar
+
+Vanvaas pariksha hai, dand nahi
+
+Shakti se bada dharm hota hai
+
+Jo satya par tika rahta hai,
+samay uska saathi ban jaata hai"""
             create_image_text_layout(
                 text_content=text2,
                 layout="full"
