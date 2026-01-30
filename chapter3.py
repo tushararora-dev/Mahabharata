@@ -5061,7 +5061,20 @@ Yahan Mahābhārata ka sabse kathin sawal uthta hai:
         # Section 3.3.20
         # --------------------------------------------------
         with st.expander("Section 3.3.20  Section XXXI"):
-            text1 = """ """
+            text1 = """ 
+            🌗 Section XXXI – Yudhishthira ka Uttar (Shraddha, Dharma aur Kartavya)
+
+(Hinglish • calm, deep, moral-story tone)
+
+Yudhishthira bole.
+Unki awaaz shaant thi,
+par shabd bahut gehre.
+
+“Yajñaseni,”
+“tumhari baatein
+meethi hain,
+sundar hain,
+aur shabdon se bhari hui hain.”"""
             create_image_text_layout(
                 "attached_assets/chapter3/3.3.20.jpg",
                 text1,
@@ -5069,7 +5082,206 @@ Yahan Mahābhārata ka sabse kathin sawal uthta hai:
                 image_position="left"
             )
 
-            text2 = """ """
+            text2 = """ 
+            “Humne dhyaan se
+sab suna.”
+
+“Par jo tum keh rahi ho,
+usme nāstikta ka rang hai.”
+
+“Main kabhi bhi
+karma ke phal ke liye
+karm nahi karta.”
+
+“Main daan karta hoon
+kyunki daan karna mera kartavya hai.”
+
+“Main yagya karta hoon
+kyunki yagya karna mera dharm hai.”
+
+“Grihastha ke roop mein
+jo bhi karna chahiye,
+main apni poori shakti se karta hoon—
+yeh soche bina
+ki phal milega ya nahi.”
+
+“Main dharm isliye nahi karta
+ki mujhe uska phal chahiye,
+balki isliye
+ki main Ved ke niyamon ka ullanghan na karoon
+aur sajjanon ka aacharan dekhkar seekhoon.”
+
+“Mera mann
+swabhav se hi
+dharm ki ore jhukta hai.”
+
+“Jo vyakti dharm ka phal chah kar dharm karta hai,
+woh dharm ka vyapari hai.”
+
+“Uska svabhav chhota hota hai,
+aur woh kabhi
+sach mein dharmik nahi hota.”
+
+“Na hi use
+uske karm ka phal milta hai.”
+
+“Aur jo vyakti
+dharmik karma karke bhi
+mann mein sandeh rakhta hai,
+use bhi phal nahi milta.”
+
+“Main Vedon ke aadhar par keh raha hoon—
+dharm par kabhi sandeh mat karo.”
+
+“Jo dharm par sandeh karta hai,
+use pashu-yoni milti hai.”
+
+“Jo vyakti kam buddhi ka ho
+aur dharm, Ved aur Rishiyon par sandeh kare,
+woh amar aur aanand ke lok se
+vanjit ho jaata hai.”
+
+“Jaise Shudra
+Ved ke adhikar se vanchit hote hain.”
+
+“Agar kisi achhi kul mein janma bachcha
+Ved padhe
+aur achha aacharan rakhe,
+toh raja-rishi
+use vriddh muni ke saman maante hain—
+chahe woh yuva hi kyun na ho.”
+
+“Par jo paapi
+dharm par sandeh kare
+aur shastron ka ullanghan kare,
+woh lutere aur nich se bhi
+neeche maana jaata hai.”
+
+“Tumne khud dekha hai
+Maharshi Markandeya ko.”
+
+“Sirf dharm ke bal par hi
+unhone sharir sahit amaratva paya.”
+
+“Vyasa, Vashishtha, Maitreya,
+Narada, Lomasa, Shuka—
+yeh sab sirf dharm se
+shuddh atma wale bane.”
+
+“Tum unhe apni aankhon se dekhti ho—
+devtaon se bhi shreshth,
+shraap aur vardaan dene mein saksham.”
+
+“Yeh Rishi
+Ved mein likha hua
+apni aankhon se dekhte hain.”
+
+“Isliye, he priye,
+tumhe Ishwar ya dharm par
+sandeh nahi karna chahiye.”
+
+“Jo murkh
+sirf apni tark-shakti par ghamand karta hai,
+aur Rishiyon ko paagal samajhta hai,
+woh sirf bahari sukh dekhta hai.”
+
+“Uski aankhein
+antar-satya se andhi hoti hain.”
+
+“Jo dharm par sandeh karta hai,
+uske liye
+koi praayashchit nahi hota.”
+
+“Woh chinta se bhara rehta hai
+aur swarg ke lok nahi paata.”
+
+“Par jo shraddha ke saath
+dharm ka palan karta hai,
+use anant aanand milta hai.”
+
+“Jo Rishiyon ke pramaan ko thukrata hai,
+use na is jeevan mein
+aur na agle jeevan mein
+sukh milta hai.”
+
+“Dharm hi ek naav hai,
+jo swarg jaane walon ko
+sansaar ke samundar se paar karati hai.”
+
+“Agar dharm ka koi phal na hota,
+toh yeh sansaar
+andhkaar mein doob jaata.”
+
+“Na koi moksha chaahta,
+na gyaan,
+na dhan.”
+
+“Log pashuon ki tarah jeete.”
+
+“Agar tapasya, brahmacharya, yagya,
+Ved-adhyayan, daan, satya—
+sab nishphal hote,
+toh peedhi-dar-peedhi
+log dharm kyun apnaate?”
+
+“Rishi, devta, Gandharva, Rakshas—
+sab dharm ka palan karte hain
+kyunki Ishwar phal dene wala hai.”
+
+“Tum apne janm ko yaad karo,
+aur Dhrishtadyumna ke janm ko bhi.”
+
+“Yeh sab
+dharm ke phal ke pramaan hain.”
+
+“Jo mann ko niyantran mein rakhte hain,
+woh thode mein bhi santusht rehte hain.”
+
+“Murkh log
+zyada paakar bhi
+khush nahi hote.”
+
+“Karma ka phal
+aur uska rahasya
+devtaon ke liye bhi
+gehra hai.”
+
+“Isliye,
+agar tumhe phal na dikhe,
+toh bhi dharm par sandeh mat karo.”
+
+“Yagya shraddha se karo,
+daan vinamrata se.”
+
+“Karma ka phal hota hai,
+aur dharm shashvat hai.”
+
+“Brahma ne yeh satya
+apne putron ko bataya hai.”
+
+“Isliye, he Krishna,
+apna sandeh chhod do.”
+
+“Ishwar ki ninda mat karo.”
+
+“Unhe samjho,
+unhe naman karo.”
+
+“Us Supreme Being ko kabhi tuchchh mat samajhna,
+jinki kripa se
+manav
+dharm ke dwara
+amarata ko paata hai.”
+
+🌱 Is Section ki Seekh (Simple Words mein):
+
+Yudhishthira = Nishkaam Dharma (kartavya bina phal ke lobh ke)
+
+Shraddha > Tark
+
+Dharm ka phal turant dikhe ya na dikhe, phir bhi dharm satya hai
+
+Sandeh se nahi, vishwas se jeevan chalata hai"""
             create_image_text_layout(
                 text_content=text2,
                 layout="full"
@@ -5079,7 +5291,20 @@ Yahan Mahābhārata ka sabse kathin sawal uthta hai:
         # Section 3.3.21
         # --------------------------------------------------
         with st.expander("Section 3.3.21  Section XXXII"):
-            text1 = """ """
+            text1 = """ 
+            🌾 Section XXXII – Draupadi ka Vichaar (Karma, Prayās aur Umeed)
+
+(Hinglish • short sentences • children’s / moral-story tone)
+
+Draupadi boli.
+Uski awaaz bhaari thi.
+Dukh se bhari hui.
+
+“Pritha ke putra,”
+“main dharm ka apmaan kabhi nahi karti.”
+
+“Bhagwan ko kaise ninda kar sakti hoon,
+jo sab praniyon ke swami hain?”"""
             create_image_text_layout(
                 "attached_assets/chapter3/3.3.21.jpg",
                 text1,
@@ -5087,7 +5312,212 @@ Yahan Mahābhārata ka sabse kathin sawal uthta hai:
                 image_position="left"
             )
 
-            text2 = """ """
+            text2 = """ 
+            “Main sirf dukh se boli hoon.”
+“Mujhe roti hui samajh lo.”
+
+“Par meri baat dhyaan se suno.”
+
+“Is duniya mein
+har jeev ko kuch na kuch karna hi padta hai.”
+
+“Sirf patthar aur ped
+bina kuch kiye reh sakte hain.”
+
+“Chalne-phirne wale prani
+bina karma ke nahi jee sakte.”
+
+“Bachcha janm lete hi
+maa ka doodh peeta hai.”
+
+“Mantra se murti ko dard hota hai.”
+
+“Isse pata chalta hai
+ki pichhle janm ke karm
+is janm ko chalaate hain.”
+
+“Sab prani
+apne purva-janm ke karmon se
+phal paate hain.”
+
+“Yeh niyam
+sab par lagu hota hai.”
+
+“Par manushya alag hai.”
+
+“Manushya
+iss aur agle jeevan ko
+apne karm se badalne ki koshish karta hai.”
+
+“Isliye, O Bharata,”
+“bina karma ke
+jeevan chal hi nahi sakta.”
+
+“Tumhe bhi karma karna chahiye.”
+“Haath par haath rakhkar baithna
+tumhe ninda ka paatra bana dega.”
+
+“Karma ko
+apna kavach bana lo.”
+
+“Agar sirf kharch karte rahoge
+aur kamane ki koshish nahi karoge,
+toh Himavat jitna dhan bhi
+khatm ho jaayega.”
+
+“Agar karma na hota,
+toh duniya ke sab prani
+kab ke khatam ho jaate.”
+
+“Kuch log kehte hain
+sab kuch bhagya se hota hai.”
+
+“Kuch kehte hain
+sab kuch sanyog se hota hai.”
+
+“Par jo log
+sirf bhagya par bharosa karke
+baithe rehte hain,
+woh sabse kamzor hote hain.”
+
+“Woh us kachche matke jaise hote hain
+jo paani mein turant toot jaata hai.”
+
+“Jo kehta hai
+‘sab sanyog hai’
+aur phir kuch nahi karta,
+woh bhi zyada jee nahi paata.”
+
+“Isliye jo log
+karma ki shakti mein vishwas rakhte hain,
+wahi prashansaniya hote hain.”
+
+“Jo bina prayās ke dhan milta hai,
+use log sanyog kehte hain.”
+
+“Jo dharm se milta hai,
+use bhagya kehte hain.”
+
+“Par jo apni mehnat se milta hai,
+woh apni yogyata ka pramaan hota hai.”
+
+“Sach yeh hai ki
+yeh sab bhi
+pichhle janm ke karmon ka hi phal hai.”
+
+“Bhagwan sabka hisaab rakhte hain.”
+“Wahi phal baantte hain.”
+
+“Yeh sharir
+sirf ek upkaran hai.”
+
+“Par phir bhi,”
+“manushya sochta hai,
+nirnay leta hai,
+aur phir karma karta hai.”
+
+“Isliye hum kehte hain
+ki manushya apne karm ka kaaran khud hai.”
+
+“Gaon, shehar, mahal—
+sab manushya ke karm se bane hain.”
+
+“Jo kaam jaankar kiya jaata hai,
+woh achha hota hai.”
+
+“Anjaane mein kiya kaam
+kamzor hota hai.”
+
+“Agar manushya
+apne karm ka kaaran na hota,
+toh yagya ka phal bhi na milta.”
+
+“Na guru hota,
+na shishya.”
+
+“Safalta milti hai toh prashansa hoti hai.”
+“Asafalta hoti hai toh ninda.”
+
+“Yeh sab isliye hai
+kyunki karta khud manushya hota hai.”
+
+“Kuch cheezein bhagya se milti hain.”
+“Kuch sanyog se.”
+“Kuch mehnat se.”
+
+“Iske alawa
+koi chautha raasta nahi.”
+
+“Yeh Manu ka bhi nishkarsh hai.”
+
+“Jo karma nahi karta,
+woh gir jaata hai.”
+
+“Jo karma karta hai,
+uske safal hone ki sambhavana hoti hai.”
+
+“Agar safalta na mile,
+toh bhi
+us par dosh nahi aata.”
+
+“Kisan kheti karta hai.”
+“Beej daalta hai.”
+
+“Phir baadal par chhod deta hai.”
+
+“Agar baarish na ho,
+toh bhi kisan kehta hai—
+‘maine apna kartavya nibha diya.’”
+
+“Isliye, O Bharata,”
+“koshish karke bhi asafal hone par
+nirash mat hona.”
+
+“Safalta
+kai cheezon ke milne se aati hai.”
+
+“Par bina prayās ke
+kuch bhi nahi milta.”
+
+“Samay, sadhan, buddhi, shakti—
+sab ko jodna padta hai.”
+
+“In sab mein
+parakram sabse mahatvapurn hai.”
+
+“Agar shatru balwan ho,
+toh saam, daam, bhed ka sahara lo.”
+
+“Apne shatru ki kamzori dhundo.”
+
+“Kabhi bhi
+apne aap ko kamzor mat samjho.”
+
+“Jo khud ko tuchchh samajhta hai,
+woh kabhi upar nahi uthta.”
+
+“Is duniya mein safalta
+samay aur paristhiti ke anusaar
+karma karne se milti hai.”
+
+“Yeh baatein,”
+“mere pita ke ghar
+ek vidvaan Brahman ne mujhe sikhayi thi.”
+
+“Unhone kaha tha—
+‘Karma hi jeevan ka aadhaar hai.’”
+
+🌼 Is Section ki Seekh (Simple Words):
+
+Sirf bhagya ya sanyog par baithna galat hai
+
+Karma karna zaroori hai, phal mile ya na mile
+
+Safalta = prayās + samay + paristhiti
+
+Mehnat kabhi vyarth nahi jaati
+
+Asafalta bhi seekh hoti hai"""
             create_image_text_layout(
                 text_content=text2,
                 layout="full"
@@ -5097,7 +5527,21 @@ Yahan Mahābhārata ka sabse kathin sawal uthta hai:
         # Section 3.3.22
         # --------------------------------------------------
         with st.expander("Section 3.3.22  Section XXXIII"):
-            text1 = """ """
+            text1 = """ 
+            🔥 Section XXXIII – Bhima ka Aag se Bhara Vichaar
+
+(Hinglish • short & simple • moral-story tone)
+
+Vaisampayana bole.
+Draupadi ki baat sun kar,
+Bhima ka dil bhar aaya.
+
+Usne gehri saans li.
+Aankhon mein gussa tha.
+Pair tez ho gaye.
+
+Aur woh seedha
+Yudhishthira ke paas gaya.  """
             create_image_text_layout(
                 "attached_assets/chapter3/3.3.22.jpg",
                 text1,
@@ -5105,7 +5549,221 @@ Yahan Mahābhārata ka sabse kathin sawal uthta hai:
                 image_position="left"
             )
 
-            text2 = """ """
+            text2 = """ 
+            Bhima bola,
+
+“Rajaa,
+tum purkhon ke raaste par chalo.”
+
+“Yeh jungle ka jeevan
+humein kya de raha hai?”
+
+“Na rajya hai,
+na sukh,
+na bal.”
+
+“Duryodhana ne rajya
+na dharm se jeeta,
+na shaurya se.”
+
+“Usne dhokhe ke paashe se
+sab chheen liya.”
+
+“Woh us jackal jaisa hai
+jo sher ka shikar chura leta hai.”
+
+“Hum sher hain,
+phir bhi chup baithe hain.”
+
+“Sirf ek pratigya ke liye
+itna bada dukh?”
+
+“Woh dhan,
+jo dharm aur sukh ka aadhaar hai,
+tumne chhod diya.”
+
+“Gandiva dhari Arjuna ke hote hue bhi
+rajya humse chhin gaya.”
+
+“Yeh humari kamzori nahi,
+tumhari atyadhik shaanti ka phal hai.”
+
+“Hum tumhari izzat mein
+sab kuch seh rahe hain.”
+
+“Isi ka faayda
+hamare shatru utha rahe hain.”
+
+“Jungle mein rehna
+kisi kamzor ka kaam hai.”
+
+“Koi bhi balwaan
+aise nahi jeeta.”
+
+“Na Krishna ko yeh pasand hai,”
+“na Arjuna ko,”
+“na mujhe,”
+“na Madri ke putron ko.”
+
+“Tum bas bolte ho—
+‘Dharm, Dharm’.”
+
+“Kya niraasha ne
+tumhara veeratva chheen liya?”
+
+“Jo apna rajya wapas nahi le sakta,
+wahi niraash hota hai.”
+
+“Humein kamzor samjha ja raha hai.”
+
+“Yeh baat
+mujhe yudh mein marne se bhi zyada chubhti hai.”
+
+“Agar hum yudh mein mar jaayein,
+toh swarg milega.”
+
+“Par yeh vanvaas
+zinda rehkar bhi maut jaisa hai.”
+
+“Ya toh hum sabko maar kar
+dharti ka rajya lein.”
+
+“Yahi kshatriya ka kartavya hai.”
+
+“Jo dharm
+apno ko dukh de,
+woh dharm nahi hota.”
+
+“Kabhi-kabhi
+dharm bhi kamzori ban jaata hai.”
+
+“Sirf dharm ke liye jeene wala
+aksar dukhi hi rehta hai.”
+
+“Woh sooraj ko dekh na paane wale
+andhe jaisa hota hai.”
+
+“Na sirf dhan,
+na sirf sukh,
+na sirf dharm—”
+
+“Teenon ka santulan zaroori hai.”
+
+“Shaastra kehte hain—
+subah dharm,
+dopahar dhan,
+shaam sukh.”
+
+“Zindagi ke pehle hissa mein sukh,”
+“beech mein dhan,”
+“aur ant mein dharm.”
+
+“Jo in teenon ke beech atka rehta hai,
+woh dukhi jeevan jeeta hai.”
+
+“Tum faisla karo—
+paana hai ya chhodna hai.”
+
+“Sirf daan, yagya, aur padhai
+bina dhan ke sambhav nahi.”
+
+“Rajya ke bina
+mahadaan bhi nahi hota.”
+
+“Kshatriya ke liye
+bal aur parakram hi dharm hai.”
+
+“Bhiksha ya kamzori
+tumhe shobha nahi deti.”
+
+“Arjuna aur main tumhare saath hain.”
+
+“Dushman ko mita do.”
+
+“Rajya paana hi tumhara dharm hai.”
+
+“Yeh dharm
+khud Ishwar ne
+kshatriya ke liye banaya hai.”
+
+“Bal se hi rajya milta hai.”
+
+“Bina bal ke
+sab kuch bekaar hai.”
+
+“Dhan ko beej ki tarah kharch karo,
+taaki aur dhan uge.”
+
+“Par bina soch ke kharch
+baad mein dukh deta hai.”
+
+“Thoda dharm chhod kar
+agar zyada dharm milta ho,
+toh wahi buddhimani hai.”
+
+“Shatru ke mitron ko alag karo.”
+
+“Phir shatru kamzor ho jaata hai.”
+
+“Kabhi kamzor bhi
+mil kar balwaan ko hara dete hain.”
+
+“Jaise madhumakkhiyan
+bade daku ko maar deti hain.”
+
+“Sooraj jaisa bano—
+jo bachata bhi hai
+aur jalaata bhi.”
+
+“Kshatriya ke liye
+yudh hi tapasya hai.”
+
+“Yudh mein haar bhi
+vanvaas se behtar hai.”
+
+“Aaj duniya hairaan hai
+tumhari yeh haalat dekh kar.”
+
+“Sab tumhari sachchai ki tareef karte hain,
+aur Duryodhana ki burai.”
+
+“Log kehte hain—
+jaise kutte ke chamde mein doodh,
+waise hi Duryodhana ke haath mein rajya.”
+
+“Bachche aur auratein bhi
+yeh baat dohra rahe hain.”
+
+“Isliye, O Raja,”
+“aaj hi rath par chadho.”
+
+“Brahmanon se aashirvaad lo.”
+
+“Hastinapur ki ore chalo.”
+
+“Hum sab tumhare saath hain.”
+
+“Arjuna ke teer,”
+“meri gada—”
+
+“koi seh nahi paayega.”
+
+“Indra jaise Asuron ko kuchla tha,”
+“waise hi hum bhi jeetenge.”
+
+“Phir kyun na jeetein hum apna rajya?”
+
+🌟 Is Section ki Seekh (Simple Moral):
+
+Sirf dharm par jeena bhi galat ho sakta hai
+
+Dharm + Dhan + Shakti ka santulan zaroori hai
+
+Kshatriya ke liye parakram bhi dharm hai
+
+Kamzori ko log galat samajhte hain
+
+Kabhi-kabhi nyay ke liye kathor hona padta hai"""
             create_image_text_layout(
                 text_content=text2,
                 layout="full"
@@ -5115,7 +5773,21 @@ Yahan Mahābhārata ka sabse kathin sawal uthta hai:
         # Section 3.3.23
         # --------------------------------------------------
         with st.expander("Section 3.3.23  Section XXXIV"):
-            text1 = """ """
+            text1 = """ 
+            🌿 Section XXXIV – Yudhishthira ka Shaant Par Majboot Uttar
+
+(Hinglish • short & simple • children’s / moral-story tone)
+
+Vaisampayana bole.
+Bhima ke kathor shabdon ko sun kar,
+Ajatshatru Yudhishthira ne
+thoda ruk kar
+apni saans sambhaali.
+
+Unke chehre par dard tha,
+par mann shaant tha.
+
+Phir woh bole—"""
             create_image_text_layout(
                 "attached_assets/chapter3/3.3.23.jpg",
                 text1,
@@ -5123,7 +5795,157 @@ Yahan Mahābhārata ka sabse kathin sawal uthta hai:
                 image_position="left"
             )
 
-            text2 = """ """
+            text2 = """ 
+            Yudhishthira ne kaha:
+
+“Bhima,
+jo tum keh rahe ho
+galat nahi hai.”
+
+“Tum mujhe chubhne wale shabd keh rahe ho,
+par main tumhe dosh nahi deta.”
+
+“Yeh sab meri hi galti se hua.”
+
+“Main hi paashe khelne baitha.”
+
+“Maine socha tha
+Duryodhana se uska rajya chheen lunga.”
+
+“Par maine yeh nahi socha
+ki main is khel mein anjaan hoon.”
+
+“Sakuni bahut chaalaak tha.”
+
+“Woh paashe ka jaadu jaanta tha.”
+
+“Sabke saamne
+usne mujhe hara diya.”
+
+“Main chah kar bhi
+apna mann sambhaal nahi paaya.”
+
+“Gussa aaya,
+aur gussa buddhi chheen leta hai.”
+
+“Garv, ahankaar aur ghamand
+mann ko kamzor bana dete hain.”
+
+“Isliye Bhima,
+main tumhari baaton ka bura nahi maanta.”
+
+“Jo kuch hua,
+shayad pehle se likha tha.”
+
+“Jab Duryodhana ne
+humein das bana diya,
+tab Draupadi ne hi
+humein sambhaala.”
+
+“Phir doosra khel hua.”
+
+“Us din sabke saamne
+Duryodhana ne shart rakhi.”
+
+“12 saal vanvaas,
+aur 13va saal gupt roop mein.”
+
+“Agar pehchaan ho gayi,
+toh phir se wahi saza.”
+
+“Usne kaha—
+agar tum yeh poora kar lo,
+toh rajya tumhara.”
+
+“Usne bhi wahi shart maani.”
+
+“Maine sabke saamne kaha—
+‘So be it.’”
+
+“Phir hum haar gaye
+aur vanvaas mila.”
+
+“Isi pratigya ki wajah se
+aaj hum junglon mein bhatak rahe hain.”
+
+“Duryodhana phir bhi khush nahi hua.”
+
+“Usne logon ko kaha
+hamari museebat par hansne ko.”
+
+“Par Bhima,”
+“jo pratigya sabke saamne li ho,
+use todna kaise theek ho sakta hai?”
+
+“Mere liye,”
+“galat tareeke se rajya paane se
+toh maut bhi behtar hai.”
+
+“Mujhe yaad hai Bhima,”
+“tum us din gusse mein the.”
+
+“Tum mere haath jala dena chahte the.”
+
+“Arjuna ne tumhe roka.”
+
+“Agar tab hum kuch kar paate,
+shayad aaj yeh din na dekhna padta.”
+
+“Par ab samay beet chuka hai.”
+
+“Ab kadve shabd kehne ka
+kya laabh?”
+
+“Mera sabse bada dukh yeh hai,”
+“ki us sabha mein
+hum Draupadi ko bachha nahi paaye.”
+
+“Mera dil aaj bhi jalta hai.”
+
+“Par ek baar di hui pratigya
+main tod nahi sakta.”
+
+“Bhima,”
+“achhe din phir aayenge.”
+
+“Jaise kisan beej bo kar
+fasal ka intezaar karta hai.”
+
+“Jo pehle chot khata hai,”
+“aur sahi samay par badla leta hai,”
+“uski veerta amar hoti hai.”
+
+“Aise veer ko—
+duniya yaad rakhti hai.”
+
+“Dushman jhukte hain,”
+“aur dost saath aa jaate hain.”
+
+“Par meri pratigya
+kabhi jhoothi nahi ho sakti.”
+
+“Mere liye,”
+“satya jeevan se bhi bada hai.”
+
+“Rajya,”
+“putra,”
+“yash,”
+“dhan—”
+
+“yeh sab mil kar bhi
+satya ke solahve hissa ke barabar nahi.”
+
+🌟 Is Section ki Seekh (Moral):
+
+Gussa galat faisle karwata hai
+
+Galti maan lena bhi mahaanta hai
+
+Pratigya aur satya Yudhishthira ke liye sabse upar hain
+
+Sahi samay ka intezaar bhi veerta hai
+
+Galat tareeke se jeet, jeet nahi hoti"""
             create_image_text_layout(
                 text_content=text2,
                 layout="full"
@@ -5133,7 +5955,21 @@ Yahan Mahābhārata ka sabse kathin sawal uthta hai:
         # Section 3.3.24
         # --------------------------------------------------
         with st.expander("Section 3.3.24  Section XXXV"):
-            text1 = """ """
+            text1 = """ 
+            🔥 Section XXXV – Bhima ka Aag-sa Bhara Virodh
+
+(Hinglish • emotional • moral–philosophical tone)
+
+Bhima ne kaha:
+
+“O Raja,
+insaan toh jhag (froth) jaisa hai—
+na tikne wala,
+har pal tootne wala.”
+
+“Tum samay (time) ke saath samjhauta kaise kar sakte ho,
+jab samay khud
+anant, tez aur maut jaisa hai?”"""
             create_image_text_layout(
                 "attached_assets/chapter3/3.3.24.jpg",
                 text1,
@@ -5141,7 +5977,160 @@ Yahan Mahābhārata ka sabse kathin sawal uthta hai:
                 image_position="left"
             )
 
-            text2 = """ """
+            text2 = """ 
+            “Zindagi har pal ghat rahi hai—
+jaise surma,
+jisme se har baar sui se thoda nikal jaata hai.”
+
+“Jo apni maut ka din jaanta ho,
+sirf wahi intezaar kar sakta hai.”
+
+“Hum kaise intezaar karein,
+jab har pal
+maut paas aa rahi hai?”
+
+“13 saal rukna
+matlab zindagi kam karna.”
+
+“Isse pehle ki maut aaye,
+humein apna rajya wapas lena chahiye.”
+
+“Jo apne dushman ko dand nahi deta,
+woh gandi cheez jaisa hai.”
+
+“Woh dharti par bojh hai—
+jaise kaam na kar paane wala bail.”
+
+“Aisa aadmi bina yash ke mar jaata hai.”
+
+“Raja,
+tumhara haath sona barsa sakta hai.”
+
+“Tumhara naam poori prithvi par faila hai.”
+
+“Toh phir kyun na
+shastra se rajya paao?”
+
+“Agar kisi ne apne apmaan ka badla lekar
+ussi din narak chala jaaye,
+toh woh narak bhi
+uske liye swarg ban jaata hai.”
+
+“Gussa dabana
+aag se bhi zyada jalata hai.”
+
+“Main jal raha hoon,
+din-raat neend nahi aati.”
+
+“Arjuna bhi jal raha hai—
+par sher ki tarah
+apna gussa dabaye baitha hai.”
+
+“Nakula, Sahadeva,
+maa Kunti—
+sab chup hain
+sirf tumhe khush rakhne ke liye.”
+
+“Main aur Draupadi hi
+apna dard bol rahe hain.”
+
+“Par sach yeh hai—
+sab yudh chahte hain.”
+
+“Isse bada dukh kya hoga Raja—
+ki kamzor aur neech log
+hamara rajya bhog rahe hain?”
+
+“Tum pratigya todne mein
+sharm mehsoos karte ho.”
+
+“Par sach yeh hai—
+is dukh ko koi sarah nahi raha.”
+
+“Tumhari buddhi
+sach nahi dekh rahi—
+jaise koi Veda ratta ho
+par arth na jaanta ho.”
+
+“Tum Brahman jaise dayalu ho.”
+
+“Par phir Kshatriya ghar mein
+paida kaise hue?”
+
+“Kshatriya dharm
+seedha nahi,
+tedha bhi hota hai.”
+
+“Toh phir Duryodhan ko
+maaf kyun kar rahe ho?”
+
+“Tumhare paas
+buddhi, shakti, shastra, janm—
+sab kuch hai.”
+
+“Toh phir kyun
+hilte bhi nahi?”
+
+“Tum toh aise lagte ho
+jaise bada sa saanp
+jo hila bhi nahi.”
+
+“Tumhe chhupaana
+Himalaaya ko ghaas se dhakne jaisa hai.”
+
+“Suraj kabhi chhup nahi sakta.”
+
+“Arjuna kaise chhupa rahega?”
+
+“Nakula-Sahadeva
+do yuva sher jaise hain—
+kaise chhupenge?”
+
+“Draupadi—
+poori duniya jaanti hai use.”
+
+“Main bhi bachpan se pehchana jaata hoon.”
+
+“Toh gupt vaas kaise hoga?”
+
+“Humne kai raja haraye the.”
+
+“Woh sab ab Duryodhan ke saath milkar
+hum par nazar rakhenge.”
+
+“Agar ek bhi pehchaan ho gayi—
+toh sab kuch phir se shuru.”
+
+“Hum pehle hi
+13 mahine jungle mein reh chuke hain.”
+
+“Maana jaaye
+jaise 13 saal.”
+
+“Jaise Soma ke badle pot-herb.”
+
+“Ya phir pratigya todne ka paap
+daan se dhoya jaa sakta hai.”
+
+“Isliye Raja—
+nirnay lo.”
+
+“Dushmanon ko maaro.”
+
+“Yudh se bada koi dharm nahi
+Kshatriya ke liye.”
+
+🌟 Is Section ki Gehri Seekh:
+
+Bhima karm, shakti aur turant action ka prateek hai
+
+Woh maanta hai: intezaar = kamzori
+
+Kshatriya dharm mein yudh bhi dharm hai
+
+Sirf daya kabhi-kabhi anyay ban jaati hai
+
+Samay kisi ka intezaar nahi karta"""
             create_image_text_layout(
                 text_content=text2,
                 layout="full"
@@ -5151,7 +6140,24 @@ Yahan Mahābhārata ka sabse kathin sawal uthta hai:
         # Section 3.3.25
         # --------------------------------------------------
         with st.expander("Section 3.3.25  Section XXXVI"):
-            text1 = """ """
+            text1 = """ 
+            🌿 Section XXXVI – Yudhishthira ka Gambhir Nirnay
+
+(Hinglish • simple • moral story tone)
+
+Bhima ke teekhe shabdon ko sunkar
+Yudhishthira gehri saans leta hai.
+Woh chup ho jaata hai.
+Uska mann bhaari ho jaata hai.
+
+Woh dil mein sochta hai—
+
+“Main raja ka dharm jaanta hoon.
+Sab varno ke kartavya bhi jaanta hoon.
+Par dharma bahut sookshma hota hai.
+Use zabardasti kaise toda ja sakta hai?
+Kya main Meru parvat ko pees sakta hoon?
+Nahi.”"""
             create_image_text_layout(
                 "attached_assets/chapter3/3.3.25.jpg",
                 text1,
@@ -5159,7 +6165,168 @@ Yahan Mahābhārata ka sabse kathin sawal uthta hai:
                 image_position="left"
             )
 
-            text2 = """ """
+            text2 = """ 
+            Thodi der baad,
+soch-vichaar karke,
+Yudhishthira bolta hai—
+
+“Bhima,
+tum jo keh rahe ho, usme sach hai.
+Par meri baat bhi suno.”
+
+“Jo kaam sirf gusse aur himmat par kiya jaaye,
+woh aksar dukh deta hai.”
+
+“Par jo kaam
+soch-samajh kar,
+sahi taiyaari ke saath,
+aur sahi samay par kiya jaaye—
+woh safal hota hai.”
+
+“Devgann bhi
+aise kaamon mein saath dete hain.”
+
+Phir Yudhishthira gehri baat kehta hai—
+
+“Tum turant yudh chahte ho.
+Par dekho hamare saamne kaun khade hain.”
+
+“Bhishma, Drona, Kripa—
+yeh sab mahaan yoddha hain.”
+
+“Karna—
+jo kabhi peeche nahi harta,
+jo shastraon ka maharathi hai.”
+
+“Duryodhana aur uske bhai—
+sab taiyaar hain.”
+
+“Woh raja bhi hamare khilaaf hain
+jinhe humne pehle haraya tha.”
+
+“Woh sab
+Kauravon ke paksh mein hain.”
+
+“Unke paas sena hai, dhan hai,
+aur badla lene ki aag hai.”
+
+“Bhishma aur Drona
+humein bhi pyaar karte hain.”
+
+“Par raj ka rin bhi hota hai.”
+
+“Jo samman unhe mila hai,
+uske liye
+woh apni jaan bhi de sakte hain.”
+
+“Bhima,
+mujhe Karna ki chinta sone nahi deti.”
+
+“Uska teer chalane ka hunar
+sabse tez hai.”
+
+“Jab tak hum
+in sab ko nahi hara dete,
+Duryodhana tak pahunchna
+namumkin hai.”
+
+Yeh sunkar
+Bhima shaant ho jaata hai.
+Woh kuch nahi bolta.
+
+Tabhi
+Maharshi Vyasa wahan aate hain.
+Pandav unka samman karte hain.
+
+Vyasa muskurate hain aur kehte hain—
+
+“Yudhishthira,
+main tumhare mann ka bojh jaanta hoon.”
+
+“Tum Bhishma, Drona, Karna se darte ho.
+Par main tumhara yeh dar door karunga.”
+
+“Ek vidhi hai.
+Use shant mann se suno.
+Aur use apnao.”
+
+Vyasa,
+Yudhishthira ko alag le jaakar kehte hain—
+
+“Ab tumhari unnati ka samay aane wala hai.”
+
+“Arjuna
+sab shatruon ko yudh mein haraayega.”
+
+“Main tumhe
+Pratismriti Vidya deta hoon.”
+
+“Yeh gyaan
+Arjuna ke kaam aayega.”
+
+“Arjuna ko kaho—
+woh devtaon ke paas jaaye.”
+
+“Indra, Rudra, Varuna, Kubera, Yama—
+sab se divya astra le.”
+
+“Woh iske yogya hai.”
+
+“Woh Narayana ka mitra hai.
+Woh swayam ek mahaan rishi jaisa hai.”
+
+“Tum log
+is jungle ko chhod kar
+kisi aur van mein jao.”
+
+“Ek jagah zyada din rehna
+na tumhare liye theek hai,
+na tapasviyon ke liye.”
+
+“Yahan ke hiran aur vanaspati
+nuksaan mein aa jayenge.”
+
+Yudhishthira shuddh hokar
+woh gyaan grahan karta hai.
+
+Vyasa ashirvaad dekar
+antardhyaan ho jaate hain.
+
+Yudhishthira
+us gyaan ko mann mein basa leta hai.
+Woh use sahi samay par
+yaad karta rehta hai.
+
+Phir Pandav
+Dvaita van chhodkar
+Kamyaka van ki taraf jaate hain,
+Saraswati nadi ke kinaare.
+
+Kai Brahman
+unke saath jaate hain.
+
+Wahan Pandav
+kuch samay rehte hain.
+
+Roz dhanush ka abhyas hota hai.
+Ved mantron ki dhvani gunjti hai.
+
+Woh shikar bhi karte hain,
+aur devta, pitri,
+aur Brahmanon ke liye
+vidhi-poorvak karm karte hain.
+
+🌟 Is Section ki Seekh:
+
+Sirf gussa yudh jeetata nahi
+
+Soch, samay aur taiyaari zaroori hai
+
+Dharm kabhi jaldi mein nahi toda jaata
+
+Sahi samay par kiya gaya karm hi safal hota hai
+
+Guru ka margdarshan andhere mein roshni hota hai"""
             create_image_text_layout(
                 text_content=text2,
                 layout="full"
@@ -5169,7 +6336,20 @@ Yahan Mahābhārata ka sabse kathin sawal uthta hai:
         # Section 3.3.26
         # --------------------------------------------------
         with st.expander("Section 3.3.26  Section XXXVII"):
-            text1 = """ """
+            text1 = """ 
+            🌿 Section XXXVII – Arjuna ka Kathor Tapasya Yatra
+
+(Hinglish • short sentences • children/moral story tone)
+
+Kuch samay baad,
+Dharmaraj Yudhishthira
+Maharshi Vyasa ke shabd yaad karta hai.
+
+Woh Arjuna ko chupchaap bulata hai.
+Pyaar se uske haath pakadta hai.
+Chehre par halki si muskaan hoti hai.
+
+Phir dheere se bolta hai—"""
             create_image_text_layout(
                 "attached_assets/chapter3/3.3.26.jpg",
                 text1,
@@ -5177,7 +6357,184 @@ Yahan Mahābhārata ka sabse kathin sawal uthta hai:
                 image_position="left"
             )
 
-            text2 = """ """
+            text2 = """ 
+            “Arjuna,
+Bhishma, Drona, Kripa, Karna,
+aur Drona putra—
+sab shastra-vidya ke maharathi hain.
+
+Brahma astra, dev astra,
+maanav aur vayu ke astra—
+sab jaante hain.
+
+Duryodhana unka bahut samman karta hai.
+Unhe khush rakhta hai.
+Isliye woh uske liye jaan tak de denge.”
+
+“Poori prithvi aaj
+Duryodhana ke adhikaar mein hai.
+Gaon, sheher, jungle, samudra—sab.”
+
+“Arjuna,
+ab tum hi hamara ekmatra sahara ho.”
+
+Yudhishthira gambhir ho jaata hai.
+
+“Mainne Vyasa se
+ek vidya paayi hai.
+Aisi vidya jo
+poore brahmand ko khol kar dikha de.”
+
+“Main yeh vidya
+tumhe deta hoon.”
+
+“Par usse pehle—
+tumhe kathor tapasya karni hogi.”
+
+“Dhanush aur talwar ke saath,
+kavach pehen kar,
+uttar disha ki taraf jao.”
+
+“Devtaon ke raja Indra ke paas jao.”
+
+“Sab divya astra
+Indra ke paas hain.”
+
+“Isi din niklo, Arjuna.”
+
+Yudhishthira vidhipoorvak
+woh vidya Arjuna ko deta hai.
+Mann, vachan, aur sharir—
+sab shant rehte hain.
+
+Arjuna agya maanta hai.
+
+Arjuna Gandiva dhanush uthata hai.
+Akshay tarqash saath leta hai.
+Kavach aur angulitra pehenta hai.
+
+Havan karta hai.
+Brahmanon se aashirvaad leta hai.
+
+Nikalte waqt,
+aasmaan ki taraf dekhta hai—
+mann mein ek hi sankalp—
+
+“Dhritarashtra ke putron ka ant.”
+
+Raste mein
+Brahman, Siddh,
+aur adrishya shaktiyaan bolti hain—
+
+“Putra, tumhara kaam poora ho.”
+
+“Vijay tumhari ho.”
+
+Draupadi (Krishna)
+bhari mann se kehti hai—
+
+“Arjuna,
+tumhare bina humein
+sukh nahi milega.”
+
+“Hamara jeevan,
+hamari vijay—
+sab tum par nirbhar hai.”
+
+“Tumhara safar
+mangalmay ho.”
+
+“Lakshmi, Saraswati,
+Shaktiyaan tumhari raksha karein.”
+
+Arjuna sabko pranam karta hai.
+Bhaiyon ke chakkar lagata hai.
+Aur chal padta hai.
+
+Prakriti bhi raasta chhod deti hai.
+Pahad, jungle, nadi—
+sab paar karta hai.
+
+Himavat,
+Gandhamadan,
+aur kathin marg—
+sab ek hi din mein.
+
+Tapasya ka bal tha.
+
+Aakhirkaar
+woh Indrakila parvat pahunchta hai.
+
+Tab aakash se awaaz aati hai—
+
+“Ruko!”
+
+Arjuna dekhta hai—
+ek tapasvi brahman,
+ped ke neeche baitha hai.
+
+Jataayein,
+tejas,
+shaant chehra.
+
+Brahman kehta hai—
+
+“Putra,
+yahaan shastra ki zarurat nahi.
+Yeh shanti ka sthal hai.”
+
+“Dhanush chhod do.”
+
+Par Arjuna nahi hilta.
+Uska sankalp atoot hai.
+
+Tab tapasvi muskurata hai
+aur kehta hai—
+
+“Main Sakra (Indra) hoon.”
+
+“Maango jo chaho.”
+
+Arjuna vinamr ho kar bolta hai—
+
+“Hey Indra,
+mujhe swarg nahi chahiye.”
+
+“Na bhog, na sukh.”
+
+“Mujhe divya astra chahiye.”
+
+“Bina shatru ko haraaye,
+main chain se nahi reh sakta.”
+
+Indra kehte hain—
+
+“Pehle
+tumhe Mahadev (Shiva) ke darshan karne honge.”
+
+“Unke darshan ke baad
+tumhe sab astra milenge.”
+
+Yeh kehkar
+Indra antardhyaan ho jaate hain.
+
+Arjuna wahi ruk jaata hai.
+Kathor tapasya shuru karta hai.
+
+Shant mann.
+Ek hi lakshya.
+
+🌟 Is Section ki Seekh (Moral):
+
+Sirf shakti kaafi nahi hoti
+
+Tapasya + sankalp = asli bal
+
+Sacha yoddha
+pehle apne mann ko jeetta hai
+
+Guru ki agya aur dhairya
+vijay ka raasta dikhate hain"""
             create_image_text_layout(
                 text_content=text2,
                 layout="full"
