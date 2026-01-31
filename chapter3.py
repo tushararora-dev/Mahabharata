@@ -6546,7 +6546,30 @@ vijay ka raasta dikhate hain"""
         # Section 3.4.1
         # --------------------------------------------------
         with st.expander("Section 3.4.1  Section XXXVIII"):
-            text1 = """ """
+            text1 = """ 
+            Section XXXVIII – Arjuna ki Tapasya ki Kahani (Hinglish Story Version)
+
+Raja Janmejaya ne kaha,
+“O mahāgyānī,
+main Arjuna ki poori kahani sunna chahta hoon.
+
+Bataiye,
+Arjuna ne kaise astr–shastra haasil kiye?
+Wo akela, bina dare, jungle mein kaise gaya?
+Aur wahan reh kar usne kya-kya kiya?
+
+Mujhe ye bhi jaan’na hai
+ki kaise Bhagwān Shiv aur devon ke raja Indra
+Arjuna se prasann hue.
+
+Arjuna aur Shiv ji ke beech jo yuddh hua,
+wo adbhut tha.
+Us kahani ko sun kar
+rom-rom khade ho jaate hain.
+
+Isliye,
+hey Brahmana,
+mujhe sab kuch poori tarah bataiye.”"""
             create_image_text_layout(
                 "attached_assets/chapter3/3.4.1.jpg",
                 text1,
@@ -6554,7 +6577,125 @@ vijay ka raasta dikhate hain"""
                 image_position="left"
             )
 
-            text2 = """ """
+            text2 = """ 
+            🌿 Arjuna ka vanvaas
+
+Vaishampayana bole,
+“O Kuruvansh ke shreshth,
+main tumhe ye pavitra kahani sunata hoon.
+
+Yudhishthira ke aadesh par,
+Arjuna jungle ki taraf nikle.
+Unka lakshya tha –
+Indra aur Mahadev ka darshan.
+
+Haath mein divya dhanush,
+aur sone ki mooth wali talvaar thi.
+Man bilkul shant tha.
+Iraada atal tha.
+
+Wo Himavat parvat ki taraf badhe.
+Aur bina samay gawaye
+tapasya mein lag gaye.
+
+🌲 Bhayanak par sundar jungle
+
+Arjuna akela
+ghane jungle mein ghuse.
+Wahan kaante the,
+jangli jaanwar the,
+aur anokhe pakshi the.
+
+Par jungle sirf bhayanak nahi tha.
+Wo sundar bhi tha.
+
+Aasmaan se shankh aur nagade jaise shabd aaye.
+Phoolon ki baarish hui.
+Badal chha gaye.
+
+Devta dekh rahe the.
+
+🏔️ Himavat ka saundarya
+
+Arjuna ne parvat ke neeche ka kshetra dekha.
+Hari-bhari ghaatiyaan thi.
+Nadiyaan beh rahi thi.
+
+Hans, battakh, mor, kokil –
+sab apni madhur awaaz mein ga rahe the.
+
+Ye sab dekh kar
+Arjuna ka mann prasann ho gaya.
+
+🔥 Kathor tapasya
+
+Usi pavitra sthal par
+Arjuna ne tapasya shuru ki.
+
+Ghaas ke kapde pehne.
+Kala mrigcharm liya.
+Haath mein danda rakha.
+
+Pehle mahine –
+teen din mein ek baar fal khaya.
+
+Dusre mahine –
+chhe din mein ek baar.
+
+Teesre mahine –
+pandrah din mein ek baar.
+
+Chauthe mahine –
+sirf saans par jeene lage.
+
+Pairon ke anguthe par khade rahe.
+Haath upar uthaye.
+Kisi sahare ke bina.
+
+Unke baal chamakne lage.
+Bijli jaise.
+Ya kamal jaise.
+
+🌍 Rishiyon ki chinta
+
+Arjuna ki tapasya se
+dharti garam hone lagi.
+Sab taraf dhuaan sa uthne laga.
+
+Rishi ghabra gaye.
+Wo sab Bhagwān Shiv ke paas gaye.
+
+Bole,
+“O Mahadev,
+Arjuna ki tapasya bahut kathor hai.
+Humein nahi pata wo kya chahte hain.
+Kripya unhe rokiye.”
+
+🕉️ Mahadev ka vachan
+
+Mahadev shant muskaan ke saath bole,
+“Chinta mat karo.
+
+Main Arjuna ka mann jaanta hoon.
+Wo na swarg chahte hain,
+na dhan,
+na lambi zindagi.
+
+Jo wo chahte hain,
+main aaj hi poora karunga.”
+
+Ye sun kar
+sab rishi prasann ho gaye.
+Aur apne-apne sthal laut gaye.
+
+✨ Moral (Seekh):
+
+Sachchi tapasya shor nahi karti.
+Wo itni gehri hoti hai
+ki Bhagwān khud usse pehchaan lete hain.
+
+Jo nishkāam bhav se mehnat karta hai,
+uska marg khud hi khul jaata hai."""
             create_image_text_layout(
                 text_content=text2,
                 layout="full"
@@ -6564,7 +6705,18 @@ vijay ka raasta dikhate hain"""
         # Section 3.4.2
         # --------------------------------------------------
         with st.expander("Section 3.4.2  Section XXXIX"):
-            text1 = """ """
+            text1 = """ 
+            Section XXXIX – Kirata aur Arjuna ka Mahāyuddh (Hinglish Story Version)
+
+Vaishampayana bole:
+
+Sab rishi wapas ja chuke the.
+Tab Bhagwān Shiv ne ek naya roop liya.
+
+Wo Kirata bane.
+Sunehre ped jaise chamak rahe the.
+Unka sharir Meru parvat jaisa bada tha.
+Haath mein dhanush aur zahreeli saanp jaise teer the."""
             create_image_text_layout(
                 "attached_assets/chapter3/3.4.2.jpg",
                 text1,
@@ -6572,7 +6724,149 @@ vijay ka raasta dikhate hain"""
                 image_position="left"
             )
 
-            text2 = """ """
+            text2 = """ 
+            Unke saath Uma ji bhi thi.
+Wo bhi Kirata stri ke roop mein thi.
+Kai anokhe gan aur hazaaron Kirata striyan saath thi.
+
+Unke aate hi jungle aur bhi sundar ho gaya.
+Par achanak…
+sab awaazein ruk gayin.
+Nadi, pakshi, hawa — sab shant.
+
+🐗 Muka ka aana
+
+Tab Arjuna ne dekha,
+ek bhayanak Rakshasa Muka,
+suar ke roop mein,
+usse maarne aa raha tha.
+
+Arjuna ne turant Gāṇḍīva uthaya.
+Teer chadhaaya.
+Aur kaha,
+“Main shant tapasya mein hoon.
+Par agar tu mujhe maarne aaya hai,
+toh main tujhe Yama ke paas bhej dunga.”
+
+Jaise hi Arjuna ne teer chalaaya,
+Kirata ne bhi teer chala diya.
+
+Dono teer
+ek hi pal mein
+Muka ko lage.
+
+Zordaar awaaz hui.
+Aur Muka gir pada.
+Rakshasa apna asli roop dikha kar
+mar gaya.
+
+⚔️ Vivad aur gussa
+
+Arjuna ne Kirata ko dekha.
+Aur kaha,
+“Ye shikaar mera tha.
+Tumne mere niyam tode hain.
+Is jungle mein aise kaam galat hai.”
+
+Kirata muskuraya aur bola,
+“Ye jungle hamara ghar hai.
+Aur Rakshasa ko maine pehle maara.”
+
+Baat badh gayi.
+Gussa badh gaya.
+
+🏹 Teeron ka yuddh
+
+Dono ne
+teeron ki baarish kar di.
+Arjuna ke teer
+bijli jaise chamakte the.
+
+Par Kirata
+parvat ki tarah
+hilta hi nahi tha.
+
+Arjuna hairaan ho gaya.
+“Ye kaun hai?
+Sirf Rudra hi mere teeron ko jhel sakte hain.”
+
+Teer khatam ho gaye.
+Arjuna ne dhanush se hi vaar kiya.
+Par Kirata ne Gāṇḍīva chheen liya.
+
+Talvaar chali.
+Par talvaar toot gayi.
+
+Ped, patthar, mukke —
+sab bekaar gaye.
+
+Ant mein,
+Kirata ne ek zor ka vaar kiya.
+Arjuna gir pada.
+Behosh ho gaya.
+
+🙏 Bhakti ka pal
+
+Thodi der baad Arjuna utha.
+Khoon se bhara sharir tha.
+Aankhon mein aansu the.
+
+Usne mitti se Shiv ji ki moorti banayi.
+Phool chadhaaye.
+Dil se pooja ki.
+
+Aur tab…
+usne dekha –
+jo phool usne moorti par chadhaaye the,
+wo Kirata ke sir par the.
+
+Arjuna samajh gaya.
+Ye koi aur nahi…
+Mahadev khud the.
+
+Wo turant jhuk gaya.
+Charno mein gir gaya.
+
+🔱 Mahadev ka vardaan
+
+Mahadev apne asli roop mein aaye.
+Teesri aankh chamak rahi thi.
+Uma ji saath thi.
+
+Shiv ji bole,
+“Arjuna,
+tumhara sahas anokha hai.
+Tumhari tapasya aur dhairya
+mere barabar hai.
+
+Main tumse prasann hoon.
+Main tumhe apna divya astra doonga.
+Tum apne sab shatruon par vijay paaoge.”
+
+🌸 Arjuna ka stavan
+
+Arjuna ne haath jod kar kaha,
+“Hey Mahadev,
+aap hi sab ka kaaran hain.
+Aap hi Vishnu hain,
+aur aap hi Shiv.
+
+Mujhe maaf kar dijiye.
+Agyanta mein jo yuddh hua,
+wo mera aparadh tha.”
+
+Mahadev muskuraye.
+Arjuna ka haath pakda.
+Aur gale laga liya.
+
+✨ Moral (Seekh):
+
+Ahankār se yuddh hota hai,
+par bhakti se Bhagwān milte hain.
+
+Jab shakti ke saath
+vinamrata aa jaaye,
+tab hi sachcha vardaan milta hai."""
             create_image_text_layout(
                 text_content=text2,
                 layout="full"
@@ -6582,7 +6876,23 @@ vijay ka raasta dikhate hain"""
         # Section 3.4.3
         # --------------------------------------------------
         with st.expander("Section 3.4.3  Section XL"):
-            text1 = """ """
+            text1 = """ 
+            Section XL – Mahadev ka Vardaan (Hinglish Story Version)
+
+Mahadev ne Arjuna se kaha:
+
+“Arjuna,
+tum pichhle janam mein Nara the.
+Aur Nārāyaṇa tumhare mitra the.
+
+Badari van mein
+tum dono ne hazaaron saal
+kathor tapasya ki thi.
+
+Tum mein aur Vishnu mein
+ek hi shakti basti hai.
+Tum dono milkar
+poore jagat ko sambhalte ho."""
             create_image_text_layout(
                 "attached_assets/chapter3/3.4.3.jpg",
                 text1,
@@ -6590,7 +6900,146 @@ vijay ka raasta dikhate hain"""
                 image_position="left"
             )
 
-            text2 = """ """
+            text2 = """ 
+            Jab Indra ka rajyabhishek hua tha,
+tab tum aur Krishna
+is dhanush se
+daityon ko shant kiya tha.
+
+Ye Gāṇḍīva
+pehle bhi tumhara hi tha.
+Maine sirf
+apni Māyā se
+ise tumse chheen liya tha.
+
+Tumhare akshay teer-daan
+phir se akshay rahenge.
+Tumhara sharir
+rog aur peeda se mukt rahega.
+
+Tumhari shakti
+kabhi asafal nahi hogi.
+Main tumse prasann hoon.
+
+Ab bolo,
+jo vardaan chahte ho,
+wo maang lo.”
+
+🙏 Arjuna ka var
+
+Arjuna ne vinamr hokar kaha:
+
+“O Mahadev,
+mujhe aapka
+sabse bhayankar divya astra chahiye.
+
+Wo astra
+jo yug ke ant mein
+poori srishti ko mita sakta hai.
+
+Us astra se
+main aane wale mahayuddh mein
+Bhishma, Drona, Kripa aur Karna
+jaise veeron ka saamna kar saku.
+
+Us astra se
+main daityon, rakshason
+aur bure shaktiyon ka vinash kar saku.
+
+Hey Shiv,
+mujhe wahi astra dijiye.”
+
+🔱 Pāśupata Astra
+
+Mahadev bole:
+
+“Main tumhe
+apna priya astra
+Pāśupata deta hoon.
+
+Is astra ko
+na Indra jaanta hai,
+na Yama,
+na Varuna,
+na Vayu.
+
+Iski shakti
+bahut bhayanak hai.
+
+Isse bina kaaran
+kabhi prayog mat karna.
+Agar galat jagah chala,
+toh poora jagat
+nasht ho sakta hai.
+
+Isse man se,
+aankhon se,
+shabd se
+aur dhanush se
+chalaaya ja sakta hai.”
+
+🌍 Divya shiksha
+
+Arjuna ne apne aap ko shuddh kiya.
+Aur kaha,
+“Prabhu,
+mujhe sikhaiye.”
+
+Mahadev ne
+Pāśupata Astra ka
+poora gyaan diya.
+Chalaana bhi,
+rokna bhi.
+
+Wo astra
+ab Arjuna ke saath
+waise hi rehne laga
+jaise Mahadev ke saath.
+
+Jaise hi astra mila,
+dharti kaanp uthi.
+Pahad, van, nadi,
+sab hil gaye.
+
+Aakash mein
+shankh aur nagade bajne lage.
+Devta aur daitya
+sab dekh rahe the.
+
+Arjuna ke sharir se
+sab dosh
+mit gaye.
+
+☁️ Swarg ka aadesh
+
+Mahadev bole,
+“Ab tum
+swarg jao.”
+
+Arjuna ne
+sir jhuka kar pranam kiya.
+Haath jod kar dekhta raha.
+
+Mahadev,
+Uma ji ke saath,
+akash ki taraf badhe.
+Him parvat
+phir se shant ho gaya.
+
+Aur Arjuna ke dil mein
+sirf ek baat thi—
+Bhagwān ki kripa.
+
+✨ Moral (Seekh):
+
+Jab shakti ke saath
+vinamrata hoti hai,
+tab Bhagwān
+apni sabse badi shakti dete hain.
+
+Divya gyaan
+sirf usi ko milta hai
+jo zimmedaari samajhta ho."""
             create_image_text_layout(
                 text_content=text2,
                 layout="full"
@@ -6600,7 +7049,24 @@ vijay ka raasta dikhate hain"""
         # Section 3.4.4
         # --------------------------------------------------
         with st.expander("Section 3.4.4  Section XLI"):
-            text1 = """ """
+            text1 = """ 
+            Section XLI – Devtaon ka Vardaan aur Arjuna ka Gaurav (Hinglish Story Version)
+
+Vaishampayana bole:
+
+Mahadev
+Arjuna ke saamne hi
+soorya ke ast hone jaise
+antar-dhyaan ho gaye.
+
+Arjuna hairaan reh gaya.
+Usne mann mein kaha,
+
+“Kitna bhaagyashaali hoon main.
+Maine Bhagwān Shiv ko dekha.
+Unhe sparsh kiya.
+Ab meri jeet nishchit hai.
+Mere shatru pehle hi haar chuke hain.”"""
             create_image_text_layout(
                 "attached_assets/chapter3/3.4.4.jpg",
                 text1,
@@ -6608,7 +7074,129 @@ vijay ka raasta dikhate hain"""
                 image_position="left"
             )
 
-            text2 = """ """
+            text2 = """ 
+            🌊 Varuna ka aagaman
+
+Tab achanak
+Varuna dev aaye.
+Neel mani jaise chamak rahe the.
+Unke saath nadiyaan,
+jal jeev,
+naag aur anya dev the.
+
+Poori disha
+prakash se bhar gayi.
+
+💰 Kuvera ka darshan
+
+Phir Kuvera aaye.
+Sone jaise tej se chamak rahe the.
+Unke saath Yaksh the.
+Aasmaan jagmaga utha.
+
+⚖️ Yama ka aadesh
+
+Phir Yama dev aaye.
+Gambhir awaaz mein bole,
+
+“Arjuna,
+tum pehle janam mein Nara rishi the.
+Brahma ji ke kehne par
+tum manushya bane.
+
+Tum yuddh mein
+Bhishma, Drona ke sainikon
+aur sab adharmi shaktiyon ko haraoge.
+
+Tum Karna ko bhi parajit karoge.
+Tumhari keerti
+sada rahegi.
+
+Tumne Mahadev ko prasann kiya hai.
+Isliye,
+ye lo mera gada astra.”
+
+Arjuna ne vinamrta se
+astra grahan kiya.
+
+🌧️ Varuna ka vardaan
+
+Varuna bole,
+
+“Arjuna,
+main jal ka swami hoon.
+Mera paash astra
+koi nahi tod sakta.
+
+Isse tum
+sab shatruon ko baandh sakte ho.
+Ye astra tumhara ho.”
+
+Arjuna ne
+Varuna ka astra bhi grahan kiya.
+
+🌟 Kuvera ka uphaar
+
+Kuvera muskuraye aur bole,
+
+“Arjuna,
+tum mujhe Krishna jaise priya ho.
+
+Main tumhe
+Antardhyan astra deta hoon.
+Isse shatru
+nindra mein chale jaate hain.
+
+Is astra se
+tum bade kaam karoge.”
+
+Arjuna ne
+yeh astra bhi shraddha se liya.
+
+☁️ Indra ka sandesh
+
+Ant mein Indra dev bole,
+
+“Arjuna,
+tum pehle hi devta the.
+Par abhi
+devtaon ka kaam poora baaki hai.
+
+Tumhe swarg aana hoga.
+Mera rath
+jaldi tumhe lene aayega.
+Wahan main tumhe
+aur divya astra dunga.”
+
+🙏 Antim vandana
+
+Arjuna ne
+sab Lokapalon ko pranam kiya.
+Jal, phal aur shabd se pooja ki.
+
+Devta prasann hue.
+Aur apne-apne lok
+laut gaye.
+
+Arjuna
+shant mann se khada raha.
+Uska dil
+anand se bhara tha.
+
+Usne socha,
+“Ab mera jeevan
+safal ho gaya.”
+
+✨ Moral (Seekh):
+
+Jab manushya
+tapasya, dhairya aur vinamrata se
+apna kartavya nibhata hai,
+to prakriti aur devta khud sahayata karte hain.
+
+Sachchi shakti
+ahankār mein nahi,
+seva aur dharma mein hoti hai."""
             create_image_text_layout(
                 text_content=text2,
                 layout="full"
