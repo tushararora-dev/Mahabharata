@@ -7208,7 +7208,20 @@ seva aur dharma mein hoti hai."""
         # Section 3.5.1
         # --------------------------------------------------
         with st.expander("Section 3.5.1  Section XLII"):
-            text1 = """ """
+            text1 = """ 
+            Section XLII – Arjuna ka Swarg-Gaman (Hinglish Story Version)
+
+Vaishampayana bole:
+
+Devta jab laut gaye,
+to Arjuna ke mann mein
+ek vichaar aaya.
+“Indra ka rath…”
+
+Jaise hi usne socha,
+aakash garaj utha.
+Badalon ko cheerte hue
+ek divya rath aaya."""
             create_image_text_layout(
                 "attached_assets/chapter3/3.5.1.jpg",
                 text1,
@@ -7216,7 +7229,149 @@ seva aur dharma mein hoti hai."""
                 image_position="left"
             )
 
-            text2 = """ """
+            text2 = """ 
+            Rath chamak raha tha.
+Uski awaaz
+ghane badalon jaise thi.
+Us par bhayankar astr the.
+Bijli, vajra, gada,
+aur chamakte teer the.
+
+Hazaaron sunehre ghode
+use kheench rahe the.
+Itni tez gati,
+aankh bhi pakad na paaye.
+
+Rath par Vaijayanta dhwaj tha.
+Neel kamal jaise rang ka.
+Sone se saja hua.
+
+Aur rath par
+Mātali baithe the.
+Indra ke sarathi.
+
+☁️ Mātali ka sandesh
+
+Mātali neeche utare.
+Vinamr ho kar bole,
+
+“Arjuna,
+Indra dev tumhe bulā rahe hain.
+Devta tumhe dekhna chahte hain.
+
+Shiv ji bhi
+rishi aur gandharvon ke saath
+tumhari pratiksha kar rahe hain.
+
+Aao,
+is rath par chalo.
+Astra milne ke baad
+tum wapas aaoge.”
+
+🙏 Arjuna ki vinamrata
+
+Arjuna ne shant swar mein kaha,
+
+“Mātali,
+ye rath
+bahut pavitra hai.
+
+Jo tapasya ke bina hai,
+wo isse
+dekh bhi nahi sakta.
+
+Pehle aap chadhiye.
+Ghode shant hon.
+Phir main chadhunga.”
+
+🌊 Pavitr kriyā
+
+Mātali rath par chadh gaye.
+Arjuna ne Ganga snān kiya.
+Mantra jap kiya.
+Pitron ko jal arpan kiya.
+
+Phir usne Mandar Parvat ko pranam kiya.
+
+“Hey parvat,
+tumne mujhe sharan di.
+Tumhari ghaatiyon mein
+main shant raha.
+
+Tumhare jal ne
+meri pyaas bujhayi.
+Tumhari phalon ne
+mujhe jeevan diya.
+
+Ab main tumhe
+alvida kehta hoon.”
+
+🌈 Swarg ki yatra
+
+Arjuna rath par chadha.
+Rath udaan bhar gaya.
+Dharti ke log
+use dekh na sake.
+
+Upar,
+har taraf prakash tha.
+Na suraj,
+na chandrama.
+
+Sirf punya ki roshni.
+
+Arjuna ne
+taaron jaise chamakte sthaan dekhe.
+Wahi ve log the
+jo dharti par
+punya kama chuke the.
+
+Ve hi log
+taare ban kar
+aasmaan mein chamakte hain.
+
+🌟 Swargi drishya
+
+Usne veer dekhe
+jo yuddh mein veer-gati ko praapt hue.
+Rishiyon ko dekha.
+Gandharvon aur Apsaraon ko dekha.
+
+Sab apni roshni mein chamak rahe the.
+
+Arjuna ne poocha.
+Mātali ne kaha,
+
+“Ye sab
+dharti ke punyaatma hain.
+Jo tum wahan se
+taaron jaise dikhte ho.”
+
+🐘 Amaravati ka dwar
+
+Aage Airāvata khada tha.
+Chaar daant.
+Kailās jaisa vishaal.
+
+Arjuna ne
+rajaon ke swarg ko paar kiya.
+Aur ant mein
+usne dekhi
+Amarāvati —
+Indra ki nagri.
+
+Arjuna ka mann
+anand se bhar gaya.
+
+✨ Moral (Seekh):
+
+Vinamrata se hi
+divya darwaze khulte hain.
+
+Jo tapasya aur kartavya
+imaandari se nibhata hai,
+uske liye
+swarg khud raasta banata hai."""
             create_image_text_layout(
                 text_content=text2,
                 layout="full"
@@ -7226,7 +7381,24 @@ seva aur dharma mein hoti hai."""
         # Section 3.5.2
         # --------------------------------------------------
         with st.expander("Section 3.5.2  Section XLIII"):
-            text1 = """ """
+            text1 = """ 
+            Section XLIII – Indrapuri ka Darshan (Hinglish Story Version)
+
+Vaishampayana bole:
+
+Arjuna ne Indra ki nagri dekhi.
+Wo nagri bahut sundar aur pavitra thi.
+Wahan Siddha aur Chāraṇa nivaas karte the.
+
+Har ritu ke phool the.
+Har tarah ke pavitra ped the.
+Wahan Nandana van bhi tha—
+Apsaraon ka priya bagicha.
+
+Sugandhit hawa chal rahi thi.
+Phoolon ki khushboo faili hui thi.
+Ped jaise Arjuna ka
+swagat kar rahe the."""
             create_image_text_layout(
                 "attached_assets/chapter3/3.5.2.jpg",
                 text1,
@@ -7234,7 +7406,101 @@ seva aur dharma mein hoti hai."""
                 image_position="left"
             )
 
-            text2 = """ """
+            text2 = """ 
+            Ye sthaan
+sirf unhi ke liye tha
+jinhone tapasya ki ho.
+Yajna kiye ho.
+Dharma ka marg chuna ho.
+
+Jo yuddh se bhaage the,
+jo paap ke marg par the—
+wo yahan aa hi nahi sakte.
+
+🌸 Indrapuri ka vaibhav
+
+Arjuna ne dekha—
+hazaaron divya rath.
+Jo jab chahein,
+kahin bhi ja sakte the.
+
+Madhur hawa chal rahi thi.
+Gandharv ga rahe the.
+Apsaraen nritya kar rahi thi.
+Sab kuch shant aur anandmay tha.
+
+Devta, rishi aur siddha
+Arjuna ka samman kar rahe the.
+Aashirvaad mil rahe the.
+Shankh aur nagade baj rahe the.
+
+🌟 Suravithi ka marg
+
+Indra ke aadesh par,
+Arjuna Suravithi naam ke marg par chala.
+
+Wahan usne
+Aditya, Vasu, Rudra, Marut,
+Ashwini Kumar,
+aur kai raja-rishiyon ko dekha.
+
+Usne Narada aur Tumbaru ko bhi dekha.
+Sabne Arjuna ka
+prem se swagat kiya.
+
+👑 Indra se milan
+
+Ant mein Arjuna ne
+apne pita Indra dev ko dekha.
+
+Safed chhatra tha.
+Sugandhit chamara lehra raha tha.
+Rik aur Yajur ved ke mantra
+gaye ja rahe the.
+
+Arjuna ne
+sir jhuka kar pranam kiya.
+
+Indra ne use
+gale laga liya.
+Apni baahon mein bhar liya.
+
+Apne paas bithaya.
+Apni gaddi par hi jagah di.
+
+Us pal Arjuna
+doosre Indra jaisa chamak raha tha.
+
+Pita aur putra
+saath baithe the.
+Jaise aakash mein
+sooraj aur chandrama
+saath chamak rahe ho.
+
+🎶 Anand ka mahaul
+
+Gandharv madhur sangeet ga rahe the.
+Apsaraen shant aur sundar nritya kar rahi thi.
+Unka nritya
+man ko prasann karta tha.
+
+Sab kuch
+maryada aur shuddhata se bhara tha.
+
+Arjuna ka mann
+anand aur shanti se bhar gaya.
+
+✨ Moral (Seekh):
+
+Jo jeevan mein
+dharma, tapasya aur kartavya ko chunta hai,
+uske liye
+samman aur anand
+khud chal kar aate hain.
+
+Sachcha gaurav
+shor mein nahi,
+shant maryada mein hota hai."""
             create_image_text_layout(
                 text_content=text2,
                 layout="full"
@@ -7244,7 +7510,19 @@ seva aur dharma mein hoti hai."""
         # Section 3.5.3
         # --------------------------------------------------
         with st.expander("Section 3.5.3  Section XLIV"):
-            text1 = """ """
+            text1 = """ 
+            Section XLIV – Indralok mein Arjuna ka Vaas (Hinglish Story Version)
+
+Vaishampayana bole:
+
+Devta aur Gandharv
+Indra ke mann ki baat samajh gaye.
+Unhone turant
+Arjuna ke liye Arghya taiyaar kiya.
+
+Uske pair aur mukh dhulwaye.
+Prem aur samman se
+use Indra ke mahal mein le gaye."""
             create_image_text_layout(
                 "attached_assets/chapter3/3.5.3.jpg",
                 text1,
@@ -7252,7 +7530,98 @@ seva aur dharma mein hoti hai."""
                 image_position="left"
             )
 
-            text2 = """ """
+            text2 = """ 
+            Arjuna,
+jo hamesha shatruon ka vināsh karta tha,
+ab apne pita ke ghar
+shanti se rehne laga.
+
+⚡ Divya astron ka gyaan
+
+Swarg mein rehkar,
+Arjuna ne
+kai divya astra seekhe.
+
+Unhe chalana bhi seekha.
+Aur wapas lena bhi.
+
+Indra ne khud
+use apna priya astra diya—
+Vajra.
+
+Uske saath
+bijli jaise chamakte
+anya astr bhi mile.
+
+Arjuna ne jab
+ye sab astra paaye,
+toh use apne
+bhai yaad aaye.
+
+Par Indra ke aadesh se,
+wo paanch saal
+swarg mein hi raha.
+
+🎶 Sangeet aur nritya
+
+Kuch samay baad,
+Indra ne Arjuna se kaha,
+
+“Arjuna,
+ab tum Gandharv Citrasena se
+sangeet aur nritya seekho.
+
+Ye kala
+manushya lok mein nahi milti.
+Ye tumhare kaam aayegi.”
+
+Citrasena
+Arjuna ka mitra bana.
+
+Dono saath rahe.
+Citrasena ne
+use gaana sikhaya.
+Vadan sikhaya.
+Nritya bhi sikhaya.
+
+💭 Dil ki bechaini
+
+Par Arjuna ka mann
+poori tarah shant nahi tha.
+
+Use yaad aata raha—
+Shakuni ka jua.
+Dushasana ka apmaan.
+Aur apne bhaiyon ka dukh.
+
+Wo sikh raha tha,
+par uska dil
+dharti par hi atka tha.
+
+Phir bhi,
+samay ke saath,
+Arjuna ne
+Gandharvon ka sangeet
+aur nritya seekh liya.
+
+Par chahe wo
+kitna bhi seekh le,
+uska mann
+maa Kunti
+aur apne bhaiyon ko
+yaad karta raha.
+
+✨ Moral (Seekh):
+
+Suvidha aur sukh
+mann ko khush kar sakte hain,
+par kartavya aur apno ka prem
+hamesha dil ko bulata rehta hai.
+
+Sachcha veer
+apna gyaan bhi
+bhavishya ke dharm yuddh ke liye
+hi jodta hai."""
             create_image_text_layout(
                 text_content=text2,
                 layout="full"
@@ -7262,7 +7631,22 @@ seva aur dharma mein hoti hai."""
         # Section 3.5.4
         # --------------------------------------------------
         with st.expander("Section 3.5.4  Section XLV"):
-            text1 = """ """
+            text1 = """ 
+            Section XLV – Indra ka Sandesh aur Urvaśī (Hinglish Story Version)
+
+Vaishampayana bole:
+
+Ek din Indra dev ne dekha
+ki Arjuna ke mann mein
+Urvaśī ka vichaar aa raha hai.
+
+Indra ne
+Citrasena ko bulaya.
+Aur chupchaap kaha,
+
+“O Gandharvon ke raja,
+tum meri taraf se
+Urvaśī ke paas jao."""
             create_image_text_layout(
                 "attached_assets/chapter3/3.5.4.jpg",
                 text1,
@@ -7270,7 +7654,85 @@ seva aur dharma mein hoti hai."""
                 image_position="left"
             )
 
-            text2 = """ """
+            text2 = """ 
+            Usse kehna—
+jaise Arjuna ne
+sab astr aur kalaayein seekhi hain,
+waise hi ab
+use sabhyata aur maryāda
+ke gun bhi seekhne chahiye.”
+
+Citrasena ne
+Indra ka aadesh maana.
+Aur wo
+Urvaśī ke paas gaya.
+
+Urvaśī ne use pehchaana.
+Aadar se swagat kiya.
+Dono shant mann se baithe.
+
+🌸 Citrasena ka sandesh
+
+Citrasena muskuraya aur bola,
+
+“O Urvaśī,
+main Indra ka sandesh laaya hoon.
+
+Ek veer hai—
+jo gunon se bhara hai.
+Jo balwaan hai,
+par vinamr bhi.
+
+Jo gyaani hai,
+par ahankari nahi.
+Jo sabka samman karta hai.
+
+Jo satyavaadi hai.
+Jo dayaalu hai.
+Jo apne vachan ka pakka hai.
+
+Wo veer hai Arjuna.
+
+Indra chahte hain
+ki wo swarg ke sukh ka anubhav kare.
+Aur tum usse
+saath dene ko tayaar ho.”
+
+🌺 Urvaśī ka uttar
+
+Urvaśī ne
+madhur muskaan ke saath kaha,
+
+“Jis veer mein
+itne gun hon,
+use kaun pasand nahi karega?
+
+Agar Indra ki ichchha hai,
+aur Arjuna bhi ruchi rakhta hai,
+toh main tayaar hoon.
+
+Main khushi se
+Arjuna ke paas jaungi.”
+
+Ye keh kar
+Urvaśī shant ho gayi.
+Uske mann mein
+samman aur prem tha.
+
+Citrasena ne
+Indra ka sandesh
+poora kar diya.
+
+✨ Moral (Seekh):
+
+Sacha akarshan
+roop se nahi,
+gun aur charitra se hota hai.
+
+Jo vinamr, gyaani aur maryādit hota hai,
+uske liye
+samman aur saath
+apne aap aata hai."""
             create_image_text_layout(
                 text_content=text2,
                 layout="full"
@@ -7280,7 +7742,26 @@ seva aur dharma mein hoti hai."""
         # Section 3.5.5
         # --------------------------------------------------
         with st.expander("Section 3.5.5  Section XLVI"):
-            text1 = """ """
+            text1 = """ 
+            Section XLVI – Maryāda ki Jeet (Hinglish Story Version)
+
+Vaishampayana bole:
+
+Citrasena ka sandesh milne ke baad,
+Urvaśī ne snaan kiya.
+Phir shant mann se
+saj-sanvar hui.
+
+Uske mann mein
+Arjuna ka vichaar tha.
+Shaam hui.
+Chand nikal aaya.
+
+Urvaśī
+Arjuna ke mahal ki ore chali.
+Swarg ke log bhi
+uski sundarta ko dekh kar
+chakit ho gaye."""
             create_image_text_layout(
                 "attached_assets/chapter3/3.5.5.jpg",
                 text1,
@@ -7288,7 +7769,102 @@ seva aur dharma mein hoti hai."""
                 image_position="left"
             )
 
-            text2 = """ """
+            text2 = """ 
+            🌙 Arjuna ka vinay
+
+Urvaśī mahal ke dwar par aayi.
+Sandesh bheja.
+Anumati mili.
+
+Arjuna ne
+adar se swagat kiya.
+Par vinay aur laaj ke kaaran
+usne aankhen jhuka li.
+
+Usne kaha,
+“O devi,
+aap mere liye
+poojniya hain.
+Aap aadesh dein.”
+
+🌼 Urvaśī ki baat
+
+Urvaśī ne
+sab kuch bataya—
+Indra ka sandesh,
+sabha ka drishya,
+aur apna aana.
+
+Usne kaha,
+“Tumhare gun
+mera mann khinch laaye.”
+
+🛡️ Arjuna ka dharm
+
+Arjuna shant raha.
+Usne namrata se kaha,
+
+“O devi,
+aap meri kul-mata saman hain.
+Jaise Kunti mere liye maa hain,
+waise hi aap bhi.
+
+Meri maryāda
+mujhe aisa karne se rokti hai.
+Kripya mujhe
+putra-bhav se dekhein.”
+
+⚡ Krodh aur shraap
+
+Ye sun kar
+Urvaśī ko krodh aa gaya.
+Usne shraap diya—
+
+“Tumhe ek samay
+nritya-kalā mein jeena hoga,
+aur log tumhe
+pehchaan nahi paayenge.”
+
+Keh kar
+wo laut gayi.
+
+🌿 Indra ka ashvaasan
+
+Arjuna ne
+Citrasena ko sab bataya.
+Baad mein Indra ne
+Arjuna ko bulaya.
+
+Indra muskuraye aur bole,
+
+“Putra,
+tumhari sanyam aur maryāda
+sabse badi jeet hai.
+
+Ye shraap
+tumhare hi kaam aayega.
+Vanvaas ke
+13vein saal mein
+yeh poora hoga.
+
+Ek saal baad,
+tum phir
+apni shakti paa loge.”
+
+Arjuna ka mann shant ho gaya.
+Usne shraap ki chinta chhod di.
+Aur swarg mein
+Citrasena ke saath
+niyam aur anand se raha.
+
+✨ Moral (Seekh):
+
+Sanyam aur maryāda
+veerta se bhi bade gun hote hain.
+
+Jo apne dharm par tika rehta hai,
+wahi kathin samay mein bhi
+raksha aur vijay paata hai."""
             create_image_text_layout(
                 text_content=text2,
                 layout="full"
