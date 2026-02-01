@@ -7874,7 +7874,24 @@ raksha aur vijay paata hai."""
         # Section 3.5.6
         # --------------------------------------------------
         with st.expander("Section 3.5.6  Section XLVII"):
-            text1 = """ """
+            text1 = """ 
+            Section XLVII – Lomasa Rishi aur Arjuna ka Rahasya (Hinglish Story Version)
+
+Vaishampayana bole:
+
+Ek din Lomasa Rishi
+ghoomte-ghoomte
+Indra lok pahunch gaye.
+
+Unhone Indra ko pranam kiya.
+Aur wahan ek adbhut drishya dekha.
+
+Arjuna,
+Indra ke aasan ka aadha hissa
+lekar baitha tha.
+
+Rishi hairaan ho gaye.
+Unke mann mein prashn aaya— """
             create_image_text_layout(
                 "attached_assets/chapter3/3.5.6.jpg",
                 text1,
@@ -7882,7 +7899,143 @@ raksha aur vijay paata hai."""
                 image_position="left"
             )
 
-            text2 = """ """
+            text2 = """ 
+            “Ye Kshatriya
+Indra ke aasan par kaise baitha?
+Isne kaun se punya kiye honge?”
+
+Indra
+Rishi ke vichaar samajh gaye.
+
+🌟 Indra ka uttar
+
+Indra muskuraye aur bole,
+
+“O Maharshi,
+ye koi sadharan manushya nahi.
+
+Ye mera putra Arjuna hai.
+Kunti ka beta.
+
+Par sach ye hai—
+ye pehle bhi
+ek mahan Rishi tha.”
+
+Indra ne kaha,
+
+“Purane yug mein
+do Rishi the—
+Nara aur Narayana.
+
+Aaj unhi ne
+manav roop liya hai—
+Krishna aur Arjuna.”
+
+Wo dono
+Ganga ke paas
+Badari ashram mein
+tapasya karte the.
+
+Devta bhi
+us sthaan ko dekh nahi paate the.
+
+⚔️ Asuron ka khatra
+
+Indra bole,
+
+“Kuch Nivatakavacha Asur
+bahut ghamandi ho gaye hain.
+
+Wo devtaon ko
+nuksaan pahunchana chahte hain.
+
+Unse ladna
+aasaan nahi.”
+
+Isliye Arjuna
+swarg aaya hai.
+Astr seekhne ke liye.
+
+Indra ne kaha,
+
+“Arjuna hi
+un Asuron ka
+samna karega.
+
+Aur jeet ke
+phir dharti par
+laut aayega.”
+
+🌍 Dharti ka sandesh
+
+Indra ne Lomasa Rishi se kaha,
+
+“Tum dharti par jao.
+Kamyaka van jao.
+
+Wahan Yudhishthira ko batao—
+Arjuna surakshit hai.
+
+Wo poore astr-vidya ka
+master ban kar
+wapas aayega.”
+
+Aur ye bhi kehna—
+
+“Arjuna ne
+sangeet aur nritya
+bhi seekh liya hai.”
+
+Indra ne aage kaha,
+
+“Yudhishthira ko kaho—
+teerth yatra kare.
+
+Pavitra jal mein snaan kare.
+Mann ka bojh halka hoga.”
+
+Aur Lomasa Rishi se bola,
+
+“Tum Yudhishthira ki
+raksha karna.
+
+Jungle mein
+khatarnak Rakshas hote hain.”
+
+🙏 Arjuna ka anurodh
+
+Arjuna ne bhi
+Lomasa Rishi se kaha,
+
+“Kripya mere bhaiyon ki
+raksha karna.
+
+Raja dharm ke saath
+daan-punya karein.”
+
+🌿 Dharti par wapas
+
+Lomasa Rishi ne kaha,
+“Aisa hi hoga.”
+
+Wo dharti par aaye.
+Kamyaka van pahuche.
+
+Wahan unhone dekha—
+Yudhishthira,
+apne bhaiyon aur rishiyon ke saath
+van mein reh rahe the.
+
+✨ Moral (Seekh):
+
+Mahanta janm se nahi,
+kartavya aur tapasya se milti hai.
+
+Jo veer
+apne gyaan ko
+dharm ke liye sikhta hai,
+wahi sach mein
+lok-kalyan karta hai."""
             create_image_text_layout(
                 text_content=text2,
                 layout="full"
@@ -7892,7 +8045,24 @@ raksha aur vijay paata hai."""
         # Section 3.5.7
         # --------------------------------------------------
         with st.expander("Section 3.5.7  Section XLVIII"):
-            text1 = """ """
+            text1 = """ 
+            Section XLVIII – Dhritarashtra ka Bhay (Hinglish Story Version)
+
+Janamejaya ne poocha:
+
+“Arjuna ke kaarnaame
+bahut adbhut hain.
+Ye sab sun kar
+Dhritarashtra ne kya kaha?”
+
+Vaishampayana bole:
+
+Jab Dhritarashtra ne
+Rishi Vedavyasa se suna
+ki Arjuna
+Indra lok gaya
+aur wahan raha,
+toh uska mann ghabra gaya."""
             create_image_text_layout(
                 "attached_assets/chapter3/3.5.7.jpg",
                 text1,
@@ -7900,7 +8070,101 @@ raksha aur vijay paata hai."""
                 image_position="left"
             )
 
-            text2 = """ """
+            text2 = """ 
+            Usne Sanjaya se kaha:
+
+“O Saarthi,
+kya tum Arjuna ke
+sab kaarnaame jaante ho?
+
+Mera beta
+galat raaste par chal raha hai.
+Uska ahankaar
+dharti ko barbaad kar dega.”
+
+⚔️ Arjuna ka bhay
+
+Dhritarashtra bola:
+
+“Jiske saath Arjuna ho,
+wo teenon lok jeet sakta hai.
+
+Jab Arjuna
+apne teekhe baan chalayega,
+toh kaun uske saamne
+tik paayega?”
+
+“Mere bete
+Pandavon se ladenge—
+yeh soch kar
+mera dil kaanp jaata hai.”
+
+🌩️ Yuddh ki chinta
+
+Wo bola:
+
+“Main din–raat sochta hoon,
+par mujhe
+koi aisa yoddha nahi dikhta
+jo Arjuna ko rok sake.
+
+Agar Bhishma,
+Drona ya Karna bhi
+uske saamne aaye,
+toh bhi
+bhari vinaash hoga.”
+
+“Ye sab veer
+apmaan se zyada
+mrityu sweekar kar lenge.”
+
+“Shanti tabhi hogi
+jab ya toh
+ye sab gir jaayein,
+ya phir Arjuna.”
+
+Par fir usne kaha:
+
+“Par Arjuna ko
+harana asambhav hai.
+Uske saman
+koi veer nahi.”
+
+🔥 Arjuna ki shakti
+
+Dhritarashtra ne kaha:
+
+“Jaise bijli pahad par gir kar
+thoda hissa chhod deti hai,
+waise Arjuna ke baan
+kuch bhi nahi chhodte.”
+
+“Jaise sooraj
+sab kuch jala deta hai,
+waise hi Arjuna ke baan
+mere beton ko jala denge.”
+
+“Lagta hai
+Bhagya ne Arjuna ko
+vinaash ka roop bana diya hai.”
+
+“Batao Sanjaya—
+kaun hai
+jo use hara sake?”
+
+Sanjaya chup raha.
+Uske paas
+koi uttar nahi tha.
+
+✨ Moral (Seekh):
+
+Jab adharm badhta hai,
+toh dharma ki shakti
+swayam prakat hoti hai.
+
+Ahankaar andha hota hai,
+par nyay aur veerta
+ant mein jeet jaate hain."""
             create_image_text_layout(
                 text_content=text2,
                 layout="full"
@@ -7910,7 +8174,24 @@ raksha aur vijay paata hai."""
         # Section 3.5.8
         # --------------------------------------------------
         with st.expander("Section 3.5.8  Section XLIX"):
-            text1 = """ """
+            text1 = """ 
+            Section XLIX – Sachchai aur Pachtava (Hinglish Story Version)
+
+Sanjaya bole:
+
+“O Maharaj,
+aap jo Duryodhana ke baare mein keh rahe ho,
+wo sab sach hai.
+
+Pandav
+bahut zyada dukhi aur krodhit hain.
+Unki patni Draupadi ka
+sabha mein apmaan hua.
+
+Dushasana aur Karna ke kathor shabd
+unke dil ko chot pahunchi.
+Is apmaan ko
+wo kabhi bhool nahi paayenge.”"""
             create_image_text_layout(
                 "attached_assets/chapter3/3.5.8.jpg",
                 text1,
@@ -7918,7 +8199,110 @@ raksha aur vijay paata hai."""
                 image_position="left"
             )
 
-            text2 = """ """
+            text2 = """ 
+            Sanjaya ne aage kaha:
+
+“Arjuna ne
+yuddh mein khud Mahadev ko prasann kiya.
+Bhagwan ne
+Kirata ka roop le kar
+uski pariksha li.
+
+Aur jab Arjuna jeeta,
+toh sab Lokapala
+use apne astr dene aaye.
+
+Is dharti par
+Arjuna jaisa veer
+aur kaun hai?”
+
+“Jise Mahadev bhi
+hila na sake,
+use kaun hara sakta hai?”
+
+“Draupadi ko kheench kar laana,
+Pandavon ke liye
+aag mein ghee dalne jaisa tha.”
+
+Sanjaya ne kaha:
+
+“Jab Duryodhana ne
+apni jangha dikhayi,
+toh Bheem ka krodh ubal pada.
+
+Usne kaha—
+‘Tera ye ghamand
+13 saal baad
+main apni gada se tod dunga.’”
+
+“Pandav sab veer hain.
+Sab astr-vidya jaante hain.
+Devta bhi
+unhe jeet nahi paate.
+
+Apni patni ke apmaan par,
+wo aapke beton ko
+kabhi maaf nahi karenge.”
+
+🌧️ Dhritarashtra ka pachtava
+
+Dhritarashtra bole:
+
+“O Sanjaya,
+Karna ke kathor shabd
+aur dukh badha gaye.
+
+Pehle hi dushmani thi.
+Ab aur gehri ho gayi.”
+
+“Mera beta
+meri baat nahi maanta.
+Mujhe andha samajhta hai.
+
+Uske galat salahkaar—
+Karna aur Shakuni—
+uske ghamand ko aur badhate hain.”
+
+“Arjuna ke teer
+sirf chhoo bhi jaayein,
+toh vinaash ho jaata hai.
+
+Aur jab wo krodh mein aata hai,
+toh kuch bhi nahi bachta.”
+
+“Jiske saath
+Shri Krishna ho,
+use kaun hara sakta hai?”
+
+“Ye bhi ek adbhut baat hai—
+Arjuna ko
+Mahadev ne gale lagaya.
+
+Aur Khandava van mein
+usne Agni ki sahayata ki—
+ye sab duniya ne dekha.”
+
+“Jab Bheem, Arjuna
+aur Krishna ek saath khade honge,
+toh mere bete
+unke saamne
+tik nahi paayenge.”
+
+Dhritarashtra chup ho gaye.
+Unke shabdon mein
+dar aur pachtava tha.
+
+✨ Moral (Seekh):
+
+Ahankaar galat raaste par le jaata hai.
+
+Jab adharm apni seema paar karta hai,
+toh dharma ki shakti
+avashya uthti hai.
+
+Jo apmaan karta hai,
+usse ant mein
+parinaam bhugatna padta hai."""
             create_image_text_layout(
                 text_content=text2,
                 layout="full"
@@ -7928,7 +8312,24 @@ raksha aur vijay paata hai."""
         # Section 3.5.9
         # --------------------------------------------------
         with st.expander("Section 3.5.9  Section L"):
-            text1 = """ """
+            text1 = """ 
+            Section L – Vanvaas Mein Pandavon ka Jeevan (Hinglish Story Version)
+
+Janamejaya ne poocha:
+
+“Pandavon ko vanvaas bhejne ke baad
+Dhritarashtra ka dukh
+be-kaam tha.
+
+Usne apne moorkh bete
+Duryodhana ko
+kyon nahi roka?
+
+Aur ye bataiye—
+jab Pandav jungle mein rahe,
+toh unka bhojan kya tha?
+Jungle ka tha
+ya kheti ka?”"""
             create_image_text_layout(
                 "attached_assets/chapter3/3.5.9.jpg",
                 text1,
@@ -7936,7 +8337,101 @@ raksha aur vijay paata hai."""
                 image_position="left"
             )
 
-            text2 = """ """
+            text2 = """ 
+            🌿 Van ka jeevan
+
+Vaishampayana bole:
+
+Pandav
+sach mein veer the.
+Jungle mein rehkar bhi
+unhone dharm nahi chhoda.
+
+Wo jungle ke
+phal–mool ikattha karte.
+Aur shuddh baanon se
+hirnon ka shikaar karte.
+
+Par sabse pehle,
+khane ka ek hissa
+Brahmanon ko dete.
+Phir hi khud khate.
+
+🙏 Brahmanon ka saath
+
+Jab Pandav
+van mein rahe,
+toh unke saath
+bahut se Brahman bhi the.
+
+Kuch agni-pooja karte the.
+Kuch bina agni ke tapasya karte the.
+
+Lagbhag das hazaar
+vidwaan Brahman the.
+Sab moksha ke marg jaante the.
+
+Yudhishthira
+sabki dekhbhaal karte.
+Kisi ko bhookha
+ya dukhi nahi rehne diya.
+
+Koi kamzor nahi tha.
+Koi ghabraya hua nahi tha.
+
+👑 Yudhishthira ka dharm
+
+Yudhishthira
+apne bhaiyon ko
+apne putron jaise rakhta.
+
+Apne rishtedaaron ko
+apne sage bhai jaisa maanta.
+
+🌸 Draupadi ka mamta
+
+Draupadi
+sabki maa jaisi thi.
+
+Wo pehle
+Pandavon aur Brahmanon ko khilati.
+Phir sabke baad
+khud bhojan karti.
+
+🏹 Roz ka kartavya
+
+Yudhishthira
+poorab disha mein jaate.
+Bheem dakshin mein.
+Nakula aur Sahadeva
+pashchim aur uttar mein.
+
+Haath mein dhanush lekar
+roz jungle ke jeevon ka
+shuddh shikaar karte.
+
+📿 Paanch saal ka vanvaas
+
+Pandav
+Kamyaka van mein
+paanch saal rahe.
+
+Unke mann mein
+Arjuna ki yaad thi.
+Par wo
+adhyayan, pooja
+aur yagya mein lage rahe.
+
+✨ Moral (Seekh):
+
+Asli rajya
+mahalon se nahi,
+dharm aur seva se chalta hai.
+
+Jo musibat mein bhi
+doosron ka dhyaan rakhe,
+wahi sach mein
+raja kehlata hai."""
             create_image_text_layout(
                 text_content=text2,
                 layout="full"
@@ -7946,7 +8441,21 @@ raksha aur vijay paata hai."""
         # Section 3.5.10
         # --------------------------------------------------
         with st.expander("Section 3.5.10  Section LI"):
-            text1 = """ """
+            text1 = """ 
+            Section LI – Der Se Aayi Samajh (Hinglish Story Version)
+
+Vaishampayana bole:
+
+Jab Dhritarashtra ne
+Pandavon ka vanvaasi jeevan suna,
+toh uska mann
+dukh aur chinta se bhar gaya.
+
+Wo gehri saans lekar
+Sanjaya se bola:
+
+“O Saarthi,
+mujhe din–raat shanti nahi milti."""
             create_image_text_layout(
                 "attached_assets/chapter3/3.5.10.jpg",
                 text1,
@@ -7954,7 +8463,144 @@ raksha aur vijay paata hai."""
                 image_position="left"
             )
 
-            text2 = """ """
+            text2 = """ 
+            Mujhe yaad aata hai
+mere beton ka galat vyavahaar.
+Aur Pandavon ke gun—
+unka dhairya,
+unki buddhi,
+unka prem
+aur unki veerta.”
+
+⚔️ Yuddh ka bhay
+
+Dhritarashtra bola:
+
+“Nakula aur Sahadeva bhi
+kam veer nahi.
+Wo bhi yuddh mein
+ajeet hain.
+
+Aur jab Bheem aur Arjuna
+unke saath aayenge,
+toh meri sena
+tik nahi paayegi.”
+
+“Vrishni, Panchal
+aur Pandav—
+sab milkar aayenge.
+Aur unke saath
+Krishna honge.”
+
+“Bheem ki gada ka prahar
+aur Gandiva ki ghoonj—
+koi bhi bardasht nahi kar sakta.”
+
+“Tab mujhe yaad aayenge
+wo salahen
+jo maine kabhi nahi maani.”
+
+🕊️ Sanjaya ki sachchai
+
+Sanjaya ne shant swar mein kaha:
+
+“O Maharaj,
+yeh aapki badi bhool thi
+ki aapne apne bete ko
+rok nahi paaye.
+
+Jab Pandav jua haar gaye,
+Krishna unse milne
+Kamyaka van gaye.
+
+Unhone Pandavon ko
+santvana di.”
+
+Pandavon ke mitra bhi aaye—
+Dhrishtadyumna,
+Virata,
+aur kai veer raja.
+
+Pandavon ne Krishna se kaha,
+“Yuddh mein
+aap Arjuna ke
+sarathi banna.”
+
+Krishna ne kaha,
+“Aisa hi hoga.”
+
+🔥 Krishna ka vachan
+
+Krishna ne Pandavon ko dekh kar kaha:
+
+“Jo rajya tumhara tha,
+main woh
+wapas dilwaunga.
+
+13 saal ke baad,
+adharm ka ant hoga.”
+
+Par Yudhishthira ne kaha:
+
+“Main apna vachan
+poora karunga.
+
+Vanvaas ke baad hi
+yuddh hoga.”
+
+Sab ne Krishna ko
+shant kiya.
+Aur Draupadi ko bhi
+dilasa diya.
+
+“Jo tumhe apmaanit karega,
+wo apna phal paayega.”
+
+⏳ Aane wala sach
+
+Sanjaya bola:
+
+“13ve saal ke baad,
+sab veer aayenge—
+Krishna,
+Balarama,
+Arjuna,
+Bheem,
+Panchal, Kekaya
+aur Matsya ke raja.”
+
+“Kaun jeevit rehna chahega,
+jo in veeron ka
+saamna kare?”
+
+🌧️ Dhritarashtra ka pachtava
+
+Dhritarashtra ne kaha:
+
+“Vidura ne mujhe
+pehle hi chetavani di thi.
+
+Usne kaha tha—
+‘Jua jeetne ki koshish
+ek bhayanak yuddh laayegi.’”
+
+“Aaj mujhe lagta hai—
+wo din
+ab door nahi.”
+
+Dhritarashtra chup ho gaya.
+Uske shabdon mein
+der se aayi samajh thi.
+
+✨ Moral (Seekh):
+
+Galat samay par
+liya gaya faisla,
+poori peedhi ko
+dukh de sakta hai.
+
+Sahi salah ko samay par maanna
+hi sachchi buddhi hai."""
             create_image_text_layout(
                 text_content=text2,
                 layout="full"
