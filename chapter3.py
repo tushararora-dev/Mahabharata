@@ -8612,7 +8612,24 @@ hi sachchi buddhi hai."""
         # Section 3.6.1
         # --------------------------------------------------
         with st.expander("Section 3.6.1  Section LII"):
-            text1 = """ """
+            text1 = """ 
+            Section LII – Bhima ka gussa aur Yudhishthira ka dharma
+
+(Hinglish Moral Story Version)
+
+Ek samay ki baat hai…
+Jab Arjuna swarg gaya tha, weapons lene ke liye, tab uske bhai jungle mein reh rahe the.
+
+🌲 Kamyaka jungle ka dukh
+
+Pandav Krishna ke saath Kamyaka jungle mein reh rahe the.
+Par unka mann bahut udaas tha.
+
+Unhe Arjuna ki bahut yaad aa rahi thi.
+Unki aankhon mein aansu the.
+Unki awaaz bhi bhar aati thi.
+
+Sab log chup baith kar bas Arjuna ke baare mein soch rahe the."""
             create_image_text_layout(
                 "attached_assets/chapter3/3.6.1.jpg",
                 text1,
@@ -8620,7 +8637,138 @@ hi sachchi buddhi hai."""
                 image_position="left"
             )
 
-            text2 = """ """
+            text2 = """ 
+            🔥 Bhima ka gussa
+
+Tab Bhima apna gussa rok nahi paaya.
+
+Bhima ne Yudhishthira se kaha:
+
+“Bhaiya,
+Arjuna hum sab ki taakat hai.
+Uske bina hum kamzor ho gaye hain.”
+
+“Uske bal par hi hum apne dushmano ko hara sakte hain.”
+
+Bhima ke dil mein gussa aur dard dono tha.
+
+⚔️ Bhima ka faisla
+
+Bhima bola:
+
+“Hum Kshatriya hain.
+Jungle mein rehna hamara dharma nahi hai.”
+
+“Hume abhi Hastinapur jaakar
+Duryodhana
+aur uske saathiyon ko hara dena chahiye.”
+
+“Main akela hi sabko hara sakta hoon!”
+
+Bhima ke shabd bijli ki tarah tez the.
+
+🎲 Bhima ka dukh
+
+Bhima ne dard se kaha:
+
+“Yeh sab
+dice game ki wajah se hua.”
+
+“Duryodhana chalaki karta hai.
+Woh hume dobara dhokha de sakta hai.”
+
+“Hum jungle mein chup nahi reh sakte.”
+
+📿 Yudhishthira ka dharma
+
+Yudhishthira shaant the.
+Unhone Bhima ko pyaar se gale lagaya.
+
+Phir bole:
+
+“Bhima,
+tum sach mein bahadur ho.”
+
+“Tum zaroor Duryodhana ko haraoge…
+par samay aane par.”
+
+🕊️ Sach ka vaada
+
+Yudhishthira bole:
+
+“Humne 13 saal ka vanvaas accept kiya hai.
+Main jhoot nahi bol sakta.”
+
+“Sach mera sabse bada dharma hai.”
+
+“Hum bina dhokha diye hi jeetenge.”
+
+Bhima chup ho gaya…
+Par uska dil abhi bhi jal raha tha.
+
+🌿 Ek Rishi ka aana
+
+Tabhi wahan ek mahan rishi aaye —
+Vrihadasva
+
+Pandavon ne unka samman kiya.
+Unhe baithne ko diya.
+
+😢 Yudhishthira ka dard
+
+Yudhishthira ne rishi se kaha:
+
+“Main gambling mein haar gaya.
+Mera rajya chala gaya.”
+
+“Meri patni ko sabke saamne insult kiya gaya.”
+
+“Ab main jungle mein reh raha hoon.”
+
+“Arjuna bhi humse door hai.”
+
+“Shayad main duniya ka sabse dukhi raja hoon.”
+
+🌸 Rishi ka gyaan
+
+Rishi Vrihadasva muskuraye.
+
+Unhone kaha:
+
+“Yudhishthira,
+tumse bhi zyada dukhi ek raja tha.”
+
+“Uska naam tha
+Nala.”
+
+“Usne bhi gambling mein sab kuch kho diya tha.”
+
+“Woh jungle mein sirf apni patni ke saath reh raha tha.
+Na dost, na bhai, na sena.”
+
+“Tumhare paas to tumhare bhai hain.
+Aur Krishna bhi.”
+
+📖 Nayi kahani ki shuruaat
+
+Yudhishthira ne interest se kaha:
+
+“Rishi ji,
+mujhe Raja Nala ki kahani sunaiye.”
+
+Aur yahin se shuru hoti hai…
+Nala aur Damayanti ki famous kahani.
+
+🌟 Seekh (Moral)
+
+Gussa jaldi aata hai,
+par dharma patience sikhata hai.
+
+Mushkil waqt mein
+sach aur dhairya sabse bada bal hota hai.
+
+Har dukh ke baad
+ek nayi kahani shuru hoti hai 💛"""
             create_image_text_layout(
                 text_content=text2,
                 layout="full"
@@ -8630,7 +8778,29 @@ hi sachchi buddhi hai."""
         # Section 3.6.2
         # --------------------------------------------------
         with st.expander("Section 3.6.2  Section LIII"):
-            text1 = """ """
+            text1 = """ 
+            Section LIII – Nala aur Damayanti ki prem kahani ki shuruaat
+
+(Hinglish Moral Story Version)
+
+Ek baar ek mahan rishi ne ek purani kahani sunani shuru ki…
+
+👑 Raja Nala ka parichay
+
+Bahut samay pehle ek bahadur aur sundar raja tha —
+Nala
+
+Woh Nishadh desh ka raja tha.
+Woh bahut dayalu aur sach bolne wala tha.
+
+Usse ghodon ki bahut achhi knowledge thi.
+Woh bahut strong aur brave warrior bhi tha.
+
+Log usse bahut pyaar karte the.
+Sab uski respect karte the.
+
+Par Nala ko ek weakness bhi thi…
+Use dice game pasand tha."""
             create_image_text_layout(
                 "attached_assets/chapter3/3.6.2.jpg",
                 text1,
@@ -8638,7 +8808,123 @@ hi sachchi buddhi hai."""
                 image_position="left"
             )
 
-            text2 = """ """
+            text2 = """ 
+            👑 Vidarbha ka Raja Bhima
+
+Dusri taraf Vidarbha desh mein ek raja tha —
+Bhima
+
+Woh bahut powerful aur achha ruler tha.
+Par uski ek badi problem thi…
+
+Uske koi bachche nahi the.
+Is baat se woh bahut dukhi rehta tha.
+
+✨ Rishi ka vardaan
+
+Ek din ek mahan rishi aaye.
+Raja Bhima ne unki seva ki.
+
+Rishi khush ho gaye.
+Unhone raja ko vardaan diya.
+
+Raja Bhima ko ek sundar beti mili —
+Damayanti
+
+Aur teen bahadur bete bhi mile.
+
+🌸 Damayanti ki sundarta
+
+Damayanti bahut hi sundar thi.
+Uski beauty lightning jaisi chamakti thi.
+
+Uski aankhen bahut khoobsurat thi.
+Uski grace aur charm sabko attract karti thi.
+
+Log kehte the —
+Us jaisi sundar ladki duniya mein nahi hai.
+
+Devtas bhi uski sundarta dekhkar khush ho jaate the.
+
+🌟 Nala aur Damayanti – bina mile pyaar
+
+Dusri taraf Raja Nala bhi bahut handsome tha.
+Log use prem aur respect se dekhte the.
+
+Raj ke doot aur log
+Nala ki tareef Damayanti ko batate rehte the.
+Aur Damayanti ki tareef Nala ko.
+
+Dono ne ek dusre ko kabhi dekha nahi tha…
+Phir bhi dono ke dil mein pyaar ho gaya.
+
+🌳 Nala ka bechain dil
+
+Nala Damayanti ke baare mein sochta rehta tha.
+Uska mann shaant nahi rehta tha.
+
+Woh akela palace ke gardens mein ghoomta rehta tha.
+
+Ek din usne golden wings wale hans (swans) dekhe.
+Usne ek hans pakad liya.
+
+🦢 Hans ki baat
+
+Hans ne Nala se kaha:
+
+“Raja, mujhe mat maaro.”
+“Main tumhari help karunga.”
+
+“Main Damayanti ko tumhare baare mein bataunga.”
+
+Nala khush ho gaya.
+Usne hans ko chhod diya.
+
+🦢 Hans Damayanti ke paas
+
+Hans Vidarbha pahunch gaye.
+Damayanti apni friends ke saath garden mein thi.
+
+Woh hans ko dekhkar bahut khush hui.
+Woh unhe pakadne lagi.
+
+Ek hans Damayanti ko ek quiet jagah le gaya.
+
+💌 Hans ka message
+
+Hans ne insaan ki tarah baat ki:
+
+“Damayanti,
+Ek raja hai — Nala.”
+
+“Woh bahut handsome aur brave hai.”
+“Us jaisa koi aadmi duniya mein nahi hai.”
+
+“Tum bhi duniya ki sabse sundar ladki ho.”
+“Best ka milan best ke saath hi hota hai.”
+
+❤️ Damayanti ka jawab
+
+Damayanti sharma gayi.
+Uska dil bhi Nala ke liye dhadak raha tha.
+
+Usne hans se kaha:
+
+“Jaakar Nala ko bhi meri taraf se yahi bolo.”
+
+Hans wapas Nala ke paas gaya.
+Aur sab bata diya.
+
+🌟 Seekh (Moral)
+
+Saccha pyaar sirf dekhne se nahi hota.
+Kabhi kabhi dil se connection hota hai.
+
+Achhe gun aur character
+kisi ko sach mein sundar banate hain.
+
+Achhai aur sachchai
+hamesha logon ke dil jeet leti hai 💛"""
             create_image_text_layout(
                 text_content=text2,
                 layout="full"
@@ -8648,7 +8934,31 @@ hi sachchi buddhi hai."""
         # Section 3.6.3
         # --------------------------------------------------
         with st.expander("Section 3.6.3  Section LIV"):
-            text1 = """ """
+            text1 = """ 
+            Section LIV – Damayanti ka Swayamvar aur Devtaon ki Yojana
+
+(Hinglish Moral Story Version)
+
+💔 Damayanti ka bechain dil
+
+Hans se Nala ki baat sunne ke baad,
+Damayanti
+bilkul badal gayi.
+
+Uska mann shaant nahi raha.
+Woh baar-baar gehri saanse leti.
+
+Woh udaas rehne lagi.
+Uska chehra peela pad gaya.
+Woh kamzor ho gayi.
+
+Uska dil sirf
+Nala
+ke baare mein sochta rehta tha.
+
+Woh na achhe se soti,
+na khana enjoy karti.
+Din raat roti rehti."""
             create_image_text_layout(
                 "attached_assets/chapter3/3.6.3.jpg",
                 text1,
@@ -8656,7 +8966,101 @@ hi sachchi buddhi hai."""
                 image_position="left"
             )
 
-            text2 = """ """
+            text2 = """ 
+            👑 Raja Bhima ki chinta
+
+Damayanti ki dasiyon ne
+ye sab baat uske pita ko bata di.
+
+Vidarbha ke raja
+Bhima
+bahut pareshaan ho gaye.
+
+Unhone socha:
+“Meri beti itni dukhi kyun hai?”
+
+Phir unhe samajh aaya —
+Damayanti shaadi ki umar tak pahunch gayi hai.
+
+Isliye raja ne decide kiya —
+Damayanti ka Swayamvar hoga.
+
+🌍 Swayamvar ki tayari
+
+Raja Bhima ne duniya bhar ke rajaon ko invite kiya.
+
+Sab raja apni sena ke saath aaye.
+Hathiyon ki garaj,
+ghodon ki awaaz,
+aur rathon ki ghoonj
+poori dharti par sunai dene lagi.
+
+Raja Bhima ne sabka respect se swagat kiya.
+
+🌟 Swarg mein khabar
+
+Us waqt do mahan rishi
+Narada
+aur
+Parvata
+swarg gaye.
+
+Wahan unhone Devtaon ke raja
+Indra
+ko Damayanti ke swayamvar ki khabar di.
+
+Narada bole:
+
+“Damayanti duniya ki sabse sundar ladki hai.”
+“Sab raja usse shaadi karna chahte hain.”
+
+⚡ Devta bhi ho gaye excited
+
+Ye sunte hi
+Indra aur dusre Devta
+Damayanti ko dekhne ke liye tayyar ho gaye.
+
+Sab Devta apne-apne vahan par baithkar
+Vidarbha ki taraf nikal pade.
+
+❤️ Nala bhi chal pada
+
+Idhar
+Raja Nala bhi swayamvar ki khabar sunkar
+bahut khush hua.
+
+Uska dil Damayanti ke pyaar se bhara hua tha.
+Woh bhi swayamvar ke liye nikal pada.
+
+✨ Devta Nala se mile
+
+Raaste mein Devtaon ne Nala ko dekha.
+
+Nala itna handsome tha
+ki Devta bhi hairaan ho gaye.
+
+Woh bilkul prem ke devta jaisa lag raha tha.
+
+Devta apne rath se utar gaye
+aur Nala ke paas aaye.
+
+🙏 Devtaon ki request
+
+Devtaon ne Nala se kaha:
+
+“Nala, tum sach bolne wale aur imaandaar ho.”
+“Tum hamari madad karo.”
+
+“Tum hamare messenger ban jao.”
+
+🌟 Seekh (Moral)
+
+Saccha pyaar kabhi kabhi
+sabse bade test se guzarta hai.
+
+Imaandari aur sachchai
+insaan ko itna mahaan bana deti hai
+ki Devta bhi uski madad maangte hain."""
             create_image_text_layout(
                 text_content=text2,
                 layout="full"
@@ -8666,7 +9070,22 @@ hi sachchi buddhi hai."""
         # Section 3.6.4
         # --------------------------------------------------
         with st.expander("Section 3.6.4  Section LV"):
-            text1 = """ """
+            text1 = """ 
+            Section LV – Nala ka Sach aur Prem ki Kasauti
+
+(Hinglish Moral Story Version)
+
+🤝 Nala ka wada
+
+Nala
+ne Devtaon se wada kar diya:
+
+“Main aapki madad karunga.”
+
+Phir usne haath jodkar poocha:
+“Aap log kaun ho?”
+“Main kis ke liye message lekar jaun?”
+“Mujhe kya karna hoga?”"""
             create_image_text_layout(
                 "attached_assets/chapter3/3.6.4.jpg",
                 text1,
@@ -8674,7 +9093,114 @@ hi sachchi buddhi hai."""
                 image_position="left"
             )
 
-            text2 = """ """
+            text2 = """ 
+            ⚡ Devta apni pehchaan batate hain
+
+Tab Devtaon ke raja
+Indra
+bole:
+
+“Hum Devta hain.”
+“Main Indra hoon.”
+“Yeh Agni hai.”
+Agni
+
+“Yeh Varuna hai.”
+Varuna
+
+“Aur yeh Yama hai.”
+Yama
+
+Indra ne kaha:
+“Tum Damayanti ko batao ki Devta swayamvar mein aa rahe hain.”
+“Usse bolo ki woh hummein se kisi ek ko apna pati chun le.”
+
+💔 Nala ki mushkil
+
+Nala ne dukhi hokar kaha:
+
+“Main bhi Damayanti se pyaar karta hoon.”
+“Main kaise kisi aur ke liye usse yeh baat bol sakta hoon?”
+
+“Please mujhe is kaam se bachaiye.”
+
+🧭 Sach ka farz
+
+Devta bole:
+
+“Nala, tumne wada kiya hai.”
+“Sachche log apna wada todte nahi.”
+
+Nala chup ho gaya.
+Usne apna farz nibhaane ka faisla kiya.
+
+🏰 Damayanti ke mahal mein pravesh
+
+Nala ne poocha:
+“Damayanti ka mahal toh bahut surakshit hai. Main andar kaise jaaunga?”
+
+Indra ne kaha:
+“Tum jaa paoge.”
+
+Devtaon ki shakti se
+Nala bina kisi ko dikhe
+mahal ke andar pahunch gaya.
+
+✨ Damayanti ka roop
+
+Wahan Nala ne dekha —
+Damayanti
+apni saheliyon ke beech baithi thi.
+
+Woh chand se bhi zyada chamak rahi thi.
+Uski sundarta dekhkar
+Nala ka pyaar aur badh gaya.
+
+Par usne apni feelings chhupa li.
+Kyuki woh sachcha aur imaandaar tha.
+
+😲 Sab hairaan ho gaye
+
+Damayanti ki saheliyan
+Nala ko dekhkar shock ho gayi.
+
+Woh sochne lagi:
+“Yeh kaun hai?”
+“Kya yeh koi Devta hai?”
+“Ya Gandharva?”
+
+Sab uski tareef karne lagi.
+Par sharam ki wajah se
+koi usse kuch pooch nahi paaya.
+
+❤️ Damayanti ka sawal
+
+Damayanti ne halka sa muskura kar poocha:
+
+“Tum kaun ho?”
+“Tum itne sundar aur divya kyun lag rahe ho?”
+“Tum yahaan bina kisi ko dikhe kaise aa gaye?”
+
+🕊️ Nala ka sach
+
+Nala ne shaant awaaz mein kaha:
+
+“Main Nala hoon.”
+“Main Devtaon ka sandesh lekar aaya hoon.”
+
+“Indra, Agni, Varuna aur Yama tumse shaadi karna chahte hain.”
+“Tum unmein se kisi ek ko apna pati chun lo.”
+
+“Main yahaan unhi ki shakti se aaya hoon.”
+
+🌟 Seekh (Moral)
+
+Saccha aur imaandaar insaan
+apne dil ke khilaaf jaakar bhi
+apna wada nibhata hai.
+
+Sachchai kabhi aasaan nahi hoti,
+par wahi insaan ko mahaan banati hai."""
             create_image_text_layout(
                 text_content=text2,
                 layout="full"
@@ -8684,7 +9210,31 @@ hi sachchi buddhi hai."""
         # Section 3.6.5
         # --------------------------------------------------
         with st.expander("Section 3.6.5  Section LVI"):
-            text1 = """ """
+            text1 = """ 
+            Section LVI – Damayanti ka Faisla aur Saccha Prem
+
+(Hinglish Moral Story Version)
+
+🙏 Damayanti ka dil ka sach
+
+Damayanti
+ne Devtaon ko pranam kiya.
+Phir woh muskura kar
+Nala
+se boli:
+
+“O Rajan, mujhe apni prem se accept karo.”
+“Mera sab kuch tumhara hai.”
+“Main tumse saccha pyaar karti hoon.”
+
+Usne emotional hokar kaha:
+“Swans ne tumhari tareef karke mere dil mein tumhara pyaar jagaya.”
+“Maine swayamvar sirf tumhare liye rakha hai.”
+
+Phir usne rokar kaha:
+“Agar tum mujhe chhod doge…
+toh main zehar, aag, paani ya phir phansi…
+kuch bhi kar sakti hoon.”"""
             create_image_text_layout(
                 "attached_assets/chapter3/3.6.5.jpg",
                 text1,
@@ -8692,7 +9242,78 @@ hi sachchi buddhi hai."""
                 image_position="left"
             )
 
-            text2 = """ """
+            text2 = """ 
+            😔 Nala ki imaandari
+
+Nala ne uski baat sunkar dard mehsoos kiya.
+Par woh sach aur farz ko nahi bhool sakta tha.
+
+Nala bola:
+“Damayanti, Devta khud tumhe chahte hain.”
+“Main unke pairon ki dhool ke barabar bhi nahi hoon.”
+
+“Devtaon ko na kehna galat hoga.”
+“Tum Devtaon ko chuno.”
+“Tumhe swarg jaisa sukh milega.”
+
+💧 Damayanti ka strong decision
+
+Damayanti ki aankhon mein aansu aa gaye.
+Par uska dil bahut strong tha.
+
+Woh boli:
+“Main sab Devtaon ko pranam karti hoon.”
+“Par main sirf tumhe hi apna pati chunti hoon.”
+
+⚖️ Nala ka dharm sankat
+
+Nala confuse ho gaya.
+Usne kaha:
+
+“Main Devtaon ka messenger ban kar aaya hoon.”
+“Main apna fayda kaise soch sakta hoon?”
+“Yeh dharm ke khilaaf hoga.”
+
+💡 Damayanti ki samajhdari
+
+Damayanti ne shaant hokar ek idea diya.
+
+Woh boli:
+“Ek aisa rasta hai jisme koi paap nahi hoga.”
+
+“Tum swayamvar mein Devtaon ke saath aana.”
+“Sabke saamne main tumhe chunungi.”
+“Tab tum par koi dosh nahi aayega.”
+
+🌟 Nala Devtaon ke paas laut gaya
+
+Nala Devtaon ke paas wapas gaya.
+Devta usse dekhkar curious ho gaye.
+
+Unhone poocha:
+“Kya tum Damayanti se mile?”
+“Usne kya kaha?”
+
+🕊️ Nala sach bata deta hai
+
+Nala ne sab sach bata diya:
+
+“Main mahal mein bina dikhe pahunch gaya.”
+“Damayanti ne mujhe dekha.”
+“Usne Devtaon ki baat suni.”
+
+“Par usne mujhe hi apna pati chuna.”
+“Usne kaha swayamvar mein sabke saamne mujhe chunegi.”
+
+“Ab faisla aap Devtaon par hai.”
+
+🌼 Moral (Seekh)
+
+Saccha pyaar sirf dil ka nahi hota.
+Usme himmat, imaandari aur samajhdari bhi hoti hai.
+
+Jo insaan sach aur dharm par tikta hai,
+uska prem aur respect dono badh jaata hai."""
             create_image_text_layout(
                 text_content=text2,
                 layout="full"
@@ -8702,7 +9323,18 @@ hi sachchi buddhi hai."""
         # Section 3.6.6
         # --------------------------------------------------
         with st.expander("Section 3.6.6  Section LVII"):
-            text1 = """ """
+            text1 = """ 
+            Section LVII – Damayanti ka Swayamvar aur Saccha Chunav
+
+(Hinglish Moral Story Version)
+
+👑 Grand Swayamvar ki shuruaat
+
+Damayanti ke pita, Bhima ne ek grand swayamvar rakha.
+Poore desh ke raja aur yoddha wahan aaye.
+
+Sab raja sundar kapde, gehne aur phoolon ki mala pehne hue the.
+Sab ek bade aur shandaar hall mein baith gaye."""
             create_image_text_layout(
                 "attached_assets/chapter3/3.6.6.jpg",
                 text1,
@@ -8710,7 +9342,118 @@ hi sachchi buddhi hai."""
                 image_position="left"
             )
 
-            text2 = """ """
+            text2 = """ 
+            ✨ Damayanti ka entry
+
+Jab Damayanti hall mein aayi…
+Sab raja uski beauty dekh kar stunned reh gaye.
+Unki nazrein us par hi ruk gayi.
+
+Woh bahut graceful aur bright lag rahi thi.
+
+😰 Sabse bada confusion
+
+Jab swayamvar shuru hua…
+Damayanti ne dekha ki saamne 5 ek jaise aadmi baithe hain.
+
+Sab bilkul same dikh rahe the.
+Sab Nala jaise lag rahe the.
+
+Damayanti confuse ho gayi.
+Woh sochne lagi:
+
+“Main kaise pata karu kaun asli Nala hai?”
+
+🙏 Damayanti ki prarthana
+
+Damayanti ne dil se Devtaon se prarthana ki.
+
+Woh boli:
+“Mainne sach aur pure dil se Nala ko hi apna pati chuna hai.”
+“Agar mera prem saccha hai…
+toh Devta mujhe asli Nala dikha dein.”
+
+🌟 Devta sach dikha dete hain
+
+Damayanti ki sachchai aur prem dekhkar Devta khush ho gaye.
+Unhone apna asli roop dikha diya.
+
+Damayanti ne difference notice kiya:
+
+👉 Devta
+
+Unki aankhen blink nahi karti thi
+
+Unko pasina nahi aata tha
+
+Unki mala kabhi murjhaati nahi thi
+
+Woh zameen ko touch nahi kar rahe the
+
+👉 Asli Nala
+
+Pasina aa raha tha
+
+Mala thodi murjha gayi thi
+
+Zameen par khade the
+
+Aankhen blink kar rahi thi
+
+Damayanti samajh gayi —
+“Yahi mera Nala hai.”
+
+💍 Damayanti ka final decision
+
+Damayanti sharmaate hue Nala ke paas gayi.
+Usne phoolon ki mala Nala ke gale mein daal di.
+
+Sab raja shock ho gaye.
+Par Devta aur Rishi khush ho kar bole:
+“Excellent! Excellent!”
+
+❤️ Nala ka wada
+
+Nala emotional ho gaya.
+Woh bola:
+
+“Tumne Devtaon ke saamne mujhe chuna.”
+“Main hamesha tumhara hi rahunga.”
+
+Damayanti ne bhi respect aur prem se Nala ko accept kiya.
+
+🎁 Devtaon ke blessings
+
+Devta Nala se khush ho gaye.
+Unhone use blessings diye:
+
+Sacrifice mein Devta darshan
+
+Jab chahe Agni aur Jal ki help
+
+Food ka special taste
+
+Dharma aur good karma mein excellence
+
+Heavenly fragrance wali mala
+
+💒 Shaadi aur happy life
+
+Phir Damayanti aur Nala ki shaadi hui.
+Woh dono bahut happy life jeene lage.
+
+Unke do bachche hue:
+👉 Ek beta – Indrasena
+👉 Ek beti – Indrasena
+
+Nala ne achha raja ban kar desh ko shanti aur happiness di.
+
+🌼 Moral (Seekh)
+
+Saccha prem hamesha sach aur dharm par tikta hai.
+
+Jo insaan patience aur faith rakhta hai,
+use sahi insaan aur sahi raasta mil hi jata hai."""
             create_image_text_layout(
                 text_content=text2,
                 layout="full"
@@ -8720,7 +9463,23 @@ hi sachchi buddhi hai."""
         # Section 3.6.7
         # --------------------------------------------------
         with st.expander("Section 3.6.7  Section LVIII"):
-            text1 = """ """
+            text1 = """ 
+            Section XLVIII – Dhritarashtra ka Dar aur Chinta
+
+(Hinglish Moral Story Version)
+
+Ek din Raja Janamejaya ne poocha,
+“Arjuna ke itne bade aur amazing kaam sunke, Raja Dhritarashtra ne kya kaha tha?”
+
+👑 Dhritarashtra ko sach pata chalta hai
+
+Rishi Vyasa se sunne ke baad,
+Raja Dhritarashtra bahut tension mein aa gaya.
+
+Usne apne saarathi Sanjaya se kaha:
+
+“Arjuna ke kaam bahut hi amazing aur powerful hain.”
+“Mujhe lagta hai mera beta galat raaste par chal raha hai.”"""
             create_image_text_layout(
                 "attached_assets/chapter3/3.6.7.jpg",
                 text1,
@@ -8728,7 +9487,66 @@ hi sachchi buddhi hai."""
                 image_position="left"
             )
 
-            text2 = """ """
+            text2 = """ 
+            😟 Baap ka darr
+
+Dhritarashtra dukhi ho kar bola:
+
+“Mera beta buri soch aur galat neeti follow kar raha hai.”
+“Woh puri duniya ko barbaad kar sakta hai.”
+
+Usne kaha:
+
+“Jiske saath Arjuna jaisa warrior ho…
+Woh teenon lok jeet sakta hai.”
+
+⚔️ Arjuna ka darr sabko
+
+Dhritarashtra ne Sanjaya se kaha:
+
+“Kaun Arjuna ka saamna kar sakta hai?”
+“Jab woh apne teer chalayega, koi uske saamne tik nahi payega.”
+
+Usne Pandavo ki strength samjhi.
+Aur apne beton ke future se darne laga.
+
+🧠 Warriors ka comparison
+
+Dhritarashtra ne socha:
+
+Drona – Bahut powerful hai, par ab buddhe ho rahe hain
+
+Karna – Bahadur hai, par kabhi kabhi emotional ho jata hai
+
+Bhishma – Bahut mahan warrior hai
+
+Phir bhi…
+Usko laga Arjuna sab par heavy padega.
+
+🌩️ Arjuna ki shakti ka comparison
+
+Dhritarashtra bola:
+
+“Bijli jab pahad par girti hai, pahad ka kuch hissa bach jata hai.”
+“Par Arjuna ke teer kuch bhi nahi chhodte.”
+
+“Uske teer Suraj ki garmi ki tarah sab kuch jala sakte hain.”
+
+😨 Future ka dar
+
+Dhritarashtra ko laga:
+
+“Arjuna ko Bhagwan ne ek Destroyer banaya hai.”
+“Jab woh battlefield mein aayega, sabko hara dega.”
+
+Woh helpless feel karne laga.
+Usko samajh aa gaya ki uske bete bahut bade danger mein hain.
+
+🌼 Moral (Seekh)
+
+👉 Galat logon ka saath dena, aakhir mein dukh hi deta hai.
+👉 Sach aur dharm hamesha powerful hota hai.
+👉 Parents agar galti par bachon ko na roke, toh future mein sabko suffer karna padta hai."""
             create_image_text_layout(
                 text_content=text2,
                 layout="full"
@@ -8738,7 +9556,24 @@ hi sachchi buddhi hai."""
         # Section 3.6.8
         # --------------------------------------------------
         with st.expander("Section 3.6.8  Section LIX"):
-            text1 = """ """
+            text1 = """ 
+            Section LIX – Nala ka Dice Game aur Kali ka Prabhav
+
+(Hinglish Moral Story Version)
+
+Ek din buri shakti Kali ne socha ki woh Raja Nala ki life barbaad karega.
+Usne apne dost Dvapara ke saath plan banaya.
+
+Kali Nala ke rajya mein chupkar rehne laga.
+Woh bas ek galti ka wait kar raha tha.
+
+⚠️ Chhoti galti, bada nuksaan
+
+Ek din Raja Nala jaldi mein the.
+Unhone shauch ke baad apne pair dhoye bina hi pooja kar li.
+
+Bas wahi chhoti si galti thi.
+Isi mauke ka faayda uthakar Kali unke andar ghus gaya."""
             create_image_text_layout(
                 "attached_assets/chapter3/3.6.8.jpg",
                 text1,
@@ -8746,7 +9581,75 @@ hi sachchi buddhi hai."""
                 image_position="left"
             )
 
-            text2 = """ """
+            text2 = """ 
+            🎲 Dice game ki shuruat
+
+Kali ne Nala ke bhai Pushkara ko bhadkaaya.
+Usne bola,
+“Tum Nala ko dice game ke liye challenge karo. Main tumhari help karunga.”
+
+Pushkara turant Nala ke paas gaya.
+Usne baar baar bola,
+“Chalo dice khelte hain.”
+
+😔 Nala ka galat decision
+
+Nala samajhdar aur noble king the.
+Lekin Damayanti ke saamne challenge hone par woh mana nahi kar paaye.
+
+Game shuru ho gaya.
+Aur Kali ke influence mein Nala baar baar harne lage.
+
+💰 Sab kuch haarta gaya
+
+Nala dheere dheere haarne laga:
+
+Gold
+
+Silver
+
+Kapde
+
+Rath aur ghode
+
+Woh dice game mein itna kho gaye ki kisi ki baat nahi sun rahe the.
+
+🏛️ Praja ki chinta
+
+Nala ke citizens aur ministers bahut worried ho gaye.
+Woh palace ke gate par aa gaye.
+
+Unhone Damayanti se request ki,
+“King ko samjhao. Hum unki help karna chahte hain.”
+
+💔 Damayanti ka dard
+
+Damayanti roti hui Nala ke paas gayi.
+Usne kaha,
+“Praja aapko milna chahti hai.
+Woh aapki chinta kar rahe hain.”
+
+Lekin Nala par Kali ka effect itna strong tha…
+Ki unhone ek shabd bhi nahi bola.
+
+😞 Praja ki nirasha
+
+Citizens bahut dukhi ho gaye.
+Unhone socha unka king ab pehle jaisa nahi raha.
+
+Woh heavy heart ke saath wapas chale gaye.
+
+⏳ Game chalta raha
+
+Kai mahino tak Nala aur Pushkara dice khelte rahe.
+Aur har baar Nala hi haarta gaya.
+
+🌼 Moral (Seekh)
+
+👉 Chhoti galti kabhi kabhi bada nuksaan la sakti hai.
+👉 Gambling aur addiction insaan ko barbaad kar sakti hai.
+👉 Achhe log bhi galat influence mein aa kar galat decisions le sakte hain.
+👉 Family aur friends ki baat ignore nahi karni chahiye."""
             create_image_text_layout(
                 text_content=text2,
                 layout="full"
@@ -8756,7 +9659,23 @@ hi sachchi buddhi hai."""
         # Section 3.6.9
         # --------------------------------------------------
         with st.expander("Section 3.6.9  Section LX"):
-            text1 = """ """
+            text1 = """ 
+            Section LX – Damayanti ka Dard aur Bachchon ko Bachana
+
+(Hinglish Moral Story Version)
+
+Damayanti ne dekha ki Raja Nala dice game mein apna hosh kho chuke the.
+Woh bahut darr aur dukhi ho gayi.
+
+Usse samajh aa gaya ki situation bahut serious hai.
+Use laga ki jaldi kuch karna zaroori hai.
+
+😟 Damayanti ka decision
+
+Damayanti ne apni trusted maid Vrihatsena ko bulaya.
+Usne kaha,
+“Jaao aur ministers ko bulao.
+Pata karo king ne kitna dhan aur samaan haar diya hai.”"""
             create_image_text_layout(
                 "attached_assets/chapter3/3.6.9.jpg",
                 text1,
@@ -8764,7 +9683,73 @@ hi sachchi buddhi hai."""
                 image_position="left"
             )
 
-            text2 = """ """
+            text2 = """ 
+            🏛️ Ministers ka aana
+
+Ministers turant palace aa gaye.
+Damayanti ne Nala ko bataya ki praja aur councillors milna chahte hain.
+
+Lekin Nala ne unki baat ignore kar di.
+Damayanti ko bahut sharam aur dukh hua.
+Woh chup chaap apne room mein chali gayi.
+
+💔 Sab kuch haar chuke the
+
+Damayanti ko pata chala ki Nala almost sab kuch haar chuke hain.
+Uska dil toot gaya.
+
+Phir usne Vrihatsena ko dobara bulaya.
+Is baar usne kaha,
+“Charioteer Varshneya ko bulao. Situation bahut dangerous hai.”
+
+🚗 Bachchon ko bachane ka plan
+
+Varshneya aaya.
+Damayanti ne usse pyar aur respect se kaha,
+
+“King hamesha tum par trust karte the.
+Ab unhe tumhari help chahiye.”
+
+Usne bola,
+“King dice mein itna doob gaye hain ki kisi ki baat nahi sun rahe.
+Mujhe darr hai ki unke saath kuch bura ho sakta hai.”
+
+Phir Damayanti ne ek mushkil decision liya.
+
+👶 Bachchon ko safe jagah bhejna
+
+Usne kaha,
+“King ke favourite horses aur rath ready karo.
+Mere dono bachchon ko Vidarbha le jao.”
+
+Usne kaha,
+“Unhe mere parents ke paas chhod dena.
+Wahan woh safe rahenge.”
+
+😢 Vidai ka dard
+
+Varshneya ne ministers se baat ki.
+Sab ne Damayanti ke decision ko sahi maana.
+
+Woh bachchon ko lekar Vidarbha chala gaya.
+Wahan bachchon ko safely chhod diya.
+
+Varshneya ka dil bahut dukhi tha.
+Usne Raja Bhima se farewell liya.
+
+🌍 Nayi journey
+
+Uske baad Varshneya kuch samay bhatakta raha.
+Phir woh Ayodhya pahucha.
+
+Wahan usne King Rituparna ki service join kar li.
+
+🌼 Moral (Seekh)
+
+👉 Mushkil waqt mein calm aur smart decisions lena zaroori hota hai.
+👉 True love ka matlab hota hai family ko protect karna.
+👉 Kabhi kabhi sacrifice karna padta hai loved ones ke liye.
+👉 Addiction insaan ko apne parivaar se door kar sakti hai."""
             create_image_text_layout(
                 text_content=text2,
                 layout="full"
