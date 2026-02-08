@@ -9759,7 +9759,24 @@ Wahan usne King Rituparna ki service join kar li.
         # Section 3.6.10
         # --------------------------------------------------
         with st.expander("Section 3.6.10  Section LXI"):
-            text1 = """ """
+            text1 = """ 
+            🌧️ Section LXI – Nala Aur Damayanti Ka Dukh Bhara Safar
+
+(Hinglish Story – Simple, Emotional, Moral Tone)
+
+Pushkara ne aakhirkaar Nala se sab kuch jeet liya.
+Uska rajya, dhan, sab chala gaya.
+
+Phir Pushkara hans kar bola,
+"Ab aur kya daav lagaoge? Sirf Damayanti hi bachi hai."
+
+Yeh sunkar Nala ka dil gusse se bhar gaya.
+Par usne kuch nahi kaha.
+
+Chup-chaap usne apne saare gehne utaar diye.
+Sirf ek kapde mein, sab kuch chhod kar, wo wahan se nikal gaya.
+
+Damayanti bhi ek hi kapde mein, uske peeche chal padi."""
             create_image_text_layout(
                 "attached_assets/chapter3/3.6.10.jpg",
                 text1,
@@ -9767,7 +9784,116 @@ Wahan usne King Rituparna ki service join kar li.
                 image_position="left"
             )
 
-            text2 = """ """
+            text2 = """ 
+            🌲 Jungle Ka Safar
+
+Dono sheher ke bahar teen din tak ruk gaye.
+Na khana, na sahara.
+Sirf paani pe jee rahe the.
+
+Pushkara ne sheher mein elaan kar diya tha:
+"Jo bhi Nala ki madad karega, use saza milegi."
+
+Isliye koi bhi unke paas nahi aaya.
+Sab darte the.
+
+Nala aur Damayanti bhookh se pareshaan jungle ki taraf chal pade.
+
+🐦 Sone Jaise Pakshi
+
+Ek din Nala ne kuch sone jaise chamakte pakshi dekhe.
+Usne socha,
+"Aaj inhe pakad kar khana milega."
+
+Usne apna eklauta kapda un par daal diya.
+
+Lekin jaise hi kapda gira,
+Pakshi ud gaye…
+Aur kapda bhi saath le gaye.
+
+Ab Nala bilkul bina kapdon ke reh gaya.
+
+Tab un pakshiyon ne aasman se awaaz lagayi:
+
+"Hum wahi paase (dice) hain jinhone tumhe haraya.
+Hum tumhara sab kuch le chuke hain.
+Ab kapda bhi le gaye."
+
+Nala dukhi ho gaya.
+Uska sar jhuk gaya.
+
+💔 Nala Ka Dard
+
+Nala ne Damayanti se kaha:
+
+"Yeh sab unhi paason ki wajah se hua.
+Unhone mera rajya le liya.
+Mujhe bhooka bana diya.
+Ab kapda bhi le gaye."
+
+Phir usne alag-alag raaste dikhaye:
+
+"Yeh raasta Vidarbha jata hai.
+Yeh Kosala jata hai.
+Yeh Vindhya pahadon ki taraf jata hai."
+
+Wo baar-baar raaste batata raha.
+
+😢 Damayanti Ka Dar
+
+Damayanti samajh gayi.
+Uska dil kaap utha.
+
+Rote hue boli:
+
+"Aap mujhe akela chhodne ki baat kyun kar rahe ho?
+Main aapko kaise chhod sakti hoon?
+
+Jab aap thak jaoge,
+Jab aap dukhi hoge,
+Main aapka sahara banungi.
+
+Ek patni hi pati ka sabse bada ilaaj hoti hai."
+
+Uski awaaz ro-ro kar bhar aayi.
+
+❤️ Nala Ka Jawab
+
+Nala ne pyaar se kaha:
+
+"Damayanti, tum sahi keh rahi ho.
+Dukh mein patni se bada dost koi nahi hota.
+
+Main khud ko chhod sakta hoon,
+Par tumhe kabhi nahi chhod sakta."
+
+😔 Damayanti Ki Soch
+
+Damayanti phir boli:
+
+"Agar aap mujhe chhodna nahi chahte,
+To baar-baar Vidarbha ka raasta kyun dikhate ho?
+
+Mujhe darr lagta hai.
+Aapka mann pareshan hai.
+Kahin aap mujhe akela na chhod do."
+
+Phir usne kaha:
+
+"Agar aap chaho, to hum dono mere ghar chalte hain.
+Mere pita aapko respect denge.
+Wahan aapko shanti milegi."
+
+🌸 Moral of the Story
+
+Jab insaan sab kuch haar jata hai, tab asli pyaar ka pata chalta hai.
+
+Saccha saathi kabhi mushkil mein saath nahi chhodta.
+
+Gham aur garibi mein bhi patni-pati ek dusre ka sahara bante hain.
+
+Ghamand aur buri aadatein (jaise jua) zindagi barbaad kar sakti hain. Yeh safar dukh bhara tha…
+Par unke pyaar ki kasauti bhi thi. 💛"""
             create_image_text_layout(
                 text_content=text2,
                 layout="full"
@@ -9777,7 +9903,20 @@ Wahan usne King Rituparna ki service join kar li.
         # Section 3.6.11
         # --------------------------------------------------
         with st.expander("Section 3.6.11  Section LXII"):
-            text1 = """ """
+            text1 = """ 
+            🌙 Section LXII – Nala Ka Sabse Mushkil Faisla
+
+(Hinglish Story – Simple, Emotional, Moral Tone)
+
+Nala ne Damayanti ki baat dhyaan se suni.
+Phir dheere se bola,
+
+"Tumhare pita ka ghar bhi mera hi ghar hai.
+Lekin main wahan abhi nahi ja sakta.
+Pehle jab gaya tha, main khush aur shaan se bhara tha.
+Ab agar wahan jaunga, to tumhe aur dukh hoga."
+
+Yeh kehkar Nala ne use samjhaya."""
             create_image_text_layout(
                 "attached_assets/chapter3/3.6.11.jpg",
                 text1,
@@ -9785,7 +9924,104 @@ Wahan usne King Rituparna ki service join kar li.
                 image_position="left"
             )
 
-            text2 = """ """
+            text2 = """ 
+            🌲 Thaka Hua Safar
+
+Dono ek hi kapde mein the.
+Bhookh aur pyaas se bahut kamzor ho chuke the.
+
+Chalte-chalte wo ek chhoti si jhopdi jaisi jagah par pahunch gaye,
+Jahan musafir rukte the.
+
+Nala zameen par baith gaya.
+Damayanti bhi uske saath baith gayi.
+
+Dono bahut thak gaye the.
+Dhool se bhare hue, kamzor aur udaas.
+
+Thodi der baad Damayanti zameen par hi so gayi.
+Wo bahut masoom aur nirdosh lag rahi thi.
+
+💭 Nala Ki Bechain Soch
+
+Par Nala ko neend nahi aa rahi thi.
+
+Uske dimaag mein bas ek hi baat chal rahi thi:
+"Sab kuch chala gaya…
+Rajya, dost, sab."
+
+Usne socha:
+
+"Agar main iske saath rahunga, to ise sirf dukh milega.
+Agar main ise chhod du, to shayad ye apne ghar pahunch jaaye…
+Shayad wahan ise sukh mile."
+
+Wo baar-baar sochta raha.
+Uska dil toot raha tha.
+
+Par Kali ka asar uske mann par chhaya hua tha.
+
+Aakhir usne socha,
+"Shayad ise chhod dena hi iske liye sahi hoga."
+
+😢 Dard Bhara Faisla
+
+Nala ne dekha ki dono ek hi kapde mein hain.
+Usne socha,
+"Mujhe aadha kapda le lena chahiye… par bina ise jagaye kaise?"
+
+Wo dheere-dheere chalne laga.
+Tabhi usse ek talwar mili.
+
+Usne bahut sambhal kar kapde ka aadha hissa kaat liya.
+Damayanti so rahi thi… use pata bhi nahi chala.
+
+Phir Nala use chhod kar jaane laga.
+
+💔 Pyaar Aur Dard
+
+Jaise hi wo thoda door gaya,
+Uska dil toot gaya.
+
+Wo wapas aaya.
+Damayanti ko dekha… aur ro pada.
+
+Usne dheere se kaha:
+
+"Jo rani kabhi zameen par nahi soyi,
+Aaj mitti par so rahi hai…
+
+Kal jab ye uthegi,
+To jungle mein akeli kya karegi?"
+
+Usne aasman ki taraf dekh kar dua maangi:
+
+"Suraj, devta aur sab rakshak iski raksha karein."
+
+🔁 Dil Ka Sangharsh
+
+Nala baar-baar jaata…
+Phir wapas aata.
+
+Uska dil jaane nahi de raha tha.
+Par Kali ka asar use door kheench raha tha.
+
+Wo bilkul toot chuka tha.
+Jaise uska dil do tukdo mein bant gaya ho.
+
+Aakhir bahut der tak rote hue,
+Wo Damayanti ko sote hue hi chhod kar chala gaya.
+
+Damayanti jungle mein akeli reh gayi…
+Aur Nala dukh se bhara hua door nikal gaya.
+
+🌸 Moral of the Story
+
+Kabhi-kabhi pyaar mein bhi log galat faisle le lete hain.
+
+Bura samay aur galat asar insaan ka dimaag badal deta hai.
+
+Saccha pyaar chhodte waqt bhi ro deta hai. Ye pal Nala aur Damayanti ki zindagi ka sabse dukhad mod tha. 💔"""
             create_image_text_layout(
                 text_content=text2,
                 layout="full"
@@ -9795,7 +10031,18 @@ Wahan usne King Rituparna ki service join kar li.
         # Section 3.6.12
         # --------------------------------------------------
         with st.expander("Section 3.6.12  Section LXIII"):
-            text1 = """ """
+            text1 = """ 
+            🌲 Section LXIII – Damayanti Akeli Jungle Mein
+
+(Simple Hinglish Story Summary with Emotion & Meaning)
+
+Nala ke jaane ke baad, Damayanti jab neend se jaagi, to usne apne aas-paas dekha.
+Woh akeli thi.
+
+Na Nala, na koi aur.
+Bas sunsaan jungle.
+
+Dar aur dukh se uski cheekh nikal gayi."""
             create_image_text_layout(
                 "attached_assets/chapter3/3.6.12.jpg",
                 text1,
@@ -9803,7 +10050,81 @@ Wahan usne King Rituparna ki service join kar li.
                 image_position="left"
             )
 
-            text2 = """ """
+            text2 = """ 
+            💔 Uska Dard Bhara Pukaar
+
+Woh ro-ro kar chillane lagi:
+
+“Hey swami! Aap mujhe chhod kar kahan chale gaye?
+Main is jungle mein akeli hoon… dar rahi hoon…”
+
+Usne yaad dilaya:
+“Apne sabke saamne vachan diya tha ki kabhi saath nahi chhodoge.
+Phir mujhe sote hue kyun chhod diya?”
+
+Woh idhar-udhar bhaagti rahi.
+Kabhi girti, kabhi sambhalti.
+Kabhi roti, kabhi cheekhti.
+
+Usse apne dukh se zyada Nala ki chinta thi:
+
+“Jab tum bhookhe, thake aur akela mehsoos karoge,
+tab tumhe kaun sambhalega?”
+
+🐍 Bhayanak Sankat
+
+Apne pati ko dhoondte-dhoondte,
+woh jungle ke andar aur gehri chali gayi.
+
+Tabhi ek bada sa saanp uske paas aaya
+aur usse jakad liya.
+
+Par us pal bhi Damayanti apne liye nahi royi.
+Woh sirf Nala ko yaad kar rahi thi:
+
+“Hey Naishadh! Agar tum yahan hote to mujhe bachate…
+Aur tumhara kya hoga jab tum mujhe yaad karoge?”
+
+🏹 Shikari Ka Aana
+
+Tabhi ek shikari ne uski cheekh suni.
+Woh turant wahan aaya aur usne saanp ko maar diya.
+Usne Damayanti ko bachaya, paani pilaya aur sambhala.
+
+Phir usne poocha:
+“Tum kaun ho? Jungle mein akeli kaise aa gayi?”
+
+Damayanti ne use apni poori kahani bata di —
+kaise rajya chala gaya, kaise Nala bichhad gaya.
+
+⚠️ Shikari Ki Galat Soch
+
+Lekin us shikari ke mann mein bure vichaar aa gaye.
+Usne Damayanti ki majboori dekhkar galat irade bana liye.
+
+Damayanti ne turant uski niyat samajh li.
+Woh krodh se jal uthi.
+
+Jab shikari ne zabardasti karne ki koshish ki,
+to Damayanti ne use shraap diya:
+
+“Main kabhi Nala ke alawa kisi aur ko soch bhi nahi sakti.
+Agar yeh sach hai, to tu turant gir kar mar ja.”
+
+Jaise hi usne yeh kaha,
+shikari wahi gir gaya… aur uski maut ho gayi.
+
+🌸 Is Katha Ka Gehra Arth
+
+Damayanti ka pati-prem aur pativrata-dharma bahut shaktishaali dikhaya gaya hai.
+
+Jungle mein akeli hone par bhi usne himmat nahi haari.
+
+Sachcha prem aur pavitrata ko ek divya shakti ke roop mein dikhaya gaya hai.
+
+Yeh pal uski zindagi ka sabse kathin samay tha —
+akeli, bhookhi, dukh se bhari…
+par fir bhi apne prem aur satya par atal."""
             create_image_text_layout(
                 text_content=text2,
                 layout="full"
@@ -9813,7 +10134,17 @@ Wahan usne King Rituparna ki service join kar li.
         # Section 3.6.13
         # --------------------------------------------------
         with st.expander("Section 3.6.13  Section LXIV"):
-            text1 = """ """
+            text1 = """ 
+            🌲 Section LXIV – Damayanti ki Dhoondh aur Dard Bhari Yatra
+
+Damayanti ne shikari ko shraap dene ke baad phir se jungle ki taraf chalna shuru kiya.
+Jungle bahut bhayanak tha.
+
+Har taraf sher, baagh, hathi, saanp aur ajeeb awaazein thi.
+Ped-paudhe ghane the, aur raaste andhere aur sunsaan.
+
+Lekin Damayanti ko kisi jaanwar se darr nahi lag raha tha.
+Usse sirf ek hi dukh tha — Nala se bichhadna."""
             create_image_text_layout(
                 "attached_assets/chapter3/3.6.13.jpg",
                 text1,
@@ -9821,7 +10152,127 @@ Wahan usne King Rituparna ki service join kar li.
                 image_position="left"
             )
 
-            text2 = """ """
+            text2 = """ 
+            💔 Akeli Baithi Hui Pukar
+
+Ek pathar par baith kar woh zor-zor se royi.
+Usne aasman aur jungle se poocha:
+
+“Hey Nala, tum mujhe chhod kar kahan chale gaye?
+Tumne hamesha kaha tha ki main hi tumhari sabse pyari hoon…
+Phir aaj mujhe akela kyun chhod diya?”
+
+Woh har taraf dekh kar pukarti:
+“Koi hai jo mujhe bata sake ki Nala kahan hai?”
+
+Kabhi pahadon se baat karti,
+kabhi pedon se.
+
+⛰️ Pahad Se Baat
+
+Usne ek bade pahad ko dekh kar kaha:
+
+“Hey mahaan pahad, tum sab kuch dekh sakte ho.
+Kya tumne mere pati Nala ko dekha hai?
+Main ek raja ki beti hoon, aur ek raja ki patni bhi.
+Main bas apne pati ko dhoondh rahi hoon.”
+
+Uski awaaz dukh se bhari thi.
+Aankhon mein aansu ruk hi nahi rahe the.
+
+🌿 Rishiyon Ka Ashram
+
+Teen din chalne ke baad,
+Damayanti ko ek sundar ashram dikha.
+
+Wahan bahut saare rishi-muni rehte the.
+Koi hawa par jeeta tha, koi paani par, koi patton par.
+Sab shaant aur pavitra the.
+
+Damayanti ne jaakar unhe pranam kiya.
+
+Rishiyon ne pyaar se poocha:
+“Beti, tum kaun ho?
+Tum itni dukh bhari halat mein yahan kaise aayi?”
+
+Damayanti ne apni poori kahani bata di —
+ki woh raja Bhima ki beti hai,
+aur raja Nala ki patni.
+Aur woh bas apne pati ko dhoondh rahi hai.
+
+Woh ro kar boli:
+“Agar mujhe kuch dinon mein Nala nahi mile,
+to main jeena chhod dungi.
+Unke bina meri zindagi ka koi matlab nahi.”
+
+🌟 Rishiyon Ki Aashirvaad
+
+Rishiyon ne shant swar mein kaha:
+
+“Beti, chinta mat karo.
+Hum apni tapasya ki shakti se dekh rahe hain.
+Tum jaldi hi Nala se milogi.
+Woh phir se raja banega,
+aur tum dono phir khush rahoge.”
+
+Yeh sun kar Damayanti ke dil ko thoda sahara mila.
+
+Lekin achanak…
+wo ashram, rishi, sab gayab ho gaye.
+
+Jaise koi sapna ho.
+
+Damayanti hairaan reh gayi.
+
+🌳 Asoka Ped Ke Paas
+
+Aage chal kar usne ek sundar Asoka ka ped dekha.
+Usne aansuon bhari aankhon se usse kaha:
+
+“Hey Asoka, tumhara naam hi dukh door karne wala hai.
+Agar tumne mere Nala ko dekha hai,
+to mujhe batao.
+Mera dukh door karo.”
+
+Woh ped ke chakkar laga kar phir jungle mein aage badh gayi.
+
+🐘 Vyapariyon Ka Samuh
+
+Thodi door chalne par usse ek bada caravan dikha.
+Bahut saare vyapari, hathi, ghode aur samaan ke saath wahan rukke the.
+
+Damayanti ki halat dekh kar kuch log darr gaye.
+Kuch log hans pade.
+Kuch ko us par daya aayi.
+
+Unhone poocha:
+“Tum kaun ho?
+Kya tum koi devi ho ya koi jungle ki aatma?”
+
+Damayanti ne dheere se kaha:
+
+“Main ek insaan hoon.
+Main ek raja ki beti aur ek raja ki patni hoon.
+Mera naam Damayanti hai.
+Main bas apne pati Nala ko dhoondh rahi hoon.”
+
+🚶‍♀️ Nayi Yatra Ki Shuruaat
+
+Caravan ke leader ne kaha:
+“Humne Nala naam ka koi vyakti nahi dekha.
+Yahan sirf jungle aur jaanwar hain.”
+
+Phir Damayanti ne poocha:
+“Tum log kahan ja rahe ho?”
+
+Leader bola:
+“Hum Chedi desh ke raja Subahu ke sheher ja rahe hain.”
+
+Damayanti ne socha,
+shayad yahi uski agle safar ki raah hai…
+
+Aur woh phir se chal padi —
+apne Nala ki talaash mein. 🌙"""
             create_image_text_layout(
                 text_content=text2,
                 layout="full"
@@ -9831,7 +10282,15 @@ Wahan usne King Rituparna ki service join kar li.
         # Section 3.6.14
         # --------------------------------------------------
         with st.expander("Section 3.6.14  Section LXV"):
-            text1 = """ """
+            text1 = """ 
+            🌙 Section LXV – Damayanti ka Dard aur Nayi Shuruaat
+
+Damayanti ne caravan ke leader ki baat suni aur unke saath hi chal padi.
+Uska dil bas ek hi cheez chahta tha — apne pati Nala ko dhoondhna.
+
+Kai din tak safar karte hue, sab log ek sundar jheel ke paas pahuche.
+Jheel mein kamal khile the, hawa thandi thi, aur aas-paas ped aur phool the.
+Sab log thak gaye the, isliye raat ko wahi ruk gaye."""
             create_image_text_layout(
                 "attached_assets/chapter3/3.6.14.jpg",
                 text1,
@@ -9839,7 +10298,141 @@ Wahan usne King Rituparna ki service join kar li.
                 image_position="left"
             )
 
-            text2 = """ """
+            text2 = """ 
+            🐘 Raat ka Darawna Haadsa
+
+Raat ke beech sab so rahe the.
+Tabhi achanak jungle se ek bada jhund jangal ke haathiyon ka aaya.
+
+Unhone caravan ko dekh liya.
+Unhe laga ki yeh dusre haathi unki jagah le rahe hain.
+
+Gusse mein woh zor se daud pade.
+
+Sab log ghabra kar uth gaye.
+Koi chillaya,
+koi bhaga,
+koi gir gaya.
+
+Haathiyon ne sab kuch tod diya.
+Log, ghode, oont — sab kuch kuchal diya gaya.
+
+Har taraf bas cheekh aur darr tha.
+
+Damayanti bhi darr ke maare jaag gayi.
+Woh kaanp rahi thi.
+
+😔 Ilzaam Damayanti Par
+
+Subah jo log bach gaye the, woh ek dusre se kehne lage:
+
+“Yeh sab kisi paap ka nateeja hai…”
+
+Kuch log bole:
+“Jab se woh ajeeb si aurat hamare saath aayi hai, tab se yeh sab ho raha hai.
+Woh zaroor koi rakshasi hogi!”
+
+Yeh sun kar Damayanti ka dil toot gaya.
+Darr aur sharm se woh chup-chap jungle ki taraf bhaag gayi.
+
+💭 Khud Se Sawal
+
+Akele chalti hui woh sochne lagi:
+
+“Maine aisa kya paap kiya hai?
+Maine kabhi kisi ka bura nahi socha.
+Phir mere saath hi itna dukh kyun?”
+
+Usne yaad kiya —
+pati ka rajya chala gaya,
+woh usse bichhad gayi,
+bachche bhi door ho gaye…
+
+Uski aankhon se aansu ruk nahi rahe the.
+
+🏙️ Chedi Nagari Mein Pahunchna
+
+Agli shaam Damayanti ek bade sheher mein pahunchi.
+Yeh Chedi desh tha, jahan raja Subahu raj karte the.
+
+Woh aadhi phati hui saari mein thi,
+baal bikhre hue the,
+chehra udaas tha.
+
+Log usse dekh kar hairaan ho gaye.
+Bachche uske peeche chalne lage.
+
+Woh dheere-dheere mahal ke paas pahunch gayi.
+
+👑 Rani Maa Ki Daya
+
+Mahal ki chhat se rani-maa ne usse dekha.
+Unhone turant apni daasi se kaha:
+
+“Us bechari aurat ko yahan le aao.
+Woh bahut dukhi lag rahi hai.
+Uski shakal mein kuch alag hi roshni hai.”
+
+Daasi usse andar le aayi.
+
+Rani-maa ne pyaar se poocha:
+“Tum kaun ho beti?
+Itni takleef mein bhi tumhari shakal chamak rahi hai.”
+
+🥀 Damayanti Ki Kahani
+
+Damayanti ne apni pehchaan chhupa kar dheere se kaha:
+
+“Main ek insaan hoon.
+Main apne pati ki talaash mein bhatak rahi hoon.
+Mere pati ek bahut ache aadmi the…
+Par dice (jua) mein sab kuch haar gaye.
+
+Jungle mein bhatakte hue ek din woh mujhe chhod kar chale gaye.
+Tab se main unhe dhoondh rahi hoon.”
+
+Yeh bolte hue uski awaaz bhar aayi.
+
+🤍 Rani Maa Ka Sahara
+
+Rani-maa ka dil pighal gaya.
+Unhone kaha:
+
+“Tum yahin raho beti.
+Hum tumhare pati ko dhoondhne ke liye log bhejenge.
+Ho sakta hai woh khud bhi kabhi yahan aa jaye.”
+
+📜 Damayanti Ki Shartein
+
+Damayanti ne shant swar mein kaha:
+
+“Main yahan tabhi rahungi agar:
+
+Main kisi ka bacha hua khana nahi khaungi
+
+Main kisi ke pair nahi dhoungi
+
+Main kisi paraye aadmi se baat nahi karungi
+
+Agar koi mujhe pareshan kare, to usse saja mile”
+
+Rani-maa muskura kar boli:
+“Main tumhari saari baatein maanungi.”
+
+🌸 Nayi Zindagi Ka Ek Mod
+
+Rani-maa ne apni beti Sunanda se kaha:
+
+“Is ladki ko apni saheli bana lo.
+Iska dhyaan rakhna.”
+
+Sunanda ne khushi se Damayanti ko apne paas rakh liya.
+
+Ab Damayanti mahal mein rehne lagi.
+Sab usse respect se treat karte the.
+
+Par uske dil mein bas ek hi intezaar tha —
+kab Nala wapas milega… 💔"""
             create_image_text_layout(
                 text_content=text2,
                 layout="full"
