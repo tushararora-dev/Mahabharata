@@ -10442,7 +10442,22 @@ kab Nala wapas milega… 💔"""
         # Section 3.6.15
         # --------------------------------------------------
         with st.expander("Section 3.6.15  Section LXVI"):
-            text1 = """ """
+            text1 = """ 
+            Section LXVI – Nala aur Naag Karkotak ki Anokhi Mulakaat (Hinglish Kahani)
+
+Rishi Vrihadasva ne kahani aage badhai.
+
+Jab Raja Nala ne Damayanti ko jungle mein chhod diya, tab woh akela bhatak raha tha.
+Ek din usne dekha ki ghane jungle mein ek bhayanak aag lagi hui hai. Aag bahut tez jal rahi thi.
+
+Tabhi usne aag ke beech se ek awaaz suni:
+
+“Hey dharmik Nala, idhar aao! Mujhe bachao!”
+
+Nala ne bina dare jawab diya,
+“Daro mat, main aa raha hoon.”
+
+Aur woh seedha us jalti hui aag ke beech chala gaya."""
             create_image_text_layout(
                 "attached_assets/chapter3/3.6.15.jpg",
                 text1,
@@ -10450,7 +10465,107 @@ kab Nala wapas milega… 💔"""
                 image_position="left"
             )
 
-            text2 = """ """
+            text2 = """ 
+            🔥 Aag ke Beech Ek Naag
+
+Aag ke andar usne dekha ek bada sa saanp gol ghoom kar pada tha.
+Woh hil bhi nahi paa raha tha.
+
+Saanp ne haath jod kar kaha:
+
+“Hey raja, mera naam Karkotak hai.
+Maine ek baar mahaan Rishi Narad ko dhokha diya tha.
+Unhone mujhe shraap diya:
+
+‘Tu yahin pada rahega, jab tak Nala naam ka raja tujhe yahan se bahar nahi le jayega.’
+
+Isliye main hil bhi nahi sakta.
+Kripya mujhe yahan se bahar nikaal lo. Main tumhara dost banunga.”
+
+Phir woh bada saanp achanak anguthe jitna chhota ho gaya.
+
+Nala ne use uthaya aur aag se door le gaya.
+
+🐍 Achanak Kya Hua?
+
+Jab Nala use chhodne wala tha, Karkotak bola:
+
+“Hey raja, thoda aur aage chalo.
+Har kadam ginte hue aage badho. Main tumhara bhala karunga.”
+
+Nala kadam ginne laga…
+
+1… 2… 3…
+Aur jaise hi 10va kadam aaya…
+
+Naag ne use kaat liya!
+
+Nala hairaan reh gaya.
+
+Uska poora roop badal gaya.
+Uska sundar chehra aur sharir bilkul alag ho gaya.
+
+🧠 Naag ka Sach
+
+Karkotak ne pyaar se kaha:
+
+“Dar mat Nala. Maine tera bura nahi kiya.
+Maine tera roop badal diya hai taaki koi tujhe pehchaan na sake.”
+
+Phir usne ek bada raaz bataya:
+
+“Jo dusht shakti (Kali) tujhe pareshaan kar rahi thi,
+ab woh mere zehar ki wajah se tere andar dard mehsoos karegi.”
+
+“Ab tujhe:
+
+Jangli jaanwaron se dar nahi lagega
+
+Dushman tujhe nuksaan nahi pahucha paayenge
+
+Zehar bhi tujhe chot nahi pahucha payega
+
+Tu yudh mein hamesha jeetega”
+
+🏹 Nayi Pehchaan – Vahuka
+
+Karkotak ne kaha:
+
+“Ab tum Ayodhya jao.
+Wahan Raja Rituparna ke paas jaakar kehna:
+
+‘Main Vahuka naam ka ek saarathi hoon.’
+
+Tum unhe ghodon ki kala sikhaana.
+Aur woh tumhe dice (jua) ki kala sikhaayenge.”
+
+“Ek din:
+
+Tum apni patni Damayanti se miloge
+
+Apne bachchon se miloge
+
+Apna rajya wapas paoge”
+
+👕 Jadui Vastra
+
+Karkotak ne Nala ko do divya kapde diye aur bola:
+
+“Jab tum apna asli roop wapas paana chaho,
+tab mujhe yaad karke yeh kapde pehen lena.”
+
+Yeh kehkar Naag Karkotak achanak gaayab ho gaya.
+
+💭 Kahani ki Seekh
+
+Kabhi kabhi jo bura lagta hai, wahi aage chal kar accha hota hai
+
+Bhagwan mushkil ke time par madad kisi na kisi roop mein bhejte hain
+
+Sab kuch khatam lagne ke baad bhi, nayi shuruaat hoti hai
+
+Nala ne apna roop kho diya…
+Par isi roop ke peeche uski jeet chhupi thi."""
             create_image_text_layout(
                 text_content=text2,
                 layout="full"
@@ -10460,7 +10575,13 @@ kab Nala wapas milega… 💔"""
         # Section 3.6.16
         # --------------------------------------------------
         with st.expander("Section 3.6.16  Section LXVII"):
-            text1 = """ """
+            text1 = """ 
+            Section LXVII – Nala ka “Vahuka” Roop aur Uska Chhupa Dard (Hinglish Kahani)
+
+Rishi Vrihadasva ne kahani ko aage badhaya.
+
+Naag Karkotak ke jaane ke baad, Nala apne badle hue roop mein chalta raha.
+Das din ki yatra ke baad woh Ayodhya pahunch gaya — Raja Rituparna ke nagar mein."""
             create_image_text_layout(
                 "attached_assets/chapter3/3.6.16.jpg",
                 text1,
@@ -10468,7 +10589,101 @@ kab Nala wapas milega… 💔"""
                 image_position="left"
             )
 
-            text2 = """ """
+            text2 = """ 
+            👤 Nayi Pehchaan: Vahuka
+
+Nala ne raja ke saamne jaakar kaha:
+
+“Mera naam Vahuka hai.
+Ghodo ko sambhalne aur tez daudane mein mera koi muqabla nahi.
+Mushkil kaamon mein main salah de sakta hoon.
+Main pakane (cooking) ki kala mein bhi mahir hoon.
+Jo kaam mushkil ho, main use safal bana sakta hoon.
+Aap mujhe apne paas rakh lijiye.”
+
+Raja Rituparna khush ho gaye aur bole:
+
+“Vahuka, tum yahin raho.
+Mujhe hamesha tez chalne wale ghode pasand hain.
+Tum mere astabal (stables) ke adhikari ban jao.
+Tumhe 10,000 sikke vetan milenge.
+Varshneya aur Jivala tumhare saath kaam karenge.”
+
+Is tarah Nala ko wahan kaam mil gaya — par kisi ko pata nahi tha ki woh asal mein Nishadh ka raja hai.
+
+😔 Andar ka Dard
+
+Nala din bhar kaam karta, par raat hote hi uska dil Damayanti ke liye ro padta.
+
+Har shaam woh ek shlok bolta tha, jisme uska dard chhupa hota:
+
+“Woh bechari ab kahan hogi?
+Bhookh, pyaas aur thakan se pareshaan, meri yaad mein kaise jee rahi hogi?
+Ab woh kiski raah dekh rahi hogi?”
+
+Woh yeh baat roz bolta tha.
+
+🤔 Jivala ka Sawaal
+
+Ek raat Jivala ne sun liya aur pooch liya:
+
+“Hey Vahuka, tum roz kis ke liye itna dukh manate ho?
+Kaun hai woh aurat jise tum yaad karte ho?”
+
+💔 Nala ka Dard – Par Sach Chhupa Kar
+
+Nala ne seedha jawab nahi diya.
+Usne apni kahani ko kisi aur ki kahani bana kar sunaaya:
+
+“Ek aadmi tha, jo bahut moorkh tha.
+Uski patni sabko jaane wali, bahut achchi thi.
+Par usne apne vaade tod diye aur use chhod diya.
+Dono alag ho gaye.”
+
+“Woh aadmi ab duniya bhar bhatak raha hai, dukh mein jalta hua.
+Na din ko chain hai, na raat ko neend.”
+
+“Uski patni ne uska saath jungle tak diya,
+par usi aadmi ne use jungle mein akela chhod diya.”
+
+“Ab woh bechari:
+
+Jungle mein akeli hai
+
+Bhookh-pyaas se pareshaan hai
+
+Raaste nahi jaanti
+
+Jaanwar se bhare jungle mein apni jaan bachane ki koshish kar rahi hai”
+
+Yeh kehkar Nala chup ho gaya.
+
+Usne apne aap ko hi “woh moorkh aadmi” kaha — par naam nahi liya.
+
+🕯️ Chhupa Hua Raja
+
+Is tarah Nala:
+
+Vahuka ke roop mein
+
+Rituparna ke mahal mein
+
+Sabse chupkar
+
+Rehne laga.
+
+Par har raat uska dil Damayanti ko yaad karke toot jaata tha.
+
+Duniya ke liye woh ek saarathi tha…
+Par andar se woh ab bhi:
+
+Ek pati
+
+Ek raja
+
+Ek pachtata hua insaan
+
+tha, jo bas apni patni se phir milne ka intezaar kar raha tha."""
             create_image_text_layout(
                 text_content=text2,
                 layout="full"
@@ -10478,7 +10693,22 @@ kab Nala wapas milega… 💔"""
         # Section 3.6.17
         # --------------------------------------------------
         with st.expander("Section 3.6.17  Section LXVIII"):
-            text1 = """ """
+            text1 = """ 
+            Section LXVIII – Damayanti ka Pata Lagta Hai
+
+Vrihadasva kahani ko aage batate hain.
+
+Jab Nala apna rajya haar kar aur Damayanti ke saath dukh bhari zindagi jeene laga, tab Vidarbha ke raja Bhima (Damayanti ke pita) ko un dono ki bahut chinta hone lagi. Unhe unki koi khabar nahi mil rahi thi.
+
+Isliye Bhima ne bahut se Brahmanon ko bulaya aur unhe dhan-daulat dekar kaha:
+
+“Tum sab Nala aur meri beti Damayanti ko dhoondho.”
+
+“Jo unhe wapas lekar aayega, use hazaar gaayen, kheton ka daan aur ek gaon diya jayega.”
+
+“Agar laa na sako, par unka pata bata do, tab bhi hazaar gaayen milengi.”
+
+Brahmanon ne khushi-khushi yeh kaam sweekar kiya aur alag-alag dishaon mein unki talaash mein nikal pade. Bahut dhoondhne par bhi Nala aur Damayanti ka pata nahi chala."""
             create_image_text_layout(
                 "attached_assets/chapter3/3.6.17.jpg",
                 text1,
@@ -10486,7 +10716,93 @@ kab Nala wapas milega… 💔"""
                 image_position="left"
             )
 
-            text2 = """ """
+            text2 = """ 
+            Sudeva ko Damayanti Milti Hai
+
+Aakhir ek Brahman, jiska naam Sudeva tha, Chedi desh ke sundar nagar mein pahunch gaya. Wahan raja ke mahal mein, prarthana ke samay, usne ek stri ko Sunanda ke paas baitha dekha.
+
+Woh stri:
+
+Maili aur kamzor ho chuki thi
+
+Par uski asli sundarta ab bhi jhalak rahi thi
+
+Jaise dhueṅ se ghiri hui aag ki roshni
+
+Sudeva ne use dhyan se dekha aur pehchan liya —
+Woh Damayanti hi thi.
+
+Usne mann hi mann socha:
+
+“Yeh wahi rajkumari hai jise maine pehle dekha tha.”
+
+“Uski sundarta ab bhi chhupi hui chamak rahi hai.”
+
+“Par dukh ne use badal diya hai.”
+
+Uski haalat ko dekh kar Sudeva ka dil pighal gaya.
+Usne socha:
+
+“Yeh rajkumari jo mahalon mein rehne layak thi, aaj dukh mein jee rahi hai.”
+
+“Pati se door rehkar uski chamak kam ho gayi hai.”
+
+“Pati hi stri ka sabse bada alankaar hota hai.”
+
+Usne tay kiya ki woh Damayanti ko tasalli dega.
+
+Pehchaan aur Khabar
+
+Sudeva Damayanti ke paas gaya aur dheere se bola:
+
+“Hey Vidarbha ki rajkumari, main Sudeva hoon — tumhare bhai ka dost.
+Tumhare pita Bhima ne mujhe tumhe dhoondhne bheja hai.
+Tumhare pita, maa aur bhai sab theek hain.
+Tumhara beta aur beti bhi surakshit hain.
+Tumhare rishtedaar tumhari yaad mein bahut dukhi hain.
+Sau-sau Brahman tum dono ko dhoondhne nikle hue hain.”
+
+Yeh sunte hi Damayanti ne Sudeva ko pehchan liya.
+
+Damayanti ka Vilap
+
+Apne ghar ki khabar sunte hi Damayanti bahut ro padi.
+Usne ek-ek karke sabke baare mein poocha:
+
+Pita kaise hain?
+
+Maa kaise hain?
+
+Bhai?
+
+Bachche?
+
+Itne dino baad apne logon ki khabar sunkar uska dil bhar aaya.
+
+Mahal Mein Shak
+
+Sunanda ne Damayanti ko ek Brahman ke saath chupke baat karte aur rote dekha. Woh ghabra gayi aur apni maa (Chedi ki rani-maa) ke paas jaakar boli:
+
+“Sairindhri (Damayanti ka gupt naam) ek Brahman ke saamne bahut ro rahi hai. Aap khud aakar dekhiye.”
+
+Rani-maa turant wahan aayi aur Sudeva se poocha:
+
+“Yeh sundar stri kaun hai?”
+
+“Kiski beti hai?”
+
+“Kiski patni hai?”
+
+“Yeh itni dukhi haalat mein kaise pahunchi?”
+
+“Tum ise kaise jaante ho?”
+
+Sachchai Batane Ka Samay
+
+Tab Sudeva aaraam se baitha aur rani-maa ko Damayanti ki poori sachchai batane laga —
+Uski asli pehchaan, uska rajkula, aur us par aayi vipatti ki kahani.
+
+Yahin se Damayanti ki pehchaan dheere-dheere sabke saamne aane lagti hai, aur kahani ek naye mod par pahunchti hai."""
             create_image_text_layout(
                 text_content=text2,
                 layout="full"
@@ -10496,7 +10812,23 @@ kab Nala wapas milega… 💔"""
         # Section 3.6.18
         # --------------------------------------------------
         with st.expander("Section 3.6.18  Section LXIX"):
-            text1 = """ """
+            text1 = """ 
+            Section LXIX – Damayanti Ghar Lauti Aur Nala Ki Talaash Shuru Hui
+
+Vrihadasva ne kahani aage batayi.
+
+Sudeva ne sabke saamne sach bataya:
+
+“Vidarbha desh ke raja Bhima ki yeh beti hai. Iska naam Damayanti hai. Nishadh desh ke raja Nala iske pati hain. Woh apne bhai se dice khel mein haar gaye the aur rajya chhod kar Damayanti ke saath chale gaye. Tab se hum unhe dhoond rahe the. Aaj yeh rajkumari yahan mili hai.”
+
+Usne Damayanti ki pehchaan ka ek nishaan bhi bataya.
+Uski bhavon ke beech ek chhota sa til tha, jo janam se hi tha. Dhool se chhup gaya tha, par woh ab bhi halka sa dikh raha tha.
+
+Sunanda ne turant us jagah ko saaf kiya.
+Jaise hi dhool hati, til chamak utha — bilkul badalon ke peeche se nikle chand ki tarah.
+
+Yeh dekhte hi Sunanda aur rani-maa ro padi.
+Unhone Damayanti ko gale laga liya."""
             create_image_text_layout(
                 "attached_assets/chapter3/3.6.18.jpg",
                 text1,
@@ -10504,7 +10836,91 @@ kab Nala wapas milega… 💔"""
                 image_position="left"
             )
 
-            text2 = """ """
+            text2 = """ 
+            Rishta Samne Aata Hai
+
+Rani-maa ne aansuon bhari awaaz mein kaha:
+
+“Beta, tum meri hi behen ki beti ho.
+Tumhari maa aur main, dono raja Sudaman ki betiyan hain.
+Tumhari maa ki shaadi Bhima se hui thi, aur meri Viravahu se.
+Maine tumhe janam lete hue dekha tha.
+Yeh ghar tumhara hi ghar hai. Yeh sab kuch tumhara hi hai.”
+
+Damayanti ne jhukkar apni mausi ko pranam kiya aur pyar se boli:
+
+“Main yahan bina pehchane bhi khush rahi. Aapne mujhe sab diya.
+Lekin main bahut din se apne ghar se door hoon.
+Mere bachche apne nana ke paas hain.
+Unke paas na pita hai, na maa.
+Mujhe Vidarbha lautne ki ijazat dijiye.”
+
+Mausi ne pyaar se haan kar di.
+
+Ghar Wapas
+
+Rani-maa ne apne bete ki ijazat lekar Damayanti ko ek sundar palki mein bheja.
+Saath mein bahut saare sipahi, khana, kapde aur saamaan diya.
+
+Jab Damayanti Vidarbha pahunchi:
+
+Maa-baap ne use gale laga liya
+
+Bachchon se milkar woh ro padi
+
+Sab log use dekhkar bahut khush hue
+
+Raja Bhima ne khushi mein Sudeva ko:
+
+Hazaar gaayen
+
+Dhan
+
+Ek gaon
+
+inaam mein diya.
+
+Damayanti Ka Dard
+
+Raat ko aaram karne ke baad Damayanti ne apni maa se dheere se kaha:
+
+“Ma, agar aap chahti ho ki main zinda rahun, toh Nala ko dhoondhne ki koshish karo.”
+
+Yeh sunte hi maa ki aankhon mein aansu aa gaye.
+Poora mahal udaas ho gaya.
+
+Maa ne raja Bhima se kaha:
+
+“Hamari beti ab bhi Nala ke dukh mein jee rahi hai.
+Humein unhe dhoondhna hoga.”
+
+Nala Ki Talaash Dobara Shuru
+
+Raja Bhima ne phir se Brahmanon ko bulaya aur kaha:
+
+“Har jagah jaakar Nala ko dhoondo.”
+
+Jab Brahman Damayanti ke paas aaye, toh usne unhe ek sandesh diya:
+
+“Har nagar aur sabha mein yeh kehna:
+
+‘Hey priya juari, tum kahaan chale gaye?
+Tumne apni patni ka aadha kapda kaat kar use jungle mein chhod diya.
+Woh ab bhi aadhe vastra mein tumhara intezaar kar rahi hai.
+Woh ro rahi hai.
+Kya tumhe daya nahi aati?’”
+
+Usne kaha:
+
+“Agar koi yeh sunkar jawab de, uska naam aur jagah pata karna.”
+
+“Par kisi ko mat batana ki yeh sandesh maine bheja hai.”
+
+Brahman sab dishaon mein nikal pade.
+Gaon, sheher, rajya, ashram — har jagah jaakar woh yahi baat bolne lage.
+
+Damayanti ko umeed thi…
+Kahin na kahin, yeh baat Nala ke kaan tak zaroor pahunch jayegi."""
             create_image_text_layout(
                 text_content=text2,
                 layout="full"
@@ -10514,7 +10930,16 @@ kab Nala wapas milega… 💔"""
         # Section 3.6.19
         # --------------------------------------------------
         with st.expander("Section 3.6.19  Section LXX"):
-            text1 = """ """
+            text1 = """ 
+            Section LXX – Damayanti Ko Nala Ka Pata Milta Hai
+
+Vrihadasva ne aage bataya:
+
+Kaafi samay baad ek Brahman, jiska naam Parnada tha, Vidarbha laut kar Damayanti ke paas aaya. Usne kaha:
+
+“Hey Damayanti, main Nala ko dhoondhte-dhoondhte Ayodhya pahunch gaya tha. Wahan maine raja Rituparna ke saamne tumhara sandesh baar-baar sunaaya. Lekin na raja ne kuch kaha, na kisi darbar ke aadmi ne jawab diya.”
+
+Par jab woh wapas jaane laga, tab ek aadmi usse mila — uska naam Vahuka tha."""
             create_image_text_layout(
                 "attached_assets/chapter3/3.6.19.jpg",
                 text1,
@@ -10522,7 +10947,86 @@ kab Nala wapas milega… 💔"""
                 image_position="left"
             )
 
-            text2 = """ """
+            text2 = """ 
+            Vahuka Ki Baat (Jo Asal Mein Nala Hi Tha)
+
+Parnada ne Damayanti ko bataya:
+
+Vahuka raja Rituparna ka saarathi hai
+
+Uska roop sundar nahi hai, baahen chhoti hain
+
+Lekin ghodon ko tez chalane mein aur pakwan banane mein mahir hai
+
+Woh aadmi baar-baar saans bhar raha tha, jaise dukh mein ho. Usne Parnada se baat karte hue kaha:
+
+“Pativrata stree, dukh mein bhi apne aap ko sambhalti hai.
+Agar pati use chhod bhi de, toh bhi use krodh nahi karna chahiye.
+Jo pati dukh aur vipatti mein ho, jiska rajya chala gaya ho, jo bhookha-pyasa ho, us par gussa nahi karna chahiye.
+Ek satyavadi aur pavitra patni ko apne pati se kabhi rosh nahi rakhna chahiye.”
+
+Usne yeh bhi kaha:
+
+“Woh aadmi jise pakadne ke liye uske kapde tak chhin gaye, jo dukh mein jal raha hai — us par patni ko daya karni chahiye, na ki krodh.”
+
+Parnada ne kaha:
+
+“Yeh sab sunkar mujhe laga ki woh tumhari hi baat kar raha tha. Isliye main turant tumhare paas laut aaya.”
+
+Damayanti Ko Sach Ka Ehsaas
+
+Yeh sunte hi Damayanti ki aankhon mein aansu aa gaye.
+Usse samajh aa gaya — Vahuka hi Nala hai.
+
+Woh turant apni maa ke paas gayi aur chupke se boli:
+
+“Ma, mere is iraade ke baare mein pitaji (raja Bhima) ko mat batana.
+Main Sudeva Brahman ki madad se Nala ko yahan bulana chahti hoon.”
+
+Usne kaha:
+
+“Sudeva ko Ayodhya bhejo. Wahi pehle bhi mujhe dhoondh kar laaya tha. Ab wahi Nala ko bhi laa sakta hai.”
+
+Parnada Ko Inaam
+
+Damayanti ne Parnada ko bahut saara dhan diya aur kaha:
+
+“Jab Nala wapas aa jayenge, main tumhe aur bhi bahut dhan dungi. Tumne mere liye bahut bada kaam kiya hai.”
+
+Parnada ne use aashirvaad diya aur chala gaya.
+
+Damayanti Ki Yojana
+
+Ab Damayanti ne Sudeva ko bulaya aur ek chatur yojana batayi:
+
+“Seedha Ayodhya jao aur raja Rituparna se kehna:
+
+‘Bhima ki beti Damayanti dobara swayamvara karne wali hai.
+Sab raja aur rajkumar aa rahe hain.
+Kal hi swayamvara hoga.
+Agar aap aana chahte hain, toh turant nikal padhiye.’”
+
+Aur ek aur baat kehne ko boli:
+
+“Use kehna — Damayanti ko pata nahi Nala zinda hain ya nahi, isliye woh dusra pati chunegi.”
+
+Is Yojana Ka Asli Maksad
+
+Damayanti jaanti thi:
+
+Rituparna ko ghodon ki tez raftaar pasand hai
+
+Agar woh kal tak Vidarbha pahunchna chahega, toh Vahuka (Nala) ko hi rath chalana padega
+
+Tab Nala ko majbooran Vidarbha aana padega
+
+Yeh ek chal thi — Nala ko wapas bulane ke liye.
+
+Sudeva turant Ayodhya ke liye nikal gaya.
+Usne jaakar Rituparna ko Damayanti ka yeh sandesh suna diya.
+
+Aur ab kahani ek bade mod ki taraf badhne wali thi…
+Nala aur Damayanti ke milan ka samay kareeb aa raha tha."""
             create_image_text_layout(
                 text_content=text2,
                 layout="full"
