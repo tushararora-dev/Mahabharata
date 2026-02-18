@@ -12061,7 +12061,13 @@ Sacha pyaar, dhairya aur vishwas – aakhir jeet jaate hain."""
         # Section 3.7.1
         # --------------------------------------------------
         with st.expander("Section 3.7.1  Section LXXX"):
-            text1 = """ """
+            text1 = """ 
+            Section LXXX – Arjuna ke bina Pandavon ka dukh
+
+Raja Janamejaya ne poocha:
+“Jab Arjuna Kamyaka van se chala gaya, tab mere purvaj Pandav uske bina kaise rahe? Arjuna to unka sahara tha, jaise devtaon ke liye Vishnu. Uske bina unhone apna samay kaise bitaya?”
+
+Vaisampayana ne kahani sunai."""
             create_image_text_layout(
                 "attached_assets/chapter3/3.7.1.jpg",
                 text1,
@@ -12069,7 +12075,85 @@ Sacha pyaar, dhairya aur vishwas – aakhir jeet jaate hain."""
                 image_position="left"
             )
 
-            text2 = """ """
+            text2 = """ 
+            Arjuna ke jaane ke baad ka dukh
+
+Jab Arjuna van se chala gaya, Pandav bahut dukhi ho gaye.
+Unke chehre par udaasi chha gayi.
+
+Wo aise lag rahe the jaise mala se moti toot kar bikhar gaye hon
+
+Jaise pankh ke bina pakshi
+
+Arjuna ke bina Kamyaka van bhi unhe suna-suna lagne laga.
+Jaise Kubera ke bina Chaitraratha van adhura lagta hai.
+
+Pandav wahin rehte rahe, par mann bilkul udaas tha.
+
+Brahmanon ki seva
+
+Dukh ke bawajood, Pandav apna dharm nahi bhule.
+Wo roz shikar karke yajna ke liye janwar laate
+aur unhe shuddh vidhi se Brahmanon ko arpit karte.
+
+Is tarah wo apna kartavya nibhaate hue
+Arjuna ki yaad mein din bitate rahe.
+
+Draupadi ka vilap
+
+Draupadi ko Arjuna ki sabse zyada yaad aati thi.
+Usne Yudhishthira se kaha:
+
+“Arjuna ke bina mujhe ye van bilkul achha nahi lagta.
+Jahan bhi dekhti hoon, sab kuch suna-suna lagta hai.
+
+Uska roop neele badal jaisa hai,
+uski shakti gusse wale hathi jaisi hai.
+Uski dhanush ki awaaz bijli ki garaj jaisi hai.
+
+Uske bina mujhe kahin bhi sukh nahi milta.”
+
+Bhima ki baat
+
+Draupadi ki baat sunkar Bhima bhi bhavuk ho gaya.
+Usne kaha:
+
+“Tumhari baatein mere dil ko chhoo gayi.
+Arjuna ke bina to aasman bhi sooraj ke bina lagta hai.
+
+Uske bal par hi Panchal aur hum sab
+dushmanon se kabhi nahi darte.
+Uski bahon par bharosa karke hi hum sochte the
+ki dushman pehle hi hara diye gaye hain.
+
+Uske bina mujhe Kamyaka van mein bilkul shanti nahi milti.”
+
+Nakula ka dukh
+
+Phir Nakula ne aansuon bhari awaaz mein kaha:
+
+“Arjuna ke veer kaam to devta bhi yaad karte hain.
+Usne uttar disha mein jaakar
+Gandharvon ko hara diya tha
+aur Rajasuya yajna ke liye anek sundar ghode laaye the.
+
+Uske bina mujhe is van mein rehna bilkul achha nahi lagta.”
+
+Sahadeva ki baat
+
+Sahadeva bhi dukhi ho kar bola:
+
+“Arjuna ne anek rajaon ko hara kar
+rajya ke liye dhan aur sampatti jeeti thi.
+Usne Subhadra ko swayam jeeta,
+aur guru Drona ko gurudakshina di.
+
+Uska khaali aasana dekhkar mera dil toot jata hai.
+Mera mann karta hai ki hum yahan se chale jaayein,
+kyunki Arjuna ke bina ye van bilkul bhi sukhdayak nahi lagta.”
+
+Is tarah Arjuna ki yaad mein Pandav, Draupadi aur sabhi log
+dukhi aur virah se bhare hue Kamyaka van mein samay bita rahe the."""
             create_image_text_layout(
                 text_content=text2,
                 layout="full"
@@ -12079,7 +12163,16 @@ Sacha pyaar, dhairya aur vishwas – aakhir jeet jaate hain."""
         # Section 3.7.2
         # --------------------------------------------------
         with st.expander("Section 3.7.2  Section LXXXI"):
-            text1 = """ """
+            text1 = """ 
+            Section LXXXI – Narad Rishi ka aana
+
+Pandav sab Arjuna ki yaad mein dukhi the.
+Bhima, Nakula, Sahadeva aur Draupadi ki baatein sun kar
+Yudhishthira ka dil bhi udaas ho gaya.
+
+Tabhi achanak ek tej roshni jaisi chamak hui.
+Unhone dekha — Rishi Narad unke saamne khade the.
+Unka roop agni ki tarah chamak raha tha."""
             create_image_text_layout(
                 "attached_assets/chapter3/3.7.2.jpg",
                 text1,
@@ -12087,7 +12180,68 @@ Sacha pyaar, dhairya aur vishwas – aakhir jeet jaate hain."""
                 image_position="left"
             )
 
-            text2 = """ """
+            text2 = """ 
+            Pandav turant khade ho gaye.
+Sab ne milkar Narad ji ka samman kiya.
+Unhe baithne ko jagah di, paani diya, aur pranam kiya.
+
+Draupadi bhi apne pati ke saath vinamrata se khadi rahi.
+Wo apne patiyon ke saath waise hi judi hui thi
+jaise Suraj ki kirnein Meru parvat se judi hoti hain.
+
+Narad ji unka pyar aur samman dekh kar khush hue.
+Unhone Yudhishthira ko pyaar se sambhala aur kaha:
+
+“Hey dharm ke putra, batao tum kya chahte ho?
+Main tumhari kaise madad kar sakta hoon?”
+
+Yudhishthira ne haath jod kar kaha:
+
+“Hey mahan Rishi, aap sab jagah pooje jaate ho.
+Aapki kripa se hi hamari sab ichchha poori ho sakti hai.
+
+Agar main aur mere bhai aapke layak hain,
+to meri ek shanka door kijiye.
+
+Mujhe batayein — jo log dharti par tirth yatra karte hain,
+pavitra nadiyon aur mandiron ko dekhne jaate hain,
+unhe kya punya milta hai?”
+
+Narad ji muskuraaye aur bole:
+
+“Dhyaan se suno, Yudhishthira.
+Ye baat maine ek purani ghatna se suni thi.
+Isse pehle Bhishma ne bhi ye kahani suni thi
+Maharishi Pulastya se.”
+
+Narad ji kahani sunane lage…
+
+“Ek samay Bhishma Ganga ke paas ek pavitra jagah par reh rahe the.
+Wahan bahut saare Rishi aur devta aate the.
+
+Bhishma roz pooja karte, jap karte,
+aur pitron, devtaon aur rishiyon ko shraddha se arpan dete.
+
+Ek din jab wo chup chaap mantra jap rahe the,
+tab unhone ek tejasvi Rishi ko dekha.
+Wo the Maharishi Pulastya.
+
+Unka roop bahut shant aur chamak se bhara hua tha.
+Bhishma unhe dekh kar bahut khush ho gaye.
+
+Unhone turant unka samman kiya,
+unhe paani diya, pranam kiya,
+aur haath jod kar bole:
+
+“Hey mahan Rishi, main Bhishma hoon.
+Aapko dekh kar mujhe lagta hai
+jaise mere sab paap dhul gaye.”
+
+Itna kehkar Bhishma chup ho gaye
+aur vinamrata se haath jod kar khade rahe.
+
+Unki tapasya aur shraddha dekh kar
+Pulastya Rishi ke dil mein bhi bahut khushi hui."""
             create_image_text_layout(
                 text_content=text2,
                 layout="full"
@@ -12097,7 +12251,18 @@ Sacha pyaar, dhairya aur vishwas – aakhir jeet jaate hain."""
         # Section 3.7.3
         # --------------------------------------------------
         with st.expander("Section 3.7.3  Section LXXXII"):
-            text1 = """ """
+            text1 = """ 
+            Section LXXXII – Tirth Yatra ka Mahatva
+
+Narad ji ne kahani aage badhai…
+
+Pulastya Rishi, Bhishma ki vinamrata dekh kar bahut khush hue.
+Unhone pyaar se kaha:
+
+“Hey Bhishma, tumhari namrata, sachchai aur self-control ne mujhe prasann kar diya hai.
+Tum jo puchna chaho, main tumhe bataunga.”
+
+Bhishma ne haath jod kar kaha:"""
             create_image_text_layout(
                 "attached_assets/chapter3/3.7.3.jpg",
                 text1,
@@ -12105,7 +12270,113 @@ Sacha pyaar, dhairya aur vishwas – aakhir jeet jaate hain."""
                 image_position="left"
             )
 
-            text2 = """ """
+            text2 = """ 
+            “Hey Maharishi, aapka darshan hi mere liye sabse bada vardaan hai.
+Lekin meri ek shanka hai.
+
+Mujhe batayein — jo log tirth yatra karte hain,
+jo pavitra sthalon par ghoomte hain,
+unhe kya phal milta hai?”
+
+Pulastya Rishi muskuraye aur bole:
+
+“Dhyaan se suno Bhishma.
+Tirth ka phal sirf snan se nahi milta.
+Uske liye mann bhi pavitra hona chahiye.”
+
+Phir unhone samjhaya:
+
+Jo apne haath, pair, mann aur indriyon ko control karta hai — wahi tirth ka sachcha phal paata hai.
+
+Jo ghamand se door rahta hai, santusht rehta hai — wahi punya paata hai.
+
+Jo gussa nahi karta, sach bolta hai, sabko apne jaisa samajhta hai — uska jeevan safal hota hai.
+
+Pulastya ne kaha:
+
+“Bade yajna karne ke liye dhan chahiye.
+Sab log yajna nahi kar sakte.
+
+Lekin ek cheez sab kar sakte hain —
+Tirth yatra.”
+
+Unhone bataya:
+
+“Tirth yatra ka punya kai baar yajna se bhi bada hota hai.”
+
+Pushkar ka Mahatva
+
+Pulastya ne sabse pehle Pushkar ka naam liya.
+
+Unhone kaha:
+
+“Pushkar sab tirthon ka raja hai.
+Wahan devta, rishi, gandharv sab aate hain.
+
+Subah, dopahar aur shaam —
+us jagah par anek pavitra shaktiyan hoti hain.”
+
+Jo Pushkar me snan karta hai, uske paap dhul jaate hain.
+
+Jo Kartik ki Poornima par wahan jaata hai, use Brahmalok milta hai.
+
+Jo wahan ek Brahman ko bhi bhojan karata hai, use bada punya milta hai.
+
+Pulastya bole:
+
+“Sirf Pushkar ka naam subah-shaam yaad karna bhi bahut punya deta hai.”
+
+Aur bhi Pavitra Sthal
+
+Pulastya ne Bhishma ko bahut saare pavitra sthalon ke baare me bataya:
+
+Jambu-marg – yahan jaane se paap mit jaate hain.
+
+Kanva Ashram – yahan jaate hi paap khatam ho jaate hain.
+
+Narmada – yahan snan karne se Ashwamedh yajna jaisa phal milta hai.
+
+Prabhas – yahan snan karne se bahut bada punya milta hai.
+
+Saraswati sangam – yahan snan karne se swarg milta hai.
+
+Dwaraka – yahan Bhagwan ka ashirvad milta hai.
+
+Devika aur Vitasta – yahan snan karne se jeevan pavitra ho jaata hai.
+
+Har jagah ka apna ek alag mahatva tha.
+Kahin snan se paap mit te the,
+kahin daan se punya milta tha,
+kahin sirf darshan se bhi jeevan safal ho jaata tha.
+
+Pulastya ne ek aur gehri baat kahi:
+
+“Tirth sirf jagah nahi hoti.
+Wahan jaana ek tapasya hai.
+Wahan rehna, vrat rakhna, daan karna —
+ye sab milkar mann ko pavitra bana dete hain.”
+
+Phir unhone Mahadev ke ek pavitra sthaan ka varnan kiya:
+
+Ek jagah par hazaron rishi ikattha hue the.
+Sab Mahadev ko pehle dekhna chahte the.
+Jhagda na ho, isliye Mahadev ne apne hazaron roop bana liye.
+Aur har rishi ko darshan diya.
+
+Sab rishi khush ho gaye.
+Mahadev ne unhe ashirvad diya:
+
+“Tumhari bhakti aur dharm badhta rahe.”
+
+Pulastya ne kahani samapt karte hue kaha:
+
+“Jo vyakti shraddha se tirth yatra karta hai,
+apne mann ko saaf rakhta hai,
+aur daan-punya karta hai,
+uska jeevan safal ho jaata hai.
+
+Uske paap dhul jaate hain,
+aur use swarg aur shanti milti hai.”"""
             create_image_text_layout(
                 text_content=text2,
                 layout="full"
@@ -12115,7 +12386,24 @@ Sacha pyaar, dhairya aur vishwas – aakhir jeet jaate hain."""
         # Section 3.7.4
         # --------------------------------------------------
         with st.expander("Section 3.7.4  Section LXXXIII"):
-            text1 = """ """
+            text1 = """ 
+            Section LXXXIII – Kurukshetra aur Tirth Yatra ka Antim Updesh
+
+Narad ji ne kahani aage badhate hue Pulastya Rishi ke shabd sunaye.
+
+Pulastya ne kaha:
+
+“Hey raja, ab tum Kurukshetra jao.
+Ye sabse pavitra jagah hai.
+Iska sirf darshan karne se bhi paap mit jaate hain.”
+
+Unhone samjhaya:
+
+Jo sirf itna bhi soch le ki “main Kurukshetra jaunga”, uske paap kam ho jaate hain.
+
+Jo wahan rehta hai, use swarg jaisa phal milta hai.
+
+Wahan ki mitti bhi pavitra hai. Hawa se udd kar bhi punya deti hai."""
             create_image_text_layout(
                 "attached_assets/chapter3/3.7.4.jpg",
                 text1,
@@ -12123,7 +12411,106 @@ Sacha pyaar, dhairya aur vishwas – aakhir jeet jaate hain."""
                 image_position="left"
             )
 
-            text2 = """ """
+            text2 = """ 
+            Pulastya bole:
+
+“Wahan devta, rishi, gandharv sab aate hain.
+Ek mahina wahan rehna bahut shubh mana gaya hai.”
+
+Phir unhone bataya ki Kurukshetra me kai pavitra sthaan hain.
+Har jagah snan aur puja se alag-alag phal milta hai.
+
+Vishnu ke sthaan par snan se swarg milta hai.
+
+Varaha tirth par snan se bade yajna ka phal milta hai.
+
+Ashwini devta ke tirth se sundarta milti hai.
+
+Kapila, Surya aur dusre sthalon par snan se paap dhul jaate hain.
+
+Pulastya ne Rama ki kahani bhi batayi.
+
+Ek samay Parshuram ji ne krodh me kshatriyon ko hara diya tha.
+Phir unhone paanch talaab banaye.
+Un talaabon me paani bhara aur apne pitron ko jal arpan kiya.
+
+Pitron ne khush hokar kaha:
+
+“Tum paap se mukta ho.
+Ye talaab ab pavitra tirth ban jayenge.
+Jo yahan snan karega, uski manokamna puri hogi.”
+
+Isliye Rama ke banaye hue talaab bhi pavitra tirth ban gaye.
+
+Pulastya ne fir kai aur sthalon ka naam liya.
+Unhone bataya ki:
+
+Kahin snan se sharir pavitra hota hai.
+
+Kahin daan se vansh sudhar jaata hai.
+
+Kahin pitron ki puja se swarg milta hai.
+
+Phir unhone ek rochak kahani sunayi.
+
+Ek rishi the — Mankanaka.
+Ek din unke haath se khoon ki jagah hari sabzi jaisa ras nikla.
+Ye dekh kar wo khushi se naachne lage.
+
+Unke naachne se poori prithvi hilne lagi.
+Devta dar gaye.
+Unhone Mahadev ko bulaya.
+
+Mahadev aaye aur bole,
+“Rishi, tum itna kyun naach rahe ho?”
+
+Rishi bole,
+“Dekhiye, mere haath se khoon nahi, sabzi ka ras nikal raha hai.
+Mujhe bahut anand ho raha hai.”
+
+Mahadev muskuraye.
+Unhone apni ungli dabayi.
+Aur usme se safed bhasm nikli.
+
+Rishi sharminda ho gaye.
+Unhe samajh aaya ki Mahadev sabse mahan hain.
+Unhone Mahadev ko pranam kiya.
+
+Mahadev bole:
+
+“Tumhari tapasya aur badhegi.
+Jo yahan snan karega aur meri puja karega, use sab kuch milega.”
+
+Is tarah wo jagah bhi pavitra tirth ban gayi.
+
+Pulastya ne aage kaha:
+
+“Sannihati naam ka ek mahaan tirth hai.
+Wahan sabhi nadiyan aur tirth ek saath milte hain.
+
+Jo wahan snan karta hai, uske sab paap mit jaate hain.
+Jo wahan shraddha karta hai, use bahut bada punya milta hai.”
+
+Phir unhone sabse badi baat kahi:
+
+“Pushkar pavitra hai.
+Naimisharanya bhi pavitra hai.
+Lekin Kurukshetra teenon lokon me sabse pavitra maana gaya hai.”
+
+Unhone kaha:
+
+Jo Kurukshetra ka naam bhi le, uska bhala hota hai.
+
+Jo wahan rahe, use swarg jaisa sukh milta hai.
+
+Ye jagah devtaon ka yajna sthal maana jata hai.
+
+Aur Pulastya ne apni baat yahan samaapt ki:
+
+“Jo shraddha aur saaf dil se tirth yatra karta hai,
+uska jeevan pavitra ho jaata hai.
+Uske paap mit jaate hain.
+Aur usse shanti aur sukh milta hai.”"""
             create_image_text_layout(
                 text_content=text2,
                 layout="full"
@@ -12133,7 +12520,10 @@ Sacha pyaar, dhairya aur vishwas – aakhir jeet jaate hain."""
         # Section 3.7.5
         # --------------------------------------------------
         with st.expander("Section 3.7.5  Section LXXXIV"):
-            text1 = """ """
+            text1 = """ 
+            Section LXXXIV – Tirtha-yatra ka aur vistaar (Narad–Pulastya samvad)
+
+Narad ji ne Pulastya Rishi ki baat ko aage bataya. Is bhaag me Pulastya bahut saare pavitra tirthon ka varnan karte hain aur batate hain ki wahan snan, vrat aur puja se kya phal milta hai."""
             create_image_text_layout(
                 "attached_assets/chapter3/3.7.5.jpg",
                 text1,
@@ -12141,7 +12531,108 @@ Sacha pyaar, dhairya aur vishwas – aakhir jeet jaate hain."""
                 image_position="left"
             )
 
-            text2 = """ """
+            text2 = """ 
+            Dharma ke tirth aur pavitra van
+
+Pulastya ne kaha:
+
+Sabse pehle “Dharma tirth” jana chahiye — yahan Dharmaraj ne tapasya ki thi. Yahan snan karne se vyakti apne kul ko saat pidiyon tak pavitra karta hai.
+
+Jnanapavana jaane se Agnishtoma yajna ka phal milta hai.
+
+Saugandhika van me pravesh karte hi paap mit jaate hain, kyunki wahan devta aur rishi rehte hain.
+
+Sarasvati aur Devi Sakamvari ki mahima
+
+Sarasvati ke ek sthaan par, jo “Plaksha” ke naam se jaana jata hai, anthill se nikle jal me snan karne se Ashvamedha yajna ka phal milta hai.
+
+Sakamvari Devi ka sthaan bahut pavitra hai. Unhone hazaron varsh tak keval saag-sabzi par jeevan bitaya.
+
+Jo vyakti wahan teen raat brahmacharya se rehkar keval saag par jeeta hai, use 12 saal ke tapasya ka phal milta hai.
+
+Vishnu aur Shiva se jude tirth
+
+Pulastya batate hain ki kai tirth aise hain jahan Vishnu aur Shiva ne tapasya ya puja ki:
+
+Suvarna tirth me Vishnu ne Shiva ki puja ki thi aur wahan snan karne se Ashvamedha ka phal milta hai.
+
+Dhumavati aur Rathavarta me vrat rakhne se sabhi ichchha puri hoti hain.
+
+Dhara tirth me snan karne se dukh door ho jaate hain.
+
+Ganga ke mool aur pavitra sangam
+
+Pulastya fir Ganga ke mool srot ka varnan karte hain:
+
+Ganga ke janm sthaan par snan karna swarg ke dwar jaisa maana gaya hai.
+
+Saptaganga, Triganga aur Sakravarta me jal arpan karne se devlok milta hai.
+
+Ganga-Yamuna sangam par snan karne se das Ashvamedha yajna ka phal milta hai.
+
+Varanasi aur Avimukta ki mahima
+
+Varanasi me Kapila hrada me snan karke Shiva ki puja karne se Rajasuya yajna ka phal milta hai.
+
+Avimukta (Kashi) ka darshan hi bade paap ko mita deta hai.
+
+Wahan pran tyag karne se moksha milta hai.
+
+Gaya ka mahatva
+
+Pulastya Gaya ki bhi mahima batate hain:
+
+Gaya me shraddha karne se pitron ko shanti milti hai.
+
+Akshaya-vat ke paas diya gaya daan kabhi khatam nahi hota.
+
+Gaya me rehkar dono paksh (Krishna aur Shukla) bitane se kul ki saat pidiyan uddhar hoti hain.
+
+Alag-alag tirthon ke phal
+
+Is adhyay me bahut saare tirthon ka naam aata hai. Unme se kuch mukhya phal ye bataye gaye:
+
+Kahin snan se Ashvamedha yajna ka phal.
+
+Kahin se Rajasuya ka phal.
+
+Kahin se gyaan prapt hota hai.
+
+Kahin se pichhle janmon ki yaad aa sakti hai (Jatismara tirth).
+
+Kahin se swarg, kahin se Brahmalok, kahin se Vishnulok milta hai.
+
+Ram se jude tirth
+
+Pulastya batate hain:
+
+Sarayu nadi ke Gopratra tirth par Bhagwan Ram ne apna sharir tyag kar swarg prapt kiya tha.
+
+Wahan snan karne se paap dhul jaate hain aur swarg milta hai.
+
+Salagrama aur Narayana ka sthaan
+
+Narayana ka ek pavitra sthaan hai jahan Vishnu “Salagrama” roop me virajmaan hain.
+
+Wahan snan aur darshan se Ashvamedha yajna ka phal milta hai aur Vishnulok prapt hota hai.
+
+Himalaya ke pavitra sthal
+
+Himavat ke paas Kumara-dhara aur Gauri shikhar jaise tirth hain.
+
+Wahan snan aur vrat karne se paap mit jaate hain aur Indralok milta hai.
+
+Antim sandesh
+
+Pulastya ka mukhya sandesh tha:
+
+Tirth-yatra keval yatra nahi, ek tapasya hai.
+
+Snan, daan, vrat aur puja se manushya apne paap se mukta hota hai.
+
+In pavitra sthalon par kiya gaya punya kai yajnon ke barabar maana gaya hai.
+
+In tirthon se na sirf vyakti ka, balki uske kul ka bhi uddhar hota hai."""
             create_image_text_layout(
                 text_content=text2,
                 layout="full"
@@ -12151,7 +12642,24 @@ Sacha pyaar, dhairya aur vishwas – aakhir jeet jaate hain."""
         # Section 3.7.6
         # --------------------------------------------------
         with st.expander("Section 3.7.6  Section LXXXV"):
-            text1 = """ """
+            text1 = """ 
+            Section LXXXV – Tirtha-yatra ka samapan (Narad–Pulastya ki antim shiksha)
+
+Is adhyay me Pulastya Rishi apni tirthon ki lambi katha ka antim bhaag batate hain. Yah pura varnana tirth-yatra ki mahima, Ganga–Prayag ki mahatta aur is katha ko sunne-sunane ke phal ko samjhata hai.
+
+Aur pavitra tirthon ka varnan
+
+Pulastya batate hain ki:
+
+Samvedya tirth ke jal ko sparsh karne se gyaan prapt hota hai.
+
+Lauhitya, Karatoya, Vaitarani jaise tirth paapon ko mitane wale hain; wahan snan karne se Ashvamedha yajna ke barabar phal milta hai.
+
+Viraja me snan karne se vyakti chandrama ki tarah prakashmaan hota hai aur apne kul ka uddhar karta hai.
+
+Godavari, Kaveri, Mandakini, Payoshni jaise pavitra nadiyon me snan se bada punya milta hai.
+
+Gokarna me teen raat vrat karke Shiva ki puja karne se Ashvamedha ka phal aur Ganapatya pad milta hai."""
             create_image_text_layout(
                 "attached_assets/chapter3/3.7.6.jpg",
                 text1,
@@ -12159,7 +12667,88 @@ Sacha pyaar, dhairya aur vishwas – aakhir jeet jaate hain."""
                 image_position="left"
             )
 
-            text2 = """ """
+            text2 = """ 
+            Dakshin Bharat aur vanon ki mahima
+
+Pulastya kai sthanon ka zikr karte hain:
+
+Dandaka van, Sarabhanga aur Suka ka ashram — yahan jaane se paap mit jaate hain aur kul pavitra hota hai.
+
+Tungaka van — jahan ek samay vedon ki punah yaad rishiyon ko hui thi. Yahan ek mahina rehne se Brahmalok milta hai.
+
+Kalanjara parvat, Chitrakuta ki Mandakini — yahan snan aur puja se Ashvamedha yajna ke phal milte hain.
+
+Ram se jude sthaan
+
+Sringaverapura wahi jagah hai jahan Ram ne Ganga paar ki thi. Wahan snan se sab paap dhul jaate hain.
+
+Prayag ki sarvashreshtha mahima
+
+Is adhyay ka sabse bada kendr Prayag (Ganga-Yamuna sangam) hai.
+
+Pulastya kehte hain:
+
+Yahan Ganga aur Yamuna milti hain; devta, rishi aur pitra yahan vas karte hain.
+
+Yahan snan karne se Rajasuya aur Ashvamedha yajna dono ka phal milta hai.
+
+Chhota sa daan bhi yahan hazaar guna badh jata hai.
+
+Is sthaan par anek crore tirth ek saath sthit maane gaye hain.
+
+Unhone Ganga ki mahima bhi batayi:
+
+Ganga ka naam lene se hi pavitrata milti hai.
+
+Darshan se samriddhi milti hai.
+
+Snan aur jal peene se saat pidiyon tak kul pavitra hota hai.
+
+Kaliyug me sabse pavitra tirth Ganga hi hai.
+
+Tirth-yatra ki asli shart
+
+Pulastya ek mahatvapurn baat batate hain:
+
+Jo vyakti pavitra man, niyam aur sanyam ke saath yatra karta hai wahi sachcha phal paata hai.
+
+Jo asanyami, chanchal, ya paapi hai, usse tirth ka sachcha phal nahi milta.
+
+Agar koi sab tirth nahi ja sakta, to unhe mann me soch kar bhi punya mil sakta hai.
+
+Is katha ko sunne ka phal
+
+Pulastya batate hain ki:
+
+Is tirth-mahatmya ko sunne ya padhne se paap mit jaate hain.
+
+Bina santan wala santan paata hai.
+
+Garib ko dhan milta hai.
+
+Raja ko vijay milti hai.
+
+Brahman ko moksha milta hai.
+
+Bhishma aur Yudhishthir se sambandh
+
+Pulastya ne Bhishma ko ashirvaad diya ki ve devlok prapt karenge aur unka naam amar rahega.
+
+Unke jaane ke baad Bhishma ne unke updesh ke anusaar tirth-yatra ki.
+
+Narad ne Yudhishthir ko bhi yahi marg bataya — ki ve rishiyon ke saath tirth-yatra karein aur mahaan punya prapt karein.
+
+Antim sandesh
+
+Is adhyay ka saar:
+
+Tirth-yatra manushya ko paap se mukti, gyaan aur punya deti hai.
+
+Ganga aur Prayag sabse mahan tirth bataye gaye hain.
+
+Is poori katha ko yaad karna, sunna aur sunana bhi ek bada punya karya maana gaya hai.
+
+Is prakar Tirtha-yatra Parva ke is bhaag me Pulastya ka updesh samaapt hota hai, jise Narad ne Yudhishthir ko sunaya."""
             create_image_text_layout(
                 text_content=text2,
                 layout="full"
