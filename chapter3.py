@@ -12907,7 +12907,7 @@ Pavitra jagahon ki yatra sirf sharir ko nahi, mann ko bhi shuddh karti hai. ✨"
 
 Dhaumya rishi ne phir shant awaaz mein kaha,
 
-"Hey Bharata vansh ke veer, ab main tumhe dakshin disha ke pavitra tirth batata hoon. Dhyaan se suno.""""
+"Hey Bharata vansh ke veer, ab main tumhe dakshin disha ke pavitra tirth batata hoon. Dhyaan se suno." """
             create_image_text_layout(
                 "attached_assets/chapter3/3.7.9.jpg",
                 text1,
