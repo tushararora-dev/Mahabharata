@@ -12758,7 +12758,13 @@ Is prakar Tirtha-yatra Parva ke is bhaag me Pulastya ka updesh samaapt hota hai,
         # Section 3.7.7
         # --------------------------------------------------
         with st.expander("Section 3.7.7  Section LXXXVI"):
-            text1 = """ """
+            text1 = """ 
+            Section LXXXVI — Hinglish Story (Simple Moral Style)
+
+Vaisampayana ne kahani aage badhai.
+
+Unhone kaha,
+"Jab Raja Yudhishthira ne apne bhaiyon aur buddhimaan Narada ki rai jaan li, tab unhone Dhaumya rishi se baat ki. Dhaumya bilkul Brahma ji jaise gyaani the."""
             create_image_text_layout(
                 "attached_assets/chapter3/3.7.7.jpg",
                 text1,
@@ -12766,7 +12772,43 @@ Is prakar Tirtha-yatra Parva ke is bhaag me Pulastya ka updesh samaapt hota hai,
                 image_position="left"
             )
 
-            text2 = """ """
+            text2 = """ 
+            Yudhishthira ne shant awaaz mein kaha,
+"Maine apne veer bhai Arjuna ko divya astra lene ke liye bheja hai. Woh bahadur hai, bahut tez dimaag wala hai, aur kisi se haar nahi sakta. O tapasvi, woh mujhse bahut prem karta hai aur hathiyaaron mein maahir hai. Woh Bhagwan Vasudeva jaisa mahaan hai.
+
+Main Krishna aur Arjuna dono ko achhi tarah jaanta hoon. Dono dushmanon ko harane wale mahaan yoddha hain. Jaise Maharishi Vyasa unhe jaante hain, waise hi main bhi jaanta hoon."
+
+Phir Yudhishthira ne gehri saans li aur bola,
+"Mujhe pata hai ki Vasudeva aur Dhananjaya asal mein Vishnu ke roop hain. Narada bhi hamesha mujhe yahi batate aaye hain. Mujhe yeh bhi pata hai ki woh Nara aur Narayana rishi hain.
+
+Isi liye, unki shakti par bharosa karke maine Arjuna ko bheja hai. Woh Indra se kam nahi hai. Maine us dev-putra ko swarg ke raja se divya astra lene ke liye bheja hai."
+
+Yudhishthira thoda chintit hue aur bole,
+"Bhishma aur Drona mahaan Atiratha hain. Kripa aur Drona ka putra bhi ajey hain. Dhritarashtra ke bete ne in sab ko apni sena ka senapati banaya hai.
+
+Yeh sab Vedo ke gyaata hain, bahadur hain, aur har prakar ke astra jaante hain. Aur sab Arjuna se ladna chahte hain."
+
+Phir unhone Karna ka zikr kiya. Unki awaaz serious ho gayi.
+
+"Karna bhi bahut bada yoddha hai. Uske astron ki raftaar hawa jaisi hai. Woh jalti hui aag ki tarah bhayanak hai. Uske teer us aag ki lapton jaise hain. Jab Dhritarashtra ke bete use bhadkate hain, tab woh pralay ki aag ki tarah meri sena ko jalakar raakh kar sakta hai."
+
+Yudhishthira ki aankhon mein umeed chamki.
+
+"Sirf Arjuna hi us aag ko bujha sakta hai. Krishna uske saath powerful hawa ki tarah hoga. Arjuna ke divya astra bijli ki tarah chamkenge. Uska Gandiva dhanush indradhanush ki tarah chamkega.
+
+Mujhe pura vishwas hai — Arjuna Indra se sab divya astra lekar hi lautega. Woh akela hi sab par bhaari hai. Agar woh na hua, toh itne shaktishaali dushmanon ko haraana mushkil hoga."
+
+Phir Yudhishthira thode udaas ho gaye.
+
+"Arjuna ke bina hum Kamyaka van mein chain se nahi reh sakte. Isliye, hey Brahmana, humein koi aur pavitra aur sundar van bataiye — jahan phal-phool ho, achhe log rehte hon.
+
+Hum wahan kuch samay bitayenge, aur Arjuna ka intezaar karenge — bilkul us Chataka pakshi ki tarah jo badalon ka intezaar karta hai."
+
+Unhone dheere se kaha,
+"Arjuna ke bina mujhe Kamyaka van bilkul achha nahi lagta. Hum kahin aur jaana chahte hain."
+
+Moral:
+Jab hum apno par vishwas karte hain, toh doori bhi umeed ko kam nahi kar sakti. ✨"""
             create_image_text_layout(
                 text_content=text2,
                 layout="full"
@@ -12776,7 +12818,20 @@ Is prakar Tirtha-yatra Parva ke is bhaag me Pulastya ka updesh samaapt hota hai,
         # Section 3.7.8
         # --------------------------------------------------
         with st.expander("Section 3.7.8  Section LXXXVII"):
-            text1 = """ """
+            text1 = """ 
+            Section LXXXVII — Hinglish Story (Simple Moral Style)
+
+Vaisampayana ne kahani jaari rakhi.
+
+Unhone kaha,
+"Pandav bahut chintit aur udaas the. Unki halat dekhkar Dhaumya rishi, jo Brihaspati jaise gyaani the, unhe sambhalte hue bole."
+
+Dhaumya ne pyaar se kaha,
+"Hey Bharata vansh ke veer, meri baat dhyaan se suno. Main tumhe kuch pavitra sthalon, tirthon aur sundar pahadon ke baare mein bataunga. Yeh sab Brahmanon dwara maane hue pavitra sthal hain.
+
+Hey rajan, tum, Draupadi aur tumhare bhai — meri baat sunoge to tumhara dukh halka ho jayega. Sirf in jagahon ke baare mein sunne se bhi punya milta hai. Aur agar tum wahan jaoge, to sau guna zyada punya milega."
+
+Dhaumya ne pehle poorab disha ka varnan shuru kiya."""
             create_image_text_layout(
                 "attached_assets/chapter3/3.7.8.jpg",
                 text1,
@@ -12784,7 +12839,60 @@ Is prakar Tirtha-yatra Parva ke is bhaag me Pulastya ka updesh samaapt hota hai,
                 image_position="left"
             )
 
-            text2 = """ """
+            text2 = """ 
+            🌿 Naimisha — Pavitra Van
+            "Hey Yudhishthira," Dhaumya bole,
+"Poorab mein ek pavitra sthal hai — Naimisha. Devta bhi ise maante hain. Wahan kai pavitra tirth hain. Wahi sundar Gomati nadi bhi behti hai, jise dev rishi poojte hain. Wahan Surya ka yajna-sthal bhi hai." ⛰️ Gaya aur Brahmasara
+
+"Usi disha mein pavitra Gaya parvat hai, jo raja-rishiyon ko bahut priya hai. Wahan ek pavitra sarovar hai — Brahmasara.
+
+Purane log kehte hain — insaan ko zyada putron ki ichha isliye karni chahiye, taaki unmein se koi ek Gaya jaakar pitron ko tarpaṇ de sake. Isse uske kul ki kai peedhiyan tar jaati hain."
+
+Dhaumya ne aage bataya,
+"Wahan Gayasira naam ka pavitra sthal hai. Wahan ek amar bargad ka ped hai. Brahman kehte hain — wahan pitron ko diya gaya bhojan kabhi vyarth nahi jata.
+
+Wahan se pavitra Phalgu nadi bhi behti hai." 🌊 Kausiki aur Ganga
+4
+
+"Us jagah Kausiki nadi bhi hai, jiske kinaare phal aur jad bahut milte hain. Wahi Maharishi Vishvamitra ne kathin tapasya karke Brahman pad prapt kiya tha.
+
+Aur usi disha mein pavitra Ganga bhi hai, jiske kinaare Raja Bhagiratha ne bade-bade yajna kiye the."
+
+🌟 Prayag — Ganga Yamuna Sangam
+
+Dhaumya ki awaaz shraddha se bhar gayi.
+
+"Hey veer, usi disha mein Ganga aur Yamuna ka mahaan sangam hai — Prayag. Yeh duniya bhar mein prasiddh hai. Yeh paap ko nasht karne wala tirth hai.
+
+Purane samay mein Brahma ji ne yahan yajna kiya tha. Isi liye iska naam Prayag pada."
+
+🏔️ Anya Pavitra Sthal
+
+Dhaumya ne aage bataya:
+
+Agastya rishi ka pavitra ashram
+
+Tapasa van, jahan bahut tapasvi rehte hain
+
+Hiranyavinda tirth Kalanjara parvat par
+
+Mahendra parvat, jo Parashurama ko priya hai
+
+Matanga rishi ka pavitra Kedara ashram
+
+Kundoda parvat, jahan Raja Nala ne kabhi vishraam kiya tha
+
+Sundar Deva-vana, jahan rishi-muni rehte hain
+
+Vahuda aur Nanda nadiyan pahadon par
+
+Ant mein Dhaumya bole,
+"Hey maharaj, maine tumhe poorab disha ke sab pavitra tirth bata diye. Ab tum baaki teen dishaon ke pavitra sthalon ke baare mein bhi suno."
+
+Pandav dhyaan se sun rahe the. Unke dil ka bojh thoda halka ho gaya.
+
+Moral:
+Pavitra jagahon ki yatra sirf sharir ko nahi, mann ko bhi shuddh karti hai. ✨"""
             create_image_text_layout(
                 text_content=text2,
                 layout="full"
@@ -12794,7 +12902,12 @@ Is prakar Tirtha-yatra Parva ke is bhaag me Pulastya ka updesh samaapt hota hai,
         # Section 3.7.9
         # --------------------------------------------------
         with st.expander("Section 3.7.9  Section LXXXVIII"):
-            text1 = """ """
+            text1 = """ 
+            Section LXXXVIII — Hinglish Story (Simple Moral Style)
+
+Dhaumya rishi ne phir shant awaaz mein kaha,
+
+"Hey Bharata vansh ke veer, ab main tumhe dakshin disha ke pavitra tirth batata hoon. Dhyaan se suno.""""
             create_image_text_layout(
                 "attached_assets/chapter3/3.7.9.jpg",
                 text1,
@@ -12802,7 +12915,80 @@ Is prakar Tirtha-yatra Parva ke is bhaag me Pulastya ka updesh samaapt hota hai,
                 image_position="left"
             )
 
-            text2 = """ """
+            text2 = """ 
+            🌊 Godavari — Pavitra Nadi
+
+"Dakshin mein pavitra aur mangalmayi Godavari nadi hai. Yeh paani se bhari rehti hai. Iske kinaare hari-bhari van aur tapasvi rishi rehte hain."
+
+Dhaumya ne aage bataya,
+"Wahan Venna aur Bhimarathi nadiyan bhi hain. Yeh paap aur bhay ko door karti hain. Inke aas-paas hiran aur pakshi ghoomte hain, aur rishiyon ke ashram baste hain."
+
+🌿 Payoshni aur Raja Nriga
+
+"Usi kshetra mein Raja Nriga ka pavitra tirth hai — Payoshni nadi. Yeh bahut sundar hai aur Brahman yahan aate hain.
+
+Maharishi Markandeya ne yahin Raja Nriga ki mahima gaayi thi. Jab Raja Nriga yahan yajna kar rahe the, tab Indra soma peeke prasan ho gaye the, aur Brahman bhi daan paakar khush hue the."
+
+Dhaumya ne gahri baat kahi,
+"Payoshni ka paani — chahe haath mein lo, zameen par behte dekho, ya hawa se aaye — yeh jeevan bhar ke paapon ko dhone ki shakti rakhta hai."
+
+🔱 Mahadev ka Pavitra Sthal
+
+"Wahan ek pavitra sthal hai jo Trishul-dhari Bhagwan ne swayam banaya. Wahan Mahadev ki murti hai. Jo manushya us darshan ko paata hai, woh Shiv lok ko prapt hota hai."
+
+Dhaumya bole,
+"Agar ek taraf Ganga aur sab nadiyon ko rakho, aur doosri taraf Payoshni ko — mere hisaab se Payoshni ka punya sabse zyada hai."
+
+Pandav dhyaan se sun rahe the.
+
+🌳 Surparaka aur Anya Ashram
+
+Dhaumya ne bataya,
+
+Varunasrotasa par Mathara van hai
+
+Kanva rishi ke ashram ke paas kai tapasvi van hain
+
+Surparaka mein Jamadagni ke do yajna-vedi hain — Pashana aur Punascandra
+
+Wahan Asoka tirth bhi hai
+
+Phir bole,
+"Pandya desh mein Agastya aur Varuna ke tirth hain. Wahi Kumari tirth bhi hai."
+
+🌴 Tamraparni aur Gokarna
+"Tamraparni ke ashram mein devtaon ne moksha ki ichha se tapasya ki thi.
+
+Aur wahan prasiddh Gokarna sarovar hai — teenon lokon mein mashhoor. Iska thanda paani bahut pavitra hai. Lekin jinka mann shuddh nahi hai, unke liye yeh sthal paana mushkil hai."
+
+"Uske paas Agastya ke shishya ka ashram aur Devasabha parvat hai. Wahan Vaidurya parvat bhi hai, jo ratno se bhara hua hai. Aur wahi Agastya rishi ka pavitra ashram bhi hai."
+
+🌊 Surashtra ke Pavitra Sthal
+
+Dhaumya ne phir kaha,
+"Ab main tumhe Surashtra desh ke pavitra sthal batata hoon."
+
+🌅 Prabhasa aur Pindaraka
+
+"Samudra ke kinaare Chamasodbheda hai, aur Prabhasa tirth hai — jo devtaon ko bahut priya hai. Wahan Pindaraka tirth bhi hai, jahan rishi-muni aate hain."
+
+"Ussi kshetra mein Ujjayanta naam ka mahaan parvat hai. Narada rishi ne kaha hai — jo vyakti wahan tapasya karta hai, use swarg mein samman milta hai."
+
+🏰 Dwaravati — Krishna ka Nagar
+
+Dhaumya ki awaaz bhakti se bhar gayi.
+
+"Wahan Dwaravati hai — mahaan punya dene wali nagari. Wahi Madhu ke vadh karne wale Bhagwan Krishna nivas karte hain.
+
+Vedo ke gyaata Brahman kehte hain — Krishna swayam dharma ka roop hain. Govinda sabse pavitra hain. Woh dharmiyon mein sabse dharmic hain."
+
+Dhaumya ne ant mein kaha,
+"Teenon lokon mein, kamal-jaisi aankhon wale Hari hi devon ke dev hain. Woh shuddh atma hain, param brahma hain, aur sabke swami hain. Wahi Mahaan Hari wahan nivas karte hain."
+
+Pandavon ke dil mein shraddha aur shanti bhar gayi.
+
+Moral:
+Sachchi shraddha aur pavitra yatra, mann ko Bhagwan ke aur kareeb le aati hai. ✨"""
             create_image_text_layout(
                 text_content=text2,
                 layout="full"
@@ -12812,7 +12998,14 @@ Is prakar Tirtha-yatra Parva ke is bhaag me Pulastya ka updesh samaapt hota hai,
         # Section 3.7.10
         # --------------------------------------------------
         with st.expander("Section 3.7.10  Section LXXXIX"):
-            text1 = """ """
+            text1 = """ 
+            Section LXXXIX — Hinglish Story (Simple Moral Style)
+
+Dhaumya rishi ne phir dheere se kaha,
+
+"Hey Bharata vansh ke veer, ab main tumhe paschim disha ke pavitra tirth batata hoon. Dhyaan se suno."
+
+Pandav shant hokar sunne lage."""
             create_image_text_layout(
                 "attached_assets/chapter3/3.7.10.jpg",
                 text1,
@@ -12820,7 +13013,62 @@ Is prakar Tirtha-yatra Parva ke is bhaag me Pulastya ka updesh samaapt hota hai,
                 image_position="left"
             )
 
-            text2 = """ """
+            text2 = """ 
+            Dhaumya bole,
+"Paschim mein Anartta desh hai. Wahan pavitra Narmada nadi behti hai. Uske kinaare Priyangu aur aam ke ped lage hain. Ghane baans usse mala ki tarah ghere rehte hain."
+
+Unhone gambhir awaaz mein kaha,
+"Hey Kuru vansh ke shreshth, teenon lokon ke sab tirth, nadiyan, van aur pahaad — sabka punya Narmada mein milta hai. Devta, Brahma ji, Siddha, Rishi aur Charan — sab yahan snan karne aate hain."
+
+Pandavon ke chehre par adbhut bhaav aa gaye.
+
+Dhaumya ne aage bataya,
+"Hamne suna hai ki yahin Maharishi Visravas ka pavitra ashram tha. Aur yahin dhan ke devta Kuvera ka janm hua tha."
+
+"Usi kshetra mein pavitra Vaidurya parvat hai. Yeh hamesha hare-bhare pedon, phalon aur phoolon se saja rehta hai."
+
+"Wahan us parvat ki choti par ek pavitra sarovar hai. Usmein khile hue kamal hain. Devta aur Gandharva bhi wahan aate hain. Hey maharaj, woh parvat swarg jaisa sundar hai."
+
+Phir Dhaumya bole,
+"Wahan ek pavitra nadi bhi hai — Vishvamitra. Yeh rajrishi Vishvamitra se judi hai aur ismein kai pavitra tirth hain."
+
+"Isi nadi ke kinaare Raja Yayati, jo Nahusha ke putra the, swarg se girne ke baad phir se punya karke dharmik logon ke lok ko prapt hue the."
+
+Pandav bade dhyaan se sun rahe the.
+
+Dhaumya ne ginte hue bataya,
+
+Punya naam ka prasiddh sarovar
+
+Mainaka parvat
+
+Asita parvat — jo phal aur jad se bhara hai
+
+Kakshasena ka pavitra ashram
+
+Cyavana rishi ka prasiddh ashram — jahan bina kathin tapasya ke bhi siddhi mil sakti hai
+
+Unhone muskura kar kaha,
+"Yahan Jambumarga naam ka pavitra van bhi hai. Wahan pakshi aur hiran rehte hain. Aur wahan woh tapasvi rehte hain jinhone apne indriyon par poora niyantran pa liya hai."
+
+Dhaumya ne phir kaha,
+"Iske baad Ketumala aur Medhya naam ke bahut pavitra sthal hain. Wahan hamesha tapasvi rehte hain."
+
+"Hey rajan, wahan Gangadwara bhi hai, aur Saindhava ke pavitra van bhi hain, jahan pavitra log rehte hain."
+
+Ant mein Dhaumya ki awaaz bahut shraddha se bhar gayi.
+
+"Sabse prasiddh hai Pushkara ka pavitra sarovar. Yeh Brahma ji ka priya sthal hai. Vaikhanasa, Siddha aur Rishi sab yahan aate hain."
+
+Phir unhone ek purani baat batayi:
+
+"Brahma ji ne Pushkara mein yeh kaha tha —
+'Agar koi pavitra mann se sirf Pushkara ki yatra ka sankalp bhi kar le, to woh apne sab paapon se mukta ho jata hai aur swarg mein anand paata hai.'"
+
+Pandavon ke dil mein shanti utar aayi. Unhe laga — pavitra yatra sach mein mann ko halka kar deti hai.
+
+Moral:
+Sachche mann se ki gayi bhakti aur sankalp bhi jeevan ko pavitra bana dete hain. ✨"""
             create_image_text_layout(
                 text_content=text2,
                 layout="full"
@@ -12830,7 +13078,14 @@ Is prakar Tirtha-yatra Parva ke is bhaag me Pulastya ka updesh samaapt hota hai,
         # Section 3.7.11
         # --------------------------------------------------
         with st.expander("Section 3.7.11  Section XC"):
-            text1 = """ """
+            text1 = """ 
+            Section XC — Hinglish Story (Simple Moral Style)
+
+Dhaumya rishi ne phir shant swar mein kaha,
+
+"Hey rajaon ke sher, ab main tumhe uttar disha ke pavitra tirth batata hoon. Dhyaan se suno. Sirf inki kahani sunne se bhi mann mein shraddha jagti hai aur bahut punya milta hai."
+
+Pandav dhyaan se baith gaye."""
             create_image_text_layout(
                 "attached_assets/chapter3/3.7.11.jpg",
                 text1,
@@ -12838,7 +13093,93 @@ Is prakar Tirtha-yatra Parva ke is bhaag me Pulastya ka updesh samaapt hota hai,
                 image_position="left"
             )
 
-            text2 = """ """
+            text2 = """ 
+            Dhaumya bole,
+"Uttar mein bahut pavitra Sarasvati nadi hai. Iske kinaare kai tirth hain aur yahan utarna aasaan hai."
+
+"Hey Pandu-putra, wahan tez behne wali Yamuna bhi hai. Aur wahan ek pavitra tirth hai — Plakshavatarana. Yeh bahut bada punya dene wala sthal hai."
+
+"Wahi par brahmanon ne Sarasvata yajna poora karke pavitra snan kiya tha."
+
+Phir Dhaumya ne kaha,
+"Hey paap-rahit rajan, wahan ek prasiddh deviya tirth hai — Agnisiras. Yeh bahut bada punya deta hai."
+
+"Yahi Raja Sahadeva ne ek mahaan yajna kiya tha. Unhone bhoomi ko Samya se naap kar yajna kiya. Isi liye Indra ne unki prashansa mein shlok gaaye the."
+
+Dhaumya ne yaad karte hue kaha,
+"Log aaj bhi woh shlok gaate hain —
+‘Yamuna ke kinaare Sahadeva ne yajna kiya aur Brahmanon ko lakhon daan diye.’"
+
+Pandavon ko garv mehsoos hua.
+
+Dhaumya ne aage bataya,
+"Isi kshetra mein Maharaja Bharata ne paintis Ashvamedha yajna kiye the. Aur pracheen samay mein Rishi Sarabhanga yahan brahmanon ki sab ichchha poori karte the."
+
+"Wahan unka prasiddh ashram bhi hai — bahut punya dene wala."
+
+Dhaumya ne phir kaha,
+"Yahin Sarasvati ke kinaare purane samay mein Valikhilya rishiyon ne yajna kiya tha. Aur wahan pavitra Drisadwati nadi bhi hai."
+
+Phir unhone kai pavitra ashramon ke naam bataye:
+
+Nyagrodhakhya
+
+Pancalya
+
+Punyaka
+
+Dalbhyaghosha
+
+Dalbhya
+
+"Yeh sab Anandayasas naam ke mahaan tapasvi ke pavitra ashram hain, jo teenon lokon mein prasiddh hain."
+
+Dhaumya bole,
+"Yahin Etavarna aur Avavarana jaise ved-gyani rishiyon ne mahaan yajna kiye the."
+
+"Wahan Vishakhayupa naam ka pavitra sthal bhi hai, jahan devta — Varuna aur Indra ke saath — tapasya karne aaye the. Isliye yeh jagah bahut pavitra hai."
+
+Phir Dhaumya ne kaha,
+"Palasaka naam ke sthal par Maharishi Jamadagni ne yajna kiya tha. Tab sab badi nadiyan apne roop mein wahan aa kar unke chaaron taraf khadi ho gayi thi."
+
+"Agni dev ne khud unki prashansa mein shlok gaya tha."
+
+Pandav adbhut bhaav se sunte rahe.
+
+Dhaumya ne gahri awaaz mein kaha,
+
+"Hey rajan, jahan Ganga tez dhaar se pahaadon ko cheer kar nikalti hai — us sthal ko Gangadwara kehte hain. Wahan Gandharva, Yaksha, Rakshasa, Apsara aur Kinnara bhi aate hain."
+
+"Sanatkumara ne Gangadwara aur uske paas Kanakhala ko bahut pavitra mana hai."
+
+Phir Dhaumya bole,
+
+"Wahan Puru naam ka parvat hai, jahan Raja Pururavas ka janm hua tha. Aur wahan Bhrigu rishi ne kathin tapasya ki thi. Isi liye us shikhar ko Bhrigutunga kehte hain."
+
+Pandav ab aur bhi adhik utsuk ho gaye.
+
+Dhaumya ki awaaz bhakti se bhar gayi.
+
+"Bhrigutunga ke paas hi pavitra aur vishal Badari ashram hai. Yeh teenon lokon mein prasiddh hai."
+
+"Wahi Narayana ka nivas hai — jo bhoot, vartamaan aur bhavishya sab hain. Wahi Vishnu hain, sabse mahaan purush."
+
+"Purane samay mein wahan Ganga ka paani bhi garam hota tha aur kinaare sone jaisi ret se bhare the. Devta aur rishi wahan jaakar Narayana ki pooja karte hain."
+
+Dhaumya ne ant mein kaha,
+
+"Hey rajan, jahan Narayana nivas karte hain, wahi sabse bada tirth hai. Wahi dharma hain, wahi param brahma hain, wahi sab jeevon ke swami hain."
+
+"Vasus, Sadhya, Aditya, Marut, Ashvini Kumar aur mahaan rishi — sab in pavitra sthalon par aate hain."
+
+Phir unhone pyaar se Pandavon ki taraf dekha.
+
+"Hey Kunti-putra, agar tum apne bhaiyon aur brahmanon ke saath in tirthon ki yatra karoge, to tumhari chinta door ho jayegi."
+
+Pandavon ke dil mein shanti aur aastha bhar gayi.
+
+Moral:
+Jab mann Bhagwan ki taraf mudta hai, to chinta dheere-dheere khud door ho jaati hai. ✨"""
             create_image_text_layout(
                 text_content=text2,
                 layout="full"
