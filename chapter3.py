@@ -13189,7 +13189,21 @@ Jab mann Bhagwan ki taraf mudta hai, to chinta dheere-dheere khud door ho jaati 
         # Section 3.7.12
         # --------------------------------------------------
         with st.expander("Section 3.7.12  Section XCI"):
-            text1 = """ """
+            text1 = """ 
+            Section XCI — Hinglish Story (Simple Moral Style)
+
+Vaisampayana ne kahani aage badhai.
+
+Unhone kaha,
+"Hey Kuru vansh ke putra, jab Dhaumya rishi pavitra tirthon ka varnan kar rahe the, tab wahan ek aur mahaan rishi aa gaye — Rishi Lomasa."
+
+Woh bahut tej aur tapasvi the.
+
+Yudhishthira ne apne bhaiyon aur brahmanon ke saath milkar unka swagat kiya.
+Sab unke chaaron taraf baith gaye — bilkul devtaon ki tarah jo swarg mein Indra ke paas baithte hain.
+
+Phir Yudhishthira ne vinamrata se poocha,
+"Hey Maharishi, aap yahan kaise aaye? Aur aapki yatra ka kya uddeshya hai?" """
             create_image_text_layout(
                 "attached_assets/chapter3/3.7.12.jpg",
                 text1,
@@ -13197,7 +13211,92 @@ Jab mann Bhagwan ki taraf mudta hai, to chinta dheere-dheere khud door ho jaati 
                 image_position="left"
             )
 
-            text2 = """ """
+            text2 = """ 
+            🌿 Lomasa Rishi ka Sandesh
+
+Rishi Lomasa muskuraaye.
+
+Unhone madhur swar mein kaha,
+
+"Hey Kaunteya, main apni ichchha se sab lokon mein ghoomta rehta hoon. Is baar main Indra ke swarg lok gaya tha."
+
+"Vahan maine tumhare veer bhai Arjuna ko dekha."
+
+Yeh sunte hi Pandavon ke chehre chamak uthe.
+
+Lomasa ne aage kaha,
+
+"Woh Indra ke saath ek hi singhasan par baitha tha! Aur use dekh kar mujhe bahut aashcharya hua."
+
+⚡ Arjuna ki Mahima
+
+"Indra ne mujhe kaha —
+‘Tum Pandavon ke paas jao.’"
+
+"Indra aur Arjuna — dono ke anurodh par main yahan aaya hoon."
+
+Phir Lomasa ne sabse khushi ki baat batayi.
+
+"Hey Yudhishthira, Arjuna ne Bhagwan Rudra se woh adbhut astra prapt kar liya hai — jiske liye tumne use swarg bheja tha."
+
+Yeh tha — Brahma-shira astra.
+
+"Yeh bahut hi bhayanak aur shaktishaali astra hai. Rudra ne tapasya se ise paaya tha. Arjuna ne na keval ise prapt kiya — balki ise chalane, wapas lene aur prayaschit karne ke mantra bhi seekh liye."
+
+Pandav hairaan reh gaye.
+
+🌩️ Devtaon se Astra
+
+Lomasa ne aage kaha,
+
+"Arjuna ne Yama, Kubera, Varuna aur Indra se bhi divya astra prapt kiye hain."
+
+"Sirf yahi nahi — usne Gandharvon se sangeet, nritya aur Saman ka uchcharan bhi seekh liya hai."
+
+Ab Arjuna swarg mein sukhi hai.
+
+Yeh sun kar sabka mann halka ho gaya.
+
+📜 Indra ka Sandesh
+
+Phir Lomasa ne Indra ka sandesh sunaya.
+
+"Indra ne kaha —
+
+‘Arjuna jaldi hi wapas aayega. Usne devtaon ke liye ek mahaan kaarya kiya hai — jo devta khud nahi kar paate.’"
+
+‘Tab tak tum sab tapasya karo. Tapasya se bada kuch nahi hota. Tapasya se hi bade phal milte hain.’"
+
+⚔️ Karna ki Baat
+
+Indra ne ek aur baat kahi.
+
+"Main jaanta hoon Karna bahut shaktishaali hai. Woh mahaan dhanurdhar hai. Uska bal aur utsaah bahut bada hai."
+
+Yudhishthira ka dil thoda ghabra gaya.
+
+Par phir Lomasa ne muskurakar kaha,
+
+"Par Arjuna ke saamne Karna ka shaurya solahve bhaag ke barabar bhi nahi hai."
+
+Yeh sunte hi Yudhishthira ka dar halka ho gaya.
+
+🕊️ Tirth Yatra ka Marg
+
+Indra ne kaha tha,
+
+"Jab tak Arjuna wapas aaye, tum sab tirth yatra karo."
+
+"Rishi Lomasa tumhe pavitra sthalon ka mahatva batayenge. Unki baat dhyaan se sunna aur samman se grahan karna."
+
+Yeh sab sunkar Pandavon ke dil mein phir se umeed jag gayi.
+
+Unhe laga —
+Arjuna surakshit hai.
+Aur Bhagwan sab dekh rahe hain.
+
+Moral:
+Jab dhairya aur tapasya saath ho, to dar bhi dheere-dheere door ho jata hai. ✨"""
             create_image_text_layout(
                 text_content=text2,
                 layout="full"
@@ -13207,7 +13306,14 @@ Jab mann Bhagwan ki taraf mudta hai, to chinta dheere-dheere khud door ho jaati 
         # Section 3.7.13
         # --------------------------------------------------
         with st.expander("Section 3.7.13  Section XCII"):
-            text1 = """ """
+            text1 = """ 
+            Section XCII — Hinglish Story (Simple Moral Style)
+
+Lomasa rishi ne phir shant swar mein kaha,
+
+"Hey Yudhishthira, ab suno Arjuna — Dhananjaya — ne kya sandesh bheja hai."
+
+Sab dhyaan se sunne lage."""
             create_image_text_layout(
                 "attached_assets/chapter3/3.7.13.jpg",
                 text1,
@@ -13215,7 +13321,94 @@ Jab mann Bhagwan ki taraf mudta hai, to chinta dheere-dheere khud door ho jaati 
                 image_position="left"
             )
 
-            text2 = """ """
+            text2 = """ 
+            📜 Arjuna ka Sandesh
+
+Lomasa bole,
+
+"Arjuna ne kaha —
+
+‘Mere bhai Yudhishthira ko dharm ka palan karne ke liye prerit karo. Woh tapasya aur neeti mein nipun hain. Unhe tirth yatra ka punya prapt karna chahiye.’"
+
+‘Unhe samjhao ki ve sab pavitra tirthon ka darshan karein aur gau-daan karein.’"
+
+Yeh sunkar Yudhishthira ka hriday komal ho gaya.
+
+🛡️ Raksha ka Vachan
+
+Lomasa ne aage kaha,
+
+"Arjuna ne mujhse yeh bhi kaha —
+
+‘Aap unhe sab tirthon tak le jayein. Aap unki raksha karein. Raaste mein bade-bade Rakshas hain, pahaadon jaise bade.’
+
+‘Par aapke hote hue ve Pandavon ko chhoo bhi nahi sakenge.’"
+
+Lomasa muskuraaye.
+
+"Main Indra aur Arjuna ke aadesh se tumhare saath chalunga. Main pehle bhi do baar tirth yatra kar chuka hoon. Ab teesri baar tumhare saath jaunga."
+
+🌊 Tirth Yatra ka Mahatva
+
+Lomasa bole,
+
+"Manu aur anya raja-rishi bhi tirth yatra kar chuke hain. Tirth yatra sab bhayon ko door kar deti hai."
+
+"Par jo log kapati hain, jo apne indriyon ko control nahi karte, jo adharmik hain — unhe tirth ka phal nahi milta."
+
+Phir unhone Yudhishthira ki taraf dekha.
+
+"Par tum to sadaachari ho. Tum dharm mein dridh ho. Tum Bhagiratha, Gaya, aur Yayati jaise mahaan rajaon ke saman ho."
+
+Yeh shabd sunkar sab ka mann garv se bhar gaya.
+
+😊 Yudhishthira ka Uttar
+
+Yudhishthira ne vinamrata se kaha,
+
+"Hey Brahmana, main itna prasann hoon ki shabd nahi mil rahe."
+
+"Kaun mujhse adhik bhagyashali hoga — jise Indra yaad kare? Jise Arjuna jaise bhai mile? Aur aap jaise rishi ka sang mile?"
+
+Unhone dridh swar mein kaha,
+
+"Main tirth yatra ke liye taiyaar hoon. Aap jab kahen, hum chal padenge. Yeh mera pakka sankalp hai."
+
+🎒 Halka Safar
+
+Lomasa bole,
+
+"Hey rajan, apni sangati halka rakho. Kam log honge to yatra aasaan hogi."
+
+Yudhishthira ne turant soch-samajh kar kaha,
+
+"Jo Brahman, Yogi ya log bhookh-pyaas aur kathinai nahi seh sakte — ve yahin ruk jayein."
+
+"Jo meetha, pakka khana, ya maans ke aadi hain — ve bhi na aayein."
+
+"Jo log pakka khana aur rasoi par nirbhar hain — ve bhi yahin rahein."
+
+Phir unhone nagar ke logon se kaha,
+
+"Jo log prem se hamare saath aaye the, ve Hastinapur laut jayein. Raja Dhritarashtra unka khayal rakhenge."
+
+"Yadi ve mana karein, to Panchal ke raja unki sahayata karenge."
+
+😢 Vidai ka Pal
+
+Vaisampayana ne kaha,
+
+"Yeh sun kar nagar ke log aur Brahman dukh se bhar gaye. Par ve Yudhishthira ke aadesh se Hastinapur laut gaye."
+
+Dhritarashtra ne unka samman se swagat kiya aur unki vyavastha ki.
+
+Aur…
+
+Yudhishthira, apne kuch hi Brahmanon ke saath, teen din tak Kamyaka van mein rahe — Lomasa ke saath prasann aur utsahit.
+
+Unki yatra ki taiyaari ho chuki thi.
+
+Moral: Jo dharm aur tapasya ka marg chunta hai, uska safar halka hota hai — aur mann mazboot. ✨"""
             create_image_text_layout(
                 text_content=text2,
                 layout="full"
@@ -13225,7 +13418,18 @@ Jab mann Bhagwan ki taraf mudta hai, to chinta dheere-dheere khud door ho jaati 
         # Section 3.7.14
         # --------------------------------------------------
         with st.expander("Section 3.7.14  Section XCIII"):
-            text1 = """ """
+            text1 = """ 
+            Section XCIII — Hinglish Story (Simple Moral Style)
+
+Vaisampayana ne kaha,
+
+"Jab Pandav tirth yatra ke liye taiyaar ho rahe the, tab van mein rehne wale Brahman unke paas aaye."
+
+Unhone vinamrata se kaha,
+
+"Hey rajan, aap apne bhaiyon aur Rishi Lomasa ke saath pavitra tirthon ki yatra par ja rahe hain. Kripya humein bhi apne saath le chaliye."
+
+Unki awaaz mein bhakti aur aas thi."""
             create_image_text_layout(
                 "attached_assets/chapter3/3.7.14.jpg",
                 text1,
@@ -13233,7 +13437,108 @@ Jab mann Bhagwan ki taraf mudta hai, to chinta dheere-dheere khud door ho jaati 
                 image_position="left"
             )
 
-            text2 = """ """
+            text2 = """ 
+            🌿 Brahmanon ki Vinati
+
+Unhone kaha,
+
+"Akele hum un kathin aur jangli tirthon tak nahi pahunch sakte. Wahan jangli jaanwar aur Rakshas rehte hain."
+
+"Par aap aur aapke veer bhaiyon ke saath, humein koi dar nahi hoga."
+
+"Hey rajan, aapki kripa se hum bhi tirthon ka punya paana chahte hain. Aapki shakti se hum bhi paap se mukt ho sakte hain."
+
+Unki aankhon mein prarthana thi.
+
+Unhone aage kaha,
+
+"Aapke saath rehkar hum Prabhasa, Mahendra parvat, Ganga aur anya pavitra sthalon ka darshan karna chahte hain."
+
+"Agar aapko Brahmanon se prem hai, to humein mana mat kijiye."
+
+😊 Yudhishthira ka Hriday
+
+Yeh sunkar Yudhishthira ki aankhon mein khushi ke aansu aa gaye.
+
+Unhone pyaar se kaha,
+
+"Thik hai. Aap sab hamare saath chal sakte hain."
+
+Phir unhone Lomasa aur Dhaumya ki anumati li.
+
+Sab ne haan kar di.
+
+Ab yatra pakki ho gayi.
+
+🌟 Mahaan Rishiyon ka Aagman
+
+Isi samay, teen mahaan rishi — Vyasa, Parvata aur Narada — Kamyaka van mein aaye.
+
+Yudhishthira ne turant unka satkar kiya.
+
+Rishiyon ne Pandavon ko ashirvaad diya.
+
+Unhone kaha,
+
+"Hey Yudhishthira, Bhima aur dono twins — apne mann se bure vichaar nikaal do."
+
+"Sirf sharir ka niyam rakhna hi vrat nahi hota. Mann ko bhi pavitra banana hi sachcha vrat hai."
+
+"Sharir ke niyam ko bhautik vrat kehte hain. Par mann ki shuddhi ko adhyatmik vrat kehte hain."
+
+"Jo mann saaf hai, wahi sabse pavitra hai."
+
+Pandav dhyaan se sunte rahe.
+
+🕊️ Shuddh Mann ke Saath Yatra
+
+Rishiyon ne kaha,
+
+"Dosti ka bhaav rakho. Kisi ke liye dvesh mat rakho."
+
+"Tabhi tirth yatra ka sachcha phal milega."
+
+Pandavon ne vinamrata se kaha,
+
+"Jaise aapka aadesh."
+
+🌕 Yatra ka Shubh Din
+
+Agrahayana ke poornima ke baad, Pushya nakshatra ke din, Pandav yatra ke liye nikle.
+
+Unhone:
+
+vriksh ki chhaal ke vastra pehne
+
+jata baandhi
+
+talwar aur dhanush dharan kiya
+
+kavach pehna
+
+Unke saath:
+
+Dhaumya
+
+Lomasa
+
+van ke tapasvi
+
+kuch sevak
+
+rath
+
+Sabka chehra poorab ki taraf tha.
+
+Yudhishthira, Bhima, Arjuna ke bina bhi, Nakul, Sahadeva aur Draupadi ke saath — dharm ke marg par chal pade.
+
+Unke dil mein shraddha thi.
+Unke mann mein shuddh sankalp tha.
+
+Aur yatra shuru ho gayi.
+
+Moral:
+Sachchi yatra sirf pairon se nahi, pavitra mann se hoti hai. ✨"""
             create_image_text_layout(
                 text_content=text2,
                 layout="full"
@@ -13243,7 +13548,16 @@ Jab mann Bhagwan ki taraf mudta hai, to chinta dheere-dheere khud door ho jaati 
         # Section 3.7.15
         # --------------------------------------------------
         with st.expander("Section 3.7.15  Section XCIV"):
-            text1 = """ """
+            text1 = """ 
+            Section XCIV — Hinglish Story (Simple Moral Style)
+
+Yudhishthira ne udaas swar mein kaha,
+
+"Hey dev-rishi Lomasa, mujhe nahi lagta ki main bina punya ka hoon. Phir bhi itna dukh mujhe hi kyun mila?"
+
+"Main dekh raha hoon ki mere shatru dharmheen hain. Unmein na neeti hai, na daya. Phir bhi ve iss duniya mein phal-phool rahe hain. Aisa kyun?"
+
+Unke dil mein sachcha dard tha."""
             create_image_text_layout(
                 "attached_assets/chapter3/3.7.15.jpg",
                 text1,
@@ -13251,7 +13565,104 @@ Jab mann Bhagwan ki taraf mudta hai, to chinta dheere-dheere khud door ho jaati 
                 image_position="left"
             )
 
-            text2 = """ """
+            text2 = """ 
+            🌿 Lomasa ka Santvana
+
+Lomasa rishi ne shaant muskuraahat ke saath kaha,
+
+"Hey Pritha-putra, dukh mat karo."
+
+"Kabhi-kabhi paapi log apne paap se bhi kuch samay ke liye safal dikhte hain."
+
+"Par yaad rakho — unki jad tak vinash hota hai."
+
+Yudhishthira dhyaan se sunte rahe.
+
+⚔️ Asuron ki Kahani
+
+Lomasa bole,
+
+"Maine apni aankhon se dekha hai — Daitya aur Danav kabhi bahut samriddh the."
+
+"Par ve dharm chhod baithe."
+
+"Devta dharm par chale. Ve tirth yatra karte rahe. Par Asur ahankari ho gaye."
+
+Phir Lomasa ne dheere-dheere samjhaya:
+
+Ahankaar se ghamand paida hua
+
+Ghamand se krodh
+
+Krodh se bure gun
+
+Bure gun se lajja khatam
+
+Lajja khatam to achha vyavahar khatam
+
+Aur phir…
+
+👉 unka dharm, kshama aur samriddhi sab chhoot gaya.
+
+"Tab Lakshmi devtaon ke paas chali gayi. Aur durbhagya Asuron ke paas aa gaya."
+
+"Unka ahankaar unhe andha bana chuka tha."
+
+"Jald hi unka vinash ho gaya."
+
+Yeh sab sun kar Yudhishthira ka mann gehra ho gaya.
+
+🌊 Devtaon ka Raasta
+
+Lomasa ne kaha,
+
+"Devta samudra, nadiyon aur pavitra sthalon par jaakar apne paap dhote rahe."
+
+"Ve tapasya, yajna aur daan karte rahe."
+
+"Isi se unhe phir se samriddhi mili."
+
+Phir unhone Yudhishthira ki aankhon mein dekh kar kaha,
+
+"Yahi sada ka raasta hai."
+
+"Tum bhi apne bhaiyon ke saath tirth snan karo. Tumhe phir se samriddhi milegi."
+
+👑 Purane Mahaan Raja
+
+Lomasa ne kuch mahaan rajaon ka naam liya:
+
+Raja Nriga
+
+Raja Shibi
+
+Bhagiratha
+
+Gaya
+
+Puru
+
+Pururava
+
+"Unhone tapasya aur tirth yatra se apna naam amar kiya."
+
+"Jaise Ikshvaku, Muchukunda, Mandhatri aur Marutta ne apni tapasya se yash paaya — waise hi tum bhi paoge."
+
+⚖️ Antim Sach
+
+Phir Lomasa ne gambhir swar mein kaha,
+
+"Dhritarashtra ke putra paap aur agyaan mein doobe hue hain."
+
+"Ve bhi Asuron ki tarah jald hi vinash ko prapt honge."
+
+Yeh shabd sun kar Yudhishthira ke mann mein shanti aayi.
+
+Unhe samajh aa gaya —
+Dharm ka phal turant nahi milta, par ant mein wahi jeetta hai.
+
+Moral:
+Paap ka phal thodi der ke liye chamakta hai, par dharm ka phal sada ke liye rehta hai. ✨"""
             create_image_text_layout(
                 text_content=text2,
                 layout="full"
@@ -13261,7 +13672,26 @@ Jab mann Bhagwan ki taraf mudta hai, to chinta dheere-dheere khud door ho jaati 
         # Section 3.7.16
         # --------------------------------------------------
         with st.expander("Section 3.7.16  Section XCV"):
-            text1 = """ """
+            text1 = """ 
+            Section XCV — Hinglish Story (Simple Moral Style)
+
+Vaisampayana ne kaha,
+
+Pandav apne saathiyon ke saath ek jagah se doosri jagah ja rahe the.
+Yatra karte-karte ve pavitra sthal Naimisha pahunch gaye.
+
+Wahan ve pavitra nadi Gomati tak gaye.
+Snan kiya.
+Daan diya — gau daan aur dhan daan dono.
+
+Unhone devtaon, pitron aur Brahmanon ko jal arpan kiya.
+Phir ve Kanya, Ashva aur Go naam ke tirthon par bhi gaye.
+
+Har jagah ve shraddha se snan karte.
+Tapasya karte.
+Daan dete.
+
+Unka mann dheere-dheere halka hone laga."""
             create_image_text_layout(
                 "attached_assets/chapter3/3.7.16.jpg",
                 text1,
@@ -13269,7 +13699,92 @@ Jab mann Bhagwan ki taraf mudta hai, to chinta dheere-dheere khud door ho jaati 
                 image_position="left"
             )
 
-            text2 = """ """
+            text2 = """ 
+            🌊 Prayag ka Mahatva
+
+Phir ve pavitra sangam sthal Prayag pahunch gaye.
+
+Wahan Ganga aur Yamuna milti hain.
+
+Pandavon ne sangam mein snan kiya.
+Wahan kuch samay ruk kar tapasya bhi ki.
+
+Unka hriday pavitra ho gaya.
+
+🌄 Gaya ki Ore
+
+Aage badhte hue ve Mahidhara aur phir Gayasira pahunch gaye.
+
+Wahan ek sundar nadi thi — Mahanadi.
+Aur ek pavitra sarovar — Brahmasara.
+
+Kehte hain, yahan pracheen samay mein Dharma dev swayam rahe the.
+Aur Maharishi Agastya bhi yahan aaye the.
+
+Yeh sthaan bahut pavitra tha.
+
+🌳 Akshay Vat — Amar Bargad
+
+Wahin ek mahaan vriksh khada tha — Akshay Vat.
+
+Kaha jata hai,
+Yahan kiya gaya koi bhi yagya ya daan kabhi vyarth nahi jata.
+
+Pandavon ne wahan Caturmasya vrat rakha.
+Dhyan aur tapasya mein lage rahe.
+
+Unke saath kai tapasvi Brahman bhi the.
+Sab milkar yagya aur paath karte.
+
+Veda mantraon ki dhvani aasman tak pahunch rahi thi.
+
+🔥 Raja Gaya ki Kahani
+
+Tab ek gyani Brahman Shamatha ne ek kahani sunai.
+
+"Yahi sthaan hai jahan Raja Gaya ne mahaan yagya kiya tha."
+
+Ve raj-rishi the.
+Unka dil bahut bada tha.
+
+Unke yagyon mein:
+
+Chawal ke pahaad lagte the
+
+Ghee ke jheel ban jaate the
+
+Dahi ki nadiyan behti thi
+
+Sabziyon ke dhaare chalti thi
+
+Har din hazaron log bhojan karte.
+Phir bhi bhojan bachta rehta.
+
+Log gaate the:
+
+"Raja Gaya ke yagya mein kaun bhooka reh sakta hai?"
+"Abhi bhi pachees pahaad jitna bhojan bacha hai!"
+
+Devta bhi itne prasann hue ki kisi aur ke yagya ka ghee lene ki ichchha hi nahi rahi.
+
+Unke daan gin pana mushkil tha —
+jaise ret ke kan,
+jaise aasman ke taare,
+jaise baarish ki boondein.
+
+Vaisampayana ne kaha,
+
+Raja Gaya ne aise anek yagya isi Brahmasara ke paas kiye the.
+
+Pandav yeh sab sun kar prerna se bhar gaye.
+
+Unhe samajh aaya —
+daan aur tapasya se hi naam amar hota hai.
+
+✨ Moral
+
+Sachchi shakti dhan mein nahi,
+daan aur dharm mein hoti hai."""
             create_image_text_layout(
                 text_content=text2,
                 layout="full"
