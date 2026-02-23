@@ -13794,7 +13794,21 @@ daan aur dharm mein hoti hai."""
         # Section 3.7.17
         # --------------------------------------------------
         with st.expander("Section 3.7.17  Section XCVI"):
-            text1 = """ """
+            text1 = """ 
+            Section XCVI — Hinglish Story (Simple Moral Style)
+
+Vaisampayana ne kaha,
+
+Pandav apni yatra karte-karte Agastya Rishi ke ashram pahunch gaye.
+Wahan ve Durjaya naam ke sthaan par thehre.
+
+Ek din Yudhishthira ne Lomasa se poocha,
+
+"Hey Rishi, Agastya ne Vatapi ko yahin kyun mara tha?
+Woh Daitya kitna shaktishaali tha?
+Aur Agastya ko us par itna krodh kyun aaya?"
+
+Sab shant hokar sunne lage."""
             create_image_text_layout(
                 "attached_assets/chapter3/3.7.17.jpg",
                 text1,
@@ -13802,7 +13816,121 @@ daan aur dharm mein hoti hai."""
                 image_position="left"
             )
 
-            text2 = """ """
+            text2 = """ 
+            ⚔️ Ilvala aur Vatapi ki Kahani
+
+Lomasa ne kahani shuru ki.
+
+"Purane samay mein Manimati naam ki nagri thi."
+
+Wahan ek Daitya rehta tha — Ilvala.
+Uska bhai tha — Vatapi.
+
+Ek din Ilvala ne ek Brahman se kaha,
+
+"Mujhe Indra jaisa beta chahiye."
+
+Brahman ne mana kar diya.
+
+Ilvala ka gussa bhadak utha.
+
+Us din se woh Brahmanon ka dushman ban gaya.
+
+🐏 Chaal
+
+Ilvala ne apni maya se Vatapi ko ek mendha (ram) bana diya.
+
+Vatapi bhi roop badalne mein maahir tha.
+
+Ilvala us mendhe ko pakata.
+Phir Brahmanon ko khilata.
+
+Bechare Brahman bhojan kar lete.
+
+Tab Ilvala zor se pukarta:
+
+"Vatapi, bahar aao!"
+
+Aur kya hota?
+
+Vatapi un Brahmanon ke pet phaad kar hansi karte hue bahar aa jata.
+
+Brahman mar jaate.
+
+Yeh paapi kaam baar-baar hota raha.
+
+🔥 Agastya ka Pravesh
+
+Ek din Maharishi Agastya ne apne pitron ko dekha.
+
+Ve ek gaddhe mein ulte latke hue the.
+
+Agastya ne poocha,
+
+"Yeh kya ho raha hai?"
+
+Pitron ne kaha,
+
+"Hum tumhare purvaj hain."
+
+"Humein putra chahiye."
+
+"Jab tak tum santaan nahi paida karoge,
+tab tak hum mukti nahi paayenge."
+
+Agastya ka hriday pighal gaya.
+
+Unhone kaha,
+
+"Chinta mat karo. Main tumhari ichchha poori karunga."
+
+🌸 Lopamudra ka Janm
+
+Par samasya thi.
+
+Agastya ko koi yogya patni nahi mil rahi thi.
+
+Tab unhone apni tapasya ki shakti se ek adbhut kanya rachit ki.
+
+Unhone praniyon ke sabse sundar ang lekar uska nirmaan kiya.
+
+Phir use Vidarbha ke raja ko de diya.
+
+Raja santaan ke liye tapasya kar raha tha.
+
+Wahi kanya raja ke ghar janmi.
+
+Uska naam rakha gaya — Lopamudra.
+
+✨ Rajkumari Lopamudra
+
+Lopamudra bahut sundar thi.
+
+Jaise bijli chamakti hai, waise hi uska tej tha.
+
+Sau dasiyan uski seva karti thi.
+Sau kanya uske aas-paas rehti thi.
+
+Woh Rohini nakshatra ki tarah chamakti thi.
+
+Sab uski prashansa karte.
+
+Par uski sundarta aur pita ka dar dekh kar
+koi bhi uska haath maangne ki himmat nahi karta.
+
+🤔 Raja ki Chinta
+
+Jab Lopamudra jawan ho gayi,
+toh Vidarbha ke raja sochne lage,
+
+"Main apni beti ka vivah kisse karun?"
+
+Unka mann chintit ho gaya.
+
+✨ Moral
+
+Chaal aur paap kuch samay tak chalte hain.
+Par satya aur tapasya hi ant mein jeette hain."""
             create_image_text_layout(
                 text_content=text2,
                 layout="full"
@@ -13812,7 +13940,25 @@ daan aur dharm mein hoti hai."""
         # Section 3.7.18
         # --------------------------------------------------
         with st.expander("Section 3.7.18  Section XCVII"):
-            text1 = """ """
+            text1 = """ 
+            Section XCVII — Hinglish Story (Simple Moral Style)
+
+Lomasa ne kahani aage badhai.
+
+🌸 Agastya ka Vivaah Prastaav
+
+Jab Agastya Rishi ne dekha ki Lopamudra ab grihasth jeevan ke yogya ho chuki hai,
+toh ve Vidarbha ke raja ke paas gaye.
+
+Vinay se bole,
+
+"Hey rajan, mujhe apni putri Lopamudra ka haath de dijiye."
+
+Yeh sunte hi raja ghabra gaye.
+Ve behosh tak ho gaye.
+
+Unka mann beti ko dene ko taiyar nahi tha.
+Par Rishi ko mana karne ka sahas bhi nahi tha."""
             create_image_text_layout(
                 "attached_assets/chapter3/3.7.18.jpg",
                 text1,
@@ -13820,7 +13966,138 @@ daan aur dharm mein hoti hai."""
                 image_position="left"
             )
 
-            text2 = """ """
+            text2 = """ 
+            😟 Raja ki Chinta
+
+Raja ne rani se kaha,
+
+"Yeh Rishi bahut tejasvi hain.
+Agar inhe gussa aa gaya, toh apne shraap se mujhe jala sakte hain."
+
+Rani chup rahi.
+Dono bahut dukhi the.
+
+Yeh sab dekh kar Lopamudra aage badhi.
+
+💛 Beti ka Tyag
+
+Lopamudra ne shant swar mein kaha,
+
+"Hey pita, meri wajah se chinta mat kijiye."
+
+"Mujhe Agastya ko de dijiye."
+
+"Aapka kalyan isi mein hai."
+
+Uski baat mein samarpan tha.
+Pita ka hriday bhar aaya.
+
+Aur vidhi-vat vivaah ho gaya.
+
+🌿 Rajkumari se Tapasvini
+
+Vivaah ke baad Agastya ne kaha,
+
+"Lopamudra, in mehngi vastron aur gehno ko chhod do."
+
+Rajkumari ne bina jhijhak sab chhod diya.
+
+Resham ke vastra gaye.
+Sone ke gehne gaye.
+
+Ab woh vriksh ki chhal aur mrigcharm pehenti thi.
+
+Woh apne pati ke vrat aur tapasya mein saathi ban gayi.
+
+Dono Gangadwar jaakar kathor tapasya karne lage.
+
+Lopamudra prem aur shraddha se seva karti rahi.
+
+Agastya ke hriday mein bhi uske liye sneha badhta gaya.
+
+🌺 Ek Din...
+
+Bahut samay beet gaya.
+
+Ek din Agastya ne dekha —
+Lopamudra snan karke aayi thi.
+
+Uska mukh tapasya ke tej se chamak raha tha.
+
+Rishi prasann hue.
+
+Unhone use santaan ke liye bulaya.
+
+🌹 Patni ki Ichchha
+
+Lopamudra ne lajja se haath jode.
+
+Par uski awaaz mein prem tha.
+
+"Wivaah santaan ke liye hota hai, yeh satya hai."
+
+"Par hey Rishi, mujhe wahi samman aur prem chahiye jo maine rajmahal mein dekha tha."
+
+"Main chahti hoon ki hum ek sundar shayya par milen."
+
+"Aap bhi pushpon aur alankaron se saje hon."
+
+"Main bhi apne pasand ke abhushan pehnu."
+
+"In lal rang ke kapdon mein main aapke paas nahi aa sakti."
+
+"Is avsar par alankar paap nahi hote."
+
+Usne dhairya se apni baat kahi.
+
+💭 Agastya ka Sankat
+
+Agastya bole,
+
+"Lopamudra, mere paas tumhare pita jaisa dhan nahi hai."
+
+Lopamudra muskurayi.
+
+"Aap tapasya se sab kuch la sakte hain."
+
+Rishi ne gehra saans liya.
+
+"Haan, la sakta hoon."
+
+"Par usse meri tapasya ki shakti kam ho jayegi."
+
+"Mujhe aisa upay batao jisse meri tapasya bhi bani rahe."
+
+⏳ Samay Beet Raha Hai
+
+Lopamudra ne vinamrata se kaha,
+
+"Mera samay zyada nahi hai."
+
+"Main aapki tapasya ko kam nahi karna chahti."
+
+"Par meri ichchha bhi poori ho."
+
+"Dono ka sammaan ho."
+
+Usne dharm aur maryada dono ko sambhala.
+
+🌄 Agastya ka Nirnay
+
+Agastya ne kaha,
+
+"Agar yahi tumhari ichchha hai,
+toh main dhan ki khoj mein jaunga."
+
+"Tum yahin raho."
+
+Yeh kehkar Rishi tayyar ho gaye.
+
+✨ Moral
+
+Tyag aur tapasya mahan hain.
+Par grihasth jeevan mein samman aur samvedana bhi zaruri hai.
+Sachcha dharm wahi hai jahan dono ka santulan ho."""
             create_image_text_layout(
                 text_content=text2,
                 layout="full"
@@ -13830,7 +14107,31 @@ daan aur dharm mein hoti hai."""
         # Section 3.7.19
         # --------------------------------------------------
         with st.expander("Section 3.7.19  Section XCVIII"):
-            text1 = """ """
+            text1 = """ 
+            Section XCVIII — Hinglish Story (Simple Moral Style)
+
+Lomasa ne kahani aage batayi.
+
+💰 Agastya ki Dhan Ki Khoj
+
+Agastya Rishi dhan ki talash mein nikle.
+
+Sabse pehle ve Raja Srutarvan ke paas gaye.
+Woh raja bahut ameer mana jata tha.
+
+Raja ne suna ki mahaan Rishi aaye hain.
+Woh turant apne mantriyon ke saath unka swagat karne gaya.
+
+Arghya diya.
+Paani diya.
+Namrata se poocha,
+
+"Hey Muni, aap kis kaaran aaye hain?"
+
+Agastya bole,
+
+"Hey rajan, mujhe dhan chahiye.
+Par kisi ko nuksaan pahunchaye bina jo de sakte ho, de do." """
             create_image_text_layout(
                 "attached_assets/chapter3/3.7.19.jpg",
                 text1,
@@ -13838,7 +14139,83 @@ daan aur dharm mein hoti hai."""
                 image_position="left"
             )
 
-            text2 = """ """
+            text2 = """ 
+            ⚖️ Raja ka Sach
+
+Raja ne imaandari se kaha,
+
+"Mera kharch aur meri aay barabar hai."
+
+"Jo chaho le lo."
+
+Par Agastya ne socha —
+
+"Agar main yahan se dhan lunga,
+toh praja ko kasht hoga."
+
+Isliye ve wahan se chale gaye.
+
+👑 Dusre Raja ke Paas
+
+Phir ve Vradhnasva ke paas gaye.
+
+Wahi swagat.
+Wahi samman.
+
+Agastya ne phir wahi kaha,
+
+"Mujhe dhan chahiye.
+Par kisi ko nuksaan na ho."
+
+Raja ne bhi wahi jawab diya,
+
+"Mera kharch aur aay barabar hai."
+
+Agastya ne phir mana kar diya.
+
+🌄 Teesra Raja
+
+Ab ve Trasadasyu ke paas gaye.
+
+Woh bhi dhanvaan tha.
+
+Usne bhi pooja ki.
+Poocha,
+
+"Hey Rishi, kaise seva karun?"
+
+Agastya ne phir wahi baat kahi.
+
+Aur us raja ka jawab bhi wahi tha —
+
+"Aay aur kharch barabar hai."
+
+🤔 Rishiyon ka Vichar
+
+Ab teeno raja ek saath khade the.
+
+Unhone ek dusre ki taraf dekha.
+
+Phir bole,
+
+"Hey Brahman, ek Danav hai — Ilvala."
+
+"Uske paas bahut adhik dhan hai."
+
+"Chaliye, aaj usi se maangte hain."
+
+Agastya ne socha.
+
+Unhe yaad tha Ilvala ka paap.
+
+Par dhan ki zarurat thi.
+
+Sab milkar Ilvala ke paas chal pade.
+
+✨ Moral
+
+Sachcha Rishi woh hota hai jo kisi ko dukh pahunchakar dhan nahi leta.
+Dharm ka paalan mushkil ho sakta hai, par wahi satya ka raasta hai."""
             create_image_text_layout(
                 text_content=text2,
                 layout="full"
@@ -13848,7 +14225,52 @@ daan aur dharm mein hoti hai."""
         # Section 3.7.20
         # --------------------------------------------------
         with st.expander("Section 3.7.20  Section XCIX"):
-            text1 = """ """
+            text1 = """ 
+            Section XCIX — Hinglish Story (Simple Moral Style)
+
+Lomasa ne kahani aage batayi.
+
+🐏 Vatapi ka Ant
+
+Jab Ilvala ko pata chala ki Agastya aur raja uske rajya ki seema par aaye hain,
+toh woh bada vinamr ban gaya.
+
+Swagat kiya.
+Baithne ko sthan diya.
+Aur phir wahi purani chaal chali.
+
+Usne Vatapi ko mendha banaya.
+Pakaya.
+Aur sabko khilaya.
+
+Rajaon ke chehre pe udaasi chha gayi.
+Unhe purani kahani yaad thi.
+
+Par Agastya muskura kar bole,
+
+"Chinta mat karo.
+Main ise hi kha jaunga."
+
+Aur unhone pura bhojan akela kha liya.
+
+Bhojan ke baad Ilvala zor se chillaya,
+
+"Vatapi! Bahar aao!"
+
+Sab ruk gaye.
+
+Par iss baar...
+
+Sirf Agastya ke pet se zor ki dhwani nikli —
+jaise badal garajta hai.
+
+Agastya hans kar bole,
+
+"Woh bahar kaise aayega?
+Main use pacha chuka hoon."
+
+Ilvala ka chehra peela pad gaya.
+Uska paap khatam ho chuka tha."""
             create_image_text_layout(
                 "attached_assets/chapter3/3.7.20.jpg",
                 text1,
@@ -13856,7 +14278,140 @@ daan aur dharm mein hoti hai."""
                 image_position="left"
             )
 
-            text2 = """ """
+            text2 = """ 
+            💰 Dhan ki Baat
+
+Ilvala ne haath jod kar kaha,
+
+"Aap kya chahte hain?"
+
+Agastya bole,
+
+"Yeh raja dhanheen hain.
+Mujhe bhi dhan chahiye.
+Par kisi ko dukh na ho."
+
+Ilvala bola,
+
+"Agar aap bata do ki main kya dene wala hoon,
+toh main sab de dunga."
+
+Agastya ne turant bata diya:
+
+"Har raja ko das hazaar gaaye aur utne hi sone ke sikke."
+
+"Mujhe usse dugna."
+
+"Saath hi ek sone ka rath aur do tez ghode."
+
+Ilvala hairaan reh gaya.
+
+Sab sahi tha.
+
+Use sab dena pada.
+
+Aur woh rath aur dhan lekar sab pal bhar mein Agastya ke ashram pahunch gaye.
+
+🌺 Lopamudra ki Ichchha Puri
+
+Agastya ne apni patni ki sab ichchha poori ki.
+
+Tab Lopamudra boli,
+
+"Ab mujhe ek tejasvi putra chahiye."
+
+Agastya ne pucha,
+
+"Tumhe hazaar putra chahiye?
+Ya sau?
+Ya das?
+Ya ek hi, jo hazaar ke barabar ho?"
+
+Lopamudra ne muskura kar kaha,
+
+"Mujhe ek hi chahiye.
+Par woh sabse uttam ho."
+
+👶 Mahaan Putra ka Janm
+
+Agastya ne ashirvaad diya.
+
+Lopamudra ne ek putra ko janm diya — Dridhasyu.
+
+Woh janm se hi gyani tha.
+Jaise Ved bol raha ho.
+
+Bachpan mein hi yagya ke liye lakdi laata tha.
+
+Isliye use Idhmavaha kaha gaya.
+
+Agastya bahut prasann hue.
+
+Unke pitron ko bhi mukti mil gayi.
+
+🌊 Pavitra Tirth
+
+Lomasa ne Yudhishthira se kaha,
+
+"Yahi Agastya ka ashram hai."
+
+Yahin Bhagirathi nadi behti hai.
+
+Mahadev ki jata se nikal kar
+dheere-dheere dakshin ki taraf jaati hai.
+
+Jaise maa apne bachche ko poshti hai.
+
+"Yahan snan karo."
+
+"Yahin Bhrigu ka tirth hai."
+
+"Yahin Parashurama ne apni shakti wapas paayi thi."
+
+🏹 Parashurama aur Rama ki Mulakat
+
+Lomasa ne ek aur kahani sunayi.
+
+Vishnu ne Dasharatha ke ghar Rama roop liya.
+
+Parashurama (Bhrigu vansh ke)
+unse milne aaye.
+
+Unhone apna divya dhanush diya aur kaha,
+
+"Agar shaktimaan ho, toh ise chadha kar dikhao."
+
+Rama ne bina mehnat ke dhanush chadha diya.
+
+Gagan garaj utha.
+
+Parashurama ne Rama ke sharir mein Vishnu ka divya roop dekha.
+
+Unka ahankaar toot gaya.
+
+Unki shakti chali gayi.
+
+Baad mein pitron ke kehne par
+unhone pavitra nadi mein snan kiya.
+
+Tab unki shakti wapas aayi.
+
+🌟 Yudhishthira ka Snan
+
+Yeh sab sun kar Yudhishthira ne wahan snan kiya.
+
+Jal arpan kiya.
+
+Unka sharir aur tej chamak utha.
+
+Unke shatru unhe dekh nahi sakte the.
+
+Unka vishwas wapas aa gaya.
+
+✨ Moral
+
+Ahankaar shakti ko kamzor kar deta hai.
+Vinamrata aur pavitra snan se hi shakti wapas milti hai."""
             create_image_text_layout(
                 text_content=text2,
                 layout="full"
@@ -13866,7 +14421,16 @@ daan aur dharm mein hoti hai."""
         # Section 3.7.21
         # --------------------------------------------------
         with st.expander("Section 3.7.21  Section C"):
-            text1 = """ """
+            text1 = """ 
+            Section C — Hinglish Story (Simple Moral Style)
+
+Yudhishthira ne vinamrata se kaha,
+
+"Hey Muni, mujhe Agastya Rishi ki aur kahani sunni hai.
+Unke mahan kaam detail mein batayiye."
+
+Lomasa muskuraaye.
+Phir kahani shuru ki."""
             create_image_text_layout(
                 "attached_assets/chapter3/3.7.21.jpg",
                 text1,
@@ -13874,7 +14438,115 @@ daan aur dharm mein hoti hai."""
                 image_position="left"
             )
 
-            text2 = """ """
+            text2 = """ 
+⚔️ Kalakeyas ka Aatank
+
+Purane samay mein, Krita yug mein,
+bahut bhayanak Danav the.
+
+Unka naam tha Kalakeyas.
+
+Woh shaktishaali the.
+Yudh mein kabhi nahi harte the.
+
+Unhone Vritra ko apna neta bana liya.
+Aur sab milkar devtaon par hamla karne lage.
+
+Indra aur sab devta dar gaye.
+
+Ve sab milkar Brahma ji ke paas gaye.
+
+Haath jod kar bole,
+
+"Hey Prabhu, humein bachaiye."
+
+🕉️ Brahma ka Upay
+
+Brahma ji bole,
+
+"Mujhe sab pata hai."
+
+"Vritra ko harane ka ek hi tareeka hai."
+
+"Ek mahaan Rishi hain — Dadhichi."
+
+"Unke paas jao."
+
+"Unse unki haddiyan maango."
+
+Devta hairaan reh gaye.
+
+Par Brahma ji bole,
+
+"Unki haddiyon se Vajra banega."
+
+"Wahi Vajra Vritra ko maar sakega."
+
+🌳 Dadhichi ka Ashram
+
+Devta Narayan ke saath
+Dadhichi ke ashram gaye.
+
+Ashram swarg jaisa sundar tha.
+
+Ped-paudhe.
+Phool.
+Madhumakkhiyon ki gunjan.
+
+Hiran, haathi, sher — sab shanti se rehte the.
+
+Beech mein Dadhichi Rishi baith kar tap kar rahe the.
+Suraj ki tarah chamak rahe the.
+
+Devtaon ne pranam kiya.
+Aur vinamrata se kaha,
+
+"Humein aapki haddiyan chahiye."
+
+💖 Sabse Bada Balidaan
+
+Dadhichi muskuraaye.
+
+Bole,
+
+"Yeh shareer to ek din chhodna hi hai."
+
+"Agar isse teenon lokon ka bhala ho,
+toh main abhi de deta hoon."
+
+Itna keh kar
+unhone apna shareer tyag diya.
+
+Devtaon ne unki haddiyan uthayi.
+
+🔨 Vajra ka Nirman
+
+Devta Twashtri ke paas gaye.
+
+Unhone Dadhichi ki haddiyon se
+ek bhayanak shastra banaya.
+
+Uska naam tha — Vajra.
+
+Chhah kon wala.
+Garajne wala.
+Bahut shaktishaali.
+
+Twashtri ne Indra se kaha,
+
+"Isse Vritra ko hara do."
+
+Indra ne shraddha se Vajra liya.
+
+Unki aankhon mein himmat aa gayi.
+
+✨ Moral
+
+Sachcha bal sirf taakat se nahi aata.
+Sachcha bal balidaan se aata hai.
+
+Jo apna sab kuch doosron ke liye de de,
+wahi sachcha mahan hota hai."""
             create_image_text_layout(
                 text_content=text2,
                 layout="full"
