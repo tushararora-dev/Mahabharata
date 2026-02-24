@@ -14556,7 +14556,25 @@ wahi sachcha mahan hota hai."""
         # Section 3.7.22
         # --------------------------------------------------
         with st.expander("Section 3.7.22  Section CI"):
-            text1 = """ """
+            text1 = """ 
+            Section CI — Hinglish Story (Simple Moral Style)
+Indra, Vajra aur Danavon ki Nayi Saazish
+
+Lomasa Rishi bole,
+
+Indra ne apna Vajra haath mein liya.
+
+Devta uske saath khade the.
+
+Woh Vritra ke paas gaye.
+
+Vritra ne dharti aur swarg dono gher liye the.
+
+Uske aas-paas bade-bade Kalakeya Danav the.
+
+Unke haath mein pahaad jaise hathiyaar the.
+
+⚔️ Bhayanak Yuddh"""
             create_image_text_layout(
                 "attached_assets/chapter3/3.7.22.jpg",
                 text1,
@@ -14564,7 +14582,127 @@ wahi sachcha mahan hota hai."""
                 image_position="left"
             )
 
-            text2 = """ """
+            text2 = """ 
+            Devta aur Danav takra gaye.
+
+Talwaron ki takrahat se
+aakash goonj utha.
+
+Katte hue sir
+taad ke phal ki tarah
+zameen par girne lage.
+
+Kalakeya Danav
+sone ke kavach pehne
+aag mein jalte pahaadon jaise
+devtaon par toot pade.
+
+Devta ghabra gaye.
+
+Woh bhaagne lage.
+
+😰 Indra ka Dar
+
+Indra ne dekha —
+uski sena bhaag rahi hai.
+
+Vritra aur zyada himmatwala ho gaya.
+
+Indra ke dil mein bhi dar aaya.
+
+Woh turant
+Bhagwan Vishnu ki sharan gaya.
+
+Bhagwan Vishnu ne
+apni shakti ka hissa
+Indra ko de diya.
+
+Baaki devtaon ne bhi
+apni urja Indra ko di.
+
+Rishiyon ne bhi
+apna tejas de diya.
+
+Indra fir se shaktishaali ho gaya.
+
+🌩️ Vajra ka Prahar
+
+Vritra ne zor ki dahad maari.
+
+Dharti kaanp uthi.
+
+Aakash hil gaya.
+
+Indra ne dar ke saath hi
+Vajra phenka.
+
+Vajra seedha Vritra ko laga.
+
+Woh bada Asur
+Mandarachal pahaad ki tarah
+gir pada.
+
+Vritra mar gaya.
+
+Par Indra abhi bhi ghabraya hua tha.
+
+Use laga —
+shayad Vritra zinda hai.
+
+Woh thodi der ke liye
+bhaag kar jheel ki taraf chala gaya.
+
+🎉 Devtaon ki Jeet
+
+Devta khush ho gaye.
+
+Rishiyon ne stuti ki.
+
+Devtaon ne milkar
+bache huye Danavon ko hara diya.
+
+Danav dar kar
+samundar ki gahraiyon mein chhupe.
+
+🌊 Danavon ki Saazish
+
+Samundar ke andar
+Danav ikattha hue.
+
+Unhone socha,
+
+"Hum seedha devtaon se nahi jeet sakte."
+
+"Sabse pehle
+tapasya aur gyaan ko khatam karo."
+
+"Rishiyon ko maar do."
+
+"Jo dharm aur brahm gyaan rakhte hain,
+unhe mita do."
+
+"Jab tapasya khatam hogi,
+tab duniya khud toot jaayegi."
+
+Yeh soch kar
+woh khush ho gaye.
+
+Ab samundar hi
+unka kila ban gaya.
+
+Wahi se
+woh duniya par hamla karne ki sochne lage.
+
+✨ Moral
+
+Sirf bal se jeet nahi hoti.
+Shakti ke saath dharma zaroori hai.
+
+Jo tapasya aur gyaan ko mitana chahta hai,
+wahi sabse bada shatru hota hai.
+
+Sachchai aur tapasya hi
+duniya ka sahara hain."""
             create_image_text_layout(
                 text_content=text2,
                 layout="full"
@@ -14574,7 +14712,24 @@ wahi sachcha mahan hota hai."""
         # Section 3.7.23
         # --------------------------------------------------
         with st.expander("Section 3.7.23  Section CII"):
-            text1 = """ """
+            text1 = """ 
+            Section CII — Hinglish Story (Simple Moral Style)
+Raat ka Andhera aur Rishiyon ka Dard
+
+Lomasa Rishi bole,
+
+Kalakeya Danav
+samundar ki gahraiyon mein chhupe the.
+
+Din mein woh paani ke andar rehte.
+
+Raat hote hi
+woh bahar nikalte.
+
+Aur shuru ho gaya
+darr ka daur.
+
+🌑 Raat ke Hamle"""
             create_image_text_layout(
                 "attached_assets/chapter3/3.7.23.jpg",
                 text1,
@@ -14582,7 +14737,131 @@ wahi sachcha mahan hota hai."""
                 image_position="left"
             )
 
-            text2 = """ """
+            text2 = """ 
+            Andheri raat mein
+woh ashramon par toot padte.
+
+Vasishtha ke ashram mein
+bahut se Brahmanon ko maar diya.
+
+Cyavana Rishi ke tapovan mein
+phal-mool khane wale tapasviyon ko kha gaye.
+
+Bharadvaja ke ashram mein bhi
+brahmachariyon ko nahi chhoda.
+
+Woh sab ko raat mein maarte
+aur din mein samundar mein chhup jaate.
+
+Kisi ko pata hi nahi chalta
+kaun kar raha hai yeh sab.
+
+😢 Bhayanak Subah
+
+Subah log dekhte —
+
+Zameen par laashein padi hain.
+
+Sharir bina maans ke.
+
+Bina khoon ke.
+
+Haddi ke dher
+jaise shankh ke tukde.
+
+Havan kund toote hue.
+
+Ghade bikhar gaye.
+
+Pavitra agni bujh gayi.
+
+Vedic mantron ki awaaz
+band ho gayi.
+
+Yagya ruk gaye.
+
+Dharti sooni ho gayi.
+
+😨 Logon ka Dar
+
+Log bhagne lage.
+
+Koi pahaadon ki gufaaon mein chhupa.
+
+Koi nadiyon ke peeche.
+
+Kuch darr ke maare
+waise hi mar gaye.
+
+Bahadur yoddha
+Danavon ko dhoondhne nikle.
+
+Par kuch mila hi nahi.
+
+Danav to samundar mein chhupe the.
+
+Sab thak kar wapas aa gaye.
+
+🌎 Vishva ka Sannata
+
+Tapasya khatam ho rahi thi.
+
+Dharm kamzor ho raha tha.
+
+Yagya ruk gaye the.
+
+Vishwa andhera lagne laga.
+
+Devta bhi ghabra gaye.
+
+Indra ke saath baith kar
+sabne salah ki.
+
+🙏 Narayan ki Sharan
+4
+
+Sab milkar
+Bhagwan Narayan ke paas gaye.
+
+Haath jod kar bole,
+
+"Prabhu,
+aap hi srishti ke karta, palan karta aur sanhar karta ho."
+
+"Aapne Varaha roop lekar
+dharti ko samundar se nikala."
+
+"Aapne Narasimha roop mein
+Hiranyakashipu ko maara."
+
+"Aapne Vamana ban kar
+Bali ko teen lokon se door kiya."
+
+"Aapne Jambha jaise Asur ko bhi maara."
+
+"Aap hi hamari sharan ho."
+
+"Prabhu,
+hamari raksha karo."
+
+"Rishiyon ko bachao."
+
+"Yagya bachao."
+
+"Dharma bachao."
+
+✨ Moral
+
+Jab tapasya khatam hoti hai,
+tab duniya kamzor ho jaati hai.
+
+Andhera hamesha gyaan ko mitane ki koshish karta hai.
+
+Par jab log milkar Bhagwan ki sharan lete hain,
+tab roshni wapas aati hai.
+
+Dharma aur gyaan hi
+sansar ka asli sahara hain."""
             create_image_text_layout(
                 text_content=text2,
                 layout="full"
@@ -14592,7 +14871,41 @@ wahi sachcha mahan hota hai."""
         # Section 3.7.24
         # --------------------------------------------------
         with st.expander("Section 3.7.24  Section CIII"):
-            text1 = """ """
+            text1 = """ 
+            Section CIII — Hinglish Story (Simple Moral Style)
+Samundar ka Rahasya aur Agastya ka Naam
+
+Lomasa Rishi bole,
+
+Devta haath jod kar
+Bhagwan Vishnu se bole —
+
+🙏 Devtaon ki Vinati
+
+"Prabhu,
+aapke ashirvaad se hi
+char prakar ke jeev badhte hain."
+
+"Log yagya karte hain,
+pitron ko shraddha dete hain,
+aur devtaon ko havan chadhate hain."
+
+"Sab ek dusre par nirbhar hain."
+
+"Par ab sankat aa gaya hai."
+
+"Raat ko Brahman mare ja rahe hain."
+
+"Humein pata hi nahi kaun maar raha hai."
+
+"Agar Brahman khatam ho gaye,
+to dharti bhi khatam ho jayegi."
+
+"Aur dharti gayi,
+to swarg bhi nahi bachega."
+
+"Prabhu,
+sabki raksha kijiye." """
             create_image_text_layout(
                 "attached_assets/chapter3/3.7.24.jpg",
                 text1,
@@ -14600,7 +14913,89 @@ wahi sachcha mahan hota hai."""
                 image_position="left"
             )
 
-            text2 = """ """
+            text2 = """ 
+            🌊 Vishnu ka Uttar
+
+Bhagwan Vishnu shant swar mein bole,
+
+"Mujhe sab pata hai."
+
+"Kalakeya Danav
+Vritra ke saath lad rahe the."
+
+"Jab Vritra mara,
+to woh bachne ke liye
+samundar mein chhup gaye."
+
+"Din mein samundar ke andar rehte hain."
+
+"Raat mein bahar aa kar
+Rishiyon ko maarte hain."
+
+"Jab tak samundar sookhega nahi,
+tab tak woh pakde nahi ja sakte."
+
+"Samundar ko kaun sookha sakta hai?"
+
+"Sirf ek hi Rishi —
+Agastya."
+
+🌟 Agastya ki Shakti
+4
+
+Devta turant
+Brahma ji ki anumati lekar
+Rishi Agastya ke ashram gaye.
+
+Wahan unhone dekha —
+
+Tej se chamakte hue
+Maharishi Agastya.
+
+Unke aas paas
+anye rishi baith kar seva kar rahe the.
+
+Jaise devta
+Brahma ji ki seva karte hain.
+
+Devta bole,
+
+"Rishiwar,
+aapne hamesha humein bachaya hai."
+
+"Nahusha jab ahankari ho gaya tha,
+aapne use swarg se gira diya."
+
+"Vindhya parvat jab
+sooraj se takkar lene laga tha,
+aapne use rukne ko kaha."
+
+"Aur woh ruk gaya."
+
+"Jab andhera chhaya tha,
+aap hi hamare rakshak bane."
+
+"Isliye hum phir aapki sharan aaye hain."
+
+"Humein bachaiye."
+
+"Samundar sookha dijiye."
+
+"Danavon ko bahar laaiye."
+
+✨ Moral
+
+Jab samasya gehri ho,
+to samadhan bhi gehra hota hai.
+
+Shakti sirf bal mein nahi,
+tapasya aur gyaan mein hoti hai.
+
+Sachche rishi hi
+sansar ka santulan banaye rakhte hain.
+
+Jab devta bhi pareshaan hote hain,
+tab ve gyaani ke paas hi jaate hain."""
             create_image_text_layout(
                 text_content=text2,
                 layout="full"
@@ -14610,7 +15005,44 @@ wahi sachcha mahan hota hai."""
         # Section 3.7.25
         # --------------------------------------------------
         with st.expander("Section 3.7.25  Section CIV"):
-            text1 = """ """
+            text1 = """ 
+            Section CIV — Hinglish Story (Simple Moral Style)
+Vindhya ka Ahankaar aur Agastya ka Vachan
+
+Yudhishthira ne poocha,
+
+"Hey Muni!
+Vindhya parvat ko kya ho gaya tha?
+Woh achanak itna bada kyun hone laga?"
+
+🌄 Suraj aur Do Parvat
+
+Lomasa Rishi bole,
+
+Suraj roz subah se shaam tak
+Sone jaisa chamakta Meru parvat
+ke chakkar lagata tha.
+
+Vindhya ne yeh dekha.
+
+Uske mann mein jalan hui.
+
+Usne Suraj se kaha,
+
+"Hey Prakash dene wale Surya!
+Tum roz Meru ke chakkar lagate ho."
+
+"Mujhe bhi waise hi samman do."
+
+Surya ne shaant hokar jawab diya,
+
+"Main apni marzi se nahi chalta."
+
+"Yeh raasta mujhe
+srishti ke niyamon ne diya hai."
+
+Yeh sunte hi
+Vindhya ko gussa aa gaya."""
             create_image_text_layout(
                 "attached_assets/chapter3/3.7.25.jpg",
                 text1,
@@ -14618,7 +15050,137 @@ wahi sachcha mahan hota hai."""
                 image_position="left"
             )
 
-            text2 = """ """
+            text2 = """ 
+            😠 Gusse ka Parinaam
+
+Vindhya ne socha,
+
+"Main itna bada ho jaunga
+ki Suraj aur Chand ka raasta hi rok dunga."
+
+Woh badhne laga.
+
+Badhte-badhte
+aakash ko chune laga.
+
+Devta ghabra gaye.
+
+Suraj ka raasta ruk gaya.
+
+Chand bhi atak gaya.
+
+Taare bhi thehar gaye.
+
+Sab devta
+Rishi Agastya ke paas gaye.
+
+🙏 Devtaon ki Prarthana
+
+Devta bole,
+
+"Hey Mahaan Rishi Agastya!"
+
+"Vindhya gusse mein
+Suraj-Chand ka raasta rok raha hai."
+
+"Aap hi use rok sakte ho."
+
+"Aapke siwa
+koi nahi kar sakta."
+
+🌟 Agastya ka Aadesh
+4
+
+Rishi Agastya
+apni patni ke saath
+Vindhya ke paas gaye.
+
+Unhone kaha,
+
+"Hey Vindhya,
+mujhe dakshin disha mein jana hai."
+
+"Mujhe raasta de do."
+
+"Jab tak main wapas na aaun,
+tab tak badhna mat."
+
+"Main laut kar aaunga,
+phir tum jitna chaho badh lena."
+
+Vindhya ne
+Rishi ka samman kiya.
+
+Aur jhuk gaya.
+
+Aur ruk gaya.
+
+Par Agastya
+kabhi wapas nahi aaye.
+
+Isliye Vindhya
+aaj tak nahi badha.
+
+🌊 Ab Samundar ki Baari
+
+Lomasa bole,
+
+"Ab suno,
+kaise Kalakeya Danav mare gaye."
+
+Devta phir Agastya ke paas gaye.
+
+Bole,
+
+"Hey Rishi,
+samundar pee jaiye."
+
+"Tab hi hum Danavon ko maar payenge."
+
+Agastya muskura diye.
+
+Bole,
+
+"Thik hai."
+
+"Main wahi karunga
+jo sabke kalyan ke liye ho."
+
+🌊 Samundar ke Kinare
+4
+
+Agastya Rishi
+rishiyon aur devtaon ke saath
+samundar ke kinare gaye.
+
+Samundar garaj raha tha.
+
+Lehrein pahaad jaisi uchhal rahi thi.
+
+Jhaag hasne jaisa lag raha tha.
+
+Machhliyan, magar, saap
+andar tair rahe the.
+
+Sab log
+iss adbhut drishya ko dekhne aaye.
+
+Sabki saansein tham gayi.
+
+Ab kuch mahaan hone wala tha.
+
+✨ Moral
+
+Ahankaar insaan ko andha kar deta hai.
+
+Gyaan aur vinamrata
+pahaadon ko bhi jhuka sakti hai.
+
+Jo sachcha tapasvi hota hai,
+uski shakti prakriti ko bhi rok sakti hai.
+
+Sahi samay par sahi vachan
+duniya ko bachaa sakta hai."""
             create_image_text_layout(
                 text_content=text2,
                 layout="full"
@@ -14628,7 +15190,26 @@ wahi sachcha mahan hota hai."""
         # Section 3.7.26
         # --------------------------------------------------
         with st.expander("Section 3.7.26  Section CV"):
-            text1 = """ """
+            text1 = """ 
+            Section CV — Hinglish Story (Simple Moral Style)
+Agastya ne Samundar Pee Liya
+
+Lomasa Rishi bole,
+
+Rishi Agastya
+samundar ke kinare khade the.
+
+Unhone devtaon se kaha,
+
+"Main ab samundar pee jaunga."
+
+"Tum sab taiyaar ho jao."
+
+Sab shaant ho gaye.
+
+Sab dekhne lage.
+
+🌊 Adbhut Drishya"""
             create_image_text_layout(
                 "attached_assets/chapter3/3.7.26.jpg",
                 text1,
@@ -14636,7 +15217,120 @@ wahi sachcha mahan hota hai."""
                 image_position="left"
             )
 
-            text2 = """ """
+            text2 = """ 
+            Rishi Agastya ne
+apni tapasya ki shakti se
+poora samundar peena shuru kiya.
+
+Lehrein kam hone lagi.
+
+Machhliyan tadapne lagi.
+
+Magar aur jal-jeev
+bechain ho gaye.
+
+Dheere-dheere…
+
+Vishal samundar
+bilkul sookh gaya.
+
+Sab log hairaan reh gaye.
+
+Devta bole,
+
+"Hey Rishi!
+Aap hi hamare rakshak ho."
+
+"Aap hi manavon ke bhagya ho."
+
+"Aapki kripa se hi
+sansar bacha hai."
+
+Aakash se phool barasne lage.
+
+Dhundubhi bajne lagi.
+
+⚔️ Danavon ka Ant
+
+Samundar sookhte hi
+Kalakeya Danav dikhne lage.
+
+Devtaon ne apne
+divya hathiyaar utha liye.
+
+Tez gati se
+Danavon par hamla kiya.
+
+Danav zor se dahade.
+
+Yuddh bhayanak tha.
+
+Par rishiyon ki tapasya ki agni
+pehle hi unhe kamzor kar chuki thi.
+
+Aakhirkar
+devtaon ne unhe maar diya.
+
+Unke sone ke gehne
+ranbhoomi mein chamak rahe the.
+
+Jaise palash ke ped
+laal phoolon se bhare hote hain.
+
+Kuch Danav bach gaye.
+
+Woh dharti ko phaad kar
+patal lok mein chhupe.
+
+🙏 Devtaon ki Nayi Vinati
+
+Devta phir Agastya ke paas gaye.
+
+Bole,
+
+"Hey Mahamuni!"
+
+"Aapki kripa se
+Kalakeya mare gaye."
+
+"Ab samundar wapas bhar dijiye."
+
+Agastya muskura kar bole,
+
+"Samundar ka paani
+maine pee liya hai."
+
+"Woh hazam ho chuka hai."
+
+"Ab use wapas nahi kar sakta."
+
+"Samundar bharne ka
+koi aur upay socho."
+
+Devta hairaan reh gaye.
+
+Khushi bhi thi.
+Chinta bhi thi.
+
+Phir sab
+Brahma ji ke paas gaye.
+
+Samundar ko kaise bhara jaye —
+yeh sochne lage.
+
+✨ Moral
+
+Sachchi tapasya mein
+apaar shakti hoti hai.
+
+Jo gyaan aur dharma ki raksha karta hai,
+wahi sahi veer hai.
+
+Par har jeet ke baad
+nayi zimmedari aati hai.
+
+Samadhan kabhi kabhi
+nayi soch maangta hai."""
             create_image_text_layout(
                 text_content=text2,
                 layout="full"
