@@ -15340,7 +15340,21 @@ nayi soch maangta hai."""
         # Section 3.7.27
         # --------------------------------------------------
         with st.expander("Section 3.7.27  Section CVI"):
-            text1 = """ """
+            text1 = """ Section CVI — Hinglish Story (Simple Moral Style)
+Raja Sagara aur 60,000 Putron ki Kahani ki Shuruaat
+
+Lomasa Rishi ne kaha:
+
+Jab samundar sookh gaya tha, tab devta Brahma ji ke paas gaye.
+
+Brahma ji bole,
+
+"Abhi samundar turant nahi bharega."
+
+"Bahut samay baad, Raja Bhagiratha ke vanshaj is kaaran banenge."
+
+Yeh sunkar devta apne-apne lokon ko chale gaye,
+aur samay ka intezaar karne lage."""
             create_image_text_layout(
                 "attached_assets/chapter3/3.7.27.jpg",
                 text1,
@@ -15348,7 +15362,132 @@ nayi soch maangta hai."""
                 image_position="left"
             )
 
-            text2 = """ """
+            text2 = """ 
+            🤔 Yudhishthira ka Prashn
+
+Yudhishthira ne poocha:
+
+"Bhagiratha ke vanshaj kaise samundar bharne ka kaaran bane?"
+
+"Yeh sab kaise hua?"
+
+"Kripya poori kahani sunaiye."
+
+👑 Raja Sagara ka Janm
+
+Lomasa Rishi bole:
+
+Ikshvaku vansh mein ek mahaan raja paida hue — Raja Sagara.
+
+Woh sundar, balwaan aur pratapshali the.
+
+Parantu…
+
+Unke paas ek kami thi.
+
+Unke koi santaan nahi thi.
+
+Raja Sagara ne apni shakti se
+Haihaya aur Talajangha vansh ko hara diya.
+
+Unhone poori prithvi par apna rajya sthapit kiya.
+
+Lekin vansh chalane ke liye putra zaroori tha.
+
+👑 Do Raniyan
+
+Raja Sagara ki do patniyan thi:
+
+Ek Vidarbha ki rajkumari
+
+Ek Sivi vansh ki rajkumari
+
+Dono sundar aur garv se bhari hui.
+
+Putra ki ichchha mein
+Raja Sagara un dono ko lekar
+Kailasa parvat gaye.
+
+Wahan unhone kathor tapasya shuru ki.
+
+🕉️ Shiva ka Darshan
+
+Lambe samay tak tapasya karne ke baad
+unhe Bhagwan Shiva ka darshan hua.
+
+Teen netron wale,
+Pinaka dhanush dhari,
+Trishul pakde hue,
+Uma ke pati — Mahadev.
+
+Raja Sagara ne dono raniyon ke saath
+Shiva ke charnon mein pranam kiya
+aur putra ka var maanga.
+
+🔱 Shiva ka Vachan
+
+Bhagwan Shiva prasann hue.
+
+Unhone kaha:
+
+"Ek patni se tumhe 60,000 putra honge."
+
+"Ve bahut veer aur ghamandi honge."
+
+"Par sab ek saath marenge."
+
+"Dusri patni se ek hi putra paida hoga."
+
+"Vah tumhara vansh chalane wala hoga."
+
+Yeh kehkar Bhagwan Shiva antardhaan ho gaye.
+
+🧒 Aashcharya Janm
+
+Samay aaya.
+
+Vidarbha rani ne janm diya…
+
+Ek ladke ko nahi…
+
+Ek lauki (gourd) jaisa phal!
+
+Dusri rani ne janm diya
+ek sundar aur tejasvi putra ko.
+
+Raja Sagara hairaan reh gaye.
+
+Unhone socha
+lauki ko phenk dena chahiye.
+
+Tabhi aakash se awaaz aayi:
+
+"Hey Raja!"
+
+"Yeh galti mat karo."
+
+"Lauki ke beej nikaalo."
+
+"Unhe ghee se bhare garam bartano mein sambhaal kar rakho."
+
+"Tumhe 60,000 putra milenge."
+
+"Yeh sab Shiva ka hi vachan hai."
+
+Raja ne aadesh maana.
+
+Aur beej sambhaal kar rakh diye.
+
+✨ Moral
+
+Bhagwan ka vardaan kabhi samanya roop mein nahi aata.
+
+Dhairya aur shraddha rakho.
+
+Jo asambhav dikhta hai,
+wahi kabhi-kabhi divya yojana ka hissa hota hai.
+
+Aur har vardaan ke saath zimmedari bhi aati hai."""
             create_image_text_layout(
                 text_content=text2,
                 layout="full"
@@ -15358,7 +15497,15 @@ nayi soch maangta hai."""
         # Section 3.7.28
         # --------------------------------------------------
         with st.expander("Section 3.7.28  Section CVII"):
-            text1 = """ """
+            text1 = """ 
+            Section CVII — Hinglish Story (Simple Moral Style)
+Sagara ke Putron ka Vinash aur Bhagiratha ki Bhoomika ki Shuruaat
+
+Lomasa Rishi bole:
+
+Raja Sagara ne aakashvani par vishwas kiya.
+Lauki ke beej alag-alag ghee se bhare bartanon mein rakhe gaye.
+Har ek ke liye alag dhai (nurse) rakhi gayi."""
             create_image_text_layout(
                 "attached_assets/chapter3/3.7.28.jpg",
                 text1,
@@ -15366,7 +15513,177 @@ nayi soch maangta hai."""
                 image_position="left"
             )
 
-            text2 = """ """
+            text2 = """ 
+            Samay aaya…
+
+Aur janm liye 60,000 putra.
+
+Ve balwaan the.
+Ahankari the.
+Nirbhay the.
+Aasmaan mein ghoom sakte the.
+
+Par unka swabhav kathor tha.
+
+Ve devtaon ko bhi satate the.
+Gandharv, Rakshas, sab unse pareshan the.
+
+Sab log Brahma ji ke paas gaye.
+
+Brahma ji bole:
+
+"Inka vinash unke apne karmon se hoga."
+
+🐎 Ashvamedha Yagya aur Ghode ka Gayaab Hona
+
+Raja Sagara ne Ashvamedha Yagya ka sankalp liya.
+
+Yagya ka ghoda
+poori prithvi par ghoom raha tha,
+unke putron ki raksha mein.
+
+Jab ghoda samundar ke paas pahuncha…
+
+Woh achanak gaayab ho gaya.
+
+Putra wapas aaye aur bole,
+
+"Humne sab jagah dhoondha,
+na ghoda mila, na chor."
+
+Raja krodhit ho gaye.
+
+Unhone kaha:
+
+"Jab tak ghoda na mile,
+wapas mat aana."
+
+🌊 Samundar ki Khudai
+
+Sagara ke putron ne
+dharti ko khodna shuru kiya.
+
+Samundar ko khod dala.
+
+Jeev-jantu marne lage.
+Naag, Rakshas, sab cheekhne lage.
+
+Bahut samay tak
+khudai chalti rahi.
+
+Aakhirkar
+unhone patal lok tak raasta bana diya.
+
+Wahan unhone dekha—
+
+Yagya ka ghoda
+aur ek tejomay Rishi — Kapila.
+
+Kapila Rishi
+prakash ki murti jaise chamak rahe the.
+
+Par Sagara ke putron ne
+unhe nazarandaz kiya.
+
+Ve ghode ko pakadne bhaage.
+
+Kapila Rishi ne aankh uthayi.
+
+Unki drishti agni ban gayi.
+
+Ek hi kshan mein
+60,000 putra
+bhasm ho gaye.
+
+😔 Sagara ka Shok
+
+Narad Muni ne jaakar
+Raja Sagara ko khabar di.
+
+Raja shok mein doob gaye.
+
+Unhe Shiva ka vachan yaad aaya.
+
+Unhone apne potey Anshuman ko bulaya.
+
+👑 Asamanjas ka Vanvas
+
+Yudhishthira ne poocha:
+
+"Raja ne apne hi putra Asamanjas ko kyun nikala?"
+
+Lomasa bole:
+
+Asamanjas
+bachchon ko pakadkar
+nadi mein phenk deta tha.
+
+Praja dare hue raja ke paas gayi.
+
+Raja ne dharm ko chuna.
+
+Aur apne putra ko
+rajya se nikal diya.
+
+Raja ka kartavya sabse bada hota hai.
+
+🙏 Anshuman aur Kapila
+
+Anshuman
+Kapila Rishi ke paas gaya.
+
+Vinay se pranam kiya.
+
+Rishi prasann hue.
+
+Anshuman ne do var maange:
+
+Yagya ka ghoda
+
+Apne purkhon ki mukti
+
+Kapila bole:
+
+"Tum gunvaan ho."
+
+"Tumhare potey ka pota — Bhagiratha —
+Ganga ko prithvi par layega."
+
+"Wahi tumhare purkhon ko mukti dega."
+
+Anshuman ghoda lekar wapas aaya.
+
+Yagya poora hua.
+
+Sagara ne shok chhod diya.
+
+👑 Vansh ka Agla Adhyay
+
+Sagara ke baad:
+
+Anshuman
+phir Dilipa
+aur phir janm hua Bhagiratha ka.
+
+Dilipa ne Ganga ko lane ki koshish ki
+par safal na ho sake.
+
+Ant mein Bhagiratha hi
+Ganga ko dharti par layenge.
+
+Aur samundar bhi tabhi bharega.
+
+✨ Moral
+
+Ahankaar ka ant nishchit hai.
+
+Dharm ke liye apne ko bhi tyagna pade, toh karo.
+
+Vinamrata se maanga gaya vardaan,
+sahi samay par phal deta hai.
+
+Aur kabhi-kabhi ek purush ka tapasya,
+poore vansh ko mukti dilata hai."""
             create_image_text_layout(
                 text_content=text2,
                 layout="full"
@@ -15376,7 +15693,19 @@ nayi soch maangta hai."""
         # Section 3.7.29
         # --------------------------------------------------
         with st.expander("Section 3.7.29  Section CVIII"):
-            text1 = """ """
+            text1 = """ 
+            Section CVIII — Hinglish Story (Simple Moral Style)
+Bhagiratha ki Tapasya aur Ganga ka Vachan
+
+Lomasa Rishi bole:
+
+Raja Bhagiratha ek mahan chakravarti the.
+Ve shaktishaali, dharm-nishtha aur sabke priya the.
+
+Ek din unhe pata chala ki
+unke purvaj — Raja Sagara ke 60,000 putra —
+Kapila Rishi ke shraap se bhasm ho gaye the
+aur unhe swarg prapt nahi hua."""
             create_image_text_layout(
                 "attached_assets/chapter3/3.7.29.jpg",
                 text1,
@@ -15384,7 +15713,123 @@ nayi soch maangta hai."""
                 image_position="left"
             )
 
-            text2 = """ """
+            text2 = """ 
+            Yeh sunkar Bhagiratha ka hriday dukh se bhar gaya.
+
+Unhone rajya apne mantriyon ko saup diya
+aur tapasya karne ke liye
+Himalaya chale gaye.
+
+🏔️ Himalaya ka Varnan
+
+Bhagiratha ne Himalaya ko dekha:
+
+Unche shikhar
+
+Badalon se bheega hua
+
+Nadiyon aur vanon se bhara
+
+Sher aur baaghon se gufaen
+
+Hanson, moron, chakor aur anya pakshiyon ki madhur dhwani
+
+Ratno se chamakta hua
+
+Kahin sone jaisa
+
+Kahin chaandi jaisa
+
+Kahin kaajal jaisa kaala
+
+Wahi par Bhagiratha ne kathin tapasya shuru ki.
+
+🔥 Hazaar Varsh ki Tapasya
+
+Ek hazaar varsh tak
+ve sirf jal, phal aur mool par jeevit rahe.
+
+Unki tapasya itni kathor thi
+ki devta bhi prabhavit ho gaye.
+
+Ant mein
+Ganga Devi prakat hui.
+
+🌊 Ganga ka Prakat Hona
+
+Ganga Devi boli:
+
+"Hey mahan raja,
+tum kya chahte ho?"
+
+"Main tumhe kya vardaan doon?"
+
+Bhagiratha ne haath jod kar kaha:
+
+"Mere purvaj, Sagara ke putra,
+Kapila ke shraap se bhasm ho gaye."
+
+"Unhe swarg nahi mila."
+
+"Jab tak aapka pavitra jal
+un par nahi gira,
+tab tak unki mukti nahi hogi."
+
+"Kripya unhe swarg ka marg dijiye."
+
+🌊 Ganga ka Uttar
+
+Ganga boli:
+
+"Main tumhari ichchha poori karungi."
+
+"Lekin ek samasya hai."
+
+"Jab main swarg se dharti par girungi,
+toh meri dhaar ka bal
+dharti sah nahi paayegi."
+
+"Teenon lokon mein
+sirf ek hi devta hain
+jo mujhe sambhaal sakte hain —"
+
+"Bhagwan Shiva."
+
+"Tum unhe tapasya se prasann karo."
+
+"Wahi mujhe apni jataon mein rok kar
+dharti par laayenge."
+
+🔱 Shiva ki Tapasya
+
+Bhagiratha phir Kailasa gaye.
+
+Unhone aur kathin tapasya ki.
+
+Ant mein
+Bhagwan Shiva prasann hue.
+
+Unhone kaha:
+
+"Main Ganga ko apni jataon mein dharan karunga."
+
+"Uski dhaar ko sambhaal kar
+dharti par bahne dunga."
+
+Bhagiratha ka sankalp safal hone laga.
+
+✨ Moral
+
+Sachchi tapasya kabhi vyarth nahi jaati.
+
+Jo apne purkhon ke liye tapasya kare,
+wahi sacha putra hai.
+
+Shakti ko sambhalne ke liye
+vinay aur sahara dono chahiye.
+
+Aur mahan karya ke liye
+dhairya aur lagan avashyak hai."""
             create_image_text_layout(
                 text_content=text2,
                 layout="full"
@@ -15394,7 +15839,16 @@ nayi soch maangta hai."""
         # Section 3.7.30
         # --------------------------------------------------
         with st.expander("Section 3.7.30  Section CIX"):
-            text1 = """ """
+            text1 = """ 
+            Section CIX — Hinglish Story (Simple Moral Style)
+Ganga ka Avatran aur Sagara Putron ki Mukti
+
+Lomasa Rishi bole:
+
+Bhagwan Shiva ne Bhagiratha ki tapasya se prasann hokar kaha:
+
+"Hey dharm-nishtha raja!
+Tumhare liye main swarg se girti hui Ganga ko apni jataon mein dharan karunga." """
             create_image_text_layout(
                 "attached_assets/chapter3/3.7.30.jpg",
                 text1,
@@ -15402,7 +15856,108 @@ nayi soch maangta hai."""
                 image_position="left"
             )
 
-            text2 = """ """
+            text2 = """ 
+            "Tum chinta mat karo."
+
+Yeh kehkar Shiva apne ganon ke saath
+Himalaya par khade ho gaye.
+
+Unhone Bhagiratha se kaha:
+
+"Tum Ganga ko smaran karo."
+
+"Jab woh swarg se giregi,
+main uska prahar sambhaal lunga."
+
+🌊 Ganga ka Divya Avatran
+
+Bhagiratha ne dhyaan lagaya.
+
+Ganga ne dekha —
+Shiva swayam khade hain.
+
+Aur tab…
+
+Ganga swarg se
+vega se neeche aayi.
+
+Devta, Rishi, Gandharv, Naag, Yaksha —
+sab is adbhut drishya ko dekhne aaye.
+
+Ganga ki dhaar bhayankar thi.
+
+Usme machhliyan aur magar the.
+Uski lehren ghoomti hui aage badh rahi thi.
+Foam safed hanson jaisa dikhta tha.
+
+Kabhi woh seedhi behti,
+kabhi tedhi-medhi.
+
+Kabhi garajti hui
+jaise nashe mein jhoomti ho.
+
+🔱 Shiva ka Dhairya
+
+Jab Ganga tezi se giri,
+Shiva ne use apni jataon mein rok liya.
+
+Uski prabal dhaar
+jataon mein phans gayi.
+
+Phir Shiva ne use dheere se
+dharti par chhoda.
+
+Is tarah dharti bach gayi.
+
+🌊 Teen Dhaaron Mein Vibhajan
+
+Dharti par aate hi
+Ganga teen dhaaron mein baant gayi.
+
+Aur Bhagiratha se boli:
+
+"Hey raja,
+mujhe batao kahan chalna hai."
+
+Bhagiratha ne
+us raaste ki aur agrasar hua
+jahaan Sagara ke putron ki raakh padi thi.
+
+🕊️ Purkhon ki Mukti
+
+Ganga ka pavitra jal
+jab unki asthiyon ko sparsh kiya…
+
+Tab Sagara ke 60,000 putron ko
+mukti mil gayi.
+
+Ve swarg gaye.
+
+Bhagiratha ka sankalp safal hua.
+
+Samundar bhi bhar gaya.
+
+Bhagiratha ne Ganga ko
+apni putri ke roop mein sweekar kiya.
+
+Unhone apne purkhon ke naam
+tarpan kiya.
+
+Aur unka hriday shant ho gaya.
+
+✨ Moral
+
+Sankalp agar nishkaam ho,
+toh devta bhi sahayata karte hain.
+
+Tapasya + dhairya + vinay
+= asambhav ko sambhav bana dete hain._
+
+Jo apne purkhon ke liye kare,
+uska naam yugon tak amar hota hai.
+
+Isliye Ganga ko Bhagirathi bhi kehte hain —
+Bhagiratha ke karan dharti par aayi."""
             create_image_text_layout(
                 text_content=text2,
                 layout="full"
@@ -15412,7 +15967,30 @@ nayi soch maangta hai."""
         # Section 3.7.31
         # --------------------------------------------------
         with st.expander("Section 3.7.31  Section CX"):
-            text1 = """ """
+            text1 = """ 
+            Section CX — Hinglish Story (Simple Moral Style)
+Hemakuta Parvat, Rishyasringa ka Janm aur Anga Desh ka Sookha
+
+Vaisampayana ne kaha:
+
+Pandav dheere-dheere Nanda aur Aparananda nadiyon tak pahunche.
+Phir ve Hemakuta parvat par gaye.
+
+Wahan ajeeb drishya the:
+
+Jaise hi koi bolta, badal garaj uthte
+
+Pathar barasne lagte
+
+Tez hawa chalne lagti
+
+Ved-path ki awaaz sunai deti, par koi dikhai nahi deta
+
+Subah-shaam havan ki agni jalti dikhti
+
+Parvat chadhne wale beemar ho jaate
+
+Yudhishthira ne iska kaaran poocha."""
             create_image_text_layout(
                 "attached_assets/chapter3/3.7.31.jpg",
                 text1,
@@ -15420,7 +15998,133 @@ nayi soch maangta hai."""
                 image_position="left"
             )
 
-            text2 = """ """
+            text2 = """ 
+            🧘 Rishava Rishi ka Shraap
+
+Lomasa bole:
+
+Is shikhar par kabhi Rishava naam ke rishi rehte the.
+
+Ve bahut kathor tapasvi aur krodhi the.
+
+Ek din krodh mein bole:
+
+"Jo bhi yahan bolega,
+badal garj kar use chup kara denge."
+
+"Pathar barasenge."
+
+Tab se wahan awaaz karna mana ho gaya.
+
+Isliye yeh sthal kathin aur adbhut hai.
+
+🔥 Devtaon ka Yagya
+
+Yahan kabhi devtaon ne yagya kiya tha.
+
+Aaj bhi:
+
+Kusha ghaas dikhti hai
+
+Havan-sthal ke nishaan hain
+
+Devagni subah-shaam jalti dikhti hai
+
+Jo yahan snaan karta hai,
+uska paap nash ho jata hai.
+
+🌊 Kausiki Nadi
+
+Pandav phir Kausiki nadi gaye.
+
+Yahi Vishvamitra ne kathin tapasya ki thi.
+
+Wahan Lomasa ne ek aur kahani sunai —
+Rishyasringa ki.
+
+🦌 Rishyasringa ka Adbhut Janm
+
+Ek mahan tapasvi the — Vibhandaka.
+
+Ek din unhone apsara Urvashi ko dekha.
+
+Unka veerya jal mein gir gaya.
+
+Ek hiran ne woh jal pee liya.
+
+Aur vah garbhavati ho gayi.
+
+Wahi hiran asal mein dev-kanya thi,
+jise Brahma ne shraap diya tha.
+
+Us hiran se janm hua
+Rishyasringa ka.
+
+Unke sir par ek singh (horn) tha.
+Isliye unka naam pada — Rishya + Shringa (singh wala).
+
+Ve jungle mein pale-bade.
+Unhone kabhi kisi aur purush ko nahi dekha,
+na hi kisi stree ko.
+
+Unka jeevan pavitra tha.
+
+👑 Anga Desh ka Sookha
+
+Us samay Anga desh ka raja tha — Lomapada.
+
+Woh Dasharatha ka mitra tha.
+
+Ek baar usne ek Brahman se jhooth bola.
+
+Brahmanon ne use tyag diya.
+
+Indra ne us desh mein varsha rok di.
+
+Sookha pad gaya.
+
+Log dukhi ho gaye.
+
+🧠 Upay
+
+Rishiyon ne kaha:
+
+"Agar Rishyasringa is desh mein aayenge,
+toh turant varsha hogi."
+
+Raja ne socha —
+use kaise laya jaye?
+
+Unhone mantriyon ke saath yojana banayi.
+
+Aur shehar ki sundar ganikayon ko bulaya.
+
+Raja ne kaha:
+
+"Use kisi tarah yahan le aao."
+
+Sab darr gaye —
+rishi ka shraap bhi lag sakta tha.
+
+Par ek buddhimaan vriddh ganika boli:
+
+"Main prayas karungi."
+
+"Par mujhe kuch vastuon ki zarurat hogi."
+
+Raja ne dhan, ratna aur sab vyavastha di.
+
+Aur ve sab jungle ki aur chal padi.
+
+✨ Moral
+
+Pavitrata mein apaar shakti hoti hai.
+
+Jo satya se hat-ta hai, us par prakriti bhi rooth sakti hai.
+
+Kabhi-kabhi buddhi aur yojana se bhi karya hota hai.
+
+Aur bhavishya mein hone wali mahan ghatnaon ki shuruaat chhoti lagti hai."""
             create_image_text_layout(
                 text_content=text2,
                 layout="full"
