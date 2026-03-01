@@ -16134,7 +16134,14 @@ Aur bhavishya mein hone wali mahan ghatnaon ki shuruaat chhoti lagti hai."""
         # Section 3.7.32
         # --------------------------------------------------
         with st.expander("Section 3.7.32  Section CXI"):
-            text1 = """ """
+            text1 = """ 
+            Section CXI — Rishyasringa ko Phansane ki Yojana
+
+Lomasa bole:
+
+Anga ke raja ne Rishyasringa ko apne rajya mein lana chaha.
+Isliye ek chatur aurat ne ek chal rachi.
+            """
             create_image_text_layout(
                 "attached_assets/chapter3/3.7.32.jpg",
                 text1,
@@ -16142,7 +16149,135 @@ Aur bhavishya mein hone wali mahan ghatnaon ki shuruaat chhoti lagti hai."""
                 image_position="left"
             )
 
-            text2 = """ """
+            text2 = """ 
+            🚤 Jadoo jaisa Ashram
+
+Usne ek taerta hua ashram banwaya.
+
+Nakli ped aur phool lagaye gaye.
+
+Meethay phal sajaye gaye.
+
+Sab kuch dekhne mein bilkul asli lagta tha.
+
+Jaise kisi ne sapno ka van bana diya ho. 🌸
+
+Woh naav Rishyasringa ke ashram ke paas baandh di gayi.
+
+Phir ek sundar, buddhimaan ganika ko bheja gaya.
+
+🌼 Pehli Mulakaat
+
+Ganika Rishyasringa ke paas gayi.
+
+Woh boli:
+
+“Hey tapasvi, sab kushal hai?”
+“Aapka tapasya badh raha hai?”
+“Aapke pitaji khush hain?”
+
+Rishyasringa ne pehli baar kisi aurat ko dekha tha.
+
+Woh hairan reh gaye.
+
+Woh bole:
+
+“Aap to prakash ki tarah chamak rahi hain.”
+“Kripya baithiye.”
+“Main aapko phal aur jal pradan karta hoon.”
+
+Unhone poocha:
+
+“Aap kaun sa vrat kar rahi hain?”
+
+💫 Ganika ka Chatur Uttar
+
+Ganika boli:
+
+“Mera ashram pahad ke us paar hai.”
+“Mera dharm alag hai.”
+
+Phir dheere se boli:
+
+“Mera vrat hai —
+aapko gale lagana.”
+
+Rishyasringa ne is baat ko samjha hi nahi.
+Unka mann nirdosh tha.
+
+🍭 Moh ka Jaadu
+
+Ganika ne:
+
+Sugandhit mala pehnayi.
+
+Sundar vastra diye.
+
+Meethi cheezein khilayi.
+
+Hansi-mazaak kiya.
+
+Kabhi gend se khelti.
+Kabhi sharir se sparsh karti.
+
+Rishyasringa ka hriday pehli baar hil gaya. ❤️
+
+Unhone pehle kabhi aisa anubhav nahi kiya tha.
+
+🌙 Virah ka Dard
+
+Ganika ne kaha:
+
+“Main havan karne ja rahi hoon.”
+
+Aur dheere se chali gayi.
+
+Rishyasringa ka mann uske saath chala gaya.
+
+Woh bechain ho gaye.
+
+Gehri saanse lene lage.
+
+Chinta mein doob gaye.
+
+Mann khali lagne laga.
+
+🦁 Pita ka Aagman
+
+Tab unke pita Vibhandaka aaye.
+
+Unki aankhen sher jaisi thi.
+Woh kathor tapasvi the.
+
+Unhone dekha:
+
+Beta udaas hai.
+
+Kaam nahi kiya.
+
+Mann ashant hai.
+
+Unhone poocha:
+
+“Beta, aaj tum lakdi kyun nahi lae?”
+“Havan kiya ya nahi?”
+“Kaun aaya tha yahan?”
+
+Rishyasringa chup the.
+Unka mann pehli baar tapasya se hat gaya tha.
+
+🌿 Moral
+
+Nirdosh mann jaldi prabhavit ho jata hai.
+
+Moh aur vasna tapasya ko tod sakte hain.
+
+Bahar ki chamak kabhi-kabhi bhram hoti hai.
+
+Vivek bina, bhola-pan khatra ban sakta hai.
+
+✨ Is kahani mein seekh hai —
+Man ko sambhalna sabse bada tapasya hai."""
             create_image_text_layout(
                 text_content=text2,
                 layout="full"
@@ -16152,7 +16287,15 @@ Aur bhavishya mein hone wali mahan ghatnaon ki shuruaat chhoti lagti hai."""
         # Section 3.7.33
         # --------------------------------------------------
         with st.expander("Section 3.7.33  Section CXII"):
-            text1 = """ """
+            text1 = """ 
+            Section CXII — Bhole Rishyasringa ka Mann Hil Gaya
+
+Lomasa bole:
+
+Rishyasringa ne apne pita Vibhandaka se sab kuch bataya.
+
+Unki aankhon mein ajab chamak thi.
+Mann bilkul badal chuka tha."""
             create_image_text_layout(
                 "attached_assets/chapter3/3.7.33.jpg",
                 text1,
@@ -16160,7 +16303,84 @@ Aur bhavishya mein hone wali mahan ghatnaon ki shuruaat chhoti lagti hai."""
                 image_position="left"
             )
 
-            text2 = """ """
+            text2 = """ 
+            🌟 “Aaj Yahan Ek Tapasvi Aaya Tha…”
+
+Rishyasringa bole:
+
+“Aaj yahan ek brahmachari aaya tha.”
+“Na woh chhota tha, na lamba.”
+“Uska rang sona jaisa tha.”
+“Aankhen kamal jaisi thi.”
+
+Unhone uska varnan bade pyaar se kiya.
+
+Baal sugandhit aur neele-kale the.
+
+Gale mein chamakta haar tha.
+
+Pairon mein ajeeb si ghunghroo jaisi cheez thi.
+
+Chalne par madhur jhan-jhan ki awaaz aati thi.
+
+Rishyasringa hairan the.
+
+Unhone kabhi aisa roop nahi dekha tha.
+
+🍯 “Usne Mujhe Ajeeb Phal Diye…”
+
+Woh bole:
+
+“Usne mujhe phal diye.”
+“Unmein na chilka tha, na beej.”
+“Bahut meethay the.”
+
+Phir kaha:
+
+“Usne mujhe ek ajeeb sa jal pilaya.”
+“Use peene ke baad zameen hilti si lagi.”
+
+Unka chehra laal ho gaya.
+Woh samajh nahi pa rahe the kya ho raha hai.
+
+💞 “Usne Mujhe Gale Lagaya…”
+
+Rishyasringa dheere se bole:
+
+“Usne mujhe gale lagaya.”
+“Mere jata pakad kar jhukaya.”
+“Mere muh ko apne muh se milaya.”
+
+“Uski awaaz bahut madhur thi.”
+“Jaise basant mein van ko hawa chhoo jaye.”
+
+Unka mann ab tapasya mein nahi lag raha tha.
+
+🔥 Virah ki Jalan
+
+Woh bole:
+
+“Uske jaane ke baad mera hriday jal raha hai.”
+“Main use dobara dekhna chahta hoon.”
+“Pita ji, mujhe uske paas le chaliye.”
+
+“Main bhi uske jaisa vrat rakhna chahta hoon.”
+“Agar use na dekha, to mera mann dukhi rahega.”
+
+Unka nirdosh hriday moh mein phans chuka tha.
+
+🌿 Moral
+
+Bhola mann sabse jaldi mohit hota hai.
+
+Jo cheez anjaani hoti hai, wahi sabse adhik akarshit karti hai.
+
+Tapasya bhi pariksha se guzarti hai.
+
+Vivek aur anubhav dono zaruri hain jeevan mein.
+
+✨ Yeh kahani batati hai —
+Mann ko sambhalna hi sabse bada yog hai."""
             create_image_text_layout(
                 text_content=text2,
                 layout="full"
@@ -16170,7 +16390,12 @@ Aur bhavishya mein hone wali mahan ghatnaon ki shuruaat chhoti lagti hai."""
         # Section 3.7.34
         # --------------------------------------------------
         with st.expander("Section 3.7.34  Section CXIII"):
-            text1 = """ """
+            text1 = """ 
+            Section CXIII — Pita ka Gussa aur Ant mein Shanti
+
+Lomasa bole:
+
+Rishyasringa ki baat sun kar unke pita Vibhandaka samajh gaye ki kuch galat hua hai."""
             create_image_text_layout(
                 "attached_assets/chapter3/3.7.34.jpg",
                 text1,
@@ -16178,7 +16403,129 @@ Aur bhavishya mein hone wali mahan ghatnaon ki shuruaat chhoti lagti hai."""
                 image_position="left"
             )
 
-            text2 = """ """
+            text2 = """ 
+            ⚡ Vibhandaka ka Chetavani
+
+Vibhandaka bole:
+
+“Beta, woh tapasvi nahi the.”
+“Woh Rakshas the.”
+“Woh sundar roop lekar tapasya todte hain.”
+
+Unhone kaha:
+
+Unka kaam tapasviyon ko bhrasht karna hota hai.
+
+Jo yogi swarg chahta hai, use unse door rehna chahiye.
+
+Jo peene ki cheez di gayi, woh sharab thi.
+
+Jo mala di gayi, woh sant ke layak nahi thi.
+
+Phir Vibhandaka unhe dhoondhne nikle.
+Par teen din tak kuch na mila.
+
+🚤 Phir Se Chal
+
+Jab pita phal lene bahar gaye,
+tab ganika phir aa gayi.
+
+Rishyasringa use dekh kar khush ho gaye.
+
+Woh bole:
+
+“Chalo, mere pita ke aane se pehle tumhare ashram chalte hain.”
+
+Ganika ne mauka pakad liya.
+
+Use naav par bithaya.
+Naav khol di.
+
+Aur use lekar Anga ke raja ke paas aa gayi.
+
+🌧️ Barsaat ka Aagman
+
+Jaise hi Rishyasringa rajya mein aaye,
+aasman se zor ki baarish hone lagi.
+
+Sukha khatam ho gaya.
+
+Raja Lomapada bahut khush hue.
+
+Unhone apni beti Santa ka vivah Rishyasringa se kar diya. 💍
+
+🔥 Vibhandaka ka Krodh
+
+Udhar Vibhandaka ko pata chala beta gayab hai.
+
+Woh krodh se bhar gaye.
+
+Unhone socha:
+
+“Main raja aur uska nagar jala dunga.”
+
+Woh Champa nagar ki aur chale.
+
+🐄 Raja ki Chaturai
+
+Raja ne pehle hi yojana bana li thi.
+
+Raaste mein:
+
+Gaayen rakhi gayi.
+
+Hal chalaye khet dikhaye gaye.
+
+Gopalon ko kaha gaya:
+
+“Kaho ki yeh sab Rishyasringa ka hai.”
+“Hum unke das hain.”
+
+🌼 Krodh ka Shant Hona
+
+Vibhandaka ne dekha:
+
+Har jagah unke putra ka naam.
+
+Samman aur dhan.
+
+Phir unhone Santa ko dekha —
+bijli ki chamak jaisi sundar.
+
+Unka gussa dheere-dheere shant ho gaya.
+
+Unhone kaha:
+
+“Beta, jab tumhara putra ho jaye,
+tab van mein wapas aana.”
+
+Rishyasringa ne haan kar di.
+
+🌙 Santa ki Seva
+
+Santa apne pati ki seva karti thi:
+
+Jaise Rohini chandrama ki.
+
+Jaise Arundhati Vashishtha ki.
+
+Jaise Damayanti Nala ki.
+
+Woh van mein bhi unke saath rahi.
+
+🌿 Moral
+
+Krodh ko buddhi se shant kiya ja sakta hai.
+
+Chal kabhi-kabhi bada parivartan laati hai.
+
+Bhola mann galti karta hai, par jeevan seekh deta hai.
+
+Pati-patni ka vishwas pavitra hota hai.
+
+✨ Is kahani mein seekh hai —
+Jeevan mein moh, krodh aur shanti teenon aate hain.
+Par ant mein dhairya hi jeet ta hai."""
             create_image_text_layout(
                 text_content=text2,
                 layout="full"
@@ -16188,7 +16535,19 @@ Aur bhavishya mein hone wali mahan ghatnaon ki shuruaat chhoti lagti hai."""
         # Section 3.7.35
         # --------------------------------------------------
         with st.expander("Section 3.7.35  Section CXIV"):
-            text1 = """ """
+            text1 = """ 
+            Section CXIV — Pandavon ki Teerth Yatra aur Samudra ka Rahasya
+
+Vaisampayana bole:
+
+Pandav, apne vanvaas ke dauran,
+ek teerth se doosre teerth ja rahe the.
+
+Woh Kausiki nadi se chal kar
+us sthal par pahunche jahan Ganga samudra se milti hai.
+
+Wahan Yudhishthira ne pavitra snan kiya. 🌊
+Phir ve Kalinga desh ki or badhe."""
             create_image_text_layout(
                 "attached_assets/chapter3/3.7.35.jpg",
                 text1,
@@ -16196,7 +16555,119 @@ Aur bhavishya mein hone wali mahan ghatnaon ki shuruaat chhoti lagti hai."""
                 image_position="left"
             )
 
-            text2 = """ """
+            text2 = """ 
+            🌊 Vaitarani Nadi ka Mahatva
+
+Lomasa bole:
+
+“Yeh Kalinga bhoomi hai.”
+“Yahan se Vaitarani nadi behti hai.”
+
+Iske kinare par kabhi
+Dharma dev ne bhi tapasya ki thi.
+
+Yeh sthal itna pavitra hai ki:
+
+Swarg jaane wale marg ke samaan hai.
+
+Yahan snan karne se manushya dev-yoni ka darshan kar sakta hai.
+
+🔥 Rudra aur Yajna ka Kissa
+
+Lomasa ne ek purani kahani sunai:
+
+Ek baar yajna ke samay
+Rudra (Shiva) ne bali ka pashu le liya.
+
+Aur bole:
+
+“Yeh mera hissa hai!”
+
+Devtaon ne vinamrata se kaha:
+
+“Dusron ka hissa mat lijiye.”
+
+Unhone stuti ki.
+Rudra prasann hue.
+Apna hissa alag se le kar chale gaye.
+
+Tab se yahan Rudra ko
+hamesha taja aur shreshth bhag diya jata hai.
+
+🌌 Yudhishthira ka Anubhav
+
+Yudhishthira ne Vaitarani mein snan kiya.
+
+Unhone mehsoos kiya:
+
+“Mujhe lag raha hai main swarg ke paas hoon.”
+“Main sab lok dekh sakta hoon!”
+
+Unhe door se rishiyon ke mantra sunai diye.
+
+Lomasa bole:
+
+“Woh sthal 3 lakh yojan door hai.”
+“Yeh Brahma ka divya van hai.”
+
+🌍 Prithvi ka Krodh
+
+Lomasa ne bataya:
+
+Ek samay Brahma ne
+poori prithvi ko Rishi Kasyapa ko daan mein de diya.
+
+Prithvi devi naraaz ho gayi.
+
+Woh boli:
+
+“Mujhe kisi maanav ko kaise de sakte ho?”
+
+Woh paatal mein chali gayi.
+
+Rishi Kasyapa ne tapasya ki.
+Prithvi prasann hui.
+Phir ek yajna-vedi ke roop mein utri.
+
+🪔 Pavitra Vedi ka Rahasya
+
+Lomasa bole:
+
+“Yeh wahi pavitra vedi hai.”
+“Is par chadhne se shakti milti hai.”
+
+Par ek niyam tha:
+
+Mantra bolkar hi chadhna.
+
+Satya uchcharan karna.
+
+Warna yeh vedi samudra mein sama jati hai.
+
+🌊 Yudhishthira ka Snan
+
+Lomasa ne raksha-mantra ki vidhi kari.
+
+Yudhishthira ne satya shabd bole.
+Phir samudra mein pravesh kiya.
+
+Sab vidhi poori karke
+Mahendra parvat ki or badhe.
+
+Wahan raat bitayi.
+
+🌿 Moral
+
+Teerth sirf pani nahi, anubhav hai.
+
+Satya aur shraddha se hi pavitrata milti hai.
+
+Ahankar se prithvi bhi rooth sakti hai.
+
+Shanti aur vinamrata se hi kripa milti hai.
+
+✨ Yatra sirf sharir ki nahi,
+atma ki bhi hoti hai."""
             create_image_text_layout(
                 text_content=text2,
                 layout="full"
@@ -16206,7 +16677,25 @@ Aur bhavishya mein hone wali mahan ghatnaon ki shuruaat chhoti lagti hai."""
         # Section 3.7.36
         # --------------------------------------------------
         with st.expander("Section 3.7.36  Section CXV"):
-            text1 = """ """
+            text1 = """ 
+            Section CXV — Parashurama ki Utpatti ka Aarambh
+
+Vaisampayana bole:
+
+Yudhishthira ne Mahendra parvat par ek raat bitayi.
+Apne bhaiyon ke saath rishiyon ko pranam kiya.
+
+Lomasa ne unhe bataya ki wahan:
+
+Bhrigu vansh ke rishi
+
+Angiras
+
+Vasishtha
+
+Kasyapa
+
+sab tapasya kar rahe the."""
             create_image_text_layout(
                 "attached_assets/chapter3/3.7.36.jpg",
                 text1,
@@ -16214,7 +16703,159 @@ Aur bhavishya mein hone wali mahan ghatnaon ki shuruaat chhoti lagti hai."""
                 image_position="left"
             )
 
-            text2 = """ """
+            text2 = """ 
+            Yudhishthira ne Akritavrana se puchha:
+
+“Parashurama kab darshan denge?”
+
+Akritavrana bole:
+
+“Rama sab jaante hain.
+Kal chaturdashi tithi par tum unhe dekhoge.
+Mrig-charm dharan kiye, jata baandhe hue.”
+
+Yudhishthira ka Prashn
+
+Yudhishthira bole:
+
+“Tumne Jamadagni putra Rama ke karm dekhe hain.
+Batao unhone Kshatriyon ko kyun mara?
+Aur yudh ka aarambh kaise hua?”
+
+Kartavirya Arjuna ka Ahankar
+
+Akritavrana ne kahani shuru ki:
+
+Haihaya vansh ka raja Arjuna (Kartavirya Arjuna):
+
+Hazaar bahuon wala
+
+Dattatreya se var prapt
+
+Sone ka divya rath
+
+Uska rajya poori prithvi par tha.
+
+Woh:
+
+Devtaon ko satata
+
+Rishiyon ko apmaan karta
+
+Yakshon ko dabata
+
+Sab log usse dukhi the.
+
+Devta Vishnu ke paas gaye aur bole:
+
+“Jagat ki raksha ke liye Arjuna ka vinash avashyak hai.”
+
+Vishnu ka Sankalp
+
+Vishnu ne Indra se vichar-vimarsh kiya.
+Phir Badari van mein tapasya karne chale gaye.
+
+Isi dauran ek anya kahani shuru hoti hai…
+
+Raja Gadhi aur Satyavati
+
+Kanyakubja (Kannauj) ke raja Gadhi ki ek sundar putri thi — Satyavati.
+
+Bhrigu vansh ke Rishi Richika ne usse vivah ka prastaav diya.
+
+Raja ne kaha:
+
+“Hamare vansh ka niyam hai:
+1000 ghode dene honge
+Sab bhure rang ke
+Aur har ek ka ek kaan kala ho.”
+
+Richika ne vachan diya.
+
+Varuna se Ghode
+
+Richika ne Varuna se prarthana ki.
+Varuna ne Ganga se nikle hue 1000 ghode de diye.
+
+Isliye us sthal ka naam pada:
+
+Ashva-tirtha (ghodon ka utarne ka sthal)
+
+Vivah sampann hua.
+Devta bhi upasthit the.
+
+Bhrigu ka Vardan
+
+Vivah ke baad Bhrigu aaye.
+Unhone Satyavati ko var maangne ko kaha.
+
+Satyavati boli:
+
+“Mujhe aur meri mata ko putra prapt ho.”
+
+Bhrigu ne kaha:
+
+Dono alag-alag vriksh ko gale lagayein
+
+Alag-alag kheer ke patra grahan karein
+
+Par dono mahilaon ne galti se:
+
+Patra badal liye
+
+Vriksh badal liye
+
+Shraap ya Vidhata ka Khel?
+
+Bhrigu ne bataya:
+
+“Tumse janma lene wala putra
+Brahmana hote hue bhi
+Kshatriya swabhav ka hoga.”
+
+“Aur tumhari mata ka putra
+Kshatriya hote hue bhi
+Brahmana swabhav ka hoga.”
+
+Satyavati ne vinati ki:
+
+“Mera putra nahi, mera pota aisa ho.”
+
+Bhrigu bole:
+
+“Tathastu.”
+
+Jamadagni ka Janm
+
+Satyavati se janm hua:
+
+Jamadagni
+
+Tejasvi
+
+Vedon ka gyata
+
+Tapasya mein agrani
+
+Aur unke putra hone wale the:
+
+Parashurama
+
+Jinhe shastra-vidya swayam prapt hui.
+Chaaron prakar ke astron ka gyaan unhe bina sikhaye mil gaya.
+
+Is Adhyay ka Saar
+
+Ahankar ka vinash nishchit hai.
+
+Karm aur vachan ka phal anivarya hai.
+
+Vansh aur janm se adhik mahatva hai guna aur dharma ka.
+
+Bhagwan ka sankalp hi dharm ki punarsthapna karta hai.
+
+Agla bhaag:
+Parashurama aur Kartavirya ka bhayanak sangharsh."""
             create_image_text_layout(
                 text_content=text2,
                 layout="full"
