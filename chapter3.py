@@ -16865,7 +16865,15 @@ Parashurama aur Kartavirya ka bhayanak sangharsh."""
         # Section 3.7.37
         # --------------------------------------------------
         with st.expander("Section 3.7.37  Section CXVI"):
-            text1 = """ """
+            text1 = """ 
+            Section CXVI — Parashurama ka Krodh aur Kartavirya ka Vinash
+
+Akritavrana bole:
+
+Rishi Jamadagni ne ved-adhyayan aur kathor tapasya ki.
+Unka vivah Raja Prasenajit ki putri Renuka se hua.
+Unke paanch putra hue — sabse chhote the Rama (Parashurama),
+jo sabse adhik tejasvi aur shreshth the."""
             create_image_text_layout(
                 "attached_assets/chapter3/3.7.37.jpg",
                 text1,
@@ -16873,7 +16881,124 @@ Parashurama aur Kartavirya ka bhayanak sangharsh."""
                 image_position="left"
             )
 
-            text2 = """ """
+            text2 = """ 
+            🔥 Renuka ki Pariksha
+
+Ek din Renuka snan karne gayi.
+Wahan usne Raja Citraratha ko patniyon ke saath jal-krida karte dekha.
+
+Uske man mein ek kshan ke liye chanchalta aa gayi.
+Woh bhaybhit ho ashram laut aayi.
+
+Rishi Jamadagni ne turant samajh liya
+ki pativrata ka tej kam ho gaya hai.
+
+Unhone krodh mein putron ko aadesh diya:
+
+“Apni maa ka vadh karo!”
+
+Bade chaar putra sthambhit ho gaye.
+Virodh kiya.
+
+Rishi ne unhe shraap diya —
+ve nirjeev jaise ho gaye.
+
+⚔️ Parashurama ka Aadesh Palan
+
+Ant mein aaye Rama.
+
+Pita ne kaha:
+
+“Is durachari ko maar do.”
+
+Rama ne bina sankoch
+kulhadi se maa ka sir alag kar diya.
+
+Rishi prasann hue.
+Var maangne ko kaha.
+
+Rama ne maanga:
+
+Maa jeevit ho jaye
+
+Mujhe paap na lage
+
+Bhaiyon ko purva avastha mile
+
+Yuddh mein aparajit rahun
+
+Deerghayu prapt ho
+
+Sab var mil gaye.
+
+🐄 Kartavirya ka Apmaan
+
+Ek din Kartavirya ka putra
+ashram aaya.
+
+Renuka ne atithi satkar kiya.
+Par ahankari rajputra santusht na hua.
+
+Usne balpurvak:
+
+Kamadhenu ko chheen liya
+
+Vriksh tod daale
+
+⚔️ Kartavirya Arjuna ka Vadh
+
+Rama laut kar aaye.
+Pita se sab suna.
+
+Kamadhenu ki dukhad dhwani sun kar
+unke hriday mein agni jal uthi.
+
+Yuddh hua.
+
+Parashurama ne:
+
+Apne teer se
+
+Hazaar bahuon wale Arjuna ki
+
+Sab bahuen kaat di
+
+Kartavirya ka ant ho gaya.
+
+💔 Jamadagni ka Vadh
+
+Par Kartavirya ke putron ne badla liya.
+
+Jab Rama ashram mein nahi the,
+ve aaye aur tapasya mein lage Jamadagni ko
+teeron se maar dala.
+
+Jamadagni marte waqt
+“Rama! Rama!” pukarte rahe.
+
+😢 Parashurama ka Shok
+
+Rama ashram laute.
+Haath mein yagna ka lakdi samagri thi.
+
+Unhone dekha —
+Pita mrit avastha mein pade hain.
+
+Ve vilap karne lage.
+Krodh aur shok dono se unka hriday dahak utha.
+
+Is Adhyay ka Saar
+
+Agyakari bhakti bhi kathor pariksha deti hai.
+
+Ahankar aur anyaay ka phal vinash hai.
+
+Tapasya mein lage rishi bhi durjanon se bach nahi paate.
+
+Parashurama ka krodh ab vishva ko hilaane wala tha.
+
+Agla bhaag:
+Parashurama ka Kshatriyon ke viruddh pralay."""
             create_image_text_layout(
                 text_content=text2,
                 layout="full"
@@ -16883,7 +17008,27 @@ Parashurama aur Kartavirya ka bhayanak sangharsh."""
         # Section 3.7.38
         # --------------------------------------------------
         with st.expander("Section 3.7.38  Section CXVII"):
-            text1 = """ """
+            text1 = """ 
+            Section CXVII — Parashurama ka Pralay Sankalp
+
+Akritavrana bole:
+
+Jab Rama ne apne pita Jamadagni ka sharir dekha,
+unka hriday shok aur krodh se jal utha.
+
+🗡 Rama ka Vilap
+
+Rama bole:
+
+“Hey pita!
+Aap nirdosh, tapasvi, dharm-nishtha the.
+Phir bhi in durachari Kartavirya ke putron ne
+aapko baanon se maar dala.”
+
+Unhone pita ke antim sanskar kiye.
+Phir ek bhayankar pratigya li:
+
+“Main sampoorn Kshatriya vansh ka vinash karunga.”"""
             create_image_text_layout(
                 "attached_assets/chapter3/3.7.38.jpg",
                 text1,
@@ -16891,7 +17036,83 @@ Parashurama aur Kartavirya ka bhayanak sangharsh."""
                 image_position="left"
             )
 
-            text2 = """ """
+            text2 = """ 
+            ⚔️ Kshatriyon ka Vinash
+
+Rama, jo mrityu ke samaan bhayankar the:
+
+Kartavirya ke putron ko maar dala
+
+Teen baar unke anuyayiyon ko samapt kiya
+
+Saat baar prithvi ke Kshatriya vansh ka naash kiya
+
+Unhone Samantapanchaka kshetra mein
+paanch sarovar rakt se bhar diye.
+
+Wahan unhone apne purvajon (Bhrigu vansh) ko
+tarpan diya.
+
+Tab Rishi Richika prakat hue
+aur unhe upadesh diya.
+
+🪔 Mahayajna aur Daan
+
+Rama ne ek maha-yajna kiya.
+
+Devta prasann hue
+
+Prithvi ko Kasyapa ko daan diya
+
+Sone ka vishal vedi (altar) banwaya
+
+10 vyam chaurai
+
+9 vyam unchai
+
+Brahmanon ne use bhaagon mein baant liya.
+Isliye ve Khandavayama kahlaaye.
+
+Prithvi daan karne ke baad
+Rama Mahendra parvat par kathor tapasya mein lag gaye.
+
+🌄 Mahendra Parvat par Darshan
+
+Vaisampayana bole:
+
+Chaturdashi ke din
+Parashurama ne darshan diya:
+
+Mrig-charm pehne
+
+Jata dharan kiye
+
+Tejasvi aur shant
+
+Yudhishthira aur unke bhaiyon ne
+vinamrata se pranam kiya.
+
+Parashurama ne:
+
+Unki stuti ki
+
+Ashirvad diya
+
+Raat Mahendra parvat par bitakar
+Pandav dakshin disha ki or chal pade.
+
+Is Adhyay ka Saar
+
+Adharma ke viruddh dharma ka prahar kathor ho sakta hai.
+
+Krodh jab dharma se juda ho, tab woh pralay ban sakta hai.
+
+Parashurama shakti aur tapasya ka sangam the.
+
+Daan aur tapasya se hi krodh shant hota hai.
+
+Yeh Parashurama ki kathin leela thi —
+vinash aur tyag dono ka sangam."""
             create_image_text_layout(
                 text_content=text2,
                 layout="full"
@@ -16901,7 +17122,19 @@ Parashurama aur Kartavirya ka bhayanak sangharsh."""
         # Section 3.7.39
         # --------------------------------------------------
         with st.expander("Section 3.7.39  Section CXVIII"):
-            text1 = """ """
+            text1 = """ 
+            Section CXVIII — Dakshin Yatra aur Vrishniyon se Milan
+
+Vaisampayana bole:
+
+Yudhishthira apne bhaiyon ke saath samudra tat ke pavitra teerthon ka darshan karte hue aage badhe.
+Har sthal par:
+
+Snan kiya 🌊
+
+Pitron aur devtaon ko tarpana diya
+
+Brahmanon ko daan diya"""
             create_image_text_layout(
                 "attached_assets/chapter3/3.7.39.jpg",
                 text1,
@@ -16909,7 +17142,133 @@ Parashurama aur Kartavirya ka bhayanak sangharsh."""
                 image_position="left"
             )
 
-            text2 = """ """
+            text2 = """ 
+            🌊 Godavari aur Agastya Tirth
+
+Ve pavitra Godavari River par pahunche —
+jo seedha samudra mein girti hai.
+
+Wahan snan karke paap-mukt hue.
+
+Phir Dravida desh mein
+Agastya muni se sambandhit pavitra tirth dekha.
+
+🏹 Arjuna ki Mahima ka Shravan
+
+Wahan unhone Arjuna ke divya parakram ki kahani suni —
+jo aam manushya ke bas ki baat na thi.
+
+Rishiyon ne Yudhishthira ki prashansa ki.
+Pandav prasann hue.
+
+Hazaron gaay daan ki gayi. 🐄
+
+🌴 Suparaka aur Richika ki Vedi
+
+Ve aage badhkar Suparaka (Surparaka) pahunche
+(jo aaj ke Maharashtra ke samudra tat se juda mana jata hai).
+
+Yahan Yudhishthira ne dekha:
+
+Richika putra (Parashurama) ki prasiddh yajna-vedi
+
+Anek rishiyon ka samagam
+
+🛕 Dev Mandiron ka Darshan
+
+Wahan unhone vibhinna devtaon ke pavitra sthalon ka darshan kiya:
+
+Vishnu
+
+Shiva
+
+Indra
+
+Yama
+
+Kubera
+
+Surya
+
+Chandra
+
+Saraswati
+
+Rudra aur unke gan
+
+Siddha aur Sadhya
+
+Upvas kiya, ratna daan kiya, aur phir Prabhasa tirth pahunche.
+
+🌅 Prabhasa Tirth
+
+Prabhasa
+(jo aaj Somnath ke nikat mana jata hai)
+
+Yahan:
+
+12 din tak sirf vayu aur jal par jeevan
+
+Din-raat snan
+
+Agni se ghirkar tapasya
+
+Yudhishthira kathor tapasya mein lage.
+
+🤝 Krishna aur Balarama ka Aagman
+
+Yeh samachar sunkar:
+
+Balarama
+
+Krishna
+
+Vrishni sena ke saath wahan aaye.
+
+Jab unhone Pandavon ko dekha:
+
+Dhool se lipte
+
+Bhojan se kshina
+
+Draupadi dukhi avastha mein
+
+Unka hriday dukh se bhar gaya. 😢
+
+🪔 Milan aur Varta
+
+Yudhishthira ne unka satkar kiya.
+Krishna aur Balarama ne bhi Pandavon ko gale lagaya.
+
+Ve sab Indra ke darbar ki tarah
+Yudhishthira ke charon or baith gaye.
+
+Yudhishthira ne:
+
+Kauravon ki chaal
+
+Vanvaas ki kathinai
+
+Arjuna ka Indralok gaman
+
+sab kuch shant man se sunaya.
+
+Vrishniyon ko anand hua
+par Pandavon ki duravastha dekh kar
+aankhon se aansu bah nikle.
+
+Is Adhyay ka Saar
+
+Teerth yatra se sharir hi nahi, man bhi shuddh hota hai.
+
+Daan aur tapasya rajadharma ka ang hai.
+
+Sacha mitra dukh mein hi pehchana jata hai.
+
+Krishna aur Pandavon ka bandhan dharma aur sneha par adharit tha.
+
+Yeh yatra keval bhog nahi,
+tyag, tapasya aur mitrata ka pramaan thi."""
             create_image_text_layout(
                 text_content=text2,
                 layout="full"
@@ -16919,7 +17278,21 @@ Parashurama aur Kartavirya ka bhayanak sangharsh."""
         # Section 3.7.40
         # --------------------------------------------------
         with st.expander("Section 3.7.40  Section CXIX"):
-            text1 = """ """
+            text1 = """ 
+            Section CXIX — Prabhasa mein Balarama ka Krodh
+
+Janamejaya ne puchha:
+
+“Prabhasa tirth par Pandav aur Vrishniyon ke beech kya samvad hua?”
+
+Vaisampayana bole:
+
+Jab Vrishni log Prabhasa pahunche,
+ve Pandavon ke charon or baith gaye aur unki seva ki.
+
+Tab shwet-varn, hal-dhari, komal par shaktishali
+Balarama ne
+padma-nayan Krishna se kaha:"""
             create_image_text_layout(
                 "attached_assets/chapter3/3.7.40.jpg",
                 text1,
@@ -16927,7 +17300,101 @@ Parashurama aur Kartavirya ka bhayanak sangharsh."""
                 image_position="left"
             )
 
-            text2 = """ """
+            text2 = """ 
+            ⚖️ Dharma par Sandeh
+
+“Mujhe samajh nahi aata —
+kya dharma ka palan sach mein phal deta hai?
+Yudhishthira jaise dharm-nishtha raja
+van mein dukh bhog rahe hain,
+aur Duryodhana rajya bhog raha hai!”
+
+Balarama ka hriday krodh aur karuna se bhar gaya tha.
+
+Unhone kaha:
+
+Yudhishthira satyavaadi hain
+
+Dharm se kabhi nahin hatte
+
+Rajya chhod sakte hain, dharm nahi
+
+Phir bhi ve vanvaas mein dukh bhog rahe hain।
+
+😠 Kauravon par Prashn
+
+Balarama bole:
+
+“Bhishma, Drona, Kripa, aur vriddh raja
+kaise shaant reh sakte hain
+jab Pandavon ko anyay se van bhej diya gaya?”
+
+Unhone Dhritarashtra ko ninda ki:
+
+“Kya woh apne purvajon ko kya jawab dega?”
+
+💪 Bhima ki Shakti
+
+Balarama ne Bhima ki taraf dekhkar kaha:
+
+“Yeh Bhima —
+apni bahuon se senaon ko mita sakta hai.
+Iski garjana se shatru kamp uthte hain.”
+
+Par ab:
+
+Vriksh-chhal ke vastra
+
+Bhookh-pyaas se kshina
+
+Van mein bhatakta hua
+
+Balarama ne bhavishyavani ki:
+
+“Jab yeh yuddh-bhoomi mein khada hoga,
+apna vanvaas yaad karke
+ek bhi shatru nahi chhodega.”
+
+🏹 Nakula aur Sahadeva
+
+Sahadeva ne dakshin ke rajaon ko jeeta
+
+Nakula ne pashchim ko
+
+Par ab dono tapasvi jaisa jeevan jee rahe hain।
+
+👑 Draupadi ka Dukh
+
+Balarama ne Draupadi ko dekha —
+raj-kul mein janmi,
+yajna-vedi se utpann,
+hamesha sukh ki adhikari।
+
+Ab van mein dukh sah rahi hai।
+
+🌍 Prashn jo Sabko Hila De
+
+Balarama ne antim mein kaha:
+
+“Jab Dharm ka putra parajit hua,
+aur Duryodhana phala-phoola,
+tab prithvi apne pahadon ke saath
+dhans kyun nahi gayi?”
+
+🪔 Is Adhyay ka Saar
+
+Dharma ka marg turant phal nahi deta.
+
+Anyay kabhi-kabhi samayik roop se jeet sakta hai.
+
+Shakti aur dhairya dono Pandavon mein maujood hain.
+
+Balarama ka krodh mitrata aur nyay ke liye tha.
+
+Yeh samvad prashn uthata hai:
+“Kya dharma hamesha turant vijay deta hai?”
+
+Uttar abhi baaki hai."""
             create_image_text_layout(
                 text_content=text2,
                 layout="full"
@@ -16937,7 +17404,25 @@ Parashurama aur Kartavirya ka bhayanak sangharsh."""
         # Section 3.7.41
         # --------------------------------------------------
         with st.expander("Section 3.7.41  Section CXX"):
-            text1 = """ """
+            text1 = """ 
+            Section CXX — Satyaki ka Yuddh-Sankalp aur Yudhishthira ka Dharma
+⚔️ Satyaki ka Utsaah
+
+Prabhasa tirth par baithkar,
+veer Satyaki ne krodh se kaha:
+
+“Hey Rama! Ab shok ka samay nahi.
+Yudhishthira chup hain, par hum chup kyun rahen?”
+
+Unhone yaad dilaya ki:
+
+Yudhishthira ke saath Krishna, Balarama,
+
+Pradyumna, Samba,
+
+aur swayam Satyaki jaise veer hain.
+
+Phir bhi Pandav van mein dukh bhog rahe hain!"""
             create_image_text_layout(
                 "attached_assets/chapter3/3.7.41.jpg",
                 text1,
@@ -16945,7 +17430,94 @@ Parashurama aur Kartavirya ka bhayanak sangharsh."""
                 image_position="left"
             )
 
-            text2 = """ """
+            text2 = """ 
+            🛡 Yuddh ka Aahvan
+
+Satyaki ne prastav rakha:
+
+Dasarha sena turant march kare
+
+Dhritarashtra ke putron ko yuddh mein maar diya jaye
+
+Duryodhana ko Indra jaise Vritra ko maara tha, waise samapt kiya jaye
+
+Unhone kaha:
+
+“Main swayam Duryodhana ka sir kaat doonga.”
+
+Unhone Pradyumna, Samba, Aniruddha,
+aur Vrishni, Bhoja, Andhaka sena ki shakti ka varnan kiya।
+
+Unka vishwas tha:
+
+“Abhimanyu raj kare jab tak Yudhishthira vrat poora karein.”
+
+🕊 Krishna ka Uttar
+
+Tab Krishna bole:
+
+“Tumhari baat satya hai.
+Par Yudhishthira kabhi bhi doosron ki shakti se jeeta rajya sweekar nahi karenge.”
+
+Krishna ne spasht kaha:
+
+Yudhishthira satya aur dharma ko rajya se upar rakhte hain
+
+Bhima aur Arjuna swayam aparajit hain
+
+Nakula-Sahadeva bhi shaktishali hain
+
+Samay aane par sab shatru naash ho jayenge.
+
+🪔 Yudhishthira ka Dharm-Sankalp
+
+Ant mein Yudhishthira bole:
+
+“Rajya se bhi upar satya hai.
+Main apna vrat todkar vijay nahi chahunga.”
+
+Unhone kaha:
+
+“Krishna mujhe jaante hain,
+aur main Krishna ko jaanta hoon.”
+
+Ve shant, sthir aur dharma-nishtha the.
+
+🤝 Viyog aur Agla Prayaan
+
+Yadava aur Pandavon ne:
+
+Buzurgon ko pranam kiya
+
+Yuvaon ko gale lagaya
+
+Phir apne-apne marg par chal pade
+
+Pandav Lomasa ke saath
+Payosini River ke tat par pahunche।
+
+Wahan:
+
+Snan kiya
+
+Brahmanon ne stuti ki
+
+Teerth yatra jaari rakhi
+
+🌿 Is Adhyay ka Saar
+
+Veerta aur dharma ka santulan zaruri hai.
+
+Turant badla lena sahaj hai, par dharma nibhana kathin.
+
+Yudhishthira ka bal unka satya tha.
+
+Krishna jaante the — samay aane par nyay hoga.
+
+Yeh samvad sikhata hai:
+
+Dharma turant vijay nahi deta,
+par antim vijay sada dharma ki hi hoti hai."""
             create_image_text_layout(
                 text_content=text2,
                 layout="full"
