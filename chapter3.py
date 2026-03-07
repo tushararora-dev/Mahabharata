@@ -17527,7 +17527,14 @@ par antim vijay sada dharma ki hi hoti hai."""
         # Section 3.7.42
         # --------------------------------------------------
         with st.expander("Section 3.7.42  Section CXXI"):
-            text1 = """ """
+            text1 = """ 
+            Section CXXI — Tirtha Yatra aur Raja Gaya ki Mahima
+🏞 Lomasa Rishi ki Kahani
+
+Rishi Lomasa ne
+Raja Yudhishthira ko ek pavitra jagah ke baare mein bataya.
+
+Unhone kaha:"""
             create_image_text_layout(
                 "attached_assets/chapter3/3.7.42.jpg",
                 text1,
@@ -17535,7 +17542,172 @@ par antim vijay sada dharma ki hi hoti hai."""
                 image_position="left"
             )
 
-            text2 = """ """
+            text2 = """ 
+            “Hey raja, yahan kabhi Nriga ne ek maha-yajna kiya tha.”
+
+Us yajna mein:
+
+Indra ko Soma ras chadhaya gaya
+
+Indra bahut prasann hue
+
+sab devta bhi wahan aaye
+
+Sabhi purohit ko bahut bada daan diya gaya.
+
+👑 Raja Gaya ke Mahayajna
+
+Phir Lomasa ne ek aur mahan raja ka zikr kiya:
+
+King Gaya
+
+Is raja ne:
+
+7 Ashvamedha yajna kiye
+
+har yajna bahut bhavya tha
+
+Sab yajna ki vastu:
+
+khambe
+
+bartan
+
+chamach
+
+yajna ke saadhan
+
+sab sone ke bane hue the.
+
+Har yajna stambh par 7 sone ke chhalle lagaye gaye the.
+
+Devta khud aakar un yajna stambhon ko sthapit karte the.
+
+💰 Apar Daan
+
+Raja Gaya ne itna daan diya ki:
+
+dharti ki ret
+
+aasman ke tare
+
+baarish ki boonden
+
+shayad gin sakte ho,
+
+lekin
+
+Gaya ka diya hua dhan ginna mumkin nahi tha.
+
+Purohit aur brahman sab bahut prasann hue.
+
+🪔 Sone ki Saraswati Murti
+
+Raja Gaya ne ek aur anokha daan diya.
+
+Unhone:
+
+Saraswati devi ki sone ki murtiyan banwayi
+
+aur sab brahmanon ko daan di.
+
+Isse sab log bahut khush hue.
+
+🌟 Gaya ka Swarg Prapti
+
+Apne mahan yajna aur daan ke karan
+Raja Gaya ko antim mein Indra lok mila.
+
+Lomasa ne kaha:
+
+“Jo vyakti Payosini nadi mein snan karta hai,
+use bhi Gaya ke samaan punya milta hai.”
+
+🌊 Pandavo ka Snan
+
+Yeh sunkar:
+
+Yudhishthira
+
+aur unke bhai
+
+sabne Payosini nadi mein snan kiya.
+
+Iske baad ve apni tirth yatra jaari rakhte hue aage badhe.
+
+⛰ Narmada aur Sapphire Hill
+
+Pandav phir gaye:
+
+Narmada River
+
+aur Sapphire Hill
+
+Wahan Rishi Lomasa ne unhe:
+
+pavitra tirth
+
+devtaon ke mandir
+
+aur dharmik sthalon
+
+ke baare mein bataya.
+
+Pandav ne sab jagah darshan kiya.
+
+Aur hazaron brahmanon ko daan diya.
+
+🔱 Ek Aur Pavitra Kahani
+
+Lomasa ne ek aur purani kahani sunai.
+
+Yahan kabhi Raja Saryati ne yajna kiya tha.
+
+Us yajna mein:
+
+Indra swayam aaye
+
+aur Soma ras piya.
+
+Lekin ek rishi ko is par krodh aa gaya.
+
+Vah rishi the:
+
+Chyavana
+
+Unhone Indra ko rok diya aur use sthir kar diya.
+
+Phir unhone apni patni Sukanya ko prapt kiya.
+
+❓ Yudhishthira ka Prashn
+
+Yeh kahani sunkar Yudhishthira ne pucha:
+
+“Rishi Chyavana ne Indra ko kaise rok diya?”
+
+Aur:
+
+unhe krodh kyun aaya?
+
+unhone Ashwini Kumar ko Soma ras peene ka adhikar kaise diya?
+
+Yudhishthira ne Lomasa se kaha:
+
+“Kripya poori kahani batayein.”
+
+🌿 Adhyay ka Saar
+
+Is adhyay mein teen baatein sikhne ko milti hain:
+
+Raja Gaya bahut bade daanveer aur dharmik raja the.
+
+Tirth yatra aur pavitra nadiyon mein snan paap ko mita deta hai.
+
+Pandav apni vanvaas yatra mein kai pavitra tirthon ka darshan kar rahe the.
+
+Agla adhyay batayega:
+
+Rishi Chyavana aur Indra ke beech kya hua."""
             create_image_text_layout(
                 text_content=text2,
                 layout="full"
@@ -17545,7 +17717,32 @@ par antim vijay sada dharma ki hi hoti hai."""
         # Section 3.7.43
         # --------------------------------------------------
         with st.expander("Section 3.7.43  Section CXXII"):
-            text1 = """ """
+            text1 = """ 
+            Section CXXII — Cyavana Rishi aur Sukanya ki Kahani
+🧘 Cyavana ki Tapasya
+
+Rishi Chyavana
+mahan rishi Bhrigu ke putra the.
+
+Ve ek jheel ke paas kathin tapasya kar rahe the.
+
+ve bilkul sthir baith gaye
+
+jaise ek lakdi ka khamba ho
+
+bahut saalon tak wahi baithe rahe
+
+Dheere-dheere:
+
+unke sharir par cheentiyaan chalne lagi
+
+mitti jama ho gayi
+
+aur unke charo taraf anthill (valmiki) ban gaya
+
+Bahut samay baad rishi bilkul mitti ke dher jaise dikhne lage.
+
+Lekin ve fir bhi tapasya karte rahe."""
             create_image_text_layout(
                 "attached_assets/chapter3/3.7.43.jpg",
                 text1,
@@ -17553,7 +17750,127 @@ par antim vijay sada dharma ki hi hoti hai."""
                 image_position="left"
             )
 
-            text2 = """ """
+            text2 = """ 
+            👑 Raja Saryati ka Aana
+
+Ek din raja Saryati
+apni sena aur parivar ke saath us jheel ke paas ghoomne aaye.
+
+Unke saath thi unki sundar beti:
+
+Sukanya
+
+Sukanya:
+
+jawaan
+
+sundar
+
+aur apni saheliyon ke saath jungle mein ghoom rahi thi.
+
+🌟 Ajeeb Chamak
+
+Jungle mein ghoomte hue Sukanya ko
+anthill ke andar do chamakdar bindu dikhai diye.
+
+Use laga:
+
+“Shayad ye jugnu (glow-worm) honge.”
+
+Jigyasa se usne kaanton se unhe chhed diya.
+
+Lekin sach mein woh:
+
+Cyavana rishi ki aankhen thi.
+
+Unki aankhen chhed di gayi.
+
+😡 Rishi ka Krodh
+
+Rishi ko bahut dard hua aur ve krodhit ho gaye.
+
+Apne tapasya bal se unhone raja ki sena par shraap jaisa prabhav dala.
+
+Achaanak:
+
+sab logon ke sharir ki prakritik kriya ruk gayi
+
+sab bahut kasht mein pad gaye
+
+🤔 Raja ki Jaanch
+
+Raja Saryati ne poocha:
+
+“Kisne rishi ko apmaanit kiya hai?”
+
+Lekin kisi ko kuch pata nahi tha.
+
+Tab Sukanya ne sach bata diya:
+
+“Maine anthill mein do chamak dekhi thi
+aur maine unhe kaanton se chhed diya.”
+
+🙏 Raja ka Prarthana
+
+Raja turant anthill ke paas gaye
+aur rishi Cyavana ko dekha.
+
+Raja ne haath jod kar kaha:
+
+“Hey rishi, meri beti ne ajnan aur bachpana mein galti ki hai.
+Kripya use maaf kar dijiye.”
+
+💍 Rishi ki Shart
+
+Cyavana rishi bole:
+
+“Tumhari beti ne meri aankhen chhed di hain.”
+
+Phir unhone kaha:
+
+“Agar tum use meri patni bana do,
+tab main tumhe maaf kar dunga.”
+
+👰 Sukanya ka Vivaah
+
+Raja Saryati ne turant apni beti
+Sukanya ka vivaah Cyavana rishi se kar diya.
+
+Rishi prasann ho gaye
+aur sena ka kasht khatam ho gaya.
+
+🌿 Sukanya ki Seva
+
+Sukanya ek satyavrat patni bani.
+
+Usne:
+
+apne vriddh pati ki seva ki
+
+tapasya mein sahayata ki
+
+mehmano ka satkar kiya
+
+agni aur dharm ka palan kiya
+
+Woh poori shraddha aur nishtha se
+rishi Cyavana ki seva karti rahi.
+
+🌟 Is Kahani ka Sandesh
+
+Is kahani se kuch bade sandesh milte hain:
+
+Jigyasa aur laparwahi kabhi-kabhi badi galti ban sakti hai.
+
+Rishiyon ka apmaan karna bahut bada paap mana jata tha.
+
+Sukanya ne apni galti ko sweekar kiya aur dharm se jeevan bitaya.
+
+Patni ki nishtha aur seva ko bahut mahan mana gaya.
+
+Agla bhaag batayega:
+
+Cyavana rishi kaise jawaan hue aur Indra se unka vivaad kaise hua."""
             create_image_text_layout(
                 text_content=text2,
                 layout="full"
@@ -17563,7 +17880,20 @@ par antim vijay sada dharma ki hi hoti hai."""
         # Section 3.7.44
         # --------------------------------------------------
         with st.expander("Section 3.7.44  Section CXXIII"):
-            text1 = """ """
+            text1 = """ 
+            Section CXXIII — Cyavana Rishi ka Yuva Hona
+🌸 Sukanya aur Ashwini Kumaron ka Milan
+
+Rishi Chyavana ki patni
+Sukanya ek din snan karke jheel se bahar aa rahi thi.
+
+Tabhi wahan aaye devta:
+
+Ashwini Kumaras
+
+Ye dono devta devtaon ke vaidya (physicians) the.
+
+Unhone Sukanya ko dekha aur uski sundarta par mohit ho gaye."""
             create_image_text_layout(
                 "attached_assets/chapter3/3.7.44.jpg",
                 text1,
@@ -17571,7 +17901,135 @@ par antim vijay sada dharma ki hi hoti hai."""
                 image_position="left"
             )
 
-            text2 = """ """
+            text2 = """ 
+            Unhone pucha:
+
+“Hey sundari, tum kaun ho?
+Tum kiski beti ho aur is jungle mein kya kar rahi ho?”
+
+Sukanya ne sharmate hue jawab diya:
+
+“Main Raja Saryati ki beti hoon aur Cyavana rishi ki patni hoon.”
+
+💬 Ashwini Kumaron ka Prastav
+
+Ashwini Kumaron ne muskura kar kaha:
+
+“Tum itni sundar ho, phir tumne itne vriddh rishi se shaadi kyun ki?”
+
+Unhone kaha:
+
+tumhari sundarta swarg ki apsaraon jaisi hai
+
+tumhe yahan jungle mein aise nahi rehna chahiye
+
+Phir unhone prastav diya:
+
+“Cyavana ko chhod do aur hum dono mein se kisi ek ko pati bana lo.”
+
+🌿 Sukanya ki Pativrata Bhakti
+
+Sukanya ne turant jawab diya:
+
+“Main apne pati ke prati poori tarah nishthavan hoon.
+Main unhe kabhi nahi chhodungi.”
+
+Yeh sunkar Ashwini Kumar bole:
+
+“Hum devtaon ke vaidya hain.”
+
+Unhone kaha:
+
+“Hum tumhare pati ko phir se jawaan aur sundar bana sakte hain.”
+
+Phir unhone shart rakhi:
+
+“Uske baad tum hum teenon mein se kisi ek ko pati chun lena.”
+
+🧘 Cyavana ka Nirnay
+
+Sukanya ne jaakar sab baat
+Cyavana rishi ko batayi.
+
+Rishi ne kaha:
+
+“Theek hai, jo ve keh rahe hain vah karo.”
+
+Phir Sukanya ne Ashwini Kumaron ko haan kar di.
+
+🌊 Jheel ka Adbhut Chamatkar
+
+Ashwini Kumaron ne kaha:
+
+“Apne pati ko jheel mein snan karne bhejo.”
+
+Cyavana rishi jheel mein utar gaye.
+
+Thodi der baad:
+
+Ashwini Kumar bhi paani mein gaye
+
+Aur jab ve bahar nikle,
+
+to teenon ek jaise jawaan aur sundar dikh rahe the.
+
+Sab:
+
+ek jaise roop
+
+ek jaise gehne
+
+ek jaise tej
+
+🤔 Sukanya ki Pariksha
+
+Ashwini Kumar bole:
+
+“Ab tum hum teenon mein se apne pati ko pehchano.”
+
+Sukanya ne dhyan se dekha.
+
+Apni buddhi aur pativrata bhakti se
+usne sahi pehchan liya.
+
+Aur usne Cyavana rishi ko hi chuna.
+
+🎉 Rishi ka Vachan
+
+Cyavana rishi bahut prasann hue.
+
+Unhone Ashwini Kumaron se kaha:
+
+“Tumne mujhe jawani aur sundarta di hai.”
+
+Isliye rishi ne vachan diya:
+
+“Main tumhe Soma ras peene ka adhikar dilaoonga
+aur woh bhi Indra ke saamne.”
+
+Yeh bahut bada samman tha.
+
+☁️ Devtaon ki Khushi
+
+Yeh sunkar Ashwini Kumar bahut khush hue
+aur swarg laut gaye.
+
+Cyavana rishi aur Sukanya bhi
+bahut khushi se apna jeevan bitane lage.
+
+🌟 Adhyay ka Saar
+
+Is kahani se kuch bade sandesh milte hain:
+
+Sukanya ki pativrata nishtha bahut mahan thi.
+
+Ashwini Kumar devtaon ke vaidya the aur chamatkar kar sakte the.
+
+Cyavana rishi ne unke upkaar ke badle unhe Soma ras ka adhikar dilane ka vachan diya.
+
+Agla bhaag batayega:
+
+Cyavana rishi ka Indra se vivaad kaise hua aur Ashwini Kumaron ko Soma ras ka adhikar kaise mila."""
             create_image_text_layout(
                 text_content=text2,
                 layout="full"
@@ -17581,7 +18039,23 @@ par antim vijay sada dharma ki hi hoti hai."""
         # Section 3.7.45
         # --------------------------------------------------
         with st.expander("Section 3.7.45  Section CXXIV"):
-            text1 = """ """
+            text1 = """ 
+            Section CXXIV — Cyavana Rishi aur Indra ka Vivaad
+👑 Raja Saryati ka Aana
+
+Jab raja Saryati ko pata chala ki
+rishi Chyavana ab jawaan ho gaye hain,
+toh ve bahut khush hue.
+
+Ve apni sena ke saath rishi ke ashram gaye.
+
+Wahan unhone dekha:
+
+Cyavana rishi jawaan aur tejasvi ho gaye the
+
+unke saath unki patni Sukanya thi
+
+Dono ko dekhkar raja aur rani bahut prasann hue."""
             create_image_text_layout(
                 "attached_assets/chapter3/3.7.45.jpg",
                 text1,
@@ -17589,7 +18063,142 @@ par antim vijay sada dharma ki hi hoti hai."""
                 image_position="left"
             )
 
-            text2 = """ """
+            text2 = """ 
+            🔥 Maha Yajna ki Tayari
+
+Cyavana rishi ne raja se kaha:
+
+“Hey raja, tum ek maha-yajna karo.
+Main us yajna mein tumhara purohit banunga.”
+
+Raja Saryati bahut khush hue.
+
+Unhone turant:
+
+ek bada yajna mandap banwaya
+
+sabhi pavitra vastu ikatthi ki
+
+Phir yajna shuru hua.
+
+🪔 Soma Ras ka Vivad
+
+Yajna ke dauran Cyavana rishi ne
+Ashwini Kumaras ko
+Soma ras dene ka faisla kiya.
+
+Lekin tabhi aa gaye:
+
+Indra
+
+Indra ne turant mana kar diya.
+
+Unhone kaha:
+
+“Ashwini Kumar Soma ras ke adhikari nahi hain.”
+
+Indra ne kaha:
+
+ve devtaon ke vaidya hain
+
+aur manushyon ke beech ghoomte hain
+
+Isliye ve Soma ras nahi pee sakte.
+
+⚖️ Cyavana ka Jawab
+
+Cyavana rishi bole:
+
+“Ashwini Kumar bhi devta hain.”
+
+Unhone kaha:
+
+unhone mujhe jawani aur sundarta di
+
+isliye ve Soma ras ke yogya hain
+
+Lekin Indra fir bhi nahi maana.
+
+⚡ Indra ki Dhamki
+
+Indra gusse mein bole:
+
+“Agar tum Soma ras Ashwini Kumaron ko doge,
+to main apna vajra (thunderbolt) tum par chala dunga.”
+
+Lekin Cyavana rishi bilkul nahi dare.
+
+Unhone shant rehkar Soma ras uthaya
+aur Ashwini Kumaron ko dene lage.
+
+🧙 Rishi ki Shakti
+
+Indra ne apna vajra uthane ki koshish ki.
+
+Lekin usi pal:
+
+Cyavana rishi ne apni tapasya shakti se
+Indra ka haath hi sthir kar diya.
+
+Indra ka haath hil nahi pa raha tha.
+
+👹 Mada Asura ka Janm
+
+Phir Cyavana rishi ne yajna mantra padhe.
+
+Apni tapasya shakti se
+unhone ek bhayanak asura paida kiya.
+
+Uska naam tha:
+
+Mada
+
+Mada bahut hi darawna tha.
+
+Uska roop itna bada tha ki:
+
+ek jabda dharti tak pahunch raha tha
+
+doosra swarg tak
+
+Uske:
+
+daant pahadon jaise bade
+
+aankhen suraj aur chand jaisi
+
+Uska muh khula tha
+jaise vah poori duniya ko nigal lega.
+
+🌍 Devtaon ka Dar
+
+Mada asura seedha
+Indra ki taraf badhne laga.
+
+Uska iraada tha:
+
+Indra ko nigal jana.
+
+Uski bhayanak garaj se
+poori duniya hil uthi.
+
+Sab devta dar gaye.
+
+🌟 Adhyay ka Saar
+
+Is adhyay se kuch bade sandesh milte hain:
+
+Tapasya aur dharm ki shakti bahut badi hoti hai.
+
+Cyavana rishi ne Ashwini Kumaron ka upkaar nahi bhoola.
+
+Indra jaise devta bhi kabhi-kabhi ahankar kar dete hain.
+
+Rishi ki tapasya shakti se ek bhayanak asura bhi utpann ho sakta hai.
+
+Agla bhaag batayega:
+
+Indra ka kya hua aur Ashwini Kumaron ko Soma ras ka adhikar kaise mila."""
             create_image_text_layout(
                 text_content=text2,
                 layout="full"
@@ -17599,7 +18208,24 @@ par antim vijay sada dharma ki hi hoti hai."""
         # Section 3.7.46
         # --------------------------------------------------
         with st.expander("Section 3.7.46  Section CXXV"):
-            text1 = """ """
+            text1 = """ 
+            Section CXXV — Indra ka Dar aur Mada ka Ant
+👹 Indra ka Bhay
+
+Jab Indra ne bhayanak asura Mada ko apni taraf aate dekha,
+toh vah bahut dar gaya.
+
+Mada ka roop itna bhayanak tha ki:
+
+uska muh bahut bada tha
+
+vah Indra ko nigalne ke liye badh raha tha
+
+uski shakti bahut bhayankar thi
+
+Aur Indra ka haath bhi abhi tak Cyavana rishi ki tapasya shakti se sthir tha.
+
+Indra bhay se kaanpne laga."""
             create_image_text_layout(
                 "attached_assets/chapter3/3.7.46.jpg",
                 text1,
@@ -17607,7 +18233,127 @@ par antim vijay sada dharma ki hi hoti hai."""
                 image_position="left"
             )
 
-            text2 = """ """
+            text2 = """ 
+            🙏 Indra ki Vinati
+
+Dar ke maare Indra ne turant rishi
+Chyavana
+se prarthana ki.
+
+Usne kaha:
+
+“Hey Bhrigu putra, aaj se Ashwini Kumar bhi Soma ras peene ke adhikari honge.”
+
+Indra ne yeh bhi kaha:
+
+“Main tumhari shakti aur mahima ko duniya mein dikhana chahta tha.”
+
+Aur usne daya ki bheekh maangi.
+
+🕊 Cyavana ka Krodh Shant
+
+Indra ki baat sunkar Cyavana rishi ka krodh shant ho gaya.
+
+Unhone Indra ko chhod diya.
+
+Aur phir unhone Mada asura ko tukdon mein baant diya.
+
+Us Mada ko unhone alag-alag jagah baant diya:
+
+sharab aur nasha
+
+striyon ki aasakti
+
+jua
+
+shikar aur khel
+
+Is prakar Mada ka bhayanak roop samapt ho gaya.
+
+🪔 Yajna ki Purnahuti
+
+Iske baad:
+
+Ashwini Kumar ko Soma ras mila
+
+sab devta santusht hue
+
+raja Saryati ka yajna safal hua
+
+Cyavana rishi ka naam aur mahima sab jagah phail gayi.
+
+Phir rishi Sukanya ke saath van mein shanti se rehne lage.
+
+🌊 Pavitra Tirth ka Darshan
+
+Rishi Lomasa ne
+Yudhishthira se kaha:
+
+“Yeh wahi pavitra jheel hai jahan Cyavana rishi rehte the.”
+
+Unhone kaha:
+
+yahan snan karo
+
+devta aur pitron ko jal arpan karo
+
+Isse sab paap nasht ho jate hain.
+
+⛰ Archika Parvat
+
+Lomasa ne ek aur pavitra sthal dikhaya:
+
+Archika Hill
+
+Yeh jagah bahut pavitra thi.
+
+Yahan:
+
+sab ritu ke phal hamesha milte the
+
+pavitra nadia behati thi
+
+devta aur rishi tapasya karte the
+
+🌿 Mahaan Rishiyon ka Sthal
+
+Is pavitra sthal par tapasya karne wale mahan log:
+
+Nara
+
+Narayana
+
+Aur kai mahan rishi yahan tapasya kar chuke the.
+
+Yahan ek pavitra nadi bhi behati thi:
+
+Yamuna River
+
+Yeh nadi paap ko nasht karne wali mani jati thi.
+
+🌟 Pavitra Rajaon ki Tapasya
+
+Is pavitra sthal par kai mahan rajaon ne yajna kiye:
+
+Mandhata
+
+Somaka
+
+Sabne yahan devtaon ke liye yajna kiya.
+
+🌟 Adhyay ka Saar
+
+Is kahani se kuch mahatvapurn baatein samajh aati hain:
+
+Rishi ki tapasya shakti devtaon se bhi balwan ho sakti hai.
+
+Ashwini Kumaron ko Cyavana rishi ki wajah se Soma ras ka adhikar mila.
+
+Mada (ahankar aur nasha) manushya ko bhrasht kar sakta hai.
+
+Tirth yatra aur pavitra nadiyon mein snan paap ko mita dete hain.
+
+Iske baad Pandav apni tirth yatra aage badhate hain aur naye pavitra sthalon ka darshan karte hain."""
             create_image_text_layout(
                 text_content=text2,
                 layout="full"
