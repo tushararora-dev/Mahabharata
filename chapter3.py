@@ -18363,7 +18363,26 @@ Iske baad Pandav apni tirth yatra aage badhate hain aur naye pavitra sthalon ka 
         # Section 3.7.47
         # --------------------------------------------------
         with st.expander("Section 3.7.47  Section CXXVI"):
-            text1 = """ """
+            text1 = """ 
+            Section CXXVI – The Birth of King Mandhata
+
+Ek din Yudhishthira ne rishi Lomasa se ek prashn poocha.
+
+Unhone kaha,
+“Hey mahan Brahmana, mujhe bataiye King Mandhata ka janm kaise hua?
+
+Woh bahut mahan raja the.
+Unki kirti teenon lokon mein faili hui thi.
+
+Woh itne shaktishali kaise bane?
+Aur unka naam Mandhata kaise pada?
+
+Mujhe unki poori kahani sunni hai.”
+
+Rishi Lomasa muskuraye aur bole,
+
+“Dhyaan se suno, hey rajan.
+Main tumhe ek adbhut kahani sunata hoon.”"""
             create_image_text_layout(
                 "attached_assets/chapter3/3.7.47.jpg",
                 text1,
@@ -18371,7 +18390,168 @@ Iske baad Pandav apni tirth yatra aage badhate hain aur naye pavitra sthalon ka 
                 image_position="left"
             )
 
-            text2 = """ """
+            text2 = """ 
+            Bahut samay pehle King Yuvanasva naam ke raja the.
+Woh Ikshvaku vansh ke mahan raja the.
+
+Unhone bahut saare yajna aur dharmik karm kiye.
+Unhone hazaar Ashvamedha yajna bhi kiye.
+
+Woh bahut dayalu aur dharmic the.
+Lekin unki ek badi chinta thi.
+
+Unke koi santaan nahi thi.
+
+Is baat se raja bahut dukhi rehte the.
+
+Isliye unhone rajya ka kaam
+apne mantriyon ko de diya
+aur khud jungle mein tapasya karne chale gaye.
+
+Ek din raja bahut bhookhe aur pyase the.
+
+Woh rishi Bhrigu ke ashram pahunch gaye.
+
+Us raat rishiyon ne ek special yajna kiya tha.
+
+Yeh yajna isliye tha
+taaki raja ko ek divya putra mil sake.
+
+Ashram mein ek bada kalash (jar) rakha tha.
+Usme pavitra mantraon se siddh jal bhara hua tha.
+
+Rishiyon ne kaha tha:
+
+“Yeh jal agar raja ki rani piyegi,
+toh usse ek mahan putra janm lega.”
+
+Rishiyon ne kalash ko wahin rakha
+aur thak kar so gaye.
+
+Us waqt raja bahut pyase the.
+Unka gala bilkul sookh gaya tha.
+
+Unhone dheere se awaaz lagayi,
+“koi hai? mujhe paani chahiye…”
+
+Lekin rishiyon ne unki awaaz nahi suni.
+
+Tab raja ne kalash mein paani dekha.
+
+Woh turant uske paas gaye
+aur paani pee liya.
+
+Thanda paani peete hi
+unhe bahut rahat mili.
+
+Kuch der baad rishi jag gaye.
+
+Unhone dekha ki kalash ka paani gayab hai.
+
+Sabne poocha,
+“Yeh paani kisne piya?”
+
+Tab raja Yuvanasva ne sach bataya,
+“Woh paani maine piya hai.”
+
+Yeh sunkar rishi Bhrigu ke putra bole,
+
+“Rajan, yeh paani aapke liye nahi tha.
+
+Yeh paani aapki rani ko pilane ke liye tha,
+taaki aapko ek mahan putra mile.
+
+Ab jo ho gaya hai,
+use badla nahi ja sakta.
+
+Yeh sab bhagya ki ichchha hai.”
+
+Phir rishiyon ne kaha,
+
+“Ab ek adbhut baat hogi.
+
+Kyunki aapne woh pavitra jal piya hai,
+isliye aap hi ek putra ko janm denge.”
+
+Samay beet gaya.
+
+100 saal baad, ek chamatkar hua.
+
+Raja ke left side se
+ek chamakta hua bachcha janm hua.
+
+Woh suraj ki tarah tej tha.
+
+Sabse adbhut baat yeh thi
+ki raja zinda bhi rahe.
+
+Sab devta is chamatkar ko dekhne aaye.
+
+Tab Indra bhi wahan aaye.
+
+Devtaon ne Indra se poocha,
+
+“Yeh bachcha kya piyega?”
+
+Tab Indra ne apni ungli bachche ke muh mein rakhi
+aur kaha,
+
+“Yeh mujhe piyega.”
+
+Sanskrit mein iska matlab tha
+“Maam dhata”.
+
+Isi wajah se us bachche ka naam pada
+Mandhata.
+
+Mandhata bahut shaktishali aur buddhiman bane.
+
+Woh bachpan se hi
+ved aur dhanurvidya jaante the.
+
+Unhone sab kuch
+apni buddhi se hi seekh liya.
+
+Unke paas ek divya dhanush Ajagava aaya
+aur shaktishali baan bhi mile.
+
+Khud Indra ne unhe raja bana diya.
+
+Mandhata ne dharma ke saath rajya kiya
+aur poori dharti par vijay prapt ki.
+
+Woh itne mahan the
+ki log kehte the:
+
+“Woh dharti par raj karte hain
+jaise Vishnu teen lokon par raj karte hain.”
+
+Mandhata ne bahut yajna aur daan kiye.
+
+Unhone hazaron gaayen brahmanon ko daan di.
+
+Ek baar 12 saal tak sukha pada.
+
+Tab Mandhata ne apni shakti se
+baarish bhi karva di.
+
+Unhone dharti par dharma aur shanti banaye rakhi.
+
+Isliye woh duniya ke
+sabse mahan rajaon mein se ek bane.
+
+Lomasa rishi ne kahani khatam karte hue kaha,
+
+“Hey Yudhishthira,
+maine tumhe Mandhata ki adbhut kahani suna di.”
+
+Yeh sunkar Yudhishthira
+aur bhi prashn poochne lage.
+
+✨ Moral:
+Kabhi kabhi bhagya aur divine plan insaan ko
+aisa mahan bana deta hai
+jiska janm bhi ek chamatkar hota hai."""
             create_image_text_layout(
                 text_content=text2,
                 layout="full"
@@ -18381,7 +18561,17 @@ Iske baad Pandav apni tirth yatra aage badhate hain aur naye pavitra sthalon ka 
         # Section 3.7.48
         # --------------------------------------------------
         with st.expander("Section 3.7.48  Section CXXVII"):
-            text1 = """ """
+            text1 = """ 
+            Section CXXVII – The Story of King Somaka
+
+Ek din Yudhishthira ne phir rishi Lomasa se poocha:
+
+“Hey mahan rishi, mujhe bataiye King Somaka kitne shaktishali the?
+Unke jeevan aur karmon ke baare mein mujhe detail mein sunna hai.”
+
+Lomasa rishi bole,
+
+“Dhyaan se suno, hey rajan.”"""
             create_image_text_layout(
                 "attached_assets/chapter3/3.7.48.jpg",
                 text1,
@@ -18389,7 +18579,135 @@ Iske baad Pandav apni tirth yatra aage badhate hain aur naye pavitra sthalon ka 
                 image_position="left"
             )
 
-            text2 = """ """
+            text2 = """ 
+            Bahut samay pehle ek raja the Somaka.
+Woh bahut dharmic aur nyay-priya raja the.
+
+Unki 100 patniyan thi.
+Sabhi patniyan unke liye bilkul uchit aur samarpit thi.
+
+Lekin ek badi samasya thi.
+
+Itni patniyon ke baad bhi
+raja ko koi santaan nahi hui.
+
+Bahut saal beet gaye.
+Raja dheere dheere budhe hone lage.
+
+Fir ek din ek chamatkar hua.
+
+Unki patniyon mein se
+ek ne ek beta janm diya.
+
+Us bacche ka naam tha Jantu.
+
+Jantu sabka bahut pyara tha.
+
+Sabhi 100 maaen usse bahut pyaar karti thi.
+
+Har maa uske paas baithti
+aur use khilone aur pyari cheezein deti.
+
+Sab uska bahut dhyan rakhti thi.
+
+Ek din achanak ek chhoti si ghatna hui.
+
+Ek chinti (ant) ne Jantu ko kaat liya.
+
+Jantu dard se zor se ro pada.
+
+Jaise hi maaon ne yeh dekha
+sab bahut ghabra gayin.
+
+Sab ek saath chillane aur rone lagi.
+
+Poora mahal shor se bhar gaya.
+
+Us waqt raja Somaka apne mantriyon aur purohit ke saath
+sabha mein baithe the.
+
+Unhone mahal se zor ki awaaz suni.
+
+Raja ne turant poocha,
+“Yeh shor kaisa hai?”
+
+Ek sevak ne jawab diya,
+
+“Rajan, aapke putra Jantu ko ek chinti ne kaat liya.”
+
+Yeh sunkar raja turant
+andar mahal mein daud pade.
+
+Unhone apne bete ko pyaar se sambhala
+aur use shant kiya.
+
+Phir raja wapas sabha mein aaye
+aur apne purohit aur mantriyon ke saath baith gaye.
+
+Raja Somaka thode dukhi ho kar bole,
+
+“Ek hi beta hona bhi kabhi kabhi dukh ka karan ban jata hai.
+
+Har samay darr laga rehta hai
+ki kahin use kuch ho na jaye.
+
+Isliye kabhi kabhi lagta hai
+ki bina santaan ke rehna hi behtar tha.
+
+Maine 100 patniyan isliye ki thi
+taaki mujhe bahut saare putra mil sakein.
+
+Lekin itne saalon baad
+mujhe bas ek hi beta mila hai.
+
+Aur woh hi sabki saans jaisa pyara hai.
+
+Hey Brahmana, mujhe bataiye
+kya koi aisa yajna ya vidhi hai
+jisse mujhe 100 putra mil sakte hain?”
+
+Raja ke purohit ne kaha,
+
+“Haan rajan, ek aisa yajna hai.
+
+Uske dwara aapko 100 putra mil sakte hain.
+
+Lekin us yajna ko karna
+aasaan nahi hai.”
+
+Raja ne turant kaha,
+
+“Chahe woh achha ho ya kathin,
+main usse karne ke liye tayyar hoon.
+
+Kripya mujhe bataiye
+us yajna ko kaise kiya jata hai.”
+
+Tab purohit ne ek bahut kathor baat kahi.
+
+Unhone kaha,
+
+“Rajan, us yajna mein
+aapko apne hi putra Jantu ka balidan dena hoga.
+
+Jab uska charbi (fat) agni mein ahuti ke roop mein diya jayega,
+tab us dhuein ki sugandh se
+
+aapki 100 patniyan
+bahadur aur shaktishali 100 putron ko janm dengi.
+
+Aur Jantu bhi phir se janm lega.
+
+Woh fir se aapka beta banega,
+aur uski peeth par sone ka ek nishan hoga.”
+
+Yeh sunkar sab log chup ho gaye.
+
+Kyunki raja ko ab ek
+bahut kathin faisla lena tha.
+
+✨ Moral:
+Kabhi kabhi badi ichchhaon ko paane ke liye kathin pariksha deni padti hai."""
             create_image_text_layout(
                 text_content=text2,
                 layout="full"
@@ -18399,7 +18717,16 @@ Iske baad Pandav apni tirth yatra aage badhate hain aur naye pavitra sthalon ka 
         # Section 3.7.49
         # --------------------------------------------------
         with st.expander("Section 3.7.49  Section CXXVIII"):
-            text1 = """ """
+            text1 = """ 
+            Section CXXVIII – The Sacrifice of Jantu
+
+Rishi Lomasa ne kahani aage batayi.
+
+King Somaka ne apne purohit se kaha,
+
+“Hey Brahmana, jo bhi karna zaroori ho, wahi karo.
+Mujhe bahut saare putra chahiye.
+Isliye main aapke bataye hue yajna ko karne ke liye tayyar hoon.”"""
             create_image_text_layout(
                 "attached_assets/chapter3/3.7.49.jpg",
                 text1,
@@ -18407,7 +18734,141 @@ Iske baad Pandav apni tirth yatra aage badhate hain aur naye pavitra sthalon ka 
                 image_position="left"
             )
 
-            text2 = """ """
+            text2 = """ 
+            Phir yajna ki taiyari shuru hui.
+
+Us yajna mein Jantu ko balidan dena tha.
+
+Jab purohit Jantu ko lene aaye,
+toh uski maa aur baaki raniyan bahut dukhi ho gayin.
+
+Sab rone lagi aur chillane lagi,
+
+“Hum barbaad ho gaye!”
+
+Maaon ne Jantu ko pakad liya
+aur use bachane ki koshish ki.
+
+Sabhi maaen uska haath pakad kar ro rahi thi.
+
+Lekin yajna karne wale purohit ne
+Jantu ka haath pakad kar use kheench liya.
+
+Maaon ki cheekh aur rona
+aasmaan tak pahunch raha tha.
+
+Fir bhi purohit ne yajna ke niyam ke anusaar
+Jantu ka balidan kar diya.
+
+Uski charbi ko agni mein ahuti ke roop mein diya gaya.
+
+Jab woh dhuaan utha,
+toh sabhi raniyon ne uski sugandh mehsoos ki.
+
+Achanak sab raniyan
+behosh ho kar zameen par gir gayin.
+
+Kuch samay baad ek chamatkar hua.
+
+Sabhi raniyan garbhvati ho gayin.
+
+Aur jab 10 mahine poore hue,
+toh Somaka ke ghar 100 putron ka janm hua.
+
+Un 100 putron mein
+Jantu bhi phir se janm liya.
+
+Woh apni pehli maa se hi dobara paida hua.
+
+Uski peeth par sone ka ek nishan tha,
+bilkul waise hi jaise purohit ne kaha tha.
+
+Jantu sabse bada aur sabse pyara beta ban gaya.
+
+Baaki maaon ko bhi apne putra pyare the,
+lekin Jantu sabse adhik priya tha.
+
+Aur un sabhi putron mein
+Jantu sabse gunvaan bhi tha.
+
+Kuch samay baad
+King Somaka aur unke purohit dono ki mrityu ho gayi.
+
+Mrityu ke baad Somaka ne ek ajeeb drishya dekha.
+
+Unhone dekha ki unka purohit narak ki aag mein jal raha hai.
+
+Raja ne hairani se poocha,
+
+“Hey Brahmana, aap narak mein kyon jal rahe hain?”
+
+Purohit ne jawab diya,
+
+“Yeh sab us yajna ka phal hai
+jisme maine Jantu ka balidan karwaya tha.”
+
+Yeh sunkar King Somaka dukhi ho gaye.
+
+Unhone Dharmaraja (Yama) se kaha,
+
+“Is Brahmana ko chhod dijiye.
+Yeh sab mere karan hua tha.
+
+Isliye main uski jagah
+narak mein rehne ko tayyar hoon.”
+
+Lekin Dharmaraja ne kaha,
+
+“Har vyakti ko apne karmon ka phal khud bhogna padta hai.
+Koi dusre ke karm ka phal nahi bhog sakta.”
+
+Tab Somaka ne fir kaha,
+
+“Main swarg nahi jana chahta
+agar mera purohit narak mein rahe.
+
+Main uske saath hi rahunga—
+chahe swarg ho ya narak.
+
+Humne yeh karm saath kiya tha,
+toh uska phal bhi saath hi bhogenge.”
+
+Dharmaraja ne kaha,
+
+“Thik hai, agar tumhari yahi ichchha hai,
+toh tum dono saath milkar us karm ka phal bhogo.
+
+Uske baad tum swarg ja sakoge.”
+
+Aur aisa hi hua.
+
+King Somaka ne
+apne purohit ke saath narak ka dukh saha.
+
+Jab unka paap khatam ho gaya,
+tab dono mukt ho gaye.
+
+Uske baad dono ne
+swarg ki prapti ki.
+
+Rishi Lomasa ne kaha,
+
+“Hey Yudhishthira, yahi wahi pavitra sthal hai
+jahan yeh sab ghatna hui thi.
+
+Agar koi vyakti yahan
+6 raat tak tapasya aur self-control ke saath rahe,
+toh use bhi swarg ki prapti ho sakti hai.”
+
+Isliye rishi ne kaha,
+
+“Hey Kuru vansh ke raja,
+hume bhi yahan 6 raat tak shanti aur dhyan ke saath rehna chahiye.”
+
+✨ Moral:
+Sachcha dharma wahi hai
+jahan insaan apne karmon ki zimmedari leta hai
+aur apno ka saath kabhi nahi chhodta."""
             create_image_text_layout(
                 text_content=text2,
                 layout="full"
@@ -18417,7 +18878,18 @@ Iske baad Pandav apni tirth yatra aage badhate hain aur naye pavitra sthalon ka 
         # Section 3.7.50
         # --------------------------------------------------
         with st.expander("Section 3.7.50  Section CXXIX"):
-            text1 = """ """
+            text1 = """ 
+            Section CXXIX – The Sacred Places of the Kurus
+
+Rishi Lomasa ne Yudhishthira ko aage ka tirtha dikhate hue kaha,
+
+“Hey rajan, yeh bahut pavitra sthal hai.
+
+Bahut pracheen samay mein
+Prajapati (srishti ke swami) ne yahan ek bada yajna kiya tha.
+Us yajna ka naam tha Ishtikrita.
+
+Woh yajna hazaar saal tak chala."""
             create_image_text_layout(
                 "attached_assets/chapter3/3.7.50.jpg",
                 text1,
@@ -18425,7 +18897,141 @@ Iske baad Pandav apni tirth yatra aage badhate hain aur naye pavitra sthalon ka 
                 image_position="left"
             )
 
-            text2 = """ """
+            text2 = """ 
+            Isi jagah ke paas Nabhaga ke putra Ambarisha ne bhi
+Yamuna nadi ke kinare yajna kiya tha.
+
+Us yajna ke baad unhone purohiton ko
+bahut saara sona daan kiya.
+
+Apni tapasya aur yajna ke bal se
+unhone bahut bada punya aur safalta prapt ki.
+
+Lomasa ne phir ek aur jagah dikhayi aur bole,
+
+“Hey Kunti ke putra,
+yeh wahi sthal hai jahan Nahusha ke putra Yayati ne
+apne bade yajna kiye the.
+
+King Yayati bahut shaktishali aur dharmic raja the.
+
+Unhone yahan itne yajna kiye
+ki yeh bhoomi yajna ke kundon se bhari hui lagti hai.
+
+Lagta hai jaise dharti
+unke dharmik karmon ke bhaar se jhuk si gayi ho.”
+
+Phir Lomasa ne ek ped ki taraf ishara kiya.
+
+Unhone kaha,
+
+“Dekho, yeh Sami ka pavitra ped hai.
+Iske paas ek sundar sarovar (lake) bhi hai.
+
+Aur yeh jo sarovar tum dekh rahe ho
+yeh Parashurama ke sarovar hain.
+
+Yahan Narayana ka ashram bhi hai.”
+
+Lomasa ne ek purani kahani bhi batayi.
+
+Unhone kaha ki jab woh yahan
+vansh ki kahani suna rahe the,
+tab ek Pisacha stree (bhootni) ne ek Brahmani se kaha:
+
+“Jo vyakti Yugandhara mein dahi khata hai,
+Achutasthala mein rehta hai,
+aur Bhutilaya mein snan karta hai,
+woh apne bachchon ke saath shanti se jee sakta hai.
+
+Aur jo yahan ek raat rukta hai,
+uske jeevan mein agle din
+achhe parivartan aate hain.”
+
+Lomasa ne phir kaha,
+
+“Hey rajan, aaj hum bhi
+yahin raat bitayenge.
+
+Yeh jagah Kurukshetra ki seema par hai.”
+
+Phir unhone Yamuna ke ek pavitra ghat ki taraf ishara kiya.
+
+“Yeh jagah Plakshavatarana ke naam se jaani jaati hai.
+
+Yeh ek bahut pavitra snan sthal hai.
+
+Gyani log ise
+swarg ka dwar bhi kehte hain.”
+
+Yahan bahut bade rishi aur sant
+yajna ke baad pavitra snan karte the.
+
+Lomasa ne ek aur kahani sunayi.
+
+“Yahin par King Bharata ne bhi
+apna Ashvamedha yajna kiya tha.
+
+Us yajna mein unhone
+ek pavitra ghoda chhod diya tha.
+
+Woh raja dharm ke bal par
+poori dharti ke samrat bane the.”
+
+Isi jagah par ek aur mahan raja
+Marutta ne bhi yajna kiya tha.
+
+Unhe mahan rishi Samvarta ka sahara mila tha.
+
+Lomasa ne kaha,
+
+“Hey rajan, jo vyakti
+is pavitra sthal par snan karta hai,
+woh paapon se mukta ho jata hai.
+
+Isliye tum bhi yahan snan karo.”
+
+Yeh sunkar Yudhishthira aur unke bhaiyon ne
+wahan pavitra snan kiya.
+
+Rishi aur sant
+unki prasansa kar rahe the.
+
+Snan ke baad Yudhishthira ne Lomasa se kaha,
+
+“Hey rishi, is pavitra snan ke baad
+mujhe lag raha hai ki main sabhi lok dekh sakta hoon.
+
+Aur mujhe yahan se
+Arjuna bhi dikhai de raha hai.”
+
+Lomasa muskura kar bole,
+
+“Hey veer, yeh sach hai.
+
+Bade rishi aur yogi
+aise pavitra sthalon par
+sabhi lokon ko dekh sakte hain.
+
+Aur yeh jo Sarasvati nadi hai,
+yeh bhi bahut pavitra hai.
+
+Jo yahan snan karta hai,
+woh sabhi paapon se mukta ho jata hai.”
+
+Lomasa ne ant mein kaha,
+
+“Yeh wahi bhoomi hai
+jahan Kuru vansh ke mahan raja
+bar bar yajna karte the.
+
+Isi wajah se yeh bhoomi
+bahut pavitra aur dharmmayi mani jaati hai.”
+
+✨ Moral:
+Pavitra sthalon par shraddha aur dhyan ke saath jaana
+insaan ke mann ko shuddh karta hai
+aur use dharma ke raaste par chalne ki prerna deta hai."""
             create_image_text_layout(
                 text_content=text2,
                 layout="full"
@@ -18435,7 +19041,29 @@ Iske baad Pandav apni tirth yatra aage badhate hain aur naye pavitra sthalon ka 
         # Section 3.7.51
         # --------------------------------------------------
         with st.expander("Section 3.7.51  Section CXXX"):
-            text1 = """ """
+            text1 = """ 
+            Section CXXX – The Sacred Land of Many Tirthas
+
+Rishi Lomasa ne Yudhishthira ko aur pavitra sthalon ke baare mein bataya.
+
+Unhone kaha,
+
+“Hey Bharata vansh ke putra,
+yeh jagah bahut pavitra hai.
+
+Jo log yahan apni aakhri saans lete hain,
+woh seedhe swarg ko prapt hote hain.
+
+Isi wajah se hazaron log yahan aate hain
+taaki apna antim samay yahin bitayein.”
+
+Lomasa ne bataya ki ek baar
+Daksha Prajapati ne yahan yajna kiya tha.
+
+Tab unhone ashirvad diya tha:
+
+“Jo vyakti is jagah par mrityu payega,
+woh swarg mein jagah payega.”"""
             create_image_text_layout(
                 "attached_assets/chapter3/3.7.51.jpg",
                 text1,
@@ -18443,7 +19071,156 @@ Iske baad Pandav apni tirth yatra aage badhate hain aur naye pavitra sthalon ka 
                 image_position="left"
             )
 
-            text2 = """ """
+            text2 = """ 
+            Phir Lomasa ne ek pavitra nadi ki taraf ishara kiya.
+
+“Dekho, yeh Sarasvati nadi hai.
+
+Aur yeh jo jagah hai
+use Vinasana kehte hain.
+
+Yahin par Sarasvati nadi
+dharti ke andar chali gayi thi.”
+
+Kaha jata hai ki Sarasvati ne
+Nishada logon se door rehne ke liye
+apne aap ko dharti ke andar chhupa liya tha.
+
+Aage jaakar ek jagah par
+woh phir se dikhai dene lagi.
+
+Us sthal ko Chamashodbheda kehte hain.
+
+Lomasa ne aage bataya,
+
+“Yeh jagah Sindhu tirtha ke naam se jaani jaati hai.
+
+Yahin par Lopamudra ne
+mahan rishi Agastya ko apna pati sweekar kiya tha.”
+
+Phir unhone ek aur pavitra sthal dikhaya.
+
+“Yeh Prabhasa tirtha hai.
+
+Yeh Indra ka priya sthal hai
+aur yahan snan karne se
+saare paap mit jaate hain.”
+
+Lomasa ne ek aur nadi ki taraf ishara kiya.
+
+“Yeh sundar nadi Vipasa hai.
+
+Ek baar mahan rishi Vasistha
+apne putron ki mrityu se bahut dukhi ho gaye the.
+
+Dukh mein unhone apne haath pair baandh kar
+is nadi mein kud diya.
+
+Lekin jab woh paani se bahar aaye,
+toh unke bandhan khud hi khul gaye.”
+
+Phir Lomasa ne kaha,
+
+“Hey rajan,
+yeh pavitra bhoomi Kashmir ki hai.
+
+Yahan bahut saare mahan rishi aur tapasvi rehte the.
+
+Yahin par ek baar
+Agni dev aur rishi Kashyapa ke beech
+ek mahan samvaad hua tha.”
+
+Lomasa ne aage ek aur pavitra sthal dikhaya.
+
+“Yeh Manasarovar ka dwar hai.
+
+Aur yeh pahadon ke beech jo rasta hai
+use Bhagwan Rama ne banaya tha.”
+
+Unhone bataya ki yahan ek aur pavitra jagah hai
+jiska naam hai Vatikhanda.
+
+Phir Lomasa ne ek ajeeb aur adbhut baat batayi.
+
+“Har yuga ke ant mein
+Bhagwan Shiva yahan dikhai dete hain.
+
+Woh Uma (Parvati) aur apne ganon ke saath
+yahan aate hain.”
+
+Is jagah ke ek sarovar mein
+log Chaitra mahine mein yajna karte hain
+aur Bhagwan Shiva ki pooja karte hain.
+
+Jo log yahan shraddha se snan karte hain,
+woh paapon se mukta ho jaate hain.
+
+Phir Lomasa ne ek aur pavitra sthal dikhaya.
+
+“Yeh Ujjanaka tirtha hai.
+
+Yahan rishi Vasistha,
+unki patni Arundhati,
+aur rishi Yavakri ne shanti prapt ki thi.”
+
+Yahan ek sundar sarovar bhi hai
+jiska naam hai Kausava.
+
+Yahan bahut sundar kamal ke phool ugte hain.
+
+Lomasa ne kaha,
+
+“Yeh rishi Rukmini ka ashram hai.
+
+Yahin par unhone
+apne gusse par vijay paakar shanti prapt ki thi.”
+
+Phir Lomasa ne ek bade pahad ki taraf ishara kiya.
+
+“Yeh Bhrigutunga parvat hai.”
+
+Aur uske paas ek pavitra nadi hai
+jiska naam hai Vitasta.
+
+Yeh nadi bahut thandi aur saaf hai.
+
+Bahut saare rishi
+iska jal use karte the.
+
+Lomasa ne phir do aur nadiyan dikhayi.
+
+“Yeh Jala aur Upajala nadiyan hain.
+Yeh dono Yamuna ke paas behati hain.”
+
+Ant mein Lomasa ne ek aur kahani shuru ki.
+
+Unhone kaha,
+
+“Yahin par ek raja the Usinara.
+
+Unhone yahan ek yajna kiya
+aur apne dharm aur punya se
+Indra se bhi adhik mahan ho gaye.”
+
+Is baat ko parakhne ke liye
+Indra aur Agni ne ek pariksha li.
+
+Indra ne baaz (hawk) ka roop liya
+aur Agni ne kabootar (pigeon) ka roop.
+
+Kabootar dar kar
+raja Usinara ki god mein aa gira
+aur bola:
+
+“Rajan, mujhe bachaiye.”
+
+Aur yahin se
+ek mahan dharma ki pariksha shuru hui.
+
+✨ Moral:
+Sachcha raja aur dharmic insaan wahi hota hai
+jo kamzor aur nirbal ki raksha karta hai,
+chahe uske liye kitni bhi badi pariksha kyun na deni pade."""
             create_image_text_layout(
                 text_content=text2,
                 layout="full"
