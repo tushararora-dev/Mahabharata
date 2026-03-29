@@ -19230,7 +19230,12 @@ chahe uske liye kitni bhi badi pariksha kyun na deni pade."""
         # Section 3.7.52
         # --------------------------------------------------
         with st.expander("Section 3.7.52  Section CXXXI"):
-            text1 = """ """
+            text1 = """ 
+            Ek baar ki baat hai.
+Ek raja tha, bahut hi nyay-priya aur dayaalu.
+
+Ek din ek chhota sa kabootar darr ke maare uske paas aaya.
+Woh kaanp raha tha. Usne kaha, “Mujhe bachao, raja ji!”"""
             create_image_text_layout(
                 "attached_assets/chapter3/3.7.52.jpg",
                 text1,
@@ -19238,7 +19243,59 @@ chahe uske liye kitni bhi badi pariksha kyun na deni pade."""
                 image_position="left"
             )
 
-            text2 = """ """
+            text2 = """ 
+            Uske peeche ek baaz (hawk) aaya.
+Baaz ne kaha, “Yeh mera bhojan hai. Mujhe de do. Main bhooka hoon.”
+
+Raja ne shant hokar kaha,
+“Yeh kabootar meri sharan mein aaya hai. Main ise nahi de sakta.”
+
+Baaz bola,
+“Par agar mujhe khana nahi mila, toh main mar jaunga. Aur mere parivaar ka kya hoga?”
+
+Raja soch mein pad gaya.
+Dono ki baat sahi thi.
+
+Phir raja ne kaha,
+“Main tumhe aur kuch khane ko de deta hoon.”
+
+Lekin baaz ne mana kar diya.
+“Bas mujhe yahi kabootar chahiye.”
+
+Tab baaz ne ek shart rakhi,
+“Agar tum is kabootar ko bachana chahte ho,
+toh apne sharir ka utna hi maans (flesh) kaat kar do,
+jitna iska wazan hai.”
+
+Raja ne bina dare haan kar di.
+
+Usne apna maans kaat kar tarazu mein rakha.
+Par kabootar ka wazan zyada nikla.
+
+Raja aur maans kaat kar rakhta gaya…
+Phir bhi barabar nahi hua.
+
+Aakhir mein…
+Raja khud hi tarazu par baith gaya.
+
+Usne apni jaan tak dene ko taiyaar ho gaya.
+
+Tab achanak ek chamatkar hua ✨
+
+Baaz aur kabootar apne asli roop mein aa gaye.
+Woh asal mein devta Indra aur Agni the.
+
+Unhone kaha,
+“Raja, hum tumhari pariksha le rahe the.
+Tumne sach mein sabse badi daya aur dharm dikhaya hai.”
+
+Raja ki mahanta dekh kar sab prabhavit ho gaye.
+Uska naam hamesha ke liye amar ho gaya.
+
+🌟 Moral:
+
+Jo kisi ki madad ke liye apni jaan tak dene ko taiyaar ho,
+vah sach mein sabse bada dharm karta hai."""
             create_image_text_layout(
                 text_content=text2,
                 layout="full"
@@ -19248,7 +19305,19 @@ chahe uske liye kitni bhi badi pariksha kyun na deni pade."""
         # Section 3.7.53
         # --------------------------------------------------
         with st.expander("Section 3.7.53  Section CXXXII"):
-            text1 = """ """
+            text1 = """ 
+            Ek din Lomasa rishi ne kaha,
+“Dekho, yeh pavitra ashram hai Svetaketu ka.
+Yahan woh rehte the aur unhe sab log bahut gyani maante the.”
+
+Yahan ek baar devi Sarasvati bhi aayi thi,
+aur Svetaketu ne unse kaha,
+“Mujhe achchi vaani ka vardaan mile.”
+
+Us samay do bade gyani the —
+Svetaketu aur uska bhanja Ashtavakra.
+Dono ne milkar raja Janaka ke yagna mein
+ek pandit Vandin ko debate mein hara diya."""
             create_image_text_layout(
                 "attached_assets/chapter3/3.7.53.jpg",
                 text1,
@@ -19256,7 +19325,76 @@ chahe uske liye kitni bhi badi pariksha kyun na deni pade."""
                 image_position="left"
             )
 
-            text2 = """ """
+            text2 = """ 
+            👶 Ashtavakra ki kahani
+
+Ek rishi the — Uddalaka.
+Unke ek shishya the — Kahoda.
+
+Kahoda ne guru ki seva ki,
+toh guru ne apni beti Sujata ki shaadi usse kar di.
+
+Kuch samay baad, Sujata maa banne wali thi 🤱
+
+Ek raat Kahoda ved padh rahe the.
+Tab ek ajeeb baat hui…
+
+Unke pet mein jo bachcha tha,
+usne andar se hi kaha:
+
+“Pitaji, aap jo padh rahe ho, woh sahi nahi hai.”
+
+Yeh sunkar Kahoda ko gussa aa gaya 😠
+Unhone shraap diya:
+
+“Tum paida hote hi 8 jagah se tedhe (crooked) hoge!”
+
+Aur jab bachcha paida hua,
+woh waise hi tedha tha…
+Isliye uska naam pada Ashtavakra.
+
+😢 Sach chhupaya gaya
+
+Kahoda paisa kamane raja Janaka ke paas gaye.
+Wahan unka debate hua Vandin se…
+aur woh haar gaye.
+
+Haarne ke baad unhe paani mein dubo diya gaya.
+
+Yeh baat Ashtavakra se chhupayi gayi.
+Woh sochta tha ki Uddalaka hi uske pita hain.
+
+💔 Sach ka pata chala
+
+Jab Ashtavakra 12 saal ka hua,
+ek din woh Uddalaka ki godh mein baitha tha.
+
+Tab Svetaketu ne use kheench kar kaha,
+“Yeh tumhare pita nahi hain!”
+
+Yeh sunkar Ashtavakra ka dil toot gaya 😢
+
+Woh turant apni maa ke paas gaya aur poocha,
+“Mere asli pita kaun hain?”
+
+Maa ne ro kar sab sach bata diya…
+
+🔥 Badla nahi, gyaan chahiye
+
+Ashtavakra ne kaha,
+“Chalo, hum raja Janaka ke yagna mein chalte hain.
+Wahan hum seekhenge, sunenge, aur gyaan badhayenge.”
+
+Phir Ashtavakra aur Svetaketu
+dono saath mein wahan gaye.
+
+Aur wahan se shuru hoti hai
+Ashtavakra ki asli kahani…
+
+🌟 Moral:
+
+Sach kabhi na kabhi saamne aata hi hai.
+Aur gyaan aur himmat se koi bhi mushkil jeeti ja sakti hai."""
             create_image_text_layout(
                 text_content=text2,
                 layout="full"
@@ -19266,7 +19404,20 @@ chahe uske liye kitni bhi badi pariksha kyun na deni pade."""
         # Section 3.7.54
         # --------------------------------------------------
         with st.expander("Section 3.7.54  Section CXXXIII"):
-            text1 = """ """
+            text1 = """ 
+            Ek din Ashtavakra aur Svetaketu raja Janaka ke yagna ke darwaze par pahunche.
+
+Gate par ek pehredaar (warder) khada tha.
+Usne unhe rok diya.
+
+Ashtavakra ne shant hokar kaha,
+“Hum yahan mehmaan hain. Hume andar jaane do.”
+
+Par pehredaar bola,
+“Sirf bade aur gyani Brahman hi andar ja sakte hain. Tum toh bacche ho.”
+
+Yeh sunkar Ashtavakra halka sa muskuraaya 😊
+Aur bola,"""
             create_image_text_layout(
                 "attached_assets/chapter3/3.7.54.jpg",
                 text1,
@@ -19274,7 +19425,56 @@ chahe uske liye kitni bhi badi pariksha kyun na deni pade."""
                 image_position="left"
             )
 
-            text2 = """ """
+            text2 = """ 
+            “Bada hone ka matlab umar nahi hota.
+Jo gyani ho, wahi sach mein bada hota hai.”
+
+Usne ek example diya,
+“Chhoti si aag bhi jal sakti hai.
+Use kabhi chhota samajhkar ignore nahi karna chahiye.”
+
+Pehredaar thoda confuse ho gaya 🤔
+Usne kaha,
+“Agar tum itne gyani ho, toh kuch sawalon ka jawab do.”
+
+🧠 Buddhi ka test
+
+Pehredaar ne tough questions pooche.
+
+Ashtavakra ne har sawal ka sahi jawab diya:
+
+“Machhli sote hue bhi aankh nahi band karti.”
+“Anda hilta nahi jab paida hota hai.”
+“Pathar ka dil nahi hota.”
+“Nadi apni speed mein hi badhti rehti hai.”
+
+Sab log hairaan ho gaye 😲
+
+👑 Raja Janaka ka faisla
+
+Raja Janaka ne yeh sab suna.
+Unhone kaha,
+
+“Tum koi aam bacche nahi ho.
+Tum bahut gyani ho.”
+
+Phir raja ne use andar jaane ki permission de di.
+
+Aur kaha,
+“Jao, Vandin wahan hai.”
+
+🔥 Ashtavakra ka confidence
+
+Ashtavakra ne himmat se kaha,
+“Aaj main Vandin ko haraunga.”
+
+Uski awaaz mein confidence tha 💪
+Sab log dekhne lage…
+Ab kya hoga?
+
+🌟 Moral:
+
+Umar se nahi, gyaan aur himmat se asli badaapan hota hai."""
             create_image_text_layout(
                 text_content=text2,
                 layout="full"
@@ -19284,7 +19484,13 @@ chahe uske liye kitni bhi badi pariksha kyun na deni pade."""
         # Section 3.7.55
         # --------------------------------------------------
         with st.expander("Section 3.7.55  Section CXXXIV"):
-            text1 = """ """
+            text1 = """ 
+            Ashtavakra ab raja Janaka ki sabha mein pahunch chuka tha.
+
+Usne zor se kaha,
+“Vandin kahan hai? Main use dhoond raha hoon!”
+
+Sab log uski himmat dekh kar hairaan ho gaye 😲"""
             create_image_text_layout(
                 "attached_assets/chapter3/3.7.55.jpg",
                 text1,
@@ -19292,7 +19498,90 @@ chahe uske liye kitni bhi badi pariksha kyun na deni pade."""
                 image_position="left"
             )
 
-            text2 = """ """
+            text2 = """ 
+            🔥 Maha Debate shuru
+
+Ashtavakra aur Vandin ke beech debate shuru hua.
+
+Yeh koi simple baat nahi thi…
+Yeh ek buddhi ka yudh tha 🧠⚔️
+
+Vandin bola,
+“Ek hi surya duniya ko roshan karta hai.”
+
+Ashtavakra turant bola,
+“Do dost — Indra aur Agni — hamesha saath rehte hain.”
+
+Phir dono numbers ke through sawal-jawab karne lage:
+
+3, 4, 5…
+6, 7, 8…
+9, 10, 11…
+
+Har baar Ashtavakra ne perfect jawab diya ✅
+
+Sab log uski intelligence dekh kar shocked ho gaye!
+
+🏆 Jeet ka pal
+
+Aakhir mein Vandin chup ho gaya…
+Uske paas koi jawab nahi tha.
+
+Sabha mein zor se shor mach gaya 🎉
+Sab log bole,
+“Ashtavakra jeet gaya!”
+
+😠 Nyay ki maang
+
+Ashtavakra ne kaha,
+“Yeh Vandin pehle Brahmano ko hara kar paani mein dubo deta tha.
+Ab ise bhi wahi saza milni chahiye!”
+
+Tab Vandin ne sach bataya…
+
+🌊 Sach ka khulasa
+
+Vandin bola,
+“Main Varuna dev ka beta hoon.
+Main Brahmano ko mar nahi raha tha.
+Main unhe Varuna ke yagya mein bhej raha tha.”
+
+Aur dekho! 😲
+Woh sab Brahman wapas aa gaye!
+
+Unmein Ashtavakra ke pita Kahoda bhi the!
+
+❤️ Emotional milan
+
+Kahoda ne apne bete ko dekha aur kaha,
+“Beta, tumne woh kar dikhaya jo main nahi kar saka.”
+
+Ashtavakra ki aankhon mein khushi thi 😊
+
+💧 Chamatkar
+
+Phir Kahoda ne kaha,
+“Beta, is nadi mein jao.”
+
+Jaise hi Ashtavakra paani mein gaya…
+Ek chamatkar hua ✨
+
+Uska sharir jo tedha tha,
+bilkul seedha ho gaya!
+
+Us din se us nadi ka naam pad gaya Samanga.
+
+🌟 Happy Ending
+
+Ashtavakra ne apne pita ko wapas pa liya ❤️
+Sab khush ho gaye.
+
+Aur uski kahani sabke liye ek misaal ban gayi.
+
+🌟 Moral:
+
+Sach, gyaan aur himmat se har mushkil jeeti ja sakti hai.
+Aur sachchai hamesha jeet ti hai."""
             create_image_text_layout(
                 text_content=text2,
                 layout="full"
@@ -19302,7 +19591,12 @@ chahe uske liye kitni bhi badi pariksha kyun na deni pade."""
         # Section 3.7.56
         # --------------------------------------------------
         with st.expander("Section 3.7.56  Section CXXXV"):
-            text1 = """ """
+            text1 = """ 
+            Lomasa rishi ne kaha,
+“Yeh dekho, yeh pavitra nadi hai Samanga.
+Yahan snan karne se paap mit jaate hain.”
+
+Phir unhone ek kahani sunai…"""
             create_image_text_layout(
                 "attached_assets/chapter3/3.7.56.jpg",
                 text1,
@@ -19310,7 +19604,91 @@ chahe uske liye kitni bhi badi pariksha kyun na deni pade."""
                 image_position="left"
             )
 
-            text2 = """ """
+            text2 = """ 
+            👦 Yavakri ki kahani
+
+Ek rishi the — Bharadvaja
+Aur unke dost the — Raivya
+
+Raivya aur unke bete bahut gyani the 📚
+Sab unki respect karte the.
+
+Par Bharadvaja ka beta Yavakri…
+andar hi andar dukhi rehta tha 😔
+
+Woh sochta tha,
+“Log mere pita ko respect kyu nahi dete?”
+
+🔥 Shortcut lene ki galti
+
+Yavakri ne decide kiya,
+“Main tapasya karke seedha Vedas ka gyaan le lunga.”
+
+Woh kathin tapasya karne laga.
+Aag ke paas baith kar dhyaan karta 🔥
+
+Yeh dekhkar Indra dev aaye.
+
+Unhone kaha,
+“Beta, yeh galat tareeka hai.
+Guru se seekho, shortcut mat lo.”
+
+Par Yavakri ne baat nahi maani.
+
+🤔 Indra ka test
+
+Indra ne ek buddhe aadmi ka roop liya 👴
+Aur Ganga par mitti se bandh banane lage.
+
+Yavakri hans pada 😂
+Aur bola,
+“Yeh kya kar rahe ho?
+Itni badi nadi ko kaise rokoge?”
+
+Buddhe ne kaha,
+“Jaise tum bina guru ke Vedas paana chahte ho…
+waise hi main bhi yeh kar raha hoon.”
+
+Yavakri samajh gaya 😳
+
+🎁 Vardaan mil gaya
+
+Phir bhi Yavakri ne zidd ki.
+Indra ne use vardaan de diya:
+
+“Tumhe aur tumhare pita ko Vedas ka gyaan mil jayega.”
+
+Yavakri bahut khush hua 😊
+
+⚠️ Ghamand ka khatra
+
+Ghar aakar usne sab bataya.
+
+Uske pita Bharadvaja bole,
+“Beta, ab tum ghamandi ho jaoge.
+Aur ghamand hamesha vinash laata hai.”
+
+Unhone ek kahani sunai ek ladke ki
+jo ghamand ke kaaran mar gaya.
+
+Phir bole,
+“Raivya se door rehna.
+Woh bahut powerful hai.”
+
+😈 Galti ki shuruaat
+
+Yavakri ne kaha,
+“Main dhyaan rakhunga.”
+
+Par dheere dheere…
+woh ghamandi ban gaya 😔
+
+Aur doosre rishiyon ko pareshan karne laga.
+
+🌟 Moral:
+
+Shortcut se milne wala gyaan adhura hota hai.
+Aur ghamand hamesha vinash ki taraf le jaata hai."""
             create_image_text_layout(
                 text_content=text2,
                 layout="full"
