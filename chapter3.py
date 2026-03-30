@@ -19698,7 +19698,18 @@ Aur ghamand hamesha vinash ki taraf le jaata hai."""
         # Section 3.7.57
         # --------------------------------------------------
         with st.expander("Section 3.7.57  Section CXXXVI"):
-            text1 = """ """
+            text1 = """ 
+            😈 Yavakri ki galti
+
+Ek din Yavakri bina darr ke ghoom raha tha.
+Woh Raivya rishi ke ashram pahunch gaya 🌳
+
+Wahan usne ek sundar mahila ko dekha…
+Woh Raivya ke bete ki patni thi.
+
+Yavakri ka mann control se bahar ho gaya 😔
+Aur usne bina sharam ke kaha,
+“Tum mere paas aa jao.”"""
             create_image_text_layout(
                 "attached_assets/chapter3/3.7.57.jpg",
                 text1,
@@ -19706,7 +19717,86 @@ Aur ghamand hamesha vinash ki taraf le jaata hai."""
                 image_position="left"
             )
 
-            text2 = """ """
+            text2 = """ 
+            😨 Samajhdari se jawab
+
+Mahila samajh gayi ki Yavakri galat hai.
+Par woh usse seedha mana nahi kar sakti thi…
+
+Kyunki woh rishi tha, aur shraap ka darr tha 😟
+
+Isliye usne smart tareeke se kaha,
+“Theek hai…”
+
+Aur use ek jagah le jaakar
+usko rok liya (trap kar diya).
+
+😡 Raivya ka gussa
+
+Jab Raivya rishi wapas aaye,
+unhone apni bahu ko rote hue dekha.
+
+Unhone pyaar se poocha,
+“Kya hua?”
+
+Bahu ne sab sach bata diya 😢
+
+Yeh sunkar Raivya ko bahut gussa aa gaya 🔥
+
+🔥 Shraap ki shakti
+
+Raivya ne apne baal (jata) ka ek hissa tod kar
+agni mein daal diya.
+
+Usse ek aurat paida hui
+jo bilkul uski bahu jaisi dikhti thi.
+
+Phir unhone ek aur jata daali…
+Aur ek bhayanak rakshas (demon) paida hua 😱
+
+⚔️ Badla
+
+Dono ne poocha,
+“Hume kya karna hai?”
+
+Raivya ne kaha,
+“Jao… Yavakri ko maar do.”
+
+Dono turant nikal gaye.
+
+😰 Yavakri ka darr
+
+Woh aurat Yavakri ke paas gayi
+aur uska kamandalu (water pot) chheen liya.
+
+Yavakri ab asurakshit ho gaya 😨
+
+Tabhi rakshas ne bhala (spear) le kar attack kiya.
+
+Yavakri bhaagne laga…
+Woh paani dhoondne gaya, par har jagah sukha tha.
+
+🚫 Bachne ka koi raasta nahi
+
+Woh apne pita ke ashram bhaaga…
+par wahan bhi usse andar nahi jaane diya gaya.
+
+Ek darwaze par hi use rok liya gaya.
+
+Aur tab…
+rakshas ne usse maar diya ⚔️
+
+⚖️ Ant
+
+Yavakri wahi gir gaya…
+aur uski kahani wahin khatam ho gayi.
+
+Rakshas wapas Raivya ke paas chala gaya.
+
+🌟 Moral:
+
+Gyaan bina vinamrata aur control ke,
+insaan ko vinash ki taraf le jaata hai."""
             create_image_text_layout(
                 text_content=text2,
                 layout="full"
@@ -19716,7 +19806,15 @@ Aur ghamand hamesha vinash ki taraf le jaata hai."""
         # Section 3.7.58
         # --------------------------------------------------
         with st.expander("Section 3.7.58  Section CXXXVII"):
-            text1 = """ """
+            text1 = """ 
+            😟 Ashram ka ajeeb sannata
+
+Ek din Bharadvaja rishi apne ashram wapas aaye.
+Par kuch ajeeb tha…
+
+Aaj unke yagya ki agni unka swagat nahi kar rahi thi 🔥
+
+Unhe turant laga — kuch galat hua hai."""
             create_image_text_layout(
                 "attached_assets/chapter3/3.7.58.jpg",
                 text1,
@@ -19724,7 +19822,62 @@ Aur ghamand hamesha vinash ki taraf le jaata hai."""
                 image_position="left"
             )
 
-            text2 = """ """
+            text2 = """
+            ❓ Dar aur sawaal
+
+Unhone wahaan baithe ek vyakti se poocha,
+“Sab theek hai na?
+Mera beta Yavakri kahan hai?”
+
+Unka mann bahut ghabra raha tha 😟
+
+💔 Sach saamne aaya
+
+Us vyakti ne dheere se kaha,
+“Aapka beta… Raivya ke ashram gaya tha…
+Aur wahan ek rakshas ne use maar diya.”
+
+Yeh sunkar Bharadvaja ka dil toot gaya 😢
+
+😭 Pita ka dard
+
+Woh apne bete ke paas gaye…
+aur use gale laga kar rote rahe.
+
+Unhone kaha,
+
+“Beta, tumne itni tapasya ki…
+sabke bhale ke liye.”
+
+“Par tumne meri baat nahi maani…
+aur Raivya ke paas chale gaye…”
+
+😔 Dukh aur pachtawa
+
+Bharadvaja bahut dukhi the.
+
+Unhone kaha,
+“Main itna dukhi ho gaya hoon ki main apni jaan de dunga…”
+
+Dard mein unhone apne dost Raivya ko bhi shraap de diya 😞
+
+Par turant hi unhe ehsaas hua…
+
+“Main kya kar raha hoon?
+Maine dukh mein apne dost ko hi dosh de diya…”
+
+🔥 Antim faisla
+
+Bahut ro kar,
+Bharadvaja ne apne bete ka antim sanskaar kiya.
+
+Aur phir…
+woh khud bhi agni mein pravesh kar gaye 🔥
+
+🌟 Moral:
+
+Gussa aur dukh mein liye gaye faisle galat hote hain.
+Isliye hamesha shant rehkar sochna chahiye."""
             create_image_text_layout(
                 text_content=text2,
                 layout="full"
@@ -19734,7 +19887,19 @@ Aur ghamand hamesha vinash ki taraf le jaata hai."""
         # Section 3.7.59
         # --------------------------------------------------
         with st.expander("Section 3.7.59  Section CXXXVIII"):
-            text1 = """ """
+            text1 = """ 
+            🌙 Andhere mein badi galti
+
+Ek raja tha — Vrihadyumna.
+Usne ek bada yagya shuru kiya 🔥
+
+Is yagya mein madad kar rahe the
+Raivya rishi ke do bete — Arvavasu aur Paravasu
+
+Ek din Paravasu apni patni se milne
+raat ke time jungle se guzar raha tha 🌲
+
+Andhera bahut tha… 😨"""
             create_image_text_layout(
                 "attached_assets/chapter3/3.7.59.jpg",
                 text1,
@@ -19742,7 +19907,88 @@ Aur ghamand hamesha vinash ki taraf le jaata hai."""
                 image_position="left"
             )
 
-            text2 = """ """
+            text2 = """ 
+            Usne ek aadmi ko dekha
+aur samjha ki woh hiran (deer) hai
+
+Par sach mein…
+woh uske pita Raivya the!
+
+Galti se usne unhe maar diya ⚔️
+
+😔 Bhai ki madad
+
+Paravasu bahut dukhi hua.
+Usne apne bhai Arvavasu se kaha,
+
+“Maine galti se pita ko maar diya…
+tum meri jagah paap ka prayaschit karo.”
+
+Arvavasu ne bina soche haan kar di ❤️
+
+😠 Dhoka
+
+Jab Arvavasu wapas yagya mein aaya,
+Paravasu ne ulta uspar hi ilzaam laga diya!
+
+Usne raja se kaha,
+“Yeh Brahman-hatya karne wala hai.
+Isse yahan se hatao!”
+
+💔 Beizzati aur dard
+
+Raja ne turant Arvavasu ko nikal diya.
+
+Arvavasu baar baar kehta raha,
+“Maine nahi kiya… maine toh bhai ke liye prayaschit kiya hai…”
+
+Par kisi ne uski baat nahi suni 😢
+
+🌞 Tapasya aur sach ki jeet
+
+Arvavasu jungle chala gaya 🌳
+Aur usne kathor tapasya ki.
+
+Usne Surya dev ki pooja ki 🌞
+
+Uski bhakti se devta khush ho gaye ✨
+
+🎁 Vardaan aur chamatkar
+
+Devta bole,
+“Maango kya chahte ho?”
+
+Arvavasu ne kaha:
+
+“Mere pita zinda ho jayein”
+“Mera bhai paap se mukt ho jaye”
+“Sab log wapas jeevit ho jayein”
+
+Devta ne kaha,
+“So be it.”
+
+Aur chamatkar hua! ✨
+Sab log phir se jeevit ho gaye!
+
+🧠 Sach ka gyaan
+
+Yavakri ne poocha,
+“Maine Vedas seekhe the… phir bhi main haar gaya, kyun?”
+
+Devta ne kaha,
+“Kyuki tumne bina guru ke, bina mehnat ke seekha.”
+
+“Raivya ne mehnat aur guru ki seva se seekha tha.”
+
+🌈 Happy ending
+
+Sab kuch theek ho gaya 😊
+Sach aur tapasya jeet gayi.
+
+🌟 Moral:
+
+Mehnat, guru ka respect aur sachchai —
+yeh hi asli gyaan ka raasta hai."""
             create_image_text_layout(
                 text_content=text2,
                 layout="full"
@@ -19752,7 +19998,18 @@ Aur ghamand hamesha vinash ki taraf le jaata hai."""
         # Section 3.7.60
         # --------------------------------------------------
         with st.expander("Section 3.7.60  Section CXXXIX"):
-            text1 = """ """
+            text1 = """ 
+            🏔️ Pavitra yatra ka agla padaav
+
+Lomasa rishi ne kaha,
+“Hey Yudhishthira, ab tum kai pavitra pahaadon ko paar kar chuke ho.”
+
+Aage unhone dikhaya,
+“Yeh dekho — saat Ganga nadiyan yahan beh rahi hain.” 🌊
+
+Yeh jagah bahut hi pavitra thi ✨
+Aur yahan ek ajeeb chamatkar bhi hota tha —
+Agni bina rukke jalti rehti thi 🔥"""
             create_image_text_layout(
                 "attached_assets/chapter3/3.7.60.jpg",
                 text1,
@@ -19760,7 +20017,78 @@ Aur ghamand hamesha vinash ki taraf le jaata hai."""
                 image_position="left"
             )
 
-            text2 = """ """
+            text2 = """ 
+            🌄 Devtaon ka kshetra
+
+Lomasa bole,
+“Ab hum ek special jagah ja rahe hain…
+yeh devtaon ka playground hai.”
+
+Yahan unke pairon ke nishaan bhi milte hain 👣
+
+Aage ek bada pahaad tha — Mandara
+Jahan rehte the:
+
+Yaksh
+Gandharv
+Kinnar
+Rakshas
+
+Sab powerful aur tej the ⚔️
+
+😨 Khatre ka ehsaas
+
+Lomasa ne warn kiya,
+“Yeh jagah aasaan nahi hai.
+Yahan ke rakshak bahut strong hain.”
+
+“Isliye apna mann aur himmat strong rakho.”
+
+🏔️ Kailasa ka darshan
+
+Aage unhone kaha,
+“Woh dekho — Kailasa parvat!”
+
+Yeh bahut uncha aur pavitra tha ✨
+Yahan se kai devta aur jeev
+Kubera ke mahal ki taraf jaate hain.
+
+🙏 Suraksha ki prarthana
+
+Lomasa ne prarthana ki:
+
+“Hey Ganga maa,
+is raja ki raksha karo.” 🌊
+
+Unhone sab devtaon se bhi kaha,
+“Yudhishthira ko surakshit rakhna.”
+
+⚠️ Savdhani zaroori hai
+
+Phir Lomasa ne kaha,
+“Dhyaan se chalna. Yeh jagah mushkil hai.”
+
+Yudhishthira ne bhi sabko samjhaya:
+
+“Sab careful rehna”
+“Safai aur discipline rakho”
+❤️ Bhaiyon ka pyaar
+
+Yudhishthira ne apne bhaiyon se kaha:
+
+Bhima se:
+“Tum Draupadi (Krishna) ka dhyaan rakhna.”
+
+Nakula aur Sahadeva se:
+“Darna mat… par hamesha savdhaan rehna.”
+
+Unki aankhon mein aansu the 😢
+Par dil mein himmat bhi thi.
+
+🌟 Moral:
+
+Zindagi ke mushkil raaston par,
+himmat, savdhani aur teamwork sabse zaroori hote hain."""
             create_image_text_layout(
                 text_content=text2,
                 layout="full"
@@ -19770,7 +20098,19 @@ Aur ghamand hamesha vinash ki taraf le jaata hai."""
         # Section 3.7.61
         # --------------------------------------------------
         with st.expander("Section 3.7.61  Section CXL"):
-            text1 = """ """
+            text1 = """ 
+            🏔️ Mushkil raasta, bada faisla
+
+Yudhishthira ne Bhima se kaha,
+“Yeh jagah bahut dangerous hai…
+Yahan invisible shaktiyaan bhi hain.” 😨
+
+Unhone kaha,
+“Hume apni strength aur control use karna hoga.”
+
+Phir unhone ek suggestion diya:
+“Tum sab log Draupadi aur baaki logon ke saath yahin ruk jao…
+Main Nakula aur Lomasa ke saath aage jaata hoon.”"""
             create_image_text_layout(
                 "attached_assets/chapter3/3.7.61.jpg",
                 text1,
@@ -19778,7 +20118,89 @@ Aur ghamand hamesha vinash ki taraf le jaata hai."""
                 image_position="left"
             )
 
-            text2 = """ """
+            text2 = """ 
+            💪 Bhima ka jawab
+
+Bhima turant bola,
+“Bhai, main aapko kabhi akela nahi chhodunga!” 💥
+
+Usne kaha:
+
+“Hum sab saath chalenge”
+“Chahe raasta kitna bhi mushkil ho”
+“Main Draupadi ko khud utha lunga agar zarurat padi”
+
+Aur bola,
+“Main twins (Nakula-Sahadeva) ko bhi carry kar lunga!”
+
+😊 Draupadi ka hausla
+
+Draupadi (Krishna) muskura kar boli,
+“Main chal sakti hoon, aap tension mat lo.” 💫
+
+Sabke andar himmat aa gayi.
+
+🧘‍♂️ Tapasya ka raasta
+
+Lomasa rishi ne kaha,
+“Yeh pahaad aasani se nahi milta.
+Iske liye tapasya zaroori hai.”
+
+Sabne decide kiya —
+woh saath mein tapasya karenge.
+
+🏞️ Naya safar
+
+Sab log aage badhe…
+Aur ek sundar jagah par pahunche.
+
+Wahan ek raja Suvahu ne unka swagat kiya 😊
+
+Kuch din aaram karne ke baad,
+woh phir Himalaya ki taraf nikal pade.
+
+❤️ Bhaiyon ka saath
+
+Is safar mein sab saath the:
+
+Yudhishthira
+Bhima
+Nakula
+Sahadeva
+Draupadi
+
+Sabka ek hi goal tha —
+Arjuna se milna ❤️
+
+😢 Yudhishthira ka dard
+
+Raaste mein Yudhishthira udaas ho gaye…
+
+Unhone Bhima se kaha,
+“Mujhe Arjuna bahut yaad aa raha hai…”
+
+Unhone uski tarif ki:
+
+“Woh sabse powerful hai”
+“Woh sabka protector hai”
+“Usne hume itni khushiyan di thi”
+
+Aur bole,
+“Uske bina sab adhoora lagta hai…”
+
+🔥 Determination
+
+Yudhishthira ne kaha,
+“Chahe kitni bhi mushkil aaye…
+hum Arjuna ko dhoondhne jayenge.”
+
+“Hum apne mann ko control karenge,
+aur saath milkar aage badhenge.”
+
+🌟 Moral:
+
+Family ka saath aur ek dusre ke liye pyaar,
+sabse badi strength hoti hai."""
             create_image_text_layout(
                 text_content=text2,
                 layout="full"
