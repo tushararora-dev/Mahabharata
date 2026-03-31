@@ -20210,7 +20210,15 @@ sabse badi strength hoti hai."""
         # Section 3.7.62
         # --------------------------------------------------
         with st.expander("Section 3.7.62  Section CXLI"):
-            text1 = """ """
+            text1 = """ 
+            🏔️ Devlok ki ore safar
+
+Lomasa rishi ne Pandavo se kaha,
+“Ab tum devtaon ke sthaan ki taraf ja rahe ho…
+isliye dhyaan se aur shant mann se chalo.”
+
+Sab log serious ho gaye…
+kyunki aage ka raasta pavitra bhi tha aur mushkil bhi."""
             create_image_text_layout(
                 "attached_assets/chapter3/3.7.62.jpg",
                 text1,
@@ -20218,7 +20226,100 @@ sabse badi strength hoti hai."""
                 image_position="left"
             )
 
-            text2 = """ """
+            text2 = """ 
+            🌊 Alakananda nadi ka darshan
+
+Aage unhone dekha ek sundar nadi —
+Alakananda 🌊
+
+Yeh nadi bahut pavitra thi ✨
+Isse devta aur rishi bhi poojte the.
+
+Yahin par:
+
+rishi Sama Veda gaate the 🎶
+devta prarthana karte the 🙏
+
+Aur kaha jata hai…
+Bhagwan Shiv ne Ganga ko apne sir par yahin sambhala tha 💫
+
+🙏 Pandavo ki bhakti
+
+Pandavo ne milkar Ganga ji ko pranam kiya 🙇‍♂️
+Aur phir apna safar aage badhaya.
+
+😲 Ek ajeeb drishya
+
+Thodi door jaakar unhone dekha…
+ek bada sa safed pahaad jaisa kuch 🤯
+
+Yudhishthira sochne lage,
+“Yeh kya hai?”
+
+💀 Naraka daitya ki kahani
+
+Lomasa ne bataya,
+“Yeh koi mountain nahi…
+yeh Daitya Naraka ki haddiyan (bones) hain!”
+
+Woh ek powerful asur tha 😈
+Jo Indra ka rajya lena chahta tha.
+
+Usne bahut tapasya ki…
+aur bahut strong ho gaya.
+
+⚡ Vishnu ka intervention
+
+Indra darr gaya 😨
+Aur usne Bhagwan Vishnu se madad maangi.
+
+Vishnu ji aaye…
+aur ek hi strike mein Naraka ko maar diya ⚔️
+
+Uski haddiyan yahin reh gayi…
+jo aaj bhi dikh rahi thi.
+
+🐗 Varaha avatar ki kahani
+
+Phir Yudhishthira ne poocha,
+“Bhagwan ne dharti ko kaise bachaya?”
+
+Lomasa ne ek purani kahani sunai…
+
+🌍 Dharti ka bojh
+
+Ek samay dharti par itne log aur jeev ho gaye…
+ki dharti bojh se dab gayi 😢
+
+Woh neeche doobne lagi…
+aur Bhagwan se madad maangi.
+
+✨ Vishnu ka roop
+
+Tab Bhagwan Vishnu ne
+Varaha (suar/boar) ka roop liya 🐗
+
+Woh bahut bade aur powerful ho gaye 🔥
+
+💪 Dharti ko bachaya
+
+Unhone apne ek daant (tusk) par
+dharti ko uthaya 🌍
+
+Aur use wapas uski jagah par rakh diya ✨
+
+Sab devta hairaan ho gaye 😲
+Aur Bhagwan ki jai-jai karne lage.
+
+🌈 Safar jaari hai
+
+Yeh kahani sunkar Pandav aur bhi inspire ho gaye 💪
+Aur Lomasa ke saath aage badhne lage.
+
+🌟 Moral:
+
+Bhagwan hamesha dharma aur sachchai ki raksha karte hain,
+aur mushkil samay mein hume bachate hain."""
             create_image_text_layout(
                 text_content=text2,
                 layout="full"
@@ -20228,7 +20329,15 @@ sabse badi strength hoti hai."""
         # Section 3.7.63
         # --------------------------------------------------
         with st.expander("Section 3.7.63  Section CXLII"):
-            text1 = """ """
+            text1 = """ 
+            🏹 Gandhamadana ki taraf safar
+
+Vaisampayana ne kaha,
+“Pandav apne dhanush-baan ke saath,
+Draupadi (Panchali) aur Brahmano ko lekar
+Gandhamadana parvat ki taraf badhne lage.”
+
+Sab strong aur ready the 💪"""
             create_image_text_layout(
                 "attached_assets/chapter3/3.7.63.jpg",
                 text1,
@@ -20236,7 +20345,85 @@ sabse badi strength hoti hai."""
                 image_position="left"
             )
 
-            text2 = """ """
+            text2 = """ 
+            🌳 Sundar prakriti
+
+Raaste mein unhone dekha:
+
+khoobsurat nadiyan 🌊
+shaant jheel 🏞️
+bade-bade ped 🌳
+phool aur phal se bhare jungle 🌸
+
+Yeh jagah devtaon aur rishiyon se bhari hui thi ✨
+
+Pandav:
+
+fruits aur roots kha rahe the 🍃
+apne mann ko control mein rakh rahe the 🧘‍♂️
+
+Aur dheere dheere aage badh rahe the.
+
+🌪️ Achanak toofan
+
+Jaise hi woh mountain ke paas pahunche…
+ek bhayanak aandhi (storm) aa gayi 😨
+
+Tez hawa chalne lagi 🌪️
+Dhool aur patte hawa mein udne lage.
+
+Itna andhera ho gaya…
+ki koi kisi ko dekh nahi pa raha tha 😵
+
+😰 Dar ka mahaul
+
+Ped toot rahe the 🌳💥
+Zor-zor ki awaaz aa rahi thi…
+
+Pandav dar gaye aur sochne lage,
+“Kya aasman gir raha hai?” 😨
+
+🛡️ Bachne ki koshish
+
+Sabne alag-alag jagah shelter liya:
+
+Bhima ne Draupadi ko sambhala 🤝
+Yudhishthira jungle mein chhup gaye 🌲
+Sahadeva ne agni ko bachaya 🔥
+Nakula aur Lomasa ped ke neeche ruk gaye 🌳
+
+Sab apni jagah survive kar rahe the.
+
+⛈️ Tez baarish
+
+Thodi der baad…
+tez baarish shuru ho gayi 🌧️
+
+Bijli chamakne lagi ⚡
+Badal garajne lage ⛈️
+
+Nadiyan behne lagi…
+aur ped tak behne lage!
+
+🌈 Shanti wapas
+
+Kuch samay baad…
+toofan ruk gaya 😊
+
+Sab dheere dheere bahar aaye
+aur ek dusre se mile ❤️
+
+Sab safe the 🙏
+
+🚶‍♂️ Safar jaari
+
+Phir Pandav phir se himmat ke saath
+Gandhamadana parvat ki taraf badhne lage.
+
+🌟 Moral:
+
+Mushkil samay mein darrna nahi,
+himmat aur saath se har tufaan paar kiya ja sakta hai."""
             create_image_text_layout(
                 text_content=text2,
                 layout="full"
@@ -20246,7 +20433,17 @@ sabse badi strength hoti hai."""
         # Section 3.7.64
         # --------------------------------------------------
         with st.expander("Section 3.7.64  Section CXLIII"):
-            text1 = """ """
+            text1 = """ 
+            😔 Draupadi ki thakan
+
+Pandav thoda hi aage badhe the…
+tabhi Draupadi (Panchali) thak kar gir gayi 😢
+
+Woh itni delicate thi…
+aur itna mushkil safar uske liye bahut tough tha.
+
+Tez baarish aur thakan ki wajah se
+woh behosh jaisi ho gayi 😨"""
             create_image_text_layout(
                 "attached_assets/chapter3/3.7.64.jpg",
                 text1,
@@ -20254,7 +20451,94 @@ sabse badi strength hoti hai."""
                 image_position="left"
             )
 
-            text2 = """ """
+            text2 = """ 
+            🤝 Nakula ka sahara
+
+Jaise hi Draupadi girne lagi…
+Nakula turant bhaag kar aaya 💨
+
+Usne use sambhala aur bola,
+“Bhaiya, Draupadi bahut thak gayi hai…
+hume uska dhyaan rakhna hoga.”
+
+💔 Yudhishthira ka dard
+
+Yeh dekh kar Yudhishthira ka dil toot gaya 😢
+
+Unhone Draupadi ko apni godh mein uthaya
+aur dukh se bole:
+
+“Yeh rani toh mahal mein rehne layak thi…
+aur aaj zameen par gir gayi…”
+
+“Yeh sab meri galti hai…
+maine dice khela… aur sab kuch kho diya…”
+
+Unki aankhon mein aansu aa gaye 💔
+
+🙏 Sabka pyaar
+
+Sab Pandav uske paas aa gaye:
+
+Bhima 😠
+Sahadeva 😟
+Nakula 😢
+
+Sab uski help karne lage.
+
+Rishi logon ne bhi mantra padhe 📿
+aur uski health ke liye prarthana ki.
+
+🌬️ Dheere dheere theek
+
+Thandi hawa aur pyaar bhare sparsh se
+Draupadi dheere dheere theek hone lagi 😊
+
+Pandavo ne use araam karaya
+aur uske pair gently dabaye ❤️
+
+🤔 Aage ka problem
+
+Yudhishthira ne Bhima se kaha,
+“Aage aur bhi mushkil mountains hain…
+Draupadi kaise chalegi?”
+
+💪 Bhima ka solution
+
+Bhima ne confidently kaha:
+
+“Bhai, tension mat lo!” 💥
+
+“Main sabko utha sakta hoon!”
+
+Aur bola,
+“Agar aap chaho…
+toh mera beta Ghatotkacha hume help karega.”
+
+⚡ Ghatotkacha ka aana
+
+Bhima ne bas apne mann mein use yaad kiya…
+aur turant Ghatotkacha aa gaya! 😲
+
+Woh powerful rakshas tha 💪
+aur apne pita ke saamne haath jod kar khada ho gaya।
+
+Usne kaha,
+“Pitaji, aapne yaad kiya aur main aa gaya.
+Batayiye, main kya seva karun?” 🙏
+
+❤️ Pita-putra ka pyaar
+
+Bhima ne use gale laga liya 🤗
+Aur sab khush ho gaye.
+
+Ab unhe pata tha…
+ki unki madad aa chuki hai.
+
+🌟 Moral:
+
+Parivaar aur apno ka saath,
+sabse badi taqat hoti hai mushkil waqt mein."""
             create_image_text_layout(
                 text_content=text2,
                 layout="full"
@@ -20264,7 +20548,14 @@ sabse badi strength hoti hai."""
         # Section 3.7.65
         # --------------------------------------------------
         with st.expander("Section 3.7.65  Section CXLIV"):
-            text1 = """ """
+            text1 = """ 
+            💪 Draupadi ko sahara
+
+Yudhishthira ne kaha,
+“Bhima, tumhara beta Ghatotkacha bahut strong hai…
+woh Draupadi ko carry kare.”
+
+Bhima ne turant apne bete ko command diya."""
             create_image_text_layout(
                 "attached_assets/chapter3/3.7.65.jpg",
                 text1,
@@ -20272,7 +20563,100 @@ sabse badi strength hoti hai."""
                 image_position="left"
             )
 
-            text2 = """ """
+            text2 = """ 
+            🐉 Ghatotkacha ki taiyari
+
+Ghatotkacha bola,
+“Pitaji, main sabko aasani se utha sakta hoon!” 💥
+
+Usne kaha,
+“Main akela bhi sabko le ja sakta hoon…
+aur mere saath aur bhi rakshas madad karenge.”
+
+✈️ Udaan shuru
+
+Phir kya tha…
+
+Ghatotkacha ne Draupadi ko apne kandhe par uthaya 🤝
+Aur baaki rakshas ne Pandavo aur Brahmano ko carry kiya.
+
+Sab aasmaan ke raaste se chalne lage ✨
+
+🌍 Adbhut nazare
+
+Safar ke dauraan unhone dekha:
+
+alag-alag desh 🌍
+pahaad aur nadiyaan ⛰️🌊
+rang-birange janwar 🐘🦚
+sundar jungle 🌳
+
+Sab kuch magical lag raha tha 😲
+
+🏔️ Kailasa ka darshan
+
+Aage unhone dekha
+Kailasa parvat ⛰️
+
+Bahut hi pavitra aur sundar jagah ✨
+
+🌳 Divya jujube tree
+
+Wahan ek bada sa divya ped (jujube tree) tha 🌳
+
+uske phal meetha shahad jaisa tha 🍯
+uski chhaya thandi aur sukoon dene wali thi
+
+Rishi aur devta wahan rehte the.
+
+🏞️ Nara-Narayana ka ashram
+
+Phir Pandav ek pavitra jagah pahunche —
+Nara-Narayana ka ashram 🙏
+
+Wahan:
+
+rishi tapasya kar rahe the 🧘‍♂️
+vedon ka paath ho raha tha 📿
+sab kuch shaant aur pavitra tha ✨
+🙇‍♂️ Swagat aur shanti
+
+Rishiyon ne Pandavo ka swagat kiya ❤️
+Unhe paani, phal aur aashirvaad diya.
+
+Pandav bahut khush ho gaye 😊
+
+🌸 Swarg jaisa jeevan
+
+Wahan:
+
+sundar jheel thi 🌊
+phoolon se bhare jungle 🌸
+thandi hawa chal rahi thi 🌬️
+
+Sab kuch swarg jaisa lag raha tha ✨
+
+🙏 Pooja aur dhyaan
+
+Pandavo ne:
+
+snan kiya 🌊
+devta aur pitron ko jal diya
+dhyaan aur pooja ki 🙏
+
+Aur wahan shaanti se rehne lage.
+
+😊 Khushi ke pal
+
+Pandav aur Draupadi:
+
+jungle mein ghoomte 🌳
+prakriti ka anand lete 🌸
+aur shaanti se jeevan jeete
+🌟 Moral:
+
+Jab hum mushkil raste paar kar lete hain,
+toh aakhir mein shanti aur sukoon zaroor milta hai."""
             create_image_text_layout(
                 text_content=text2,
                 layout="full"
@@ -20282,7 +20666,17 @@ sabse badi strength hoti hai."""
         # Section 3.7.66
         # --------------------------------------------------
         with st.expander("Section 3.7.66  Section CXLV"):
-            text1 = """ """
+            text1 = """ 
+            🌸 Ek divya phool
+
+Pandav kuch din wahan rukkar
+Arjuna ka wait kar rahe the ⏳
+
+Tabhi achanak hawa ke saath
+ek divya kamal (lotus) aaya 🌸
+
+Woh bahut sundar tha…
+aur uski khushboo alag hi thi ✨"""
             create_image_text_layout(
                 "attached_assets/chapter3/3.7.66.jpg",
                 text1,
@@ -20290,7 +20684,92 @@ sabse badi strength hoti hai."""
                 image_position="left"
             )
 
-            text2 = """ """
+            text2 = """ 
+            💖 Draupadi ki ichchha
+
+Draupadi ne woh phool uthaya
+aur khush hokar Bhima se boli:
+
+“Bhima, mujhe aur aise phool chahiye 😊
+main inhe apne ashram le jaana chahti hoon.”
+
+💪 Bhima ka safar
+
+Bhima turant ready ho gaya 💥
+Aur phool dhoondhne ke liye nikal pada.
+
+Woh:
+
+hawa ki speed se chal raha tha 🌪️
+sher ki tarah fearless tha 🦁
+aur Draupadi ko khush karna chahta tha ❤️
+🌳 Jungle ka safar
+
+Raaste mein Bhima ne dekha:
+
+sundar pahaad ⛰️
+rang-birange janwar 🐘🦚
+phoolon ki khushboo se bhara jungle 🌸
+
+Sab kuch magical lag raha tha 😲
+
+🐘 Bhima ki taqat
+
+Bhima itna powerful tha ki:
+
+bade ped tod deta 🌳💥
+janwar darr kar bhaag jaate 😨
+jungle uski awaaz se goonj uthta
+
+Woh bilkul aandhi jaisa lag raha tha 🌪️
+
+🐒 Hanuman ka entry
+
+Aage jaakar Bhima ne dekha…
+ek bada sa vanar (monkey) raste mein leta hua hai 🐒
+
+Woh itna bada tha…
+jaise ek pahaad!
+
+Yeh koi aur nahi…
+Hanuman ji the 😲
+
+😌 Hanuman ki baat
+
+Hanuman ne aankh khol kar kaha:
+
+“Main so raha tha… tumne mujhe kyun jagaya?”
+
+“Insaan ko daya rakhni chahiye…
+tum janwaron ko kyun dara rahe ho?”
+
+Unhone Bhima ko samjhaya:
+
+“Yeh raasta aasaan nahi hai…
+aage devtaon ka path hai…
+tum wahan nahi ja sakte.”
+
+⚠️ Warning
+
+Hanuman bole,
+“Yahin ruk jao…
+aage jaana dangerous hai.”
+
+“Yahan fruits khao, rest karo…
+aur wapas laut jao.”
+
+😳 Bhima hairaan
+
+Bhima sochne laga…
+“Yeh kaun hai jo mujhe rok raha hai?”
+
+Par usse abhi pata nahi tha…
+ki woh uska bhai Hanuman hai.
+
+🌟 Moral:
+
+Strength ke saath wisdom bhi zaroori hai.
+Aur bade log hamesha hume sahi raasta dikhate hain."""
             create_image_text_layout(
                 text_content=text2,
                 layout="full"
