@@ -20779,7 +20779,16 @@ Aur bade log hamesha hume sahi raasta dikhate hain."""
         # Section 3.7.67
         # --------------------------------------------------
         with st.expander("Section 3.7.67  Section CXLVI"):
-            text1 = """ """
+            text1 = """ 
+            🐒 Bhima ka sawaal
+
+Bhima ne us bade vanar (monkey) se poocha,
+“Tum kaun ho? Aur mera raasta kyun rok rahe ho?” 😠
+
+Usne apni pehchaan batayi:
+
+“Main Pandu ka beta hoon…
+aur Vayu dev ka putra — Bhima!” 💪"""
             create_image_text_layout(
                 "attached_assets/chapter3/3.7.67.jpg",
                 text1,
@@ -20787,7 +20796,103 @@ Aur bade log hamesha hume sahi raasta dikhate hain."""
                 image_position="left"
             )
 
-            text2 = """ """
+            text2 = """ 
+            😌 Hanuman ka jawab
+
+Vanar muskuraaya 😊
+Aur bola,
+
+“Main ek simple monkey hoon…
+aur main tumhe aage nahi jaane dunga.”
+
+“Wapas chale jao… warna mushkil hogi.”
+
+😤 Bhima ka gussa
+
+Bhima gusse mein bola,
+“Mujhe mat roko!”
+
+“Agar tum nahi hatega…
+toh main tumhe hata dunga!” 💥
+
+🐒 Hanuman ki chaal
+
+Hanuman ne shanti se kaha,
+“Main budha ho gaya hoon… uth nahi sakta 😌”
+
+“Agar jaana hai…
+toh meri poonch (tail) hata kar nikal jao.”
+
+💪 Bhima ki koshish
+
+Bhima hans pada 😏
+Aur socha,
+
+“Yeh toh easy hai!”
+
+Usne ek haath se poonch uthani chahi…
+par woh hili bhi nahi 😳
+
+Phir dono haathon se try kiya…
+phir bhi nahi hila! 😨
+
+😓 Shock aur sharam
+
+Bhima:
+
+paseena-paseena ho gaya 💦
+uska face serious ho gaya 😟
+
+Par phir bhi…
+woh poonch nahi utha paaya.
+
+🙏 Bhima ka badlav
+
+Ab Bhima samajh gaya…
+yeh koi aam vanar nahi hai।
+
+Woh sharminda ho gaya 😔
+Aur haath jod kar bola,
+
+“Please mujhe maaf karo…”
+
+“Aap kaun ho?
+Koi devta ho kya?”
+
+🐒 Hanuman ka sach
+
+Tab vanar ne sach bataya:
+
+“Main Hanuman hoon…” 🐒
+
+“Main bhi Vayu dev ka beta hoon…
+aur tumhara bhai hoon!” ❤️
+
+🌟 Ramayana ka connection
+
+Hanuman ne bataya:
+
+“Main Ram ji ka sevak hoon 🙏”
+
+“Main hi tha jisne ek leap mein
+samundar paar kiya tha 🌊”
+
+Aur Sita maa ko dhoonda tha.
+
+😲 Bhima hairaan
+
+Yeh sunkar Bhima shock ho gaya 😲
+Aur uska ghamand toot gaya।
+
+Ab woh samajh gaya…
+
+👉 asli strength sirf power nahi
+👉 vinamrata (humility) bhi zaroori hai
+
+🌟 Moral:
+
+Zyada taqat hone par ghamand nahi karna chahiye —
+kyunki hamesha koi na koi humse zyada powerful hota hai."""
             create_image_text_layout(
                 text_content=text2,
                 layout="full"
@@ -20797,7 +20902,19 @@ Aur bade log hamesha hume sahi raasta dikhate hain."""
         # Section 3.7.68
         # --------------------------------------------------
         with st.expander("Section 3.7.68  Section CXLVII"):
-            text1 = """ """
+            text1 = """ 
+            🐒 Hanuman sunate hain Ram ji ki kahani
+
+Hanuman ji ne Bhima se pyaar se kaha,
+“Sun bhai, main tujhe ek kahani sunata hoon…” ❤️
+
+👑 Ram aur Sugriva ki dosti
+
+Jab Sita maa ko Ravana le gaya…
+tab Bhagwan Rama unhe dhoond rahe the 😢
+
+Tab unki mulaqat hui
+Sugriva (monkey king) se 🐒"""
             create_image_text_layout(
                 "attached_assets/chapter3/3.7.68.jpg",
                 text1,
@@ -20805,7 +20922,118 @@ Aur bade log hamesha hume sahi raasta dikhate hain."""
                 image_position="left"
             )
 
-            text2 = """ """
+            text2 = """ 
+            Dono ne dosti ki 🤝
+Aur Ram ji ne Sugriva ki help ki:
+
+👉 unhone uske bhai Vali ko hara diya
+👉 aur Sugriva ko raja bana diya 👑
+
+🔍 Sita ki talaash
+
+Phir Sugriva ne hazaaron vanar bheje
+Sita maa ko dhoondne ke liye 🔍
+
+Hanuman ji bhi south direction mein gaye
+aur search shuru ki.
+
+🐦 Sampati ka secret
+
+Ek din ek bada vulture mila — Sampati 🐦
+
+Usne bataya:
+👉 “Sita Lanka mein hai!”
+
+🌊 Samundar par leap
+
+Yeh sunte hi…
+Hanuman ji ne ek bada decision liya 💥
+
+👉 unhone 100 yojan ka samundar ek jump mein cross kar diya! 😲
+
+🏰 Lanka mein entry
+
+Hanuman ji Lanka pahunche
+aur Sita maa ko dekha ❤️
+
+Woh bahut dukhi thi 😢
+par Hanuman ji ne unhe hope di.
+
+🔥 Lanka mein hungama
+
+Phir Hanuman ji ne:
+
+👉 Lanka ko jala diya 🔥
+👉 apni power dikhayi
+👉 aur wapas Ram ji ke paas laut aaye
+
+⚔️ Ram-Ravana yudh
+
+Ram ji ne plan banaya
+aur apni sena ke saath Lanka gaye.
+
+👉 Samundar par bridge banaya 🌉
+👉 aur bada yudh hua ⚔️
+
+Aakhir mein:
+
+👉 Ravana haar gaya 😈
+👉 aur Ram ji jeet gaye ✨
+
+👑 Vibhishana bana raja
+
+Ram ji ne Lanka ka raja banaya
+Vibhishana ko 👑
+
+Woh achha aur dharmik tha.
+
+❤️ Sita maa wapas
+
+Ram ji ne Sita maa ko wapas paaya 💖
+Aur dono Ayodhya laut gaye 🏙️
+
+Wahan Ram ji ne rajya sambhala
+aur sab khush ho gaye 😊
+
+🙏 Hanuman ka vardaan
+
+Hanuman ji ne Ram ji se bola,
+“Main tab tak jeena chahta hoon
+jab tak aapki kahani duniya mein rahe।”
+
+Ram ji bole,
+“Tathastu (so be it)” ✨
+
+⚠️ Bhima ke liye warning
+
+Phir Hanuman ji ne Bhima se kaha:
+
+“Yeh raasta insaano ke liye nahi hai…”
+
+“Yeh devtaon ka path hai.” 😨
+
+“Isliye main tumhe rok raha tha —
+tumhari safety ke liye.”
+
+🏞️ Sahi raasta
+
+Hanuman ji ne bola,
+“Jis phool ke liye tum aaye ho…
+woh lake uss direction mein hai.”
+
+😊 Bhai ka pyaar
+
+Hanuman ji ne Bhima ko guide kiya
+aur protect bhi kiya ❤️
+
+Ab Bhima samajh gaya…
+
+👉 asli taqat = strength + wisdom + humility
+
+🌟 Moral:
+
+Bade log hamesha hume sahi raasta dikhate hain —
+unhe sunna aur samajhna hi asli buddhi hai."""
             create_image_text_layout(
                 text_content=text2,
                 layout="full"
@@ -20815,7 +21043,19 @@ Aur bade log hamesha hume sahi raasta dikhate hain."""
         # Section 3.7.69
         # --------------------------------------------------
         with st.expander("Section 3.7.69  Section CXLVIII"):
-            text1 = """ """
+            text1 = """ 
+            🙏 Bhima ka respect
+
+Bhima ne pyaar se Hanuman ji ko pranam kiya 🙇‍♂️
+Aur bola,
+
+“Main bahut lucky hoon…
+ki mujhe apne bade bhai ka darshan mila!” ❤️
+
+Phir usne ek wish rakhi:
+
+“Bhai, mujhe aapka woh bada wala roop dekhna hai…
+jab aapne samundar cross kiya tha!” 😲"""
             create_image_text_layout(
                 "attached_assets/chapter3/3.7.69.jpg",
                 text1,
@@ -20823,7 +21063,117 @@ Aur bade log hamesha hume sahi raasta dikhate hain."""
                 image_position="left"
             )
 
-            text2 = """ """
+            text2 = """ 
+            😌 Hanuman ka jawab
+
+Hanuman ji muskuraaye 😊
+Aur bole,
+
+“Woh roop ab dekhna possible nahi hai…”
+
+“Samay (Time) ke saath sab badal jaata hai ⏳”
+
+“Har yug mein sab kuch alag hota hai —
+log, shakti, nature… sab.”
+
+⏳ Samay ka sach
+
+Hanuman ji bole,
+“Time sabse powerful hai…
+koi usse nahi hara sakta.”
+
+🤔 Bhima ka sawaal
+
+Bhima ne poocha,
+“Phir mujhe batao…
+yeh alag-alag yug kya hote hain?”
+
+🌟 Krita Yuga (Golden Age)
+
+Hanuman ji bole:
+
+“Yeh sabse best yug tha ✨”
+
+sab log sachche the 😊
+koi jhooth nahi
+koi dukh nahi
+koi disease nahi
+
+Sab log:
+
+👉 Bhagwan ko directly pa sakte the 🙏
+👉 bas dhyaan aur shanti se
+
+Sab perfect tha 🌸
+
+🔥 Treta Yuga
+
+Phir aaya Treta Yuga:
+
+thoda dharma kam ho gaya
+log yagya aur rituals karne lage 🔥
+
+Par phir bhi:
+
+👉 log acche the
+👉 sachchai follow karte the
+
+⚔️ Dvapara Yuga
+
+Phir aaya Dvapara Yuga:
+
+dharma aur kam ho gaya 😔
+log divided ho gaye
+knowledge kam ho gaya
+
+👉 kuch log Vedas jaante the
+👉 kuch nahi jaante the
+
+Problems badhne lagi.
+
+🌑 Kali Yuga (Aaj ka yug)
+
+Hanuman ji bole,
+
+“Ab hai Kali Yuga…” 😟
+
+dharma bahut kam reh gaya
+log jhooth bolte hain
+gussa, greed aur tension badh gaya
+
+👉 diseases
+👉 fear
+👉 problems
+
+Sab badh gaye.
+
+⚠️ Ek bada sach
+
+Hanuman ji ne kaha:
+
+“Jaise-jaise yug badalte hain…
+log aur duniya dono change hote hain.”
+
+👉 dharma kam hota hai
+👉 problems badhti hain
+
+😊 Ant mein salah
+
+Hanuman ji bole,
+“Jo maine bataya… woh kaafi hai.”
+
+“Zyada unnecessary cheezon mein mat padho…
+aur apna raasta follow karo.”
+
+❤️ Bhai ka pyaar
+
+Bhima ne sab samjha…
+aur Hanuman ji ka respect aur badh gaya.
+
+🌟 Moral:
+
+Samay ke saath sab badalta hai —
+par jo sach aur dharma par tikta hai, wahi sahi raaste par rehta hai."""
             create_image_text_layout(
                 text_content=text2,
                 layout="full"
@@ -20833,7 +21183,17 @@ Aur bade log hamesha hume sahi raasta dikhate hain."""
         # Section 3.7.70
         # --------------------------------------------------
         with st.expander("Section 3.7.70  Section CXLIX"):
-            text1 = """ """
+            text1 = """ 
+            😲 Bhima ki zidd
+
+Bhima bola,
+“Bhai, jab tak main aapka bada roop nahi dekhunga…
+main yahan se nahi jaunga!” 😤
+
+🐒 Hanuman ka vishal roop
+
+Hanuman ji muskuraaye 😊
+Aur achanak…"""
             create_image_text_layout(
                 "attached_assets/chapter3/3.7.70.jpg",
                 text1,
@@ -20841,7 +21201,116 @@ Aur bade log hamesha hume sahi raasta dikhate hain."""
                 image_position="left"
             )
 
-            text2 = """ """
+            text2 = """ 
+            👉 unka sharir badhne laga
+👉 badhta hi gaya
+👉 itna bada ho gaya… jaise ek pahaad! ⛰️
+
+Unka roop:
+
+chamakdar ☀️
+bhayanak par divine 😲
+aasman tak pahunch gaya
+
+Bhima hairaan reh gaya 😳
+
+😨 Bhima ka reaction
+
+Bhima ke:
+
+rom khade ho gaye 😲
+aankhen band ho gayi
+woh darr aur surprise dono feel kar raha tha
+🙏 Vinamrata
+
+Bhima ne haath jod kar kaha,
+“Bhai, ab bas… main aur nahi dekh sakta!” 😔
+
+“Please apna roop chhota kar lo…”
+
+💪 Hanuman ki asli shakti
+
+Hanuman ji bole,
+“Yeh toh bas thoda sa roop tha…”
+
+“Main aur bhi bada ho sakta hoon!” 💥
+
+“Jab main battlefield mein hota hoon…
+meri shakti aur badh jaati hai!”
+
+🤔 Bhima ka sawaal
+
+Bhima ne hairaan hokar poocha,
+“Phir aapne Ram ji ke time Ravana ko khud kyun nahi maara?”
+
+❤️ Hanuman ka jawab
+
+Hanuman ji bole,
+“Main easily Ravana ko hara sakta tha…”
+
+“Par agar main karta…
+toh Ram ji ki glory kam ho jaati.”
+
+“Isliye maine unhe hi jeetne diya.”
+
+🛤️ Sahi raasta
+
+Hanuman ji ne Bhima ko guide kiya:
+
+👉 “Yeh raasta tumhe Saugandhika forest tak le jayega” 🌸
+👉 “Wahan Kubera ke gardens hain”
+
+Par warning bhi di ⚠️:
+
+👉 “Zabardasti phool mat todna”
+👉 “Devtaon ka respect karna”
+
+📜 Jeevan ke rules
+
+Hanuman ji ne Bhima ko important gyaan diya:
+
+👉 Apna duty follow karo
+👉 elders ki respect karo
+👉 bina soche kaam mat karo
+
+“Har insaan ka ek role hota hai —
+use honestly follow karo.”
+
+👑 Raja ka dharma
+
+Hanuman ji bole:
+
+“Ek king ko:”
+
+nyay karna chahiye ⚖️
+acche logon ko protect karna chahiye ❤️
+bure logon ko punish karna chahiye
+
+Aur:
+
+👉 smart advisors rakhne chahiye
+👉 spies se info lena chahiye
+
+⚖️ Balance zaroori hai
+
+“Na zyada soft…
+na zyada strict.”
+
+👉 balance hi success ka secret hai ✨
+
+🌈 Ant mein ashirvaad
+
+Hanuman ji ne kaha,
+“Apna dharma follow karo…
+aur tumhe success milegi.”
+
+Bhima ne sab dhyaan se suna
+aur seekh liya ❤️
+
+🌟 Moral:
+
+Asli taqat sirf power nahi hoti —
+buddhi, vinamrata aur sahi decisions hi jeet dilate hain."""
             create_image_text_layout(
                 text_content=text2,
                 layout="full"
@@ -20851,7 +21320,19 @@ Aur bade log hamesha hume sahi raasta dikhate hain."""
         # Section 3.7.71
         # --------------------------------------------------
         with st.expander("Section 3.7.71  Section CL"):
-            text1 = """ """
+            text1 = """ 
+            🤗 Bhaiyon ka pyaar
+
+Hanuman ji ne apna bada roop chhota kiya
+aur phir se Bhima ko gale laga liya 🤗
+
+Jaise hi Bhima unse mila…
+
+👉 uski saari thakan chali gayi 😌
+👉 uski strength aur badh gayi 💪
+
+Bhima ko laga —
+“Ab mujhe koi hara nahi sakta!”"""
             create_image_text_layout(
                 "attached_assets/chapter3/3.7.71.jpg",
                 text1,
@@ -20859,7 +21340,81 @@ Aur bade log hamesha hume sahi raasta dikhate hain."""
                 image_position="left"
             )
 
-            text2 = """ """
+            text2 = """ 
+            😢 Hanuman ka pyaar
+
+Hanuman ji ki aankhon mein aansu aa gaye ❤️
+Aur woh pyaar se bole,
+
+“Bhai, ab tum wapas chale jao…”
+
+“Bas kabhi kabhi mujhe yaad kar lena.”
+
+🤫 Ek secret
+
+Hanuman ji ne kaha:
+
+“Yeh jagah special hai…
+isliye kisi ko mat batana ki main yahan hoon.”
+
+💭 Ram ji ki yaad
+
+Hanuman ji bole,
+“Tumse milkar mujhe **Ram ji ki yaad aa gayi…” 😌
+
+“Woh hi duniya ko khush karne wale the…
+aur Ravana ke andhere ko khatam karne wale the.”
+
+🎁 Bhima ke liye offer
+
+Hanuman ji ne pyaar se kaha:
+
+“Bhai, agar tum chaho…”
+
+👉 main Duryodhana ko pakad kar laa sakta hoon 😠
+👉 ya poori city tod sakta hoon 💥
+👉 ya tumhare enemies ko abhi hara sakta hoon
+
+😊 Bhima ka jawab
+
+Bhima muskuraaya 😊
+Aur bola,
+
+“Bhai, mujhe sab kuch mil gaya hai…”
+
+“Bas aapka saath hi kaafi hai ❤️”
+
+🛡️ Hanuman ka promise
+
+Hanuman ji bole:
+
+“Main tumhari help zaroor karunga!”
+
+👉 “Jab tum yudh mein garajoge 🦁
+main bhi tumhari awaaz ko strong banaunga”
+
+👉 “Main Arjuna ke rath ke jhande par rahunga 🚩
+aur dushmanon ko daraunga!” 😨
+
+🌟 Powerful support
+
+Hanuman ji ka promise matlab:
+
+👉 Pandavo ko ek invisible power mil gayi 💥
+👉 unka confidence aur strong ho gaya
+
+👋 Vidai
+
+Hanuman ji ne Bhima ko raasta dikhaya 🛤️
+Aur phir dheere se gayab ho gaye ✨
+
+Bhima akela tha…
+par ab woh aur bhi powerful feel kar raha tha 💪
+
+🌟 Moral:
+
+Sachcha support hamesha saamne nahi dikhta,
+par woh hume andar se strong bana deta hai."""
             create_image_text_layout(
                 text_content=text2,
                 layout="full"
