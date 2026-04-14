@@ -21424,7 +21424,19 @@ par woh hume andar se strong bana deta hai."""
         # Section 3.7.72
         # --------------------------------------------------
         with st.expander("Section 3.7.72  Section CLI"):
-            text1 = """ """
+            text1 = """ 
+            🐒 Hanuman ki yaad
+
+Jab Hanuman ji chale gaye…
+toh Bhima akela aage badhne laga 🚶‍♂️
+
+Woh unke baare mein soch raha tha:
+
+👉 unki shakti 💪
+👉 unka roop ✨
+👉 aur Ram ji ki mahima ❤️
+
+Uska mann inspired tha 😊"""
             create_image_text_layout(
                 "attached_assets/chapter3/3.7.72.jpg",
                 text1,
@@ -21432,7 +21444,105 @@ par woh hume andar se strong bana deta hai."""
                 image_position="left"
             )
 
-            text2 = """ """
+            text2 = """ 
+            🌳 Sundar jungle ka safar
+
+Bhima chalta gaya…
+aur usne dekha:
+
+khoobsurat jungle 🌳
+phoolon se bhare ped 🌸
+nadiyan aur jheel 🌊
+
+Sab jagah nature ka magic tha ✨
+
+🐘 Jungle ke jaanwar
+
+Raaste mein usne dekha:
+
+👉 bade-bade haathi 🐘
+👉 tez hiran 🦌
+👉 aur dusre janwar
+
+Sab apni life jee rahe the 😊
+
+🌸 Khushboo se bhara jungle
+
+Hawa mein phoolon ki khushboo thi 🌸
+Aur ped hawa mein hil rahe the 🌬️
+
+Jaise woh Bhima ko welcome kar rahe ho 😊
+
+🏔️ Mushkil raasta
+
+Bhima pahadon mein ghus gaya ⛰️
+
+Wahan:
+
+👉 bhalu 🐻
+👉 leopard 🐆
+👉 buffalo 🐃
+
+rehte the
+
+Par Bhima bilkul nahi dara 😎
+
+🌊 Lotus lakes
+
+Raaste mein usne dekhi:
+
+👉 kamal se bhari jheel 🌸
+👉 madhumakkhiyan 🐝
+👉 sundar ghaati
+
+Lag raha tha jaise jheel
+Bhima ko pranam kar rahi ho 🙏
+
+❤️ Draupadi ki yaad
+
+Bhima ke mann mein ek hi baat thi:
+
+👉 “Mujhe Draupadi ke liye phool lana hai” 💖
+
+Woh aur fast chalne laga 💨
+
+🌞 Saugandhika ka milna
+
+Dopahar ke baad…
+Bhima ek badi nadi ke paas pahuncha 🌊
+
+Wahan:
+
+👉 golden kamal 🌸
+👉 hans (swans) 🦢
+👉 sundar birds 🐦
+
+Sab kuch heavenly lag raha tha ✨
+
+😍 Sapna poora
+
+Bhima ne dekha —
+Saugandhika flowers! 🌸
+
+Woh chamak rahe the
+jaise rising sun ☀️
+
+Bhima khush ho gaya 😊
+
+👉 “Mera kaam ho gaya!”
+
+💭 Pyar bhara soch
+
+Usne socha:
+
+👉 “Draupadi kitni khush hogi…” ❤️
+
+Aur mann hi mann
+use yeh phool dedicate kiye 💖
+
+🌟 Moral:
+
+Saccha pyaar aur commitment hume mushkil safar bhi aasaan bana deta hai."""
             create_image_text_layout(
                 text_content=text2,
                 layout="full"
@@ -21442,7 +21552,19 @@ par woh hume andar se strong bana deta hai."""
         # Section 3.7.73
         # --------------------------------------------------
         with st.expander("Section 3.7.73  Section CLII"):
-            text1 = """ """
+            text1 = """ 
+            🌸 Divya jheel ka darshan
+
+Bhima aage badhte hue
+ek bahut hi sundar jagah par pahuncha ⛰️
+
+Wahan ek divya jheel (lake) thi 🌊
+
+👉 Kailasa ke paas
+👉 Kubera ke mahal ke nazdeek
+
+Woh jheel dekhne mein
+bilkul swarg jaisi thi ✨"""
             create_image_text_layout(
                 "attached_assets/chapter3/3.7.73.jpg",
                 text1,
@@ -21450,7 +21572,103 @@ par woh hume andar se strong bana deta hai."""
                 image_position="left"
             )
 
-            text2 = """ """
+            text2 = """ 
+            🌼 Sundarta ka jadoo
+
+Jheel ke aas-paas:
+
+sundar jungle 🌳
+rang-birange phool 🌸
+hari-hari bel (creepers)
+
+Aur:
+
+👉 paani bilkul saaf aur thanda 💧
+👉 taste bhi amrit jaisa 😲
+
+Bhima ne paani piya
+aur fresh feel kiya 😊
+
+🌸 Golden lotuses
+
+Us jheel mein:
+
+👉 Saugandhika aur golden kamal 🌸
+👉 chamak rahe the jaise sona ✨
+
+Unki khushboo itni achhi thi
+ki poori jagah mehek rahi thi 💖
+
+🦢 Shanti aur sundarta
+
+Wahan:
+
+👉 hans (swans) 🦢
+👉 sundar birds 🐦
+
+aaraam se ghoom rahe the
+
+Lotus hil rahe the
+aur pollen hawa mein ud raha tha 🌬️
+
+Sab kuch magical lag raha tha ✨
+
+👑 Kubera ka garden
+
+Yeh jagah thi:
+
+👉 Kubera (Yaksha ke raja) ka favourite spot 👑
+
+👉 devta, gandharva, apsara sab yahan aate the 😊
+
+⚔️ Rakshas guard
+
+Par ek problem thi…
+
+👉 yeh jheel heavily guarded thi 😨
+
+👉 hazaaron Rakshas (Krodhavasas)
+weapons lekar khade the ⚔️
+
+💪 Bhima fearless
+
+Bhima:
+
+👉 deer-skin pehne hue 🦌
+👉 haath mein weapons ⚔️
+👉 bilkul fearless 😎
+
+Woh seedha jheel ki taraf badhne laga।
+
+😠 Rakshason ka sawaal
+
+Rakshas ne use dekh liya 😨
+Aur ek doosre se bole:
+
+👉 “Yeh kaun hai?”
+
+Phir sab Bhima ke paas aaye
+aur bole:
+
+👉 “Tum kaun ho?”
+👉 “Sadhu jaise dikhte ho…
+par weapons leke aaye ho?”
+
+👉 “Yahan kyun aaye ho?”
+
+😲 Tension ka moment
+
+Ab situation thodi tense ho gayi…
+
+👉 Bhima akela tha
+👉 saamne hazaaron Rakshas
+
+Par Bhima bilkul dara nahi 😎
+
+🌟 Moral:
+
+Jo apne goal par focus karta hai,
+woh mushkil situations se bhi nahi darta."""
             create_image_text_layout(
                 text_content=text2,
                 layout="full"
@@ -21460,7 +21678,16 @@ par woh hume andar se strong bana deta hai."""
         # Section 3.7.74
         # --------------------------------------------------
         with st.expander("Section 3.7.74  Section CLIII"):
-            text1 = """ """
+            text1 = """ 
+            💪 Bhima ka jawab
+
+Bhima ne Rakshason ko seedha jawab diya 😎
+
+“Main Pandu ka beta hoon…
+aur mera naam Bhimasena hai!” 💥
+
+“Main yahan apni wife Draupadi ke liye
+Saugandhika phool lene aaya hoon.”"""
             create_image_text_layout(
                 "attached_assets/chapter3/3.7.74.jpg",
                 text1,
@@ -21468,7 +21695,111 @@ par woh hume andar se strong bana deta hai."""
                 image_position="left"
             )
 
-            text2 = """ """
+            text2 = """ 
+            ⚠️ Rakshason ki warning
+
+Rakshas bole 😠
+
+👉 “Yeh jagah Kubera ki hai!”
+👉 “Yahan bina permission koi nahi aa sakta!”
+
+“Pehle permission lo…
+phir phool le jana!”
+
+😤 Bhima ka attitude
+
+Bhima bola:
+
+👉 “Main kisi se permission nahi maangta!”
+👉 “Main Kshatriya hoon!” 💪
+
+“Yeh lake sabka hai…
+sirf Kubera ka nahi!”
+
+🌊 Bhima ka entry
+
+Yeh kehkar Bhima seedha
+jheel mein ghus gaya 😎
+
+Rakshas chillane lage:
+
+👉 “Ruko!”
+👉 “Mat jao!”
+
+Par Bhima ne kisi ki nahi suni ❌
+
+⚔️ Yudh shuru
+
+Rakshas gusse mein aa gaye 😡
+
+👉 “Pakdo ise!”
+👉 “Maar do!”
+
+Sab weapons lekar Bhima par toot pade ⚔️
+
+💥 Bhima ka power
+
+Bhima ne apni gada (mace) uthayi 💪
+
+Aur bola,
+“Ruko!”
+
+Phir:
+
+👉 unke attacks rok diye
+👉 unhe peeche dhakel diya
+👉 aur bahuton ko hara diya 😲
+
+😨 Rakshas bhag gaye
+
+Bhima ki power dekhkar:
+
+👉 Rakshas darr gaye 😟
+👉 aur sab bhagne lage
+
+Kuch toh hawa mein udkar bhaag gaye ☁️
+
+🌸 Bhima ka kaam
+
+Ab Bhima relaxed ho gaya 😊
+
+👉 usne jheel ka paani piya
+👉 aur fresh feel kiya 💧
+
+👉 phir Saugandhika phool todne laga 🌸
+
+👑 Kubera ka decision
+
+Rakshas ghabra kar
+Kubera ke paas gaye 😨
+
+Aur sab bata diya।
+
+Kubera muskuraaya 😊
+Aur bola:
+
+👉 “Bhima ko phool lene do…”
+👉 “Mujhe sab pata hai।”
+
+😊 Sab shaant ho gaya
+
+Rakshas wapas aaye
+aur ab gussa nahi the 😌
+
+Unhone Bhima ko allow kar diya
+aur Bhima khushi se phool lene laga 🌸
+
+💖 Mission complete
+
+Bhima ne apna kaam poora kiya 😊
+
+👉 Draupadi ke liye phool mil gaye
+👉 uska promise poora ho gaya ❤️
+
+🌟 Moral:
+
+Himmat aur determination se mushkil kaam bhi aasaan ho jaata hai —
+par sahi niyat hona sabse zaroori hai."""
             create_image_text_layout(
                 text_content=text2,
                 layout="full"
@@ -21478,7 +21809,13 @@ par woh hume andar se strong bana deta hai."""
         # Section 3.7.75
         # --------------------------------------------------
         with st.expander("Section 3.7.75  Section CLIV"):
-            text1 = """ """
+            text1 = """ 
+            🌸 Bhima ka mission
+
+Bhima khushi-khushi
+Saugandhika phool tod raha tha 🌸
+
+Usne bahut saare rare aur sundar phool collect kar liye 😊"""
             create_image_text_layout(
                 "attached_assets/chapter3/3.7.75.jpg",
                 text1,
@@ -21486,7 +21823,117 @@ par woh hume andar se strong bana deta hai."""
                 image_position="left"
             )
 
-            text2 = """ """
+            text2 = """ 
+            ⚠️ Achanak badal gaya mahaul
+
+Tabhi achanak… 😨
+
+👉 tez hawa chalne lagi 🌪️
+👉 aasman mein ajeeb awaazein aayi ⚡
+👉 suraj dhundla ho gaya ☀️
+
+👉 zameen hilne lagi 🌍
+👉 janwar chillane lage 🐺
+
+Sab kuch scary ho gaya 😱
+
+👑 Yudhishthira ko doubt
+
+Yudhishthira ne yeh sab dekha
+aur bola:
+
+👉 “Lagta hai koi bada yudh hone wala hai…”
+
+Phir usne poocha:
+
+👉 “Bhima kahan hai?” 😟
+
+💖 Draupadi ka jawab
+
+Draupadi ne pyaar se kaha:
+
+👉 “Maine hi Bhima se kaha tha…”
+👉 “ki woh mere liye phool lekar aaye” 🌸
+
+“Woh meri wish poori karne gaya hai.”
+
+🚶‍♂️ Sab nikal pade
+
+Yudhishthira ne decide kiya:
+
+👉 “Chalo Bhima ko dhoondte hain!”
+
+👉 Rakshas Brahmanon ko utha kar le gaye
+👉 Ghatotkacha ne Draupadi ko carry kiya 💪
+
+Sab milkar Bhima ke paas gaye।
+
+🌸 Jheel tak pahunchna
+
+Thodi der mein sab
+us beautiful lake tak pahunch gaye 🌊
+
+Wahan unhone dekha:
+
+👉 sundar kamal 🌸
+👉 aur khoobsurat jungle 🌳
+
+😲 Shock moment
+
+Phir unhone dekha…
+
+👉 bahut saare Yaksha mare pade the 😨
+👉 aur beech mein khada tha Bhima
+
+👉 haath mein gada ⚔️
+👉 aankhon mein gussa 😠
+
+Jaise Yamraj khud khade ho 💀
+
+🤗 Bhai ka pyaar
+
+Yudhishthira ne Bhima ko gale laga liya ❤️
+
+Aur pyaar se bola:
+
+👉 “Tumne kya kar diya…”
+
+👉 “Aise risky kaam mat karo…”
+👉 “Devtaon ko naraaz mat karo”
+
+😊 Sab shaant
+
+Bhima ne suna
+aur sab calm ho gaya 😌
+
+Phir:
+
+👉 sab ne milkar lake enjoy ki 🌊
+👉 aur phool le liye 🌸
+
+🙏 Rakshas bhi shaant
+
+Tab wahan aur Rakshas aaye
+par Yudhishthira ne unhe samjha diya 😊
+
+👉 sab shaant ho gaye
+👉 koi fight nahi hui
+
+⛰️ Kuch din ka stay
+
+Pandav wahan kuch time ruk gaye
+aur peacefully rehne lage 🌄
+
+👉 woh Arjuna ka wait kar rahe the ❤️
+
+🌈 Final sach
+
+👉 jaldi mein liya decision danger la sakta hai
+👉 par samajh aur shanti sab kuch theek kar deti hai
+
+🌟 Moral:
+
+Himmat achhi hai, par buddhi aur patience usse bhi zyada zaroori hai."""
             create_image_text_layout(
                 text_content=text2,
                 layout="full"
@@ -21496,7 +21943,22 @@ par woh hume andar se strong bana deta hai."""
         # Section 3.7.76
         # --------------------------------------------------
         with st.expander("Section 3.7.76  Section CLV"):
-            text1 = """ """
+            text1 = """ 
+            🌍 Yudhishthira ka vichaar
+
+Ek din Yudhishthira ne sabse kaha 😊
+
+“Humne bahut saare tirth (holy places) dekhe hain…”
+
+👉 sundar jungle 🌳
+👉 pavitra nadiyan 🌊
+👉 bade-bade pahaad ⛰️
+
+Aur har jagah:
+
+👉 puja ki 🙏
+👉 kahaniyaan suni 📖
+👉 aur seekh li"""
             create_image_text_layout(
                 "attached_assets/chapter3/3.7.76.jpg",
                 text1,
@@ -21504,7 +21966,83 @@ par woh hume andar se strong bana deta hai."""
                 image_position="left"
             )
 
-            text2 = """ """
+            text2 = """ 
+            🌊 Pavitra yatra
+
+Unhone yaad kiya:
+
+👉 Ganga, Yamuna, Sarasvati mein snaan kiya
+👉 Himalaya dekha ⛰️
+👉 rishiyon ke ashram visit kiye
+
+Sab kuch divine aur peaceful tha ✨
+
+🤔 Naya sawaal
+
+Phir Yudhishthira ne poocha:
+
+👉 “Ab hum Kubera ke ghar kaise jaayein?”
+
+Sab sochne lage… 🤔
+
+🌌 Aakash se awaaz
+
+Tabhi achanak… 😲
+
+👉 aasman se ek awaaz aayi
+
+“Tum wahan directly nahi ja sakte…”
+
+🛤️ Sahi raasta
+
+Awaaz ne guide kiya:
+
+👉 “Pehle wapas jao Nara-Narayana ke ashram”
+👉 phir dusre rishiyon ke ashram jao
+
+👉 tab tumhe raasta milega ✨
+
+🌸 Divine sign
+
+Achanak hawa thandi ho gayi 🌬️
+Aur phool girne lage 🌸
+
+Sabko laga:
+
+👉 yeh koi divine signal hai 😇
+
+🙏 Dhaumya ka advice
+
+Dhaumya rishi bole:
+
+👉 “Is baat ko follow karo”
+👉 “Yeh sahi raasta hai”
+
+😊 Yudhishthira ka decision
+
+Yudhishthira ne turant maan liya 👍
+
+👉 sab wapas mud gaye
+👉 aur ashram ki taraf chal pade 🚶‍♂️
+
+🏡 Shanti bhara jeevan
+
+Wahan pahunch kar:
+
+👉 sab peacefully rehne lage 😊
+👉 Bhima, Arjuna, Nakul, Sahadev
+👉 aur Draupadi ❤️
+
+Sab saath mein khush the.
+
+🌈 Final sach
+
+👉 Har jagah jaana possible nahi hota
+👉 kabhi-kabhi hume sahi raasta follow karna padta hai
+
+🌟 Moral:
+
+Zidd se nahi, samajh aur guidance se hi sahi raasta milta hai."""
             create_image_text_layout(
                 text_content=text2,
                 layout="full"
