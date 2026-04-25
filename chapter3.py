@@ -22404,7 +22404,14 @@ Kabhi-kabhi jo galat lagta hai, woh bhi kisi bade reason ke liye hota hai."""
         # Section 3.7.82
         # --------------------------------------------------
         with st.expander("Section 3.7.82  Section CLXI"):
-            text1 = """ """
+            text1 = """ Kuvera ne Yudhishthira ko pyaar se samjhaya.
+
+Unhone bola,
+“Success ke liye 5 cheezein important hain – patience, skill, sahi time, sahi jagah aur strength.”
+
+“Jo in sab ko samajhta hai, wahi life me jeet ta hai.”
+
+Yudhishthira dhyan se sun rahe the."""
             create_image_text_layout(
                 "attached_assets/chapter3/3.7.82.jpg",
                 text1,
@@ -22412,7 +22419,44 @@ Kabhi-kabhi jo galat lagta hai, woh bhi kisi bade reason ke liye hota hai."""
                 image_position="left"
             )
 
-            text2 = """ """
+            text2 = """ 
+            Kuvera ne fir Bhima ke baare me kaha,
+“Bhima bahadur hai, par kabhi-kabhi jaldi gussa ho jata hai.”
+
+“Tumhe usse control karna chahiye.”
+
+Yudhishthira ne haan me sir hilaya.
+
+Kuvera ne unhe assurance diya,
+“Tum log yahan safe ho. Mere log tumhari protection karenge.”
+
+“Tumhe achha khana bhi milega.”
+
+Fir Kuvera ne Arjuna ke baare me bataya,
+“Arjuna abhi swarg me hai.”
+
+“Woh wahan weapons seekh raha hai.”
+
+“Woh jaldi tum sab ke paas wapas aayega.”
+
+Yeh sun kar sab Pandav khush ho gaye.
+
+Kuvera ne unhe ashirwad diya,
+“Tum apne dushmano ko haraoge aur apne dosto ko khush rakhoge.”
+
+Fir Kuvera wahan se chala gaya.
+
+Uske saath hazaron Yaksha aur Rakshasa bhi chale gaye.
+
+Pahad phir se shaant ho gaya.
+
+Pandav wahan kuch din aur rahe.
+Woh shaanti se apna time spend karne lage.
+
+Sabko lag raha tha ki ab sab kuch theek ho jayega.
+
+Moral:
+Sahi decision lene ke liye patience aur control bahut zaroori hai."""
             create_image_text_layout(
                 text_content=text2,
                 layout="full"
@@ -22422,7 +22466,14 @@ Kabhi-kabhi jo galat lagta hai, woh bhi kisi bade reason ke liye hota hai."""
         # Section 3.7.83
         # --------------------------------------------------
         with st.expander("Section 3.7.83  Section CLXII"):
-            text1 = """ """
+            text1 = """ 
+            Subah ka time tha. Pandav apni daily pooja kar chuke the.
+
+Tab rishi Dhaumya aur Arshtishena unke paas aaye.
+
+Pandav ne sab rishiyon ko respect diya aur pranam kiya.
+
+Phir Dhaumya ne Yudhishthira ka haath pakda aur unhe ek special gyaan dene lage."""
             create_image_text_layout(
                 "attached_assets/chapter3/3.7.83.jpg",
                 text1,
@@ -22430,7 +22481,50 @@ Kabhi-kabhi jo galat lagta hai, woh bhi kisi bade reason ke liye hota hai."""
                 image_position="left"
             )
 
-            text2 = """ """
+            text2 = """ 
+            Unhone bola,
+“Yeh duniya bahut badi hai aur alag-alag directions me alag shaktiyan hain.”
+
+“East side par Indra aur Kuvera ka raj hai.”
+
+“South me Yamraj ka sthaan hai, jahan log marne ke baad jaate hain.”
+
+“West me Varuna sabko protect karte hain.”
+
+“North me ek bahut bada pahad hai – Meru.”
+
+Pandav dhyan se sun rahe the.
+
+Dhaumya ne kaha,
+“Meru bahut pavitra jagah hai. Yahan Brahma ji ka sthaan hai.”
+
+“Iske paas hi Bhagwan Narayana ka divine place hai.”
+
+“Wahan sirf woh log ja sakte hain jo bahut tapasya karte hain.”
+
+Yudhishthira ko yeh sab sun kar hairani hui.
+
+Dhaumya ne fir Surya ke baare me bataya.
+
+Unhone bola,
+“Surya har din Meru ke chakkar lagata hai.”
+
+“Woh din aur raat banata hai.”
+
+“Uske wajah se hi seasons change hote hain.”
+
+“Woh sabko energy deta hai aur fir wapas le leta hai.”
+
+“Isi se duniya chalti hai.”
+
+Pandav ko samajh aaya ki nature aur time kitne powerful hain.
+
+Sab kuch ek rule ke hisaab se chal raha hai.
+
+Sab log shaant ho kar yeh gyaan sunte rahe.
+
+Moral:
+Nature aur time ka respect karo, kyunki wahi sab kuch control karte hain."""
             create_image_text_layout(
                 text_content=text2,
                 layout="full"
@@ -22440,7 +22534,15 @@ Kabhi-kabhi jo galat lagta hai, woh bhi kisi bade reason ke liye hota hai."""
         # Section 3.7.84
         # --------------------------------------------------
         with st.expander("Section 3.7.84  Section CLXIII"):
-            text1 = """ """
+            text1 = """ 
+            Pandav Gandhamadana pahad par reh rahe the.
+Woh jagah bahut hi sundar thi.
+
+Har taraf phool, ped aur khoobsurat lakes the.
+
+Wahan peacocks nachte the aur birds sweet awaaz me gaate the.
+
+Pandav yeh sab dekh kar khush hote the, lekin unke dil me ek kami thi."""
             create_image_text_layout(
                 "attached_assets/chapter3/3.7.84.jpg",
                 text1,
@@ -22448,7 +22550,45 @@ Kabhi-kabhi jo galat lagta hai, woh bhi kisi bade reason ke liye hota hai."""
                 image_position="left"
             )
 
-            text2 = """ """
+            text2 = """ 
+            Woh Arjuna ko bahut miss kar rahe the.
+
+Har din woh uska wait karte the.
+
+Woh sochte the, “Kab Arjuna wapas aayega?”
+
+Unhone apna time achhe kaam me lagaya.
+
+Woh pooja karte the, Vedas padhte the aur apne rules follow karte the.
+
+Lekin unke liye har din bahut lamba lagta tha.
+
+Ek din jaise ek saal jaisa feel hota tha.
+
+Unka mann bas Arjuna ke paas tha.
+
+Tabhi dusri taraf Arjuna swarg me tha.
+
+Woh wahan 5 saal tak raha.
+
+Usne wahan bahut powerful weapons seekhe.
+
+Usne Indra aur dusre devtaon se training li.
+
+Usne Agni, Varuna, Vayu, Vishnu aur Brahma ke weapons bhi seekhe.
+
+Arjuna ab aur bhi strong ho gaya tha.
+
+Training complete karne ke baad usne Indra ko pranam kiya.
+
+Fir woh khushi se wapas Pandavon ke paas aane laga.
+
+Pandav ab usse milne wale the.
+
+Unka wait ab khatam hone wala tha.
+
+Moral:
+Sabr aur mehnat ke baad hi success aur khushi milti hai."""
             create_image_text_layout(
                 text_content=text2,
                 layout="full"
@@ -22458,7 +22598,17 @@ Kabhi-kabhi jo galat lagta hai, woh bhi kisi bade reason ke liye hota hai."""
         # Section 3.7.85
         # --------------------------------------------------
         with st.expander("Section 3.7.85  Section CLXIV"):
-            text1 = """ """
+            text1 = """ 
+            Ek din Pandav Arjuna ko yaad kar rahe the.
+Tabhi achanak aasman me ek chamak dikhi.
+
+Ek divine rath aa raha tha.
+Woh lightning jaisa chamak raha tha.
+
+Us rath ko Matali chala raha tha.
+
+Aur usme kaun tha?
+Arjuna!"""
             create_image_text_layout(
                 "attached_assets/chapter3/3.7.85.jpg",
                 text1,
@@ -22466,7 +22616,40 @@ Kabhi-kabhi jo galat lagta hai, woh bhi kisi bade reason ke liye hota hai."""
                 image_position="left"
             )
 
-            text2 = """ """
+            text2 = """ 
+            Pandav usse dekh kar bahut khush ho gaye.
+
+Arjuna rath se utar kar sabse pehle rishi Dhaumya ko pranam kiya.
+
+Phir Yudhishthira, Bhima aur apne bhaiyon ko pranam kiya.
+
+Draupadi ko dekh kar usne use bhi pyaar se greet kiya.
+
+Sab log usse milkar bahut emotional ho gaye.
+
+Bahut time baad sab saath the.
+
+Pandav ne Matali ka bhi respect kiya.
+
+Matali ne unhe blessings di aur wapas swarg chala gaya.
+
+Fir Arjuna ne sabko gifts diye.
+Woh precious ornaments aur gems the.
+
+Sab log uski baatein sunne lage.
+
+Arjuna ne bataya,
+“Main swarg me raha aur maine sab devtaon se weapons seekhe.”
+
+“Indra, Shiva aur dusre devta mujhse khush hue.”
+
+Sab Pandav proud feel kar rahe the.
+
+Us raat sab bhai ek saath soye.
+Bahut dino baad unhe sach me khushi mili.
+
+Moral:
+Mehnat aur dedication ka reward hamesha milta hai, aur family ka saath sabse badi khushi hoti hai."""
             create_image_text_layout(
                 text_content=text2,
                 layout="full"
@@ -22476,7 +22659,16 @@ Kabhi-kabhi jo galat lagta hai, woh bhi kisi bade reason ke liye hota hai."""
         # Section 3.7.86
         # --------------------------------------------------
         with st.expander("Section 3.7.86  Section CLXV"):
-            text1 = """ """
+            text1 = """ 
+            Subah hote hi Arjuna aur uske bhai Yudhishthira ko pranam karne lage.
+
+Tabhi achanak aasman me ajeeb si awaaz gunjne lagi.
+
+Music, ghanton ki awaaz aur rath ke wheels ki sound sunai dene lagi.
+
+Jungle ke janwar aur birds bhi alag-alag awaaz karne lage.
+
+Sab log hairaan ho gaye."""
             create_image_text_layout(
                 "attached_assets/chapter3/3.7.86.jpg",
                 text1,
@@ -22484,7 +22676,40 @@ Kabhi-kabhi jo galat lagta hai, woh bhi kisi bade reason ke liye hota hai."""
                 image_position="left"
             )
 
-            text2 = """ """
+            text2 = """ 
+            Phir aasman se bahut saare Gandharva aur Apsara dikhne lage.
+
+Unke beech me ek chamakta hua rath aa raha tha.
+
+Woh tha Devraj Indra ka rath.
+
+Indra khud Pandavon se milne aaye the.
+
+Pandav turant unke paas gaye aur respect diya.
+
+Yudhishthira ne Indra ka bahut samman kiya.
+
+Arjuna bhi unke saamne vinamr hokar khada ho gaya.
+
+Yudhishthira Arjuna ko dekh kar bahut khush hua.
+
+Usne pyaar se uska sir chhua.
+
+Sabka mann khushi se bhar gaya.
+
+Tab Indra ne Yudhishthira se kaha,
+“Tum ek din poori dharti par raj karoge.”
+
+“Ab tum log wapas Kamyaka jungle chale jao.”
+
+Pandav ne Indra ki baat maan li.
+
+Unke liye yeh ek blessing jaisa tha.
+
+Sab log ab apne agle safar ke liye ready ho gaye.
+
+Moral:
+Respect, patience aur hard work se hi bade blessings milte hain."""
             create_image_text_layout(
                 text_content=text2,
                 layout="full"
