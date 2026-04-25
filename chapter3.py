@@ -22052,7 +22052,12 @@ Zidd se nahi, samajh aur guidance se hi sahi raasta milta hai."""
         # Section 3.7.77
         # --------------------------------------------------
         with st.expander("Section 3.7.77  Section CLVI"):
-            text1 = """ """
+            text1 = """ 
+            Ek din Pandav ek pahad par reh rahe the. Woh Arjuna ka wait kar rahe the. Sab kuch shaant tha.
+
+Unke saath ek Brahmana bhi rehta tha. Woh bahut smart lagta tha. Sab us par trust karte the. Lekin woh asal me ek Rakshasa tha. Uska naam Jatasura tha.
+
+Ek din Bhima shikar par gaya hua tha. Tab Jatasura ne mauka dekha. Usne apna asli roop dikhaya. Woh bahut bada aur darawna tha."""
             create_image_text_layout(
                 "attached_assets/chapter3/3.7.77.jpg",
                 text1,
@@ -22060,7 +22065,42 @@ Zidd se nahi, samajh aur guidance se hi sahi raasta milta hai."""
                 image_position="left"
             )
 
-            text2 = """ """
+            text2 = """ 
+            Usne Pandavon ke hathiyaar le liye. Fir Draupadi aur teen Pandav ko utha kar bhaag gaya.
+
+Sahadeva kisi tarah bach gaya. Usne talwar uthayi aur zor se Bhima ko bulane laga.
+
+Yudhishthira ne Rakshasa se shanti se baat ki.
+Unhone bola, “Tum galat kar rahe ho. Humne tumhe apna dost samjha. Tumne humara khana khaya. Aisa dhokha nahi dena chahiye.”
+
+Fir Yudhishthira ne apna weight badha diya. Rakshasa unhe le jaane me slow ho gaya.
+
+Unhone apne bhaiyon se bola, “Dar mat. Bhima jaldi aayega.”
+
+Tabhi Sahadeva ne himmat dikhayi. Usne Rakshasa ko challenge kiya.
+Usne bola, “Ya toh tu mujhe maar, ya main tujhe maarunga.”
+
+Tabhi Bhima wahan aa gaya. Uske haath me gada thi. Woh bahut gusse me tha.
+
+Bhima ne Rakshasa se kaha, “Mujhe pehle hi shak tha tum par. Aaj tumhari galti ka punishment milega.”
+
+Rakshasa bhi ladne ke liye tayyar ho gaya.
+
+Dono ke beech bhayankar fight shuru hui.
+Woh ped ukhad kar ek dusre par phenkte the.
+Phir patthar se ladne lage.
+
+Dono bahut powerful the. Lekin Bhima zyada strong tha.
+
+Aakhir me Bhima ne zor se mukka maara. Rakshasa kamzor ho gaya.
+Bhima ne use uthakar zameen par phek diya.
+
+Fir usne Rakshasa ko maar diya.
+
+Sab log safe ho gaye. Sabne Bhima ki tareef ki.
+
+Moral:
+Jo log dhokha dete hain, unka end bura hota hai. Aur sach aur himmat hamesha jeet te hain."""
             create_image_text_layout(
                 text_content=text2,
                 layout="full"
@@ -22070,7 +22110,16 @@ Zidd se nahi, samajh aur guidance se hi sahi raasta milta hai."""
         # Section 3.7.78
         # --------------------------------------------------
         with st.expander("Section 3.7.78  Section CLVII"):
-            text1 = """ """
+            text1 = """ 
+            Jab Bhima ne Rakshasa ko hara diya, tab sab Pandav safe ho gaye. Fir woh log wapas apne ashram aa gaye.
+
+Ek din Yudhishthira ko Arjuna ki yaad aayi. Unhone sabko bulaya. Draupadi aur sab bhai wahan aaye.
+
+Yudhishthira bole, “Hum 4 saal se jungle me reh rahe hain. Ab time aa gaya hai Arjuna se milne ka.”
+
+Unhone bataya ki Arjuna 5 saal baad ek special pahad par milega. Us jagah ka naam tha Sveta.
+
+Sabne decide kiya ki woh wahan jayenge."""
             create_image_text_layout(
                 "attached_assets/chapter3/3.7.78.jpg",
                 text1,
@@ -22078,7 +22127,49 @@ Zidd se nahi, samajh aur guidance se hi sahi raasta milta hai."""
                 image_position="left"
             )
 
-            text2 = """ """
+            text2 = """ 
+            Pandav ne Brahmanas se baat ki. Unhone blessings di aur bola, “Sab achha hoga.”
+
+Fir Pandav apni journey par nikal pade.
+
+Raasta easy nahi tha. Jungle me sher, haathi aur bahut dangerous janwar the.
+
+Woh pahadon par chadhte gaye. Kabhi paidal chale, kabhi Rakshasa unhe utha kar le gaye.
+
+17 din ke baad woh Himalaya pahunch gaye.
+
+Wahan unhe ek sundar ashram mila. Woh ek rishi ka tha. Rishi ne unka swagat kiya.
+
+Pandav wahan kuch din rukke aur rest kiya.
+
+Fir woh aage badhe.
+
+Raaste me unhone bahut beautiful jagah dekhi.
+
+Unhone bade-bade pahad dekhe. Saaf paani ke jharne dekhe.
+
+Fir woh Gandhamadana jungle me gaye.
+
+Yeh jungle bahut hi sundar tha. Har jagah phool aur fruits the.
+
+Ped phalon se bhare hue the.
+
+Lakes me kamal ke phool khile hue the. Hans aur birds wahan ghoom rahe the.
+
+Peacocks nach rahe the. Birds sweet awaaz me gaa rahe the.
+
+Hawa fresh aur thandi thi.
+
+Sab log yeh sab dekh kar khush ho gaye.
+
+Yudhishthira ne Bhima se bola, “Yeh jagah kitni beautiful hai. Yeh heaven jaisi lag rahi hai.”
+
+Sab Pandav nature ka maza le rahe the.
+
+Unka safar mushkil tha, lekin woh himmat se aage badhte rahe.
+
+Moral:
+Journey kitni bhi tough ho, patience aur hope se end me khushi milti hai."""
             create_image_text_layout(
                 text_content=text2,
                 layout="full"
@@ -22088,7 +22179,14 @@ Zidd se nahi, samajh aur guidance se hi sahi raasta milta hai."""
         # Section 3.7.79
         # --------------------------------------------------
         with st.expander("Section 3.7.79  Section CLVIII"):
-            text1 = """ """
+            text1 = """ 
+            Pandav ek din ek bade tapasvi rishi ke paas gaye. Yudhishthira ne vinamrta se apna naam bataya aur unhe pranam kiya.
+
+Bhima, Draupadi aur dono bhai bhi jhuk kar khade ho gaye. Dhaumya rishi bhi unke saath the.
+
+Rishi sab kuch pehle hi samajh chuke the. Unhone pyaar se bola, “Baith jao.”
+
+Sab shaant ho kar baith gaye."""
             create_image_text_layout(
                 "attached_assets/chapter3/3.7.79.jpg",
                 text1,
@@ -22096,7 +22194,46 @@ Zidd se nahi, samajh aur guidance se hi sahi raasta milta hai."""
                 image_position="left"
             )
 
-            text2 = """ """
+            text2 = """ 
+            Rishi ne Yudhishthira se kuch important sawal pooche.
+Unhone bola, “Kya tum hamesha sach bolte ho? Kya tum dharm follow karte ho?”
+
+“Apne maa-baap aur bado ka respect karte ho?”
+
+“Galat kaam se door rehte ho?”
+
+“Achhe logon ka samman karte ho?”
+
+Yeh sab sawal sun kar sab dhyan se sunne lage.
+
+Yudhishthira ne shanti se jawab diya,
+“Main apni poori koshish karta hoon ki main sab sahi kaam karun.”
+
+Rishi khush hue.
+
+Fir rishi ne unhe ek important baat batayi.
+Unhone bola, “Yeh pahad bahut special hai. Yahan devta, Gandharva aur Apsara aate hain.”
+
+“Yahan kabhi-kabhi music aur dhol ki awaaz bhi sunai deti hai.”
+
+“Lekin ek limit hai. Uske aage jana allowed nahi hai.”
+
+“Jo log zyada aage jaate hain, unhe Rakshasa rok dete hain.”
+
+Pandav dhyan se sun rahe the.
+
+Rishi ne kaha, “Tum log yahin raho. Arjuna ka wait karo.”
+
+“Yahan fruits aur simple food mil jayega. Shaanti se raho.”
+
+“Time aane par tum sab apni mehnat se duniya jeetoge.”
+
+Pandav ne rishi ki baat maan li.
+
+Woh wahan shaanti se rehne lage aur Arjuna ka wait karne lage.
+
+Moral:
+Jo log dharm aur sahi raaste par chalte hain, unhe hamesha sahi direction milti hai."""
             create_image_text_layout(
                 text_content=text2,
                 layout="full"
@@ -22106,7 +22243,13 @@ Zidd se nahi, samajh aur guidance se hi sahi raasta milta hai."""
         # Section 3.7.80
         # --------------------------------------------------
         with st.expander("Section 3.7.80  Section CLIX"):
-            text1 = """ """
+            text1 = """ 
+            Raja Janamejaya ne ek din poocha, “Pandav kitne time tak Gandhamadana pahad par rahe? Aur Bhima ne wahan kya kiya?”
+
+Tab Vaisampayana ne kahani batayi.
+
+Pandav wahan rishi ki baat maan kar rehne lage.
+Woh simple life jee rahe the."""
             create_image_text_layout(
                 "attached_assets/chapter3/3.7.80.jpg",
                 text1,
@@ -22114,7 +22257,69 @@ Zidd se nahi, samajh aur guidance se hi sahi raasta milta hai."""
                 image_position="left"
             )
 
-            text2 = """ """
+            text2 = """ 
+            Woh fruits khate the, thoda meat aur honey bhi lete the.
+
+Aise hi unhone apna 5th saal wahan complete kiya.
+
+Ek din achanak ek bada Garuda ek saap ko utha kar le gaya.
+Isse pura pahad hil gaya. Sab log hairaan ho gaye.
+
+Hawa ke saath sundar phool girne lage.
+Woh phool alag-alag colors ke the.
+
+Draupadi ne Bhima se kaha,
+“Tum itne powerful ho. Tum sab Rakshaso ko yahan se bhaga sakte ho.”
+
+Bhima ko yeh baat thodi challenge jaisi lagi.
+Uska confidence aur badh gaya.
+
+Woh turant apne hathiyaar lekar nikal pada.
+
+Bhima bina dare pahad ki taraf badhne laga.
+Woh bahut strong aur fearless tha.
+
+Raasta mushkil tha, lekin Bhima rukha nahi.
+
+Jab woh upar pahucha, usne ek sundar jagah dekhi.
+Wahan ek golden city thi, jo bahut chamak rahi thi.
+
+Yeh Vaisravana ka mahal tha.
+
+Bhima wahan khada ho kar sab dekh raha tha.
+
+Fir usne zor se shankh bajaya.
+
+Uski awaaz sun kar Rakshasa aur Yaksha wahan aa gaye.
+
+Unhone Bhima par attack kar diya.
+
+Bhima ne apne arrows se unke weapons tod diye.
+Woh sabko easily hara raha tha.
+
+Rakshasa darr gaye aur bhaagne lage.
+
+Tab ek powerful Rakshasa aaya, jiska naam Maniman tha.
+
+Usne Bhima ko challenge kiya.
+
+Dono ke beech bhayankar fight hui.
+
+Maniman ne Bhima par ek bada attack kiya.
+Bhima thoda injured hua, lekin rukha nahi.
+
+Bhima ne apni gada uthayi aur poori power se attack kiya.
+
+Ek powerful strike me usne Maniman ko hara diya.
+
+Rakshasa gir gaya aur mar gaya.
+
+Baaki sab Rakshasa darr kar bhaag gaye.
+
+Bhima ne sabko dikha diya ki woh kitna strong hai.
+
+Moral:
+Himmat aur confidence se bade se bada dushman bhi hara ja sakta hai."""
             create_image_text_layout(
                 text_content=text2,
                 layout="full"
@@ -22124,7 +22329,16 @@ Zidd se nahi, samajh aur guidance se hi sahi raasta milta hai."""
         # Section 3.7.81
         # --------------------------------------------------
         with st.expander("Section 3.7.81  Section CLX"):
-            text1 = """ """
+            text1 = """ 
+            Jab Bhima wapas nahi dikha, tab Yudhishthira aur sab log tension me aa gaye.
+
+Unhone Draupadi ko rishi ke paas chhod diya aur sab milkar Bhima ko dhoondhne nikle.
+
+Jab woh pahad ke upar pahuche, unhone dekha ki Bhima khada hai aur bahut saare Rakshasa zameen par gire hue hain.
+
+Bhima ek hero jaisa lag raha tha.
+
+Sab bhai usse milkar khush hue aur use gale lagaya."""
             create_image_text_layout(
                 "attached_assets/chapter3/3.7.81.jpg",
                 text1,
@@ -22132,7 +22346,55 @@ Zidd se nahi, samajh aur guidance se hi sahi raasta milta hai."""
                 image_position="left"
             )
 
-            text2 = """ """
+            text2 = """ 
+            Lekin Yudhishthira ne Bhima ko samjhaya.
+Unhone bola, “Bhima, bina wajah kisi ko maarna sahi nahi hai.”
+
+“Hum dharm ka palan karte hain. Aise kaam nahi karne chahiye.”
+
+Bhima chup ho gaya aur baat samajh gaya.
+
+Udhar bach gaye Rakshasa bhaag kar apne raja Kuvera ke paas gaye.
+
+Unhone bola, “Ek aadmi ne sabko hara diya. Maniman bhi mar gaya.”
+
+Yeh sun kar Kuvera gusse me aa gaya.
+
+Woh apni sena ke saath turant nikal pada.
+
+Thodi der baad Kuvera apne sundar rath me wahan pahunch gaya.
+
+Pandav usse dekh kar shant khade ho gaye aur respect diya.
+
+Bhima bhi ready tha, lekin fight nahi hui.
+
+Kuvera ne Yudhishthira se kaha,
+“Tum log yahan bina dar ke reh sakte ho.”
+
+“Bhima ne jo kiya, woh uski galti nahi hai. Sab kuch pehle se likha hua tha.”
+
+Fir Kuvera ne Bhima se kaha,
+“Tumne ek bada kaam kiya hai.”
+
+“Ek rishi ne mujhe pehle shraap diya tha.”
+
+“Tumhare is kaam se mujhe us shraap se mukti mil gayi.”
+
+Sab Pandav yeh sunkar hairaan ho gaye.
+
+Yudhishthira ne poocha, “Yeh shraap kyun mila tha?”
+
+Tab Kuvera ne bataya,
+“Ek baar mera dost Maniman ne ek rishi ka apmaan kar diya tha.”
+
+“Rishi ne gusse me shraap diya ki ek din ek insaan tum sabko hara dega.”
+
+“Aaj woh baat sach ho gayi.”
+
+Pandav samajh gaye ki sab kuch ek reason se hota hai.
+
+Moral:
+Kabhi-kabhi jo galat lagta hai, woh bhi kisi bade reason ke liye hota hai."""
             create_image_text_layout(
                 text_content=text2,
                 layout="full"
