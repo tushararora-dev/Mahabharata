@@ -22719,7 +22719,14 @@ Respect, patience aur hard work se hi bade blessings milte hain."""
         # Section 3.7.87
         # --------------------------------------------------
         with st.expander("Section 3.7.87  Section CLXVI"):
-            text1 = """ """
+            text1 = """ 
+            Indra ke jaane ke baad, Pandav Arjuna ke paas baithe.
+Yudhishthira ne pyaar se usse poocha,
+“Tumne swarg me kya-kya seekha?”
+
+“Kaise tumne devtaon ko khush kiya?”
+
+Arjuna shanti se bolne laga."""
             create_image_text_layout(
                 "attached_assets/chapter3/3.7.87.jpg",
                 text1,
@@ -22727,7 +22734,69 @@ Respect, patience aur hard work se hi bade blessings milte hain."""
                 image_position="left"
             )
 
-            text2 = """ """
+            text2 = """ 
+            Usne kaha,
+“Main jungle gaya aur tapasya shuru ki.”
+
+Pehle mahine sirf phal aur roots khaye.
+Dusre mahine sirf paani pe raha.
+Teesre mahine kuch bhi nahi khaya.
+
+Phir bhi usne himmat nahi haari.
+
+Ek din usne ek ajeeb sa jangli suar dekha.
+
+Usne turant us par teer chala diya.
+
+Lekin ek shikari bhi wahan tha.
+Usne bhi usi jaanwar par attack kiya.
+
+Dono ke beech jhagda ho gaya.
+
+Shikari ne gusse me Arjuna ko challenge kiya.
+
+Phir dono ke beech zabardast fight shuru hui.
+
+Arjuna ne apne powerful weapons use kiye.
+Lekin shikari par koi asar nahi hua.
+
+Shikari ne sab weapons ko rok diya.
+
+Aakhir me dono haath se ladne lage.
+
+Arjuna thak gaya aur zameen par gir gaya.
+
+Tab shikari achanak gayab ho gaya.
+
+Phir Arjuna ke saamne ek divine roop aaya.
+
+Woh Bhagwan Shiva the.
+
+Arjuna samajh gaya ki yeh ek test tha.
+
+Woh turant jhuk gaya.
+
+Bhagwan Shiva usse khush ho gaye.
+
+Unhone kaha,
+“Tumne bahut achha kiya.”
+
+“Maango kya chahte ho?”
+
+Arjuna ne kaha,
+“Mujhe aapke divine weapons chahiye.”
+
+Shiva ne usse powerful Pashupatastra de diya.
+
+Unhone warning bhi di,
+“Is weapon ko normal logon par use mat karna.”
+
+Arjuna bahut khush ho gaya.
+
+Usne samajh liya ki yeh sab uski mehnat ka result hai.
+
+Moral:
+Hard work aur patience se hi bada reward milta hai, aur tests hamesha success se pehle aate hain."""
             create_image_text_layout(
                 text_content=text2,
                 layout="full"
@@ -22737,7 +22806,14 @@ Respect, patience aur hard work se hi bade blessings milte hain."""
         # Section 3.7.88
         # --------------------------------------------------
         with st.expander("Section 3.7.88  Section CLXVII"):
-            text1 = """ """
+            text1 = """ 
+            Arjuna ne apni kahani aage batani shuru ki.
+
+Usne bola,
+“Bhagwan Shiva ke darshan ke baad mujhe ek Brahman mile.”
+
+Unhone kaha,
+“Ab tum devtaon se miloge aur aur bhi shaktiyan paoge.”"""
             create_image_text_layout(
                 "attached_assets/chapter3/3.7.88.jpg",
                 text1,
@@ -22745,7 +22821,65 @@ Respect, patience aur hard work se hi bade blessings milte hain."""
                 image_position="left"
             )
 
-            text2 = """ """
+            text2 = """ 
+            Kuch hi time baad, aasman me divine music bajne laga.
+
+Phool khil gaye aur hawa bhi fresh ho gayi.
+
+Phir Indra aur dusre devta wahan aaye.
+
+Unhone Arjuna se kaha,
+“Tumne bahut bada kaam kiya hai. Ab hum tumhe aur weapons denge.”
+
+Arjuna ne vinamrta se sabko pranam kiya.
+
+Devtaon ne use powerful weapons diye.
+
+Phir Indra ne kaha,
+“Ab tum swarg chalo aur aur training lo.”
+
+Arjuna maan gaya.
+
+Matali apna divine rath lekar aaya.
+
+Arjuna usme baith kar swarg chala gaya.
+
+Wahan usne ek beautiful city dekhi—Amaravati.
+
+Wahan sab kuch perfect tha.
+Na dukh, na thakan, na gussa.
+
+Sab log khush the.
+
+Arjuna ne wahan aur bhi training li.
+Music, dance aur weapons sab seekha.
+
+Indra usse bahut khush ho gaya.
+
+Ek din Indra ne kaha,
+“Ab tum sabse strong ho gaye ho.”
+
+“Ab tumhe ek kaam karna hoga.”
+
+Arjuna ready tha.
+
+Indra ne kaha,
+“Samundar ke andar kuch dangerous Danav rehte hain.”
+
+“Unhe harao. Yeh tumhari guru dakshina hogi.”
+
+Arjuna ne bina dare haan bol diya.
+
+Devtaon ne usse blessings di.
+
+Unhone usse ek special shankh bhi diya—Devadatta.
+
+Arjuna ne apna bow uthaya aur mission par nikal pada.
+
+Woh tayyar tha apni strength prove karne ke liye.
+
+Moral:
+Sacchi mehnat aur dedication se insaan itna strong ban sakta hai ki woh bade se bade challenge ko face kar sake."""
             create_image_text_layout(
                 text_content=text2,
                 layout="full"
@@ -22755,7 +22889,13 @@ Respect, patience aur hard work se hi bade blessings milte hain."""
         # Section 3.7.89
         # --------------------------------------------------
         with st.expander("Section 3.7.89  Section CLXVIII"):
-            text1 = """ """
+            text1 = """ 
+            Arjuna ne apni journey continue ki.
+Woh samundar ke paas pahucha.
+
+Samundar bahut hi bada aur powerful tha.
+
+Usme bade-bade leher the, jaise pahad hil rahe ho."""
             create_image_text_layout(
                 "attached_assets/chapter3/3.7.89.jpg",
                 text1,
@@ -22763,7 +22903,60 @@ Respect, patience aur hard work se hi bade blessings milte hain."""
                 image_position="left"
             )
 
-            text2 = """ """
+            text2 = """ 
+            Wahan ajeeb-o-gareeb creatures the—bade machhli, kachhua aur makara.
+
+Har jagah chamakte hue moti aur gems dikh rahe the.
+
+Arjuna yeh sab dekh kar hairaan ho gaya.
+
+Thodi door usne ek city dekhi.
+Woh Danavo ki nagri thi.
+
+Matali ne rath ko seedha us city ki taraf le gaya.
+
+Rath ki awaaz sun kar Danav dar gaye.
+
+Unhone turant apne weapons utha liye.
+
+City ke gates band kar diye gaye.
+
+Tab Arjuna ne apna shankh Devadatta bajaya.
+
+Uski awaaz poore aasman me goonj gayi.
+
+Danav aur bhi darr gaye.
+
+Phir hazaron Danav bahar aaye.
+
+Sab powerful weapons lekar ready the.
+
+Battle shuru hone wali thi.
+
+Matali ne rath ko perfect jagah par rokha.
+
+Arjuna ne apna dhanush sambhala.
+
+Danav ne teeron ki barish kar di.
+
+Poora battlefield dangerous ho gaya.
+
+Lekin Arjuna bhi ready tha.
+
+Usne himmat nahi haari.
+
+Yeh ek bhayankar yudh tha.
+
+Rishis aur devta bhi is fight ko dekh rahe the.
+
+Sab Arjuna ko encourage kar rahe the.
+
+Woh chahte the ki Arjuna jeet jaye.
+
+Arjuna poori himmat ke saath ladne laga.
+
+Moral:
+Jab situation tough ho, tab darrne ke bajaye himmat se face karna chahiye."""
             create_image_text_layout(
                 text_content=text2,
                 layout="full"
@@ -22773,7 +22966,15 @@ Respect, patience aur hard work se hi bade blessings milte hain."""
         # Section 3.7.90
         # --------------------------------------------------
         with st.expander("Section 3.7.90  Section CLXIX"):
-            text1 = """ """
+            text1 = """ 
+            Arjuna ne apni kahani aage batayi.
+Usne bola, “Danav ek saath mujh par toot pade.”
+
+Hazaron Nivata-Kavacha usse gher kar attack karne lage.
+
+Har taraf se teer, bhala aur talwar aa rahe the.
+
+Unhone Arjuna ke rath ko rokne ki koshish ki."""
             create_image_text_layout(
                 "attached_assets/chapter3/3.7.90.jpg",
                 text1,
@@ -22781,7 +22982,57 @@ Respect, patience aur hard work se hi bade blessings milte hain."""
                 image_position="left"
             )
 
-            text2 = """ """
+            text2 = """ 
+            Situation bahut dangerous ho gayi.
+
+Lekin Arjuna ne himmat nahi haari.
+
+Usne apna Gandiva uthaya aur teer chalane laga.
+
+Har ek teer seedha target par lag raha tha.
+
+Danav peeche hatne lage.
+
+Matali bhi rath ko bahut smartly chala raha tha.
+
+Ghode hawa ki speed se move kar rahe the.
+
+Rath Danavo ke beech se nikal raha tha.
+
+Arjuna ke teer baarish ki tarah gir rahe the.
+
+Bahut saare Danav gir gaye.
+
+Kuch darr kar bhaag gaye.
+
+Lekin kuch aur bhi zyada gusse me aa gaye.
+
+Unhone aur tez attack kiya.
+
+Arjuna ne powerful divine weapons use kiye.
+
+Unhone sab attacks ko tod diya.
+
+Battle aur bhi intense ho gaya.
+
+Har taraf khoon aur awaaz thi.
+
+Danav ke sharir se khoon nadi ki tarah behne laga.
+
+Phir bhi woh ladte rahe.
+
+Aakhir me Danav ne ek trick use ki.
+
+Unhone maya ka use kiya.
+
+Sab kuch aur bhi confusing ho gaya.
+
+Lekin Arjuna ready tha.
+
+Woh har situation me ladne ke liye tayyar tha.
+
+Moral:
+Strong banna hai toh sirf power nahi, focus aur smartness bhi zaroori hai."""
             create_image_text_layout(
                 text_content=text2,
                 layout="full"
@@ -22791,7 +23042,12 @@ Respect, patience aur hard work se hi bade blessings milte hain."""
         # Section 3.7.91
         # --------------------------------------------------
         with st.expander("Section 3.7.91  Section CLXX"):
-            text1 = """ """
+            text1 = """ 
+            Arjuna ne apni kahani aage batayi.
+Usne bola, “Danav ne bahut dangerous tricks use ki.”
+
+Unhone bade-bade pathar barsane shuru kiye.
+Jaise aasman se pahad gir rahe ho."""
             create_image_text_layout(
                 "attached_assets/chapter3/3.7.91.jpg",
                 text1,
@@ -22799,7 +23055,63 @@ Respect, patience aur hard work se hi bade blessings milte hain."""
                 image_position="left"
             )
 
-            text2 = """ """
+            text2 = """ 
+            Arjuna ne turant apne arrows se unhe tod diya.
+
+Phir achanak bahut tez paani barsne laga.
+Sab kuch paani se bhar gaya.
+
+Kuch bhi clearly dikh nahi raha tha.
+
+Arjuna ne apna ek powerful weapon use kiya.
+Usne paani ko sukhha diya.
+
+Phir Danav ne aag aur hawa ki illusion create ki.
+
+Arjuna ne shanti se unhe bhi control kar liya.
+
+Lekin phir sabse dangerous cheez hui.
+
+Har taraf andhera chha gaya.
+Itna gehra ki kuch bhi dikh nahi raha tha.
+
+Matali bhi darr gaya.
+Woh Arjuna ko bulane laga, “Tum kahan ho?”
+
+Woh pehli baar itna scared hua tha.
+
+Arjuna bhi ek moment ke liye tension me aa gaya.
+
+Lekin usne khud ko control kiya.
+
+Usne Matali se kaha,
+“Darr mat. Main sab theek kar dunga.”
+
+“Apne weapons ki power dekho.”
+
+Phir Arjuna ne apni shakti se ek powerful counter illusion banaya.
+
+Dheere-dheere andhera khatam hone laga.
+
+Sab kuch wapas normal dikhne laga.
+
+Matali ne phir se rath control kiya.
+
+Battle fir se shuru ho gayi.
+
+Danav ab bhi illusion use kar rahe the.
+
+Kabhi duniya gayab ho jaati, kabhi paani me dub jaati.
+
+Lekin Arjuna focus bana kar lad raha tha.
+
+Woh ek-ek karke dushmano ko hara raha tha.
+
+Chahe dushman dikh rahe ho ya chup gaye ho,
+Arjuna rukne wala nahi tha.
+
+Moral:
+Sabse tough situation me bhi agar mind calm rahe, toh har problem ka solution mil jata hai."""
             create_image_text_layout(
                 text_content=text2,
                 layout="full"
