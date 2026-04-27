@@ -23121,7 +23121,12 @@ Sabse tough situation me bhi agar mind calm rahe, toh har problem ka solution mi
         # Section 3.7.92
         # --------------------------------------------------
         with st.expander("Section 3.7.92  Section CLXXI"):
-            text1 = """ """
+            text1 = """ Arjuna ne apni kahani aage batayi.
+Usne bola, “Danav ab bhi illusion use karke lad rahe the.”
+
+Woh kabhi dikhte, kabhi gayab ho jaate.
+
+Lekin Arjuna ne himmat nahi haari."""
             create_image_text_layout(
                 "attached_assets/chapter3/3.7.92.jpg",
                 text1,
@@ -23129,7 +23134,62 @@ Sabse tough situation me bhi agar mind calm rahe, toh har problem ka solution mi
                 image_position="left"
             )
 
-            text2 = """ """
+            text2 = """ Usne Gandiva se teer chala kar unhe maarna shuru kiya.
+
+Dheere-dheere Danav darr kar apni city me bhaag gaye.
+
+Jab sab normal hua, Arjuna ne battlefield dekha.
+
+Har taraf girre hue Danav, toote hue weapons aur broken rath the.
+
+Jagah itni bhari thi ki ghode chal bhi nahi pa rahe the.
+
+Tabhi Danav ne phir attack kiya.
+
+Is baar unhone aasman se bade-bade pathar barsaye.
+
+Kuch Danav zameen ke andar chhup kar bhi attack kar rahe the.
+
+Arjuna thoda pressure me aa gaya.
+
+Tab Matali ne kaha,
+“Darr mat, Indra ka thunder weapon use karo!”
+
+Arjuna ne turant powerful weapon use kiya.
+
+Uske arrows bijli ki tarah gaye aur sab illusions tod diye.
+
+Bahut saare Danav ek saath gir gaye.
+
+Battle khatam hone lagi.
+
+Sab Danav haar gaye.
+
+Phir Arjuna unki city ke andar gaya.
+
+Wahan sab log darr gaye aur bhaagne lage.
+
+City bahut hi sundar thi—
+jaise swarg se bhi better ho.
+
+Arjuna ne poocha,
+“Yeh jagah itni amazing hai, phir devta yahan kyun nahi rehte?”
+
+Matali ne bataya,
+“Pehle yeh devtaon ki city thi.”
+
+“Lekin Danav ne tapasya karke ise le liya.”
+
+“Isliye tumhe yahan bheja gaya tha—unhe haraane ke liye.”
+
+Arjuna samajh gaya ki yeh sab ek plan ka part tha.
+
+Usne apna kaam poora kar liya tha.
+
+Phir woh wapas swarg chala gaya.
+
+Moral:
+Kabhi-kabhi hum kisi bade purpose ke liye kaam kar rahe hote hain, jo baad me samajh aata hai."""
             create_image_text_layout(
                 text_content=text2,
                 layout="full"
@@ -23139,7 +23199,13 @@ Sabse tough situation me bhi agar mind calm rahe, toh har problem ka solution mi
         # Section 3.7.93
         # --------------------------------------------------
         with st.expander("Section 3.7.93  Section CLXXII"):
-            text1 = """ """
+            text1 = """ Arjuna ne apni kahani aage batayi.
+Woh wapas aa raha tha, tab usne ek ajeeb sa shehar dekha.
+
+Woh shehar aasman me ud raha tha.
+Bilkul chamakta hua, jaise suraj.
+
+Usme ped, phool aur sundar birds the."""
             create_image_text_layout(
                 "attached_assets/chapter3/3.7.93.jpg",
                 text1,
@@ -23147,7 +23213,68 @@ Sabse tough situation me bhi agar mind calm rahe, toh har problem ka solution mi
                 image_position="left"
             )
 
-            text2 = """ """
+            text2 = """ Matali ne bataya,
+“Yeh Hiranyapura hai, Asuro ka shehar.”
+
+“Yeh kisi devta se destroy nahi ho sakta.”
+
+Arjuna ne turant decide kiya,
+“Main ise destroy karunga.”
+
+Jaise hi woh paas gaya,
+Asur us par attack karne lage.
+
+Har taraf se teer aur weapons aa rahe the.
+
+Arjuna ne bhi strong attack kiya.
+
+Asur darr kar apne flying city ke andar chale gaye.
+
+Phir woh city kabhi upar jaati, kabhi neeche, kabhi paani me ghusti.
+
+Battle aur tough ho gaya.
+
+Arjuna ko thoda fear feel hua.
+
+Lekin usne himmat nahi haari.
+
+Usne Bhagwan Shiva ko yaad kiya.
+
+Phir usne ek powerful Raudra weapon use kiya.
+
+Jaise hi weapon chala,
+har taraf ajeeb-ajeeb roop dikhne lage—
+janwar, panchhi, aur scary creatures.
+
+Sab milkar Asuro par attack karne lage.
+
+Asur is power ko handle nahi kar paaye.
+
+Thodi hi der me sab Asur haar gaye.
+
+Unka poora shehar destroy ho gaya.
+
+Unke family members ro-ne lage.
+
+Shehar bilkul khali aur dukhi ho gaya.
+
+Arjuna ne apna mission complete kar liya.
+
+Matali use wapas Indra ke paas le gaya.
+
+Indra bahut khush hua.
+
+Usne Arjuna ko praise kiya,
+“Tumne woh kaam kiya jo devta bhi nahi kar paaye.”
+
+“Tum hamesha jeetoge.”
+
+Arjuna ka confidence aur badh gaya.
+
+Aur woh apne bhaiyon ke paas wapas aa gaya.
+
+Moral:
+Himmat, focus aur bhakti se insaan impossible kaam bhi kar sakta hai."""
             create_image_text_layout(
                 text_content=text2,
                 layout="full"
@@ -23157,7 +23284,11 @@ Sabse tough situation me bhi agar mind calm rahe, toh har problem ka solution mi
         # Section 3.7.94
         # --------------------------------------------------
         with st.expander("Section 3.7.94  Section CLXXIII"):
-            text1 = """ """
+            text1 = """ Arjuna ne apni kahani complete karte hue kaha,
+“Indra mujhe dekh kar bahut khush hue.”
+
+Unhone Arjuna se kaha,
+“Ab tumhe koi hara nahi sakta.”"""
             create_image_text_layout(
                 "attached_assets/chapter3/3.7.94.jpg",
                 text1,
@@ -23165,7 +23296,53 @@ Sabse tough situation me bhi agar mind calm rahe, toh har problem ka solution mi
                 image_position="left"
             )
 
-            text2 = """ """
+            text2 = """ “Bade-bade yoddha bhi tumhare saamne kam pad jayenge.”
+
+Indra ne Arjuna ko special gifts diye.
+
+Ek golden mala, ek powerful shankh Devadatta,
+aur ek strong kavach.
+
+Unhone Arjuna ke sir par ek crown bhi rakha.
+
+Arjuna ko divine kapde aur ornaments bhi mile.
+
+Arjuna kuch time tak swarg me hi raha.
+
+Wahan usne Gandharvon ke saath time spend kiya.
+
+Phir ek din Indra ne kaha,
+“Ab tumhare bhai tumhe yaad kar rahe hain.”
+
+“Ab wapas jaane ka time aa gaya hai.”
+
+Arjuna ko bhi apne bhai yaad aa rahe the.
+
+Woh wapas Pandavon ke paas aa gaya.
+
+Usne sab kuch unhe detail me bataya.
+
+Yudhishthira yeh sab sun kar bahut khush hua.
+
+Usne kaha,
+“Tumne bahut bada kaam kiya hai.”
+
+“Ab lagta hai hum sab kuch jeet sakte hain.”
+
+Phir usne bola,
+“Kal hume woh divine weapons dikhao.”
+
+Arjuna muskura kar bola,
+“Kal subah sab dikhaunga.”
+
+Us raat sab bhai ek saath baithe.
+
+Unke dil me khushi aur confidence tha.
+
+Unhe lag raha tha ki future me woh sab jeet jayenge.
+
+Moral:
+Mehnat aur blessings se confidence aata hai, aur confidence se hi jeet milti hai."""
             create_image_text_layout(
                 text_content=text2,
                 layout="full"
@@ -23175,7 +23352,16 @@ Sabse tough situation me bhi agar mind calm rahe, toh har problem ka solution mi
         # Section 3.7.95
         # --------------------------------------------------
         with st.expander("Section 3.7.95  Section CLXXIV"):
-            text1 = """ """
+            text1 = """ Subah hote hi Yudhishthira ne Arjuna se kaha,
+“Bhai, hume woh divine weapons dikhao.”
+
+Arjuna ne shanti se taiyaari ki.
+
+Woh saaf-sutra hokar baitha aur apna Gandiva uthaya.
+
+Phir usne ek-ek karke apne celestial weapons dikhane shuru kiye.
+
+Jaise hi usne weapons activate kiye…"""
             create_image_text_layout(
                 "attached_assets/chapter3/3.7.95.jpg",
                 text1,
@@ -23183,7 +23369,55 @@ Sabse tough situation me bhi agar mind calm rahe, toh har problem ka solution mi
                 image_position="left"
             )
 
-            text2 = """ """
+            text2 = """ Kuch ajeeb hone laga.
+
+Dharti hilne lagi.
+
+Nadiya aur samundar bhi disturb ho gaye.
+
+Pahad tootne lage.
+
+Hawa ruk si gayi.
+
+Suraj ki roshni kam ho gayi.
+
+Sab jagah tension ka mahaul ban gaya.
+
+Zameen ke andar rehne wale jeev bhi darr kar bahar aa gaye.
+
+Woh sab Arjuna se kehne lage,
+“Please hume bachao!”
+
+Tabhi aasman se rishi, devta aur aur bhi divine beings wahan aa gaye.
+
+Gandharva gaane gaane lage,
+Apsara dance karne lagi.
+
+Sab jagah ek divine scene ban gaya.
+
+Tab Narada wahan aaye.
+
+Unhone Arjuna ko samjhaya,
+“Yeh weapons bahut powerful hain.”
+
+“Inhe bina reason use mat karo.”
+
+“Agar galat use hua, toh duniya ko nuksaan ho sakta hai.”
+
+Arjuna ne turant baat samajh li.
+
+Usne weapons ko wapas control kar liya.
+
+Sab log shant ho gaye.
+
+Phir devta aur rishi wapas chale gaye.
+
+Pandav wahan shaanti se rehne lage.
+
+Sab kuch normal ho gaya.
+
+Moral:
+Power milne ke baad uska sahi use karna sabse zaroori hota hai."""
             create_image_text_layout(
                 text_content=text2,
                 layout="full"
@@ -23193,7 +23427,13 @@ Sabse tough situation me bhi agar mind calm rahe, toh har problem ka solution mi
         # Section 3.7.96
         # --------------------------------------------------
         with st.expander("Section 3.7.96  Section CLXXV"):
-            text1 = """ """
+            text1 = """ Arjuna ke wapas aane ke baad Pandav kuch time tak shanti se rehne lage.
+
+Woh pahadon aur gardens me ghoomte, enjoy karte the.
+
+Time itna achha tha ki 4 saal bhi ek raat jaisa lagne laga.
+
+Lekin Bhima ko yeh sab pasand nahi aa raha tha."""
             create_image_text_layout(
                 "attached_assets/chapter3/3.7.96.jpg",
                 text1,
@@ -23201,7 +23441,28 @@ Sabse tough situation me bhi agar mind calm rahe, toh har problem ka solution mi
                 image_position="left"
             )
 
-            text2 = """ """
+            text2 = """ Ek din usne Yudhishthira se kaha,
+“Hum yahan itne saal se reh rahe hain.”
+“Ab hume apne dushmano se badla lena chahiye.”
+“Duryodhana ne galat kiya tha, use punishment milni chahiye.”
+Bhima ne aage kaha,
+“Bas ek saal aur chup rehna hai.”
+“Uske baad hum easily apna rajya wapas le sakte hain.”
+Arjuna aur baaki bhai bhi ready the.
+Sabka focus ab apna kingdom wapas paana tha.
+Yudhishthira ne sabki baat dhyan se suni.
+Phir usne decide kiya ki ab aage badhna chahiye.
+Unhone Kuvera ke jagah ko respect ke saath alvida kaha.
+Pahadon, nadiyon aur sab jagah ko pranam kiya.
+Yudhishthira ne mann me kaha,
+“Main wapas aunga, jab apna kaam poora kar lunga.”
+Phir sab Pandav apne next journey par nikal pade.
+Ghatotkacha bhi unki help kar raha tha.
+Woh unhe mushkil raaston se paar kara raha tha.
+Raste me woh alag-alag tirth aur ashram dekhte gaye.
+Unki journey ab ek naye goal ke saath shuru ho chuki thi.
+Moral:
+Sahi time par action lena zaroori hota hai, tabhi hum apna goal achieve kar sakte hain."""
             create_image_text_layout(
                 text_content=text2,
                 layout="full"
