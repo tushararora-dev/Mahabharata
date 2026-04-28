@@ -23858,7 +23858,14 @@ Gyaan, vinamrata aur achhe karm hi insaan ko upar le jaate hain, na ki sirf powe
         # Section 3.8.1
         # --------------------------------------------------
         with st.expander("Section 3.8.1  Section CLXXXI"):
-            text1 = """ """
+            text1 = """ 
+            Pandav jungle me reh rahe the, tab barsaat ka season shuru ho gaya.
+
+Kaale baadal aasman me chha gaye.
+
+Bijli chamak rahi thi, aur zor se baarish ho rahi thi.
+
+Har taraf paani hi paani ho gaya."""
             create_image_text_layout(
                 "attached_assets/chapter3/3.8.1.jpg",
                 text1,
@@ -23866,7 +23873,50 @@ Gyaan, vinamrata aur achhe karm hi insaan ko upar le jaate hain, na ki sirf powe
                 image_position="left"
             )
 
-            text2 = """ """
+            text2 = """ 
+            Zameen, nadi, pahad—sab ek jaise lagne lage.
+
+Jungle ke animals khush ho gaye.
+
+Mor nach rahe the,
+medhak awaaz kar rahe the,
+aur pakshi ga rahe the.
+
+Sab jagah ek fresh aur happy feeling thi.
+
+Pandav bhi is mausam ka maza le rahe the.
+
+Phir dheere-dheere barsaat khatam hui.
+
+Ab autumn season aa gaya.
+
+Aasman saaf ho gaya.
+
+Chand aur taare chamakne lage.
+
+Nadiyon ka paani bilkul clear ho gaya.
+
+Lotus aur flowers khil gaye.
+
+Pandav Sarasvati nadi ke paas ghoomte hue bahut khush the.
+
+Wahan ka mahaul shaant aur sundar tha.
+
+Ek raat, Kartik ki poornima par,
+unhone wahan special time spend kiya.
+
+Rishi-muni ke saath rehkar unhone dharmik kaam kiye.
+
+Unka mann aur bhi shuddh ho gaya.
+
+Phir woh wapas apni journey par nikal pade.
+
+Aur Kamyaka forest ki taraf badh gaye.
+
+Unka safar ab bhi chal raha tha.
+
+Moral:
+Nature ke saath rehkar aur shaant mann se jeene se life me sukoon aur clarity milti hai."""
             create_image_text_layout(
                 text_content=text2,
                 layout="full"
@@ -23876,7 +23926,13 @@ Gyaan, vinamrata aur achhe karm hi insaan ko upar le jaate hain, na ki sirf powe
         # Section 3.8.2
         # --------------------------------------------------
         with st.expander("Section 3.8.2  Section CLXXXII"):
-            text1 = """ """
+            text1 = """ 
+            Pandav Kamyaka forest me reh rahe the.
+Wahan rishi-muni unse milne aate rehte the.
+
+Ek din Bhagwan Krishna bhi wahan aaye.
+
+Unhe dekh kar sab bahut khush ho gaye."""
             create_image_text_layout(
                 "attached_assets/chapter3/3.8.2.jpg",
                 text1,
@@ -23884,7 +23940,73 @@ Gyaan, vinamrata aur achhe karm hi insaan ko upar le jaate hain, na ki sirf powe
                 image_position="left"
             )
 
-            text2 = """ """
+            text2 = """ 
+            Krishna ne sabse milkar unhe comfort diya.
+
+Unhone Yudhishthira ki tareef ki,
+“Tum hamesha dharm par chal rahe ho.”
+
+“Isliye tum zaroor jeetoge.”
+
+Yeh baatein sun kar sabka confidence badh gaya.
+
+Thodi der baad ek bade rishi aaye—Markandeya.
+
+Sabne unka respect kiya aur baith kar unki baat sunne lage.
+
+Yudhishthira ne unse ek important sawal poocha,
+“Life me itna dukh kyun milta hai?”
+
+“Achhe log suffer karte hain aur bure log khush kyun lagte hain?”
+
+Markandeya rishi muskuraaye.
+
+Unhone calmly samjhaya,
+
+“Har insaan apne karm ka phal paata hai.”
+
+“Jo kaam tum aaj karte ho,
+unka result kabhi na kabhi zaroor milta hai.”
+
+“Yeh life me bhi ho sakta hai,
+ya next life me.”
+
+Yudhishthira dhyaan se sun raha tha.
+
+Rishi ne aage kaha,
+“Insaan marne ke baad bhi khatam nahi hota.”
+
+“Woh turant nayi life leta hai.”
+
+“Uske purane karm uske saath jaate hain.”
+
+“Jaise shadow hamesha saath rehti hai.”
+
+Phir unhone samjhaya,
+
+“Achhe karm happiness dete hain.”
+
+“Bure karm dukh dete hain.”
+
+“Yeh rule kabhi fail nahi hota.”
+
+Yudhishthira ko sab samajh aane laga.
+
+Rishi ne last me kaha,
+
+“Jo log dharm follow karte hain,
+control rakhte hain,
+aur sachchai se jeete hain—
+woh akhir me highest level tak pahunchte hain.”
+
+“Tum Pandav bhi wahi paoge.”
+
+Yeh sun kar sabka mann shant ho gaya.
+
+Unhe apne raaste par aur bharosa ho gaya.
+
+Moral:
+Har action ka result hota hai—achhe karm se hi sachchi khushi milti hai."""
             create_image_text_layout(
                 text_content=text2,
                 layout="full"
@@ -23894,7 +24016,13 @@ Gyaan, vinamrata aur achhe karm hi insaan ko upar le jaate hain, na ki sirf powe
         # Section 3.8.3
         # --------------------------------------------------
         with st.expander("Section 3.8.3  Section CLXXXIII"):
-            text1 = """ """
+            text1 = """ 
+            Pandav ne Rishi Markandeya se kaha,
+“Hume Brahmanon ki greatness ke baare me bataiye.”
+
+Rishi ne ek kahani sunani shuru ki.
+
+Ek baar ek young rajkumar jungle me hunting kar raha tha."""
             create_image_text_layout(
                 "attached_assets/chapter3/3.8.3.jpg",
                 text1,
@@ -23902,7 +24030,63 @@ Gyaan, vinamrata aur achhe karm hi insaan ko upar le jaate hain, na ki sirf powe
                 image_position="left"
             )
 
-            text2 = """ """
+            text2 = """ 
+            Galti se usne ek rishi ko deer samajh kar maar diya.
+
+Jaise hi usse pata chala,
+woh bahut dukhi ho gaya.
+
+Woh apne saathiyon ke paas gaya aur sab sach bata diya.
+
+Sab log shock ho gaye.
+
+Woh sab milkar us rishi ke baare me jaanne nikle.
+
+Chalte-chalte woh ek bade rishi ke ashram pahunch gaye.
+
+Unhone respect ke saath kaha,
+“Humse bahut badi galti ho gayi hai.”
+
+“Humne ek Brahmana ko maar diya.”
+
+Rishi ne calmly poocha,
+“Kahan hai woh?”
+
+Sab wapas us jagah gaye…
+
+Lekin wahan body thi hi nahi!
+
+Sab log aur bhi confuse ho gaye.
+
+Tab ek aur rishi aaye aur bole,
+“Woh mera beta hai.”
+
+Sab log hairaan reh gaye.
+
+Unhone poocha,
+“Woh zinda kaise ho gaya?”
+
+Rishi ne samjhaya,
+
+“Hum apna dharm follow karte hain.”
+
+“Hum sach bolte hain aur kisi ke liye bura nahi sochte.”
+
+“Hum guests ka respect karte hain.”
+
+“Hum daan dete hain aur simple life jeete hain.”
+
+“Isi wajah se death hume darati nahi.”
+
+Sab rajkumar yeh baat samajh gaye.
+
+Unhone rishi ko pranam kiya.
+
+Aur wapas apne ghar chale gaye,
+ab zyada humble aur samajhdaar ban kar.
+
+Moral:
+Sahi jeevan jeene se insaan strong aur fearless ban jata hai—even death se bhi nahi darta."""
             create_image_text_layout(
                 text_content=text2,
                 layout="full"
@@ -23912,7 +24096,14 @@ Gyaan, vinamrata aur achhe karm hi insaan ko upar le jaate hain, na ki sirf powe
         # Section 3.8.4
         # --------------------------------------------------
         with st.expander("Section 3.8.4  Section CLXXXIV"):
-            text1 = """ """
+            text1 = """ 
+            Rishi Markandeya ne Pandav ko ek aur kahani sunayi.
+
+Unhone kaha,
+“Ek baar Atri Rishi soch rahe the ki jungle me jaakar tapasya karein.”
+
+Unhone apni family se kaha,
+“Chalo forest me simple life jeete hain.”"""
             create_image_text_layout(
                 "attached_assets/chapter3/3.8.4.jpg",
                 text1,
@@ -23920,7 +24111,60 @@ Gyaan, vinamrata aur achhe karm hi insaan ko upar le jaate hain, na ki sirf powe
                 image_position="left"
             )
 
-            text2 = """ """
+            text2 = """ 
+            Lekin unki wife ne kaha,
+“Pehle Raja Vainya ke paas jao.”
+
+“Woh bahut daani aur achha raja hai.”
+
+“Wahan se dhan lekar tum sabko de sakte ho.”
+
+Atri ne thoda socha aur wahan jaane ka decision liya.
+
+Woh Raja Vainya ke yagya me pahunch gaye.
+
+Unhone raja ki tareef ki,
+“Tum sabse achhe aur dharmik raja ho.”
+
+Tab wahan ek aur rishi, Gautama, gussa ho gaye.
+
+Unhone kaha,
+“Yeh galat hai, sabse bada toh Indra hai!”
+
+Atri ne calmly jawab diya,
+“Jaise Indra devtaon ko guide karta hai,
+waise hi raja logon ko guide karta hai.”
+
+Dono ke beech debate shuru ho gayi.
+
+Sab rishi confuse ho gaye ki kaun sahi hai.
+
+Phir woh sab Sanatkumara ke paas gaye.
+
+Unhone samjhaya,
+
+“Brahman aur Kshatriya dono important hain.”
+
+“King ka role bahut bada hota hai.”
+
+“Woh logon ki raksha karta hai aur dharm ko maintain karta hai.”
+
+“Isliye raja ko respect milna chahiye.”
+
+Sabko answer mil gaya.
+
+Raja Vainya bhi khush ho gaya.
+
+Usne Atri ko bahut saara dhan diya.
+
+Atri ne woh dhan accept kiya.
+
+Phir usne sab kuch apni family ko de diya.
+
+Aur khud jungle me jaakar tapasya karne laga.
+
+Moral:
+Power aur knowledge dono important hain, lekin unka sahi use aur balance hi sabse bada wisdom hai."""
             create_image_text_layout(
                 text_content=text2,
                 layout="full"
@@ -23930,7 +24174,15 @@ Gyaan, vinamrata aur achhe karm hi insaan ko upar le jaate hain, na ki sirf powe
         # Section 3.8.5
         # --------------------------------------------------
         with st.expander("Section 3.8.5  Section CLXXXV"):
-            text1 = """ """
+            text1 = """ 
+            Rishi Markandeya ne ek aur kahani sunayi.
+
+Unhone bataya ki ek rishi, Tarkshya, ne Devi Sarasvati se sawal poocha.
+
+Usne kaha,
+“Mujhe batao ki insaan ko kaise jeena chahiye?”
+
+“Kaise dharm par tik kar reh sakte hain?”"""
             create_image_text_layout(
                 "attached_assets/chapter3/3.8.5.jpg",
                 text1,
@@ -23938,7 +24190,52 @@ Gyaan, vinamrata aur achhe karm hi insaan ko upar le jaate hain, na ki sirf powe
                 image_position="left"
             )
 
-            text2 = """ """
+            text2 = """ 
+            “Kaise hum desires se door reh sakte hain?”
+
+Devi Sarasvati ne pyaar se jawab diya.
+
+Unhone kaha,
+“Jo insaan gyaan seekhta hai aur Bhagwan ko samajhta hai,
+woh highest level tak pahunchta hai.”
+
+“Sachchi shanti aur sukh wahi milta hai.”
+
+Phir unhone daan ki importance samjhayi.
+
+“Jo insaan daan karta hai,
+use bahut achha phal milta hai.”
+
+“Jaise—
+gaye (cow) dene se swarg milta hai.”
+
+“Kapde dene se bhi achha phal milta hai.”
+
+“Gold dene se aur bhi bada reward milta hai.”
+
+Rishi dhyaan se sun raha tha.
+
+Sarasvati ne aage kaha,
+“Daan sirf dene ka naam nahi hai.”
+
+“Dil se dena zaroori hai.”
+
+“Isse sirf tum nahi, tumhari family bhi benefit hoti hai.”
+
+Phir unhone ek aur baat batayi,
+
+“Jo insaan sacred fire ki seva karta hai,
+aur regularly puja karta hai,
+woh bhi bahut punya kamaata hai.”
+
+Tarkshya ko sab kuch samajh aane laga.
+
+Usne respect ke saath Sarasvati ko pranam kiya.
+
+Aur decide kiya ki woh dharm ke raste par chalega.
+
+Moral:
+Gyaan, daan aur discipline se hi insaan apni life ko better aur meaningful bana sakta hai."""
             create_image_text_layout(
                 text_content=text2,
                 layout="full"
