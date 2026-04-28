@@ -23472,7 +23472,14 @@ Sahi time par action lena zaroori hota hai, tabhi hum apna goal achieve kar sakt
         # Section 3.7.97
         # --------------------------------------------------
         with st.expander("Section 3.7.97  Section CLXXVI"):
-            text1 = """ """
+            text1 = """ 
+            Pandav apni mountain wali jagah chhod kar aage badhe.
+
+Jab woh wahan se nikle, toh unhe thoda sad feel hua.
+
+Lekin jaldi hi unhone Kailasa parvat dekha.
+
+Uski sundarta dekh kar sab khush ho gaye."""
             create_image_text_layout(
                 "attached_assets/chapter3/3.7.97.jpg",
                 text1,
@@ -23480,7 +23487,77 @@ Sahi time par action lena zaroori hota hai, tabhi hum apna goal achieve kar sakt
                 image_position="left"
             )
 
-            text2 = """ """
+            text2 = """ 
+            Woh raste me forests, rivers aur caves dekhte hue aage badhte rahe.
+
+Kabhi pahadon par rukte, kabhi nadi ke paas.
+
+Unki journey adventure se bhari hui thi.
+
+Phir woh ek sundar ashram pahunch gaye.
+
+Wahan unki mulakaat Raja Vrishaparba se hui.
+
+Raja ne unka warmly welcome kiya.
+
+Pandav ne apni poori kahani unhe batayi.
+
+Ek raat wahan aaram karne ke baad,
+woh phir se apni journey par nikal pade.
+
+Raste me woh ek aur sundar jagah par ruk gaye.
+
+Wahan ek pavitra lake tha, jahan devta bhi aate the.
+
+Us jagah par rehkar unka mann bilkul shaant ho gaya.
+
+Phir woh aage badhe aur Raja Suvahu ke paas pahunch gaye.
+
+Raja Suvahu unhe dekh kar bahut khush hua.
+
+Usne unka achhe se swagat kiya.
+
+Ek din wahan rehne ke baad,
+Pandav phir se aage badhe.
+
+Ab woh ek bade jungle me rehne lage.
+
+Wahan woh shikar karte aur simple life jeete the.
+
+Sab kuch shaant chal raha tha.
+
+Lekin ek din Bhima jungle me ghoom raha tha.
+
+Tabhi ek bada sa saanp us par attack kar deta hai.
+
+Woh saanp bahut powerful tha.
+
+Bhima uske jaal me phas gaya.
+
+Situation dangerous ho gayi.
+
+Tab Yudhishthira wahan aaya.
+
+Usne apni buddhi aur shanti se Bhima ko bachaya.
+
+Pandav fir se safe ho gaye.
+
+Time aage badhta gaya.
+
+Ab unka vanvaas ka last saal aa gaya tha.
+
+Woh Sarasvati nadi ke paas gaye aur wahan rehne lage.
+
+Wahan ka mahaul peaceful tha.
+
+Rishi-muni bhi wahan tapasya karte the.
+
+Pandav wahan khushi se rehne lage.
+
+Unka mann ab strong aur ready tha future ke liye.
+
+Moral:
+Journey me mushkilein aati hain, lekin patience aur wisdom se har problem solve ho sakti hai."""
             create_image_text_layout(
                 text_content=text2,
                 layout="full"
@@ -23490,7 +23567,13 @@ Sahi time par action lena zaroori hota hai, tabhi hum apna goal achieve kar sakt
         # Section 3.7.98
         # --------------------------------------------------
         with st.expander("Section 3.7.98  Section CLXXVII"):
-            text1 = """ """
+            text1 = """ 
+            Raja ne rishi se poocha,
+“Bhima itna strong hai, phir woh saanp se kaise darr gaya?”
+
+Rishi ne shanti se kahani batani shuru ki.
+
+Ek din Bhima jungle me akela ghoom raha tha."""
             create_image_text_layout(
                 "attached_assets/chapter3/3.7.98.jpg",
                 text1,
@@ -23498,7 +23581,51 @@ Sahi time par action lena zaroori hota hai, tabhi hum apna goal achieve kar sakt
                 image_position="left"
             )
 
-            text2 = """ """
+            text2 = """ 
+            Woh hunting kar raha tha aur bahut confident tha.
+
+Woh sher ki tarah zor se garaj raha tha.
+
+Jungle ke animals usse darr kar bhaag rahe the.
+
+Bhima apni strength dikhate hue ped tod raha tha.
+
+Sab kuch uske control me lag raha tha.
+
+Phir woh aur andar jungle me chala gaya.
+
+Wahan usne ek bahut bada saanp dekha.
+
+Woh saanp itna bada tha jaise koi pahad ho.
+
+Uski aankhen chamak rahi thi aur woh bahut dangerous lag raha tha.
+
+Bhima usse dekh kar bhi nahi dara.
+
+Woh uske paas chala gaya.
+
+Lekin achanak saanp ne usse pakad liya.
+
+Usne Bhima ko apni body se tightly wrap kar liya.
+
+Bhima ne bahut try kiya chhutne ka.
+
+Usne apni poori strength use ki.
+
+Lekin kuch bhi kaam nahi aaya.
+
+Us saanp ko ek special vardaan mila hua tha.
+
+Isliye Bhima ki saari power useless ho gayi.
+
+Dheere-dheere Bhima weak feel karne laga.
+
+Woh hil bhi nahi paa raha tha.
+
+Pehli baar usse samajh aaya ki har situation sirf strength se nahi jeeti ja sakti.
+
+Moral:
+Sirf power kaafi nahi hoti—kabhi-kabhi kisi aur ki shakti ya situation humse zyada strong ho sakti hai."""
             create_image_text_layout(
                 text_content=text2,
                 layout="full"
@@ -23508,7 +23635,12 @@ Sahi time par action lena zaroori hota hai, tabhi hum apna goal achieve kar sakt
         # Section 3.7.99
         # --------------------------------------------------
         with st.expander("Section 3.7.99  Section CLXXVIII"):
-            text1 = """ """
+            text1 = """ 
+            Bhima jab saanp ke jaal me phas gaya,
+tab usne shaant hokar poocha,
+“Tum kaun ho?”
+
+“Main Bhima hoon, itna strong hone ke baad bhi tumne mujhe kaise pakad liya?”"""
             create_image_text_layout(
                 "attached_assets/chapter3/3.7.99.jpg",
                 text1,
@@ -23516,7 +23648,65 @@ Sahi time par action lena zaroori hota hai, tabhi hum apna goal achieve kar sakt
                 image_position="left"
             )
 
-            text2 = """ """
+            text2 = """ 
+            Saanp ne dheere se jawab diya,
+
+“Main koi normal saanp nahi hoon.”
+
+“Main pehle Raja Nahusha tha.”
+
+“Ek shraap ki wajah se mujhe yeh roop mila.”
+
+“Ab main tabhi free ho sakta hoon jab koi sahi jawab de.”
+
+Bhima yeh sun kar hairaan ho gaya.
+
+Usne accept kiya,
+“Lagta hai sirf strength sab kuch nahi hoti.”
+
+“Yeh sab destiny ka game hai.”
+
+Phir Bhima apne bhaiyon aur maa ke baare me sochne laga.
+
+Usse unki chinta hone lagi.
+
+Udhar Yudhishthira ko kuch ajeeb signals milne lage.
+
+Janwar ajeeb awaaz kar rahe the.
+
+Hawa bhi ajeeb chal rahi thi.
+
+Usse laga kuch galat hone wala hai.
+
+Usne turant poocha,
+“Bhima kahan hai?”
+
+Jab pata chala ki Bhima bahar gaya hai,
+toh Yudhishthira tension me aa gaya.
+
+Woh turant usse dhundhne nikal pada.
+
+Woh Bhima ke footprints follow karne laga.
+
+Raste me usne dekha—
+toote hue ped, mare hue janwar.
+
+Usse samajh aa gaya ki Bhima yahin se gaya hai.
+
+Aage badhte-badhte woh ek dangerous jagah par pahucha.
+
+Wahan ek cave ke andar usne Bhima ko dekha.
+
+Bhima ek bade saanp ke jaal me phasa hua tha.
+
+Woh bilkul helpless lag raha tha.
+
+Yudhishthira turant uske paas gaya.
+
+Ab situation aur serious ho gayi thi.
+
+Moral:
+Kabhi-kabhi life me aisi situation aati hai jahan strength nahi, samajh aur patience kaam aata hai."""
             create_image_text_layout(
                 text_content=text2,
                 layout="full"
@@ -23526,7 +23716,13 @@ Sahi time par action lena zaroori hota hai, tabhi hum apna goal achieve kar sakt
         # Section 3.7.100
         # --------------------------------------------------
         with st.expander("Section 3.7.100  Section CLXXIX"):
-            text1 = """ """
+            text1 = """ 
+            Yudhishthira ne Bhima ko saanp ke jaal me phasa dekha.
+Woh turant bola,
+“Yeh kya ho gaya Bhima?”
+
+Bhima ne kaha,
+“Yeh koi normal saanp nahi hai.”"""
             create_image_text_layout(
                 "attached_assets/chapter3/3.7.100.jpg",
                 text1,
@@ -23534,7 +23730,60 @@ Sahi time par action lena zaroori hota hai, tabhi hum apna goal achieve kar sakt
                 image_position="left"
             )
 
-            text2 = """ """
+            text2 = """ 
+            “Yeh Raja Nahusha hai, jo shraap ki wajah se saanp bana hai.”
+
+Yudhishthira ne saanp se kaha,
+“Please mere bhai ko chhod do.”
+
+“Main tumhe aur kuch khane ke liye de dunga.”
+
+Saanp ne mana kar diya.
+
+Usne bola,
+“Mujhe sirf Bhima hi chahiye.”
+
+“Lekin agar tum mere sawaalon ka sahi jawab doge,
+toh main ise chhod dunga.”
+
+Yudhishthira maan gaya.
+
+Saanp ne poocha,
+“Brahman kaun hota hai?”
+
+Yudhishthira ne calmly jawab diya,
+
+“Jisme sachchai, daya, maafi aur achha conduct ho,
+wahi asli Brahman hai.”
+
+“Janam se nahi, qualities se pehchaan hoti hai.”
+
+Saanp ne phir doubt poocha,
+“Yeh qualities toh kisi me bhi ho sakti hain.”
+
+Yudhishthira ne samjhaya,
+
+“Isliye janam important nahi hai.”
+
+“Insaan apne actions aur nature se pehchana jaata hai.”
+
+“Jo achha hai, wahi sach me uchch hai.”
+
+Uski baatein sun kar saanp impress ho gaya.
+
+Usne kaha,
+“Tum sach me wise ho.”
+
+“Ab main Bhima ko chhod deta hoon.”
+
+Bhima free ho gaya.
+
+Sab khush ho gaye.
+
+Yudhishthira ne apni buddhi se ek badi problem solve kar di.
+
+Moral:
+Knowledge aur wisdom, physical strength se zyada powerful hote hain."""
             create_image_text_layout(
                 text_content=text2,
                 layout="full"
@@ -23544,7 +23793,12 @@ Sahi time par action lena zaroori hota hai, tabhi hum apna goal achieve kar sakt
         # Section 3.7.101
         # --------------------------------------------------
         with st.expander("Section 3.7.101  Section CLXXX"):
-            text1 = """ """
+            text1 = """ 
+            Yudhishthira ne saanp se aur questions pooche.
+Usne poocha,
+“Insaan ko mukti kaise milti hai?”
+
+Saanp ne shanti se jawab diya,"""
             create_image_text_layout(
                 "attached_assets/chapter3/3.7.101.jpg",
                 text1,
@@ -23552,7 +23806,47 @@ Sahi time par action lena zaroori hota hai, tabhi hum apna goal achieve kar sakt
                 image_position="left"
             )
 
-            text2 = """ """
+            text2 = """ 
+            “Jo insaan sach bolta hai,
+daan karta hai,
+aur kisi ko hurt nahi karta,
+woh upar jaata hai.”
+Yudhishthira ne phir poocha,
+“Sach bada hai ya daan?”
+Saanp bola,
+“Situation par depend karta hai.”
+“Kabhi sach important hota hai,
+kabhi daan.”
+“Waise hi kindness aur non-violence bhi situation par depend karte hain.”
+Phir saanp ne life ka secret bataya.
+Usne kaha,
+“Insaan apne actions ke hisaab se next life paata hai.”
+“Achhe kaam se heaven milta hai.”
+“Bure kaam se neeche janam milta hai.”
+“Is tarah soul baar-baar janam leta hai.”
+Yudhishthira dhyaan se sun raha tha.
+Phir usne poocha,
+“Mind aur buddhi me kya difference hai?”
+Saanp ne samjhaya,
+“Mind feelings ko feel karta hai.”
+“Buddhi decision leti hai.”
+“Dono milkar life ko control karte hain.”
+Yeh sab sun kar Yudhishthira impress ho gaya.
+Phir usne poocha,
+“Tum itne gyaani ho, phir tumhe yeh shraap kaise mila?”
+Saanp ne kaha,
+“Ghamand ki wajah se.”
+“Jab power milti hai, toh insaan galti kar deta hai.”
+“Main bhi waise hi gir gaya.”
+“Lekin aaj tumse baat karke mera shraap khatam ho gaya.”
+Yeh kehkar saanp apne asli roop me aa gaya.
+Woh wapas swarg chala gaya.
+Bhima free ho gaya.
+Sab Pandav khush ho gaye.
+Bhima ko bhi samajh aa gaya ki careless hona galat hai.
+Sab wapas apne ashram aa gaye aur shanti se rehne lage.
+Moral:
+Gyaan, vinamrata aur achhe karm hi insaan ko upar le jaate hain, na ki sirf power."""
             create_image_text_layout(
                 text_content=text2,
                 layout="full"
