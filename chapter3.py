@@ -24245,7 +24245,16 @@ Gyaan, daan aur discipline se hi insaan apni life ko better aur meaningful bana 
         # Section 3.8.6
         # --------------------------------------------------
         with st.expander("Section 3.8.6  Section CLXXXVI"):
-            text1 = """ """
+            text1 = """ Yudhishthira ne rishi se poocha,
+“Vaivasvata Manu ki kahani bataiye.”
+
+Rishi ne kahani shuru ki.
+
+Ek samay Manu naam ke mahaan rishi tapasya kar rahe the.
+
+Woh bahut powerful aur dharmik the.
+
+Ek din ek chhoti si machhli unke paas aayi."""
             create_image_text_layout(
                 "attached_assets/chapter3/3.8.6.jpg",
                 text1,
@@ -24253,7 +24262,69 @@ Gyaan, daan aur discipline se hi insaan apni life ko better aur meaningful bana 
                 image_position="left"
             )
 
-            text2 = """ """
+            text2 = """ 
+            Usne kaha,
+“Mujhe bachaiye, bade machhli mujhe kha jayenge.”
+
+Manu ko us par daya aa gayi.
+
+Unhone use ek chhote bartan me rakh liya.
+
+Lekin machhli jaldi hi badi ho gayi.
+
+Phir Manu ne use ek bade tank me daal diya.
+
+Wahan bhi woh aur badi ho gayi.
+
+Phir use Ganga me chhoda gaya.
+
+Wahan bhi woh grow karti gayi.
+
+Aakhir me Manu use samundar me le gaye.
+
+Tab machhli ne ek secret bataya.
+
+Usne kaha,
+“Jaldi hi duniya me bada flood aane wala hai.”
+
+“Tum ek strong boat banao.”
+
+“Usme saare seeds aur rishiyon ko le jaana.”
+
+“Main tumhe bachane aaungi.”
+
+Manu ne uski baat maan li.
+
+Jab flood aaya, sab jagah paani hi paani ho gaya.
+
+Manu boat me rishiyon ke saath safe the.
+
+Tab woh machhli wapas aayi—
+ab uske sir par ek bada sa horn tha.
+
+Manu ne rope se boat us machhli se baandh di.
+
+Machhli ne boat ko safe jagah tak le gaya.
+
+Woh unhe Himalaya ke top par le gaya.
+
+Wahan boat ko baandh diya gaya.
+
+Flood dheere-dheere khatam ho gaya.
+
+Tab machhli ne apna asli roop dikhaya.
+
+Woh Bhagwan Brahma the.
+
+Unhone Manu se kaha,
+“Ab tum duniya ko dobara create karoge.”
+
+Manu ne tapasya ki aur nayi creation shuru ki.
+
+Is tarah duniya fir se bani.
+
+Moral:
+Daya, trust aur Bhagwan par vishwas se hi mushkil se mushkil situation me bhi bachav ho sakta hai."""
             create_image_text_layout(
                 text_content=text2,
                 layout="full"
@@ -24263,7 +24334,14 @@ Gyaan, daan aur discipline se hi insaan apni life ko better aur meaningful bana 
         # Section 3.8.7
         # --------------------------------------------------
         with st.expander("Section 3.8.7  Section CLXXXVII"):
-            text1 = """ """
+            text1 = """ 
+            Yudhishthira ne Rishi Markandeya se poocha,
+“Aapne itni purani cheezein dekhi hain, hume sab bataiye.”
+
+Rishi ne shanti se kahani shuru ki.
+
+Unhone kaha,
+“Main ek baar poori duniya ke vinaash ko dekh chuka hoon.”"""
             create_image_text_layout(
                 "attached_assets/chapter3/3.8.7.jpg",
                 text1,
@@ -24271,7 +24349,77 @@ Gyaan, daan aur discipline se hi insaan apni life ko better aur meaningful bana 
                 image_position="left"
             )
 
-            text2 = """ """
+            text2 = """ 
+            Sab kuch khatam ho gaya tha.
+
+Na dharti thi, na aasman,
+sirf paani hi paani tha.
+
+Main akela us paani me ghoom raha tha.
+
+Mujhe kahin rest nahi mil raha tha.
+
+Phir achanak mujhe ek bada sa bargad ka ped dikha.
+
+Us par ek chhota sa bachcha baitha tha.
+
+Woh bahut peaceful aur glowing lag raha tha.
+
+Rishi hairaan ho gaye.
+
+Unhone socha,
+“Jab sab kuch khatam ho gaya,
+toh yeh bachcha kaun hai?”
+
+Tab us bachche ne pyaar se kaha,
+“Aap thak gaye ho, aaram karo.”
+
+“Chaaho toh mere andar aa jao.”
+
+Rishi confuse ho gaye,
+lekin kuch samajh nahi aaya.
+
+Achanak woh bachche ke andar chale gaye.
+
+Andar jaakar unhone kya dekha?
+
+Puri duniya wapas!
+
+Nadiyan, pahad, log, animals—
+sab kuch wahan tha.
+
+Unhone sab kuch dekha jaise kuch hua hi nahi.
+
+Woh bahut time tak wahan ghoomte rahe.
+
+Phir achanak woh bahar aa gaye.
+
+Aur dekha—
+wahi bachcha saamne baitha hai.
+
+Ab unhe samajh aa gaya.
+
+Woh koi normal bachcha nahi tha.
+
+Woh Bhagwan Vishnu the.
+
+Rishi ne turant unhe pranam kiya.
+
+Unhone kaha,
+“Aap hi sab kuch ho.”
+
+“Aapke andar hi poori duniya hai.”
+
+Bhagwan muskuraaye.
+
+Unhone rishi ko gyaan diya.
+
+Rishi ka mann shant ho gaya.
+
+Unhe sab sach samajh aa gaya.
+
+Moral:
+Bhagwan hi sab kuch hain—creation bhi, destruction bhi, aur sachchi shanti bhi unhi me hai."""
             create_image_text_layout(
                 text_content=text2,
                 layout="full"
@@ -24281,7 +24429,16 @@ Gyaan, daan aur discipline se hi insaan apni life ko better aur meaningful bana 
         # Section 3.8.8
         # --------------------------------------------------
         with st.expander("Section 3.8.8  Section CLXXXVIII"):
-            text1 = """ """
+            text1 = """ 
+            Rishi Markandeya ne apni kahani aage badhayi.
+
+Unhone bataya ki woh chhota sa bachcha actually Bhagwan the.
+
+Bhagwan ne unse kaha,
+“Main hi sab kuch hoon.”
+
+“Main hi creation karta hoon,
+aur main hi sab kuch destroy karta hoon.”"""
             create_image_text_layout(
                 "attached_assets/chapter3/3.8.8.jpg",
                 text1,
@@ -24289,7 +24446,67 @@ Gyaan, daan aur discipline se hi insaan apni life ko better aur meaningful bana 
                 image_position="left"
             )
 
-            text2 = """ """
+            text2 = """ 
+            “Main hi Vishnu hoon, Brahma hoon, aur sab devta bhi.”
+
+Rishi dhyaan se sun rahe the.
+
+Bhagwan ne aage kaha,
+“Poora universe mere andar hai.”
+
+“Suraj aur chand meri aankhen hain.”
+
+“Dharti mere pair hain.”
+
+“Fire mera muh hai.”
+
+“Sab kuch mujhse hi aata hai.”
+
+Rishi ko ab sab samajh aane laga.
+
+Bhagwan ne ek aur important baat boli,
+
+“Jab duniya me adharm badhta hai,
+tab main alag-alag roop lekar aata hoon.”
+
+“Main bure logon ko rokta hoon
+aur dharm ko wapas laata hoon.”
+
+“Har yug me mera roop alag hota hai.”
+
+“Lekin main hamesha same hoon.”
+
+Rishi hairaan bhi the aur khush bhi.
+
+Unhone samjha ki Bhagwan har jagah hain.
+
+Phir Bhagwan ne unhe bless kiya.
+
+Unhone kaha,
+“Tum yahan safe ho.”
+
+“Jab tak creation wapas shuru nahi hoti,
+tum yahin reh sakte ho.”
+
+Itna kehkar Bhagwan gayab ho gaye.
+
+Rishi ne dekha ki duniya fir se create ho rahi hai.
+
+Sab kuch dheere-dheere wapas aa raha tha.
+
+Phir Rishi ne Pandav ko bataya,
+
+“Wahi Bhagwan aaj Krishna ke roop me tumhare saath hain.”
+
+Yeh sun kar Pandav hairaan reh gaye.
+
+Unhone Krishna ko pranam kiya.
+
+Krishna ne unhe pyaar se samjhaya
+aur unka hausla badhaya.
+
+Moral:
+Bhagwan har jagah hain aur har yug me apne bhakton ki madad karte hain—bas hume un par vishwas rakhna chahiye."""
             create_image_text_layout(
                 text_content=text2,
                 layout="full"
@@ -24299,7 +24516,15 @@ Gyaan, daan aur discipline se hi insaan apni life ko better aur meaningful bana 
         # Section 3.8.9
         # --------------------------------------------------
         with st.expander("Section 3.8.9  Section CLXXXIX"):
-            text1 = """ """
+            text1 = """ 
+            Yudhishthira ne phir ek sawal poocha,
+“Kali Yug me kya hoga?”
+
+Rishi Markandeya ne gehri saans li
+aur kahani shuru ki.
+
+Unhone kaha,
+“Har yug me dharm kam hota jaata hai.”"""
             create_image_text_layout(
                 "attached_assets/chapter3/3.8.9.jpg",
                 text1,
@@ -24307,7 +24532,64 @@ Gyaan, daan aur discipline se hi insaan apni life ko better aur meaningful bana 
                 image_position="left"
             )
 
-            text2 = """ """
+            text2 = """ 
+            “Kali Yug me dharm bahut kam reh jaata hai.”
+
+“Log jhooth bolenge,
+aur ek dusre ko cheat karenge.”
+
+Raja dhyaan se sun raha tha.
+
+Rishi ne aage bataya,
+“Log ka gyaan kam hoga,
+aur greed zyada hogi.”
+
+“Log ek dusre se ladenge,
+aur trust khatam ho jayega.”
+
+“Family members bhi ek dusre ke against ho jayenge.”
+
+“Father aur son tak ladenge.”
+
+Yeh sun kar sab serious ho gaye.
+
+Rishi ne kaha,
+“Raja bhi apni praja ko protect nahi karega.”
+
+“Woh unhe lootega aur dukh dega.”
+
+“Log sirf paisa aur power ke peeche bhaagenge.”
+
+“Sachchai aur dharm dheere-dheere khatam ho jayenge.”
+
+“Life span bhi chhota ho jayega.”
+
+“Log weak aur impatient ho jayenge.”
+
+Sabka mann heavy ho gaya.
+
+Phir Rishi ne hope di.
+
+Unhone kaha,
+“Jab sab kuch bahut kharab ho jayega,
+tab ek naya yug shuru hoga.”
+
+“Bhagwan ek naye roop me aayenge—Kalki.”
+
+“Woh sab burai ko khatam karenge.”
+
+“Woh duniya me fir se shanti aur dharm layenge.”
+
+“Tab Krita Yug wapas aayega.”
+
+Yeh sun kar sabko thoda relief mila.
+
+Unhe samajh aa gaya ki
+har darkness ke baad light aati hai.
+
+Moral:
+Chahe duniya kitni bhi buri ho jaye,
+akhir me sach aur dharm hi jeet te hain."""
             create_image_text_layout(
                 text_content=text2,
                 layout="full"
@@ -24317,7 +24599,16 @@ Gyaan, daan aur discipline se hi insaan apni life ko better aur meaningful bana 
         # Section 3.8.10
         # --------------------------------------------------
         with st.expander("Section 3.8.10  Section CXC"):
-            text1 = """ """
+            text1 = """ 
+            Rishi Markandeya ne apni baat aage badhayi.
+
+Unhone kaha,
+“Jab Kalki sab burai ko khatam kar denge,
+tab duniya fir se achhi ho jayegi.”
+
+“Log fir se sachchai aur dharm follow karenge.”
+
+Sab dhyaan se sun rahe the."""
             create_image_text_layout(
                 "attached_assets/chapter3/3.8.10.jpg",
                 text1,
@@ -24325,7 +24616,48 @@ Gyaan, daan aur discipline se hi insaan apni life ko better aur meaningful bana 
                 image_position="left"
             )
 
-            text2 = """ """
+            text2 = """ 
+            Rishi ne bataya,
+“Fields me crops achhe se ugne lagenge.”
+
+“Har jagah shanti aur khushi hogi.”
+
+“Log charity karenge aur rituals follow karenge.”
+
+“Raja apni praja ka dhyaan rakhega.”
+
+“Sab apna duty honestly karenge.”
+
+Yeh naya time hoga—Krita Yug.
+
+Ek perfect aur peaceful duniya.
+
+Phir Rishi ne Yudhishthira ko advice di.
+
+Unhone kaha,
+“Tum hamesha dharm par tikke raho.”
+
+“Sab logon ke saath daya aur pyaar se pesh aao.”
+
+“Kisi ko neecha mat dikhao.”
+
+“Sach bolo aur apne mann ko control karo.”
+
+“Apni praja ki raksha karo.”
+
+Yudhishthira ne respect ke saath kaha,
+“Main aapki har baat follow karunga.”
+
+“Main dharm par hi chalunga.”
+
+Sab Pandav yeh sab sun kar khush ho gaye.
+
+Unke mann me clarity aa gayi.
+
+Unhe apna raasta samajh aa gaya.
+
+Moral:
+Dharm, daya aur sachchai par chalne se hi life me peace aur success milti hai."""
             create_image_text_layout(
                 text_content=text2,
                 layout="full"
