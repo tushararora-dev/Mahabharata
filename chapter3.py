@@ -24666,8 +24666,15 @@ Dharm, daya aur sachchai par chalne se hi life me peace aur success milti hai.""
         # --------------------------------------------------
         # Section 3.8.11
         # --------------------------------------------------
-        with st.expander("Section 3.8.11  Section CXCI"):
-            text1 = """ """
+        with st.expander("Section 3.8.11  Section CLXL"):
+            text1 = """ 
+            Rishi Markandeya ne apni baat aage batayi.
+
+Unhone kaha,
+“Jab Kalki sab burai khatam kar denge,
+tab duniya fir se achhi ban jayegi.”
+
+“Dharm wapas aa jayega.”"""
             create_image_text_layout(
                 "attached_assets/chapter3/3.8.11.jpg",
                 text1,
@@ -24675,7 +24682,60 @@ Dharm, daya aur sachchai par chalne se hi life me peace aur success milti hai.""
                 image_position="left"
             )
 
-            text2 = """ """
+            text2 = """ 
+            Log fir se sach bolenge,
+aur achhe kaam karenge.
+
+Fields me fasal achhi ugne lagegi.
+
+Har jagah shanti aur khushi hogi.
+
+Log daan, tapasya aur puja karenge.
+
+Raja bhi apni praja ka dhyaan rakhenge.
+
+Sab apna duty honestly karenge.
+
+Yeh hoga—Krita Yug.
+
+Ek perfect aur peaceful time.
+
+Phir Rishi ne Yudhishthira ko advice di.
+
+Unhone kaha,
+“Tum sabke saath daya se pesh aao.”
+
+“Kisi ko neecha mat dikhao.”
+
+“Sach bolo aur apne mann ko control karo.”
+
+“Apni praja ki hamesha raksha karo.”
+
+“Galti ho jaye, toh daan aur achhe kaam se use sudharo.”
+
+Yudhishthira ne respect ke saath kaha,
+“Main aapki har baat follow karunga.”
+
+“Main hamesha dharm par chalunga.”
+
+Rishi ne ek aur important baat boli,
+
+“Time sab par effect karta hai.”
+
+“Koi bhi usse bach nahi sakta.”
+
+“Isliye mushkilon me ghabrana nahi.”
+
+“Strong rehna aur dharm par tikke rehna.”
+
+Yeh sun kar Pandav khush ho gaye.
+
+Unhe apna raasta aur clear ho gaya.
+
+Unka confidence wapas aa gaya.
+
+Moral:
+Time badalta rehta hai, lekin jo dharm aur sachchai par tikta hai, wahi akhir me jeet ta hai."""
             create_image_text_layout(
                 text_content=text2,
                 layout="full"
@@ -24684,8 +24744,14 @@ Dharm, daya aur sachchai par chalne se hi life me peace aur success milti hai.""
         # --------------------------------------------------
         # Section 3.8.12
         # --------------------------------------------------
-        with st.expander("Section 3.8.12  Section CXCII"):
-            text1 = """ """
+        with st.expander("Section 3.8.12  Section CLXLI"):
+            text1 = """ 
+            Rishi Markandeya ne ek aur kahani sunayi.
+
+Ek raja tha—Parikshit.
+
+Ek din woh jungle me hunting karte-karte
+bahut door nikal gaya."""
             create_image_text_layout(
                 "attached_assets/chapter3/3.8.12.jpg",
                 text1,
@@ -24693,7 +24759,112 @@ Dharm, daya aur sachchai par chalne se hi life me peace aur success milti hai.""
                 image_position="left"
             )
 
-            text2 = """ """
+            text2 = """ 
+            Woh thak gaya tha aur pyasa bhi tha.
+
+Tab usse ek sundar sa talaab dikha.
+
+Wahan usne rest kiya.
+
+Tab usne ek ladki ko dekha—
+bahut sundar aur sweet voice wali.
+
+Raja usse dekh kar attract ho gaya.
+
+Usne kaha,
+“Tum meri wife ban jao.”
+
+Ladki ne ek condition rakhi,
+“Tum mujhe kabhi paani nahi dikhaoge.”
+
+Raja maan gaya.
+
+Dono happily rehne lage.
+
+Lekin ek din galti ho gayi.
+
+Raja use ek garden me le gaya,
+jahan ek talaab tha.
+
+Usne bola,
+“Chalo paani me jao.”
+
+Jaise hi ladki paani me gayi,
+woh gayab ho gayi.
+
+Raja shock ho gaya.
+
+Usne gusse me frogs ko blame kiya.
+
+Aur order de diya—
+“Saare frogs ko maar do!”
+
+Frogs dar gaye.
+
+Unka king aaya aur bola,
+“Gussa mat karo.”
+
+Phir usne sach bataya,
+
+“Woh ladki meri beti thi.”
+
+“Uska naam Susobhana hai.”
+
+“Usne pehle bhi logon ko confuse kiya hai.”
+
+Raja ne kaha,
+“Mujhe woh wapas chahiye.”
+
+Frog king ne use wapas de diya.
+
+Lekin usne apni beti ko curse diya,
+“Tumhare bachche Brahmanon ka respect nahi karenge.”
+
+Baad me raja ne us ladki se shaadi ki
+aur unke bachche hue.
+
+Phir raja ne apna rajya apne bete ko de diya
+aur jungle me chala gaya.
+
+Ab kahani yahan khatam nahi hoti.
+
+Raja ka beta ek din hunting par gaya.
+
+Usne ek rishi ke special ghode le liye.
+
+Rishi ne kaha,
+“Use wapas karo.”
+
+Lekin raja ne mana kar diya.
+
+Usne socha,
+“Yeh ghode raja ke liye better hain.”
+
+Rishi gussa ho gaye.
+
+Unhone usse warn kiya,
+“Brahman ka apmaan mat karo.”
+
+Lekin raja ne nahi suna.
+
+Phir rishi ke shraap se
+rakshas aaye aur raja ko maar diya.
+
+Sab log shock ho gaye.
+
+Baad me naya raja bana.
+
+Usne bhi galti karne ki koshish ki.
+
+Lekin uski wife ne samajhdari dikhayi.
+
+Usne rishi se maafi maangi.
+
+Aur sab kuch theek ho gaya.
+
+Moral:
+Gussa aur ahankaar insaan ko barbaad kar dete hain—
+aur gyaan aur vinamrata hi use bachate hain."""
             create_image_text_layout(
                 text_content=text2,
                 layout="full"
@@ -24702,8 +24873,15 @@ Dharm, daya aur sachchai par chalne se hi life me peace aur success milti hai.""
         # --------------------------------------------------
         # Section 3.8.13
         # --------------------------------------------------
-        with st.expander("Section 3.8.13  Section CXCIII"):
-            text1 = """ """
+        with st.expander("Section 3.8.13  Section CLXLII"):
+            text1 = """ 
+            Pandav aur rishi ne Markandeya se poocha,
+“Vaka rishi itne lambe samay tak kaise jeete rahe?”
+
+Rishi Markandeya ne ek kahani sunayi.
+
+Unhone bataya,
+“Ek baar devta aur asur ka yudh khatam ho gaya tha.”"""
             create_image_text_layout(
                 "attached_assets/chapter3/3.8.13.jpg",
                 text1,
@@ -24711,7 +24889,87 @@ Dharm, daya aur sachchai par chalne se hi life me peace aur success milti hai.""
                 image_position="left"
             )
 
-            text2 = """ """
+            text2 = """ 
+            Indra jeet gaya tha.
+
+Ab duniya me shanti thi.
+
+Sab log khush the,
+aur har jagah achhi fasal ho rahi thi.
+
+Indra apne haathi Airavata par baith kar
+duniya dekh raha tha.
+
+Usne rivers, cities aur ashram dekhe.
+
+Sab jagah prosperity thi.
+
+Phir woh ek rishi ke ashram gaya—
+unka naam tha Vaka.
+
+Vaka rishi ne Indra ka swagat kiya.
+
+Unhe baithne ko jagah di,
+aur phal-phool diye.
+
+Indra ne poocha,
+“Tum itne lambe jeevan wale ho…”
+
+“Batao, immortality me kya dukh hote hain?”
+
+Vaka rishi ne calmly jawab diya,
+
+“Sabse bada dukh hai—
+galat logon ke saath rehna.”
+
+“Apno se door hona bhi dukh deta hai.”
+
+“Family ka loss bhi bahut painful hota hai.”
+
+“Garib hona aur insult hona bhi bada dukh hai.”
+
+Indra dhyaan se sun raha tha.
+
+Rishi ne aage kaha,
+
+“Is duniya me ajeeb cheezein hoti hain.”
+
+“Kabhi achhe log suffer karte hain,
+aur bure log khush rehte hain.”
+
+“Yeh sab dekhna bhi dukh deta hai.”
+
+Indra ne phir poocha,
+“Toh phir happiness kya hai?”
+
+Vaka rishi muskuraaye.
+
+Unhone kaha,
+
+“Sabse bada sukh hai—
+simple life jeena.”
+
+“Apne ghar me simple khana khana.”
+
+“Kisi par depend na hona.”
+
+“Apni mehnat se jeena.”
+
+“Guest ka respect karna.”
+
+“Pehle dusron ko khilana,
+phir khud khana.”
+
+“Yeh hi sachchi khushi hai.”
+
+Indra ko sab samajh aa gaya.
+
+Usne rishi ko pranam kiya.
+
+Aur wapas swarg chala gaya.
+
+Moral:
+Simple life, self-respect aur dusron ki seva hi asli happiness ka raasta hai."""
             create_image_text_layout(
                 text_content=text2,
                 layout="full"
@@ -24720,8 +24978,14 @@ Dharm, daya aur sachchai par chalne se hi life me peace aur success milti hai.""
         # --------------------------------------------------
         # Section 3.8.14
         # --------------------------------------------------
-        with st.expander("Section 3.8.14  Section CXCIV"):
-            text1 = """ """
+        with st.expander("Section 3.8.14  Section CLXLIII"):
+            text1 = """ 
+            Pandav ne phir Markandeya se kaha,
+“Ab hume Kshatriya kings ki greatness bataiye.”
+
+Rishi ne ek kahani sunayi.
+
+Ek raja tha—Suhotra."""
             create_image_text_layout(
                 "attached_assets/chapter3/3.8.14.jpg",
                 text1,
@@ -24729,7 +24993,60 @@ Dharm, daya aur sachchai par chalne se hi life me peace aur success milti hai.""
                 image_position="left"
             )
 
-            text2 = """ """
+            text2 = """ 
+            Woh ek baar rishiyon se milkar wapas aa raha tha.
+
+Raaste me uski mulaqat ek aur mahaan raja se hui—Sivi.
+
+Dono apni jagah khade ho gaye.
+
+Dono strong aur respectable the.
+
+Isliye koi bhi side nahi hona chahta tha.
+
+Dono ne socha,
+“Hum dono equal hain.”
+
+Tabhi wahan Narad rishi aaye.
+
+Unhone poocha,
+“Tum dono kyun ruk gaye ho?”
+
+Dono ne kaha,
+“Jo superior hota hai, usse raasta milta hai.”
+
+“Lekin hum dono equal hain.”
+
+Narad rishi muskuraaye.
+
+Unhone ek simple baat samjhayi,
+
+“Achha insaan sabke saath achha hi rehta hai.”
+
+“Sachcha insaan jhooth ke saamne bhi sach bolta hai.”
+
+“Bura insaan ko bhi daya aur maafi se jeeta ja sakta hai.”
+
+“Bada woh hota hai jo dusron ko respect deta hai.”
+
+Phir unhone indirectly hint diya,
+“Sivi thoda zyada mahaan hai.”
+
+Suhotra ne yeh samajh liya.
+
+Usne turant Sivi ko respect diya.
+
+Uske charo taraf ghoomkar pranam kiya.
+
+Aur use raasta de diya.
+
+Dono raja apni journey par nikal gaye.
+
+Sab peacefully solve ho gaya.
+
+Moral:
+Asli greatness power me nahi,
+balki vinamrata aur respect dene me hoti hai."""
             create_image_text_layout(
                 text_content=text2,
                 layout="full"
@@ -24738,8 +25055,16 @@ Dharm, daya aur sachchai par chalne se hi life me peace aur success milti hai.""
         # --------------------------------------------------
         # Section 3.8.15
         # --------------------------------------------------
-        with st.expander("Section 3.8.15  Section CXCV"):
-            text1 = """ """
+        with st.expander("Section 3.8.15  Section CLXLIV"):
+            text1 = """ 
+            Rishi Markandeya ne ek aur kahani sunayi.
+
+Ek raja tha—Yayati.
+
+Woh apne rajya me baitha tha,
+logon se ghira hua.
+
+Tab ek Brahmana uske paas aaya."""
             create_image_text_layout(
                 "attached_assets/chapter3/3.8.15.jpg",
                 text1,
@@ -24747,7 +25072,49 @@ Dharm, daya aur sachchai par chalne se hi life me peace aur success milti hai.""
                 image_position="left"
             )
 
-            text2 = """ """
+            text2 = """ 
+            Usne kaha,
+“Mujhe apne guru ke liye dhan chahiye.”
+
+Raja ne pyaar se poocha,
+“Tum kya chahte ho?”
+
+Brahmana ne ek interesting baat kahi,
+
+“Jab log daan maangte hain,
+toh log unhe neecha samajhte hain.”
+
+“Isliye batao—
+tum mujhe kis feeling se doge?”
+
+Raja Yayati muskuraaya.
+
+Usne kaha,
+
+“Main kabhi daan dene ke baad boast nahi karta.”
+
+“Main kabhi us cheez ka promise nahi karta
+jo main de nahi sakta.”
+
+“Lekin jo main de sakta hoon,
+use khushi se deta hoon.”
+
+“Jo mujhse maangta hai,
+woh mujhe dear hota hai.”
+
+“Main kabhi daan dene par regret nahi karta.”
+
+Phir raja ne turant kaha,
+
+“Main tumhe hazaar gaayen deta hoon.”
+
+Brahmana bahut khush ho gaya.
+
+Usne raja ko pranam kiya
+aur wahan se chala gaya.
+
+Moral:
+Sachcha daan wahi hota hai jo bina ego aur pure dil se diya jaye."""
             create_image_text_layout(
                 text_content=text2,
                 layout="full"
@@ -24756,8 +25123,16 @@ Dharm, daya aur sachchai par chalne se hi life me peace aur success milti hai.""
         # --------------------------------------------------
         # Section 3.8.16
         # --------------------------------------------------
-        with st.expander("Section 3.8.16  Section CXCVI"):
-            text1 = """ """
+        with st.expander("Section 3.8.16  Section CLXLV"):
+            text1 = """ 
+            Pandav ne phir kaha,
+“Hume aur Kshatriya kings ki kahani sunaiye.”
+
+Rishi Markandeya ne ek nayi kahani shuru ki.
+
+Do raja the—Vrishadarbha aur Seduka.
+
+Dono strong aur dharmik the."""
             create_image_text_layout(
                 "attached_assets/chapter3/3.8.16.jpg",
                 text1,
@@ -24765,7 +25140,61 @@ Dharm, daya aur sachchai par chalne se hi life me peace aur success milti hai.""
                 image_position="left"
             )
 
-            text2 = """ """
+            text2 = """ 
+            Ek din ek Brahmana aaya.
+
+Usne Seduka se kaha,
+“Mujhe apne guru ke liye hazaar ghode chahiye.”
+
+Seduka ne calmly jawab diya,
+
+“Main yeh nahi de sakta.”
+
+“Tum Vrishadarbha ke paas jao.”
+
+“Woh zaroor help karega.”
+
+Brahmana wahan chala gaya.
+
+Usne Vrishadarbha se bhi wahi request ki.
+
+Lekin raja ne achanak use whip se maar diya.
+
+Brahmana shock ho gaya.
+
+Usne kaha,
+“Maine kya galti ki?”
+
+Woh curse dene hi wala tha.
+
+Tab raja ne kaha,
+
+“Kya tum sirf isliye curse doge
+kyunki main tumhari demand puri nahi kar raha?”
+
+Phir Brahmana ne sach bataya,
+“Mujhe Seduka ne yahan bheja hai.”
+
+Yeh sunte hi raja ko realise hua.
+
+Usne turant kaha,
+
+“Main tumhe aaj ka poora dhan deta hoon.”
+
+“Main tumhe empty-handed nahi bhejunga.”
+
+Usne us din ka saara revenue
+Brahmana ko de diya.
+
+Aur woh value hazaar ghodon se bhi zyada thi.
+
+Brahmana khush ho gaya.
+
+Usne raja ko pranam kiya
+aur wapas chala gaya.
+
+Moral:
+Galti hone par use sudharna aur dil se dena hi asli greatness hoti hai."""
             create_image_text_layout(
                 text_content=text2,
                 layout="full"
@@ -24774,7 +25203,7 @@ Dharm, daya aur sachchai par chalne se hi life me peace aur success milti hai.""
         # --------------------------------------------------
         # Section 3.8.17
         # --------------------------------------------------
-        with st.expander("Section 3.8.17  Section CXCVII"):
+        with st.expander("Section 3.8.17  Section CLXLVI"):
             text1 = """ """
             create_image_text_layout(
                 "attached_assets/chapter3/3.8.17.jpg",
@@ -24792,7 +25221,7 @@ Dharm, daya aur sachchai par chalne se hi life me peace aur success milti hai.""
         # --------------------------------------------------
         # Section 3.8.18
         # --------------------------------------------------
-        with st.expander("Section 3.8.18  Section CXCVIII"):
+        with st.expander("Section 3.8.18  Section CLXLVII"):
             text1 = """ """
             create_image_text_layout(
                 "attached_assets/chapter3/3.8.18.jpg",
@@ -24810,7 +25239,7 @@ Dharm, daya aur sachchai par chalne se hi life me peace aur success milti hai.""
         # --------------------------------------------------
         # Section 3.8.19
         # --------------------------------------------------
-        with st.expander("Section 3.8.19  Section CXCIX"):
+        with st.expander("Section 3.8.19  Section CLXLVIII"):
             text1 = """ """
             create_image_text_layout(
                 "attached_assets/chapter3/3.8.19.jpg",
@@ -24828,7 +25257,7 @@ Dharm, daya aur sachchai par chalne se hi life me peace aur success milti hai.""
         # --------------------------------------------------
         # Section 3.8.20
         # --------------------------------------------------
-        with st.expander("Section 3.8.20  Section CC"):
+        with st.expander("Section 3.8.20  Section CLXLIX"):
             text1 = """ """
             create_image_text_layout(
                 "attached_assets/chapter3/3.8.20.jpg",
@@ -24846,7 +25275,7 @@ Dharm, daya aur sachchai par chalne se hi life me peace aur success milti hai.""
         # --------------------------------------------------
         # Section 3.8.21
         # --------------------------------------------------
-        with st.expander("Section 3.8.21  Section CCI"):
+        with st.expander("Section 3.8.21  Section CC"):
             text1 = """ """
             create_image_text_layout(
                 "attached_assets/chapter3/3.8.21.jpg",
@@ -24864,7 +25293,7 @@ Dharm, daya aur sachchai par chalne se hi life me peace aur success milti hai.""
         # --------------------------------------------------
         # Section 3.8.22
         # --------------------------------------------------
-        with st.expander("Section 3.8.22  Section CCII"):
+        with st.expander("Section 3.8.22  Section CCI"):
             text1 = """ """
             create_image_text_layout(
                 "attached_assets/chapter3/3.8.22.jpg",
@@ -24882,7 +25311,7 @@ Dharm, daya aur sachchai par chalne se hi life me peace aur success milti hai.""
         # --------------------------------------------------
         # Section 3.8.23
         # --------------------------------------------------
-        with st.expander("Section 3.8.23  Section CCIII"):
+        with st.expander("Section 3.8.23  Section CCII"):
             text1 = """ """
             create_image_text_layout(
                 "attached_assets/chapter3/3.8.23.jpg",
@@ -24900,7 +25329,7 @@ Dharm, daya aur sachchai par chalne se hi life me peace aur success milti hai.""
         # --------------------------------------------------
         # Section 3.8.24
         # --------------------------------------------------
-        with st.expander("Section 3.8.24  Section CCIV"):
+        with st.expander("Section 3.8.24  Section CCIII"):
             text1 = """ """
             create_image_text_layout(
                 "attached_assets/chapter3/3.8.24.jpg",
@@ -24918,7 +25347,7 @@ Dharm, daya aur sachchai par chalne se hi life me peace aur success milti hai.""
         # --------------------------------------------------
         # Section 3.8.25
         # --------------------------------------------------
-        with st.expander("Section 3.8.25  Section CCV"):
+        with st.expander("Section 3.8.25  Section CCIV"):
             text1 = """ """
             create_image_text_layout(
                 "attached_assets/chapter3/3.8.25.jpg",
@@ -24936,7 +25365,7 @@ Dharm, daya aur sachchai par chalne se hi life me peace aur success milti hai.""
         # --------------------------------------------------
         # Section 3.8.26
         # --------------------------------------------------
-        with st.expander("Section 3.8.26  Section CCVI"):
+        with st.expander("Section 3.8.26  Section CCV"):
             text1 = """ """
             create_image_text_layout(
                 "attached_assets/chapter3/3.8.26.jpg",
@@ -24954,7 +25383,7 @@ Dharm, daya aur sachchai par chalne se hi life me peace aur success milti hai.""
         # --------------------------------------------------
         # Section 3.8.27
         # --------------------------------------------------
-        with st.expander("Section 3.8.27  Section CCVII"):
+        with st.expander("Section 3.8.27  Section CCVI"):
             text1 = """ """
             create_image_text_layout(
                 "attached_assets/chapter3/3.8.27.jpg",
@@ -24972,7 +25401,7 @@ Dharm, daya aur sachchai par chalne se hi life me peace aur success milti hai.""
         # --------------------------------------------------
         # Section 3.8.28
         # --------------------------------------------------
-        with st.expander("Section 3.8.28  Section CCVIII"):
+        with st.expander("Section 3.8.28  Section CCVII"):
             text1 = """ """
             create_image_text_layout(
                 "attached_assets/chapter3/3.8.28.jpg",
@@ -24990,7 +25419,7 @@ Dharm, daya aur sachchai par chalne se hi life me peace aur success milti hai.""
         # --------------------------------------------------
         # Section 3.8.29
         # --------------------------------------------------
-        with st.expander("Section 3.8.29  Section CCIX"):
+        with st.expander("Section 3.8.29  Section CCVIII"):
             text1 = """ """
             create_image_text_layout(
                 "attached_assets/chapter3/3.8.29.jpg",
@@ -25008,7 +25437,7 @@ Dharm, daya aur sachchai par chalne se hi life me peace aur success milti hai.""
         # --------------------------------------------------
         # Section 3.8.30
         # --------------------------------------------------
-        with st.expander("Section 3.8.30  Section CCX"):
+        with st.expander("Section 3.8.30  Section CCIX"):
             text1 = """ """
             create_image_text_layout(
                 "attached_assets/chapter3/3.8.30.jpg",
@@ -25026,7 +25455,7 @@ Dharm, daya aur sachchai par chalne se hi life me peace aur success milti hai.""
         # --------------------------------------------------
         # Section 3.8.31
         # --------------------------------------------------
-        with st.expander("Section 3.8.31  Section CCXI"):
+        with st.expander("Section 3.8.31  Section CCX"):
             text1 = """ """
             create_image_text_layout(
                 "attached_assets/chapter3/3.8.31.jpg",
@@ -25044,7 +25473,7 @@ Dharm, daya aur sachchai par chalne se hi life me peace aur success milti hai.""
         # --------------------------------------------------
         # Section 3.8.32
         # --------------------------------------------------
-        with st.expander("Section 3.8.32  Section CCXII"):
+        with st.expander("Section 3.8.32  Section CCXI"):
             text1 = """ """
             create_image_text_layout(
                 "attached_assets/chapter3/3.8.32.jpg",
@@ -25062,7 +25491,7 @@ Dharm, daya aur sachchai par chalne se hi life me peace aur success milti hai.""
         # --------------------------------------------------
         # Section 3.8.33
         # --------------------------------------------------
-        with st.expander("Section 3.8.33  Section CCXIII"):
+        with st.expander("Section 3.8.33  Section CCXII"):
             text1 = """ """
             create_image_text_layout(
                 "attached_assets/chapter3/3.8.33.jpg",
@@ -25080,7 +25509,7 @@ Dharm, daya aur sachchai par chalne se hi life me peace aur success milti hai.""
         # --------------------------------------------------
         # Section 3.8.34
         # --------------------------------------------------
-        with st.expander("Section 3.8.34  Section CCXIV"):
+        with st.expander("Section 3.8.34  Section CCXIII"):
             text1 = """ """
             create_image_text_layout(
                 "attached_assets/chapter3/3.8.34.jpg",
@@ -25098,7 +25527,7 @@ Dharm, daya aur sachchai par chalne se hi life me peace aur success milti hai.""
         # --------------------------------------------------
         # Section 3.8.35
         # --------------------------------------------------
-        with st.expander("Section 3.8.35  Section CCXV"):
+        with st.expander("Section 3.8.35  Section CCXIV"):
             text1 = """ """
             create_image_text_layout(
                 "attached_assets/chapter3/3.8.35.jpg",
@@ -25116,7 +25545,7 @@ Dharm, daya aur sachchai par chalne se hi life me peace aur success milti hai.""
         # --------------------------------------------------
         # Section 3.8.36
         # --------------------------------------------------
-        with st.expander("Section 3.8.36  Section CCXVI"):
+        with st.expander("Section 3.8.36  Section CCXV"):
             text1 = """ """
             create_image_text_layout(
                 "attached_assets/chapter3/3.8.36.jpg",
@@ -25134,7 +25563,7 @@ Dharm, daya aur sachchai par chalne se hi life me peace aur success milti hai.""
         # --------------------------------------------------
         # Section 3.8.37
         # --------------------------------------------------
-        with st.expander("Section 3.8.37  Section CCXVII"):
+        with st.expander("Section 3.8.37  Section CCXVI"):
             text1 = """ """
             create_image_text_layout(
                 "attached_assets/chapter3/3.8.37.jpg",
@@ -25152,7 +25581,7 @@ Dharm, daya aur sachchai par chalne se hi life me peace aur success milti hai.""
         # --------------------------------------------------
         # Section 3.8.38
         # --------------------------------------------------
-        with st.expander("Section 3.8.38  Section CCXVIII"):
+        with st.expander("Section 3.8.38  Section CCXVII"):
             text1 = """ """
             create_image_text_layout(
                 "attached_assets/chapter3/3.8.38.jpg",
@@ -25170,7 +25599,7 @@ Dharm, daya aur sachchai par chalne se hi life me peace aur success milti hai.""
         # --------------------------------------------------
         # Section 3.8.39
         # --------------------------------------------------
-        with st.expander("Section 3.8.39  Section CCXIX"):
+        with st.expander("Section 3.8.39  Section CCXVIII"):
             text1 = """ """
             create_image_text_layout(
                 "attached_assets/chapter3/3.8.39.jpg",
@@ -25188,7 +25617,7 @@ Dharm, daya aur sachchai par chalne se hi life me peace aur success milti hai.""
         # --------------------------------------------------
         # Section 3.8.40
         # --------------------------------------------------
-        with st.expander("Section 3.8.40  Section CCXX"):
+        with st.expander("Section 3.8.40  Section CCXIX"):
             text1 = """ """
             create_image_text_layout(
                 "attached_assets/chapter3/3.8.40.jpg",
@@ -25206,7 +25635,7 @@ Dharm, daya aur sachchai par chalne se hi life me peace aur success milti hai.""
         # --------------------------------------------------
         # Section 3.8.41
         # --------------------------------------------------
-        with st.expander("Section 3.8.41  Section CCXXI"):
+        with st.expander("Section 3.8.41  Section CCXX"):
             text1 = """ """
             create_image_text_layout(
                 "attached_assets/chapter3/3.8.41.jpg",
@@ -25224,7 +25653,7 @@ Dharm, daya aur sachchai par chalne se hi life me peace aur success milti hai.""
         # --------------------------------------------------
         # Section 3.8.42
         # --------------------------------------------------
-        with st.expander("Section 3.8.42  Section CCXXII"):
+        with st.expander("Section 3.8.42  Section CCXXI"):
             text1 = """ """
             create_image_text_layout(
                 "attached_assets/chapter3/3.8.42.jpg",
@@ -25242,7 +25671,7 @@ Dharm, daya aur sachchai par chalne se hi life me peace aur success milti hai.""
         # --------------------------------------------------
         # Section 3.8.43
         # --------------------------------------------------
-        with st.expander("Section 3.8.43  Section CCXXIII"):
+        with st.expander("Section 3.8.43  Section CCXXII"):
             text1 = """ """
             create_image_text_layout(
                 "attached_assets/chapter3/3.8.43.jpg",
@@ -25260,7 +25689,7 @@ Dharm, daya aur sachchai par chalne se hi life me peace aur success milti hai.""
         # --------------------------------------------------
         # Section 3.8.44
         # --------------------------------------------------
-        with st.expander("Section 3.8.44  Section CCXXIV"):
+        with st.expander("Section 3.8.44  Section CCXXIII"):
             text1 = """ """
             create_image_text_layout(
                 "attached_assets/chapter3/3.8.44.jpg",
@@ -25278,7 +25707,7 @@ Dharm, daya aur sachchai par chalne se hi life me peace aur success milti hai.""
         # --------------------------------------------------
         # Section 3.8.45
         # --------------------------------------------------
-        with st.expander("Section 3.8.45  Section CCXXV"):
+        with st.expander("Section 3.8.45  Section CCXXIV"):
             text1 = """ """
             create_image_text_layout(
                 "attached_assets/chapter3/3.8.45.jpg",
@@ -25296,7 +25725,7 @@ Dharm, daya aur sachchai par chalne se hi life me peace aur success milti hai.""
         # --------------------------------------------------
         # Section 3.8.46
         # --------------------------------------------------
-        with st.expander("Section 3.8.46  Section CCXXVI"):
+        with st.expander("Section 3.8.46  Section CCXXV"):
             text1 = """ """
             create_image_text_layout(
                 "attached_assets/chapter3/3.8.46.jpg",
@@ -25314,7 +25743,7 @@ Dharm, daya aur sachchai par chalne se hi life me peace aur success milti hai.""
         # --------------------------------------------------
         # Section 3.8.47
         # --------------------------------------------------
-        with st.expander("Section 3.8.47  Section CCXXVII"):
+        with st.expander("Section 3.8.47  Section CCXXVI"):
             text1 = """ """
             create_image_text_layout(
                 "attached_assets/chapter3/3.8.47.jpg",
@@ -25332,7 +25761,7 @@ Dharm, daya aur sachchai par chalne se hi life me peace aur success milti hai.""
         # --------------------------------------------------
         # Section 3.8.48
         # --------------------------------------------------
-        with st.expander("Section 3.8.48  Section CCXXVIII"):
+        with st.expander("Section 3.8.48  Section CCXXVII"):
             text1 = """ """
             create_image_text_layout(
                 "attached_assets/chapter3/3.8.48.jpg",
@@ -25350,7 +25779,7 @@ Dharm, daya aur sachchai par chalne se hi life me peace aur success milti hai.""
         # --------------------------------------------------
         # Section 3.8.49
         # --------------------------------------------------
-        with st.expander("Section 3.8.49  Section CCXXIX"):
+        with st.expander("Section 3.8.49  Section CCXXVIII"):
             text1 = """ """
             create_image_text_layout(
                 "attached_assets/chapter3/3.8.49.jpg",
@@ -25368,7 +25797,7 @@ Dharm, daya aur sachchai par chalne se hi life me peace aur success milti hai.""
         # --------------------------------------------------
         # Section 3.8.50
         # --------------------------------------------------
-        with st.expander("Section 3.8.50  Section CCXXX"):
+        with st.expander("Section 3.8.50  Section CCXXIX"):
             text1 = """ """
             create_image_text_layout(
                 "attached_assets/chapter3/3.8.50.jpg",
@@ -25388,7 +25817,7 @@ Dharm, daya aur sachchai par chalne se hi life me peace aur success milti hai.""
         # --------------------------------------------------
         # Section 3.9.1
         # --------------------------------------------------
-        with st.expander("Section 3.9.1  Section CCXXXI"):
+        with st.expander("Section 3.9.1  Section CCXXX"):
             text1 = """ """
             create_image_text_layout(
                 "attached_assets/chapter3/3.9.1.jpg",
@@ -25406,7 +25835,7 @@ Dharm, daya aur sachchai par chalne se hi life me peace aur success milti hai.""
         # --------------------------------------------------
         # Section 3.9.2
         # --------------------------------------------------
-        with st.expander("Section 3.9.2  Section CCXXXII"):
+        with st.expander("Section 3.9.2  Section CCXXXI"):
             text1 = """ """
             create_image_text_layout(
                 "attached_assets/chapter3/3.9.2.jpg",
@@ -25424,7 +25853,7 @@ Dharm, daya aur sachchai par chalne se hi life me peace aur success milti hai.""
         # --------------------------------------------------
         # Section 3.9.3
         # --------------------------------------------------
-        with st.expander("Section 3.9.3  Section CCXXXIII"):
+        with st.expander("Section 3.9.3  Section CCXXXII"):
             text1 = """ """
             create_image_text_layout(
                 "attached_assets/chapter3/3.9.3.jpg",
@@ -25444,7 +25873,7 @@ Dharm, daya aur sachchai par chalne se hi life me peace aur success milti hai.""
         # --------------------------------------------------
         # Section 3.10.1
         # --------------------------------------------------
-        with st.expander("Section 3.10.1  Section CCXXXIV"):
+        with st.expander("Section 3.10.1  Section CCXXXIII"):
             text1 = """ """
             create_image_text_layout(
                 "attached_assets/chapter3/3.10.1.jpg",
@@ -25462,7 +25891,7 @@ Dharm, daya aur sachchai par chalne se hi life me peace aur success milti hai.""
         # --------------------------------------------------
         # Section 3.10.2
         # --------------------------------------------------
-        with st.expander("Section 3.10.2  Section CCXXXV"):
+        with st.expander("Section 3.10.2  Section CCXXXIV"):
             text1 = """ """
             create_image_text_layout(
                 "attached_assets/chapter3/3.10.2.jpg",
@@ -25480,7 +25909,7 @@ Dharm, daya aur sachchai par chalne se hi life me peace aur success milti hai.""
         # --------------------------------------------------
         # Section 3.10.3
         # --------------------------------------------------
-        with st.expander("Section 3.10.3  Section CCXXXVI"):
+        with st.expander("Section 3.10.3  Section CCXXXV"):
             text1 = """ """
             create_image_text_layout(
                 "attached_assets/chapter3/3.10.3.jpg",
@@ -25498,7 +25927,7 @@ Dharm, daya aur sachchai par chalne se hi life me peace aur success milti hai.""
         # --------------------------------------------------
         # Section 3.10.4
         # --------------------------------------------------
-        with st.expander("Section 3.10.4  Section CCXXXVII"):
+        with st.expander("Section 3.10.4  Section CCXXXVI"):
             text1 = """ """
             create_image_text_layout(
                 "attached_assets/chapter3/3.10.4.jpg",
@@ -25516,7 +25945,7 @@ Dharm, daya aur sachchai par chalne se hi life me peace aur success milti hai.""
         # --------------------------------------------------
         # Section 3.10.5
         # --------------------------------------------------
-        with st.expander("Section 3.10.5  Section CCXXXVIII"):
+        with st.expander("Section 3.10.5  Section CCXXXVII"):
             text1 = """ """
             create_image_text_layout(
                 "attached_assets/chapter3/3.10.5.jpg",
@@ -25534,7 +25963,7 @@ Dharm, daya aur sachchai par chalne se hi life me peace aur success milti hai.""
         # --------------------------------------------------
         # Section 3.10.6
         # --------------------------------------------------
-        with st.expander("Section 3.10.6  Section CCXXXIX"):
+        with st.expander("Section 3.10.6  Section CCXXXVIII"):
             text1 = """ """
             create_image_text_layout(
                 "attached_assets/chapter3/3.10.6.jpg",
@@ -25552,7 +25981,7 @@ Dharm, daya aur sachchai par chalne se hi life me peace aur success milti hai.""
         # --------------------------------------------------
         # Section 3.10.7
         # --------------------------------------------------
-        with st.expander("Section 3.10.7  Section CCXL"):
+        with st.expander("Section 3.10.7  Section CCXXXIX"):
             text1 = """ """
             create_image_text_layout(
                 "attached_assets/chapter3/3.10.7.jpg",
@@ -25570,7 +25999,7 @@ Dharm, daya aur sachchai par chalne se hi life me peace aur success milti hai.""
         # --------------------------------------------------
         # Section 3.10.8
         # --------------------------------------------------
-        with st.expander("Section 3.10.8  Section CCXLI"):
+        with st.expander("Section 3.10.8  Section CCXL"):
             text1 = """ """
             create_image_text_layout(
                 "attached_assets/chapter3/3.10.8.jpg",
@@ -25588,7 +26017,7 @@ Dharm, daya aur sachchai par chalne se hi life me peace aur success milti hai.""
         # --------------------------------------------------
         # Section 3.10.9
         # --------------------------------------------------
-        with st.expander("Section 3.10.9  Section CCXLII"):
+        with st.expander("Section 3.10.9  Section CCXLI"):
             text1 = """ """
             create_image_text_layout(
                 "attached_assets/chapter3/3.10.9.jpg",
@@ -25606,7 +26035,7 @@ Dharm, daya aur sachchai par chalne se hi life me peace aur success milti hai.""
         # --------------------------------------------------
         # Section 3.10.10
         # --------------------------------------------------
-        with st.expander("Section 3.10.10  Section CCXLIII"):
+        with st.expander("Section 3.10.10  Section CCXLII"):
             text1 = """ """
             create_image_text_layout(
                 "attached_assets/chapter3/3.10.10.jpg",
@@ -25624,7 +26053,7 @@ Dharm, daya aur sachchai par chalne se hi life me peace aur success milti hai.""
         # --------------------------------------------------
         # Section 3.10.11
         # --------------------------------------------------
-        with st.expander("Section 3.10.11  Section CCXLIV"):
+        with st.expander("Section 3.10.11  Section CCXLIII"):
             text1 = """ """
             create_image_text_layout(
                 "attached_assets/chapter3/3.10.11.jpg",
@@ -25642,7 +26071,7 @@ Dharm, daya aur sachchai par chalne se hi life me peace aur success milti hai.""
         # --------------------------------------------------
         # Section 3.10.12
         # --------------------------------------------------
-        with st.expander("Section 3.10.12  Section CCXLV"):
+        with st.expander("Section 3.10.12  Section CCXLIV"):
             text1 = """ """
             create_image_text_layout(
                 "attached_assets/chapter3/3.10.12.jpg",
@@ -25660,7 +26089,7 @@ Dharm, daya aur sachchai par chalne se hi life me peace aur success milti hai.""
         # --------------------------------------------------
         # Section 3.10.13
         # --------------------------------------------------
-        with st.expander("Section 3.10.13  Section CCXLVI"):
+        with st.expander("Section 3.10.13  Section CCXLV"):
             text1 = """ """
             create_image_text_layout(
                 "attached_assets/chapter3/3.10.13.jpg",
@@ -25678,7 +26107,7 @@ Dharm, daya aur sachchai par chalne se hi life me peace aur success milti hai.""
         # --------------------------------------------------
         # Section 3.10.14
         # --------------------------------------------------
-        with st.expander("Section 3.10.14  Section CCXLVII"):
+        with st.expander("Section 3.10.14  Section CCXLVI"):
             text1 = """ """
             create_image_text_layout(
                 "attached_assets/chapter3/3.10.14.jpg",
@@ -25696,7 +26125,7 @@ Dharm, daya aur sachchai par chalne se hi life me peace aur success milti hai.""
         # --------------------------------------------------
         # Section 3.10.15
         # --------------------------------------------------
-        with st.expander("Section 3.10.15  Section CCXLVIII"):
+        with st.expander("Section 3.10.15  Section CCXLVII"):
             text1 = """ """
             create_image_text_layout(
                 "attached_assets/chapter3/3.10.15.jpg",
@@ -25714,7 +26143,7 @@ Dharm, daya aur sachchai par chalne se hi life me peace aur success milti hai.""
         # --------------------------------------------------
         # Section 3.10.16
         # --------------------------------------------------
-        with st.expander("Section 3.10.16  Section CCXLIX"):
+        with st.expander("Section 3.10.16  Section CCXLVIII"):
             text1 = """ """
             create_image_text_layout(
                 "attached_assets/chapter3/3.10.16.jpg",
@@ -25732,7 +26161,7 @@ Dharm, daya aur sachchai par chalne se hi life me peace aur success milti hai.""
         # --------------------------------------------------
         # Section 3.10.17
         # --------------------------------------------------
-        with st.expander("Section 3.10.17  Section CCL"):
+        with st.expander("Section 3.10.17  Section CCXLIX"):
             text1 = """ """
             create_image_text_layout(
                 "attached_assets/chapter3/3.10.17.jpg",
@@ -25750,7 +26179,7 @@ Dharm, daya aur sachchai par chalne se hi life me peace aur success milti hai.""
         # --------------------------------------------------
         # Section 3.10.18
         # --------------------------------------------------
-        with st.expander("Section 3.10.18  Section CCLI"):
+        with st.expander("Section 3.10.18  Section CCL"):
             text1 = """ """
             create_image_text_layout(
                 "attached_assets/chapter3/3.10.18.jpg",
@@ -25768,7 +26197,7 @@ Dharm, daya aur sachchai par chalne se hi life me peace aur success milti hai.""
         # --------------------------------------------------
         # Section 3.10.19
         # --------------------------------------------------
-        with st.expander("Section 3.10.19  Section CCLII"):
+        with st.expander("Section 3.10.19  Section CCLI"):
             text1 = """ """
             create_image_text_layout(
                 "attached_assets/chapter3/3.10.19.jpg",
@@ -25786,7 +26215,7 @@ Dharm, daya aur sachchai par chalne se hi life me peace aur success milti hai.""
         # --------------------------------------------------
         # Section 3.10.20
         # --------------------------------------------------
-        with st.expander("Section 3.10.20  Section CCLIII"):
+        with st.expander("Section 3.10.20  Section CCLII"):
             text1 = """ """
             create_image_text_layout(
                 "attached_assets/chapter3/3.10.20.jpg",
@@ -25804,7 +26233,7 @@ Dharm, daya aur sachchai par chalne se hi life me peace aur success milti hai.""
         # --------------------------------------------------
         # Section 3.10.21
         # --------------------------------------------------
-        with st.expander("Section 3.10.21  Section CCLIV"):
+        with st.expander("Section 3.10.21  Section CCLIII"):
             text1 = """ """
             create_image_text_layout(
                 "attached_assets/chapter3/3.10.21.jpg",
@@ -25822,7 +26251,7 @@ Dharm, daya aur sachchai par chalne se hi life me peace aur success milti hai.""
         # --------------------------------------------------
         # Section 3.10.22
         # --------------------------------------------------
-        with st.expander("Section 3.10.22  Section CCLV"):
+        with st.expander("Section 3.10.22  Section CCLIV"):
             text1 = """ """
             create_image_text_layout(
                 "attached_assets/chapter3/3.10.22.jpg",
@@ -25840,7 +26269,7 @@ Dharm, daya aur sachchai par chalne se hi life me peace aur success milti hai.""
         # --------------------------------------------------
         # Section 3.10.23
         # --------------------------------------------------
-        with st.expander("Section 3.10.23  Section CCLVI"):
+        with st.expander("Section 3.10.23  Section CCLV"):
             text1 = """ """
             create_image_text_layout(
                 "attached_assets/chapter3/3.10.23.jpg",
@@ -25858,7 +26287,7 @@ Dharm, daya aur sachchai par chalne se hi life me peace aur success milti hai.""
         # --------------------------------------------------
         # Section 3.10.24
         # --------------------------------------------------
-        with st.expander("Section 3.10.24  Section CCLVII"):
+        with st.expander("Section 3.10.24  Section CCLVI"):
             text1 = """ """
             create_image_text_layout(
                 "attached_assets/chapter3/3.10.24.jpg",
@@ -25876,7 +26305,7 @@ Dharm, daya aur sachchai par chalne se hi life me peace aur success milti hai.""
         # --------------------------------------------------
         # Section 3.10.25
         # --------------------------------------------------
-        with st.expander("Section 3.10.25  Section CCLVIII"):
+        with st.expander("Section 3.10.25  Section CCLVII"):
             text1 = """ """
             create_image_text_layout(
                 "attached_assets/chapter3/3.10.25.jpg",
@@ -25894,7 +26323,7 @@ Dharm, daya aur sachchai par chalne se hi life me peace aur success milti hai.""
         # --------------------------------------------------
         # Section 3.10.26
         # --------------------------------------------------
-        with st.expander("Section 3.10.26  Section CCLIX"):
+        with st.expander("Section 3.10.26  Section CCLVIII"):
             text1 = """ """
             create_image_text_layout(
                 "attached_assets/chapter3/3.10.26.jpg",
@@ -25912,7 +26341,7 @@ Dharm, daya aur sachchai par chalne se hi life me peace aur success milti hai.""
         # --------------------------------------------------
         # Section 3.10.27
         # --------------------------------------------------
-        with st.expander("Section 3.10.27  Section CCLX"):
+        with st.expander("Section 3.10.27  Section CCLIX"):
             text1 = """ """
             create_image_text_layout(
                 "attached_assets/chapter3/3.10.27.jpg",
@@ -25932,7 +26361,7 @@ Dharm, daya aur sachchai par chalne se hi life me peace aur success milti hai.""
         # --------------------------------------------------
         # Section 3.11.1
         # --------------------------------------------------
-        with st.expander("Section 3.11.1  Section CCLXI"):
+        with st.expander("Section 3.11.1  Section CCLX"):
             text1 = """ """
             create_image_text_layout(
                 "attached_assets/chapter3/3.11.1.jpg",
@@ -25950,7 +26379,7 @@ Dharm, daya aur sachchai par chalne se hi life me peace aur success milti hai.""
         # --------------------------------------------------
         # Section 3.11.2
         # --------------------------------------------------
-        with st.expander("Section 3.11.2  Section CCLXII"):
+        with st.expander("Section 3.11.2  Section CCLXI"):
             text1 = """ """
             create_image_text_layout(
                 "attached_assets/chapter3/3.11.2.jpg",
@@ -25968,7 +26397,7 @@ Dharm, daya aur sachchai par chalne se hi life me peace aur success milti hai.""
         # --------------------------------------------------
         # Section 3.11.3
         # --------------------------------------------------
-        with st.expander("Section 3.11.3  Section CCLXIII"):
+        with st.expander("Section 3.11.3  Section CCLXII"):
             text1 = """ """
             create_image_text_layout(
                 "attached_assets/chapter3/3.11.3.jpg",
@@ -25986,7 +26415,7 @@ Dharm, daya aur sachchai par chalne se hi life me peace aur success milti hai.""
         # --------------------------------------------------
         # Section 3.11.4
         # --------------------------------------------------
-        with st.expander("Section 3.11.4  Section CCLXIV"):
+        with st.expander("Section 3.11.4  Section CCLXIII"):
             text1 = """ """
             create_image_text_layout(
                 "attached_assets/chapter3/3.11.4.jpg",
@@ -26004,7 +26433,7 @@ Dharm, daya aur sachchai par chalne se hi life me peace aur success milti hai.""
         # --------------------------------------------------
         # Section 3.11.5
         # --------------------------------------------------
-        with st.expander("Section 3.11.5  Section CCLXV"):
+        with st.expander("Section 3.11.5  Section CCLXIV"):
             text1 = """ """
             create_image_text_layout(
                 "attached_assets/chapter3/3.11.5.jpg",
@@ -26022,7 +26451,7 @@ Dharm, daya aur sachchai par chalne se hi life me peace aur success milti hai.""
         # --------------------------------------------------
         # Section 3.11.6
         # --------------------------------------------------
-        with st.expander("Section 3.11.6  Section CCLXVI"):
+        with st.expander("Section 3.11.6  Section CCLXV"):
             text1 = """ """
             create_image_text_layout(
                 "attached_assets/chapter3/3.11.6.jpg",
@@ -26040,7 +26469,7 @@ Dharm, daya aur sachchai par chalne se hi life me peace aur success milti hai.""
         # --------------------------------------------------
         # Section 3.11.7
         # --------------------------------------------------
-        with st.expander("Section 3.11.7  Section CCLXVII"):
+        with st.expander("Section 3.11.7  Section CCLXVI"):
             text1 = """ """
             create_image_text_layout(
                 "attached_assets/chapter3/3.11.7.jpg",
@@ -26058,7 +26487,7 @@ Dharm, daya aur sachchai par chalne se hi life me peace aur success milti hai.""
         # --------------------------------------------------
         # Section 3.11.8
         # --------------------------------------------------
-        with st.expander("Section 3.11.8  Section CCLXVIII"):
+        with st.expander("Section 3.11.8  Section CCLXVII"):
             text1 = """ """
             create_image_text_layout(
                 "attached_assets/chapter3/3.11.8.jpg",
@@ -26076,7 +26505,7 @@ Dharm, daya aur sachchai par chalne se hi life me peace aur success milti hai.""
         # --------------------------------------------------
         # Section 3.11.9
         # --------------------------------------------------
-        with st.expander("Section 3.11.9  Section CCLXIX"):
+        with st.expander("Section 3.11.9  Section CCLXVIII"):
             text1 = """ """
             create_image_text_layout(
                 "attached_assets/chapter3/3.11.9.jpg",
@@ -26094,7 +26523,7 @@ Dharm, daya aur sachchai par chalne se hi life me peace aur success milti hai.""
         # --------------------------------------------------
         # Section 3.11.10
         # --------------------------------------------------
-        with st.expander("Section 3.11.10  Section CCLXX"):
+        with st.expander("Section 3.11.10  Section CCLXIX"):
             text1 = """ """
             create_image_text_layout(
                 "attached_assets/chapter3/3.11.10.jpg",
@@ -26112,7 +26541,7 @@ Dharm, daya aur sachchai par chalne se hi life me peace aur success milti hai.""
         # --------------------------------------------------
         # Section 3.11.11
         # --------------------------------------------------
-        with st.expander("Section 3.11.11  Section CCLXXI"):
+        with st.expander("Section 3.11.11  Section CCLXX"):
             text1 = """ """
             create_image_text_layout(
                 "attached_assets/chapter3/3.11.11.jpg",
@@ -26130,7 +26559,7 @@ Dharm, daya aur sachchai par chalne se hi life me peace aur success milti hai.""
         # --------------------------------------------------
         # Section 3.11.12
         # --------------------------------------------------
-        with st.expander("Section 3.11.12  Section CCLXXII"):
+        with st.expander("Section 3.11.12  Section CCLXXI"):
             text1 = """ """
             create_image_text_layout(
                 "attached_assets/chapter3/3.11.12.jpg",
@@ -26148,7 +26577,7 @@ Dharm, daya aur sachchai par chalne se hi life me peace aur success milti hai.""
         # --------------------------------------------------
         # Section 3.11.13
         # --------------------------------------------------
-        with st.expander("Section 3.11.13  Section CCLXXIII"):
+        with st.expander("Section 3.11.13  Section CCLXXII"):
             text1 = """ """
             create_image_text_layout(
                 "attached_assets/chapter3/3.11.13.jpg",
@@ -26166,7 +26595,7 @@ Dharm, daya aur sachchai par chalne se hi life me peace aur success milti hai.""
         # --------------------------------------------------
         # Section 3.11.14
         # --------------------------------------------------
-        with st.expander("Section 3.11.14  Section CCLXXIV"):
+        with st.expander("Section 3.11.14  Section CCLXXIII"):
             text1 = """ """
             create_image_text_layout(
                 "attached_assets/chapter3/3.11.14.jpg",
@@ -26184,7 +26613,7 @@ Dharm, daya aur sachchai par chalne se hi life me peace aur success milti hai.""
         # --------------------------------------------------
         # Section 3.11.15
         # --------------------------------------------------
-        with st.expander("Section 3.11.15  Section CCLXXV"):
+        with st.expander("Section 3.11.15  Section CCLXXIV"):
             text1 = """ """
             create_image_text_layout(
                 "attached_assets/chapter3/3.11.15.jpg",
@@ -26202,7 +26631,7 @@ Dharm, daya aur sachchai par chalne se hi life me peace aur success milti hai.""
         # --------------------------------------------------
         # Section 3.11.16
         # --------------------------------------------------
-        with st.expander("Section 3.11.16  Section CCLXXVI"):
+        with st.expander("Section 3.11.16  Section CCLXXV"):
             text1 = """ """
             create_image_text_layout(
                 "attached_assets/chapter3/3.11.16.jpg",
@@ -26220,7 +26649,7 @@ Dharm, daya aur sachchai par chalne se hi life me peace aur success milti hai.""
         # --------------------------------------------------
         # Section 3.11.17
         # --------------------------------------------------
-        with st.expander("Section 3.11.17  Section CCLXXVII"):
+        with st.expander("Section 3.11.17  Section CCLXXVI"):
             text1 = """ """
             create_image_text_layout(
                 "attached_assets/chapter3/3.11.17.jpg",
@@ -26238,7 +26667,7 @@ Dharm, daya aur sachchai par chalne se hi life me peace aur success milti hai.""
         # --------------------------------------------------
         # Section 3.11.18
         # --------------------------------------------------
-        with st.expander("Section 3.11.18  Section CCLXXVIII"):
+        with st.expander("Section 3.11.18  Section CCLXXVII"):
             text1 = """ """
             create_image_text_layout(
                 "attached_assets/chapter3/3.11.18.jpg",
@@ -26256,7 +26685,7 @@ Dharm, daya aur sachchai par chalne se hi life me peace aur success milti hai.""
         # --------------------------------------------------
         # Section 3.11.19
         # --------------------------------------------------
-        with st.expander("Section 3.11.19  Section CCLXXIX"):
+        with st.expander("Section 3.11.19  Section CCLXXVIII"):
             text1 = """ """
             create_image_text_layout(
                 "attached_assets/chapter3/3.11.19.jpg",
@@ -26274,7 +26703,7 @@ Dharm, daya aur sachchai par chalne se hi life me peace aur success milti hai.""
         # --------------------------------------------------
         # Section 3.11.20
         # --------------------------------------------------
-        with st.expander("Section 3.11.20  Section CCLXXX"):
+        with st.expander("Section 3.11.20  Section CCLXXIX"):
             text1 = """ """
             create_image_text_layout(
                 "attached_assets/chapter3/3.11.20.jpg",
@@ -26292,7 +26721,7 @@ Dharm, daya aur sachchai par chalne se hi life me peace aur success milti hai.""
         # --------------------------------------------------
         # Section 3.11.21
         # --------------------------------------------------
-        with st.expander("Section 3.11.21  Section CCLXXXI"):
+        with st.expander("Section 3.11.21  Section CCLXXX"):
             text1 = """ """
             create_image_text_layout(
                 "attached_assets/chapter3/3.11.21.jpg",
@@ -26310,7 +26739,7 @@ Dharm, daya aur sachchai par chalne se hi life me peace aur success milti hai.""
         # --------------------------------------------------
         # Section 3.11.22
         # --------------------------------------------------
-        with st.expander("Section 3.11.22  Section CCLXXXII"):
+        with st.expander("Section 3.11.22  Section CCLXXXI"):
             text1 = """ """
             create_image_text_layout(
                 "attached_assets/chapter3/3.11.22.jpg",
@@ -26328,7 +26757,7 @@ Dharm, daya aur sachchai par chalne se hi life me peace aur success milti hai.""
         # --------------------------------------------------
         # Section 3.11.23
         # --------------------------------------------------
-        with st.expander("Section 3.11.23  Section CCLXXXIII"):
+        with st.expander("Section 3.11.23  Section CCLXXXII"):
             text1 = """ """
             create_image_text_layout(
                 "attached_assets/chapter3/3.11.23.jpg",
@@ -26346,7 +26775,7 @@ Dharm, daya aur sachchai par chalne se hi life me peace aur success milti hai.""
         # --------------------------------------------------
         # Section 3.11.24
         # --------------------------------------------------
-        with st.expander("Section 3.11.24  Section CCLXXXIV"):
+        with st.expander("Section 3.11.24  Section CCLXXXIII"):
             text1 = """ """
             create_image_text_layout(
                 "attached_assets/chapter3/3.11.24.jpg",
@@ -26364,7 +26793,7 @@ Dharm, daya aur sachchai par chalne se hi life me peace aur success milti hai.""
         # --------------------------------------------------
         # Section 3.11.25
         # --------------------------------------------------
-        with st.expander("Section 3.11.25  Section CCLXXXV"):
+        with st.expander("Section 3.11.25  Section CCLXXXIV"):
             text1 = """ """
             create_image_text_layout(
                 "attached_assets/chapter3/3.11.25.jpg",
@@ -26382,7 +26811,7 @@ Dharm, daya aur sachchai par chalne se hi life me peace aur success milti hai.""
         # --------------------------------------------------
         # Section 3.11.26
         # --------------------------------------------------
-        with st.expander("Section 3.11.26  Section CCLXXXVI"):
+        with st.expander("Section 3.11.26  Section CCLXXXV"):
             text1 = """ """
             create_image_text_layout(
                 "attached_assets/chapter3/3.11.26.jpg",
@@ -26400,7 +26829,7 @@ Dharm, daya aur sachchai par chalne se hi life me peace aur success milti hai.""
         # --------------------------------------------------
         # Section 3.11.27
         # --------------------------------------------------
-        with st.expander("Section 3.11.27  Section CCLXXXVII"):
+        with st.expander("Section 3.11.27  Section CCLXXXVI"):
             text1 = """ """
             create_image_text_layout(
                 "attached_assets/chapter3/3.11.27.jpg",
@@ -26418,7 +26847,7 @@ Dharm, daya aur sachchai par chalne se hi life me peace aur success milti hai.""
         # --------------------------------------------------
         # Section 3.11.28
         # --------------------------------------------------
-        with st.expander("Section 3.11.28  Section CCLXXXVIII"):
+        with st.expander("Section 3.11.28  Section CCLXXXVII"):
             text1 = """ """
             create_image_text_layout(
                 "attached_assets/chapter3/3.11.28.jpg",
@@ -26436,7 +26865,7 @@ Dharm, daya aur sachchai par chalne se hi life me peace aur success milti hai.""
         # --------------------------------------------------
         # Section 3.11.29
         # --------------------------------------------------
-        with st.expander("Section 3.11.29  Section CCLXXXIX"):
+        with st.expander("Section 3.11.29  Section CCLXXXVIII"):
             text1 = """ """
             create_image_text_layout(
                 "attached_assets/chapter3/3.11.29.jpg",
@@ -26454,7 +26883,7 @@ Dharm, daya aur sachchai par chalne se hi life me peace aur success milti hai.""
         # --------------------------------------------------
         # Section 3.11.30
         # --------------------------------------------------
-        with st.expander("Section 3.11.30  Section CCXC"):
+        with st.expander("Section 3.11.30  Section CCLXXXIX"):
             text1 = """ """
             create_image_text_layout(
                 "attached_assets/chapter3/3.11.30.jpg",
@@ -26474,7 +26903,7 @@ Dharm, daya aur sachchai par chalne se hi life me peace aur success milti hai.""
         # --------------------------------------------------
         # Section 3.12.1
         # --------------------------------------------------
-        with st.expander("Section 3.12.1  Section CCXCI"):
+        with st.expander("Section 3.12.1  Section CCLXL"):
             text1 = """ """
             create_image_text_layout(
                 "attached_assets/chapter3/3.12.1.jpg",
@@ -26492,7 +26921,7 @@ Dharm, daya aur sachchai par chalne se hi life me peace aur success milti hai.""
         # --------------------------------------------------
         # Section 3.12.2
         # --------------------------------------------------
-        with st.expander("Section 3.12.2  Section CCXCII"):
+        with st.expander("Section 3.12.2  Section CCLXLI"):
             text1 = """ """
             create_image_text_layout(
                 "attached_assets/chapter3/3.12.2.jpg",
@@ -26510,7 +26939,7 @@ Dharm, daya aur sachchai par chalne se hi life me peace aur success milti hai.""
         # --------------------------------------------------
         # Section 3.12.3
         # --------------------------------------------------
-        with st.expander("Section 3.12.3  Section CCXCIII"):
+        with st.expander("Section 3.12.3  Section CCLXLII"):
             text1 = """ """
             create_image_text_layout(
                 "attached_assets/chapter3/3.12.3.jpg",
@@ -26528,7 +26957,7 @@ Dharm, daya aur sachchai par chalne se hi life me peace aur success milti hai.""
         # --------------------------------------------------
         # Section 3.12.4
         # --------------------------------------------------
-        with st.expander("Section 3.12.4  Section CCXCIV"):
+        with st.expander("Section 3.12.4  Section CCLXLIII"):
             text1 = """ """
             create_image_text_layout(
                 "attached_assets/chapter3/3.12.4.jpg",
@@ -26546,7 +26975,7 @@ Dharm, daya aur sachchai par chalne se hi life me peace aur success milti hai.""
         # --------------------------------------------------
         # Section 3.12.5
         # --------------------------------------------------
-        with st.expander("Section 3.12.5  Section CCXCV"):
+        with st.expander("Section 3.12.5  Section CCLXLIV"):
             text1 = """ """
             create_image_text_layout(
                 "attached_assets/chapter3/3.12.5.jpg",
@@ -26564,7 +26993,7 @@ Dharm, daya aur sachchai par chalne se hi life me peace aur success milti hai.""
         # --------------------------------------------------
         # Section 3.12.6
         # --------------------------------------------------
-        with st.expander("Section 3.12.6  Section CCXCVI"):
+        with st.expander("Section 3.12.6  Section CCLXLV"):
             text1 = """ """
             create_image_text_layout(
                 "attached_assets/chapter3/3.12.6.jpg",
@@ -26582,7 +27011,7 @@ Dharm, daya aur sachchai par chalne se hi life me peace aur success milti hai.""
         # --------------------------------------------------
         # Section 3.12.7
         # --------------------------------------------------
-        with st.expander("Section 3.12.7  Section CCXCVII"):
+        with st.expander("Section 3.12.7  Section CCLXLVI"):
             text1 = """ """
             create_image_text_layout(
                 "attached_assets/chapter3/3.12.7.jpg",
@@ -26600,7 +27029,7 @@ Dharm, daya aur sachchai par chalne se hi life me peace aur success milti hai.""
         # --------------------------------------------------
         # Section 3.12.8
         # --------------------------------------------------
-        with st.expander("Section 3.12.8  Section CCXCVIII"):
+        with st.expander("Section 3.12.8  Section CCLXLVIII"):
             text1 = """ """
             create_image_text_layout(
                 "attached_assets/chapter3/3.12.8.jpg",
@@ -26618,7 +27047,7 @@ Dharm, daya aur sachchai par chalne se hi life me peace aur success milti hai.""
         # --------------------------------------------------
         # Section 3.12.9
         # --------------------------------------------------
-        with st.expander("Section 3.12.9  Section CCXCIX"):
+        with st.expander("Section 3.12.9  Section CCLXLIX"):
             text1 = """ """
             create_image_text_layout(
                 "attached_assets/chapter3/3.12.9.jpg",
