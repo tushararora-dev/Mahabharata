@@ -25204,7 +25204,19 @@ Galti hone par use sudharna aur dil se dena hi asli greatness hoti hai."""
         # Section 3.8.17
         # --------------------------------------------------
         with st.expander("Section 3.8.17  Section CLXLVI"):
-            text1 = """ """
+            text1 = """ 
+            Rishi Markandeya ne ek bahut inspiring kahani sunayi.
+
+Ek raja tha—Sivi.
+
+Woh bahut hi dayalu aur nyay-priya tha.
+
+Ek din woh apne rajsinghasan par baitha tha.
+
+Tabhi ek chhota sa kabootar
+udta hua aaya aur uski god me gir gaya.
+
+Woh bahut dara hua tha."""
             create_image_text_layout(
                 "attached_assets/chapter3/3.8.17.jpg",
                 text1,
@@ -25212,7 +25224,81 @@ Galti hone par use sudharna aur dil se dena hi asli greatness hoti hai."""
                 image_position="left"
             )
 
-            text2 = """ """
+            text2 = """ 
+            Usne kaha,
+“Mujhe bachaiye! Main aapki sharan me aaya hoon.”
+
+Raja ne use protect karne ka promise kiya.
+
+Tabhi ek baaz (hawk) wahan aaya.
+
+Usne kaha,
+“Yeh mera khana hai.”
+
+“Mujhe yeh kabootar de do.”
+
+Raja ne calmly jawab diya,
+
+“Yeh meri sharan me aaya hai.”
+
+“Main ise nahi de sakta.”
+
+Hawk ne kaha,
+“Phir mera khana kaun dega?”
+
+“Main bhi bhooka hoon.”
+
+Raja soch me pad gaya.
+
+Phir usne kaha,
+“Main tumhe iske badle kuch aur de deta hoon.”
+
+Lekin hawk nahi maana.
+
+Usne ek condition rakhi,
+
+“Tum apne sharir ka utna maans do,
+jitna is kabootar ke barabar ho.”
+
+Raja turant maan gaya.
+
+Usne apni thigh se maans ka tukda kaata
+aur scale par rakha.
+
+Lekin kabootar phir bhi heavy tha.
+
+Raja ne aur maans kaata…
+phir bhi kabootar heavy hi raha.
+
+Aakhir me raja khud hi scale par chadh gaya.
+
+Usne apni jaan dene ka decision le liya.
+
+Usne koi dard ya regret nahi dikhaya.
+
+Yeh dekhkar hawk aur kabootar gayab ho gaye.
+
+Woh actually devta the—
+Indra aur Agni.
+
+Woh raja ki goodness test kar rahe the.
+
+Unhone raja se kaha,
+
+“Tumne sach me dharm follow kiya hai.”
+
+“Tum sabse mahaan ho.”
+
+Unhone raja ke wounds heal kar diye.
+
+Aur use blessings di.
+
+Raja fir se healthy ho gaya.
+
+Uski fame sab jagah fail gayi.
+
+Moral:
+Sachcha dharm aur daya ke liye sacrifice karna hi asli greatness hoti hai."""
             create_image_text_layout(
                 text_content=text2,
                 layout="full"
@@ -25222,7 +25308,15 @@ Galti hone par use sudharna aur dil se dena hi asli greatness hoti hai."""
         # Section 3.8.18
         # --------------------------------------------------
         with st.expander("Section 3.8.18  Section CLXLVII"):
-            text1 = """ """
+            text1 = """ 
+            Pandav ne phir poocha,
+“Hume aur great kings ki kahani bataiye.”
+
+Rishi Markandeya ne ek interesting kahani sunayi.
+
+Ek raja tha—Ashtaka.
+
+Usne ek bada yagya kiya."""
             create_image_text_layout(
                 "attached_assets/chapter3/3.8.18.jpg",
                 text1,
@@ -25230,7 +25324,107 @@ Galti hone par use sudharna aur dil se dena hi asli greatness hoti hai."""
                 image_position="left"
             )
 
-            text2 = """ """
+            text2 = """ 
+            Us yagya me uske bhai bhi aaye—
+Pratardana, Vasumanas aur Sivi.
+
+Yagya ke baad sab ek saath
+rath me ja rahe the.
+
+Tab unki mulaqat Narad rishi se hui.
+
+Sabne unhe respect se bulaya,
+“Aap hamare saath chaliye.”
+
+Narad unke saath baith gaye.
+
+Tab raja ne poocha,
+“Hum sab achhe hain…”
+
+“Toh hum me se pehle swarg se kaun girenga?”
+
+Narad ne kaha,
+“Ashtaka.”
+
+Sab hairaan ho gaye.
+
+Narad ne samjhaya,
+
+“Ashtaka ne daan diya tha,
+lekin usne uska brag bhi kiya.”
+
+“Isliye uska punya kam ho gaya.”
+
+Phir unhone kaha,
+“Agla Pratardana hoga.”
+
+Kyun?
+
+“Usne daan toh diya,
+lekin baad me complain bhi kiya.”
+
+“Daan ke baad regret galat hota hai.”
+
+Phir Narad ne kaha,
+“Uske baad Vasumanas.”
+
+“Kyunki usne baar-baar promise kiya,
+lekin last me dene se mana kar diya.”
+
+Ab sirf Sivi bacha tha.
+
+Narad ne kaha,
+“Sivi sabse mahaan hai.”
+
+Phir unhone ek powerful story batayi.
+
+Ek Brahmana Sivi ke paas aaya.
+
+Usne shocking request ki,
+
+“Mujhe tumhara beta khane ke liye chahiye.”
+
+Sab shock ho jaate,
+lekin Sivi ne mana nahi kiya.
+
+Usne apne bete ko sacrifice kar diya.
+
+Usne uska food bana kar
+Brahmana ko dene chala gaya.
+
+Tab usse pata chala ki
+uska mahal jal raha hai.
+
+Lekin Sivi ne reaction nahi diya.
+
+Woh calm raha.
+
+Usne Brahmana se kaha,
+“Food ready hai.”
+
+Brahmana ne kaha,
+“Tum khud khao.”
+
+Sivi ready ho gaya.
+
+Tab Brahmana ne uska haath pakda
+aur bola,
+
+“Tumne sab test pass kar liya.”
+
+Woh actually ek devta tha.
+
+Usne Sivi ke bete ko wapas zinda kar diya.
+
+Sab kuch normal ho gaya.
+
+Sivi ki greatness sabse upar thi.
+
+Narad ne kaha,
+“Main bhi Sivi ke barabar nahi hoon.”
+
+Moral:
+Saccha daan aur dharm bina ego aur bina regret ke hona chahiye—tabhi woh sabse mahaan banta hai."""
             create_image_text_layout(
                 text_content=text2,
                 layout="full"
@@ -25240,7 +25434,17 @@ Galti hone par use sudharna aur dil se dena hi asli greatness hoti hai."""
         # Section 3.8.19
         # --------------------------------------------------
         with st.expander("Section 3.8.19  Section CLXLVIII"):
-            text1 = """ """
+            text1 = """ 
+            “Kya koi aapse bhi zyada lamba jeene wala hai?”
+
+Rishi muskuraaye aur bole,
+“Haan, ek raja tha—Indradyumna.”
+
+Ek time uska punya kam ho gaya,
+aur woh swarg se gir gaya.
+
+Woh pareshaan ho kar bola,
+“Mere saare achhe kaam bhool gaye kya?”"""
             create_image_text_layout(
                 "attached_assets/chapter3/3.8.19.jpg",
                 text1,
@@ -25248,7 +25452,76 @@ Galti hone par use sudharna aur dil se dena hi asli greatness hoti hai."""
                 image_position="left"
             )
 
-            text2 = """ """
+            text2 = """ 
+            Phir woh Markandeya ke paas aaya
+aur poocha,
+“Kya aap mujhe jaante ho?”
+
+Rishi ne kaha,
+“Hum log toh ek jagah rukte hi nahi,
+isliye hume yaad nahi.”
+
+Phir raja ne poocha,
+“Kya koi aapse bhi zyada purana hai?”
+
+Rishi ne kaha,
+“Haan, Himalaya par ek ullu rehta hai—Pravarakarna.”
+
+Raja use wahan le gaya.
+
+Ullu ne bhi kaha,
+“Main tumhe nahi jaanta.”
+
+Phir usne kaha,
+“Ek aur hai—ek crane (bagla),
+uska naam Nadijangha hai.”
+
+Sab uske paas gaye.
+
+Crane ne bhi mana kar diya,
+“Main nahi jaanta.”
+
+Phir usne kaha,
+“Ek aur hai—kachhua Akupara,
+woh sabse purana hai.”
+
+Sab uske paas gaye.
+
+Jab kachhue ne raja ko dekha,
+toh uski aankhon me aansu aa gaye.
+
+Usne kaha,
+“Main ise kaise nahi jaanta!”
+
+“Isne bahut bade yagya kiye the.”
+
+“Isne itni gaayen daan ki thi
+ki unke pairon se yeh jheel bani hai.”
+
+Sab hairaan reh gaye.
+
+Tabhi aasman se ek divine awaaz aayi,
+
+“Hey raja, tumhare achhe kaam ab bhi yaad hain.”
+
+“Tum wapas swarg aa sakte ho.”
+
+Raja khush ho gaya.
+
+Lekin usne pehle sabko unki jagah wapas chhoda.
+
+Phir woh swarg chala gaya.
+
+Rishi ne Pandav ko samjhaya,
+
+“Jab tak tumhare achhe kaam log yaad rakhte hain,
+tab tak tumhari respect bani rehti hai.”
+
+“Lekin bure kaam bhi yaad rehte hain.”
+
+Moral:
+Achhe karm hi insaan ko amar banate hain—
+naam aur respect hamesha unhi se milta hai."""
             create_image_text_layout(
                 text_content=text2,
                 layout="full"
@@ -25258,7 +25531,18 @@ Galti hone par use sudharna aur dil se dena hi asli greatness hoti hai."""
         # Section 3.8.20
         # --------------------------------------------------
         with st.expander("Section 3.8.20  Section CLXLIX"):
-            text1 = """ """
+            text1 = """ 
+            Yudhishthira ne Rishi se poocha,
+“Daan kab karna sabse best hota hai?”
+
+Rishi Markandeya ne calmly jawab diya.
+
+Unhone kaha,
+“Daan har stage par kiya ja sakta hai.”
+
+“Lekin sab daan useful nahi hota.”
+
+Sab dhyaan se sunne lage."""
             create_image_text_layout(
                 "attached_assets/chapter3/3.8.20.jpg",
                 text1,
@@ -25266,7 +25550,80 @@ Galti hone par use sudharna aur dil se dena hi asli greatness hoti hai."""
                 image_position="left"
             )
 
-            text2 = """ """
+            text2 = """ 
+            Rishi ne samjhaya,
+
+“Kuch daan bekaar hote hain.”
+
+“Jaise galat tareeke se kamaya hua paisa dena.”
+
+“Ya galat logon ko dena.”
+
+“Ya gusse ya darr me diya gaya daan.”
+
+“Yeh sab bekaar ho jaata hai.”
+
+Phir unhone important baat boli,
+
+“Sachcha daan wahi hai
+jo sahi insaan ko,
+aur pure mann se diya jaye.”
+
+Rishi ne aage kaha,
+
+“Sabse bada daan hai—food dena.”
+
+“Jo bhooke ko khana deta hai,
+woh sabse bada punya kamata hai.”
+
+“Paani dena, kapde dena,
+ghar dena—sab important hain.”
+
+Phir unhone ek serious baat batayi.
+
+“Jab insaan marne ke baad Yama ke raaste par jaata hai,
+toh woh raasta bahut tough hota hai.”
+
+“Wahan na paani hota hai,
+na rest karne ki jagah.”
+
+Sab thoda dar gaye.
+
+Rishi ne kaha,
+
+“Jo log life me daan karte hain,
+unhe wahan help milti hai.”
+
+“Jisne paani diya,
+use wahan paani milta hai.”
+
+“Jisne food diya,
+use bhook nahi lagti.”
+
+“Jisne kapde diye,
+woh wahan comfortable rehta hai.”
+
+“Jisne roshni di,
+uska raasta bright hota hai.”
+
+Sabko samajh aa gaya.
+
+Rishi ne last me kaha,
+
+“Guest ka respect karna bhi bahut important hai.”
+
+“Guest ko Bhagwan jaisa treat karo.”
+
+“Unhe paani, khana aur rest do.”
+
+Yudhishthira ne respect se sir jhukaya.
+
+Usne kaha,
+“Ab mujhe sab samajh aa gaya.”
+
+Moral:
+Daan sirf dena nahi,
+balki sahi niyat aur sahi jagah par dena hi asli punya deta hai."""
             create_image_text_layout(
                 text_content=text2,
                 layout="full"
@@ -25276,7 +25633,14 @@ Galti hone par use sudharna aur dil se dena hi asli greatness hoti hai."""
         # Section 3.8.21
         # --------------------------------------------------
         with st.expander("Section 3.8.21  Section CC"):
-            text1 = """ """
+            text1 = """ 
+            Yudhishthira ne phir Rishi se poocha,
+“Ek raja tha—Kuvalasva…
+uska naam Dhundhumara kyun pada?”
+
+Rishi Markandeya ne kahani shuru ki.
+
+Ek mahaan rishi the—Utanka."""
             create_image_text_layout(
                 "attached_assets/chapter3/3.8.21.jpg",
                 text1,
@@ -25284,7 +25648,76 @@ Galti hone par use sudharna aur dil se dena hi asli greatness hoti hai."""
                 image_position="left"
             )
 
-            text2 = """ """
+            text2 = """ 
+            Woh jungle me rehkar
+bahut saalon tak tapasya kar rahe the.
+
+Unka ek hi goal tha—
+Bhagwan Vishnu ko khush karna.
+
+Aakhir Bhagwan Vishnu unke saamne prakat hue.
+
+Rishi bahut khush ho gaye.
+
+Unhone Bhagwan ki bahut sundar stuti ki,
+
+“Aap hi sab kuch ho.”
+
+“Aap hi duniya ke creator aur protector ho.”
+
+“Aapke bina kuch bhi nahi hai.”
+
+Bhagwan Vishnu unse pleased ho gaye.
+
+Unhone kaha,
+“Mujhse koi bhi var maang lo.”
+
+Lekin Rishi ne kuch alag hi maanga.
+
+Unhone kaha,
+
+“Mujhe bas yeh chahiye
+ki mera mann hamesha sach, dharm
+aur bhakti me laga rahe.”
+
+Bhagwan aur bhi khush ho gaye.
+
+Unhone kaha,
+
+“Tumhe yeh sab milega.”
+
+“Saath hi tumhe ek special power bhi milegi.”
+
+Phir Bhagwan ne ek secret bataya,
+
+“Ek dangerous asur hai—Dhundhu.”
+
+“Woh tapasya kar raha hai
+aur duniya ko destroy karna chahta hai.”
+
+Rishi serious ho gaye.
+
+Bhagwan ne aage kaha,
+
+“Ek din ek mahaan raja paida hoga—Kuvalasva.”
+
+“Tum use guide karoge.”
+
+“Woh meri power se strong hoga.”
+
+“Aur wahi Dhundhu ko haraega.”
+
+Rishi ne yeh sab dhyaan se suna.
+
+Phir Bhagwan Vishnu wahan se gayab ho gaye.
+
+Ab sabko wait tha—
+kab woh raja aayega
+jo duniya ko bachayega.
+
+Moral:
+Sachchi bhakti aur selfless desire se Bhagwan khush hote hain,
+aur aise logon ko bade kaam ke liye choose karte hain."""
             create_image_text_layout(
                 text_content=text2,
                 layout="full"
