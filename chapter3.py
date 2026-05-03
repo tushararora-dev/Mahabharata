@@ -25727,7 +25727,15 @@ aur aise logon ko bade kaam ke liye choose karte hain."""
         # Section 3.8.22
         # --------------------------------------------------
         with st.expander("Section 3.8.22  Section CCI"):
-            text1 = """ """
+            text1 = """ 
+            Rishi Markandeya ne ek aur kahani shuru ki.
+
+Unhone bataya—
+
+Ikshvaku ke baad ek raja bana—Sasada.
+
+Uske baad uske vansh me
+kaafi powerful kings aaye."""
             create_image_text_layout(
                 "attached_assets/chapter3/3.8.22.jpg",
                 text1,
@@ -25735,7 +25743,89 @@ aur aise logon ko bade kaam ke liye choose karte hain."""
                 image_position="left"
             )
 
-            text2 = """ """
+            text2 = """ 
+            Unhi me se ek tha—Kuvalasva.
+
+Woh bahut hi strong, intelligent
+aur dharmik raja tha.
+
+Uske 21,000 bete bhi the—
+sab powerful warriors.
+
+Jab time aaya,
+uske father Vrihadasva ne use king bana diya.
+
+Aur khud jungle me tapasya karne chale gaye.
+
+Sab normal chal raha tha…
+
+Tab ek twist aaya.
+
+Ek mahaan rishi the—Utanka.
+
+Woh king ke paas aaye.
+
+Unhone kaha,
+
+“Raja ka sabse bada duty hai—
+apni praja ki raksha karna.”
+
+“Sirf jungle me tapasya karna hi sab kuch nahi hota.”
+
+Phir unhone ek problem batayi.
+
+Unhone kaha,
+
+“Mere ashram ke paas ek desert hai—Ujjalaka.”
+
+“Wahan ek dangerous asur rehta hai—Dhundhu.”
+
+“Woh bahut powerful hai.”
+
+“Usne aisa var paaya hai
+ki use devta bhi nahi maar sakte.”
+
+Sab serious ho gaye.
+
+Rishi ne aage kaha,
+
+“Woh zameen ke andar rehta hai.”
+
+“Jab woh saans leta hai…”
+
+“Toh poori dharti hil jaati hai!”
+
+“Rait ka tufaan uthta hai…”
+
+“Suraj tak dikhna band ho jaata hai…”
+
+“7 din tak duniya disturb ho jaati hai.”
+
+“Main shanti se tapasya nahi kar pa raha.”
+
+Phir rishi ne king se kaha,
+
+“Sirf aap hi use maar sakte ho.”
+
+“Kyunki Bhagwan Vishnu ki shakti
+aapke andar aayegi.”
+
+“Jo bhi is asur ko marega,
+use Vishnu ki divine energy milegi.”
+
+King Kuvalasva ne sab dhyaan se suna.
+
+Ab uske saamne ek bada mission tha—
+
+Ya toh safe rehna…
+ya duniya ko bachana.
+
+Aur usne decide kiya—
+woh fight karega.
+
+Moral:
+Asli leader woh hota hai jo responsibility se bhagta nahi,
+balki danger ka saamna karke dusron ki raksha karta hai."""
             create_image_text_layout(
                 text_content=text2,
                 layout="full"
@@ -25745,7 +25835,21 @@ aur aise logon ko bade kaam ke liye choose karte hain."""
         # Section 3.8.23
         # --------------------------------------------------
         with st.expander("Section 3.8.23  Section CCII"):
-            text1 = """ """
+            text1 = """ 
+            Raja Vrihadasva ne Rishi Utanka ki baat sun li.
+
+Unhone kaha,
+
+“Ab main apna rajya apne bete Kuvalasva ko deta hoon.”
+
+“Wahi tumhari help karega.”
+
+Phir unhone apne bete se kaha,
+“Jo rishi ne bola hai, use poora karo.”
+
+Aur woh khud jungle me tapasya ke liye chale gaye.
+
+Ab sab zimmedari Kuvalasva par aa gayi."""
             create_image_text_layout(
                 "attached_assets/chapter3/3.8.23.jpg",
                 text1,
@@ -25753,7 +25857,91 @@ aur aise logon ko bade kaam ke liye choose karte hain."""
                 image_position="left"
             )
 
-            text2 = """ """
+            text2 = """ 
+            Yudhishthira curious ho gaya.
+
+Usne poocha,
+“Yeh Dhundhu kaun hai?”
+
+“Yeh itna powerful kaise bana?”
+
+Rishi Markandeya ne ek purani kahani sunayi.
+
+Unhone kaha,
+
+“Jab poori duniya paani me doob gayi thi…”
+
+“Tab Bhagwan Vishnu Sheshnag par so rahe the.”
+
+Unke naabhi se ek kamal nikla.
+
+Us kamal se Brahma ji ka janm hua.
+
+Sab kuch shaant tha…
+
+Tabhi do asur aaye—
+Madhu aur Kaitabha.
+
+Woh bahut powerful the.
+
+Unhone Brahma ji ko dara diya.
+
+Brahma ji tension me aa gaye.
+
+Tab Bhagwan Vishnu jaag gaye.
+
+Unhone asuron se kaha,
+
+“Main tumse khush hoon,
+tum mujhse var maango.”
+
+Asur hans pade.
+
+Unhone ulta kaha,
+
+“Tum humse var maango!”
+
+Bhagwan ne smartly bola,
+
+“Thik hai…
+tum dono mere haath se mar jao.”
+
+Asur confident the.
+
+Unhone kaha,
+
+“Hum tabhi marenge
+jab tum hume kisi aisi jagah maaro
+jo paani se covered na ho.”
+
+Problem yeh thi—
+poori duniya paani se bhari hui thi.
+
+Bhagwan Vishnu ne socha…
+
+Phir unhe ek idea aaya.
+
+Unhone apni jaangh (thighs) dekhi—
+woh paani se covered nahi thi.
+
+Wahi unhone un dono asuron ko rakh liya…
+
+Aur apne Sudarshan chakra se
+unhe maar diya.
+
+Rishi ne samjhaya,
+
+“Dhundhu unhi asuron ka vanshaj hai.”
+
+“Isliye woh itna powerful hai.”
+
+Ab sab clear tha—
+
+Kuvalasva ko sirf ek asur nahi,
+balki ek dangerous legacy se ladna tha.
+
+Moral:
+Buddhi (intelligence) aur shakti (power) dono zaroori hote hain—sirf bal se nahi, samajh se bhi jeet hoti hai."""
             create_image_text_layout(
                 text_content=text2,
                 layout="full"
@@ -25763,7 +25951,21 @@ aur aise logon ko bade kaam ke liye choose karte hain."""
         # Section 3.8.24
         # --------------------------------------------------
         with st.expander("Section 3.8.24  Section CCIII"):
-            text1 = """ """
+            text1 = """ 
+            Rishi Markandeya ne kahani aage badhai.
+
+Unhone bataya—
+
+Dhundhu koi normal asur nahi tha.
+
+Woh Madhu aur Kaitabha ka beta tha.
+
+Usne bahut tough tapasya ki.
+
+Ek pair par khade hokar
+apne body ko almost sukha diya.
+
+Brahma ji usse khush ho gaye."""
             create_image_text_layout(
                 "attached_assets/chapter3/3.8.24.jpg",
                 text1,
@@ -25771,7 +25973,115 @@ aur aise logon ko bade kaam ke liye choose karte hain."""
                 image_position="left"
             )
 
-            text2 = """ """
+            text2 = """ 
+            Unhone use var diya—
+
+“Koi bhi devta, daanav, naag ya gandharv
+use maar nahi sakta.”
+
+Ab Dhundhu almost unstoppable ho gaya.
+
+Usne devtaon ko hara diya
+aur sabko pareshan karne laga.
+
+Phir woh Ujjalaka desert me chhup gaya
+aur wahan se sabko disturb karne laga.
+
+Tab King Kuvalasva apni army
+aur 21,000 beton ke saath nikla.
+
+Rishi Utanka bhi saath the.
+
+Bhagwan Vishnu ki shakti
+King ke andar aa gayi.
+
+Aasman se awaaz aayi,
+
+“Aaj Dhundhu ka anth hoga.”
+
+Sab devta aasman se dekhne lage.
+
+King ne desert ko khudwana shuru kiya.
+
+7 din tak excavation chalta raha.
+
+Finally…
+
+Unhe Dhundhu mil gaya.
+
+Woh bahut bada aur powerful tha—
+jaise ek zinda pahad.
+
+Fight shuru ho gayi.
+
+King ke bete us par
+har tarah ke weapons se attack karne lage.
+
+Lekin Dhundhu ne sab weapons nigal liye!
+
+Phir usne apne muh se
+bhayanak aag nikaali.
+
+Us aag ne King ke saare 21,000 bete
+jalakar khatam kar diye.
+
+Sab kuch ek moment me khatam ho gaya.
+
+Ab King akela reh gaya.
+
+Lekin woh dara nahi.
+
+Usne apni yog shakti use ki.
+
+Uske body se paani nikalne laga—
+
+Ek powerful stream ki tarah.
+
+Us paani ne Dhundhu ki aag bujha di.
+
+Phir King ne final attack kiya.
+
+Usne Brahmastra ka use kiya.
+
+Aur Dhundhu ko maar diya.
+
+Sab devta khush ho gaye.
+
+Unhone King ko blessings di.
+
+Aur usse bola,
+“Koi var maango.”
+
+King ne kya maanga?
+
+Na paisa, na power…
+
+Usne kaha,
+
+“Main hamesha daan kar saku.”
+
+“Mujhe kabhi kisi se dushmani na ho.”
+
+“Mera mann hamesha dharm me rahe.”
+
+“Mujhe Vishnu se friendship mile.”
+
+“Main hamesha jeetun.”
+
+Sab impressed ho gaye.
+
+Unhone kaha,
+“Tathastu!”
+
+Us din ke baad
+King Kuvalasva ka naam pad gaya—
+
+Dhundhumara
+(jisne Dhundhu ko mara).
+
+Moral:
+Asli hero woh hota hai jo sab kuch kho kar bhi
+himmat nahi chhodta aur duniya ke liye ladta hai."""
             create_image_text_layout(
                 text_content=text2,
                 layout="full"
@@ -25781,7 +26091,28 @@ aur aise logon ko bade kaam ke liye choose karte hain."""
         # Section 3.8.25
         # --------------------------------------------------
         with st.expander("Section 3.8.25  Section CCIV"):
-            text1 = """ """
+            text1 = """ 
+            Raja Yudhishthira ne Rishi Markandeya se ek deep question poocha.
+
+Unhone kaha,
+
+“Main jana chahta hoon—
+auraton ka sabse bada dharm kya hai?”
+
+“Unki virtue itni powerful kyun hoti hai?”
+
+Yudhishthira ne aage kaha,
+
+“Jaise hum Surya, Chandrama, Agni aur Guru ka respect karte hain…”
+
+“Waise hi ek pativrata stree apne pati ko devta samaan maanti hai.”
+
+“Yeh sab karna bahut mushkil lagta hai.”
+
+“Parents ki seva aur patni ka pati ke prati samarpan—
+yeh sab duniya ke sabse tough kaam lagte hain.”
+
+Woh sach me curious tha."""
             create_image_text_layout(
                 "attached_assets/chapter3/3.8.25.jpg",
                 text1,
@@ -25789,7 +26120,72 @@ aur aise logon ko bade kaam ke liye choose karte hain."""
                 image_position="left"
             )
 
-            text2 = """ """
+            text2 = """ 
+            Rishi Markandeya ne calmly jawab diya.
+
+Unhone kaha,
+
+“Tumhara sawaal bahut gehra hai.”
+
+“Main tumhe sach batata hoon.”
+
+Sabse pehle unhone parents ki importance batayi.
+
+“Log kabhi maa ko bada mante hain,
+kabhi pita ko…”
+
+“Lekin maa ka role sabse difficult hota hai.”
+
+“Kyunki woh bachche ko janam deti hai…”
+
+“Pain sehkar use paalti hai…”
+
+“Aur uski parvarish karti hai.”
+
+Phir unhone pita ke baare me kaha,
+
+“Pita bhi tapasya karta hai…”
+
+“Bhagwan se prarthana karta hai…”
+
+“Sirf isliye ki use ek achha beta mile.”
+
+“Dono parents apne bachche ke liye
+hamesha tension me rehte hain.”
+
+“Unki ek hi wish hoti hai—
+unke bachche successful aur achhe bane.”
+
+Phir Rishi ne ek important baat boli,
+
+“Wahi beta sach me achha hai
+jo apne parents ki expectations poori kare.”
+
+“Jo apne maa-baap ko khush rakhta hai,
+use duniya me bhi respect milta hai
+aur baad me bhi.”
+
+Ab Rishi ne women ke dharm ke baare me bataya.
+
+Unhone kaha,
+
+“Ek pativrata stree ke liye
+sabse bada dharm hai—
+apne pati ki seva.”
+
+“Usi se woh swarg tak pahunch sakti hai.”
+
+“Uske liye alag se yajna, vrat ya tapasya zaroori nahi.”
+
+“Uska devotion hi uska sabse bada punya hai.”
+
+Sab chup ho gaye.
+
+Yeh baat simple thi…
+lekin bahut deep bhi.
+
+Moral:
+Respect, duty aur samarpan—chahe parents ke liye ho ya partner ke liye—yeh hi sabse bade dharm hote hain."""
             create_image_text_layout(
                 text_content=text2,
                 layout="full"
@@ -25799,7 +26195,26 @@ aur aise logon ko bade kaam ke liye choose karte hain."""
         # Section 3.8.26
         # --------------------------------------------------
         with st.expander("Section 3.8.26  Section CCV"):
-            text1 = """ """
+            text1 = """ 
+            Rishi Markandeya ne ek bahut powerful kahani sunayi.
+
+Ek Brahmana tha—Kausika.
+
+Woh bahut padha-likha tha
+aur tapasya karta tha.
+
+Ek din woh tree ke niche baith kar
+Vedas padh raha tha.
+
+Tab ek crane (bagla) upar baitha tha.
+
+Usne galti se us par gandagi gira di.
+
+Kausika ko bahut gussa aa gaya.
+
+Usne sirf gusse se us crane ko dekha…
+
+Aur woh turant mar gaya."""
             create_image_text_layout(
                 "attached_assets/chapter3/3.8.26.jpg",
                 text1,
@@ -25807,7 +26222,105 @@ aur aise logon ko bade kaam ke liye choose karte hain."""
                 image_position="left"
             )
 
-            text2 = """ """
+            text2 = """ 
+            Kausika shock ho gaya.
+
+Usne realise kiya,
+“Mainne gusse me galat kaam kar diya.”
+
+Phir woh bhiksha lene ek ghar gaya.
+
+Usne awaaz lagayi,
+“Bhiksha do.”
+
+Andar se ek lady ne kaha,
+“Thoda wait karo.”
+
+Tab uska husband ghar aaya—
+bahut thaka hua aur bhooka.
+
+Woh lady turant uski seva me lag gayi.
+
+Usne pehle husband ko paani diya,
+khana diya,
+aur uska dhyaan rakha.
+
+Brahmana bahar wait karta raha.
+
+Baad me lady bahar aayi
+aur usse bhiksha dene lagi.
+
+Kausika gusse me bola,
+
+“Tumne mujhe wait karaya!”
+
+“Tum Brahmana ko ignore kar rahi ho?”
+
+Lady calmly boli,
+
+“Please gussa mat kijiye.”
+
+“Mera pati mera sabse bada dharm hai.”
+
+“Woh bhooka tha, isliye pehle uski seva ki.”
+
+Kausika aur gussa ho gaya.
+
+Usne kaha,
+“Tum Brahmanon se apne pati ko upar rakh rahi ho?”
+
+Tab lady ne ek strong jawab diya.
+
+Usne kaha,
+
+“Main koi crane nahi hoon…”
+
+“Jo aapke gusse se jal jaaun.”
+
+Kausika shock ho gaya—
+use samajh aa gaya ki
+is lady ko sab pata hai.
+
+Lady ne aage kaha,
+
+“Gussa insaan ka sabse bada dushman hai.”
+
+“Sachcha Brahmana woh hota hai—
+jo gussa control kare.”
+
+“Jo sach bole,
+jo sabke saath achha rahe.”
+
+“Jo hurt hone par bhi dusron ko hurt na kare.”
+
+Phir usne ek important baat boli,
+
+“Sirf Vedas padhna hi enough nahi hai…”
+
+“Real dharm samajhna zaroori hai.”
+
+Usne Kausika ko advice diya,
+
+“Mithila jao.”
+
+“Wahan ek fowler (shikari) hai—
+woh tumhe sachcha dharm samjhayega.”
+
+Kausika ka gussa thanda ho gaya.
+
+Usne realise kiya—
+
+“Yeh lady mujhse zyada samajhdar hai.”
+
+Usne respectfully kaha,
+“Thank you.”
+
+Aur wahan se chala gaya—
+seekhne ke liye.
+
+Moral:
+Gyaan sirf padhne se nahi aata—
+real wisdom tab aata hai jab hum apne ego aur gusse ko control karte hain."""
             create_image_text_layout(
                 text_content=text2,
                 layout="full"
