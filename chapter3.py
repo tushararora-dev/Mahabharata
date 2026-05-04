@@ -26330,7 +26330,13 @@ real wisdom tab aata hai jab hum apne ego aur gusse ko control karte hain."""
         # Section 3.8.27
         # --------------------------------------------------
         with st.expander("Section 3.8.27  Section CCVI"):
-            text1 = """ """
+            text1 = """ 
+            Brahmana Kausika ab change ho chuka tha.
+
+Usne decide kiya—
+“Mujhe aur seekhna hai.”
+
+Aur woh Mithila city pahunch gaya."""
             create_image_text_layout(
                 "attached_assets/chapter3/3.8.27.jpg",
                 text1,
@@ -26338,7 +26344,127 @@ real wisdom tab aata hai jab hum apne ego aur gusse ko control karte hain."""
                 image_position="left"
             )
 
-            text2 = """ """
+            text2 = """ 
+            Mithila ek beautiful aur rich city thi—
+
+Bade-bade mahal,
+saaf roads,
+har jagah utsav ka mahaul.
+
+Sab log khush aur disciplined the.
+
+Yeh sab King Janaka ki wajah se tha.
+
+Kausika ne logon se poocha,
+“Woh wise fowler (shikari) kahan hai?”
+
+Logon ne usse rasta bataya.
+
+Jab Kausika wahan pahucha…
+toh woh shock ho gaya.
+
+Fowler ek butcher shop me tha,
+aur meat bech raha tha.
+
+Kausika sochne laga,
+
+“Yeh kaise virtuous ho sakta hai?”
+
+Lekin fowler ne door se hi use pehchaan liya.
+
+Woh turant uske paas aaya
+aur bola,
+
+“Swagat hai, Brahmana.”
+
+“Mujhe pata hai tum kyun aaye ho.”
+
+Kausika aur bhi shock ho gaya.
+
+Fowler usse apne ghar le gaya.
+
+Usne uska respect kiya—
+baithne ko jagah di,
+paani diya.
+
+Phir Kausika ne directly poocha,
+
+“Tumhara kaam violent hai…”
+
+“Yeh dharm ke against nahi hai?”
+
+Fowler ne calmly jawab diya,
+
+“Yeh mera family ka kaam hai.”
+
+“Main ise honestly karta hoon.”
+
+“Main khud jaanwar nahi marta—
+sirf bechta hoon.”
+
+Phir usne apni life explain ki:
+
+“Main hamesha sach bolta hoon.”
+
+“Main kisi se jalta nahi.”
+
+“Main pehle guests, devta aur dependents ko khilata hoon…”
+
+“Phir jo bachta hai, main khata hoon.”
+
+“Main kisi ki burai nahi karta.”
+
+Phir usne ek deep philosophy batayi:
+
+“Har insaan ko apna duty follow karna chahiye.”
+
+“Brahmana ka kaam alag hai,
+Kshatriya ka alag,
+Vaisya aur Shudra ka alag.”
+
+“Sab apna role honestly kare—
+yehi dharm hai.”
+
+Usne aur bhi important baatein boli:
+
+“Gussa aur lalach sabse bade dushman hain.”
+“Galti ho jaye toh regret karo, phir repeat mat karo.”
+“Kabhi jhoot mat bolo.”
+“Kabhi badle me bura mat karo.”
+“Sabke saath achha behave karo—even enemies ke saath.”
+
+Kausika dhyaan se sun raha tha.
+
+Usse realise hua—
+
+“Yeh fowler mujhse zyada wise hai.”
+
+Phir fowler ne dharm ka essence bataya:
+
+“5 cheezein sabse important hain—
+Yajna (sacrifice),
+Daan (charity),
+Tapasya (discipline),
+Vedas (knowledge),
+Aur Satya (truth).”
+
+Aur usne final baat boli:
+
+“Sabse bada dharm hai—
+
+Kisi ko hurt na karna
+Sach bolna
+Aur daan karna”
+
+Kausika ko ab sach me samajh aa gaya—
+
+Real dharm sirf padhne se nahi…
+jeene se aata hai.
+
+Moral:
+Dharm profession se nahi,
+insaan ke character se decide hota hai—
+aur sabse bada dharm hai truth, kindness aur self-control."""
             create_image_text_layout(
                 text_content=text2,
                 layout="full"
@@ -26348,7 +26474,14 @@ real wisdom tab aata hai jab hum apne ego aur gusse ko control karte hain."""
         # Section 3.8.28
         # --------------------------------------------------
         with st.expander("Section 3.8.28  Section CCVII"):
-            text1 = """ """
+            text1 = """ 
+            Fowler ne apni baat aur gehraai se samjhani shuru ki.
+
+Usne kaha,
+
+“Haan, mera kaam dekhne me cruel lagta hai…”
+
+“Lekin yeh sab karma aur destiny ka result hai.” """
             create_image_text_layout(
                 "attached_assets/chapter3/3.8.28.jpg",
                 text1,
@@ -26356,7 +26489,83 @@ real wisdom tab aata hai jab hum apne ego aur gusse ko control karte hain."""
                 image_position="left"
             )
 
-            text2 = """ """
+            text2 = """ 
+            Usne explain kiya,
+
+“Jo kuch hum aaj kar rahe hain,
+woh pichle janmon ke karmon ka result hai.”
+
+“Main bhi apne karm ka phal bhugat raha hoon.”
+
+“Lekin main koshish karta hoon
+ki main galat ko kam karu aur sahi karu.”
+
+Phir usne ek shocking truth bataya:
+
+“Is duniya me koi bhi poori tarah
+non-violent nahi ho sakta.”
+
+Sab thoda confuse ho gaye.
+
+Usne examples diye:
+
+“Kheti karte waqt bhi chhote jeev mar jaate hain.”
+“Chalte waqt bhi hum unknowingly insects ko maar dete hain.”
+“Paani, hawa, ped—har jagah jeev hain.”
+
+“Har insaan unknowingly kisi na kisi ko harm karta hi hai.”
+
+Phir usne kaha,
+
+“Isliye sirf kaam dekh kar kisi ko judge mat karo.”
+
+“Real baat hai—intent aur conduct.”
+
+Usne apni life ka rule bataya:
+
+“Main sach bolta hoon.”
+“Main charity karta hoon.”
+“Main elders ki seva karta hoon.”
+“Main ego aur over-talking se door rehta hoon.”
+
+Phir usne ek aur deep baat boli:
+
+“Apna duty chhodna galat hai.”
+
+“Chahe kaam chhota ho ya bada—
+agar woh tumhara kartavya hai,
+toh use honestly karna hi dharm hai.”
+
+Usne kaha,
+
+“Har profession me kuch na kuch harm hota hai.”
+
+“Lekin agar tum apna kaam
+imaandari aur niyat se karte ho…”
+
+“Toh tum fir bhi virtuous ho.”
+
+Phir usne ek reality batayi:
+
+“Duniya me perfect system nahi hai.”
+
+“Kabhi good log appreciate nahi hote…”
+
+“Kabhi galat log praise ho jaate hain…”
+
+“Yeh sab duniya ka nature hai.”
+
+Kausika dhyaan se sun raha tha.
+
+Usse samajh aa gaya—
+
+“Dharm itna simple nahi hai…”
+
+“Yeh bahut subtle aur complex hai.”
+
+Moral:
+Perfect hona zaroori nahi—
+lekin apne kartavya ko imaandari, sachchai aur achhi niyat se karna hi asli dharm hai."""
             create_image_text_layout(
                 text_content=text2,
                 layout="full"
@@ -26366,7 +26575,14 @@ real wisdom tab aata hai jab hum apne ego aur gusse ko control karte hain."""
         # Section 3.8.29
         # --------------------------------------------------
         with st.expander("Section 3.8.29  Section CCVIII"):
-            text1 = """ """
+            text1 = """ 
+            Fowler ne apni baat aur bhi deep level par samjhani shuru ki.
+
+Usne kaha,
+
+“Dharm itna simple nahi hai…”
+
+“Yeh bahut subtle aur complex hota hai.” """
             create_image_text_layout(
                 "attached_assets/chapter3/3.8.29.jpg",
                 text1,
@@ -26374,7 +26590,104 @@ real wisdom tab aata hai jab hum apne ego aur gusse ko control karte hain."""
                 image_position="left"
             )
 
-            text2 = """ """
+            text2 = """ 
+            Usne ek surprising baat boli:
+
+“Kabhi-kabhi jhooth bhi sahi ho sakta hai…”
+
+“Jaise kisi ki jaan bachane ke liye.”
+
+“Jo sabke liye achha ho—
+wahi sach mana jaata hai.”
+
+Phir usne karma ka concept samjhaya:
+
+“Har insaan apne karm ka phal bhugatta hai.”
+
+“Jo tum karte ho, wahi tumhe wapas milta hai.”
+
+Usne kaha,
+
+“Tum dekho—kabhi mehnati log fail ho jaate hain…”
+
+“Aur kabhi galat log successful ho jaate hain.”
+
+“Kyun?”
+
+“Kyunki sab kuch sirf present effort se nahi…”
+
+“Past karma se bhi decide hota hai.”
+
+Phir usne ek important baat boli:
+
+“Insaan apni life ka full control me nahi hota.”
+
+“Agar hota, toh koi kabhi fail ya dukhi nahi hota.”
+
+Phir baat aayi soul par.
+
+Brahmana ne poocha,
+“Yeh atma kya hai?”
+
+Fowler ne jawab diya:
+
+“Atma kabhi nahi marti.”
+
+“Sirf body change hoti hai.”
+
+“Jaise kapde badalte hain,
+waise hi atma ek body se dusri me jaati hai.”
+
+Usne aage samjhaya:
+
+Achhe karm → devta jaisa janm
+Mixed karm → human janm
+Bure karm → lower life (animals, etc.)
+Bahut bure karm → narak
+
+Usne kaha,
+
+“Hum sab apne karm ke chakkar me phanse hue hain.”
+
+“Bar-bar janm lete hain…”
+
+“Phir karm karte hain…”
+
+“Phir phal bhugatte hain…”
+
+“Yeh cycle chalta rehta hai.”
+
+Phir usne solution bataya:
+
+“Agar insaan apne karm ko sudhaare…”
+
+“Apne aap ko control kare…”
+
+“Toh woh is cycle se bahar aa sakta hai.”
+
+Usne final wisdom diya:
+
+“Sach bolo”
+“Self-control rakho”
+“Dusron ko hurt mat karo”
+“Achhe logon ko follow karo”
+
+Aur sabse important:
+
+“Jo insaan apne senses control kar leta hai…”
+
+“Woh sabse bada jeetne wala hota hai.”
+
+Kausika ab bilkul change ho chuka tha.
+
+Usse samajh aa gaya—
+
+Real knowledge books me nahi…
+life me apply karne me hai.
+
+Moral:
+Karma, self-control aur sachchai—
+yeh teen cheezein hi insaan ko life ke cycle se upar utha sakti hain."""
             create_image_text_layout(
                 text_content=text2,
                 layout="full"
@@ -26384,7 +26697,14 @@ real wisdom tab aata hai jab hum apne ego aur gusse ko control karte hain."""
         # Section 3.8.30
         # --------------------------------------------------
         with st.expander("Section 3.8.30  Section CCIX"):
-            text1 = """ """
+            text1 = """ 
+            Fowler ne apni baat aur aage badhai.
+
+Usne kaha,
+
+“Insaan shuru me knowledge seekhta hai…”
+
+“Lekin baad me woh apni desires me fas jaata hai.” """
             create_image_text_layout(
                 "attached_assets/chapter3/3.8.30.jpg",
                 text1,
@@ -26392,7 +26712,113 @@ real wisdom tab aata hai jab hum apne ego aur gusse ko control karte hain."""
                 image_position="left"
             )
 
-            text2 = """ """
+            text2 = """ 
+            Pehle woh seekhta hai…
+phir usse pleasure chahiye hota hai…
+
+Phir kya hota hai?
+
+Attachments (lagav) badhne lagte hain
+Phir jealousy (irsha) aati hai
+Phir greed (lalach)
+Aur phir…
+
+Insaan apna asli wisdom kho deta hai.
+
+Fowler ne samjhaya,
+
+“Jab insaan lalach aur irsha me fas jaata hai…”
+
+“Toh uska dimaag dharm se hat jaata hai.”
+
+“Woh sirf dikhawa karta hai
+ki woh achha hai…”
+
+“Lekin andar se woh galat raste par hota hai.”
+
+Phir usne ek strong baat boli:
+
+“Paap 3 tarah se hota hai—”
+
+Soch se (thought)
+Baat se (speech)
+Kaam se (action)
+
+Aur jab yeh teenon galat ho jayein…
+toh insaan completely gir jaata hai.
+
+Phir usne good person ka description diya:
+
+“Jo insaan samajhta hai
+ki kya sahi hai aur kya galat…”
+
+“Jo wise logon ki respect karta hai…”
+
+“Jo dharm follow karta hai…”
+
+Wahi sach me virtuous hai.
+
+Kausika impressed ho gaya.
+
+Usne kaha,
+
+“Tum ek simple fowler nahi ho…”
+
+“Tum ek great rishi jaisa gyaan rakhte ho.”
+
+Fowler ne phir ek aur deep topic shuru kiya—
+
+Brahman (ultimate truth).
+
+Usne kaha,
+
+“Yeh poora universe hi Brahman hai.”
+
+“Isse bada kuch nahi hai.”
+
+Phir usne basic elements explain kiye:
+
+Earth (prithvi)
+Water (jal)
+Fire (agni)
+Air (vayu)
+Sky (akash)
+
+Aur unki properties:
+
+Smell
+Taste
+Form
+Touch
+Sound
+
+Phir usne mind aur soul ke baare me bataya:
+
+Mind (mann)
+Intelligence (buddhi)
+Ego (ahankar)
+5 senses
+Aur soul (atma)
+
+Aur last me 3 qualities:
+
+Sattva (shanti, purity)
+Rajas (activity, desire)
+Tamas (ignorance, laziness)
+
+Fowler ne kaha,
+
+“Yeh sab milkar insaan aur duniya ko banate hain.”
+
+Kausika ab aur bhi curious ho gaya.
+
+Usse lag raha tha—
+abhi aur seekhna baaki hai.
+
+Moral:
+Knowledge se zyada important hai—
+apne desires aur ego ko control karna,
+kyunki wahi insaan ko upar ya neeche le jaata hai."""
             create_image_text_layout(
                 text_content=text2,
                 layout="full"
@@ -26402,7 +26828,11 @@ real wisdom tab aata hai jab hum apne ego aur gusse ko control karte hain."""
         # Section 3.8.31
         # --------------------------------------------------
         with st.expander("Section 3.8.31  Section CCX"):
-            text1 = """ """
+            text1 = """ 
+            Brahmana ne fowler se ek aur deep sawaal poocha.
+
+“Yeh jo 5 elements hain—
+inke properties kya hote hain?” """
             create_image_text_layout(
                 "attached_assets/chapter3/3.8.31.jpg",
                 text1,
@@ -26410,7 +26840,100 @@ real wisdom tab aata hai jab hum apne ego aur gusse ko control karte hain."""
                 image_position="left"
             )
 
-            text2 = """ """
+            text2 = """ 
+            Fowler ne calmly samjhaya:
+“Yeh duniya 5 elements se bani hai—”
+
+
+Prithvi (earth)
+
+
+Jal (water)
+
+
+Agni (fire)
+
+
+Vayu (air)
+
+
+Aakash (sky)
+
+
+
+Phir usne unki properties batayi:
+
+
+Earth → 5 qualities (sound, touch, form, taste, smell)
+
+
+Water → 4 qualities
+
+
+Fire → 3 qualities
+
+
+Air → 2 qualities
+
+
+Sky → 1 quality (sound)
+
+
+
+Usne kaha,
+“Yeh sab qualities milkar hi
+poori duniya banati hain.”
+“Sab kuch inhi elements ka combination hai.”
+
+Phir usne ek aur deep concept bataya:
+“Jo cheez hum dekh sakte hain—
+woh ‘vyakta’ hai.”
+“Jo nahi dekh sakte—
+woh ‘avyakta’ hai.”
+
+Phir baat aayi self-realisation par.
+Fowler ne kaha:
+“Agar insaan apne senses control kar le…”
+“Toh woh apne andar poori duniya dekh sakta hai.”
+“Woh samajh jaata hai
+ki sab kuch ek hi source se aaya hai—Brahman.”
+
+Phir usne sabse important lesson diya:
+“Senses hi sab kuch decide karte hain.”
+
+👉 Agar senses control me hain →
+insaan upar uthta hai (heaven, growth)
+👉 Agar senses control me nahi hain →
+insaan girta hai (dukh, downfall)
+
+Phir usne ek powerful example diya:
+“Body ek rath (chariot) hai…”
+“Soul uska driver hai…”
+“Senses uske ghode hain…”
+
+Agar driver strong hai aur ghode control me hain →
+rath sahi direction me jaata hai
+Lekin…
+Agar ghode control se bahar ho gaye →
+rath crash ho jaata hai
+
+Usne kaha,
+“Jab ek bhi sense control se bahar ho jaata hai…”
+“Toh insaan ka balance bigad jaata hai.”
+“Woh samundar me tufaan me phasi ship jaisa ho jaata hai.”
+
+Phir usne final baat boli:
+“Patience aur control se hi
+insaan apne senses ko sambhal sakta hai.”
+“Wahi usse real wisdom aur freedom deta hai.”
+
+Kausika ab samajh chuka tha—
+Real dharm =
+self-control + awareness + discipline
+
+Moral:
+Jo insaan apne senses ko control kar leta hai,
+woh apni life ka asli master ban jaata hai."""
             create_image_text_layout(
                 text_content=text2,
                 layout="full"
