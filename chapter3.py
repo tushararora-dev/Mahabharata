@@ -26943,7 +26943,11 @@ woh apni life ka asli master ban jaata hai."""
         # Section 3.8.32
         # --------------------------------------------------
         with st.expander("Section 3.8.32  Section CCXI"):
-            text1 = """ """
+            text1 = """ 
+            Brahmana ne fowler se ek aur important sawaal poocha.
+
+“Yeh 3 qualities—Sattva, Rajas aur Tamas—
+inke differences kya hain?”"""
             create_image_text_layout(
                 "attached_assets/chapter3/3.8.32.jpg",
                 text1,
@@ -26951,7 +26955,74 @@ woh apni life ka asli master ban jaata hai."""
                 image_position="left"
             )
 
-            text2 = """ """
+            text2 = """ 
+            Fowler ne calmly samjhaya:
+
+“Main tumhe simple tareeke se batata hoon.”
+
+🌑 Tamas (Andhkaar & Ignorance)
+Moorkhta, confusion, andhkaar
+Lazy, inactive, careless
+Gussa aur ego se bhara
+
+👉 Aisa insaan soch samajh ke kaam nahi karta
+👉 Zyada tar galat decisions leta hai
+
+🔥 Rajas (Action & Desire)
+Energy, action, ambition
+Kaam karta hai, lekin result ke liye
+Mehnati, active, lekin restless
+Kabhi jealousy aur competition bhi
+
+👉 Aisa insaan kaam karta hai
+par uska focus reward par hota hai
+
+🌼 Sattva (Shanti & Purity)
+Calm, wise, patient
+No anger, no jealousy
+Selfless aur balanced
+
+👉 Aisa insaan sach me samajhdaar hota hai
+👉 Woh bina selfish motive ke kaam karta hai
+
+Fowler ne kaha:
+
+“Sattva sabse highest quality hai.”
+
+Phir usne ek deep baat boli:
+
+👉 “Jab Sattva wala insaan duniya ko samajh leta hai…”
+
+“Toh uska attachment khatam ho jaata hai.”
+
+Pride kam ho jaata hai
+Mind calm ho jaata hai
+Sab conflicts settle ho jaate hain
+
+👉 Phir usse naturally self-control aa jaata hai
+
+Phir usne ek powerful truth diya:
+
+👉 “Insaan apne janm se nahi…”
+👉 “Apne gun (qualities) se bada hota hai”
+
+Usne example diya:
+
+Shudra bhi agar good qualities rakhe → Brahmana ban sakta hai
+Brahmana bhi agar galat kare → gir sakta hai
+
+Kausika yeh sab sun kar
+deeply impressed ho gaya.
+
+Usse samajh aa gaya—
+
+👉 Real identity = character
+👉 Not birth
+
+Moral:
+Insaan ki value uske janm se nahi,
+uske character aur qualities se hoti hai—
+aur sabse upar hota hai Sattva (purity, wisdom, selflessness)."""
             create_image_text_layout(
                 text_content=text2,
                 layout="full"
@@ -26961,7 +27032,19 @@ woh apni life ka asli master ban jaata hai."""
         # Section 3.8.33
         # --------------------------------------------------
         with st.expander("Section 3.8.33  Section CCXII"):
-            text1 = """ """
+            text1 = """ 
+            Brahmana ne fowler se ek aur deep sawaal poocha—
+
+“Yeh body kaise kaam karti hai?”
+“Life force kaise chalti hai?”
+
+Fowler ne calmly samjhaya:
+
+“Is body ke andar ek atma (soul) hoti hai…”
+
+“Wahi sab kuch control karti hai.”
+
+“Past, present aur future sab usse connected hai.”"""
             create_image_text_layout(
                 "attached_assets/chapter3/3.8.33.jpg",
                 text1,
@@ -26969,7 +27052,96 @@ woh apni life ka asli master ban jaata hai."""
                 image_position="left"
             )
 
-            text2 = """ """
+            text2 = """ 
+            Phir usne body system explain kiya:
+
+👉 Body sirf ek machine hai
+👉 Atma uska driver hai
+
+Aur beech me kaam karte hain—
+
+🌬️ 5 Prana (life energies)
+Prana → breathing aur energy flow
+Apana → waste removal
+Samana → digestion
+Udana → growth aur upward movement
+Vyana → poore body me circulation
+
+Usne bataya,
+
+“Yeh sab milkar body ko chalate hain.”
+
+“Food digest hota hai, energy banti hai…”
+“Body grow karti hai.”
+
+Phir usne ek deep baat boli:
+
+“Yeh sab temporary hai…”
+
+“Atma eternal hai.”
+
+Usne example diya:
+
+👉 “Jaise paani ki boond kamal ke patte par hoti hai…”
+
+“Waise hi soul body me hoti hai—
+touch karti hai, par attach nahi hoti.”
+
+Phir usne gunas ka connection bataya:
+
+Sattva
+Rajas
+Tamas
+
+“Yeh life ke attributes hain…”
+“Lekin soul inse bhi upar hai.”
+
+Phir usne sabse important lesson diya:
+
+👉 “Self-control hi sabse bada raasta hai.”
+
+Usne kaha:
+
+Gussa control karo
+Lalach control karo
+Ego control karo
+
+Phir usne ek aur deep truth bola:
+
+“Sach bolna achha hai…”
+
+“Lekin sabse bada sach woh hai
+jo sabke liye achha ho.”
+
+Phir usne moksha ka raasta bataya:
+
+👉 Desire chhodo
+👉 Attachments chhodo
+👉 Mind ko calm karo
+👉 Sabke saath shanti se raho
+
+Aur sabse important:
+
+“Khud ko samjho (self-realisation)”
+
+Usne kaha,
+
+“Jo insaan apne mann ko control kar leta hai…”
+
+“Woh apne andar hi Bhagwan ko dekh sakta hai.”
+
+Kausika ab bilkul transform ho chuka tha.
+
+Usse samajh aa gaya—
+
+Real dharm =
+self-control + detachment + self-knowledge
+
+Moral:
+Body temporary hai,
+lekin soul eternal hai—
+aur jo insaan apne mann aur indriyon ko control kar leta hai,
+wahi sach me mukti (moksha) paata hai."""
             create_image_text_layout(
                 text_content=text2,
                 layout="full"
@@ -26979,7 +27151,14 @@ woh apni life ka asli master ban jaata hai."""
         # Section 3.8.34
         # --------------------------------------------------
         with st.expander("Section 3.8.34  Section CCXIII"):
-            text1 = """ """
+            text1 = """ 
+            Jab fowler ne itna deep gyaan de diya,
+toh Brahmana bahut impressed ho gaya.
+
+Usne kaha,
+
+“Tumhe dharm ka sab kuch pata hai…”
+“Tum sach me ek mahan gyani ho.”"""
             create_image_text_layout(
                 "attached_assets/chapter3/3.8.34.jpg",
                 text1,
@@ -26987,7 +27166,110 @@ woh apni life ka asli master ban jaata hai."""
                 image_position="left"
             )
 
-            text2 = """ """
+            text2 = """ 
+            Fowler ne smile karke kaha,
+
+“Agar tum meri asli virtue dekhna chahte ho…”
+
+“Toh mere ghar ke andar chalo.”
+
+Brahmana andar gaya…
+aur woh shock ho gaya 😮
+
+Wahan ek bahut sundar aur rich ghar tha—
+
+clean aur well arranged
+achhi khushboo
+comfortable jagah
+
+Jaise kisi devta ka ghar ho.
+
+Wahan usne dekha—
+
+👉 Fowler ke buzurg parents
+shanti se baithe hue hain
+
+Fowler turant unke paas gaya…
+
+Aur pair chhoo kar pranam kiya 🙏
+
+Uske parents khush ho gaye.
+
+Unhone ashirwad diya:
+
+“Tum ek ideal beta ho…”
+
+“Tum hamesha humari seva karte ho…”
+
+“Tumne apne aap ko control kiya hai…”
+
+“Tumhare jaise beta milna bahut rare hai.”
+
+Unhone compare bhi kiya:
+
+“Jaise Parashurama ne apne parents ki seva ki…”
+
+“Waise hi tumne bhi ki hai—
+balki usse bhi zyada.”
+
+Phir fowler ne Brahmana ko introduce kiya.
+
+Parents ne uska warm welcome kiya.
+
+Sab politely baat karne lage.
+
+Phir fowler ne apni sabse important baat batayi:
+
+👉 “Mere liye mere parents hi sab kuch hain.”
+
+Usne kaha:
+
+“Jo log devtaon ki puja karte hain…”
+
+“Main wahi sab apne parents ke liye karta hoon.”
+
+“Jaise log Indra aur devtaon ko worship karte hain…”
+
+“Waise hi main apne maa-baap ko worship karta hoon.”
+
+Usne aur bhi kaha:
+
+“Main unhe khana khilata hoon”
+“Unke pair dhota hoon”
+“Unki seva karta hoon”
+“Unse sirf achhi baat karta hoon”
+
+“Chahe mujhe kuch galat hi kyun na lagta ho…”
+
+“Main phir bhi unki khushi ko priority deta hoon.”
+
+Phir usne ek powerful line boli:
+
+👉 “Mere parents hi mere Bhagwan hain.”
+
+Usne explain kiya:
+
+“5 cheezein sabse important hain—”
+
+Parents
+Sacred fire
+Soul
+Guru
+
+“Jo inki seva karta hai…”
+“Wahi sach me dharmik hai.”
+
+Brahmana ab bilkul silent ho gaya…
+
+Usse samajh aa gaya—
+
+👉 Real dharm books me nahi
+👉 Real dharm daily life me hota hai
+
+Moral:
+Sabse bada dharm hai—
+apne parents ki seva,
+respect aur gratitude."""
             create_image_text_layout(
                 text_content=text2,
                 layout="full"
@@ -26997,7 +27279,18 @@ woh apni life ka asli master ban jaata hai."""
         # Section 3.8.35
         # --------------------------------------------------
         with st.expander("Section 3.8.35  Section CCXIV"):
-            text1 = """ """
+            text1 = """ 
+            Fowler ne Brahmana se ek final aur life-changing baat kahi.
+
+Usne kaha,
+
+“Tum yahan gyaan lene aaye ho…”
+
+“Lekin tumne ek badi galti ki hai.”
+
+Brahmana hairaan ho gaya.
+
+“Kaunsi galti?”"""
             create_image_text_layout(
                 "attached_assets/chapter3/3.8.35.jpg",
                 text1,
@@ -27005,7 +27298,117 @@ woh apni life ka asli master ban jaata hai."""
                 image_position="left"
             )
 
-            text2 = """ """
+            text2 = """ 
+            Fowler ne seedha jawab diya:
+
+👉 “Tum apne parents ko chhod kar aa gaye ho.”
+
+👉 “Unki permission ke bina.”
+
+👉 “Woh tumhare dukh me andhe ho chuke hain.”
+
+Yeh sunkar Brahmana shock ho gaya.
+
+Usse realise hua—
+
+“Main sach me galat tha…”
+
+Fowler ne samjhaya:
+
+“Tumne Vedas seekhe, tapasya ki…”
+
+“Lekin agar tum apne maa-baap ko ignore kar rahe ho…”
+
+👉 “Toh yeh sab bekaar hai.”
+
+Usne strongly bola:
+
+👉 “Sabse bada dharm = parents ki seva”
+
+“Baaki sab baad me.”
+
+Brahmana ne turant accept kiya:
+
+“Tum bilkul sahi keh rahe ho.”
+
+“Main wapas jaunga.”
+
+Phir Brahmana ne fowler ki tareef ki:
+
+“Tumne mujhe bachaa liya…”
+
+“Main galat raste par ja raha tha…”
+
+“Tumne mujhe sahi direction di.”
+
+Usne ek aur interesting baat boli:
+
+“Tum itne gyani ho…”
+
+“Tum Shudra kaise ho sakte ho?”
+
+“Isme zaroor koi secret hai.”
+
+Tab fowler ne apni past life story batayi:
+
+“Main pehle ek Brahmana tha…”
+
+“Vedas me expert tha…”
+
+Ek din main apne king friend ke saath
+hunting par gaya.
+
+Sab log animals ka shikaar kar rahe the.
+
+Maine bhi ek arrow chhoda…
+
+Lekin galti ho gayi—
+
+👉 Woh arrow ek Rishi ko lag gaya
+
+Rishi zameen par gir gaye
+aur bole:
+
+“Mainne kisi ka nuksaan nahi kiya…”
+“Phir mujhe kisne maara?”
+
+Main turant unke paas gaya…
+
+Aur bola:
+
+“Yeh galti se hua…”
+
+“Please mujhe maaf kar dijiye.”
+
+Lekin Rishi gusse me aa gaye 😠
+
+Unhone mujhe curse diya:
+
+👉 “Tum agle janam me
+ek shikari (fowler) banoge…”
+
+👉 “Shudra janm me paida hoge.”
+
+Fowler ne calmly conclude kiya:
+
+“Yeh meri past karma ka result hai…”
+
+“Isliye main aaj iss position me hoon.”
+
+Brahmana silently sunta raha…
+
+Usse samajh aa gaya—
+
+👉 Life me jo bhi hota hai
+woh random nahi hota
+
+👉 Sab kuch karma ka result hota hai
+
+Moral:
+
+Sabse bada dharm = parents ki seva
+Knowledge bina duty ke useless hai
+Aur har insaan apne karm ka phal zaroor bhugatta hai"""
             create_image_text_layout(
                 text_content=text2,
                 layout="full"
@@ -27015,7 +27418,20 @@ woh apni life ka asli master ban jaata hai."""
         # Section 3.8.36
         # --------------------------------------------------
         with st.expander("Section 3.8.36  Section CCXV"):
-            text1 = """ """
+            text1 = """ 
+            Fowler ne apni kahani ka last part bataya.
+
+Usne kaha,
+
+“Jab mujhe rishi ne curse diya…”
+
+“Toh maine unse maafi maangi.”
+
+Rishi ne kaha,
+
+“Curse wapas nahi ho sakta…”
+
+“Lekin main tumhe ek vardaan deta hoon.”"""
             create_image_text_layout(
                 "attached_assets/chapter3/3.8.36.jpg",
                 text1,
@@ -27023,7 +27439,101 @@ woh apni life ka asli master ban jaata hai."""
                 image_position="left"
             )
 
-            text2 = """ """
+            text2 = """ 
+            👉 “Tum Shudra janm me hoge…”
+👉 “Lekin tum dharmik aur satya-parayan rahoge”
+👉 “Tum apne parents ki seva karoge”
+👉 “Aur isi se tumhe spiritual perfection milega”
+
+👉 “Tumhe apni past life yaad rahegi”
+👉 “Aur baad me tum phir se Brahmana ban jaoge”
+
+Fowler ne kaha,
+
+“Isi wajah se main aaj bhi dharm follow karta hoon…”
+
+“Yeh meri journey ka part hai.”
+
+Brahmana ne uski baat sun kar kaha:
+
+“Life me sab log happiness aur suffering face karte hain…”
+
+“Yeh normal hai.”
+
+Phir usne ek powerful baat boli:
+
+👉 “Insaan apne character se Brahmana banta hai,
+janm se nahi.”
+
+Usne compare kiya:
+
+Agar Brahmana bhi ego aur galat kaam kare →
+woh Shudra jaisa hai
+Agar Shudra bhi satya aur dharm follow kare →
+woh Brahmana jaisa hai
+
+Fowler ne phir final wisdom diya:
+
+🧠 Mind aur Life ka Truth
+
+👉 “Body ke dukh medicines se theek hote hain”
+👉 “Mind ke dukh **gyaan se theek hote hain”
+
+Usne kaha:
+
+Wise log grief me nahi doobte
+Foolish log chhoti baat par toot jaate hain
+
+👉 “Contentment hi sabse bada happiness hai”
+
+👉 “Discontent poison jaisa hai”
+
+Phir usne ek practical advice diya:
+
+“Sirf complain mat karo…”
+
+“Solution dhundo.”
+
+“Apne aap ko improve karo.”
+
+👉 “Jo insaan reality samajh leta hai…”
+
+“Woh na zyada khush hota hai, na zyada dukhi”
+
+“Woh balanced rehta hai.”
+
+Brahmana ab poori tarah satisfied tha.
+
+Usne kaha:
+
+“Tum bahut great ho…”
+“Tumne mujhe life ka sach sikha diya.”
+
+Phir woh wapas ghar gaya…
+
+Aur apne parents ki seva me lag gaya.
+
+Rishi Markandeya ne conclude kiya:
+
+“Yeh kahani dharm ka asli essence sikhati hai—”
+
+👉 Pativrata stree ka dharm
+👉 Parents ki seva ka dharm
+👉 Aur self-control ka dharm
+
+Yudhishthira ne kaha:
+
+“Yeh kahani itni achhi hai…”
+
+“Ki lagta hai time ka pata hi nahi chala.”
+
+“Main aur sunna chahta hoon!”
+
+Moral:
+
+Insaan apne janm se nahi, apne character se bada hota hai
+Contentment sabse bada sukh hai
+Aur sabse bada dharm = parents ki seva + self-control + truthfulness"""
             create_image_text_layout(
                 text_content=text2,
                 layout="full"
