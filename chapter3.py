@@ -27543,7 +27543,16 @@ Aur sabse bada dharm = parents ki seva + self-control + truthfulness"""
         # Section 3.8.37
         # --------------------------------------------------
         with st.expander("Section 3.8.37  Section CCXVI"):
-            text1 = """ """
+            text1 = """ 
+            Yudhishthira ne Rishi Markandeya se ek aur curious sawaal poocha.
+
+Unhone kaha,
+
+“Agni dev kabhi paani me kyun chhup gaye the?”
+
+“Aur Kartikeya ka janm kaise hua?”
+
+“Woh Agni, Shiva, Ganga aur Krittika sabse connected kyun mana jaata hai?”"""
             create_image_text_layout(
                 "attached_assets/chapter3/3.8.37.jpg",
                 text1,
@@ -27551,7 +27560,87 @@ Aur sabse bada dharm = parents ki seva + self-control + truthfulness"""
                 image_position="left"
             )
 
-            text2 = """ """
+            text2 = """ 
+            Rishi Markandeya ne ek purani kahani sunayi.
+
+Bahut purane samay me
+ek mahan rishi the—
+
+Angiras
+
+Woh itni powerful tapasya kar rahe the
+ki unka tej (brightness)
+Agni dev se bhi zyada ho gaya.
+
+Poora universe unke glow se chamakne laga.
+
+Agni dev yeh dekhkar tension me aa gaye 😟
+
+Unhone socha,
+
+“Ab log mujhe fire-god nahi maanenge…”
+
+“Angiras hi naya Agni ban gaya hai.”
+
+Agni dev dukhi hokar
+samundar ke paani me chale gaye
+aur tapasya karne lage.
+
+Lekin Angiras bahut humble the.
+
+Unhone Agni se kaha,
+
+“Tum original Agni ho.”
+
+“Brahma ji ne tumhe darkness door karne ke liye banaya tha.”
+
+“Tum apni jagah wapas lo.”
+
+Agni ne kaha,
+
+“Meri reputation ab khatam ho gayi hai…”
+
+“Log ab tumhe hi Agni maanenge.”
+
+Tab Angiras ne ek beautiful baat boli:
+
+“Tum fir se main Agni bano…”
+
+“Aur mujhe apna pehla putra maan lo.”
+
+Agni maan gaye 😊
+
+Aur Angiras ke ghar ek mahan putra paida hua—
+
+🌟 Brihaspati
+
+Jo baad me devtaon ke guru bane.
+
+Rishi ne samjhaya:
+
+“Agni ek hi hai…”
+
+“Lekin uske bahut forms hote hain.”
+
+Jaise:
+
+Yagya ki agni
+Ghar ki agni
+Pet ki digestion wali agni
+Surya ki heat
+
+Sab ek hi divine fire ke alag-alag roop hain.
+
+Yudhishthira dhyaan se sun raha tha.
+
+Usse samajh aa gaya—
+
+👉 True greatness me ego nahi hota
+👉 Real wisdom humble banati hai
+
+Moral:
+Asli mahanata power me nahi,
+vinamrata (humility) me hoti hai."""
             create_image_text_layout(
                 text_content=text2,
                 layout="full"
@@ -27561,7 +27650,18 @@ Aur sabse bada dharm = parents ki seva + self-control + truthfulness"""
         # Section 3.8.38
         # --------------------------------------------------
         with st.expander("Section 3.8.38  Section CCXVII"):
-            text1 = """ """
+            text1 = """ 
+            Rishi Markandeya ne Angiras rishi ki family ke baare me bataya.
+
+Unhone kaha,
+
+“Angiras Brahma ji ke teesre putra the.”
+
+Unki wife ka naam tha—
+
+🌸 Subha
+
+Aur unke bahut famous bachche hue."""
             create_image_text_layout(
                 "attached_assets/chapter3/3.8.38.jpg",
                 text1,
@@ -27569,7 +27669,91 @@ Aur sabse bada dharm = parents ki seva + self-control + truthfulness"""
                 image_position="left"
             )
 
-            text2 = """ """
+            text2 = """ 
+            Sabse pehle the—
+
+🌟 Brihaspati
+
+Woh bahut intelligent aur wise the.
+
+Great scholar
+Strong personality
+Amazing counsellor
+
+Baad me wahi devtaon ke guru bane.
+
+Phir Markandeya ne Angiras ki daughters ke baare me bataya.
+
+🌼 Bhanumati
+
+Woh sabse sundar beti thi.
+
+Uski beauty aur brightness famous thi.
+
+❤️ Raga
+
+Uska naam “Raga” isliye pada
+kyunki sab usse pyaar karte the.
+
+Woh sabki favourite thi.
+
+🌙 Sinivali
+
+Uska body itna slim aur subtle tha
+ki kabhi dikhti thi, kabhi nahi.
+
+Isliye log usse
+Rudra ki mysterious daughter jaisi maante the.
+
+✨ Archismati
+
+Woh bahut bright aur glowing thi.
+
+Uska naam hi uski light ki wajah se pada.
+
+🔥 Havishmati
+
+Woh sacrifices aur oblations se connected thi.
+
+Yagya me jo offerings di jaati thi,
+unse uska relation mana jaata tha.
+
+🌿 Mahismati
+
+Woh bahut pious aur dharmik thi.
+
+🌟 Mahamati
+
+Woh grand yajnas aur sacred rituals me present rehti thi.
+
+Usse wisdom aur sacred intelligence ka symbol maana gaya.
+
+Aur last me aayi—
+
+🌑 Kuhu
+
+Woh sabse mysterious thi.
+
+Log uske baare me wonder se bolte the—
+“kuhu… kuhu…”
+
+Isliye uska naam hi Kuhu pad gaya.
+
+Usse unseen aur mystical powers se joda gaya.
+
+Yeh sab daughters
+nature aur sacred rituals ke different aspects ko represent karti thi.
+
+Yudhishthira dhyaan se sun rahe the.
+
+Unhe lag raha tha—
+
+👉 Ancient stories sirf family history nahi hoti
+👉 Har character ek deeper symbolic meaning bhi rakhta hai.
+
+Moral:
+Har divine quality—wisdom, purity, light, devotion aur mystery—
+life ke alag-alag sacred aspects ko represent karti hai."""
             create_image_text_layout(
                 text_content=text2,
                 layout="full"
@@ -27579,7 +27763,17 @@ Aur sabse bada dharm = parents ki seva + self-control + truthfulness"""
         # Section 3.8.39
         # --------------------------------------------------
         with st.expander("Section 3.8.39  Section CCXVIII"):
-            text1 = """ """
+            text1 = """ 
+            Rishi Markandeya ne Agni dev ke vansh ki kahani aur aage batayi.
+
+Unhone kaha—
+
+🌙 Brihaspati ki wife thi Tara
+
+Jo Chandra lok se thi.
+
+Unke kai powerful children hue,
+jo alag-alag forms of fire ko represent karte the."""
             create_image_text_layout(
                 "attached_assets/chapter3/3.8.39.jpg",
                 text1,
@@ -27587,7 +27781,134 @@ Aur sabse bada dharm = parents ki seva + self-control + truthfulness"""
                 image_position="left"
             )
 
-            text2 = """ """
+            text2 = """ 
+            🔥 Sanju
+
+Brihaspati ka ek famous beta tha—
+Sanju
+
+Woh bahut tapasvi aur powerful tha.
+
+Yagyon me sabse pehle usi ke naam ki ahuti di jaati thi.
+
+Uski flames bahut bright hoti thi.
+
+Uski wife thi—
+
+✨ Satya
+
+Jo truth aur righteousness ka symbol thi.
+
+Unke bhi divine children hue.
+
+🔥 Bharadvaja Fire
+
+Yeh sacred sacrifices me worship kiya jaata tha.
+
+Isse purity aur ritual fire ka symbol mana gaya.
+
+🔥 Bharata Fire
+
+Full moon sacrifices me iske liye ghee offer kiya jaata tha.
+
+Yeh honoured aur “great fire” maana gaya.
+
+🌞 Vira
+
+Ek aur powerful fire-form,
+jiska glow Surya jaisa tha.
+
+Woh Soma rituals se bhi connected tha.
+
+🌍 Nishcyavana Fire
+
+Yeh earth aur stability se connected tha.
+
+Iski reputation kabhi kam nahi hoti thi.
+
+⏳ Satya Fire
+
+Yeh pure aur sinless fire mana gaya.
+
+Time aur order ko regulate karta tha.
+
+😷 Swana Fire
+
+Yeh diseases aur suffering se connected tha.
+
+Logon ke dukh aur cries se iska relation bataya gaya.
+
+🍽️ Visvabhuk Fire
+
+Yeh bahut important tha—
+
+👉 Yeh wahi fire hai
+jo humare body me food digest karta hai.
+
+Internal digestive heat 🔥
+
+🌊 Vadava Fire
+
+Yeh samundar ke andar ka mysterious fire tha.
+
+Jo paani peeta rehta hai
+aur hidden energy ko represent karta hai.
+
+🔥 Swishtakrit Fire
+
+Yeh sacrifices ko “properly accepted” banata tha.
+
+Yagya ko successful aur complete karta tha.
+
+Phir Markandeya ne ek interesting character introduce kiya—
+
+🌺 Svaha
+
+Woh Agni ki daughter jaisi divine power thi.
+
+Har yagya me “Swaha!” bolkar
+offerings di jaati hain—
+woh isi divine energy ko represent karta hai.
+
+Svaha ke 3 sons hue—
+3 gunas ke effect se:
+
+🌼 Kama Fire (Sattva)
+
+Sabse beautiful aur attractive.
+
+Desire aur charm ka symbol.
+
+⚔️ Amogha Fire (Rajas)
+
+Warrior-type fire 🔥
+
+Strong, active aur unstoppable.
+
+🕉️ Uktha Fire (Tamas transformed)
+
+Spiritual chants aur salvation se connected.
+
+Inner rest aur moksha ka symbol.
+
+Yudhishthira yeh sab sunkar samajh gaye—
+
+👉 Ancient sages fire ko sirf physical cheez nahi maante the
+
+Balki:
+
+digestion
+energy
+sacrifice
+destruction
+purification
+spiritual awakening
+
+sabko “Agni” ke alag forms maana jaata tha.
+
+Moral:
+Ek hi divine energy alag-alag roop me poori creation ko chalati hai—
+andar bhi, bahar bhi."""
             create_image_text_layout(
                 text_content=text2,
                 layout="full"
@@ -27597,7 +27918,19 @@ Aur sabse bada dharm = parents ki seva + self-control + truthfulness"""
         # Section 3.8.40
         # --------------------------------------------------
         with st.expander("Section 3.8.40  Section CCXIX"):
-            text1 = """ """
+            text1 = """ 
+            Rishi Markandeya ne kahani aur bhi mystical bana di.
+
+Unhone bataya ki ek divine being tha—
+
+🔥 Uktha
+
+Usne bahut saalon tak tapasya ki.
+
+Uski wish thi:
+
+👉 “Mujhe ek aisa putra mile
+jo Brahma ji jaisa mahaan ho.”"""
             create_image_text_layout(
                 "attached_assets/chapter3/3.8.40.jpg",
                 text1,
@@ -27605,7 +27938,105 @@ Aur sabse bada dharm = parents ki seva + self-control + truthfulness"""
                 image_position="left"
             )
 
-            text2 = """ """
+            text2 = """ 
+            Usne bahut powerful rituals kiye
+aur 5 sacred fires ka invocation hua.
+
+Un rituals me 5 great sages ki energy thi:
+
+Kasyapa
+Vasistha
+Prana
+Cyavana
+Suvarcaka
+
+Tab ek amazing divine energy appear hui ✨
+
+Woh being bahut bright thi—
+
+Head → blazing fire jaisa 🔥
+Arms → Surya jaisi ☀️
+Skin aur eyes → golden ✨
+Feet → dark black 🌑
+
+Uske body me 5 colours the,
+kyunki woh 5 sages ki tapasya se bana tha.
+
+Us divine being ne
+10,000 saal tak aur tapasya ki 😮
+
+Phir usne creation ka kaam shuru kiya.
+
+Usne alag-alag divine forces create ki:
+
+Pitron ki sacred fire
+Day aur Night
+Shiva
+Indra
+Wind aur Fire
+Mind aur 5 senses
+
+Yeh sab creation ke different powers ko represent karte the.
+
+Phir usne 5 important beings create kiye—
+jo alag-alag lineages ke ancestors bane.
+
+Lekin kahani yahin khatam nahi hui.
+
+Ek aur strange group create hua—
+
+⚠️ Sacrifices ko disturb karne wale beings
+
+Yeh 15 powerful entities the.
+
+Unka kaam tha:
+
+👉 Agar rituals properly na ho
+toh sacrifices ko spoil kar dena.
+
+Isliye priests bahut carefully rituals karte the.
+
+Agar in beings ko respect aur offerings di jaayein,
+toh woh disturbance nahi karte the.
+
+Markandeya ne explain kiya:
+
+👉 Ancient rituals me har energy ka importance tha
+
+Positive bhi,
+aur disruptive bhi.
+
+Sabko balance karna padta tha.
+
+Phir unhone ek aur sacred fire ka mention kiya:
+
+🔥 Vrihaduktha
+
+Yeh Earth aur Agnihotra sacrifices se connected tha.
+
+Pious log iski worship karte the.
+
+Aur ek aur form tha—
+
+🔥 Rathantara
+
+Jise sacred hymns aur offerings me invoke kiya jaata tha.
+
+End me Markandeya ne kaha:
+
+“Tapa (divine force) apni creation se bahut prasann hua.”
+
+Yudhishthira yeh sab sunkar samajh gaye—
+
+👉 Creation sirf physical nahi hai
+
+Har force—
+light, fire, mind, day-night, even obstacles—
+sab ek cosmic balance ka part hain.
+
+Moral:
+Universe balance par chalta hai—
+positive aur negative dono energies ka samajh aur control hi wisdom hai."""
             create_image_text_layout(
                 text_content=text2,
                 layout="full"
@@ -27615,7 +28046,23 @@ Aur sabse bada dharm = parents ki seva + self-control + truthfulness"""
         # Section 3.8.41
         # --------------------------------------------------
         with st.expander("Section 3.8.41  Section CCXX"):
-            text1 = """ """
+            text1 = """ 
+            Rishi Markandeya ne Agni ke aur bhi divine forms ke baare me bataya.
+
+Unhone kaha—
+
+🔥 Bharata Fire
+
+Yeh fire bahut disciplined aur tapasvi tha.
+
+Iska ek aur naam tha—
+
+🌱 Pushtimati
+
+Kyunki jab yeh prasann hota tha,
+toh sab creatures ko growth aur strength deta tha.
+
+Isliye ise “Bharata” yani nourisher bhi kaha gaya."""
             create_image_text_layout(
                 "attached_assets/chapter3/3.8.41.jpg",
                 text1,
@@ -27623,7 +28070,137 @@ Aur sabse bada dharm = parents ki seva + self-control + truthfulness"""
                 image_position="left"
             )
 
-            text2 = """ """
+            text2 = """ 
+            🌸 Shiva Fire
+
+Ek aur fire tha—Shiva
+
+Yeh nature ki divine powers (Shakti) ki worship karta tha.
+
+Aur sab creatures ke dukh door karta tha.
+
+Isliye iska naam pada—
+
+👉 Shiva = jo mangal aur shanti de
+
+🔥 Tapa ke aur powerful sons
+
+Tapa ki tapasya se aur bhi divine fires paida hue:
+
+Puranda → ascetic power inherit karne wala
+Ushma → steam aur vapour ki energy 🌫️
+Manu → Prajapati (creator-type role)
+Sambhu → sacred fire
+Avasathya → glowing ritual fire
+
+Yeh sab golden brightness wale fires the
+aur Soma sacrifices me participate karte the.
+
+☀️ Prasanta Fire
+
+Jab Surya dev apna kaam karke “rest mode” me hote hain,
+toh unki calm energy ko Prasanta fire kaha gaya.
+
+Phir Markandeya ne Bhanu ke children ke baare me bataya.
+
+Bhanu ne 6 divine fires ko janm diya.
+
+💪 Valada
+
+Weak logon ko strength dene wala fire.
+
+🔥 Manjuman
+
+Jab sab kuch calm ho aur achanak terrifying energy dikhe—
+woh Manjuman fire tha.
+
+🕉️ Angiras / Dhritiman Fire
+
+Yeh Vishnu se connected sacred fire tha.
+
+Full moon aur new moon sacrifices me iski worship hoti thi.
+
+🌾 Agrayana Fire
+
+Harvest aur seasonal rituals se connected fire.
+
+🔄 Agraha Fire
+
+Caturmasya rituals me daily offerings ka source.
+
+🎶 Stuva Fire
+
+Sacred praise aur hymns se linked fire.
+
+Phir Manu ki ek wife thi—
+
+🌑 Nisa
+
+Usne aur divine fires ko janm diya,
+jinme se ek famous tha—
+
+🌍 Vaiswanara
+
+Yeh universal fire mana gaya.
+
+Clouds aur life-energy se connected.
+
+🌌 Visvapati
+
+“Lord of all worlds” wala fire.
+
+🔥 Sannihita
+
+Yeh har living being ke andar hota hai.
+
+👉 Breathing
+👉 Sound perception
+👉 Body energy
+
+sab isse connected hain.
+
+🧘 Kapila Fire
+
+Yeh bahut special tha.
+
+Wise sages ise Yoga aur Sankhya philosophy ka source maante the.
+
+Kapila ko spiritual wisdom aur deep meditation ka symbol maana gaya.
+
+Phir Markandeya ne rituals ke rules bataye.
+
+Agar sacred fires accidentally mix ho jaayein,
+ya koi impurity aa jaye,
+toh special correction rituals karne padte the.
+
+Different situations ke liye alag-alag fires invoke kiye jaate the:
+
+Suchi 🔥
+Viti 🔥
+Dasyuman 🔥
+Suraman 🔥
+Patikrit 🔥
+Agniman 🔥
+
+Yeh sab sun kar Yudhishthira samajh gaye—
+
+👉 Ancient sages ke liye “Agni” sirf physical fire nahi tha
+
+Woh:
+
+digestion
+life-force
+purification
+sacrifice
+wisdom
+discipline
+cosmic energy
+
+sab kuch represent karta tha.
+
+Moral:
+Ek hi divine energy alag-alag forms me poori creation aur human life ko chalati hai—
+bahar bhi aur andar bhi."""
             create_image_text_layout(
                 text_content=text2,
                 layout="full"
