@@ -28210,7 +28210,27 @@ bahar bhi aur andar bhi."""
         # Section 3.8.42
         # --------------------------------------------------
         with st.expander("Section 3.8.42  Section CCXXI"):
-            text1 = """ """
+            text1 = """ Rishi Markandeya ne Agni dev ke aur bhi mysterious forms ke baare me bataya.
+
+🌊 Mudita aur Adbhuta Fire
+
+Agni ki divine wife thi—
+
+💧 Mudita
+
+Woh paani me rehti thi.
+
+Agni ne usse ek sacred fire ko janm diya—
+
+🔥 Adbhuta
+
+Yeh bahut special fire tha.
+
+Rishis kehte the:
+
+👉 “Yeh sab creatures ke andar ki inner fire hai.”
+
+👉 “Yeh hi life-force aur cosmic energy hai.”"""
             create_image_text_layout(
                 "attached_assets/chapter3/3.8.42.jpg",
                 text1,
@@ -28218,7 +28238,146 @@ bahar bhi aur andar bhi."""
                 image_position="left"
             )
 
-            text2 = """ """
+            text2 = """ 
+            🏠 Grihapati Fire
+
+Adbhuta ka ek form tha—
+
+🔥 Grihapati
+
+Yeh har yajna aur household ritual me worship hota tha.
+
+Aur sab oblations (offerings) gods tak pahunchata tha.
+
+⚰️ Bharata Fire
+
+Ek aur form tha—
+
+🔥 Bharata
+
+Yeh cremation fire tha.
+
+Dead bodies ko consume karta tha
+aur body ko nature me return karta tha.
+
+🌊 Agni Hides in the Ocean
+
+Ek time gods ko ek special sacrifice karna tha.
+
+Lekin Agni dar gaya 😨
+
+Aur contamination ke fear se
+samundar me chhup gaya 🌊
+
+Gods ne use har jagah dhoonda
+lekin woh nahi mila.
+
+Tab Agni ne Atharvan se kaha:
+
+👉 “Tum meri jagah oblations carry karo…”
+
+“Main weak ho gaya hoon.”
+
+Phir Agni disappear ho gaya.
+
+Lekin fishes 🐟 ne uska hiding place reveal kar diya 😮
+
+Agni gusse me aa gaya 😠
+
+Aur curse diya:
+
+👉 “Ab tum sab creatures ka food banoge.”
+
+Isliye fish ko sab log khaate hain —
+aisa symbolic explanation diya gaya.
+
+🔥 Agni’s Body Turns Into Metals
+
+Phir ek shocking event hua—
+
+Agni ne apna physical body chhod diya 😮
+
+Aur Earth ke andar absorb ho gaya.
+
+Uske body parts se different substances bane:
+
+Bones → Deodar trees 🌲
+Bile → Emerald gems 💚
+Liver → Iron ⚙️
+Veins → Coral ❤️
+Nails → Clouds ☁️
+
+Aur bhi bahut metals aur minerals usse bane.
+
+Yeh symbolic tha ki:
+
+👉 Earth ke resources bhi divine energy ka form hain.
+
+🧘 Atharvan Revives Agni
+
+World dark aur scared ho gaya 😨
+
+Tab Atharvan ne tapasya ki 🔥
+
+Aur samundar me jaakar
+Agni ko wapas dhoond nikala.
+
+Agni fir se active hua
+aur creation continue hui ✨
+
+🌊 Rivers as Mothers of Fire
+
+Markandeya ne bataya
+ki bahut sacred rivers ko “fires ki mothers” maana jaata hai.
+
+Jaise:
+
+Ganga
+Saraswati
+Godavari
+Narmada
+Kaveri
+Sindhu
+Yamuna-type sacred flows
+
+Yeh sab divine energies ko nourish karti hain 🌊🔥
+
+🔥 One Fire, Many Forms
+
+End me Markandeya ne deepest truth bataya:
+
+👉 “Saare fires asal me ek hi hain.”
+
+Chahe woh:
+
+yajna fire ho
+digestion fire ho
+cremation fire ho
+lightning ho
+inner spiritual energy ho
+
+Sab ek hi cosmic Agni ke different forms hain. ✨
+
+Yudhishthira quietly sunte rahe…
+
+Unhe samajh aa gaya—
+
+👉 Fire sirf jalti hui cheez nahi hai
+
+Woh:
+
+life
+transformation
+purification
+destruction
+creation
+spiritual energy
+
+sab kuch represent karta hai.
+
+Moral:
+Ek hi divine energy poore universe me countless forms me kaam karti hai—
+andar bhi, bahar bhi, life me bhi aur spirituality me bhi."""
             create_image_text_layout(
                 text_content=text2,
                 layout="full"
@@ -28228,7 +28387,15 @@ bahar bhi aur andar bhi."""
         # Section 3.8.43
         # --------------------------------------------------
         with st.expander("Section 3.8.43  Section CCXXII"):
-            text1 = """ """
+            text1 = """ 
+            Rishi Markandeya ne ab ek bahut famous kahani shuru ki—
+
+🔥 Kartikeya ke Janm ki Story
+
+Woh divine warrior
+jo baad me devtaon ki sena ka leader bana.
+
+Us samay devas aur asuras ki war chal rahi thi ⚔️"""
             create_image_text_layout(
                 "attached_assets/chapter3/3.8.43.jpg",
                 text1,
@@ -28236,7 +28403,92 @@ bahar bhi aur andar bhi."""
                 image_position="left"
             )
 
-            text2 = """ """
+            text2 = """ 
+            Aur asuras baar-baar devas ko hara rahe the 😨
+
+Indra bahut tension me tha.
+
+Usne socha:
+
+👉 “Hume ek powerful commander chahiye…”
+
+“Jo dev sena ko fir se strong bana sake.”
+
+Yeh sochkar Indra
+Manasa mountain par gaya 🏔️
+
+Aur deep thought me baith gaya.
+
+Tabhi usne ek aurat ki help ke liye cry suni 😢
+
+Woh chillaa rahi thi:
+
+👉 “Koi mujhe bachao!”
+
+👉 “Ya toh mujhe husband do
+ya khud mere husband ban jao!”
+
+Indra turant us direction me gaya ⚡
+
+Aur usne dekha—
+
+Ek terrifying asura tha:
+
+👹 Kesin
+Crown pehne hue
+Huge mace haath me
+Mountain jaisa giant body 😨
+
+Woh us woman ko zabardasti pakad kar le ja raha tha.
+
+Indra gusse me bola 😠
+
+👉 “Is lady ko chhod do!”
+
+👉 “Main Indra hoon, thunderbolt ka lord!”
+
+Kesin hansne laga 😈
+
+Aur bola:
+
+👉 “Indra… tum mujhe rokoge?”
+
+👉 “Aaj tum zinda wapas nahi jaoge!”
+
+Usne apni huge mace
+Indra ki taraf phenki 💥
+
+Lekin Indra ne apne vajra (thunderbolt) se
+usse hawa me hi tod diya ⚡
+
+Kesin aur furious ho gaya 😠
+
+Usne ek gigantic rock uthakar phenka 🪨
+
+Indra ne phir vajra se
+usse bhi destroy kar diya 💥
+
+Rock ke pieces girkar
+khud Kesin ko hi hurt kar gaye 😮
+
+Asura darr gaya 😨
+
+Aur woman ko chhodkar bhaag gaya.
+
+Battle khatam hui.
+
+Indra ne softly us woman se poocha:
+
+👉 “Tum kaun ho?”
+
+👉 “Aur yahan kaise aayi?”
+
+Yahin se Kartikeya ki mysterious birth story
+start hone wali thi… ✨
+
+Moral:
+Jab darkness aur evil zyada strong lagne lage,
+tabhi ek nayi divine shakti janm lene wali hoti hai."""
             create_image_text_layout(
                 text_content=text2,
                 layout="full"
@@ -28246,7 +28498,20 @@ bahar bhi aur andar bhi."""
         # Section 3.8.44
         # --------------------------------------------------
         with st.expander("Section 3.8.44  Section CCXXIII"):
-            text1 = """ """
+            text1 = """ 
+            Indra ne us rescued woman se poocha:
+
+👉 “Tum kaun ho?”
+
+👉 “Aur yeh asura tumhe kyun le ja raha tha?”
+
+Woh lady boli:
+
+“Mera naam hai—
+
+🌸 Devasena
+
+Main Prajapati ki daughter hoon.”"""
             create_image_text_layout(
                 "attached_assets/chapter3/3.8.44.jpg",
                 text1,
@@ -28254,7 +28519,157 @@ bahar bhi aur andar bhi."""
                 image_position="left"
             )
 
-            text2 = """ """
+            text2 = """ 
+            Usne bataya ki uski ek sister bhi thi—
+
+🌑 Daityasena
+
+Dono sisters apni friends ke saath
+Manasa mountain par enjoy karne aati thi 🏔️
+
+Lekin ek dangerous asura—
+
+👹 Kesin
+
+roz unke paas aata tha.
+
+Daityasena usse impress ho gayi 😮
+
+Lekin Devasena ne usse reject kar diya ❌
+
+Isliye Kesin
+Daityasena ko le gaya…
+
+Aur ab Devasena ko bhi kidnap karne ki koshish kar raha tha 😨
+
+Devasena ne Indra se kaha:
+
+👉 “Mujhe ek aisa husband chahiye…”
+
+“Jo sabse powerful ho.”
+
+Indra ne poocha:
+
+👉 “Kaisa powerful?”
+
+Devasena ne confidently jawab diya ✨
+
+👉 “Woh jo devas, asuras, yakshas, rakshasas…”
+
+👉 “Sabko hara sake.”
+
+👉 “Aur poori duniya ko protect kar sake.”
+
+Indra yeh sunkar deep thought me chala gaya 😶
+
+Usne socha:
+
+👉 “Aisa warrior abhi exist hi nahi karta…”
+
+Tabhi ek strange cosmic event hua 🌌
+
+Indra ne dekha:
+
+Surya rise ho raha hai ☀️
+Moon Surya ke paas aa raha hai 🌙
+Red clouds sky me fail gaye 🔥
+River Sindhu blood-red lag rahi thi 😨
+Jackals weird cries kar rahe the 🐺
+
+Indra samajh gaya:
+
+👉 “Yeh koi normal sign nahi hai…”
+
+👉 “Koi bahut powerful being janm lene wala hai.”
+
+Usne socha:
+
+“Surya, Soma aur Agni ki energies mil rahi hain…”
+
+👉 “Agar iss union se koi child born hua…”
+
+“Toh wahi Devasena ka husband ban sakta hai.”
+
+Indra Devasena ko lekar
+Brahma ji ke paas gaya 🕉️
+
+Aur bola:
+
+👉 “Please iske liye ek great warrior decide kijiye.”
+
+Brahma ji bole ✨
+
+👉 “Jo child iss divine energy se born hoga…”
+
+👉 “Wahi iska husband hoga.”
+
+👉 “Aur wahi devas ki army ka leader banega.”
+
+Indra aur Devasena khush ho gaye 😊
+
+Phir sab gods
+great sages ke yajna me gaye.
+
+Wahan sacred fire rituals chal rahe the 🔥
+
+Aur Agni dev khud oblations receive karne aaye.
+
+Lekin jab Agni wapas ja raha tha…
+
+Usne sages ki wives ko dekha 😮
+
+Woh sab divine beauty wali thi:
+
+moonlight jaisi pure 🌙
+golden glow wali ✨
+stars jaisi shining ⭐
+
+Agni ka mind disturb ho gaya 😣
+
+Usne khud se kaha:
+
+👉 “Yeh sab chaste aur pure women hain…”
+
+👉 “Main inhe desire nahi kar sakta.”
+
+Lekin woh unki beauty se deeply attracted ho gaya 😔
+
+Isliye usne decide kiya:
+
+👉 “Main bas unhe daily dekhta rahunga…”
+
+👉 “Household fire bankar.”
+
+Woh Garhapatya fire ban gaya 🔥
+
+Aur secretly unke aas-paas rehta tha.
+
+Lekin uski desire aur pain badhte gaye 😢
+
+Finally woh forest me chala gaya…
+
+Aur almost hopeless ho gaya.
+
+Tab ek aur character enter hui—
+
+🌺 Svaha
+
+Daksha ki daughter.
+
+Woh already Agni se secretly love karti thi ❤️🔥
+
+Usne socha:
+
+👉 “Ab Agni weak emotional state me hai…”
+
+👉 “Main sages ki wives ka form lekar uske paas jaungi.”
+
+Aur yahin se start hone wali thi
+Kartikeya ke mysterious birth ki real story ✨
+
+Moral:
+Kabhi-kabhi destiny cosmic events, emotions aur divine plans ke through unfold hoti hai—
+aur great power aksar struggle aur longing ke beech janm leti hai."""
             create_image_text_layout(
                 text_content=text2,
                 layout="full"
@@ -28264,7 +28679,16 @@ bahar bhi aur andar bhi."""
         # Section 3.8.45
         # --------------------------------------------------
         with st.expander("Section 3.8.45  Section CCXXIV"):
-            text1 = """ """
+            text1 = """ 
+            Rishi Markandeya ne Kartikeya ke janm ki incredible story aur aage sunayi.
+
+🌺 Svaha’s Plan
+
+Svaha secretly Agni se love karti thi ❤️🔥
+
+Usne decide kiya ki woh
+sages ki wives ka disguise lekar
+Agni ke paas jayegi."""
             create_image_text_layout(
                 "attached_assets/chapter3/3.8.45.jpg",
                 text1,
@@ -28272,7 +28696,163 @@ bahar bhi aur andar bhi."""
                 image_position="left"
             )
 
-            text2 = """ """
+            text2 = """ 
+            Sabse pehle usne form liya—
+
+✨ Shiva
+
+(Angiras ki wife)
+
+Aur Agni ke paas jaakar boli:
+
+👉 “Main tumse pyaar karti hoon…”
+
+👉 “Agar tumne mujhe accept nahi kiya
+toh main apni jaan de dungi.” 😢
+
+Usne Agni ko convince kiya:
+
+👉 “Baaki sages ki wives ne bhi mujhe bheja hai.”
+
+Agni pehle surprise hua 😮
+
+Lekin phir bahut khush ho gaya 😊
+
+Aur Svaha ke saath mil gaya ❤️🔥
+
+🐦 Svaha Becomes a Bird
+
+Svaha ne socha:
+
+👉 “Agar log mujhe iss form me dekh lenge…”
+
+“Toh sages ki wives ki reputation kharab ho jayegi.”
+
+Isliye usne bird ka form le liya 🐦
+
+Aur forest se udkar
+ek mysterious jagah pahunchi:
+
+⛰️ White Mountain
+
+Wahan:
+
+giant serpents 🐍
+rakshasas 😈
+spirits 👻
+strange creatures
+
+sab rehte the.
+
+Wahan ek golden lake tha ✨
+
+Svaha ne Agni ka divine seed
+us lake me daal diya.
+
+Usne yeh process
+6 baar repeat kiya 🔥🔥🔥🔥🔥🔥
+
+Har baar alag sages’ wives ka form lekar.
+
+Lekin ek wife ka form woh nahi le paayi:
+
+🌸 Arundhati
+
+Kyunki woh itni pure aur devoted thi
+ki uski spiritual power impossible thi imitate karna ✨
+
+👶 Birth of Skanda
+
+Golden lake me se
+ek divine child born hua 🌟
+
+Uska naam pada:
+
+🔥 Skanda
+
+Kyunki sages ne use “cast off” ya separate maana tha.
+
+Woh normal child nahi tha 😮
+
+Uske the:
+
+6 faces 😳
+12 eyes 👀
+12 ears
+multiple hands & feet
+
+Aur uska glow Surya jaisa tha ☀️
+
+Child bahut fast grow hua.
+
+Sirf kuch dino me
+woh powerful warrior ban gaya ⚔️🔥
+
+⚔️ Skanda’s Terrifying Power
+
+Usne Shiva ji ka giant divine bow uthaya 🏹
+
+Aur ek terrifying roar kiya 😱
+
+Us roar se:
+
+heaven
+earth
+underworld
+
+sab shake ho gaye 🌌
+
+Huge Nagas bhi darr gaye 🐍😨
+
+Lekin Skanda ne unhe easily pakad liya.
+
+Uske hands me the:
+
+divine spear 🔱
+giant cock emblem 🐓
+conch shell 🐚
+
+Aur woh mountain top par war cry karta raha ⚡
+
+⛰️ Skanda Destroys Mountains
+
+Usne arrows chalaaye 🏹
+
+Aur:
+
+🌋 Krauncha Mountain
+
+ko beech se tod diya 💥
+
+Mountains fear se scream karne lage 😨
+
+Skanda ne apni glowing mace se
+White Mountain ka peak bhi tod diya ⚔️
+
+Earth khud darr gayi 🌍😢
+
+Aur Skanda ke paas protection maangne gayi.
+
+Tab Skanda ne sabko calm kiya ✨
+
+Mountains wapas apni jagah aa gaye.
+
+Aur duniya me peace return hui 🌸
+
+Us din se
+5th lunar day par
+Skanda ki worship celebrate ki jaane lagi 🙏🔥
+
+Yudhishthira yeh sab sunkar amazed ho gaye.
+
+Unhe samajh aa gaya—
+
+👉 Kartikeya sirf warrior nahi the
+👉 Woh divine energy, courage aur cosmic protection ka symbol the.
+
+Moral:
+Divine power jab janm leti hai,
+toh woh darkness aur fear ko destroy karke balance restore karti hai."""
             create_image_text_layout(
                 text_content=text2,
                 layout="full"
@@ -28282,7 +28862,17 @@ bahar bhi aur andar bhi."""
         # Section 3.8.46
         # --------------------------------------------------
         with st.expander("Section 3.8.46  Section CCXXV"):
-            text1 = """ """
+            text1 = """ 
+            Jab Skanda ka janm hua,
+toh poore universe me strange signs dikhne lage 😨✨
+
+Earth zor se hilne lagi 🌍
+Sky bright ho gaya 🌌
+Planets unusual lagne lage ☄️
+Nature ka balance ulta-pulta sa ho gaya
+
+Sabko lag raha tha
+koi extraordinary power aa chuki hai."""
             create_image_text_layout(
                 "attached_assets/chapter3/3.8.46.jpg",
                 text1,
@@ -28290,7 +28880,154 @@ bahar bhi aur andar bhi."""
                 image_position="left"
             )
 
-            text2 = """ """
+            text2 = """ 
+            Forest me rehne wale log gossip karne lage 😮
+
+Kuch bole:
+
+👉 “Yeh sab Agni aur sages ki wives ki wajah se hua hai!”
+
+Dusre bole:
+
+👉 “Nahi, kisi mysterious bird ne yeh kiya hoga!” 🐦
+
+Kisi ko nahi pata tha
+ki actually yeh sab:
+
+🌺 Svaha
+
+ne kiya tha.
+
+Svaha finally Skanda ke paas gayi
+aur dheere-dheere sach bataya ❤️
+
+👉 “Main tumhari asli maa hoon.”
+
+😢 The Seven Rishis Reject Their Wives
+
+Jab seven sages ko pata chala
+ki ek powerful child born hua hai…
+
+Toh logon ki baaton me aakar
+unhone apni 6 wives ko chhod diya 😔
+
+Sirf:
+
+🌸 Arundhati
+
+ko nahi chhoda,
+kyunki woh completely pure aur beyond suspicion thi.
+
+Svaha baar-baar explain karti rahi:
+
+👉 “Un wives ka koi fault nahi hai!”
+
+👉 “Yeh sab maine kiya tha!”
+
+🧘 Vishwamitra Knows the Truth
+
+Lekin ek sage sach jaanta tha—
+
+✨ Vishwamitra
+
+Woh secretly Agni ko follow kar rahe the.
+
+Unhone poora incident dekha tha 👀
+
+Vishwamitra sabse pehle Skanda ke paas gaye
+aur uski protection maangi 🙏
+
+Phir unhone Skanda ke:
+
+birth rituals
+naming ceremonies
+sacred rites
+
+sab perform kiye ✨
+
+Unhone duniya ko bataya:
+
+👉 “Yeh six-faced child koi ordinary being nahi hai.”
+
+👉 “Yeh divine warrior hai.”
+
+⚔️ Gods Become Afraid
+
+Jab devas ne Skanda ki power dekhi 😨
+
+Toh sab Indra ke paas gaye aur bole:
+
+👉 “Is child ko abhi destroy karo!”
+
+👉 “Warna yeh tumhari throne le lega.”
+
+Lekin Indra darr gaya 😶
+
+Usne kaha:
+
+👉 “Yeh itna powerful hai…”
+
+👉 “Ki shayad creation ko bhi destroy kar de.”
+
+Gods bole:
+
+👉 “Tum khud nahi kar sakte toh Mothers ko bhejo.”
+
+👩 Divine Mothers Meet Skanda
+
+Universe ki fierce Mothers
+Skanda ke paas gayi ⚡
+
+Unka plan tha usse destroy karna.
+
+Lekin jaise hi unhone Skanda ko dekha… 😮✨
+
+Woh uski divine energy se overwhelm ho gayi.
+
+Unhone kaha:
+
+👉 “Tum hamare adopted son ban jao.”
+
+👉 “Hum tumhe apna milk dena chahti hain.”
+
+Skanda ne respect ke saath
+unhe accept kar liya ❤️
+
+Aur woh sab uski foster mothers ban gayi.
+
+🔥 Agni Meets His Son
+
+Tab Agni dev bhi aaye 🔥
+
+Skanda ne apne father ko honour diya 🙏
+
+Aur Agni bhi uske saath wahi rehne lage.
+
+🧸 Agni Plays with Skanda
+
+Agni ne ek funny form liya 😄
+
+👉 Goat-faced trader 🐐
+
+Aur bachchon ke saath milkar
+Skanda ke liye toys laaye 🧸
+
+Woh us divine child ko entertain karne lage.
+
+Ek fierce red-coloured Mother bhi thi
+jo blood aur war energy se connected thi ⚔️
+
+Lekin woh bhi Skanda ko
+apne child ki tarah protect karne lagi ❤️
+
+Yudhishthira yeh sab sunkar samajh gaye—
+
+👉 True divine power fear create karti hai…
+lekin eventually protection aur balance bhi laati hai.
+
+Moral:
+Asli greatness ko pehle log misunderstand karte hain, fear karte hain—
+lekin akhir me wahi शक्ति protection aur hope ka source ban jaati hai."""
             create_image_text_layout(
                 text_content=text2,
                 layout="full"
