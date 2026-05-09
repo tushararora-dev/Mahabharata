@@ -29037,7 +29037,20 @@ lekin akhir me wahi शक्ति protection aur hope ka source ban jaati hai.
         # Section 3.8.47
         # --------------------------------------------------
         with st.expander("Section 3.8.47  Section CCXXVI"):
-            text1 = """ """
+            text1 = """ 
+            Skanda ki power aur fame ab poore universe me spread ho chuki thi 🌌🔥
+
+⚔️ Gods Prepare for Battle
+
+Skanda ke aas-paas already present the:
+
+planets ☄️
+sages 🧘
+divine Mothers 👩
+Agni dev 🔥
+heavenly warriors ⚔️
+
+Sab uske saath khade the."""
             create_image_text_layout(
                 "attached_assets/chapter3/3.8.47.jpg",
                 text1,
@@ -29045,7 +29058,140 @@ lekin akhir me wahi शक्ति protection aur hope ka source ban jaati hai.
                 image_position="left"
             )
 
-            text2 = """ """
+            text2 = """ 
+            Lekin Indra abhi bhi unsure tha 😰
+
+Usse darr tha:
+
+👉 “Yeh child future me heaven ka ruler ban sakta hai…”
+
+Phir bhi victory ke hope me
+woh apne divine elephant:
+
+🐘 Airavata
+
+par chadhkar nikla.
+
+Aur poori celestial army saath le gaya ⚡
+
+Army bahut grand thi 😮
+
+divine flags 🚩
+shining armours ✨
+heavenly weapons ⚔️
+strange celestial animals 🐉
+
+Sab loud war cries karte hue
+Skanda ki taraf badhe.
+
+🔥 Skanda Faces the Gods
+
+Jab Skanda ne dekha
+ki Indra usse marne aa raha hai 😠
+
+Toh woh bhi confidently saamne aaya.
+
+Indra ne loud battle cry diya ⚡
+
+Aur gods ne bhi shout kiya.
+
+Lekin phir…
+
+🔥🌊 Skanda ne roar kiya
+
+Uska roar samundar ki garaj jaisa tha 😨
+
+Poora celestial army shock me freeze ho gaya.
+
+Bilkul disturbed ocean ki tarah hilne laga 🌊
+
+🔥 Fire from Skanda’s Mouth
+
+Skanda furious ho gaya 😠🔥
+
+Aur uske mouth se giant flames nikli 😮
+
+Woh fire directly gods ki army par toot padi.
+
+soldiers jal gaye 😨
+animals burn ho gaye
+weapons melt hone lage ⚔️🔥
+
+Army tootne lagi.
+
+Sabko laga stars sky se gir rahe hain 🌌💥
+
+😨 Gods Panic
+
+Gods darr gaye.
+
+Unhone Indra ko almost abandon kar diya 😶
+
+Aur secretly Skanda ki protection maangne lage 🙏
+
+Lekin Indra ne final attack kiya ⚡
+
+Usne apna:
+
+⚡ Vajra (thunderbolt)
+
+Skanda par phenka.
+
+Vajra Skanda ke right side ko pierce kar gaya 😮
+
+Lekin usse kuch unbelievable hua ✨
+
+👶 Birth of Vishakha
+
+Skanda ke body se
+ek aur divine warrior born hua 😳
+
+Uske haath me club tha ⚔️
+
+Aur woh blazing fire jaisa lag raha tha 🔥
+
+Kyunki woh vajra ke “piercing” se born hua tha,
+uska naam pada:
+
+✨ Vishakha
+😨 Indra Gets Terrified
+
+Indra ne jab yeh dekha…
+
+ki attack karne se
+Skanda aur powerful beings create kar raha hai 😱
+
+Toh woh completely fear me aa gaya.
+
+Indra ne hands join kiye 🙏
+
+Aur Skanda se protection maangi.
+
+🌸 Peace Restored
+
+Skanda ne calmly bola:
+
+👉 “Dar mat.”
+
+Aur apne hand se Indra ko reassure kiya ✨
+
+Gods relieved ho gaye 😌
+
+Aur sabne celebration start kar diya 🎉
+
+Heaven me peace return ho gayi 🌸
+
+Yudhishthira quietly sunte rahe…
+
+Unhe samajh aa gaya:
+
+👉 Real divine power destruction ke liye nahi…
+
+👉 Balance aur protection restore karne ke liye hoti hai.
+
+Moral:
+Jab ego aur fear se conflict hota hai, toh chaos paida hota hai—
+lekin true divine strength akhir me harmony aur peace establish karti hai."""
             create_image_text_layout(
                 text_content=text2,
                 layout="full"
@@ -29055,7 +29201,17 @@ lekin akhir me wahi शक्ति protection aur hope ka source ban jaati hai.
         # Section 3.8.48
         # --------------------------------------------------
         with st.expander("Section 3.8.48  Section CCXXVII"):
-            text1 = """ """
+            text1 = """ 
+            Rishi Markandeya ne ab Skanda ke strange aur terrifying followers ki story sunayi.
+
+⚡ Strange Beings Born from the Thunderbolt
+
+Jab Indra ka vajra
+Skanda ko strike karta hai ⚡
+
+Tab sirf Vishakha hi born nahi hua 😮
+
+Balki bahut saare mysterious beings bhi janm lete hain."""
             create_image_text_layout(
                 "attached_assets/chapter3/3.8.48.jpg",
                 text1,
@@ -29063,7 +29219,146 @@ lekin akhir me wahi शक्ति protection aur hope ka source ban jaati hai.
                 image_position="left"
             )
 
-            text2 = """ """
+            text2 = """ 
+            Kuch the:
+
+👦 terrifying male spirits
+aur kuch:
+
+👧 powerful female spirits
+
+Ancient belief ke according
+yeh beings unborn babies aur little children ko affect karte the 😨
+
+Isliye log unse protection ke liye rituals karte the.
+
+👶 Skanda – Protector of Children
+
+Woh sab beings:
+
+✨ Vishakha
+
+ko apna father maan lete hain.
+
+Aur Skanda ko maana gaya:
+
+👶 Father of Kumaras
+
+(children)
+
+Isi wajah se
+ancient India me log:
+
+Rudra 🔱
+Agni 🔥
+Uma 🌸
+Svaha ✨
+
+ki worship karte the
+healthy children aur protection ke liye.
+
+👩 The Seven Mothers
+
+Agni ki daughters bhi Skanda ke paas aayi 😊
+
+Aur respectfully boli:
+
+👉 “Hume world ki respected mothers bana do.”
+
+Skanda ne blessing di ✨
+
+👉 “Aisa hi hoga.”
+
+Phir famous divine Mothers establish hui:
+
+Kaki
+Halima
+Malini
+Vrinhila
+Arya
+Palala
+Vaimitra
+
+👩👩👩👩👩👩👩
+
+Yeh sab child-protecting energies se connected maani gayi.
+
+😨 Birth of Sisu
+
+In Mothers ka ek terrifying son bhi hua:
+
+🔥 Sisu
+red eyes 😳
+fierce nature ⚔️
+uncontrollable energy 🌪️
+
+Woh Skanda ke warriors me count hua.
+
+🐐 Goat-Faced Mystery
+
+Story me ek aur strange detail thi 😮
+
+Skanda ka ek face:
+
+🐐 Goat-like
+
+bataya gaya.
+
+Yeh symbolic tha divine power aur sacrifice ka.
+
+Us goat-faced form ko:
+
+✨ Bhadrasakha
+
+se connect kiya gaya.
+
+Aur us divine head ko
+Skanda ke strongest forms me se ek maana gaya 🔥
+
+🌕 Sacred Days
+
+Rishi ne bataya:
+
+👉 Yeh miraculous events hue:
+
+🌙 Shukla Paksha Panchami
+
+(5th lunar day)
+
+Aur next day:
+
+⚔️ Shashthi
+
+ek huge terrifying battle hui.
+
+Isi wajah se:
+
+🌸 Skanda Shashthi
+
+festival later famous hua ✨
+
+Jahan devotees Skanda/Kartikeya ki worship karte hain
+evil par victory aur protection ke liye.
+
+Yudhishthira yeh sab sunkar amazed ho gaya 😮
+
+Usse samajh aa gaya:
+
+👉 Ancient stories sirf battles nahi hoti…
+
+Woh:
+
+protection
+birth
+fear
+motherhood
+cosmic energy
+
+sabko symbolically explain karti hain ✨
+
+Moral:
+Divine power sirf destruction nahi karti—
+woh protection, nurturing aur balance bhi create karti hai."""
             create_image_text_layout(
                 text_content=text2,
                 layout="full"
@@ -29073,7 +29368,22 @@ lekin akhir me wahi शक्ति protection aur hope ka source ban jaati hai.
         # Section 3.8.49
         # --------------------------------------------------
         with st.expander("Section 3.8.49  Section CCXXVIII"):
-            text1 = """ """
+            text1 = """ 
+            Ab Skanda poori tarah divine commander ban chuke the ✨🔥
+
+🌟 Skanda’s Divine Appearance
+
+Skanda bahut radiant lag rahe the 😮
+
+golden crown 👑
+shining earrings ✨
+red clothes 🔥
+sharp glowing eyes 👀
+heavenly garland 🌸
+
+Woh full moon ki tarah beautiful lagte the 🌕
+
+Aur teenon worlds ke favourite ban gaye ❤️"""
             create_image_text_layout(
                 "attached_assets/chapter3/3.8.49.jpg",
                 text1,
@@ -29081,7 +29391,198 @@ lekin akhir me wahi शक्ति protection aur hope ka source ban jaati hai.
                 image_position="left"
             )
 
-            text2 = """ """
+            text2 = """ 
+            🌸 Goddess of Fortune Chooses Skanda
+
+Jab Skanda peacefully rest kar rahe the,
+
+🌺 Lakshmi-like fortune goddess
+
+khud unke paas aayi ✨
+
+Aur unki seva karne lagi.
+
+Ab Skanda aur bhi glorious ho gaye 😮
+
+Bilkul full moon jaisa calm aur radiant.
+
+🧘 Rishis Want Skanda as Indra
+
+Great sages aur Brahmanas ne Skanda ko worship kiya 🙏
+
+Aur bole:
+
+👉 “Tum sirf 6 din ke ho…”
+
+👉 “Lekin poori duniya already tumhari respect karti hai!”
+
+👉 “Tum hi 3 worlds ke new Indra ban jao.” ⚡
+
+🤔 Skanda Asks About Indra’s Duty
+
+Skanda calmly poochte hain:
+
+👉 “Indra exactly karta kya hai?”
+
+Rishis explain karte hain ✨
+
+👉 “Indra sab creatures ko strength deta hai.”
+
+👉 “Rain, protection, order aur balance maintain karta hai.”
+
+👉 “Wicked ko punish karta hai.”
+
+👉 “Righteous logon ki help karta hai.”
+
+Phir sabne kaha:
+
+👉 “Tum bhi utne hi powerful ho.”
+
+👉 “Isliye tum Indra ban jao.”
+
+🙏 Skanda Refuses the Throne
+
+Lekin Skanda ne bahut humility dikhayi 😊
+
+Woh bole:
+
+👉 “Indra hi 3 worlds ka ruler rahe.”
+
+👉 “Main bas uska servant bankar help karunga.”
+
+Indra emotional aur impressed ho gaya 😮
+
+Usne kaha:
+
+👉 “Agar tum aur main alag rulers bane…”
+
+👉 “Toh gods factions me divide ho jayenge.”
+
+👉 “Phir war start ho jayegi.”
+
+Aur woh honestly maanta hai:
+
+👉 “Tum mujhe easily defeat kar sakte ho.” 😅
+
+⚔️ Commander of the Celestial Army
+
+Tab Indra ne request ki:
+
+👉 “At least heavenly army ke commander ban jao.”
+
+Skanda maan gaye ✨
+
+Aur bole:
+
+👉 “Main devas, cows aur Brahmanas ki protection ke liye fight karunga.”
+
+👑 Grand Coronation of Skanda
+
+Phir sab gods ne milkar
+Skanda ka grand anointment kiya 🎉
+
+golden umbrella ☂️
+divine ornaments ✨
+celestial music 🎶
+Gandharva songs 🎵
+apsaras dancing 💃
+
+Sab heaven celebrate kar raha tha 🌌
+
+🔱 Shiva Accepts Skanda
+
+Bhagwan Shiva aur Parvati bhi aaye ❤️
+
+Shiva ne personally
+Skanda ko honour kiya.
+
+Rishis ne explain kiya:
+
+👉 Agni, Svaha aur Rudra sab somehow uske birth me involved the.
+
+Isliye Skanda ko:
+
+🔱 Son of Rudra (Shiva)
+
+bhi kaha gaya.
+
+🐓 The Red Cock Symbol
+
+Agni ne Skanda ko diya:
+
+🐓 Red Cock Banner
+
+Woh uske chariot ka symbol bana.
+
+Yeh victory aur fiery energy ka sign tha 🔥
+
+✨ Skanda’s Natural Qualities
+
+Rishi Markandeya ne bataya
+ki Skanda naturally full the:
+
+courage ⚔️
+truthfulness ✨
+devotion 🙏
+protection ❤️
+destruction of evil 🔥
+care for all beings 🌍
+🌸 Marriage with Devasena
+
+Indra ko yaad aayi:
+
+🌺 Devasena
+
+woh same princess
+jise usne Kesin se rescue kiya tha.
+
+Brahma ji pehle hi future bata chuke the:
+
+👉 “Yahi Skanda ki wife banegi.”
+
+Toh Devasena ko beautifully dress karke laya gaya 👰✨
+
+Aur Indra bola:
+
+👉 “Yeh tumhari destined bride hai.”
+
+💍 Divine Wedding
+
+Skanda ne Devasena ka hand accept kiya ❤️
+
+Aur divine marriage hui 💍
+
+Brihaspati ne Vedic rituals perform kiye 🔥
+
+Devasena ko kai names se jaana gaya:
+
+Shashthi
+Lakshmi
+Aparajita
+Sukhaprada
+
+✨
+
+🌕 Sacred Days
+
+Rishi ne finally explain kiya:
+
+👉 5th lunar day par Skanda famous hue
+→ Isliye usse Sri Panchami bola gaya 🌸
+
+👉 6th day par unhone victory aur purpose achieve kiya
+→ Isliye Skanda Shashthi sacred bani ⚔️🔥
+
+Yudhishthira quietly sunte rahe…
+
+Unhe samajh aa gaya:
+
+👉 True leadership power lene me nahi…
+👉 Power ko selflessly protect karne me hai.
+
+Moral:
+Asli greatness humility, duty aur protection me hoti hai—
+aur jo ego ke bina serve karta hai, wahi truly divine leader banta hai."""
             create_image_text_layout(
                 text_content=text2,
                 layout="full"
@@ -29091,7 +29592,17 @@ lekin akhir me wahi शक्ति protection aur hope ka source ban jaati hai.
         # Section 3.8.50
         # --------------------------------------------------
         with st.expander("Section 3.8.50  Section CCXXIX"):
-            text1 = """ """
+            text1 = """ 
+            Skanda ab heavenly army ke commander ban chuke the ⚔️🔥
+
+Aur unki glory poore universe me spread ho gayi thi.
+
+😢 The Wives of the Seven Rishis Return
+
+Jo 6 wives pehle blame hui thi
+aur apne husbands se reject kar di gayi thi 😔
+
+Woh ab Skanda ke paas aayi."""
             create_image_text_layout(
                 "attached_assets/chapter3/3.8.50.jpg",
                 text1,
@@ -29099,18 +29610,537 @@ lekin akhir me wahi शक्ति protection aur hope ka source ban jaati hai.
                 image_position="left"
             )
 
-            text2 = """ """
+            text2 = """ 
+            Unhone emotional hokar kaha:
+
+👉 “Hum innocent thi…”
+
+👉 “Logon ne galat rumour failaya
+ki humne tumhe janm diya.”
+
+👉 “Iss wajah se humari insult hui.”
+
+Phir unhone request ki ❤️
+
+👉 “Hume apni mothers accept kar lo.”
+
+🌸 Skanda Accepts Them
+
+Skanda ne respect ke saath jawab diya 😊
+
+👉 “Aap sab meri mothers ho.”
+
+👉 “Main aapka son hoon.”
+
+Woh ladies relieved aur happy ho gayi ✨
+
+⭐ The Missing Star – Abhijit
+
+Tab Indra ne Skanda se ek aur problem share ki 😮
+
+Ek star thi:
+
+⭐ Abhijit
+
+Woh Rohini se jealous hokar
+forest me tapasya karne chali gayi 🌲
+
+Indra bola:
+
+👉 “Ab sky me ek asterism missing ho gaya.”
+
+👉 “Iska replacement chahiye.”
+
+Discussion ke baad:
+
+🔥 Krittika
+
+ko heavens me special place diya gaya.
+
+Isliye Kartikeya ka relation
+Krittika stars se bhi maana gaya ✨
+
+🕊️ Vinata Wants to Stay with Skanda
+
+Garuda ki mother:
+
+🕊️ Vinata
+
+bhi Skanda ke paas aayi ❤️
+
+Aur boli:
+
+👉 “Tum mere son jaise ho.”
+
+👉 “Main hamesha tumhare saath rehna chahti hoon.”
+
+Skanda ne lovingly accept kar liya 😊
+
+👩 The Great Mothers Ask a Boon
+
+Phir powerful Mothers ne request ki 😮
+
+👉 “Hum bhi world ki worshipped mothers banna chahti hain.”
+
+👉 “Hume special power do.”
+
+Unhone strange request bhi ki:
+
+👉 “Hum different forms me children ko affect kar sake.”
+
+Skanda ko yeh painful laga 😔
+
+Lekin unhone balance maintain karte hue kaha:
+
+👉 “Theek hai…”
+
+👉 “Lekin tum protection bhi dogi.”
+
+👶 Spirits Affecting Children
+
+Markandeya ne explain kiya
+ki ancient beliefs ke according
+kai invisible spirits children ko affect karte hain 😨
+
+Jaise:
+
+diseases
+miscarriages
+infant problems
+mental disturbances
+
+In sabko symbolic spirit forms me describe kiya gaya.
+
+🔥 Skandapasmara
+
+Skanda ke body se ek fiery being nikla 😮🔥
+
+Uska naam tha:
+
+👹 Skandapasmara
+
+Woh children ko affect karne wali spirit maana gaya.
+
+Aur bhi spirits describe ki gayi:
+
+Putana 👹
+Revati
+Mukhamandika
+Sakuni
+Pisachas
+Yaksha spirits
+Gandharva spirits
+
+Ancient log inhe:
+
+👉 diseases
+👉 mental illness
+👉 hallucinations
+👉 miscarriages
+👉 childhood sickness
+
+ka symbolic explanation maante the.
+
+🌳 Protective Tree Goddess
+
+Ek compassionate tree-goddess bhi mention hui 🌳✨
+
+Woh karanja tree me rehti thi
+aur children ko blessings deti thi ❤️
+
+Jo log children chahte the,
+woh uski worship karte the.
+
+⚠️ Spirits and Human Mind
+
+Markandeya ne aur deep explanation diya 🧠
+
+Kabhi-kabhi log:
+
+hallucinations dekhte hain 👀
+dead ancestors imagine karte hain 😨
+fear se unstable ho jaate hain
+desires aur bad habits se mentally disturbed ho jaate hain
+
+Ancient texts inhe “spirits” ke form me explain karte the.
+
+Lekin end me ek important wisdom diya ✨
+
+👉 Self-control
+👉 cleanliness
+👉 discipline
+👉 devotion
+👉 calm mind
+
+aise logon ko negative forces touch nahi kar paati.
+
+🌸 Final Teaching
+
+Markandeya ne conclude kiya:
+
+👉 “Jo apne senses control karta hai…”
+
+👉 “Jo spiritually disciplined hota hai…”
+
+👉 “Usse evil influences disturb nahi kar sakti.”
+
+Yudhishthira quietly sunte rahe…
+
+Unhe samajh aa gaya:
+
+👉 Ancient stories sirf monsters ki nahi hoti…
+
+Woh human fears, illness, psychology aur protection ko symbolic form me explain karti hain. ✨
+
+Moral:
+Fear aur negativity hamesha exist karte hain—
+lekin discipline, purity, devotion aur self-control insaan ko protected rakhte hain."""
             create_image_text_layout(
                 text_content=text2,
                 layout="full"
             )
+        with st.expander("Section 3.8.51  Section CCXXX"):
+            text1 = """ 
+🔥 Svaha’s Wish
+
+Skanda ne jab sabko powers aur blessings de diye ✨
+
+Tab unki divine mother:
+
+🌸 Svaha
+
+unke paas aayi.
+
+Usne emotional hokar kaha ❤️"""
+            create_image_text_layout(
+                "attached_assets/chapter3/3.9.1.jpg",
+                text1,
+                layout="side",
+                image_position="left"
+            )
+
+            text2 = """ 
+            👉 “Main bachpan se Agni dev se pyaar karti hoon…”
+
+👉 “Lekin unhone kabhi mere feelings nahi samjhe.” 😔
+
+👉 “Main hamesha unke saath rehna chahti hoon.”
+
+🔥 Skanda Grants the Boon
+
+Skanda smiled 😊
+
+Aur bola:
+
+👉 “Aaj se har sacred offering…”
+
+👉 “Agni ke saath tumhare naam se bhi di jayegi.”
+
+Isliye Vedic rituals me log bolte hain:
+
+✨ “Svaha!”
+
+Jab bhi fire me offering di jaati hai 🔥
+
+Is blessing ke baad
+Svaha permanently Agni ke saath unite ho gayi ❤️🔥
+
+🔱 Brahma Explains Skanda’s Divine Origin
+
+Tab Brahma ji ne Skanda ko bataya 😮
+
+👉 Rudra (Shiva) + Agni ki energy
+👉 Uma + Svaha ki power
+
+sab milkar tumhe invincible banati hai ✨
+
+Unhone reveal kiya
+ki Shiva ki divine energy different places me split hui thi 🌌
+
+mountains 🏔️
+sea 🌊
+sunlight ☀️
+earth 🌍
+
+Aur un fragments se
+many fierce beings born hue.
+
+🛡️ Worship for Protection
+
+Markandeya ne explain kiya:
+
+👉 Jo log wealth chahte hain
+👉 children ki safety chahte hain
+👉 diseases se protection chahte hain
+
+woh Skanda aur uske attendants ki worship karte the 🙏
+
+🔔 The Bells of Skanda
+
+Indra ke elephant:
+
+🐘 Airavata
+
+ke paas 2 divine bells thi 🔔
+
+naam tha:
+
+✨ Vaijayanti
+
+Indra ne woh Skanda aur Vishakha ko gift kar di 🎁
+
+🐓 Red Banner
+
+Skanda aur Vishakha dono ke standards:
+
+🔴 Red color
+
+ke the.
+
+Yeh fiery victory aur divine courage ka symbol tha 🔥
+
+⛰️ The White Mountain Celebration
+
+Skanda Golden Mountain par baithkar shine kar rahe the ✨
+
+Unke aas-paas:
+
+Gandharvas music baja rahe the 🎶
+Apsaras dance kar rahi thi 💃
+clouds drums ki tarah garaj rahe the ☁️🥁
+heavenly flowers everywhere 🌸
+
+Poora mountain divine festival jaisa lag raha tha 😍
+
+🔱 Shiva Arrives with the Celestial Army
+
+Phir Bhagwan Shiva aaye 😮🔥
+
+Parvati ji ke saath
+ek blazing chariot me ✨
+
+Unka chariot:
+
+🦁 1000 lions
+
+kheench rahe the 😳
+
+Aur poora universe unhe dekhkar tremble kar raha tha.
+
+Shiva ke peeche aaye:
+
+Indra ⚡
+Kubera 💰
+Yama ☠️
+Varuna 🌊
+Agni 🔥
+Vayu 🌪️
+Yakshas
+Gandharvas
+Rishis
+celestial ladies 🌸
+
+Poora heaven march kar raha tha ⚔️
+
+⚔️ The Great Battle Begins
+
+Tab suddenly universe me chaos start ho gaya 😨
+
+sky dark ho gaya 🌑
+earth shake hone lagi 🌍
+stars blaze karne lage ✨
+
+Aur ek huge Asura army appear hui 😱
+
+Woh:
+
+rocks 🪨
+maces ⚔️
+arrows 🏹
+giant weapons
+
+sab throw karne lage.
+
+Gods ki army panic me aa gayi 😨
+
+Bahut soldiers marne lage.
+
+⚡ Indra Encourages the Gods
+
+Indra loudly chillaya:
+
+👉 “Darro mat!”
+
+👉 “Weapons uthao!”
+
+👉 “Fight karo!” ⚔️
+
+Gods fir courage lekar wapas charge karte hain 🔥
+
+Aur battle aur bhi brutal ho jaati hai 😮
+
+👹 Mahisha Appears
+
+Tab ek terrifying Asura battlefield me enter hua:
+
+👹 Mahisha
+
+Woh giant mountain jaisa lag raha tha 😨
+
+Usne ek huge rock uthakar
+celestial army par phenki 🪨💥
+
+Thousands of warriors crush ho gaye 😱
+
+Gods darr kar bhaagne lage 😨
+
+Mahisha directly Shiva ke chariot tak pahunch gaya 😳
+
+Aur gusse me usne:
+
+👉 Shiva ke chariot ka pole pakad liya ⚡
+
+Poora universe shake karne laga 🌍
+
+Daityas celebrate karne lage 🎉
+
+🔥 Skanda Enters the Battlefield
+
+Jab sab hopeless lag raha tha…
+
+Tab:
+
+⚔️🔥 Mahasena (Skanda)
+
+battlefield me aaye 😮
+
+Woh shining red armour me the ✨
+
+Golden chariot par
+sun ki tarah glow kar rahe the ☀️
+
+Asuras unhe dekhkar hi fear me aa gaye 😨
+
+⚔️ Death of Mahisha
+
+Skanda ne apni divine weapon uthayi:
+
+🔥 Shakti Spear
+
+Aur directly Mahisha par phenki ⚡
+
+Ek hi strike me 😳
+
+👉 Mahisha ka head cut ho gaya 💥
+
+Uska giant head mountain ki tarah gir gaya 🪨
+
+⚔️ Skanda Destroys the Asuras
+
+Skanda ki Shakti weapon magical thi ✨
+
+Woh:
+
+enemies ko kill karti
+phir automatically unke haath me return aa jaati 😮
+
+Thousands of Asuras girne lage ⚔️
+
+Skanda ke followers bhi:
+
+👉 enemies ko destroy karne lage
+👉 blood peene lage 😨
+
+Battlefield complete chaos ban gaya 🔥
+
+🌟 Victory of the Gods
+
+Finally Asuras completely defeat ho gaye ✨
+
+Gods ne loudly celebrate kiya 🎉
+
+Aur Indra ne Skanda ko hug karke kaha ❤️
+
+👉 “Tumne impossible kar diya.”
+
+👉 “Tumhari fame forever rahegi.”
+
+🙏 Shiva’s Command
+
+Bhagwan Shiva ne gods ko order diya:
+
+👉 “Jaise tum meri respect karte ho…”
+
+👉 “Waise hi Skanda ko bhi honour karo.”
+
+🌟 Many Names of Skanda
+
+Yudhishthira ne poocha:
+
+👉 “Skanda ke famous names kya hain?”
+
+Markandeya ne bahut names bataye ✨
+
+Kuch famous names:
+
+Agneya 🔥
+Skanda ⚔️
+Mahishardana 👹
+Visakha ✨
+Guha 🌌
+Kartikeya 🌟
+Mayuraketu 🦚
+Brahmacharin 🧘
+Devasena-priya ❤️
+
+Aur bhi dozens divine names.
+
+Rishi ne kaha:
+
+👉 “Jo in names ko devotion se repeat kare…”
+
+usse milta hai:
+
+fame ✨
+prosperity 💰
+courage ⚔️
+children 👶
+spiritual upliftment 🌸
+🌌 Final Prayer
+
+End me Markandeya ne Skanda ki grand praise ki 🙏
+
+Unhone kaha:
+
+👉 “Tum thousand forms wale ho.”
+👉 “Tum universe ki energy ho.”
+👉 “Tum protector bhi ho aur destroyer bhi.”
+
+Yudhishthira quietly sunte rahe…
+
+Aur samajh gaye:
+
+👉 Divine power ka real purpose hai:
+
+protect dharma ⚖️
+destroy evil ⚔️
+restore balance 🌸
+
+Moral:
+True strength sirf power nahi hoti—
+woh protection, humility, devotion aur righteousness ka combination hoti hai."""
+            create_image_text_layout(
+                text_content=text2,
+                layout="full"
+            )
+
 
     with st.expander("Chapter 3.9  Draupadi-Satyabhama Samvada (Dialogue of Draupadi & Satyabhama)"):
 
         # --------------------------------------------------
         # Section 3.9.1
         # --------------------------------------------------
-        with st.expander("Section 3.9.1  Section CCXXX"):
+        with st.expander("Section 3.9.1  Section CCXXXI"):
             text1 = """ """
             create_image_text_layout(
                 "attached_assets/chapter3/3.9.1.jpg",
@@ -29128,7 +30158,7 @@ lekin akhir me wahi शक्ति protection aur hope ka source ban jaati hai.
         # --------------------------------------------------
         # Section 3.9.2
         # --------------------------------------------------
-        with st.expander("Section 3.9.2  Section CCXXXI"):
+        with st.expander("Section 3.9.2  Section CCXXXII"):
             text1 = """ """
             create_image_text_layout(
                 "attached_assets/chapter3/3.9.2.jpg",
@@ -29146,7 +30176,7 @@ lekin akhir me wahi शक्ति protection aur hope ka source ban jaati hai.
         # --------------------------------------------------
         # Section 3.9.3
         # --------------------------------------------------
-        with st.expander("Section 3.9.3  Section CCXXXII"):
+        with st.expander("Section 3.9.3  Section CCXXXIII"):
             text1 = """ """
             create_image_text_layout(
                 "attached_assets/chapter3/3.9.3.jpg",
@@ -29166,7 +30196,7 @@ lekin akhir me wahi शक्ति protection aur hope ka source ban jaati hai.
         # --------------------------------------------------
         # Section 3.10.1
         # --------------------------------------------------
-        with st.expander("Section 3.10.1  Section CCXXXIII"):
+        with st.expander("Section 3.10.1  Section CCXXXIV"):
             text1 = """ """
             create_image_text_layout(
                 "attached_assets/chapter3/3.10.1.jpg",
@@ -29184,7 +30214,7 @@ lekin akhir me wahi शक्ति protection aur hope ka source ban jaati hai.
         # --------------------------------------------------
         # Section 3.10.2
         # --------------------------------------------------
-        with st.expander("Section 3.10.2  Section CCXXXIV"):
+        with st.expander("Section 3.10.2  Section CCXXXV"):
             text1 = """ """
             create_image_text_layout(
                 "attached_assets/chapter3/3.10.2.jpg",
@@ -29202,7 +30232,7 @@ lekin akhir me wahi शक्ति protection aur hope ka source ban jaati hai.
         # --------------------------------------------------
         # Section 3.10.3
         # --------------------------------------------------
-        with st.expander("Section 3.10.3  Section CCXXXV"):
+        with st.expander("Section 3.10.3  Section CCXXXVI"):
             text1 = """ """
             create_image_text_layout(
                 "attached_assets/chapter3/3.10.3.jpg",
@@ -29220,7 +30250,7 @@ lekin akhir me wahi शक्ति protection aur hope ka source ban jaati hai.
         # --------------------------------------------------
         # Section 3.10.4
         # --------------------------------------------------
-        with st.expander("Section 3.10.4  Section CCXXXVI"):
+        with st.expander("Section 3.10.4  Section CCXXXVII"):
             text1 = """ """
             create_image_text_layout(
                 "attached_assets/chapter3/3.10.4.jpg",
@@ -29238,7 +30268,7 @@ lekin akhir me wahi शक्ति protection aur hope ka source ban jaati hai.
         # --------------------------------------------------
         # Section 3.10.5
         # --------------------------------------------------
-        with st.expander("Section 3.10.5  Section CCXXXVII"):
+        with st.expander("Section 3.10.5  Section CCXXXVIII"):
             text1 = """ """
             create_image_text_layout(
                 "attached_assets/chapter3/3.10.5.jpg",
@@ -29256,7 +30286,7 @@ lekin akhir me wahi शक्ति protection aur hope ka source ban jaati hai.
         # --------------------------------------------------
         # Section 3.10.6
         # --------------------------------------------------
-        with st.expander("Section 3.10.6  Section CCXXXVIII"):
+        with st.expander("Section 3.10.6  Section CCXXXIX"):
             text1 = """ """
             create_image_text_layout(
                 "attached_assets/chapter3/3.10.6.jpg",
@@ -29274,7 +30304,7 @@ lekin akhir me wahi शक्ति protection aur hope ka source ban jaati hai.
         # --------------------------------------------------
         # Section 3.10.7
         # --------------------------------------------------
-        with st.expander("Section 3.10.7  Section CCXXXIX"):
+        with st.expander("Section 3.10.7  Section CCXL"):
             text1 = """ """
             create_image_text_layout(
                 "attached_assets/chapter3/3.10.7.jpg",
@@ -29292,7 +30322,7 @@ lekin akhir me wahi शक्ति protection aur hope ka source ban jaati hai.
         # --------------------------------------------------
         # Section 3.10.8
         # --------------------------------------------------
-        with st.expander("Section 3.10.8  Section CCXL"):
+        with st.expander("Section 3.10.8  Section CCXLI"):
             text1 = """ """
             create_image_text_layout(
                 "attached_assets/chapter3/3.10.8.jpg",
@@ -29310,7 +30340,7 @@ lekin akhir me wahi शक्ति protection aur hope ka source ban jaati hai.
         # --------------------------------------------------
         # Section 3.10.9
         # --------------------------------------------------
-        with st.expander("Section 3.10.9  Section CCXLI"):
+        with st.expander("Section 3.10.9  Section CCXLII"):
             text1 = """ """
             create_image_text_layout(
                 "attached_assets/chapter3/3.10.9.jpg",
@@ -29328,7 +30358,7 @@ lekin akhir me wahi शक्ति protection aur hope ka source ban jaati hai.
         # --------------------------------------------------
         # Section 3.10.10
         # --------------------------------------------------
-        with st.expander("Section 3.10.10  Section CCXLII"):
+        with st.expander("Section 3.10.10  Section CCXLIII"):
             text1 = """ """
             create_image_text_layout(
                 "attached_assets/chapter3/3.10.10.jpg",
@@ -29346,7 +30376,7 @@ lekin akhir me wahi शक्ति protection aur hope ka source ban jaati hai.
         # --------------------------------------------------
         # Section 3.10.11
         # --------------------------------------------------
-        with st.expander("Section 3.10.11  Section CCXLIII"):
+        with st.expander("Section 3.10.11  Section CCXLIV"):
             text1 = """ """
             create_image_text_layout(
                 "attached_assets/chapter3/3.10.11.jpg",
@@ -29364,7 +30394,7 @@ lekin akhir me wahi शक्ति protection aur hope ka source ban jaati hai.
         # --------------------------------------------------
         # Section 3.10.12
         # --------------------------------------------------
-        with st.expander("Section 3.10.12  Section CCXLIV"):
+        with st.expander("Section 3.10.12  Section CCXLV"):
             text1 = """ """
             create_image_text_layout(
                 "attached_assets/chapter3/3.10.12.jpg",
@@ -29382,7 +30412,7 @@ lekin akhir me wahi शक्ति protection aur hope ka source ban jaati hai.
         # --------------------------------------------------
         # Section 3.10.13
         # --------------------------------------------------
-        with st.expander("Section 3.10.13  Section CCXLV"):
+        with st.expander("Section 3.10.13  Section CCXLVI"):
             text1 = """ """
             create_image_text_layout(
                 "attached_assets/chapter3/3.10.13.jpg",
@@ -29400,7 +30430,7 @@ lekin akhir me wahi शक्ति protection aur hope ka source ban jaati hai.
         # --------------------------------------------------
         # Section 3.10.14
         # --------------------------------------------------
-        with st.expander("Section 3.10.14  Section CCXLVI"):
+        with st.expander("Section 3.10.14  Section CCXLVII"):
             text1 = """ """
             create_image_text_layout(
                 "attached_assets/chapter3/3.10.14.jpg",
@@ -29418,7 +30448,7 @@ lekin akhir me wahi शक्ति protection aur hope ka source ban jaati hai.
         # --------------------------------------------------
         # Section 3.10.15
         # --------------------------------------------------
-        with st.expander("Section 3.10.15  Section CCXLVII"):
+        with st.expander("Section 3.10.15  Section CCXLVIII"):
             text1 = """ """
             create_image_text_layout(
                 "attached_assets/chapter3/3.10.15.jpg",
@@ -29436,7 +30466,7 @@ lekin akhir me wahi शक्ति protection aur hope ka source ban jaati hai.
         # --------------------------------------------------
         # Section 3.10.16
         # --------------------------------------------------
-        with st.expander("Section 3.10.16  Section CCXLVIII"):
+        with st.expander("Section 3.10.16  Section CCXLIX"):
             text1 = """ """
             create_image_text_layout(
                 "attached_assets/chapter3/3.10.16.jpg",
@@ -29454,7 +30484,7 @@ lekin akhir me wahi शक्ति protection aur hope ka source ban jaati hai.
         # --------------------------------------------------
         # Section 3.10.17
         # --------------------------------------------------
-        with st.expander("Section 3.10.17  Section CCXLIX"):
+        with st.expander("Section 3.10.17  Section CCL"):
             text1 = """ """
             create_image_text_layout(
                 "attached_assets/chapter3/3.10.17.jpg",
@@ -29472,7 +30502,7 @@ lekin akhir me wahi शक्ति protection aur hope ka source ban jaati hai.
         # --------------------------------------------------
         # Section 3.10.18
         # --------------------------------------------------
-        with st.expander("Section 3.10.18  Section CCL"):
+        with st.expander("Section 3.10.18  Section CCLI"):
             text1 = """ """
             create_image_text_layout(
                 "attached_assets/chapter3/3.10.18.jpg",
@@ -29490,7 +30520,7 @@ lekin akhir me wahi शक्ति protection aur hope ka source ban jaati hai.
         # --------------------------------------------------
         # Section 3.10.19
         # --------------------------------------------------
-        with st.expander("Section 3.10.19  Section CCLI"):
+        with st.expander("Section 3.10.19  Section CCLII"):
             text1 = """ """
             create_image_text_layout(
                 "attached_assets/chapter3/3.10.19.jpg",
@@ -29508,7 +30538,7 @@ lekin akhir me wahi शक्ति protection aur hope ka source ban jaati hai.
         # --------------------------------------------------
         # Section 3.10.20
         # --------------------------------------------------
-        with st.expander("Section 3.10.20  Section CCLII"):
+        with st.expander("Section 3.10.20  Section CCLIII"):
             text1 = """ """
             create_image_text_layout(
                 "attached_assets/chapter3/3.10.20.jpg",
@@ -29526,7 +30556,7 @@ lekin akhir me wahi शक्ति protection aur hope ka source ban jaati hai.
         # --------------------------------------------------
         # Section 3.10.21
         # --------------------------------------------------
-        with st.expander("Section 3.10.21  Section CCLIII"):
+        with st.expander("Section 3.10.21  Section CCLIV"):
             text1 = """ """
             create_image_text_layout(
                 "attached_assets/chapter3/3.10.21.jpg",
@@ -29544,7 +30574,7 @@ lekin akhir me wahi शक्ति protection aur hope ka source ban jaati hai.
         # --------------------------------------------------
         # Section 3.10.22
         # --------------------------------------------------
-        with st.expander("Section 3.10.22  Section CCLIV"):
+        with st.expander("Section 3.10.22  Section CCLV"):
             text1 = """ """
             create_image_text_layout(
                 "attached_assets/chapter3/3.10.22.jpg",
@@ -29562,7 +30592,7 @@ lekin akhir me wahi शक्ति protection aur hope ka source ban jaati hai.
         # --------------------------------------------------
         # Section 3.10.23
         # --------------------------------------------------
-        with st.expander("Section 3.10.23  Section CCLV"):
+        with st.expander("Section 3.10.23  Section CCLVI"):
             text1 = """ """
             create_image_text_layout(
                 "attached_assets/chapter3/3.10.23.jpg",
@@ -29580,7 +30610,7 @@ lekin akhir me wahi शक्ति protection aur hope ka source ban jaati hai.
         # --------------------------------------------------
         # Section 3.10.24
         # --------------------------------------------------
-        with st.expander("Section 3.10.24  Section CCLVI"):
+        with st.expander("Section 3.10.24  Section CCLVII"):
             text1 = """ """
             create_image_text_layout(
                 "attached_assets/chapter3/3.10.24.jpg",
@@ -29598,7 +30628,7 @@ lekin akhir me wahi शक्ति protection aur hope ka source ban jaati hai.
         # --------------------------------------------------
         # Section 3.10.25
         # --------------------------------------------------
-        with st.expander("Section 3.10.25  Section CCLVII"):
+        with st.expander("Section 3.10.25  Section CCLVIII"):
             text1 = """ """
             create_image_text_layout(
                 "attached_assets/chapter3/3.10.25.jpg",
@@ -29616,7 +30646,7 @@ lekin akhir me wahi शक्ति protection aur hope ka source ban jaati hai.
         # --------------------------------------------------
         # Section 3.10.26
         # --------------------------------------------------
-        with st.expander("Section 3.10.26  Section CCLVIII"):
+        with st.expander("Section 3.10.26  Section CCLIX"):
             text1 = """ """
             create_image_text_layout(
                 "attached_assets/chapter3/3.10.26.jpg",
@@ -29634,7 +30664,7 @@ lekin akhir me wahi शक्ति protection aur hope ka source ban jaati hai.
         # --------------------------------------------------
         # Section 3.10.27
         # --------------------------------------------------
-        with st.expander("Section 3.10.27  Section CCLIX"):
+        with st.expander("Section 3.10.27  Section CCLX"):
             text1 = """ """
             create_image_text_layout(
                 "attached_assets/chapter3/3.10.27.jpg",
@@ -29654,7 +30684,7 @@ lekin akhir me wahi शक्ति protection aur hope ka source ban jaati hai.
         # --------------------------------------------------
         # Section 3.11.1
         # --------------------------------------------------
-        with st.expander("Section 3.11.1  Section CCLX"):
+        with st.expander("Section 3.11.1  Section CCLXI"):
             text1 = """ """
             create_image_text_layout(
                 "attached_assets/chapter3/3.11.1.jpg",
@@ -29672,7 +30702,7 @@ lekin akhir me wahi शक्ति protection aur hope ka source ban jaati hai.
         # --------------------------------------------------
         # Section 3.11.2
         # --------------------------------------------------
-        with st.expander("Section 3.11.2  Section CCLXI"):
+        with st.expander("Section 3.11.2  Section CCLXII"):
             text1 = """ """
             create_image_text_layout(
                 "attached_assets/chapter3/3.11.2.jpg",
@@ -29690,7 +30720,7 @@ lekin akhir me wahi शक्ति protection aur hope ka source ban jaati hai.
         # --------------------------------------------------
         # Section 3.11.3
         # --------------------------------------------------
-        with st.expander("Section 3.11.3  Section CCLXII"):
+        with st.expander("Section 3.11.3  Section CCLXIII"):
             text1 = """ """
             create_image_text_layout(
                 "attached_assets/chapter3/3.11.3.jpg",
@@ -29708,7 +30738,7 @@ lekin akhir me wahi शक्ति protection aur hope ka source ban jaati hai.
         # --------------------------------------------------
         # Section 3.11.4
         # --------------------------------------------------
-        with st.expander("Section 3.11.4  Section CCLXIII"):
+        with st.expander("Section 3.11.4  Section CCLXIV"):
             text1 = """ """
             create_image_text_layout(
                 "attached_assets/chapter3/3.11.4.jpg",
@@ -29726,7 +30756,7 @@ lekin akhir me wahi शक्ति protection aur hope ka source ban jaati hai.
         # --------------------------------------------------
         # Section 3.11.5
         # --------------------------------------------------
-        with st.expander("Section 3.11.5  Section CCLXIV"):
+        with st.expander("Section 3.11.5  Section CCLXV"):
             text1 = """ """
             create_image_text_layout(
                 "attached_assets/chapter3/3.11.5.jpg",
@@ -29744,7 +30774,7 @@ lekin akhir me wahi शक्ति protection aur hope ka source ban jaati hai.
         # --------------------------------------------------
         # Section 3.11.6
         # --------------------------------------------------
-        with st.expander("Section 3.11.6  Section CCLXV"):
+        with st.expander("Section 3.11.6  Section CCLXVI"):
             text1 = """ """
             create_image_text_layout(
                 "attached_assets/chapter3/3.11.6.jpg",
@@ -29762,7 +30792,7 @@ lekin akhir me wahi शक्ति protection aur hope ka source ban jaati hai.
         # --------------------------------------------------
         # Section 3.11.7
         # --------------------------------------------------
-        with st.expander("Section 3.11.7  Section CCLXVI"):
+        with st.expander("Section 3.11.7  Section CCLXVII"):
             text1 = """ """
             create_image_text_layout(
                 "attached_assets/chapter3/3.11.7.jpg",
@@ -29780,7 +30810,7 @@ lekin akhir me wahi शक्ति protection aur hope ka source ban jaati hai.
         # --------------------------------------------------
         # Section 3.11.8
         # --------------------------------------------------
-        with st.expander("Section 3.11.8  Section CCLXVII"):
+        with st.expander("Section 3.11.8  Section CCLXVIII"):
             text1 = """ """
             create_image_text_layout(
                 "attached_assets/chapter3/3.11.8.jpg",
@@ -29798,7 +30828,7 @@ lekin akhir me wahi शक्ति protection aur hope ka source ban jaati hai.
         # --------------------------------------------------
         # Section 3.11.9
         # --------------------------------------------------
-        with st.expander("Section 3.11.9  Section CCLXVIII"):
+        with st.expander("Section 3.11.9  Section CCLXIX"):
             text1 = """ """
             create_image_text_layout(
                 "attached_assets/chapter3/3.11.9.jpg",
@@ -29816,7 +30846,7 @@ lekin akhir me wahi शक्ति protection aur hope ka source ban jaati hai.
         # --------------------------------------------------
         # Section 3.11.10
         # --------------------------------------------------
-        with st.expander("Section 3.11.10  Section CCLXIX"):
+        with st.expander("Section 3.11.10  Section CCLXX"):
             text1 = """ """
             create_image_text_layout(
                 "attached_assets/chapter3/3.11.10.jpg",
@@ -29834,7 +30864,7 @@ lekin akhir me wahi शक्ति protection aur hope ka source ban jaati hai.
         # --------------------------------------------------
         # Section 3.11.11
         # --------------------------------------------------
-        with st.expander("Section 3.11.11  Section CCLXX"):
+        with st.expander("Section 3.11.11  Section CCLXXI"):
             text1 = """ """
             create_image_text_layout(
                 "attached_assets/chapter3/3.11.11.jpg",
@@ -29852,7 +30882,7 @@ lekin akhir me wahi शक्ति protection aur hope ka source ban jaati hai.
         # --------------------------------------------------
         # Section 3.11.12
         # --------------------------------------------------
-        with st.expander("Section 3.11.12  Section CCLXXI"):
+        with st.expander("Section 3.11.12  Section CCLXXII"):
             text1 = """ """
             create_image_text_layout(
                 "attached_assets/chapter3/3.11.12.jpg",
@@ -29870,7 +30900,7 @@ lekin akhir me wahi शक्ति protection aur hope ka source ban jaati hai.
         # --------------------------------------------------
         # Section 3.11.13
         # --------------------------------------------------
-        with st.expander("Section 3.11.13  Section CCLXXII"):
+        with st.expander("Section 3.11.13  Section CCLXXIII"):
             text1 = """ """
             create_image_text_layout(
                 "attached_assets/chapter3/3.11.13.jpg",
@@ -29888,7 +30918,7 @@ lekin akhir me wahi शक्ति protection aur hope ka source ban jaati hai.
         # --------------------------------------------------
         # Section 3.11.14
         # --------------------------------------------------
-        with st.expander("Section 3.11.14  Section CCLXXIII"):
+        with st.expander("Section 3.11.14  Section CCLXXIV"):
             text1 = """ """
             create_image_text_layout(
                 "attached_assets/chapter3/3.11.14.jpg",
@@ -29906,7 +30936,7 @@ lekin akhir me wahi शक्ति protection aur hope ka source ban jaati hai.
         # --------------------------------------------------
         # Section 3.11.15
         # --------------------------------------------------
-        with st.expander("Section 3.11.15  Section CCLXXIV"):
+        with st.expander("Section 3.11.15  Section CCLXXV"):
             text1 = """ """
             create_image_text_layout(
                 "attached_assets/chapter3/3.11.15.jpg",
@@ -29924,7 +30954,7 @@ lekin akhir me wahi शक्ति protection aur hope ka source ban jaati hai.
         # --------------------------------------------------
         # Section 3.11.16
         # --------------------------------------------------
-        with st.expander("Section 3.11.16  Section CCLXXV"):
+        with st.expander("Section 3.11.16  Section CCLXXVI"):
             text1 = """ """
             create_image_text_layout(
                 "attached_assets/chapter3/3.11.16.jpg",
@@ -29942,7 +30972,7 @@ lekin akhir me wahi शक्ति protection aur hope ka source ban jaati hai.
         # --------------------------------------------------
         # Section 3.11.17
         # --------------------------------------------------
-        with st.expander("Section 3.11.17  Section CCLXXVI"):
+        with st.expander("Section 3.11.17  Section CCLXXVII"):
             text1 = """ """
             create_image_text_layout(
                 "attached_assets/chapter3/3.11.17.jpg",
@@ -29960,7 +30990,7 @@ lekin akhir me wahi शक्ति protection aur hope ka source ban jaati hai.
         # --------------------------------------------------
         # Section 3.11.18
         # --------------------------------------------------
-        with st.expander("Section 3.11.18  Section CCLXXVII"):
+        with st.expander("Section 3.11.18  Section CCLXXVIII"):
             text1 = """ """
             create_image_text_layout(
                 "attached_assets/chapter3/3.11.18.jpg",
@@ -29978,7 +31008,7 @@ lekin akhir me wahi शक्ति protection aur hope ka source ban jaati hai.
         # --------------------------------------------------
         # Section 3.11.19
         # --------------------------------------------------
-        with st.expander("Section 3.11.19  Section CCLXXVIII"):
+        with st.expander("Section 3.11.19  Section CCLXXIX"):
             text1 = """ """
             create_image_text_layout(
                 "attached_assets/chapter3/3.11.19.jpg",
@@ -29996,7 +31026,7 @@ lekin akhir me wahi शक्ति protection aur hope ka source ban jaati hai.
         # --------------------------------------------------
         # Section 3.11.20
         # --------------------------------------------------
-        with st.expander("Section 3.11.20  Section CCLXXIX"):
+        with st.expander("Section 3.11.20  Section CCLXXX"):
             text1 = """ """
             create_image_text_layout(
                 "attached_assets/chapter3/3.11.20.jpg",
@@ -30014,7 +31044,7 @@ lekin akhir me wahi शक्ति protection aur hope ka source ban jaati hai.
         # --------------------------------------------------
         # Section 3.11.21
         # --------------------------------------------------
-        with st.expander("Section 3.11.21  Section CCLXXX"):
+        with st.expander("Section 3.11.21  Section CCLXXXI"):
             text1 = """ """
             create_image_text_layout(
                 "attached_assets/chapter3/3.11.21.jpg",
@@ -30032,7 +31062,7 @@ lekin akhir me wahi शक्ति protection aur hope ka source ban jaati hai.
         # --------------------------------------------------
         # Section 3.11.22
         # --------------------------------------------------
-        with st.expander("Section 3.11.22  Section CCLXXXI"):
+        with st.expander("Section 3.11.22  Section CCLXXXII"):
             text1 = """ """
             create_image_text_layout(
                 "attached_assets/chapter3/3.11.22.jpg",
@@ -30050,7 +31080,7 @@ lekin akhir me wahi शक्ति protection aur hope ka source ban jaati hai.
         # --------------------------------------------------
         # Section 3.11.23
         # --------------------------------------------------
-        with st.expander("Section 3.11.23  Section CCLXXXII"):
+        with st.expander("Section 3.11.23  Section CCLXXXIII"):
             text1 = """ """
             create_image_text_layout(
                 "attached_assets/chapter3/3.11.23.jpg",
@@ -30068,7 +31098,7 @@ lekin akhir me wahi शक्ति protection aur hope ka source ban jaati hai.
         # --------------------------------------------------
         # Section 3.11.24
         # --------------------------------------------------
-        with st.expander("Section 3.11.24  Section CCLXXXIII"):
+        with st.expander("Section 3.11.24  Section CCLXXXIV"):
             text1 = """ """
             create_image_text_layout(
                 "attached_assets/chapter3/3.11.24.jpg",
@@ -30086,7 +31116,7 @@ lekin akhir me wahi शक्ति protection aur hope ka source ban jaati hai.
         # --------------------------------------------------
         # Section 3.11.25
         # --------------------------------------------------
-        with st.expander("Section 3.11.25  Section CCLXXXIV"):
+        with st.expander("Section 3.11.25  Section CCLXXXV"):
             text1 = """ """
             create_image_text_layout(
                 "attached_assets/chapter3/3.11.25.jpg",
@@ -30104,7 +31134,7 @@ lekin akhir me wahi शक्ति protection aur hope ka source ban jaati hai.
         # --------------------------------------------------
         # Section 3.11.26
         # --------------------------------------------------
-        with st.expander("Section 3.11.26  Section CCLXXXV"):
+        with st.expander("Section 3.11.26  Section CCLXXXVI"):
             text1 = """ """
             create_image_text_layout(
                 "attached_assets/chapter3/3.11.26.jpg",
@@ -30122,7 +31152,7 @@ lekin akhir me wahi शक्ति protection aur hope ka source ban jaati hai.
         # --------------------------------------------------
         # Section 3.11.27
         # --------------------------------------------------
-        with st.expander("Section 3.11.27  Section CCLXXXVI"):
+        with st.expander("Section 3.11.27  Section CCLXXXVII"):
             text1 = """ """
             create_image_text_layout(
                 "attached_assets/chapter3/3.11.27.jpg",
@@ -30140,7 +31170,7 @@ lekin akhir me wahi शक्ति protection aur hope ka source ban jaati hai.
         # --------------------------------------------------
         # Section 3.11.28
         # --------------------------------------------------
-        with st.expander("Section 3.11.28  Section CCLXXXVII"):
+        with st.expander("Section 3.11.28  Section CCLXXXVIII"):
             text1 = """ """
             create_image_text_layout(
                 "attached_assets/chapter3/3.11.28.jpg",
@@ -30158,7 +31188,7 @@ lekin akhir me wahi शक्ति protection aur hope ka source ban jaati hai.
         # --------------------------------------------------
         # Section 3.11.29
         # --------------------------------------------------
-        with st.expander("Section 3.11.29  Section CCLXXXVIII"):
+        with st.expander("Section 3.11.29  Section CCLXXXIX"):
             text1 = """ """
             create_image_text_layout(
                 "attached_assets/chapter3/3.11.29.jpg",
@@ -30176,7 +31206,7 @@ lekin akhir me wahi शक्ति protection aur hope ka source ban jaati hai.
         # --------------------------------------------------
         # Section 3.11.30
         # --------------------------------------------------
-        with st.expander("Section 3.11.30  Section CCLXXXIX"):
+        with st.expander("Section 3.11.30  Section CCXC"):
             text1 = """ """
             create_image_text_layout(
                 "attached_assets/chapter3/3.11.30.jpg",
@@ -30196,7 +31226,7 @@ lekin akhir me wahi शक्ति protection aur hope ka source ban jaati hai.
         # --------------------------------------------------
         # Section 3.12.1
         # --------------------------------------------------
-        with st.expander("Section 3.12.1  Section CCLXL"):
+        with st.expander("Section 3.12.1  Section CCXCI"):
             text1 = """ """
             create_image_text_layout(
                 "attached_assets/chapter3/3.12.1.jpg",
@@ -30214,7 +31244,7 @@ lekin akhir me wahi शक्ति protection aur hope ka source ban jaati hai.
         # --------------------------------------------------
         # Section 3.12.2
         # --------------------------------------------------
-        with st.expander("Section 3.12.2  Section CCLXLI"):
+        with st.expander("Section 3.12.2  Section CCXCII"):
             text1 = """ """
             create_image_text_layout(
                 "attached_assets/chapter3/3.12.2.jpg",
@@ -30232,7 +31262,7 @@ lekin akhir me wahi शक्ति protection aur hope ka source ban jaati hai.
         # --------------------------------------------------
         # Section 3.12.3
         # --------------------------------------------------
-        with st.expander("Section 3.12.3  Section CCLXLII"):
+        with st.expander("Section 3.12.3  Section CCXCIII"):
             text1 = """ """
             create_image_text_layout(
                 "attached_assets/chapter3/3.12.3.jpg",
@@ -30250,7 +31280,7 @@ lekin akhir me wahi शक्ति protection aur hope ka source ban jaati hai.
         # --------------------------------------------------
         # Section 3.12.4
         # --------------------------------------------------
-        with st.expander("Section 3.12.4  Section CCLXLIII"):
+        with st.expander("Section 3.12.4  Section CCXCIV"):
             text1 = """ """
             create_image_text_layout(
                 "attached_assets/chapter3/3.12.4.jpg",
@@ -30268,7 +31298,7 @@ lekin akhir me wahi शक्ति protection aur hope ka source ban jaati hai.
         # --------------------------------------------------
         # Section 3.12.5
         # --------------------------------------------------
-        with st.expander("Section 3.12.5  Section CCLXLIV"):
+        with st.expander("Section 3.12.5  Section CCXCV"):
             text1 = """ """
             create_image_text_layout(
                 "attached_assets/chapter3/3.12.5.jpg",
@@ -30286,7 +31316,7 @@ lekin akhir me wahi शक्ति protection aur hope ka source ban jaati hai.
         # --------------------------------------------------
         # Section 3.12.6
         # --------------------------------------------------
-        with st.expander("Section 3.12.6  Section CCLXLV"):
+        with st.expander("Section 3.12.6  Section CCXCVI"):
             text1 = """ """
             create_image_text_layout(
                 "attached_assets/chapter3/3.12.6.jpg",
@@ -30304,7 +31334,7 @@ lekin akhir me wahi शक्ति protection aur hope ka source ban jaati hai.
         # --------------------------------------------------
         # Section 3.12.7
         # --------------------------------------------------
-        with st.expander("Section 3.12.7  Section CCLXLVI"):
+        with st.expander("Section 3.12.7  Section CCXCVII"):
             text1 = """ """
             create_image_text_layout(
                 "attached_assets/chapter3/3.12.7.jpg",
@@ -30322,7 +31352,7 @@ lekin akhir me wahi शक्ति protection aur hope ka source ban jaati hai.
         # --------------------------------------------------
         # Section 3.12.8
         # --------------------------------------------------
-        with st.expander("Section 3.12.8  Section CCLXLVIII"):
+        with st.expander("Section 3.12.8  Section CCXCIX"):
             text1 = """ """
             create_image_text_layout(
                 "attached_assets/chapter3/3.12.8.jpg",
@@ -30340,7 +31370,7 @@ lekin akhir me wahi शक्ति protection aur hope ka source ban jaati hai.
         # --------------------------------------------------
         # Section 3.12.9
         # --------------------------------------------------
-        with st.expander("Section 3.12.9  Section CCLXLIX"):
+        with st.expander("Section 3.12.9  Section CCC"):
             text1 = """ """
             create_image_text_layout(
                 "attached_assets/chapter3/3.12.9.jpg",
@@ -30358,7 +31388,7 @@ lekin akhir me wahi शक्ति protection aur hope ka source ban jaati hai.
         # --------------------------------------------------
         # Section 3.12.10
         # --------------------------------------------------
-        with st.expander("Section 3.12.10  Section CCC"):
+        with st.expander("Section 3.12.10  Section CCCI"):
             text1 = """ """
             create_image_text_layout(
                 "attached_assets/chapter3/3.12.10.jpg",
@@ -30376,7 +31406,7 @@ lekin akhir me wahi शक्ति protection aur hope ka source ban jaati hai.
         # --------------------------------------------------
         # Section 3.12.11
         # --------------------------------------------------
-        with st.expander("Section 3.12.11  Section CCCI"):
+        with st.expander("Section 3.12.11  Section CCCII"):
             text1 = """ """
             create_image_text_layout(
                 "attached_assets/chapter3/3.12.11.jpg",
@@ -30394,7 +31424,7 @@ lekin akhir me wahi शक्ति protection aur hope ka source ban jaati hai.
         # --------------------------------------------------
         # Section 3.12.12
         # --------------------------------------------------
-        with st.expander("Section 3.12.12  Section CCCII"):
+        with st.expander("Section 3.12.12  Section CCCIII"):
             text1 = """ """
             create_image_text_layout(
                 "attached_assets/chapter3/3.12.12.jpg",
@@ -30412,7 +31442,7 @@ lekin akhir me wahi शक्ति protection aur hope ka source ban jaati hai.
         # --------------------------------------------------
         # Section 3.12.13
         # --------------------------------------------------
-        with st.expander("Section 3.12.13  Section CCCIII"):
+        with st.expander("Section 3.12.13  Section CCCIV"):
             text1 = """ """
             create_image_text_layout(
                 "attached_assets/chapter3/3.12.13.jpg",
@@ -30430,7 +31460,7 @@ lekin akhir me wahi शक्ति protection aur hope ka source ban jaati hai.
         # --------------------------------------------------
         # Section 3.12.14
         # --------------------------------------------------
-        with st.expander("Section 3.12.14  Section CCCIV"):
+        with st.expander("Section 3.12.14  Section CCCV"):
             text1 = """ """
             create_image_text_layout(
                 "attached_assets/chapter3/3.12.14.jpg",
@@ -30448,7 +31478,7 @@ lekin akhir me wahi शक्ति protection aur hope ka source ban jaati hai.
         # --------------------------------------------------
         # Section 3.12.15
         # --------------------------------------------------
-        with st.expander("Section 3.12.15  Section CCCV"):
+        with st.expander("Section 3.12.15  Section CCCVI"):
             text1 = """ """
             create_image_text_layout(
                 "attached_assets/chapter3/3.12.15.jpg",
@@ -30466,7 +31496,7 @@ lekin akhir me wahi शक्ति protection aur hope ka source ban jaati hai.
         # --------------------------------------------------
         # Section 3.12.16
         # --------------------------------------------------
-        with st.expander("Section 3.12.16  Section CCCVI"):
+        with st.expander("Section 3.12.16  Section CCCVII"):
             text1 = """ """
             create_image_text_layout(
                 "attached_assets/chapter3/3.12.16.jpg",
@@ -30484,7 +31514,7 @@ lekin akhir me wahi शक्ति protection aur hope ka source ban jaati hai.
         # --------------------------------------------------
         # Section 3.12.17
         # --------------------------------------------------
-        with st.expander("Section 3.12.17  Section CCCVII"):
+        with st.expander("Section 3.12.17  Section CCCVIII"):
             text1 = """ """
             create_image_text_layout(
                 "attached_assets/chapter3/3.12.17.jpg",
@@ -30502,7 +31532,7 @@ lekin akhir me wahi शक्ति protection aur hope ka source ban jaati hai.
         # --------------------------------------------------
         # Section 3.12.18
         # --------------------------------------------------
-        with st.expander("Section 3.12.18  Section CCCVIII"):
+        with st.expander("Section 3.12.18  Section CCCIX"):
             text1 = """ """
             create_image_text_layout(
                 "attached_assets/chapter3/3.12.18.jpg",
@@ -30522,7 +31552,7 @@ lekin akhir me wahi शक्ति protection aur hope ka source ban jaati hai.
         # --------------------------------------------------
         # Section 3.13.1
         # --------------------------------------------------
-        with st.expander("Section 3.13.1  Section CCCIX"):
+        with st.expander("Section 3.13.1  Section CCCX"):
             text1 = """ """
             create_image_text_layout(
                 "attached_assets/chapter3/3.13.1.jpg",
@@ -30540,7 +31570,7 @@ lekin akhir me wahi शक्ति protection aur hope ka source ban jaati hai.
         # --------------------------------------------------
         # Section 3.13.2
         # --------------------------------------------------
-        with st.expander("Section 3.13.2  Section CCCX"):
+        with st.expander("Section 3.13.2  Section CCCXI"):
             text1 = """ """
             create_image_text_layout(
                 "attached_assets/chapter3/3.13.2.jpg",
@@ -30558,7 +31588,7 @@ lekin akhir me wahi शक्ति protection aur hope ka source ban jaati hai.
         # --------------------------------------------------
         # Section 3.13.3
         # --------------------------------------------------
-        with st.expander("Section 3.13.3  Section CCCXI"):
+        with st.expander("Section 3.13.3  Section CCCXII"):
             text1 = """ """
             create_image_text_layout(
                 "attached_assets/chapter3/3.13.3.jpg",
@@ -30576,7 +31606,7 @@ lekin akhir me wahi शक्ति protection aur hope ka source ban jaati hai.
         # --------------------------------------------------
         # Section 3.13.4
         # --------------------------------------------------
-        with st.expander("Section 3.13.4  Section CCCXII"):
+        with st.expander("Section 3.13.4  Section CCCXIII"):
             text1 = """ """
             create_image_text_layout(
                 "attached_assets/chapter3/3.13.4.jpg",
@@ -30594,7 +31624,7 @@ lekin akhir me wahi शक्ति protection aur hope ka source ban jaati hai.
         # --------------------------------------------------
         # Section 3.13.5
         # --------------------------------------------------
-        with st.expander("Section 3.13.5  Section CCCXIII"):
+        with st.expander("Section 3.13.5  Section CCCXIV"):
             text1 = """ """
             create_image_text_layout(
                 "attached_assets/chapter3/3.13.5.jpg",
