@@ -30141,7 +30141,20 @@ woh protection, humility, devotion aur righteousness ka combination hoti hai."""
         # Section 3.9.1
         # --------------------------------------------------
         with st.expander("Section 3.9.1  Section CCXXXI"):
-            text1 = """ """
+            text1 = """ 
+            Forest exile ke time 🌲
+
+Ek din:
+
+🌸 Draupadi
+
+aur
+
+💎 Satyabhama
+
+(Shri Krishna ki favourite wife)
+
+finally peacefully baithkar baat kar rahi thi 😊"""
             create_image_text_layout(
                 "attached_assets/chapter3/3.9.1.jpg",
                 text1,
@@ -30149,7 +30162,255 @@ woh protection, humility, devotion aur righteousness ka combination hoti hai."""
                 image_position="left"
             )
 
-            text2 = """ """
+            text2 = """ 
+            Dono long time baad mili thi ❤️
+
+Toh woh:
+
+Kuru family
+Yadava family
+old memories
+
+sab discuss karte hue laugh kar rahi thi 😄
+
+💎 Satyabhama’s Curious Question
+
+Thodi der baad Satyabhama secretly Draupadi ke paas aayi 😮
+
+Aur playful-but-serious tone me poocha:
+
+👉 “Tum Pandavas ko itna devoted kaise rakhti ho?” 😳
+
+👉 “Woh tumhari har baat maante hain…”
+
+👉 “Kabhi tum par angry bhi nahi hote!”
+
+Usne teasing way me aur bhi poocha 😅
+
+👉 “Kya tum koi magic use karti ho?”
+
+👉 “Special mantras?”
+👉 “Drugs?”
+👉 “Charms?”
+👉 “Beauty tricks?”
+👉 “Secret rituals?”
+
+Aur finally softly boli ❤️
+
+👉 “Mujhe bhi batao…”
+
+👉 “Main Krishna ko hamesha apne devotion me kaise rakhu?”
+
+🌸 Draupadi Gets Serious
+
+Draupadi slightly shocked ho gayi 😮
+
+Aur calmly boli:
+
+👉 “Yeh sab wicked women ke methods hote hain.”
+
+👉 “Tum jaisi intelligent woman ko aise questions suit nahi karte.”
+
+⚠️ Draupadi Warns About Manipulation
+
+Usne explain kiya 😔
+
+👉 Agar husband ko lage ki wife spells ya tricks use kar rahi hai…
+
+toh woh usse snake ki tarah fear karne lagta hai 🐍
+
+Aur fear se:
+
+trust break hota hai
+peace destroy hoti hai
+happiness disappear ho jaati hai 😔
+
+Draupadi ne even kaha 😨
+
+ki kuch wicked women poisons aur medicines use karke husbands ko harm bhi karti hain.
+
+🌸 “A Wife Should Never Harm Her Husband”
+
+Draupadi firmly boli:
+
+👉 “True love manipulation se nahi aata.”
+
+🌟 Draupadi Explains Her Secret
+
+Phir Draupadi ne honestly bataya ❤️
+
+👉 “Main vanity aur ego side me rakhti hoon.”
+
+👉 “Desire aur anger control karti hoon.”
+
+👉 “Aur devotion se Pandavas ki service karti hoon.”
+
+❤️ No Jealousy
+
+Woh boli:
+
+👉 “Main jealousy avoid karti hoon.”
+
+👉 “Aur unki other wives ko bhi respect karti hoon.”
+
+🌸 Discipline and Respect
+
+Draupadi ne kaha:
+
+👉 “Main kabhi false ya harsh speech nahi bolti.”
+
+👉 “Improper behaviour avoid karti hoon.”
+
+👉 “Dusre handsome men me interest nahi leti.”
+
+Uske liye:
+
+⚔️ Pandavas hi sab kuch the
+🏠 Her Daily Routine
+
+Draupadi ne describe kiya 😮
+
+👉 “Main husband se pehle nahi khaati.”
+
+👉 “Unse pehle nahi soti.”
+
+👉 “Unke return karte hi unka welcome karti hoon.”
+
+Woh personally:
+
+water deti
+seat arrange karti
+food manage karti
+house clean rakhti ✨
+😌 Calm Nature
+
+Draupadi boli:
+
+👉 “Main unnecessarily loudly laugh nahi karti.”
+
+👉 “Gussa aur irritation avoid karti hoon.”
+
+👉 “Idleness se door rehti hoon.”
+
+Aur jab husbands away hote 😔
+
+toh woh flowers aur luxuries bhi avoid karti thi.
+
+🙏 Respect for Kunti
+
+Draupadi ne specially mention kiya ❤️
+
+👑 Kunti
+
+(Pandavas ki mother)
+
+Woh personally unki service karti thi 🌸
+
+Aur kabhi food ya clothes me khud ko unse superior nahi rakhti thi.
+
+🌟 “I Never Spoke Ill of My Mother-in-law”
+
+Draupadi proudly boli 😊
+
+👑 Managing Yudhishthira’s Massive Kingdom
+
+Draupadi ne bataya 😮
+
+ki Indraprastha me:
+
+thousands of Brahmanas daily fed hote the 🍚
+countless servants the
+huge treasury thi 💰
+horses 🐎
+elephants 🐘
+dancers 💃
+maids
+
+sab manage karna padta tha.
+
+Aur astonishingly 😳
+
+👉 Draupadi sabka naam aur duties jaanti thi.
+
+🌟 She Managed Everything
+
+Woh:
+
+income-expenditure 📜
+servants
+food distribution
+treasury
+
+sab personally supervise karti thi.
+
+Pandavas trust karte the ❤️
+
+Aur administration largely Draupadi handle karti thi 👑
+
+😔 Her Sacrifice
+
+Draupadi softly boli:
+
+👉 “Main sabka burden uthati thi…”
+
+👉 “Hunger-thirst ignore karke bhi family serve karti thi.”
+
+👉 “Main sabse pehle uthti…”
+
+👉 “Aur sabse last me soti.”
+
+✨ “This Is My Real Charm”
+
+Phir Draupadi smiled 😊
+
+Aur boli:
+
+👉 “Yahi mera secret hai.”
+
+👉 “Love, humility, discipline aur service.”
+
+👉 “Magic ya manipulation nahi.”
+
+💎 Satyabhama Feels Ashamed
+
+Satyabhama emotional ho gayi 😔❤️
+
+Usne Draupadi ko respectfully bow kiya 🙏
+
+Aur boli:
+
+👉 “Maine mazaak me poocha tha…”
+
+👉 “Please mujhe forgive karo.”
+
+Draupadi gently smiled 🌸
+
+Aur dono friends phir happily baat karne lagi 😊
+
+🌟 Deeper Meaning
+
+Yeh conversation sirf “wife duties” ke baare me nahi thi 😮
+
+Yeh trust, discipline, mutual respect aur emotional responsibility ki story thi.
+
+Draupadi ka message basically tha:
+
+👉 Real relationships fear ya manipulation se nahi chalte.
+
+👉 Woh sustain hote hain:
+
+trust 🤝
+respect ❤️
+self-control 🌸
+responsibility ✨
+
+se.
+
+Moral:
+
+True affection manipulation se nahi milta
+Respect aur discipline relationships ko strong banate hain
+Aur real influence character se aata hai, tricks se nahi."""
             create_image_text_layout(
                 text_content=text2,
                 layout="full"
@@ -30159,7 +30420,18 @@ woh protection, humility, devotion aur righteousness ka combination hoti hai."""
         # Section 3.9.2
         # --------------------------------------------------
         with st.expander("Section 3.9.2  Section CCXXXII"):
-            text1 = """ """
+            text1 = """ 
+            🌸 Draupadi Continues Her Advice
+
+Satyabhama quietly aur respectfully Draupadi ki baatein sun rahi thi ❤️
+
+Tab Draupadi ne usse aur deeper advice di ✨
+
+Draupadi boli 😊
+
+👉 “Main ab tumhe ek honest aur pure way bataungi…”
+
+👉 “Jisse husband ka heart naturally attract hota hai.”"""
             create_image_text_layout(
                 "attached_assets/chapter3/3.9.2.jpg",
                 text1,
@@ -30167,7 +30439,141 @@ woh protection, humility, devotion aur righteousness ka combination hoti hai."""
                 image_position="left"
             )
 
-            text2 = """ """
+            text2 = """ 
+            ❤️ Love Without Deceit
+
+Draupadi ne clearly kaha:
+
+👉 “True affection tricks se nahi milta.”
+
+👉 “Real bond sincerity se banta hai.”
+
+Usne explain kiya 🌸
+
+ki ancient ideals ke according:
+
+👑 Husband ko wife ka greatest support maana gaya
+
+Aur agar relationship me trust aur affection ho ❤️
+
+toh life me:
+
+happiness 😊
+children 👶
+comfort 🏡
+prosperity 💰
+respect ✨
+
+sab naturally aate hain.
+
+🌸 Small Acts of Care Matter
+
+Draupadi ne practical advice bhi di 😊
+
+👉 “Krishna ko love aur friendship se treat karo.”
+
+👉 “Unke liye beautiful seats arrange karo.”
+
+👉 “Flowers aur perfumes use karo.” 🌺✨
+
+👉 “Aur genuinely care show karo.”
+
+Usne kaha 😮
+
+👉 “Jab Krishna ghar aaye…”
+
+toh:
+
+unka warmly welcome karo ❤️
+respect dikhao 🙏
+personally unki comfort ka dhyan rakho 🌸
+✨ “Do Small Things Yourself”
+
+Draupadi softly smiled 😊
+
+Aur boli:
+
+👉 “Even agar servants available ho…”
+
+👉 “Kabhi-kabhi khud service karna affection show karta hai.”
+
+🤐 Trust and Privacy
+
+Draupadi ne important warning bhi di ⚠️
+
+👉 “Husband ki private baatein unnecessarily dusron ko mat batao.”
+
+Kyunki trust once break ho jaaye 😔
+
+toh relationship weak ho sakta hai.
+
+🌿 Choose Good Company
+
+Draupadi ne kaha:
+
+👉 “Wise aur virtuous women ki company choose karo.”
+
+Aur avoid karo:
+
+deceitful people 😠
+constantly angry log 😡
+addicts 🍷
+dishonest people 😔
+🌸 Calmness and Self-Control
+
+Usne advise diya 😊
+
+👉 “Public me dignity maintain karo.”
+
+👉 “Excitement aur carelessness avoid karo.”
+
+👉 “Self-control aur grace bahut important hai.” ✨
+
+💎 Beauty With Devotion
+
+Finally Draupadi ne lovingly conclude kiya ❤️
+
+👉 “Achhe clothes pehno.”
+👉 “Garlands aur ornaments use karo.” 🌺👑
+👉 “Perfumes lagao.” ✨
+
+Lekin sirf outer beauty nahi…
+
+👉 “Heart me bhi affection aur sincerity honi chahiye.” 🌸
+
+😊 Satyabhama Understands
+
+Satyabhama quietly smile karne lagi ❤️
+
+Ab usse samajh aa gaya tha 😮
+
+👉 Draupadi ka “secret” magic nahi tha.
+
+Woh tha:
+
+trust 🤝
+discipline 🌿
+respect 🙏
+emotional maturity ✨
+genuine affection ❤️
+🌌 Deeper Meaning
+
+Yeh conversation ancient relationship ideals ko show karti hai 🌸
+
+Jahan:
+
+👉 loyalty
+👉 mutual care
+👉 patience
+👉 self-control
+
+ko long-lasting relationships ka base maana gaya.
+
+Moral:
+
+Real love manipulation se nahi banta
+Trust aur respect relationship ka foundation hote hain
+Aur small acts of sincere care sabse powerful hote hain."""
             create_image_text_layout(
                 text_content=text2,
                 layout="full"
@@ -30177,7 +30583,19 @@ woh protection, humility, devotion aur righteousness ka combination hoti hai."""
         # Section 3.9.3
         # --------------------------------------------------
         with st.expander("Section 3.9.3  Section CCXXXIII"):
-            text1 = """ """
+            text1 = """ 
+            Forest exile ke difficult days me 🌲😔
+
+finally woh moment aa gaya
+jab:
+
+🌟 Shri Krishna
+
+aur
+
+💎 Satyabhama
+
+Pandavas se farewell lene wale the."""
             create_image_text_layout(
                 "attached_assets/chapter3/3.9.3.jpg",
                 text1,
@@ -30185,7 +30603,172 @@ woh protection, humility, devotion aur righteousness ka combination hoti hai."""
                 image_position="left"
             )
 
-            text2 = """ """
+            text2 = """ 
+            Krishna ne:
+
+Pandavas ⚔️
+sages 🧘
+Markandeya Rishi ✨
+
+sabke saath warm conversations ki 😊
+
+Aur phir departure ka time aa gaya.
+
+💎 Satyabhama Comforts Draupadi
+
+Jaane se pehle ❤️
+
+Satyabhama ne Draupadi ko tightly hug kiya 🤗
+
+Aur emotional voice me boli:
+
+👉 “Krishnaa… dukhi mat ho.”
+
+👉 “Tumhe sleepless nights aur grief zyada time tak nahi sehna padega.”
+
+🌟 “Pandavas Will Regain the Kingdom”
+
+Satyabhama confidently boli ✨
+
+👉 “Tumhare husbands gods ke equal hain.”
+
+👉 “Woh definitely apna kingdom wapas lenge.”
+
+Usne Draupadi ko reassure kiya 😊
+
+👉 “Tum jaise noble aur virtuous women permanently unfortunate nahi reh sakti.”
+
+⚔️ Prophecy of the Kauravas’ Fall
+
+Phir usne intense words kahe 😮
+
+👉 “Jald hi Dhritarashtra ke sons destroy ho jayenge.”
+
+👉 “Aur unke insults ka revenge milega.”
+
+Satyabhama ko yaad tha 😔
+
+kaise Kuru women ne Draupadi ko exile ke waqt mock kiya tha.
+
+Woh boli 🔥
+
+👉 “Soon tum unhe helpless aur despair me dekhogi.”
+
+👉 “Jo tumhare saath cruel the…”
+
+👉 “Woh already spiritually doomed hain.”
+
+👦 Draupadi’s Sons Are Safe
+
+Phir Satyabhama ne Draupadi ka heart comfort kiya ❤️
+
+Usne bataya:
+
+👉 Tumhare sons bilkul safe hain 😊
+
+🌟 The Five Sons
+Prativindhya (Yudhishthira ka son)
+Sutasoma (Bhima ka son)
+Shrutakarman (Arjuna ka son)
+Satanika (Nakula ka son)
+Shrutasena (Sahadeva ka son)
+
+Woh sab:
+
+🌊 Dwaraka
+
+me happily reh rahe the ✨
+
+Aur weapon training me skilled ho rahe the ⚔️
+
+❤️ Subhadra Cares for Them
+
+Satyabhama lovingly boli 😊
+
+👉 “Subhadra un sabka care exactly tumhari tarah karti hai.”
+
+Woh:
+
+unke grief me sad hoti 😔
+unki happiness me khush hoti 😊
+
+Bilkul real mother ki tarah ❤️
+
+🌸 Krishna’s Family Loves Them
+
+Satyabhama ne aur bataya 😮
+
+👉 “Pradyumna ki mother bhi unse deeply attached hai.”
+
+👉 “Krishna aur uske sons specially unhe protect karte hain.”
+
+👉 “Meri mother-in-law personally unka food aur clothes manage karti hain.”
+
+Aur poora:
+
+🌟 Yadava clan
+
+—including Balarama—
+
+unhe affection se treat karta tha ❤️
+
+✨ “They Are Loved Like Pradyumna”
+
+Satyabhama smiled 😊
+
+Aur boli:
+
+👉 “Sab unhe utna hi pyaar karte hain jitna Pradyumna ko.”
+
+🌸 Final Farewell
+
+Emotional atmosphere ho gaya 😔❤️
+
+Satyabhama ne Draupadi ke around respectfully circle kiya 🙏
+
+(ancient gesture of affection and honour)
+
+Aur phir Krishna ke chariot ki taraf chal di ✨
+
+🌟 Krishna’s Departure
+
+Krishna ne gentle smile ke saath Draupadi ko comfort kiya 😊
+
+Aur Pandavas ko lovingly reassure kiya ❤️
+
+Phir:
+
+🐎 Divine chariot
+
+swift horses ke saath
+Dwaraka ki taraf nikal pada 🌌
+
+Pandavas silently khade dekhte rahe 😔
+
+Lekin ab unke hearts me hope wapas aa chuki thi ✨
+
+🌌 Deeper Meaning
+
+Yeh scene sirf farewell nahi tha 😮
+
+Yeh:
+
+friendship 🤝
+emotional support ❤️
+loyalty ✨
+hope during suffering 🌸
+
+ka beautiful moment tha.
+
+Satyabhama basically Draupadi ko remind kar rahi thi:
+
+👉 “Tum akeli nahi ho.” ❤️
+
+Moral:
+
+Hard times permanent nahi hote
+True friends suffering me support dete hain
+Aur hope aur loyalty difficult phases ko survive karne ki strength dete hain."""
             create_image_text_layout(
                 text_content=text2,
                 layout="full"
@@ -30197,7 +30780,22 @@ woh protection, humility, devotion aur righteousness ka combination hoti hai."""
         # Section 3.10.1
         # --------------------------------------------------
         with st.expander("Section 3.10.1  Section CCXXXIV"):
-            text1 = """ """
+            text1 = """ 
+            King Janamejaya ne curious hokar poocha 😊
+
+👉 “Jab Pandavas Dvaita forest me exile ka difficult life jee rahe the…”
+
+👉 “Tab woh kya karte the?”
+
+🌲 Life in Dvaita Forest
+
+Rishi Vaisampayana ne bataya ✨
+
+Pandavas ek peaceful jagah par rehne lage:
+
+🌊 Dvaita Lake
+
+ke paas."""
             create_image_text_layout(
                 "attached_assets/chapter3/3.10.1.jpg",
                 text1,
@@ -30205,7 +30803,211 @@ woh protection, humility, devotion aur righteousness ka combination hoti hai."""
                 image_position="left"
             )
 
-            text2 = """ """
+            text2 = """ 
+            Wahan:
+
+beautiful forests 🌳
+mountains 🏔️
+rivers 🌊
+valleys 🌸
+
+sab the.
+
+Pandavas simple forest life jee rahe the 😔
+
+Lekin bahut sages aur ascetics 🧘
+unse milne aate the.
+
+Aur Pandavas un sabka great respect se welcome karte the ❤️
+
+🧘 A Brahmana Visits Hastinapura
+
+Ek din ek wise Brahmana
+Pandavas se milkar:
+
+🏰 Hastinapura
+
+pahunch gaya.
+
+Wahan usne blind king:
+
+👑 Dhritarashtra
+
+ko Pandavas ki condition batayi 😔
+
+Usne describe kiya:
+
+👉 “Royal princes ab sun aur wind me suffer kar rahe hain…”
+
+👉 “Woh thin aur exhausted ho gaye hain.”
+
+Aur Draupadi ka bhi mention kiya 😢
+
+👉 “Woh great heroes ki wife hote hue bhi helpless suffering endure kar rahi hai.”
+
+😔 Dhritarashtra’s Guilt Awakens
+
+Yeh sab sunkar Dhritarashtra ka heart toot gaya 💔
+
+Usse finally deeply feel hua 😔
+
+👉 “Yeh sab meri hi galti ki wajah se hua…”
+
+😢 Remembering Yudhishthira
+
+Woh sadly bola:
+
+👉 “Yudhishthira pehle soft luxurious beds par sota tha…”
+
+👉 “Ab woh bare ground par sota hoga…” 😔
+
+Pehle usse morning me singers jagate the 🎶
+
+Ab:
+
+👉 birds ki sounds se forest me uthta hoga 🐦
+
+😡 Thinking About Bhima
+
+Dhritarashtra ko Bhima yaad aaya 😨
+
+👉 “Bhima itna powerful hai…”
+
+👉 “Uske liye yeh suffering unbearable hogi.”
+
+Usse imagine hua 😮
+
+👉 Bhima anger suppress kar raha hai 🔥
+
+👉 Lekin andar hi andar revenge ki fire grow ho rahi hai 😨
+
+🔥 Dussasana’s Insult Still Burns
+
+Dhritarashtra specially yaad karta hai 😔
+
+kaise:
+
+😠 Dussasana
+
+ne Draupadi ko insult kiya tha.
+
+Woh kehta hai:
+
+👉 “Woh cruel words Bhima ke heart me jal rahe honge…”
+
+👉 “Bilkul fire ki tarah.” 🔥
+
+⚔️ Fear of Arjuna
+
+Phir usse Arjuna ka thought aur bhi dara deta hai 😨
+
+👉 “Arjuna quietly sab endure kar raha hai…”
+
+👉 “Lekin uska anger terrifying hoga.”
+
+Dhritarashtra ko yaad aata hai 😮
+
+🌌 Arjuna heaven bhi jaakar aaya hai
+
+Aur divine celestial weapons lekar return hua hai ⚡
+
+Woh panic me bolta hai 😨
+
+👉 “Kaun survive karega…”
+
+👉 “Arjuna + Gandiva bow + celestial weapons…”
+
+👉 “In teen cheezon ka combination impossible hai.”
+
+😔 Realization About Destiny
+
+Dhritarashtra deeply philosophical ho gaya 😔
+
+Usne bola:
+
+👉 “Hum actions karte hain…”
+
+👉 “Lekin result kabhi fully control me nahi hota.”
+
+Woh farming example deta hai 🌾
+
+👉 “Field properly prepare ho…”
+👉 “Seeds sahi ho…”
+👉 “Rain bhi aaye…”
+
+Phir bhi crop fail ho sakti hai 😮
+
+Isliye woh conclude karta hai:
+
+👉 “Shayad sab kuch destiny se driven hai.” 🌌
+
+😢 Regret About the Dice Game
+
+Phir finally openly confess karta hai 😔
+
+👉 “Shakuni ne Yudhishthira ko cheat kiya…”
+
+👉 “Aur maine apne wicked sons ke attachment me uska support kiya.”
+
+Aur sadly realize karta hai 😨
+
+👉 “Yahi Kuru destruction ki beginning hai.”
+
+⚡ Fear of Doom
+
+Dhritarashtra ko lagta hai 😔
+
+👉 “Time (Kala) khud Kurus ke destruction ke liye move kar raha hai.”
+
+Usse feel hota hai:
+
+👉 Pandavas ka revenge unavoidable hai ⚔️
+
+😮 Shakuni Informs Duryodhana
+
+Meanwhile:
+
+🎲 Shakuni
+
+ne secretly yeh sab suna.
+
+Woh directly gaya:
+
+👑 Duryodhana
+
+aur:
+
+⚔️ Karna
+
+ke paas.
+
+Aur privately sab bata diya 😮
+
+😨 Even Duryodhana Gets Disturbed
+
+Normally arrogant Duryodhana bhi 😳
+
+andar se fear aur grief feel karne laga.
+
+Kyunki ab usse bhi samajh aa raha tha 😔
+
+👉 Pandavas ka return terrifying hoga.
+
+🌌 Deeper Meaning
+
+Yeh chapter guilt aur destiny ke baare me tha 😔
+
+Dhritarashtra finally realize kar raha tha:
+
+👉 attachment blinded him
+👉 injustice ko allow karna bhi sin hota hai
+👉 aur delayed consequences eventually return karte hain ⚖️
+
+Moral:
+
+Wrong actions ka result eventually aata hi hai
+Attachment aur partiality destruction la sakte hain
+Aur suppressed injustice ek din powerful reaction bankar return hoti hai."""
             create_image_text_layout(
                 text_content=text2,
                 layout="full"
@@ -30215,7 +31017,19 @@ woh protection, humility, devotion aur righteousness ka combination hoti hai."""
         # Section 3.10.2
         # --------------------------------------------------
         with st.expander("Section 3.10.2  Section CCXXXV"):
-            text1 = """ """
+            text1 = """ 
+            Dhritarashtra ke emotional regret sunne ke baad 😔
+
+🎲 Shakuni
+
+andar hi andar ek dangerous plan bana raha tha 😈
+
+Usne chance milte hi:
+
+👑 Duryodhana
+⚔️ Karna
+
+ke saath private conversation start ki."""
             create_image_text_layout(
                 "attached_assets/chapter3/3.10.2.jpg",
                 text1,
@@ -30223,7 +31037,132 @@ woh protection, humility, devotion aur righteousness ka combination hoti hai."""
                 image_position="left"
             )
 
-            text2 = """ """
+            text2 = """ 
+            😈 Shakuni Praises Duryodhana
+
+Shakuni flattering tone me bola 😊
+
+👉 “Tumne Pandavas ko defeat karke exile bhej diya.”
+
+👉 “Ab tum poori Earth ke undisputed king ho!” 👑🌍
+
+Woh aur boast karne laga 😮
+
+👉 “East, west, north, south…”
+
+👉 “Sab kings ab tumhe tribute dete hain.”
+
+🌟 “Pandavas’ Fortune Is Now Yours”
+
+Shakuni ne yaad dilaya 😏
+
+👉 “Jo prosperity pehle Yudhishthira ke paas thi…”
+
+👉 “Ab woh sab tumhari ho chuki hai.”
+
+Usne proudly bola:
+
+👉 “Tumne force se nahi…”
+
+👉 “Sirf intelligence se unka kingdom le liya.” 🎲
+
+😨 The Cruel Idea
+
+Phir Shakuni ka real intention saamne aaya 😔
+
+Woh bola:
+
+👉 “Chalo Pandavas ko forest me dekhne chalte hain.”
+
+Karna bhi quietly support kar raha tha ⚔️
+
+😈 “Show Them Your Luxury”
+
+Shakuni kehta hai:
+
+👉 “Tum royal luxury me jao…”
+
+👉 “Aur unhe apni glory dikhao.” ✨👑
+
+👉 “Tum rich ho…”
+👉 “Woh poor hain…”
+
+👉 “Tum king ho…”
+👉 “Woh bark clothes pehenkar forest me reh rahe hain…” 😔
+
+Uske words bahut cruel the 😨
+
+🌞 “Burn Them With Jealousy”
+
+Shakuni ne compare kiya 😮
+
+👉 “Jaise sun apni heat se duniya ko scorch karta hai…”
+
+👉 “Waise hi tum apni prosperity dikha kar Pandavas ko mentally burn karo.” 🔥
+
+😔 Draupadi Ko Humiliate Karne Ka Plan
+
+Sabse harsh part yeh tha 😢
+
+Shakuni ne specifically Draupadi ka mention kiya.
+
+Woh bola 😔
+
+👉 “Tumhari queens expensive ornaments pehenkar jayein…” 💎
+
+👉 “Aur Draupadi ko bark clothes me dekhein…”
+
+Uska intention tha 😨
+
+👉 Draupadi ko emotionally hurt karna
+👉 uski suffering aur badhana
+
+😢 “Her Pain Will Become Greater”
+
+Shakuni cruelly kehta hai:
+
+👉 “Usse itna pain hoga…”
+
+👉 “Ki assembly wale insult se bhi zyada hurt feel karegi.” 💔
+
+⚔️ Karna Remains Silent
+
+Karna aur Shakuni
+plan bolne ke baad chup ho gaye 😶
+
+Lekin atmosphere dark aur dangerous ban gaya 😔
+
+🌌 Deeper Meaning
+
+Yeh chapter jealousy aur cruelty ki psychology dikhata hai 😮
+
+Shakuni aur Duryodhana ko sirf victory enough nahi lag rahi thi.
+
+Woh chahte the:
+
+👉 Pandavas emotionally break ho jaayein 😔
+
+Rishi indirectly yeh show karte hain ✨
+
+👉 Evil log sirf power nahi chahte…
+
+👉 Woh dusron ki suffering dekhkar pleasure bhi feel karte hain.
+
+⚖️ But This Also Shows Their Fear
+
+Interestingly 😮
+
+Itni arrogance ke peeche
+andar hi andar fear bhi tha.
+
+Kyunki:
+
+👉 Pandavas ki greatness unhe constantly disturb kar rahi thi.
+
+🌟 Moral
+Jealousy insaan ko cruel bana sakti hai
+Dusron ki suffering me happiness dhoondhna dangerous hota hai
+Aur arrogance often hidden insecurity ko hide karta hai."""
             create_image_text_layout(
                 text_content=text2,
                 layout="full"
