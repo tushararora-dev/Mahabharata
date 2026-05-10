@@ -31172,7 +31172,14 @@ Aur arrogance often hidden insecurity ko hide karta hai."""
         # Section 3.10.3
         # --------------------------------------------------
         with st.expander("Section 3.10.3  Section CCXXXVI"):
-            text1 = """ """
+            text1 = """ 
+            😈 Duryodhana’s Cruel Desire Grows
+
+Shakuni aur Karna ki baatein sunkar 👑 Duryodhana bahut khush hua 😊
+
+Lekin thodi der baad 😔
+
+woh deep thought me chala gaya."""
             create_image_text_layout(
                 "attached_assets/chapter3/3.10.3.jpg",
                 text1,
@@ -31180,7 +31187,186 @@ Aur arrogance often hidden insecurity ko hide karta hai."""
                 image_position="left"
             )
 
-            text2 = """ """
+            text2 = """ 
+            Usne Karna se kaha 😮
+
+👉 “Jo tum keh rahe ho…”
+
+👉 “Wahi mere mind me bhi chal raha hai.”
+
+😨 The Problem: Dhritarashtra
+
+Duryodhana worried tone me bola:
+
+👉 “Father hume permission nahi denge.”
+
+Kyunki:
+
+👑 Dhritarashtra
+
+already Pandavas ke suffering ko lekar guilty aur disturbed tha 😔
+
+Duryodhana samajh raha tha 😮
+
+👉 “Agar father hamara real intention samajh gaye…”
+
+👉 “Toh woh kabhi allow nahi karenge.”
+
+😈 “We Have No Other Purpose…”
+
+Duryodhana indirectly admit karta hai 😨
+
+ki unka real goal kya tha.
+
+Woh kehta hai:
+
+👉 “Dvaita forest jaane ka hamara actual purpose…”
+
+👉 “Pandavas ko hurt aur humiliate karna hi hoga.” 😔
+
+😢 Haunted by Draupadi’s Words
+
+Duryodhana ko dice hall ki memories yaad aane lagi 😮
+
+Usse yaad aaya 😔
+
+kaise:
+
+🌸 Draupadi
+
+ne us time harsh aur painful words kahe the.
+
+Aur kaise sab elders 😢
+
+lament kar rahe the after the humiliation.
+
+Isliye Duryodhana internally confused bhi tha 😨
+
+👉 “Jaana chahiye ya nahi?”
+
+😈 Yet His Jealousy Wins
+
+Lekin phir uski jealousy aur cruelty stronger ho gayi 😔
+
+Woh excitedly imagine karta hai 😮
+
+👉 Bhima aur Arjuna bark clothes me 🌲
+👉 Draupadi red rags me 😢
+👉 Pandavas forest me suffering karte hue
+
+Aur woh kehta hai 😨
+
+👉 “Entire Earth ka king banna bhi…”
+
+👉 “Utna happiness nahi dega…”
+
+👉 “Jitna Pandavas ko miserable dekhkar milega.”
+
+💔 Draupadi as the Main Target
+
+Duryodhana specially Draupadi ko insult karne ka thought enjoy kar raha tha 😔
+
+Woh kehta hai:
+
+👉 “Jab Draupadi mujhe luxury aur wealth me dekhegi…”
+
+👉 “Aur khud misery me hogi…”
+
+👉 “Tab meri life successful lagegi.” 😨
+
+Yeh uski deep insecurity aur hatred show karta tha ⚖️
+
+🧠 Karna’s Clever Plan
+
+Duryodhana phir Karna se kehta hai 😊
+
+👉 “Koi smart excuse banao…”
+
+👉 “Jisse father permission de dein.”
+
+Next morning 🌅
+
+⚔️ Karna
+
+smiling face ke saath Duryodhana ke paas aaya 😏
+
+Aur bola:
+
+👉 “Maine perfect plan soch liya hai.” ✨
+
+🐄 The Cattle Inspection Excuse
+
+Karna ne explain kiya 😮
+
+👉 “Hamare cattle stations Dvaita forest me hain.” 🐄🌲
+
+👉 “Kings regularly apne cattle camps inspect karte hain.”
+
+Isliye officially woh bolenge:
+
+👉 “Hum sirf cattle supervise karne ja rahe hain.” 😇
+
+Actually 😏
+
+andar ka intention kuch aur hi tha.
+
+😈 Shakuni Approves
+
+Tab:
+
+🎲 Shakuni
+
+bhi wahan aaya.
+
+Aur excitedly bola 😊
+
+👉 “Exactly! Maine bhi wahi socha tha!”
+
+Usse full confidence tha 😮
+
+👉 Dhritarashtra permission de dega
+👉 Shayad khud bhej bhi de
+
+🤝 The Three Conspirators
+
+Phir:
+
+Duryodhana 👑
+Karna ⚔️
+Shakuni 🎲
+
+teeno together hansne lage 😈
+
+Unhone ek dusre ka hand pakadkar 🤝
+
+apni conspiracy final kar li.
+
+Aur phir:
+
+🏰 royal court
+
+ki taraf chal diye.
+
+🌌 Deeper Meaning
+
+Yeh chapter Duryodhana ki psychology ko deeply show karta hai 😮
+
+Uski problem sirf kingdom nahi thi.
+
+Woh emotionally obsessed tha 😔
+
+👉 Pandavas ko inferior feel karane me
+👉 Draupadi ko insult karne me
+👉 aur apni superiority prove karne me
+
+Rishi indirectly dikhate hain ✨
+
+👉 jealousy insaan ko dusron ke pain me pleasure dhoondhne tak le ja sakti hai.
+
+🌟 Moral
+Jealousy aur insecurity dangerous combination hote hain
+Cruel intentions often “reasonable excuses” ke peeche hide kiye jaate hain
+Aur jo insaan dusron ki suffering me happiness dhoondhta hai, woh internally kabhi peaceful nahi hota ⚖️"""
             create_image_text_layout(
                 text_content=text2,
                 layout="full"
@@ -31190,7 +31376,17 @@ Aur arrogance often hidden insecurity ko hide karta hai."""
         # Section 3.10.4
         # --------------------------------------------------
         with st.expander("Section 3.10.4  Section CCXXXVII"):
-            text1 = """ """
+            text1 = """ 
+            🏰 Duryodhana Approaches Dhritarashtra
+
+Next morning 🌅
+
+👑 Duryodhana
+
+⚔️ Karna
+🎲 Shakuni
+
+sab together royal court me aaye."""
             create_image_text_layout(
                 "attached_assets/chapter3/3.10.4.jpg",
                 text1,
@@ -31198,7 +31394,225 @@ Aur arrogance often hidden insecurity ko hide karta hai."""
                 image_position="left"
             )
 
-            text2 = """ """
+            text2 = """ 
+            Sabne respectfully:
+
+👑 Dhritarashtra
+
+ko greet kiya 🙏
+
+Aur usual royal formalities ke baad
+unka hidden plan quietly start hua 😮
+
+🐄 The Pre-Planned Excuse
+
+Unhone already ek:
+
+🐄 cowherd named Samanga
+
+ko instructions de rakhe the 😏
+
+Woh king ke saamne aaya
+aur cattle stations ke baare me baat karne laga.
+
+Tab:
+
+⚔️ Karna
+
+aur
+🎲 Shakuni
+
+casually bole 😊
+
+👉 “Cattle counting aur calf-marking ka season aa gaya hai.”
+
+👉 “Aur hunting season bhi perfect hai.” 🏹🌲
+
+Phir politely request ki 😇
+
+👉 “Please Duryodhana ko wahan jaane ki permission dijiye.”
+
+😨 Dhritarashtra Instantly Understands the Danger
+
+Blind king immediately worried ho gaya 😔
+
+Kyunki usse pata tha 😮
+
+👉 Pandavas bhi Dvaita forest ke nearby reh rahe hain.
+
+Woh serious tone me bola ⚠️
+
+👉 “Pandavas abhi suffering me forest me reh rahe hain…”
+
+👉 “Aur woh powerful warriors hain.”
+
+⚔️ Fear of Bhima and Arjuna
+
+Dhritarashtra specially warn karta hai 😨
+
+👉 “Yudhishthira patient aur calm hai…”
+
+👉 “Lekin Bhima naturally fierce hai.” 🔥
+
+Aur phir Arjuna ka thought usse aur dara deta hai 😮
+
+👉 “Arjuna ab celestial weapons ke saath return hua hai.” ⚡
+
+👉 “Pehle hi usne Earth conquer kar li thi…”
+
+👉 “Ab toh aur bhi dangerous hai.”
+
+🌸 Draupadi’s Spiritual Power
+
+Dhritarashtra ne Draupadi ko bhi underestimate nahi kiya 😮
+
+Woh kehta hai:
+
+👉 “Draupadi extraordinary spiritual energy rakhti hai.” ✨
+
+👉 “Tum log usse insult karoge…”
+
+👉 “Toh disaster ho sakta hai.” 😨
+
+😔 The King Knows Their Nature
+
+Dhritarashtra indirectly Duryodhana ko accuse bhi karta hai 😔
+
+👉 “Tum log arrogant aur reckless ho…”
+
+👉 “Definitely koi offense kar doge.”
+
+Woh even warn karta hai ⚠️
+
+👉 “Agar tumhare soldiers bhi accidentally kuch wrong kar dein…”
+
+👉 “Toh blame tum par hi aayega.”
+
+🎲 Shakuni Lies Smoothly
+
+Tab:
+
+🎲 Shakuni
+
+apni classic manipulative style me calmly reply karta hai 😏
+
+👉 “Yudhishthira dharma-following king hai.”
+
+👉 “Woh promise break nahi karega.”
+
+👉 “Pandavas hum par angry nahi honge.”
+
+Aur phir biggest lie bola 😮
+
+👉 “Hum Pandavas se milne bhi nahi jayenge.” 😇
+
+👉 “Hum sirf hunting aur cattle inspection ke liye ja rahe hain.” 🐄🏹
+
+Actually 😏
+
+sabko pata tha real intention kya hai.
+
+😔 Dhritarashtra Reluctantly Agrees
+
+Dhritarashtra fully convinced nahi hua 😨
+
+Lekin finally 😔
+
+unwillingly permission de di.
+
+Kyunki:
+
+👉 woh weak king ban chuka tha
+👉 aur sons ke against firmly stand nahi le pa raha tha.
+
+👑 Massive Royal Procession Begins
+
+Permission milte hi 😮
+
+Duryodhana huge royal style me nikla ✨
+
+Saath me the:
+
+⚔️ Karna
+🎲 Shakuni
+😈 Dussasana
+many Kaurava brothers
+
+Aur:
+
+👸 thousands of royal women
+
+bhi saath gayi.
+
+🌍 Enormous Army and Luxury
+
+Procession insanely huge tha 😳
+
+🚩 Army Included:
+8,000 chariots ⚔️
+30,000 elephants 🐘
+9,000 horses 🐎
+thousands of soldiers 🚶
+
+Aur sirf army hi nahi 😮
+
+Saath me:
+
+shops 🏪
+traders 💰
+tents ⛺
+entertainers 🎶
+hunters 🏹
+bards 📜
+
+sab bhi ja rahe the.
+
+🌪️ The Noise Was Tremendous
+
+Rishi describe karta hai 😮
+
+ki unki movement ka sound:
+
+👉 stormy rainy winds 🌧️🌪️
+
+jaisa loud aur overwhelming tha.
+
+🌊 Arrival at Dvaita Lake
+
+Finally huge procession:
+
+🌊 Dvaita Lake
+
+pahunch gaya 🌲
+
+Duryodhana ne apna camp:
+
+👉 Pandavas ke camp se around 4 miles distance par lagaya.
+
+Lekin sabko feel ho raha tha 😨
+
+👉 yeh peaceful trip nahi hone wali.
+
+🌌 Deeper Meaning
+
+Yeh chapter Dhritarashtra ki tragedy ko highlight karta hai 😔
+
+Woh clearly danger samajh raha tha…
+
+👉 lekin apne sons ko stop nahi kar paaya.
+
+Aur Duryodhana ka giant luxury procession 😮
+
+uski arrogance aur insecurity dono ko show karta hai.
+
+Woh Pandavas ko impress nahi…
+
+👉 humiliate karna chahta tha.
+
+🌟 Moral
+Wise warnings ignore karna dangerous hota hai
+Attachment insaan ko weak decisions lene par majboor kar sakta hai
+Aur arrogance often unnecessary conflict create karta hai ⚖️"""
             create_image_text_layout(
                 text_content=text2,
                 layout="full"
@@ -31208,7 +31622,18 @@ Aur arrogance often hidden insecurity ko hide karta hai."""
         # Section 3.10.5
         # --------------------------------------------------
         with st.expander("Section 3.10.5  Section CCXXXVIII"):
-            text1 = """ """
+            text1 = """ 
+            🌲 Duryodhana Enjoys the Forest Camp
+
+Duryodhana ka massive royal camp ab:
+
+🌊 Dvaita Forest
+
+ke nearby fully settle ho chuka tha ✨
+
+Woh forest se forest move karta hua 😊
+
+finally cattle stations tak pahunch gaya."""
             create_image_text_layout(
                 "attached_assets/chapter3/3.10.5.jpg",
                 text1,
@@ -31216,7 +31641,265 @@ Aur arrogance often hidden insecurity ko hide karta hai."""
                 image_position="left"
             )
 
-            text2 = """ """
+            text2 = """ 
+            🏕️ Luxurious Camps in the Wilderness
+
+Uske servants ne quickly 😮
+
+ek beautiful royal camp construct kar diya.
+
+Wahan sab kuch tha ✨
+
+water 💧
+trees 🌳
+comfort 🏕️
+pleasure spaces 🌸
+
+Separate luxury residences bhi banaye gaye 😳
+
+for:
+
+⚔️ Karna
+🎲 Shakuni
+Kaurava brothers
+
+Yeh exile forest se zyada 😮
+
+ek royal vacation jaisa lag raha tha.
+
+🐄 Cattle Inspection Begins
+
+Ab officially Duryodhana ne wahi kaam start kiya 😏
+
+jo excuse ke liye use hua tha.
+
+Woh:
+
+cows count karta 🐄
+calves inspect karta
+markings check karta
+young cattle tame karne ke orders deta
+
+Sab kuch proper king-like administration jaisa dikh raha tha 😊
+
+Lekin andar ka intention 😔
+
+ab bhi Pandavas ko humiliate karna hi tha.
+
+🎶 Royal Enjoyment Everywhere
+
+Citizens aur soldiers bhi 😮
+
+forest me enjoy karne lage.
+
+Wahan:
+
+singers 🎶
+dancers 💃
+musicians 🥁
+ornamented maidens ✨
+
+sab Duryodhana ko entertain kar rahe the.
+
+👑 Duryodhana Feels Like a God
+
+Woh surrounded tha:
+
+queens 👸
+luxury 💎
+food 🍚
+drinks 🍷
+praise 📜
+
+Aur proudly wealth distribute kar raha tha 😊
+
+jaise koi heavenly king ho.
+
+🏹 Hunting Expedition
+
+Phir Duryodhana aur uske warriors hunting par nikle ⚔️🌲
+
+Unhone hunt kiye 😮
+
+deer 🦌
+buffaloes 🐃
+boars 🐗
+bears 🐻
+hyenas
+
+Forest royal noise aur violence se bhar gaya 😨
+
+🌸 Beauty of Dvaita Lake
+
+Finally woh sacred:
+
+🌊 Dvaita Lake
+
+tak pahunch gaye ✨
+
+Rishi beautiful description deta hai 😊
+
+Wahan:
+
+buzzing bees 🐝
+flowering trees 🌸
+peacocks 🦚
+sweet bird sounds 🎶
+
+sab nature ko heavenly bana rahe the.
+
+Duryodhana us prosperity me 😮
+
+almost Indra jaisa appear ho raha tha.
+
+🌿 Nearby: The Pandavas
+
+Ironically 😔
+
+usi lake ke nearby quietly reh rahe the:
+
+⚔️ Pandavas
+👑 Yudhishthira
+
+forest rules follow karte hue 🌿
+
+daily sacred rituals perform kar raha tha 🙏
+
+with:
+
+🌸 Draupadi
+
+Contrast bahut deep tha 😮
+
+👉 ek side luxury and arrogance
+👉 doosri side simplicity and discipline
+
+🏕️ Duryodhana Wants Pleasure Houses
+
+Lake dekhte hi 😏
+
+Duryodhana excitedly order deta hai:
+
+👉 “Yahan pleasure houses build karo!”
+
+Servants immediately lake area ki taraf gaye 🏃
+
+construction start karne ke liye.
+
+😮 Unexpected Obstacle Appears
+
+Lekin jaise hi soldiers lake ke entrance ke paas pahuche 😨
+
+suddenly:
+
+🌌 Gandharvas
+
+appear ho gaye.
+
+Unhone Kuru soldiers ko stop kar diya ⚠️
+
+👉 “Andar entry allowed nahi hai.”
+
+🌌 King of Gandharvas Already There
+
+Actually 😮
+
+🌟 Gandharva King
+
+(apne celestial companions aur apsaras ke saath)
+
+already wahan enjoy kar raha tha ✨
+
+Woh:
+
+Apsaras 💃
+heavenly musicians 🎶
+celestial beings 🌌
+
+ke saath lake occupy kar chuka tha.
+
+Aur usne area ko outsiders ke liye close kar diya tha 🚫
+
+😨 Kuru Soldiers Return
+
+Duryodhana ke servants scared hokar 😰
+
+wapas aaye aur sab report kar diya.
+
+😡 Duryodhana Gets Furious
+
+Yeh sunkar Duryodhana ka ego hurt ho gaya 😠
+
+Usne immediately powerful warriors bheje ⚔️
+
+aur order diya:
+
+👉 “Gandharvas ko hata do!”
+
+⚔️ The Kuru Message
+
+Kuru soldiers confidently gaye 😏
+
+aur Gandharvas se bole:
+
+👉 “King Duryodhana aa raha hai.”
+
+👉 “Side ho jao.”
+
+Basically 😮
+
+unhone celestial beings ko bhi servants ki tarah treat kiya 😨
+
+🌌 Gandharvas Burst Into Laughter
+
+Yeh sunkar Gandharvas 😂
+
+loudly laugh karne lage.
+
+Phir harshly bole ⚡
+
+👉 “Tumhara king insane hai kya?”
+
+👉 “Woh heavenly beings ko orders de raha hai?”
+
+Aur unhone insultingly kaha 😨
+
+👉 “Tum log death ke paas khade ho.”
+
+👉 “Jaldi bhaag jao…”
+
+👉 “Warna Yama ke ghar jaoge.” 💀
+
+😰 Fear Spreads
+
+Kuru advance guard instantly panic me aa gaya 😨
+
+Aur quickly bhaagkar 😳
+
+Duryodhana ke paas return kar gaya.
+
+🌌 Deeper Meaning
+
+Yeh chapter Duryodhana ke arrogance ka turning point hai 😮
+
+Woh soch raha tha 🌍
+
+👉 “Entire world meri authority ke neeche hai.”
+
+Lekin Gandharvas ne instantly remind kar diya ⚖️
+
+👉 earthly power ≠ universal superiority.
+
+Rishi subtly show karte hain ✨
+
+ki pride jab limit cross karta hai…
+
+toh humiliation ka beginning ho jaata hai 😔
+
+🌟 Moral
+Arrogance insaan ko reality bhula deta hai
+Power ka misuse disrespect create karta hai
+Aur nature/divine forces ke saamne worldly status meaningless ho sakta hai 🌌"""
             create_image_text_layout(
                 text_content=text2,
                 layout="full"
@@ -31226,7 +31909,19 @@ Aur arrogance often hidden insecurity ko hide karta hai."""
         # Section 3.10.6
         # --------------------------------------------------
         with st.expander("Section 3.10.6  Section CCXXXIX"):
-            text1 = """ """
+            text1 = """ 
+            😨 Kuru Soldiers Return in Fear
+
+Kuru soldiers panic me 😰
+
+wapas Duryodhana ke paas aaye
+aur Gandharvas ke harsh words repeat kiye.
+
+Jaise hi Duryodhana ne suna 😠
+
+ki celestial beings ne uski authority reject kar di…
+
+woh rage se bhar gaya 🔥"""
             create_image_text_layout(
                 "attached_assets/chapter3/3.10.6.jpg",
                 text1,
@@ -31234,7 +31929,262 @@ Aur arrogance often hidden insecurity ko hide karta hai."""
                 image_position="left"
             )
 
-            text2 = """ """
+            text2 = """ 
+            😈 Duryodhana Orders Attack
+
+Usne gusse me command diya ⚔️
+
+👉 “In wretches ko punish karo!”
+
+👉 “Chahe Indra khud unke saath kyu na ho!” 😨
+
+Uske words sunkar 😮
+
+Kaurava army instantly battle-ready ho gayi.
+
+⚔️ The Kaurava Charge
+
+Thousands of warriors:
+
+armour pehenkar 🛡️
+weapons uthakar ⚔️
+lion-like war cries marte hue 🦁
+
+forest ke andar rush kar gaye 🌲
+
+Lekin entrance par 😮
+
+aur Gandharvas appear hue.
+
+Unhone calmly warn kiya ⚠️
+
+👉 “Aage mat badho.”
+
+Par Kauravas arrogance me 😏
+
+unki baat ignore karke andar ghus gaye.
+
+🌌 Gandharvas Inform Their King
+
+Gandharvas ne dekha 😮
+
+ki words se Kauravas nahi rukenge.
+
+Toh woh quickly gaye apne king ke paas:
+
+🌟 Chitrasena
+
+Aur sab situation explain kar di.
+
+😡 Chitrasena Enters the Battle
+
+Yeh sunkar Chitrasena furious ho gaya ⚡
+
+Aur order diya:
+
+👉 “In wicked men ko punish karo!”
+
+Instantly 😮
+
+heavenly warriors weapons lekar attack karne lage.
+
+😨 Kuru Army Panics
+
+Jaise hi Gandharvas celestial speed aur power ke saath charge hue 🌌⚔️
+
+Kuru soldiers fear me toot gaye 😨
+
+Many warriors:
+
+👉 battlefield se bhaagne lage.
+
+Lekin ek warrior 😮
+
+still firmly khada raha:
+
+⚔️ Karna
+⚔️ Karna’s Heroic Resistance
+
+Karna ne alone hi 😳
+
+Gandharvas ko arrows ki deadly rain se rok diya.
+
+Uski speed incredible thi ⚡
+
+Woh use kar raha tha:
+
+arrows 🏹
+bhallas
+kshurapras
+steel weapons ⚔️
+
+Aur short time me 😨
+
+dozens of Gandharvas ke heads ground par girne lage.
+
+🌌 Gandharvas Still Keep Coming
+
+Even after heavy losses 😮
+
+Gandharvas ruk nahi rahe the.
+
+Hundreds aur thousands me 😨
+
+woh continuously battlefield par aa rahe the.
+
+Soon battlefield completely celestial warriors se bhar gaya 🌌⚔️
+
+👑 Duryodhana Rejoins the Fight
+
+Karna ko alone fight karte dekh 😮
+
+Duryodhana bhi battlefield me wapas aaya.
+
+Uske saath aaye:
+
+🎲 Shakuni
+😈 Dussasana
+⚔️ Vikarna
+other Kaurava princes
+
+Sabne milkar Gandharvas ko surround kar liya ⚔️
+
+Aur fierce war start ho gaya.
+
+⚡ Horrific Celestial Battle
+
+Rishi describe karta hai 😮
+
+ki battle itni intense thi…
+
+👉 kisi ke bhi body me fear se goosebumps aa jaayein.
+
+Initially Kauravas successful lagne lage 😳
+
+Gandharvas arrows se injured ho rahe the.
+
+Aur Kaurava army victory cries karne lagi 📣
+
+🌌 Chitrasena Uses Illusion Powers
+
+Lekin phir 😨
+
+🌟 Chitrasena
+
+khud battlefield me utar aaya.
+
+Aur usne use kiya:
+
+🌌 Maya (illusion warfare)
+
+Instantly battlefield ka atmosphere change ho gaya 😳
+
+Kaurava warriors confused aur terrified ho gaye 😨
+
+Har soldier ko lag raha tha:
+
+👉 “Mujhe 10 Gandharvas surround kar rahe hain!”
+
+😰 Total Panic
+
+Celestial illusion ki wajah se 😨
+
+entire Kaurava army mentally break ho gayi.
+
+Jo bhi survive karna chahta tha 💀
+
+woh battlefield se bhaagne laga.
+
+⚔️ Karna Still Refuses to Run
+
+Sab bhaag rahe the…
+
+Lekin:
+
+⚔️ Karna
+
+still mountain ki tarah khada raha 🏔️
+
+Woh heavily wounded tha 😮
+
+phir bhi continue fight kar raha tha.
+
+Saath me fight kar rahe the:
+
+👑 Duryodhana
+🎲 Shakuni
+
+Lekin Gandharvas ne finally decide kiya 😨
+
+👉 “Pehle Karna ko eliminate karo.”
+
+⚔️ Karna Surrounded
+
+Hundreds aur thousands of Gandharvas 😮
+
+Karna ko completely surround kar lete hain.
+
+Weapons everywhere:
+
+swords ⚔️
+axes 🪓
+spears
+
+Phir systematically 😨
+
+woh Karna ka chariot destroy karne lage.
+
+Some attacked:
+
+horses 🐎
+flag 🚩
+wheels
+charioteer
+umbrella
+car frame
+
+Within moments 😳
+
+Karna ka entire chariot pieces me toot gaya 💥
+
+😨 Karna Finally Retreats
+
+Ab situation hopeless ho chuki thi 😔
+
+Karna quickly sword aur shield lekar ⚔️
+
+destroyed chariot se jump karta hai.
+
+Phir:
+
+⚔️ Vikarna’s chariot
+
+par chadhkar 😨
+
+battlefield se retreat kar gaya.
+
+🌌 Deeper Meaning
+
+Yeh chapter Duryodhana ki arrogance ka first collapse dikhata hai 😮
+
+Woh soch raha tha 🌍
+
+👉 earthly power sabse superior hai.
+
+Lekin Gandharvas ne prove kar diya ⚖️
+
+👉 celestial powers aur destiny ke saamne human pride fragile hota hai.
+
+Karna ki bravery bhi highlight hoti hai ✨
+
+Even enemies panic me bhaag gaye…
+
+👉 lekin woh end tak fight karta raha.
+
+🌟 Moral
+Pride often unnecessary destruction laata hai
+True courage danger ke waqt reveal hoti hai
+Aur illusion aur ego dono insaan ko downfall ki taraf le ja sakte hain 🌌"""
             create_image_text_layout(
                 text_content=text2,
                 layout="full"
@@ -31244,7 +32194,16 @@ Aur arrogance often hidden insecurity ko hide karta hai."""
         # Section 3.10.7
         # --------------------------------------------------
         with st.expander("Section 3.10.7  Section CCXL"):
-            text1 = """ """
+            text1 = """ 
+            ⚔️ Karna Retreats… The Kaurava Army Collapses
+
+Jaise hi:
+
+⚔️ Karna
+
+battlefield se retreat hua 😨
+
+entire Kaurava army completely break ho gayi."""
             create_image_text_layout(
                 "attached_assets/chapter3/3.10.7.jpg",
                 text1,
@@ -31252,7 +32211,202 @@ Aur arrogance often hidden insecurity ko hide karta hai."""
                 image_position="left"
             )
 
-            text2 = """ """
+            text2 = """ 
+            Soldiers fear me 😰
+
+har direction me bhaagne lage.
+
+Lekin ek insaan 😮
+
+ab bhi battlefield nahi chhoda:
+
+👑 Duryodhana
+⚔️ Duryodhana Refuses to Run
+
+Apni entire army ko flee karte dekhkar bhi 😳
+
+Duryodhana ne retreat refuse kar diya.
+
+Woh alone khada raha ⚔️
+
+aur Gandharvas par arrows ki heavy rain barsane laga 🏹
+
+Lekin Gandharvas 😨
+
+uski attacks ko ignore karte hue
+seedha uske chariot par toot pade.
+
+💥 Duryodhana’s Chariot Destroyed
+
+Within moments 😳
+
+unhone destroy kar diya:
+
+chariot wheels
+flag 🚩
+horses 🐎
+charioteer
+car structure
+
+sab kuch 💥
+
+Duryodhana ground par gir gaya 😨
+
+aur ussi waqt:
+
+🌌 Chitrasena
+
+khud uske paas aaya.
+
+⛓️ Duryodhana Captured
+
+Strong-armed Gandharva king ne 😮
+
+Duryodhana ko directly seize kar liya.
+
+Rishi dramatic way me describe karta hai ✨
+
+👉 “Aisa laga jaise uski life hi capture kar li gayi ho.”
+
+⛓️ Other Kauravas Also Captured
+
+Sirf Duryodhana hi nahi 😨
+
+many Kauravas pakad liye gaye:
+
+😈 Dussasana
+Vivinsati
+Vinda
+Anuvinda
+
+aur dusre princes bhi.
+
+Even:
+
+👸 royal women
+
+bhi Gandharvas ke control me aa gayi 😔
+
+😰 The Defeated Soldiers Run to the Pandavas
+
+Jo soldiers bach gaye 😨
+
+woh directly bhaagte hue gaye:
+
+⚔️ Pandavas
+
+ke paas.
+
+Irony bahut deep thi 😮
+
+👉 jinhe insult karne aaye the…
+
+ab unhi se help maangni pad rahi thi.
+
+😢 The Plea for Help
+
+Kaurava attendants crying tone me bole 😰
+
+👉 “Duryodhana ko Gandharvas le ja rahe hain!”
+
+👉 “Royal ladies bhi captured hain!”
+
+👉 “Please unhe bachaiye!” 🙏
+
+Unhone Yudhishthira se desperately request ki 😔
+
+ki Pandavas rescue karein.
+
+😏 Bhima’s Savage Response
+
+Yeh sunkar:
+
+💪 Bhima
+
+sarcastic laughter jaisi tone me reply deta hai 😮
+
+👉 “Jo kaam hume khud karna chahiye tha…”
+
+👉 “Woh Gandharvas ne hamare liye kar diya!” 😏
+
+Bhima openly enjoy kar raha tha 😨
+
+Duryodhana ki humiliation.
+
+😈 “This Is the Result of His Wickedness”
+
+Bhima kehta hai ⚖️
+
+👉 “Duryodhana deceit aur jealousy se yahan aaya tha.”
+
+👉 “Ab usko uske actions ka result mil raha hai.”
+
+Woh aur bhi harshly bolta hai 😮
+
+👉 “Woh hume misery me dekhna chahta tha…”
+
+👉 “Ab khud disgrace face kar raha hai.”
+
+😔 Bhima Remembers Their Humiliation
+
+Bhima emotionally yaad karta hai 😢
+
+👉 exile
+👉 bark clothes 🌲
+👉 suffering
+👉 Draupadi ki insult
+
+Aur kehta hai 😨
+
+👉 “Kisi ne finally hamara burden apne shoulders par le liya.”
+
+Yani:
+
+👉 Gandharvas ne unka revenge indirectly le liya.
+
+😳 Public Moral Statement
+
+Bhima sabke saamne boldly declare karta hai ✨
+
+👉 “Pandavas wicked nahi hain.”
+
+👉 “Duryodhana ke evil actions ne hi usko yahan tak pahunchaya.”
+
+👑 Yudhishthira Stops Bhima
+
+Lekin jab Bhima sarcastically continue bol raha tha 😮
+
+tab:
+
+👑 Yudhishthira
+
+calmly usse rok dete hain.
+
+Woh kehte hain ⚖️
+
+👉 “Yeh cruel words bolne ka time nahi hai.”
+
+Aur isi moment par 😮
+
+Pandavas aur Kauravas ke character ka huge difference clearly dikhta hai.
+
+🌌 Deeper Meaning
+
+Bhima human emotion represent karta hai 😔
+
+👉 injustice ke baad naturally revenge aur satisfaction feel hota hai.
+
+Lekin Yudhishthira 😮
+
+higher dharma represent karte hain ✨
+
+👉 even enemy suffering me ho…
+👉 tab bhi nobility lose nahi karni chahiye.
+
+🌟 Moral
+Evil intentions eventually humiliation la sakte hain
+Revenge satisfying lag sakta hai, but true greatness compassion me hoti hai
+Aur noble people crisis me bhi dharma nahi chhodte ⚖️"""
             create_image_text_layout(
                 text_content=text2,
                 layout="full"
