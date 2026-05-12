@@ -32416,7 +32416,14 @@ Aur noble people crisis me bhi dharma nahi chhodte ⚖️"""
         # Section 3.10.8
         # --------------------------------------------------
         with st.expander("Section 3.10.8  Section CCXLI"):
-            text1 = """ """
+            text1 = """ 
+            🌿 Yudhishthira’s Noble Decision
+
+Yudhishthira ne Bhima se kaha,
+
+“Bhima, tum itna harsh kyun bol rahe ho? Kauravas abhi mushkil mein hain aur humse protection maang rahe hain. Apne parivaar mein kabhi kabhi fights aur disagreements hote hain. Yeh normal hai.
+
+Lekin family ki izzat sabse important hoti hai. Agar koi outsider hamare family ko insult kare, toh acche log kabhi usse tolerate nahi karte."""
             create_image_text_layout(
                 "attached_assets/chapter3/3.10.8.jpg",
                 text1,
@@ -32424,7 +32431,28 @@ Aur noble people crisis me bhi dharma nahi chhodte ⚖️"""
                 image_position="left"
             )
 
-            text2 = """ """
+            text2 = """ 
+            Yeh Gandharva king jaanta tha ki hum yahan reh rahe hain. Fir bhi usne Duryodhana ko pakad liya aur hamare ghar ki ladies ko bhi insult kiya. Isse hamare family ka honour hurt ho raha hai.”
+
+Phir Yudhishthira ne sabko kaha,
+
+“Arjuna, Bhima, Nakula aur Sahadeva, tum sab turant taiyar ho jao. Duryodhana ko rescue karo. Chahe woh hamara enemy ho, lekin ab woh hamari protection mein hai.”
+
+Unhone warriors ko shining chariots par baithne ko kaha aur Gandharvas ke paas jaane ko bola.
+
+Yudhishthira ne calmly kaha,
+
+“Ek true Kshatriya hamesha uski help karta hai jo shelter maange. Sabse bada joy sirf kingdom ya blessings se nahi milta. Kisi enemy ko bhi danger se bachana bahut mahaan kaam hota hai.”
+
+Fir unhone Bhima se kaha,
+
+“Pehle peacefully baat karne ki koshish karo. Agar Gandharvas na maane, tab lightly fight karna. Aur agar fir bhi woh Duryodhana ko release na kare, tab full strength se usse rescue karna.”
+
+Yudhishthira ki baatein sun kar Arjuna ne respect se kaha,
+
+“Agar Gandharvas peacefully Kauravas ko release nahi karenge, toh aaj unhe mere arrows ka saamna karna padega!”
+
+Arjuna ki strong promise sun kar Kauravas ko phir se hope mil gayi aur unka fear kam ho gaya."""
             create_image_text_layout(
                 text_content=text2,
                 layout="full"
@@ -32434,7 +32462,16 @@ Aur noble people crisis me bhi dharma nahi chhodte ⚖️"""
         # Section 3.10.9
         # --------------------------------------------------
         with st.expander("Section 3.10.9  Section CCXLII"):
-            text1 = """ """
+            text1 = """ 
+            ⚔️ Pandavas Enter the Battle
+
+Vaisampayana ne kaha,
+
+Yudhishthira ki baatein sunte hi Bhima aur baaki Pandavas khushi se uth khade hue. Sabne golden armour pehna aur apne divine weapons utha liye.
+
+Jab Pandavas apne shining chariots par sawar hue, tab woh jalti hui agni ki tarah powerful lag rahe the. Unke horses bahut fast the aur bina time waste kiye woh Duryodhana ko bachane nikal pade.
+
+Pandavas ko ek saath battle ke liye jaata dekhkar Kuru army zor se cheer karne lagi."""
             create_image_text_layout(
                 "attached_assets/chapter3/3.10.9.jpg",
                 text1,
@@ -32442,7 +32479,26 @@ Aur noble people crisis me bhi dharma nahi chhodte ⚖️"""
                 image_position="left"
             )
 
-            text2 = """ """
+            text2 = """ 
+            Thodi der baad jungle mein Pandavas aur Gandharvas aamne-saamne aa gaye. Gandharvas apni victory se proud the. Lekin Pandavas ko dekhkar woh bhi battle ke liye ready ho gaye.
+
+Yudhishthira ke words yaad rakhte hue Pandavas ne pehle sirf halka fight shuru kiya. Woh unnecessary bloodshed nahi chahte the.
+
+Fir Arjuna ne calmly Gandharvas se kaha,
+
+“Please mere brother Suyodhana ko chhod do.”
+
+Lekin Gandharvas hansne lage aur bole,
+
+“Hum sirf ek hi master ki baat maante hain. Sirf wahi hume command de sakta hai.”
+
+Yeh sunkar Arjuna ne firmly jawab diya,
+
+“Dusron ki wives ko disturb karna aur humans se unfair fight karna galat hai. Yudhishthira ke order se Duryodhana aur sab ladies ko free kar do. Agar peacefully nahi chhoda, toh main force se unhe rescue karunga.”
+
+Itna kehkar Arjuna ne apne arrows ki tez baarish kar di. Gandharvas ne bhi equally strong attack kiya.
+
+Phir jungle ke beech ek bahut fierce battle shuru ho gayi. Pandavas aur Gandharvas dono hi bahaduri se ladne lage."""
             create_image_text_layout(
                 text_content=text2,
                 layout="full"
@@ -32452,7 +32508,14 @@ Aur noble people crisis me bhi dharma nahi chhodte ⚖️"""
         # Section 3.10.10
         # --------------------------------------------------
         with st.expander("Section 3.10.10  Section CCXLIII"):
-            text1 = """ """
+            text1 = """ 
+            ⚔️ Arjuna and the King of Gandharvas
+
+Vaisampayana ne kaha,
+
+Golden garlands pehne hue hazaaron Gandharvas ne Pandavas ko har taraf se gher liya. Pandavas sirf chaar the, lekin Gandharvas ki army bahut badi thi. Battle bahut dangerous lag rahi thi.
+
+Gandharvas ne pehle Karna aur Duryodhana ke chariots tod diye the. Ab woh Pandavas ke chariots ko bhi destroy karna chahte the."""
             create_image_text_layout(
                 "attached_assets/chapter3/3.10.10.jpg",
                 text1,
@@ -32460,7 +32523,32 @@ Aur noble people crisis me bhi dharma nahi chhodte ⚖️"""
                 image_position="left"
             )
 
-            text2 = """ """
+            text2 = """ 
+            Lekin Bhima, Arjuna, Nakula aur Sahadeva ne arrows ki itni tez baarish ki ki Gandharvas unke paas bhi nahi aa pa rahe the.
+
+Tab Arjuna ko gussa aa gaya. Usne apne divine celestial weapons use karne shuru kiye. Agneya weapon se usne bahut saare Gandharvas ko hara diya. Bhima bhi powerful arrows se enemies ko gira raha tha. Nakula aur Sahadeva bhi bahaduri se lad rahe the.
+
+Jab Gandharvas weak padne lage, tab woh sky mein ud gaye aur saath mein Dhritarashtra ke sons ko bhi le gaye.
+
+Yeh dekhkar Arjuna ne arrows ka ek bada jaal bana diya. Gandharvas usme birds ki tarah phans gaye. Gusse mein unhone maces, swords aur darts Arjuna par pheke.
+
+Lekin Arjuna ne apne weapons se sab attacks rok diye. Fir usne sharp crescent arrows se Gandharvas ko strike karna shuru kiya. Battle itni fierce thi ki aasman se heads, arms aur weapons neeche girne lage.
+
+Gandharvas darr gaye, lekin fir bhi sky se arrows barsane lage. Arjuna ne har attack ka jawab diya aur apne powerful weapons jaise Agneya, Saura aur Indrajala ka use kiya.
+
+Tab Gandharvas ke king Citrasena khud battle mein aaya. Woh sky se ek huge iron mace lekar Arjuna ki taraf dauda.
+
+Lekin Arjuna ne ek hi moment mein us mace ko saat pieces mein tod diya.
+
+Yeh dekhkar Citrasena invisible ho gaya aur hidden hokar fight karne laga. Lekin Arjuna ne apne special Sabda-veda weapon se uski hiding power rok di.
+
+Tab Citrasena suddenly saamne aaya aur bola,
+
+“Arjuna, dekho! Main tumhara dost hoon!”
+
+Yeh sunkar Arjuna surprise ho gaya. Usne turant apne weapons wapas le liye. Baaki Pandavas ne bhi battle rok di.
+
+Fir Citrasena, Arjuna, Bhima aur twins ek dusre ka haal puchhne lage aur kuch der apne chariots par peacefully baith gaye."""
             create_image_text_layout(
                 text_content=text2,
                 layout="full"
@@ -32470,7 +32558,13 @@ Aur noble people crisis me bhi dharma nahi chhodte ⚖️"""
         # Section 3.10.11
         # --------------------------------------------------
         with st.expander("Section 3.10.11  Section CCXLIV"):
-            text1 = """ """
+            text1 = """ 
+            🌿 Yudhishthira’s Kindness Toward Duryodhana
+Vaisampayana ne kaha,
+Battle rukne ke baad Arjuna muskura kar Citrasena se bola,
+“Friend, tumne Kauravas ko punish kyun kiya? Aur Duryodhana aur uski wives ko capture kyun kiya?”
+Citrasena ne jawab diya,
+“Arjuna, Duryodhana aur Karna yahan ek buri niyat se aaye the. Woh tum sabko forest mein dukhi aur helpless dekhkar tumhara mazaak udaana chahte the. Woh specially tum aur Draupadi ko insult karne aaye the.”"""
             create_image_text_layout(
                 "attached_assets/chapter3/3.10.11.jpg",
                 text1,
@@ -32478,7 +32572,38 @@ Aur noble people crisis me bhi dharma nahi chhodte ⚖️"""
                 image_position="left"
             )
 
-            text2 = """ """
+            text2 = """ 
+            Citrasena ne fir kaha,
+
+“Indra ne mujhe order diya tha ki Duryodhana ko chains mein pakad kar le aao. Unhone yeh bhi kaha tha ki tum aur tumhare brothers meri protection mein ho.”
+
+Arjuna yeh sunkar bola,
+
+“Citrasena, agar tum mujhe khush karna chahte ho, toh Duryodhana ko free kar do. Woh hamara brother hai.”
+
+Lekin Citrasena ne kaha,
+
+“Duryodhana arrogant aur sinful hai. Usne Yudhishthira aur Draupadi dono ko bahut hurt kiya hai. Yudhishthira ko abhi tak uski asli niyat nahi pata.”
+
+Fir sab log Yudhishthira ke paas gaye aur unhe poori baat batayi.
+
+Sab kuch sunne ke baad bhi Yudhishthira ne Duryodhana aur sab Kauravas ko free kar diya. Unhone Gandharvas ka thanks bhi kiya aur kaha,
+
+“Achha hua tumne Duryodhana ko maara nahi. Tumne hamare family honour ko bachaya hai. Main tum sabka grateful hoon.”
+
+Yeh sunkar Gandharvas khush ho gaye aur Apsaras ke saath wapas chale gaye.
+
+Uske baad Indra wahan aaye aur battle mein mare hue Gandharvas ko divine Amrita se fir se zinda kar diya.
+
+Pandavas ne bhi apne relatives aur royal ladies ko safely rescue kar liya. Sab log unki bravery ki praise karne lage.
+
+Fir Yudhishthira ne pyaar se Duryodhana se kaha,
+
+“Duryodhana, dobara kabhi itni foolish aur rash cheez mat karna. Aise kaam kabhi happiness nahi dete. Ab peacefully apne kingdom wapas chale jao aur sadness mein mat doobo.”
+
+Duryodhana shame se bahut dukhi ho gaya. Uska head jhuk gaya aur woh chupchaap apni capital ki taraf laut gaya.
+
+Uske baad Yudhishthira aur Pandavas peacefully Dvaita forest mein rehne lage."""
             create_image_text_layout(
                 text_content=text2,
                 layout="full"
@@ -32488,7 +32613,11 @@ Aur noble people crisis me bhi dharma nahi chhodte ⚖️"""
         # Section 3.10.12
         # --------------------------------------------------
         with st.expander("Section 3.10.12  Section CCXLV"):
-            text1 = """ """
+            text1 = """ 
+            🌑 Duryodhana’s Return in Shame
+Janamejaya ne poocha,
+“Duryodhana hamesha Pandavas ko insult karta tha aur apni greatness par proud karta tha. Lekin ab woh battle mein haar gaya, capture hua, aur fir Pandavas ne hi usse bachaya. Aise shame ke baad uske liye Hastinapura wapas jaana kitna difficult raha hoga! Mujhe detail mein bataiye.”
+Vaisampayana ne kaha,"""
             create_image_text_layout(
                 "attached_assets/chapter3/3.10.12.jpg",
                 text1,
@@ -32496,7 +32625,30 @@ Aur noble people crisis me bhi dharma nahi chhodte ⚖️"""
                 image_position="left"
             )
 
-            text2 = """ """
+            text2 = """ 
+            Yudhishthira se permission lene ke baad Duryodhana bahut shame aur sadness ke saath wapas nikal pada. Uska head jhuka hua tha aur uska heart defeat ke pain se bhara hua tha.
+
+Apni huge army ke saath woh dheere dheere capital ki taraf badhne laga. Raste mein ek beautiful jagah par usne camp lagaya. Elephants, horses, chariots aur soldiers uske around khade the.
+
+Duryodhana ek royal bed par baitha tha, lekin uska face udaas tha. Woh aise lag raha tha jaise eclipse ke time ka moon.
+
+Subah ke time Karna uske paas aaya aur bola,
+
+“Friend, yeh bahut achhi baat hai ki tum safe ho. Main bahut happy hoon ki hum fir mile.
+
+Mujhe laga tha Gandharvas bahut dangerous the. Lekin tum aur tumhare brothers safely laut aaye. Yeh bahut surprising hai.”
+
+Karna ne honestly kaha,
+
+“Main Gandharvas ke attack se apni army ko bacha nahi paaya aur mujhe battlefield se retreat karna pada. Mere body par arrows lage the aur main helpless ho gaya tha.”
+
+Fir bhi Karna ne Duryodhana ko encourage karte hue kaha,
+
+“Aaj jo tumne kiya, woh koi ordinary person nahi kar sakta. Tum bahut brave ho.”
+
+Vaisampayana ne kaha,
+
+Karna ki baatein sunkar Duryodhana ki aankhon mein aansu aa gaye. Uska voice sadness se bhar gaya jab usne jawab dena shuru kiya."""
             create_image_text_layout(
                 text_content=text2,
                 layout="full"
