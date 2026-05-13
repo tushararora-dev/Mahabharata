@@ -32658,7 +32658,14 @@ Karna ki baatein sunkar Duryodhana ki aankhon mein aansu aa gaye. Uska voice sad
         # Section 3.10.13
         # --------------------------------------------------
         with st.expander("Section 3.10.13  Section CCXLVI"):
-            text1 = """ """
+            text1 = """ 
+            😔 Duryodhana Accepts the Truth
+
+Duryodhana ne Karna se dukhi voice mein kaha,
+
+“Radheya, tumhe poori sachchai nahi pata. Tum soch rahe ho ki maine Gandharvas ko khud hara diya. Lekin reality alag hai.”
+
+Usne aage kaha,"""
             create_image_text_layout(
                 "attached_assets/chapter3/3.10.13.jpg",
                 text1,
@@ -32666,7 +32673,32 @@ Karna ki baatein sunkar Duryodhana ki aankhon mein aansu aa gaye. Uska voice sad
                 image_position="left"
             )
 
-            text2 = """ """
+            text2 = """ 
+            “Main aur mere brothers bahut der tak Gandharvas se lade. Dono sides par bahut warriors mare gaye. Lekin phir Gandharvas ne apni magical powers use ki aur sky mein udkar hum par attack karne lage.”
+
+“Uske baad battle equal nahi rahi. Hum haar gaye aur capture ho gaye. Woh hume — hamari wives, children, soldiers aur chariots ke saath — sky ke through le ja rahe the.”
+
+Duryodhana ne heavy heart se kaha,
+
+“Tab hamare kuch soldiers Pandavas ke paas help maangne gaye. Unhone Pandavas se kaha,
+
+‘Please king Duryodhana aur royal ladies ko rescue kijiye. Kuru family ki women ka insult mat hone dijiye.’”
+
+Yeh sunkar Yudhishthira ne turant apne brothers ko hume bachane bheja.
+
+“Pandavas ne pehle peacefully Gandharvas se baat ki aur hamari release maangi. Woh force use kar sakte the, lekin pehle kindness dikhayi.”
+
+“Lekin jab Gandharvas nahi maane, tab Arjuna, Bhima, Nakula aur Sahadeva ne powerful arrows ki baarish kar di.”
+
+Duryodhana ne yaad karte hue kaha,
+
+“Gandharvas fir sky mein bhaagne lage, lekin Arjuna ne arrows ka ek huge network bana diya. Poora sky arrows se bhar gaya tha.”
+
+“Tab Gandharvas ke king Citrasena saamne aaye. Jaise hi Arjuna ne unhe dekha, dono friends ki tarah gale mile aur ek dusre ka haal pucha.”
+
+“Baaki Pandavas ne bhi Citrasena ko respect diya. Fir Gandharvas aur Pandavas ne fight rok di aur friendly way mein baat karne lage.”
+
+Yeh sab yaad karke Duryodhana aur bhi zyada shame feel karne laga, kyunki jin Pandavas ko woh insult karta tha, wahi uski life bachane aaye the."""
             create_image_text_layout(
                 text_content=text2,
                 layout="full"
@@ -32676,7 +32708,18 @@ Karna ki baatein sunkar Duryodhana ki aankhon mein aansu aa gaye. Uska voice sad
         # Section 3.10.14
         # --------------------------------------------------
         with st.expander("Section 3.10.14  Section CCXLVII"):
-            text1 = """ """
+            text1 = """ 
+            😞 Duryodhana’s Deep Shame
+
+Duryodhana ne Karna se dukhi mann se kaha,
+
+“Arjuna ne Citrasena se calmly kaha,
+
+‘Jab tak Pandavas zinda hain, mere brothers ko insult nahi kiya ja sakta. Unhe free kar do.’”
+
+Duryodhana ne heavy voice mein kaha,
+
+“Fir Citrasena ne Pandavas ko hamari asli plan bata di — ki hum forest mein sirf Pandavas aur Draupadi ka mazaak udaane aaye the.”"""
             create_image_text_layout(
                 "attached_assets/chapter3/3.10.14.jpg",
                 text1,
@@ -32684,7 +32727,48 @@ Karna ki baatein sunkar Duryodhana ki aankhon mein aansu aa gaye. Uska voice sad
                 image_position="left"
             )
 
-            text2 = """ """
+            text2 = """ 
+            “Us moment mujhe itni shame hui ki laga earth phat jaaye aur main usme chhup jaun.”
+
+Fir Gandharvas Duryodhana aur uske family ko chains mein bandhkar Yudhishthira ke paas le gaye.
+
+Duryodhana ne pain se kaha,
+
+“Jin Pandavas ko maine hamesha hurt kiya, wahi meri life bachane aaye. Isse bada sorrow mere liye kya hoga?”
+
+“Kaash main battle mein mar jaata. Kam se kam honour ke saath death milti. Lekin ab main apne enemies ki kindness par zinda hoon.”
+
+Fir Duryodhana ne decide kiya,
+
+“Main ab Hastinapura wapas nahi jaunga. Main yahin food chhodkar apni life end kar dunga.”
+
+Usne Dussasana se kaha,
+
+“Tum mere place par king ban jao. Karna aur sab brothers ke saath earth rule karo.”
+
+Yeh sunkar Dussasana ro pada. Woh Duryodhana ke feet pakadkar bola,
+
+“Yeh kabhi nahi ho sakta! Aapke bina main kabhi king nahi banunga.”
+
+Usne crying voice mein kaha,
+
+“Chahe sky toot jaaye, sun ki light chali jaaye, ya ocean dry ho jaaye… fir bhi main aapke bina kingdom rule nahi karunga.”
+
+Dussasana baar baar bolta raha,
+
+“Please relent, O king! Sirf aap hi hamare king ho.”
+
+Dono brothers ko rote dekhkar Karna bhi emotional ho gaya. Woh unke paas aaya aur bola,
+
+“Princes, itna sorrow mat karo. Sirf ro kar problems solve nahi hoti.”
+
+Karna ne Duryodhana ko samjhaya,
+
+“Pandavas ne bas apna duty kiya hai. Woh tumhare kingdom mein rehte hain, isliye tumhari help karna unka responsibility tha.”
+
+Fir Karna ne kaha,
+
+“Please wapas chalo. Tumhare brothers tumhe itna dukhi dekhkar toot gaye hain.”"""
             create_image_text_layout(
                 text_content=text2,
                 layout="full"
@@ -32694,7 +32778,18 @@ Karna ki baatein sunkar Duryodhana ki aankhon mein aansu aa gaye. Uska voice sad
         # Section 3.10.15
         # --------------------------------------------------
         with st.expander("Section 3.10.15  Section CCXLVIII"):
-            text1 = """ """
+            text1 = """ 
+            🛡️ Karna Tries to Encourage Duryodhana
+
+Karna ne Duryodhana se calmly kaha,
+
+“O king, aaj tum jo kar rahe ho, woh childish lag raha hai. Isme itna sorrow karne wali kya baat hai?”
+
+Usne samjhate hue kaha,
+
+“Battle mein kabhi kabhi great warriors bhi haar jaate hain. Fir unke own soldiers ya friends unhe rescue karte hain. Yeh normal baat hai.”
+
+Karna ne aage kaha,"""
             create_image_text_layout(
                 "attached_assets/chapter3/3.10.15.jpg",
                 text1,
@@ -32702,7 +32797,28 @@ Karna ki baatein sunkar Duryodhana ki aankhon mein aansu aa gaye. Uska voice sad
                 image_position="left"
             )
 
-            text2 = """ """
+            text2 = """ 
+            “Pandavas tumhare kingdom mein rehte hain. Ek warrior ka duty hota hai ki woh apne king ki help kare. Isliye agar unhone tumhe rescue kiya, toh usme shame ki koi baat nahi.”
+
+Fir Karna ne thoda proudly kaha,
+
+“Actually Pandavas ko shuru se hi tumhare saath battle mein aana chahiye tha. Woh pehle tumhare control mein aa चुके hain, isliye unka farz tha ki woh tumhari help karein.”
+
+Usne Duryodhana ko motivate karte hue bola,
+
+“Tum abhi bhi powerful king ho. Tumhare paas wealth, army aur kingdom sab kuch hai. Pandavas bhi abhi tak zinda hain aur struggle kar rahe hain, lekin unhone life give up nahi ki.”
+
+Karna ne fir request ki,
+
+“Please itna sadness mein mat doobo. Utho aur wapas Hastinapura chalo. Agar tum fasting karke apni life end karoge, toh dusre kings tumhara mazaak udaayenge.”
+
+Usne emotional voice mein kaha,
+
+“Agar tum yahin rukoge, toh main bhi tumhe chhodkar nahi jaunga. Main tumhare saath hi rahunga.”
+
+Vaisampayana ne kaha,
+
+Karna ki itni baatein sunne ke baad bhi Duryodhana ka heart nahi badla. Woh still sadness aur shame mein dooba hua tha aur apni jagah se uthna nahi chahta tha."""
             create_image_text_layout(
                 text_content=text2,
                 layout="full"
@@ -32712,7 +32828,16 @@ Karna ki baatein sunkar Duryodhana ki aankhon mein aansu aa gaye. Uska voice sad
         # Section 3.10.16
         # --------------------------------------------------
         with st.expander("Section 3.10.16  Section CCXLIX"):
-            text1 = """ """
+            text1 = """ 
+            🌑 Duryodhana’s Despair and the Secret of the Daityas
+
+Vaisampayana ne kaha,
+
+Duryodhana ko itni shame feel ho rahi thi ki woh food chhodkar apni life end karne ka decision le chuka tha. Yeh dekhkar Shakuni uske paas aaya aur bola,
+
+“O king, Karna ne bilkul wise baat kahi hai. Tum itni prosperity aur power paakar bhi itna hopeless kyun ho rahe ho?”
+
+Shakuni ne samjhaya,"""
             create_image_text_layout(
                 "attached_assets/chapter3/3.10.16.jpg",
                 text1,
@@ -32720,7 +32845,42 @@ Karna ki baatein sunkar Duryodhana ki aankhon mein aansu aa gaye. Uska voice sad
                 image_position="left"
             )
 
-            text2 = """ """
+            text2 = """ 
+            “Jo person apni happiness aur sorrow ko control nahi kar pata, woh weak ho jaata hai. Ek king ko courage aur patience rakhna chahiye.”
+
+Fir usne surprising advice di,
+
+“Pandavas ne tumhari help ki hai. Unke good deed ko respect karo. Agar tum unhe unka kingdom wapas de do aur friendship bana lo, toh tumhe honour aur happiness dono milenge.”
+
+Lekin yeh sab sunne ke baad bhi Duryodhana aur zyada sadness mein doob gaya.
+
+Usne dukhi voice mein kaha,
+
+“Mujhe ab kingdom, wealth, friendship ya pleasures mein koi interest nahi. Mujhe akela chhod do. Main fasting karke apni life end karunga.”
+
+Uske friends aur brothers bole,
+
+“Agar aap nahi chalenge, toh hum bhi city wapas nahi jayenge.”
+
+Lekin Duryodhana apne decision se nahi badla.
+
+Usne Kusa grass zameen par bichhayi, simple clothes pehne aur silence mein baithkar apna starvation vow shuru kar diya. Woh andar hi andar prayers karne laga.
+
+Isi waqt netherworld mein rehne wale Daityas aur Danavas ko pata chala ki Duryodhana apni life end karna chahta hai. Woh jaante the ki agar Duryodhana mar gaya, toh unki side weak ho jayegi.
+
+Isliye unhone ek secret ritual aur fire sacrifice shuru kiya. Powerful mantras aur prayers se unhone ek strange goddess ko summon kiya.
+
+Woh goddess fire se bahar aayi aur boli,
+
+“Mujhe kya karna hai?”
+
+Daityas ne kaha,
+
+“Jaao aur Duryodhana ko yahan le aao.”
+
+Woh goddess ek moment mein Duryodhana ke paas pahunch gayi aur usse secretly netherworld le aayi.
+
+Daityas aur Danavas Duryodhana ko dekhkar bahut happy hue. Sab uski taraf respect aur excitement se dekhne lage, jaise woh unke liye bahut important ho."""
             create_image_text_layout(
                 text_content=text2,
                 layout="full"
@@ -32730,7 +32890,12 @@ Karna ki baatein sunkar Duryodhana ki aankhon mein aansu aa gaye. Uska voice sad
         # Section 3.10.17
         # --------------------------------------------------
         with st.expander("Section 3.10.17  Section CCL"):
-            text1 = """ """
+            text1 = """ 
+            🔥 Daityas Give Duryodhana New Hope
+Daityas ne Duryodhana se kaha,
+“O king, tum itne great warriors se ghire ho. Fir tum fasting karke apni life end kyun karna chahte ho? Aisa act sirf sorrow aur dishonour deta hai.” 
+Unhone Duryodhana ko encourage karte hue kaha,
+“Tum ordinary human nahi ho. Tumhara body divine powers se bana hai. Tumhe Mahadeva aur Devi ki blessings mili hui hain.” """
             create_image_text_layout(
                 "attached_assets/chapter3/3.10.17.jpg",
                 text1,
@@ -32738,7 +32903,27 @@ Karna ki baatein sunkar Duryodhana ki aankhon mein aansu aa gaye. Uska voice sad
                 image_position="left"
             )
 
-            text2 = """ """
+            text2 = """ 
+            Fir Daityas ne secret baat batayi,
+“Bahut saare Asuras already earth par born ho chuke hain tumhari help ke liye. Woh Bhishma, Drona, Karna aur dusre warriors ko influence karenge.” 
+Unhone kaha,
+“Jab war hoga, yeh warriors emotions aur kindness bhoolkar fiercely fight karenge. Earth ek huge battlefield ban jayegi.” 
+Fir unhone Arjuna ke baare mein kaha,
+“Tum Arjuna se mat daro. Karna hi usse battle mein haraayega. Naraka ki soul Karna mein hai aur woh Arjuna aur Krishna dono ka enemy hai.” 
+Daityas ne yeh bhi bataya ki powerful Samsaptaka warriors bhi Arjuna ko destroy karne ke liye ready hain. 
+Fir unhone Duryodhana se kaha,
+“Tum poori earth rule karoge. Isliye hopeless mat ho. Tum hamare support ho.” 
+Yeh sab sunkar Duryodhana ka confidence wapas aane laga. Daityas ne usse bless kiya aur woh strange goddess use wapas usi jagah le aayi jahan woh fasting kar raha tha. 
+Duryodhana ko laga jaise yeh sab ek strange dream tha.
+Lekin ab uske heart mein ek new determination aa chuki thi.
+Usne socha,
+“Main battle mein Pandavas ko zaroor haraunga.” 
+Subah Karna uske paas aaya aur smilingly bola,
+“Dead person kabhi enemies ko defeat nahi kar sakta. Victory sirf living warriors ko milti hai.” 
+Fir Karna ne promise kiya,
+“Main oath leta hoon ki exile khatam hone ke baad main Arjuna ko battle mein kill karunga aur Pandavas ko tumhare control mein le aaunga.” 
+Yeh sunkar Duryodhana finally uth khada hua. Usne apni huge army ko ready kiya. Horses, elephants, chariots aur soldiers se poori army shine kar rahi thi. 
+Karna, Shakuni aur sab brothers ke saath Duryodhana proudly Hastinapura ki taraf wapas chal pada. """
             create_image_text_layout(
                 text_content=text2,
                 layout="full"
