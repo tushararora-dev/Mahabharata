@@ -32933,7 +32933,18 @@ Karna, Shakuni aur sab brothers ke saath Duryodhana proudly Hastinapura ki taraf
         # Section 3.10.18
         # --------------------------------------------------
         with st.expander("Section 3.10.18  Section CCLI"):
-            text1 = """ """
+            text1 = """ 
+            ⚔️ Bhīṣma Scolds Duryodhana
+
+Janamejaya ne poocha,
+
+“Jab Pandavas forest mein reh rahe the, tab Duryodhana, Karna, Śakuni, Bhīṣma aur dusre Kauravas kya kar rahe the?”
+
+Vaisampayana ne kaha,
+
+Jab Duryodhana Pandavas se rescue hokar Hastinapura wapas aaya, tab Bhīṣma ne usse strict words mein samjhaya.
+
+Bhīṣma bole,"""
             create_image_text_layout(
                 "attached_assets/chapter3/3.10.18.jpg",
                 text1,
@@ -32941,7 +32952,48 @@ Karna, Shakuni aur sab brothers ke saath Duryodhana proudly Hastinapura ki taraf
                 image_position="left"
             )
 
-            text2 = """ """
+            text2 = """ 
+            “Duryodhana, maine tumhe pehle hi mana kiya tha forest jaane se. Lekin tumne meri baat nahi maani. Uska result yeh hua ki tum Gandharvas ke haath capture ho gaye aur Pandavas ne tumhari life bachayi.”
+
+Fir Bhīṣma ne Karna ki taraf dekhkar kaha,
+
+“Battle ke time Karna fear se bhaag gaya tha, jabki Pandavas ne bahaduri dikhayi.”
+
+Unhone firmly kaha,
+
+“Heroism, morality aur warfare mein Karna Pandavas ke equal bhi nahi hai. Isliye sabse best cheez yeh hogi ki tum Pandavas ke saath peace kar lo.”
+
+Yeh baatein sunkar Duryodhana ko bahut bura laga. Woh haste hue wahan se nikal gaya aur Śakuni uske saath chala gaya. Karna aur Dussasana bhi unke peeche chale gaye.
+
+Bhīṣma unhe jaata dekhkar shame aur sadness se apna head jhuka kar apne room chale gaye.
+
+Uske baad Duryodhana secretly apne counsellors ke saath meeting karne laga.
+
+Usne poocha,
+
+“Ab hamare liye best kya hai? Hume kya karna chahiye?”
+
+Tab Karna proudly bola,
+
+“Bhīṣma hamesha Pandavas ki praise karta hai aur hume insult karta hai. Woh specially mujhe dislike karta hai.”
+
+Karna ne gusse mein kaha,
+
+“Pandavas ne earth conquer ki thi, lekin ab main akela hi poori earth tumhare liye jeetunga. Main Bhīṣma ko apni power dikhaunga.”
+
+Fir usne oath li,
+
+“Main apne weapons ki kasam khaakar kehta hoon ki victory tumhari hogi.”
+
+Yeh sunkar Duryodhana bahut khush ho gaya.
+
+Usne Karna se kaha,
+
+“Friend, tum sach mein mere greatest support ho. Tumhare jaise warrior ke hote hue mujhe kisi se fear nahi.”
+
+Fir Karna ne ek huge military campaign ki preparation shuru kar di. Auspicious day choose kiya gaya, rituals hue aur Brahmanas ne blessings di.
+
+Finally Karna apne grand chariot par sawar hokar loud war sounds ke saath victory journey ke liye nikal pada."""
             create_image_text_layout(
                 text_content=text2,
                 layout="full"
@@ -32951,7 +33003,14 @@ Karna, Shakuni aur sab brothers ke saath Duryodhana proudly Hastinapura ki taraf
         # Section 3.10.19
         # --------------------------------------------------
         with st.expander("Section 3.10.19  Section CCLII"):
-            text1 = """ """
+            text1 = """ 
+            ⚔️ Karna’s Great Conquest
+
+Vaisampayana ne kaha,
+
+Karna apni huge army ke saath victory campaign par nikal pada. Sabse pehle usne King Drupada ki beautiful city ko gher liya. Bahut tough battle hui, lekin finally Karna ne Drupada ko hara diya.
+
+Drupada ko gold, silver, gems aur tribute dena pada. Karna ne Drupada ke under wale dusre kings ko bhi apne control mein kar liya."""
             create_image_text_layout(
                 "attached_assets/chapter3/3.10.19.jpg",
                 text1,
@@ -32959,7 +33018,40 @@ Karna, Shakuni aur sab brothers ke saath Duryodhana proudly Hastinapura ki taraf
                 image_position="left"
             )
 
-            text2 = """ """
+            text2 = """ 
+            Uske baad Karna north ki taraf gaya. Wahan usne bahut saare rulers ko defeat kiya aur powerful king Bhagadatta ko bhi hara diya. Fir woh Himavat mountains tak pahunch gaya aur wahan ke kings ko bhi tribute dene par majboor kar diya.
+
+Fir Karna east ki taraf gaya.
+
+Usne Anga, Banga, Kalinga, Magadha aur bahut saare eastern kingdoms ko defeat kiya. Ek ke baad ek sab kings uske saamne surrender karne lage.
+
+South mein jaakar Karna ka battle mighty warrior Rukmi se hua. Fierce fight ke baad Rukmi impressed ho gaya aur bola,
+
+“Karna, tumhari bravery amazing hai. Main tumhari power se pleased hoon.”
+
+Usne peacefully Karna ko wealth aur tribute de diya.
+
+Fir Karna ne aur bhi southern kings ko hara diya aur west direction mein bhi apni victories continue rakhi. Yavanas aur dusre foreign rulers ko bhi usne tribute dene par force kar diya.
+
+Is tarah Karna ne east, west, north aur south — poori earth par apni power dikha di. Bahut saare mountain tribes aur foreign kingdoms bhi uske control mein aa gaye.
+
+Finally Karna huge glory aur wealth ke saath Hastinapura wapas aaya.
+
+Duryodhana, Dhritarashtra, Gandhari aur sab Kauravas uska welcome karne aaye. Duryodhana bahut excited tha.
+
+Usne proudly kaha,
+
+“Karna, jo mujhe Bhīṣma, Droṇa ya Kripa se nahi mila, woh sab mujhe tumse mila hai. Tum hi mere greatest support ho.”
+
+Duryodhana ne aur bhi proudly kaha,
+
+“Mujhe lagta hai Pandavas aur dusre kings tumhare saamne kuch bhi nahi.”
+
+Hastinapura mein log alag-alag reactions dene lage. Kuch kings Karna ki praise kar rahe the, kuch uski criticism kar rahe the, aur kuch chup the.
+
+Fir Karna palace ke andar gaya aur respectfully Dhritarashtra aur Gandhari ke feet touch kiye, bilkul ek obedient son ki tarah. Dhritarashtra ne bhi usse pyaar se hug kiya.
+
+Us din ke baad Duryodhana aur Śakuni ko lagne laga ki Karna ki strength ke saamne Pandavas already weak pad chuke hain."""
             create_image_text_layout(
                 text_content=text2,
                 layout="full"
@@ -32969,7 +33061,22 @@ Karna, Shakuni aur sab brothers ke saath Duryodhana proudly Hastinapura ki taraf
         # Section 3.10.20
         # --------------------------------------------------
         with st.expander("Section 3.10.20  Section CCLIII"):
-            text1 = """ """
+            text1 = """ 
+            👑 Duryodhana’s Desire for a Great Sacrifice
+
+Vaisampayana ne kaha,
+
+Karna ne proudly Duryodhana se kaha,
+
+“O king, ab poori earth almost tumhare control mein aa chuki hai. Tumhare enemies weak ho gaye hain. Ab tum Indra ki tarah peacefully rule karo.”
+
+Duryodhana yeh sunkar bahut khush hua. Usne Karna se kaha,
+
+“Jiske paas tum jaise friend ho, uske liye kuch bhi impossible nahi hai.”
+
+Fir Duryodhana ne apne heart ki wish batayi.
+
+Usne kaha,"""
             create_image_text_layout(
                 "attached_assets/chapter3/3.10.20.jpg",
                 text1,
@@ -32977,7 +33084,44 @@ Karna, Shakuni aur sab brothers ke saath Duryodhana proudly Hastinapura ki taraf
                 image_position="left"
             )
 
-            text2 = """ """
+            text2 = """ 
+            “Jab maine Pandavas ka grand Rājasūya sacrifice dekha tha, tabse mere mann mein bhi same sacrifice karne ki desire hai. Karna, meri yeh wish poori karo.”
+
+Karna ne turant jawab diya,
+
+“Ab jab sab kings tumhare under aa gaye hain, toh sacrifice ke liye preparations shuru karo. Great Brahmanas ko bulao aur huge ceremony arrange karo.”
+
+Duryodhana ne apne royal priest ko bulaya aur kaha,
+
+“Please mere liye Rājasūya sacrifice perform kijiye.”
+
+Lekin priest ne respectfully jawab diya,
+
+“O king, jab tak Yudhishthira alive hain aur Dhritarashtra bhi jeevit hain, tab tak aap Rājasūya perform nahi kar sakte.”
+
+Fir priest ne ek aur suggestion diya,
+
+“Lekin ek aur great sacrifice hai — Vaiṣṇava sacrifice. Yeh bhi bahut glorious hai aur almost Rājasūya ke equal mana jaata hai.”
+
+Usne samjhaya,
+
+“Sab tributary kings jo gold laaye hain, us gold se ek special sacrificial plough banaya jaaye. Fir usse sacred ground ko plough kiya jaaye aur proper Vedic rituals ke saath sacrifice start ho.”
+
+Priest ne kaha,
+
+“Yeh sacrifice peaceful hoga aur aapki wish bhi poori ho jayegi.”
+
+Duryodhana ko yeh idea pasand aa gaya.
+
+Usne Karna, Śakuni aur apne brothers ki taraf dekha aur poocha,
+
+“Kya tum sab bhi isse agree karte ho?”
+
+Sabne ek saath kaha,
+
+“So be it.”
+
+Fir Duryodhana ne different people ko alag-alag duties di. Artisans ko special golden plough banane ka order diya gaya aur dheere dheere sacrifice ki saari preparations shuru ho gayin."""
             create_image_text_layout(
                 text_content=text2,
                 layout="full"
@@ -32987,7 +33131,20 @@ Karna, Shakuni aur sab brothers ke saath Duryodhana proudly Hastinapura ki taraf
         # Section 3.10.21
         # --------------------------------------------------
         with st.expander("Section 3.10.21  Section CCLIV"):
-            text1 = """ """
+            text1 = """ 
+            🔥 Duryodhana’s Grand Sacrifice
+
+Vaisampayana ne kaha,
+
+Kuch time baad artisans, counsellors aur wise Vidura ne Duryodhana se kaha,
+
+“O king, sacrifice ki saari preparations complete ho chuki hain. Special golden plough bhi ready hai.”
+
+Yeh sunkar Duryodhana bahut khush hua aur usne grand sacrifice shuru karne ka order diya. Vedic mantras ke saath ceremony start hui aur Duryodhana properly initiated hua.
+
+Dhritarashtra, Vidura, Bhīṣma, Droṇa, Kripa, Karna aur Gandhari sab yeh dekhkar pleased hue.
+
+Fir Duryodhana ne fast messengers ko different kingdoms mein bheja taki kings aur Brahmanas ko invite kiya ja sake."""
             create_image_text_layout(
                 "attached_assets/chapter3/3.10.21.jpg",
                 text1,
@@ -32995,7 +33152,42 @@ Karna, Shakuni aur sab brothers ke saath Duryodhana proudly Hastinapura ki taraf
                 image_position="left"
             )
 
-            text2 = """ """
+            text2 = """ 
+            Tab Dussasana ne ek messenger se specially kaha,
+
+“Dvaita forest jao aur Pandavas ko bhi invite karo.”
+
+Messenger forest pahunchkar respectfully Pandavas ko pranam karke bola,
+
+“King Duryodhana ne apni power aur wealth se ek great sacrifice organize kiya hai. Bahut saare kings aur Brahmanas wahan aa rahe hain. Aap sabko bhi respectfully invite kiya gaya hai.”
+
+Yudhishthira calmly bole,
+
+“Yeh achhi baat hai ki Duryodhana apne family ka honour badha raha hai. Hum zaroor aate, lekin abhi hum apna exile vow follow kar rahe hain. Thirteenth year complete hone tak hum nahi aa sakte.”
+
+Lekin Bhīma ko yeh sunkar gussa aa gaya.
+
+Usne fiercely kaha,
+
+“Jaakar Duryodhana se kehna — Yudhishthira uske sacrifice mein tab aayenge jab battle ke fire mein usse destroy karenge!”
+
+Bhīma ne aur bhi strongly kaha,
+
+“Thirteenth year ke baad battle hi hamara real sacrifice hoga, aur usme Dhritarashtra ke sons hamare anger ka ghee banenge.”
+
+Baaki Pandavas chup rahe aur koi harsh words nahi bole.
+
+Messenger wapas jaakar Duryodhana ko sab bata diya.
+
+Meanwhile Hastinapura mein bahut saare kings aur Brahmanas sacrifice attend karne aaye. Sabka royal welcome hua. Rich food, drinks, clothes aur garlands diye gaye.
+
+Dhritarashtra ne happily Vidura se kaha,
+
+“Dhyaan rakho ki sab guests properly served aur satisfied hon.”
+
+Vidura ne wisely sab arrangements handle kiye. Huge pavilions banaye gaye aur thousands of guests ko respect aur gifts diye gaye.
+
+Sacrifice successfully complete hone ke baad Duryodhana apne brothers, Karna aur Śakuni ke saath proudly Hastinapura laut gaya."""
             create_image_text_layout(
                 text_content=text2,
                 layout="full"
@@ -33005,7 +33197,16 @@ Karna, Shakuni aur sab brothers ke saath Duryodhana proudly Hastinapura ki taraf
         # Section 3.10.22
         # --------------------------------------------------
         with st.expander("Section 3.10.22  Section CCLV"):
-            text1 = """ """
+            text1 = """ 
+            👑 Duryodhana’s Pride and Karna’s Terrible Vow
+
+Vaisampayana ne kaha,
+
+Jab Duryodhana sacrifice complete karke Hastinapura wapas enter kar raha tha, tab singers aur citizens uski praise karne lage. Log uspar sandal paste aur fried rice chhidak kar bole,
+
+“O king, achha hua aapka sacrifice peacefully complete ho gaya.”
+
+Lekin kuch log honestly kehne lage,"""
             create_image_text_layout(
                 "attached_assets/chapter3/3.10.22.jpg",
                 text1,
@@ -33013,7 +33214,56 @@ Karna, Shakuni aur sab brothers ke saath Duryodhana proudly Hastinapura ki taraf
                 image_position="left"
             )
 
-            text2 = """ """
+            text2 = """ 
+            “Yeh sacrifice Yudhishthira ke Rājasūya ke equal nahi hai. Uska toh sixteenth part bhi nahi.”
+
+Yeh sunkar Duryodhana ko andar se bura laga.
+
+Lekin uske friends turant bole,
+
+“Nahi! Yeh sacrifice bhi bahut great hai. Ancient kings jaise Yayati aur Bharata bhi aise sacrifices karke heaven gaye the.”
+
+In sweet words ko sunkar Duryodhana phir happy ho gaya aur proudly palace mein enter kiya.
+
+Usne Dhritarashtra, Gandhari, Bhīṣma, Droṇa, Kripa aur Vidura ko respect diya aur fir apne brothers ke saath royal seat par baith gaya.
+
+Tab Karna uthkar bola,
+
+“O king, aaj tumhara sacrifice successfully complete hua hai. Lekin jis din Pandavas battle mein mare jaayenge aur tum Rājasūya sacrifice karoge, us din main tumhe aur bhi zyada honour dunga.”
+
+Duryodhana ne bhi proudly jawab diya,
+
+“Bilkul sahi kaha tumne. Jab Pandavas destroy ho jayenge, tab main grand Rājasūya zaroor perform karunga.”
+
+Yeh kehkar Duryodhana ne Karna ko tightly hug kiya aur future victory ke dreams dekhne laga.
+
+Fir usne Kauravas se kaha,
+
+“Kaash woh din jaldi aaye jab hum Pandavas ko hara kar Rājasūya celebrate karein.”
+
+Tab Karna ne ek dangerous vow liya.
+
+Usne loudly kaha,
+
+“Jab tak main Arjuna ko battle mein nahi maar deta, tab tak main apne feet wash nahi karwaunga aur meat bhi nahi khaunga.”
+
+Fir usne aur promise kiya,
+
+“Jo bhi mujhse kuch maangega, main kabhi mana nahi karunga.”
+
+Karna ki yeh fierce oath sunkar Dhritarashtra ke sons loudly cheer karne lage. Unhe laga jaise Pandavas already defeat ho chuke hain.
+
+Uske baad Duryodhana happily apne private chambers mein chala gaya aur sab warriors bhi apne homes laut gaye.
+
+Lekin forest mein Pandavas ko spies se Karna ki vow ke baare mein pata chala.
+
+Yudhishthira bahut worried ho gaye. Woh Karna ki natural armour aur great power ko jaante the. Unhe future battles aur apni sufferings yaad aane lagi.
+
+Anxiety mein Pandavas ne decide kiya ki woh Dvaitavana forest chhod denge.
+
+Meanwhile Duryodhana Hastinapura mein Bhīṣma, Droṇa, Kripa aur Karna ki help se kingdom rule karne laga. Woh kings ki help karta, Brahmanas ko gifts deta aur many sacrifices perform karta tha.
+
+Uska maanna tha ki wealth ka best use hai — enjoy karna aur dusron ko dena."""
             create_image_text_layout(
                 text_content=text2,
                 layout="full"
