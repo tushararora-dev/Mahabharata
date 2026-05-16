@@ -33273,7 +33273,14 @@ Uska maanna tha ki wealth ka best use hai — enjoy karna aur dusron ko dena."""
         # Section 3.10.23
         # --------------------------------------------------
         with st.expander("Section 3.10.23  Section CCLVI"):
-            text1 = """ """
+            text1 = """ 
+            🦌 Yudhishthira’s Compassion for the Forest Animals
+
+Janamejaya ne poocha,
+
+“Duryodhana ko rescue karne ke baad Pandavas ne forest mein kya kiya?”
+
+Vaisampayana ne kaha,"""
             create_image_text_layout(
                 "attached_assets/chapter3/3.10.23.jpg",
                 text1,
@@ -33281,7 +33288,46 @@ Uska maanna tha ki wealth ka best use hai — enjoy karna aur dusron ko dena."""
                 image_position="left"
             )
 
-            text2 = """ """
+            text2 = """ 
+            Ek raat Dvaita forest mein Yudhishthira so rahe the. Sleep mein unhone ek strange dream dekha. Kuch deer unke saamne aaye. Woh fear aur sadness se kaanp rahe the.
+
+Yudhishthira ne kindly poocha,
+
+“Tum kaun ho? Aur kya chahte ho?”
+
+Deer folded hands ke saath bole,
+
+“O king, hum wahi deer hain jo hunters aur warriors se bach gaye hain. Bahut saare animals already mare ja chuke hain. Ab hum bas thode hi bache hain, jaise future generation ke seeds.”
+
+Unhone request ki,
+
+“Please yeh forest chhod dijiye. Aap aur aapke brothers great warriors hain aur aap log hunting karte karte forest ke animals ko almost khatam kar chuke hain. Agar aap yahan se chale jaayenge, toh hum phir se grow kar payenge.”
+
+Yeh sunkar Yudhishthira ka heart sadness se bhar gaya.
+
+Woh sab creatures ki welfare ki chinta karte the. Unhone deer se gently kaha,
+
+“So be it. Main tumhari baat maanunga.”
+
+Subah uthkar Yudhishthira ne apne brothers ko dream ke baare mein bataya.
+
+Unhone kaha,
+
+“Hum ek year aur eight months se yahan reh rahe hain aur forest animals par depend kar rahe hain. Deer ki baat sahi hai. Hume un par compassion dikhani chahiye.”
+
+Fir Yudhishthira ne suggest kiya,
+
+“Chalo hum sab Kamyaka forest chalte hain. Wahan bahut animals aur beautiful nature hai. Hum apna remaining exile wahan peacefully spend karenge.”
+
+Pandavas sab agree ho gaye.
+
+Fir Pandavas, Brahmanas aur unke servants sab milkar Dvaita forest chhodkar journey par nikal pade.
+
+Travel karte hue woh clean water aur fertile lands se guzre aur finally sacred Kamyaka forest pahunch gaye.
+
+Woh forest bahut peaceful aur spiritually powerful tha.
+
+Pandavas aur unke saath ke Brahmanas wahan enter hue, bilkul waise jaise pious souls heaven mein enter karte hain."""
             create_image_text_layout(
                 text_content=text2,
                 layout="full"
@@ -33291,7 +33337,16 @@ Uska maanna tha ki wealth ka best use hai — enjoy karna aur dusron ko dena."""
         # Section 3.10.24
         # --------------------------------------------------
         with st.expander("Section 3.10.24  Section CCLVII"):
-            text1 = """ """
+            text1 = """ 
+            🌿 Vyāsa Gives Wisdom to the Pandavas
+
+Vaisampayana ne kaha,
+
+Pandavas forest mein bahut difficult life jee rahe the. Woh fruits aur roots khaakar apna time spend karte the.
+
+Yudhishthira ko hamesha guilt feel hota tha. Unhe lagta tha ki unke gambling mistake ki wajah se hi sab brothers aur Draupadī ko itna suffering jhelna pad raha hai.
+
+Woh raat ko peacefully so bhi nahi paate the. Karna ke harsh words aur sab humiliations yaad karke unka heart pain se bhar jaata tha."""
             create_image_text_layout(
                 "attached_assets/chapter3/3.10.24.jpg",
                 text1,
@@ -33299,7 +33354,46 @@ Uska maanna tha ki wealth ka best use hai — enjoy karna aur dusron ko dena."""
                 image_position="left"
             )
 
-            text2 = """ """
+            text2 = """ 
+            Bhīma, Arjuna, Nakula, Sahadeva aur Draupadī bhi Yudhishthira ko itna sad dekhkar deeply hurt feel karte the.
+
+Ek din great sage Vyāsa unse milne forest aaye. Pandavas ne respect ke saath unka welcome kiya.
+
+Vyāsa ne apne grandsons ko weak aur suffering condition mein dekha toh unka heart compassion se bhar gaya. Tears ke saath unhone Yudhishthira ko wisdom di.
+
+Vyāsa bole,
+
+“O Yudhishthira, life mein happiness aur sorrow dono aate hain. Koi bhi person hamesha sirf happiness enjoy nahi karta.”
+
+Unhone calmly kaha,
+
+“Wise person success mein over-happy nahi hota aur suffering mein toot bhi nahi jaata. Happiness aaye toh peacefully enjoy karo, aur misery aaye toh patience se bear karo.”
+
+Vyāsa ne bataya,
+
+“Tapasya aur self-control bahut powerful hote hain. Truthfulness, anger control, honesty, purity aur kindness insaan ko spiritually strong banate hain.”
+
+Unhone kaha,
+
+“Jealousy aur hatred chhodne wala person real peace paata hai. Jo sabko respect deta hai aur apni senses control karta hai, woh misfortune se bach jaata hai.”
+
+Fir Yudhishthira ne ek important question poocha,
+
+“O sage, charity aur austerity mein se next world ke liye zyada powerful kya hai? Aur harder kya hai?”
+
+Vyāsa ne answer diya,
+
+“Sabse difficult cheez charity hai.”
+
+Unhone explain kiya,
+
+“Wealth kamaana bahut hard hota hai. Log uske liye oceans, forests aur dangerous works tak karte hain. Isliye honestly earned wealth ko dusron ko dena bahut great act mana jaata hai.”
+
+Vyāsa ne aur kaha,
+
+“Lekin charity pure heart se aur right person ko di jaani chahiye. Even chhota sa honest gift bhi next life mein huge blessings deta hai.”
+
+Fir Vyāsa ne Yudhishthira ko Mudgala naam ke wise man ki old story sunane ka decide kiya — jo sirf thoda sa grain donate karke bhi great spiritual reward pa gaya tha."""
             create_image_text_layout(
                 text_content=text2,
                 layout="full"
@@ -33309,7 +33403,14 @@ Uska maanna tha ki wealth ka best use hai — enjoy karna aur dusron ko dena."""
         # Section 3.10.25
         # --------------------------------------------------
         with st.expander("Section 3.10.25  Section CCLVIII"):
-            text1 = """ """
+            text1 = """ 
+            🌾 The Charity of Sage Mudgala
+
+Yudhishthira ne poocha,
+
+“O sage, Mudgala ne sirf ek drona grain donate karke itna great reward kaise paaya? Please uski story bataiye.”
+
+Vyāsa ne kaha,"""
             create_image_text_layout(
                 "attached_assets/chapter3/3.10.25.jpg",
                 text1,
@@ -33317,7 +33418,56 @@ Uska maanna tha ki wealth ka best use hai — enjoy karna aur dusron ko dena."""
                 image_position="left"
             )
 
-            text2 = """ """
+            text2 = """ 
+            Kurukṣetra mein Mudgala naam ke ek wise sage rehte the. Woh truthful, peaceful aur very simple life jeete the.
+
+Woh fields mein gir jaane wale grains collect karke apna guzaara karte the. Bahut difficult life thi, lekin fir bhi woh guests aur Brahmanas ko food khilate the.
+
+Mudgala, unki wife aur son kabhi kabhi poore fortnight mein sirf ek baar properly khaate the. Baaki time woh little grains collect karke survive karte the.
+
+Fir bhi woh sacrifices aur charity continue rakhte the. Unka heart hamesha cheerful aur pure rehta tha.
+
+Unki generosity itni special thi ki jab bhi koi guest aata, unka little grain somehow sabke liye enough ho jaata. Hundreds of Brahmanas tak feed ho jaate the.
+
+Ek din famous sage Durvāsā unke ghar aaye.
+
+Durvāsā strange appearance mein the — almost like a mad ascetic. Woh loudly aur harsh words bolte hue aaye aur bole,
+
+“Mujhe food chahiye!”
+
+Mudgala ne respectfully unka welcome kiya aur jo bhi food tha sab unke saamne rakh diya.
+
+Durvāsā ne saara food kha liya.
+
+Fir bhi Mudgala ne happily aur food laakar diya. Durvāsā ne woh bhi finish kar diya aur leftover food apne body par lagaakar chale gaye.
+
+Iske baad bhi Durvāsā baar baar aaye — total six times.
+
+Har baar woh saara food kha jaate aur Mudgala aur unki family khud hungry reh jaati.
+
+Lekin amazing baat yeh thi ki Mudgala kabhi angry, sad ya frustrated nahi hue. Hunger aur suffering bhi unka calm mind disturb nahi kar paayi.
+
+Finally Durvāsā bahut pleased ho gaye.
+
+Unhone kaha,
+
+“Tumhare jaisa charitable aur pure-hearted person duniya mein bahut rare hai. Hunger usually logon ka patience aur righteousness destroy kar deta hai, lekin tumne perfect self-control dikhaya hai.”
+
+Durvāsā ne bless karte hue kaha,
+
+“Tumne apne good deeds se heavenly worlds earn kar liye hain. Tum apne own body ke saath heaven jaoge.”
+
+Usi moment ek divine celestial chariot sky se aaya. Woh beautiful bells, fragrance aur swans se decorated tha.
+
+Celestial messenger ne Mudgala se kaha,
+
+“O sage, yeh heavenly chariot aapke good deeds ka reward hai. Please isme baithkar heaven chaliye.”
+
+Lekin Mudgala ne immediately heaven accept nahi kiya.
+
+Unhone wisely poocha,
+
+“Please pehle mujhe heaven ke benefits aur problems dono honestly bataiye. Fir main decide karunga ki mujhe kya karna chahiye.”"""
             create_image_text_layout(
                 text_content=text2,
                 layout="full"
@@ -33327,7 +33477,16 @@ Uska maanna tha ki wealth ka best use hai — enjoy karna aur dusron ko dena."""
         # Section 3.10.26
         # --------------------------------------------------
         with st.expander("Section 3.10.26  Section CCLIX"):
-            text1 = """ """
+            text1 = """ 
+            🌤️ Mudgala Rejects Heaven
+
+Vyāsa ne story continue karte hue kaha,
+
+Celestial messenger ne Mudgala se kaha,
+
+“O sage, heaven ek wonderful place hai. Wahan sirf virtuous aur self-controlled people hi ja sakte hain.”
+
+Usne heaven ki beauty describe ki."""
             create_image_text_layout(
                 "attached_assets/chapter3/3.10.26.jpg",
                 text1,
@@ -33335,7 +33494,54 @@ Uska maanna tha ki wealth ka best use hai — enjoy karna aur dusron ko dena."""
                 image_position="left"
             )
 
-            text2 = """ """
+            text2 = """ 
+            Wahan divine gardens, shining palaces aur golden Meru mountain tha. Celestial beings, Gandharvas aur Apsarās wahan happily rehte the.
+
+Messenger ne kaha,
+
+“Wahan na hunger hoti hai, na thirst, na old age aur na sorrow. Divine fragrance aur sweet music har taraf hota hai.”
+
+“Log beautiful shining forms mein rehte hain aur unke garlands kabhi fade nahi hote.”
+
+Fir usne aur higher spiritual worlds ke baare mein bataya.
+
+“Sabse supreme place Para Brahma ka eternal realm hai — Viṣṇu ka divine abode. Wahan sirf wohi ja sakte hain jo pride, anger, greed aur attachment se free hote hain.”
+
+Lekin messenger ne heaven ki problems bhi honestly batayi.
+
+Usne kaha,
+
+“Heaven mein log sirf apne past good deeds ka reward enjoy karte hain. Wahan naye good deeds earn nahi kiye ja sakte.”
+
+“Jab unka merit khatam ho jaata hai, toh unhe heaven chhodkar wapas lower worlds mein aana padta hai. Yeh fall bahut painful hota hai.”
+
+“Jo log heaven ki happiness enjoy kar chuke hote hain, unke liye neeche aana aur bhi zyada sad hota hai.”
+
+Mudgala ne yeh sab carefully suna aur deeply socha.
+
+Fir woh calmly bole,
+
+“O divine messenger, main aapko pranam karta hoon. Lekin mujhe aisa heaven nahi chahiye jahan se ek din fall hona pade.”
+
+“Main us eternal place ko paana chahta hoon jahan sorrow, fear aur regret kabhi na ho.”
+
+Messenger ne jawab diya,
+
+“Us supreme eternal state ko sirf woh log paate hain jo attachment aur ego chhod dete hain aur meditation aur self-control follow karte hain.”
+
+Yeh sunkar Mudgala completely peaceful ho gaye.
+
+Ab unke liye praise aur insult, stone aur gold sab equal ho gaye. Woh hamesha meditation aur spiritual knowledge mein absorbed rehne lage.
+
+Finally Mudgala ne eternal liberation attain kar li — ek aisi state jahan kabhi downfall nahi hota.
+
+Story finish karke Vyāsa ne Yudhishthira se kaha,
+
+“O son of Kunti, tum bhi sorrow mat karo. Life mein happiness aur misery wheel ki tarah turn by turn aati rehti hain.”
+
+“Thirteenth year complete hone ke baad tum apna kingdom wapas paa loge.”
+
+Yeh comforting wisdom dene ke baad sage Vyāsa apne hermitage wapas chale gaye."""
             create_image_text_layout(
                 text_content=text2,
                 layout="full"
@@ -33345,7 +33551,14 @@ Uska maanna tha ki wealth ka best use hai — enjoy karna aur dusron ko dena."""
         # Section 3.10.27
         # --------------------------------------------------
         with st.expander("Section 3.10.27  Section CCLX"):
-            text1 = """ """
+            text1 = """ 
+            😈 Duryodhana’s New Plot Against the Pandavas
+
+Janamejaya ne poocha,
+
+“Jab Pandavas forest mein peacefully reh rahe the aur Brahmanas ko food de rahe the, tab Duryodhana aur uske evil friends kya kar rahe the?”
+
+Vaisampayana ne kaha,"""
             create_image_text_layout(
                 "attached_assets/chapter3/3.10.27.jpg",
                 text1,
@@ -33353,7 +33566,58 @@ Uska maanna tha ki wealth ka best use hai — enjoy karna aur dusron ko dena."""
                 image_position="left"
             )
 
-            text2 = """ """
+            text2 = """ 
+            Jab Duryodhana ko pata chala ki Pandavas forest mein bhi surprisingly peaceful aur happy life jee rahe hain, toh woh jealous ho gaya.
+
+Karna, Dussasana aur Śakuni ke saath milkar woh unke against new evil plans banane laga.
+
+Isi time famous sage Durvāsā apne ten thousand disciples ke saath Hastinapura aaye.
+
+Durvāsā bahut short-tempered aur unpredictable sage the. Sabko unke anger se fear lagta tha.
+
+Duryodhana ne unka bahut humble way mein welcome kiya. Woh personally unki service karta, unke liye food arrange karta aur day-night careful rehta taki sage angry na ho jaayein.
+
+Durvāsā kabhi suddenly bol dete,
+
+“Mujhe abhi food chahiye!”
+
+Kabhi bath ke liye chale jaate aur late wapas aakar bolte,
+
+“Aaj mujhe kuch nahi khana.”
+
+Kabhi midnight mein uthkar food prepare karwa dete aur fir khud khate bhi nahi.
+
+Lekin itne difficult behaviour ke baad bhi Duryodhana kabhi angry nahi hua. Woh patience se sage ki service karta raha.
+
+Finally Durvāsā pleased ho gaye.
+
+Unhone Duryodhana se kaha,
+
+“Main tumse khush hoon. Tum mujhse koi bhi proper boon maang sakte ho.”
+
+Yeh sunkar Duryodhana bahut excited ho gaya, kyunki usne pehle hi Karna aur Dussasana ke saath ek evil plan decide kar rakha tha.
+
+Woh cleverly bola,
+
+“O sage, please ek baar Yudhishthira ke guest bhi baniye. Lekin unke paas tab jaiyega jab Draupadī sabko khana khilaakar khud bhi meal finish karke rest kar rahi ho.”
+
+Duryodhana jaanta tha ki Draupadī ke magical food vessel se tab tak food milta tha jab tak woh khud na kha le. Uske baad us din aur food nahi ban sakta tha.
+
+Uska evil plan yeh tha ki Durvāsā aur unke ten thousand disciples food maangenge, aur agar Pandavas unhe feed nahi kar paaye, toh sage ka terrible curse un par gir jaayega.
+
+Durvāsā ne simply kaha,
+
+“So be it.”
+
+Aur woh turant Pandavas ke forest ki taraf nikal pade.
+
+Durvāsā ke jaate hi Duryodhana, Karna aur Dussasana secretly bahut happy hue.
+
+Karna smilingly bola,
+
+“Great luck se tumhara plan successful hone wala hai. Ab Pandavas Durvāsā ke anger ke dangerous trap mein phans chuke hain.”
+
+Sab evil-minded Kauravas apni wicked success sochkar happily apne homes laut gaye.x`"""
             create_image_text_layout(
                 text_content=text2,
                 layout="full"
