@@ -33629,7 +33629,14 @@ Sab evil-minded Kauravas apni wicked success sochkar happily apne homes laut gay
         # Section 3.11.1
         # --------------------------------------------------
         with st.expander("Section 3.11.1  Section CCLXI"):
-            text1 = """ """
+            text1 = """ 
+            🍚 Krishna Saves the Pandavas from Durvāsā’s Curse
+
+Vaisampayana ne kaha,
+
+Ek din sage Durvāsā apne ten thousand disciples ke saath suddenly Pandavas ke forest home pahunch gaye. Duryodhana ka evil plan exactly waise hi chal raha tha jaise usne socha tha.
+
+Us waqt Draupadī already apna meal finish kar chuki thi. Isliye magical sun-given vessel us din ke liye empty ho chuka tha."""
             create_image_text_layout(
                 "attached_assets/chapter3/3.11.1.jpg",
                 text1,
@@ -33637,7 +33644,90 @@ Sab evil-minded Kauravas apni wicked success sochkar happily apne homes laut gay
                 image_position="left"
             )
 
-            text2 = """ """
+            text2 = """ 
+            Yudhishthira ne respectfully Durvāsā ka welcome kiya aur bole,
+
+“O sage, please pehle river mein bath karke aaiye. Tab tak food ready ho jayega.”
+
+Durvāsā aur unke disciples bath ke liye river chale gaye.
+
+Lekin Draupadī andar se panic aur fear se bhar gayi.
+
+Woh sochne lagi,
+
+“Ab itne saare guests ke liye food kahan se aayega? Agar Durvāsā angry ho gaye toh terrible curse de denge!”
+
+Completely helpless hokar Draupadī ne Krishna ko heart se pray kiya.
+
+Woh folded hands ke saath boli,
+
+“O Krishna! Aap hi helpless logon ke protector ho. Jaise aapne mujhe pehle Dussasana se bachaya tha, waise hi ab bhi hume save kijiye.”
+
+Draupadī ki sincere prayer sunkar Krishna instantly Dvārakā se forest mein aa gaye. Woh Rukmiṇī ko chhodkar immediately unki help ke liye aaye the.
+
+Krishna ko dekhkar Draupadī relief aur joy se bhar gayi. Unhone quickly saari situation explain kar di.
+
+Lekin Krishna mischievously bole,
+
+“Mujhe bahut bhookh lagi hai. Pehle mujhe kuch khana do.”
+
+Draupadī confused aur sad hokar boli,
+
+“Lord, vessel ab empty hai. Main already kha chuki hoon. Ab usme kuch nahi bacha.”
+
+Krishna smile karke bole,
+
+“Vessel le aao. Main khud dekhunga.”
+
+Jab vessel laya gaya, Krishna ne uske rim par rice aur vegetable ka ek tiny particle chipka hua dekha.
+
+Unhone woh little particle kha liya aur happily bole,
+
+“Isse poora universe satisfied ho jaaye.”
+
+Fir Krishna ne Bhīma se kaha,
+
+“Jaao, sages ko dinner ke liye bulao.”
+
+Bhīma immediately river ki taraf daud pade.
+
+Lekin meanwhile ek miracle ho chuka tha.
+
+Durvāsā aur sab disciples river mein bath karte karte suddenly feel karne lage ki unka stomach completely full hai — jaise unhone huge feast kha liya ho.
+
+Sab ek dusre ko shock mein dekhne lage.
+
+Woh Durvāsā se bole,
+
+“Ab hum kuch bhi nahi kha sakte. Agar Yudhishthira ne meal prepare kar liya hoga aur humne refuse kiya, toh woh insult ho jayega.”
+
+Durvāsā worried hokar bole,
+
+“Pandavas powerful aur devoted souls hain. Agar woh angry ho gaye toh hum destroy ho sakte hain. Better hai hum quietly yahan se chale jaayein!”
+
+Fear mein Durvāsā aur unke disciples sab directions mein bhaag gaye.
+
+Jab Bhīma unhe invite karne pahunchhe, toh unhe koi nahi mila. Dusre ascetics ne bataya ki sages already fear mein wahan se bhaag chuke hain.
+
+Bhīma wapas aakar sab Pandavas ko yeh news di.
+
+Pandavas phir bhi thodi der tak worried rahe ki shayad sages wapas aa jaayein.
+
+Tab Krishna suddenly smile karte hue bole,
+
+“Draupadī ne mujhe tumhari danger ke baare mein bataya tha, isliye main immediately aaya.”
+
+“Ab tumhe Durvāsā se koi fear nahi. Woh tumhari spiritual power se already dar kar bhaag chuke hain.”
+
+Pandavas aur Draupadī relief aur gratitude se bhar gaye.
+
+Woh bole,
+
+“Jaise drowning person boat se ocean cross karta hai, waise hi aapne hume is impossible danger se save kiya hai.”
+
+Krishna lovingly unhe bless karke Dvārakā wapas chale gaye.
+
+Aur Duryodhana ka evil plan completely fail ho gaya."""
             create_image_text_layout(
                 text_content=text2,
                 layout="full"
@@ -33647,7 +33737,14 @@ Sab evil-minded Kauravas apni wicked success sochkar happily apne homes laut gay
         # Section 3.11.2
         # --------------------------------------------------
         with st.expander("Section 3.11.2  Section CCLXII"):
-            text1 = """ """
+            text1 = """ 
+            🌿 Jayadratha Sees Draupadī in the Forest
+
+Vaisampayana ne kaha,
+
+Pandavas Kamyaka forest mein peacefully reh rahe the. Woh hunting karte, Brahmanas ko food dete aur beautiful forests mein time spend karte the.
+
+Ek din Pandavas different directions mein hunting ke liye chale gaye, taki Brahmanas ke liye meat arrange kar sakein. Draupadī hermitage mein akeli reh gayi. Sage Tṛṇavindu aur priest Dhaumya wahan nearby the."""
             create_image_text_layout(
                 "attached_assets/chapter3/3.11.2.jpg",
                 text1,
@@ -33655,7 +33752,38 @@ Sab evil-minded Kauravas apni wicked success sochkar happily apne homes laut gay
                 image_position="left"
             )
 
-            text2 = """ """
+            text2 = """ 
+            Isi time Sindhu kingdom ka king Jayadratha apne royal companions ke saath travel kar raha tha. Woh Salva kingdom marriage ke purpose se ja raha tha.
+
+Journey ke dauraan woh Kamyaka forest mein ruk gaya.
+
+Wahan usne Draupadī ko hermitage ke entrance par khade dekha.
+
+Draupadī ki beauty forest ko illuminate kar rahi thi — bilkul dark clouds mein chamakti lightning ki tarah.
+
+Jayadratha aur uske saath ke princes usse dekhkar stunned reh gaye.
+
+Woh wonder mein sochne lage,
+
+“Kya yeh koi Apsarā hai? Ya kisi god ki daughter?”
+
+Sab uski beauty ko bas dekhte hi reh gaye.
+
+Lekin Jayadratha ke heart mein evil desire aa gaya.
+
+Woh lust aur greed se bhar gaya aur apne companion Kotika se bola,
+
+“Yeh beautiful woman kaun hai? Agar mujhe yeh mil jaaye, toh mujhe kisi aur marriage ki zaroorat nahi.”
+
+Usne proudly kaha,
+
+“Main ise lekar apne kingdom wapas jaana chahta hoon.”
+
+Fir usne Kotika ko order diya,
+
+“Jaao, pata karo yeh kaun hai, kiski wife hai aur itni delicate lady is dangerous forest mein kyun reh rahi hai.”
+
+Kotika immediately chariot se utar kar Draupadī ke paas gaya — bilkul ek jackal ki tarah jo tigress ke paas cautiously jaata hai."""
             create_image_text_layout(
                 text_content=text2,
                 layout="full"
@@ -33665,7 +33793,18 @@ Sab evil-minded Kauravas apni wicked success sochkar happily apne homes laut gay
         # Section 3.11.3
         # --------------------------------------------------
         with st.expander("Section 3.11.3  Section CCLXIII"):
-            text1 = """ """
+            text1 = """ 
+            🌿 Kotika Questions Draupadī
+
+Kotika respectfully Draupadī ke paas aakar bola,
+
+“O beautiful lady, aap kaun hain? Aap is forest hermitage mein Kadamba tree ke paas akeli khadi hain aur aapki beauty night mein jalti fire ki tarah shine kar rahi hai.”
+
+Woh amazed hokar bola,
+
+“Itni delicate aur beautiful hoke bhi aapko is dangerous forest mein fear nahi lagta?”
+
+Fir usne wonder se poocha,"""
             create_image_text_layout(
                 "attached_assets/chapter3/3.11.3.jpg",
                 text1,
@@ -33673,7 +33812,38 @@ Sab evil-minded Kauravas apni wicked success sochkar happily apne homes laut gay
                 image_position="left"
             )
 
-            text2 = """ """
+            text2 = """ 
+            “Kya aap koi goddess hain? Ya Yakshi, Apsarā, Nāga princess ya heavenly being?”
+
+Kotika ne politely kaha,
+
+“Hume nahi pata aap kaun hain aur kaun aapki protection karta hai. Please hume apne father, husband aur family ke baare mein batayiye.”
+
+Uske baad Kotika ne apna introduction diya.
+
+Woh bola,
+
+“Main King Suratha ka son hoon aur mera naam Kotika hai.”
+
+Fir usne apne saath aaye kings aur warriors ki taraf point kiya.
+
+“Golden chariot par jo great warrior baithe hain, woh Trigarta king Kshemankara hain.”
+
+“Wahan jo mountain warrior khada hai, woh Pulinda king ka son hai.”
+
+“Tank ke paas jo handsome dark prince khada hai, woh Ikshvāku race ka prince hai.”
+
+Finally Kotika proudly bola,
+
+“Aur agar aapne Jayadratha ka naam suna ho — Sauviras ka king — toh woh bhi yahin hai. Woh six thousand chariots, elephants, horses aur many princes ke saath travel kar raha hai.”
+
+Usne Jayadratha ke brothers aur companions ki bhi praise ki aur bola,
+
+“Yeh sab great warriors Indra aur Maruts ki tarah king ke saath travel kar rahe hain.”
+
+Fir Kotika ne once again respectfully poocha,
+
+“O fine-haired lady, please batayiye aap kiski daughter aur kiski wife hain?”"""
             create_image_text_layout(
                 text_content=text2,
                 layout="full"
@@ -33683,7 +33853,16 @@ Sab evil-minded Kauravas apni wicked success sochkar happily apne homes laut gay
         # Section 3.11.4
         # --------------------------------------------------
         with st.expander("Section 3.11.4  Section CCLXIV"):
-            text1 = """ """
+            text1 = """ 
+            🌙 Draupadī Introduces Herself
+
+Vaisampayana ne kaha,
+
+Kotika ki baatein sunkar Draupadī calmly uski taraf dekhne lagi. Unhone Kadamba tree ki branch chhod di aur apne silken clothes properly arrange kiye.
+
+Fir softly boli,
+
+“O prince, normally mere jaise woman ko forest mein akeli hoke strangers se baat nahi karni chahiye. Lekin abhi yahan aur koi nahi hai, isliye main aapse baat kar rahi hoon.”"""
             create_image_text_layout(
                 "attached_assets/chapter3/3.11.4.jpg",
                 text1,
@@ -33691,7 +33870,28 @@ Sab evil-minded Kauravas apni wicked success sochkar happily apne homes laut gay
                 image_position="left"
             )
 
-            text2 = """ """
+            text2 = """ 
+            Draupadī ne respectfully kaha,
+
+“Mujhe pata hai ki aap Suratha ke son Kotika hain.”
+
+Fir unhone proudly apna introduction diya,
+
+“Main King Drupada ki daughter hoon aur log mujhe Krishnaa ke naam se jaante hain.”
+
+“Main paanch great heroes ki wife hoon — Yudhishthira, Bhīmasena, Arjuna aur Mādrī ke dono sons Nakula aur Sahadeva.”
+
+Draupadī ne calmly bataya ki Pandavas nearby forest mein hunting ke liye gaye hue hain.
+
+“Yudhishthira east direction mein gaye hain, Bhīma south mein, Arjuna west mein aur twins north mein.”
+
+Fir unhone politely hospitality offer ki.
+
+Woh boli,
+
+“Please aap apne chariots se utariye aur yahin rukkar Pandavas ka wait kijiye. Yudhishthira guests ka bahut honour karte hain aur aapko dekhkar definitely happy honge.”
+
+Yeh kehkar moon-like beautiful face wali Draupadī apni spacious cottage ke andar chali gayi, kyunki unhe apne husbands ki guest-friendly nature achhi tarah yaad thi."""
             create_image_text_layout(
                 text_content=text2,
                 layout="full"
@@ -33701,7 +33901,18 @@ Sab evil-minded Kauravas apni wicked success sochkar happily apne homes laut gay
         # Section 3.11.5
         # --------------------------------------------------
         with st.expander("Section 3.11.5  Section CCLXV"):
-            text1 = """ """
+            text1 = """ 
+            😠 Jayadratha Insults the Pandavas
+
+Vaisampayana ne kaha,
+
+Kotika wapas jaakar Jayadratha aur dusre princes ko Draupadī ke saath hui saari baat bataane laga.
+
+Yeh sunkar Jayadratha aur bhi zyada obsessed ho gaya.
+
+Woh bola,
+
+“Sirf uski voice sunkar hi mera heart uski taraf khinch gaya hai. Ab doosri women mujhe monkeys jaisi lagti hain.”"""
             create_image_text_layout(
                 "attached_assets/chapter3/3.11.5.jpg",
                 text1,
@@ -33709,7 +33920,52 @@ Sab evil-minded Kauravas apni wicked success sochkar happily apne homes laut gay
                 image_position="left"
             )
 
-            text2 = """ """
+            text2 = """ 
+            Fir usne eagerly poocha,
+
+“Kya woh really human woman hai?”
+
+Kotika ne jawab diya,
+
+“Woh King Drupada ki daughter Draupadī hai aur paanch Pandavas ki respected aur chaste wife hai.”
+
+Lekin yeh jaanne ke baad bhi Jayadratha ka evil desire kam nahi hua.
+
+Woh bola,
+
+“Mujhe Draupadī se milna hi hoga.”
+
+Fir Jayadratha kuch men ke saath hermitage ke andar gaya — bilkul ek wolf ki tarah jo lion ke den mein enter karta hai.
+
+Draupadī ne guest ki tarah uska respectful welcome kiya.
+
+Unhone poocha,
+
+“Kya aapka kingdom aur army sab theek hai?”
+
+Fir hospitality ke according unhone water aur seat offer ki aur kaha ki Pandavas uske soldiers ke liye hunting animals arrange karenge.
+
+Lekin Jayadratha ne suddenly shameless words bolne start kar diye.
+
+Woh bola,
+
+“Tumhe in unfortunate Pandavas ke saath rehne ki zaroorat nahi. Unka kingdom chala gaya hai aur woh miserable life jee rahe hain.”
+
+Usne arrogantly kaha,
+
+“Wise woman ko poor aur unlucky husband ke saath nahi rehna chahiye.”
+
+Fir openly propose karte hue bola,
+
+“Pandavas ko chhod do aur meri wife ban jao. Mere saath Sindhu aur Sauvira kingdoms ki queen bankar happily raho.”
+
+Yeh terrible words sunkar Draupadī ka face anger se tighten ho gaya. Woh disgust aur contempt se usse dekhne lagi.
+
+Fir firmly boli,
+
+“Aisi baatein dobara mat kehna! Kya tumhe shame nahi aati?”
+
+Draupadī andar se Pandavas ke return ka wait kar rahi thi. Isliye woh calmly aur cleverly long conversations karke Jayadratha ko time-pass mein uljhaane lagi."""
             create_image_text_layout(
                 text_content=text2,
                 layout="full"
