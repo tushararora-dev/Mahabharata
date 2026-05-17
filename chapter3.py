@@ -33975,7 +33975,14 @@ Draupadī andar se Pandavas ke return ka wait kar rahi thi. Isliye woh calmly au
         # Section 3.11.6
         # --------------------------------------------------
         with st.expander("Section 3.11.6  Section CCLXVI"):
-            text1 = """ """
+            text1 = """ 
+            😡 Draupadī Fearlessly Confronts Jayadratha
+
+Vaisampayana ne kaha,
+
+Jayadratha ki shameless baatein sunkar Draupadī anger se red ho gayin. Unki eyes wrath se shine kar rahi thi aur eyebrows tightly bend ho gayi thi.
+
+Woh fearlessly Jayadratha ko daantne lagi,"""
             create_image_text_layout(
                 "attached_assets/chapter3/3.11.6.jpg",
                 text1,
@@ -33983,7 +33990,78 @@ Draupadī andar se Pandavas ke return ka wait kar rahi thi. Isliye woh calmly au
                 image_position="left"
             )
 
-            text2 = """ """
+            text2 = """ 
+            “O fool! Kya tumhe shame nahi aati? Tum un mighty Pandavas ko insult kar rahe ho jo Indra jaise powerful warriors hain?”
+
+Draupadī proudly boli,
+
+“Good people kabhi noble aur learned heroes ki insult nahi karte — chahe woh forests mein kyun na reh rahe ho.”
+
+Fir unhone strong warnings dene start ki.
+
+“Yudhishthira ko challenge karna aisa hai jaise koi mountain-sized elephant ko herd se alag karne ki koshish kare.”
+
+“Bhīma ko angry karna sleeping lion ko kick karne jaisa hai.”
+
+“Arjuna se fight karna ek furious lion ko jagane jaisa hai.”
+
+“Nakula aur Sahadeva ko challenge karna poisonous cobras ki tails par pair rakhne jaisa hai.”
+
+Draupadī boldly boli,
+
+“Tum apni destruction khud bula rahe ho.”
+
+Lekin arrogant Jayadratha hanskar bola,
+
+“Mujhe Pandavas ki power pata hai. Lekin tum hume fear nahi kara sakti.”
+
+Usne proudly kaha,
+
+“Hum bhi royal clans se belong karte hain. Hum Pandavas ko inferior samajhte hain.”
+
+Fir shamelessly order diya,
+
+“Either meri chariot mein baith jao ya King of Sauvira ki mercy maango.”
+
+Draupadī disgust se uski taraf dekhkar boli,
+
+“Tum mujhe weak samajh rahe ho? Even Indra bhi mujhe kidnap nahi kar sakta jab Krishna aur Arjuna meri protection ke liye aa jaayenge.”
+
+Woh confidently boli,
+
+“Jab Arjuna Gandīva bow ke arrows barsaayega, tumhari army dry grass ki tarah burn ho jaayegi.”
+
+“Bhīma mace lekar tumhari taraf aayega aur Mādrī ke sons wrath mein sab directions cover kar denge.”
+
+Draupadī ne firmly kaha,
+
+“Maine kabhi apne husbands ke prati disloyalty nahi ki. Isi virtue ke power se main tumhe soon defeated aur dragged away dekhoongi.”
+
+Fir Jayadratha aur uske men Draupadī ko forcefully pakadne ke liye ready ho gaye.
+
+Draupadī loudly boli,
+
+“Mujhe touch karke impure mat karo!”
+
+Fear aur urgency mein unhone sage Dhaumya ko call kiya.
+
+Lekin evil Jayadratha ne Draupadī ka upper garment pakad liya.
+
+Draupadī ne full strength se usse push kiya.
+
+Push itna powerful tha ki Jayadratha ground par gir gaya — bilkul roots se kata hua tree ki tarah.
+
+Lekin woh fir se uthkar violent force se Draupadī ko pakadne laga.
+
+Finally Draupadī heavily breathing condition mein uski chariot par forcefully le jaayi gayi. Usse pehle unhone respectfully Dhaumya ke feet bow kiye.
+
+Tab sage Dhaumya angrily Jayadratha se bole,
+
+“O Jayadratha! True Kṣatriya rules follow karo. Tum Pandavas ko defeat kiye bina Draupadī ko le ja hi nahi sakte.”
+
+“Bahut jaldi tumhe is sinful act ka painful result milega.”
+
+Yeh kehkar Dhaumya Jayadratha ki army ke beech Draupadī ke piche piche chalne lage."""
             create_image_text_layout(
                 text_content=text2,
                 layout="full"
@@ -33993,7 +34071,14 @@ Draupadī andar se Pandavas ke return ka wait kar rahi thi. Isliye woh calmly au
         # Section 3.11.7
         # --------------------------------------------------
         with st.expander("Section 3.11.7  Section CCLXVII"):
-            text1 = """ """
+            text1 = """ 
+            ⚔️ The Pandavas Discover Draupadī’s Abduction
+
+Vaisampayana ne kaha,
+
+Pandavas hunting finish karke forest ke different directions se wapas milne lage. Unhone bahut deer aur wild animals hunt kiye the Brahmanas ke food ke liye.
+
+Lekin suddenly Yudhishthira ko strange signs notice hone lage."""
             create_image_text_layout(
                 "attached_assets/chapter3/3.11.7.jpg",
                 text1,
@@ -34001,7 +34086,74 @@ Draupadī andar se Pandavas ke return ka wait kar rahi thi. Isliye woh calmly au
                 image_position="left"
             )
 
-            text2 = """ """
+            text2 = """ 
+            Birds loudly aur fearfully chillaa rahe the. Wild animals bhi disturbed lag rahe the aur forest ka atmosphere uneasy ho gaya tha.
+
+Yudhishthira worried hokar bole,
+
+“Yeh signs dikhate hain ki forest mein koi dangerous intruders aaye hain.”
+
+Unhone apne brothers se kaha,
+
+“Ab hunting chhodo aur immediately hermitage chalo. Mera heart bahut uneasy feel kar raha hai.”
+
+Pandavas quickly apne fast chariots par wapas lautne lage.
+
+Raste mein ek jackal left side se loudly howl karne laga. Yudhishthira ne usse bad omen maana.
+
+Woh Bhīma aur Arjuna se bole,
+
+“Yeh evil sign batata hai ki sinful enemies ne hamare against violence start kar diya hai.”
+
+Jab Pandavas hermitage ke paas pahunchhe, toh unhone Draupadī ki maid Dhātreyikā ko ground par crying condition mein dekha.
+
+Indrasena immediately chariot se utar kar uske paas gaya aur worried voice mein poocha,
+
+“Kya hua? Draupadī safe toh hain?”
+
+Woh fear se bola,
+
+“Kaunsa fool itni powerful Pandavas ki beloved queen ko touch karne ki himmat kar sakta hai?”
+
+Dhātreyikā tears wipe karte hue boli,
+
+“Jayadratha forcefully Draupadī ko le gaya hai!”
+
+Usne quickly direction dikhate hue kaha,
+
+“Dekhiye, broken tree branches abhi fresh hain. Woh log abhi zyada door nahi gaye.”
+
+Fir woh emotional words mein plead karne lagi,
+
+“Please jaldi jaiye aur princess ko bacha lijiye!”
+
+Usne sadly kaha,
+
+“Ek noble queen ko evil man ke haath lagna aisa hai jaise sacred offering ko ashes par gira dena.”
+
+“Jaise dog clarified butter lick kare, waise koi unworthy man Draupadī ko touch na kare.”
+
+Yeh painful words sunkar Yudhishthira calmly bole,
+
+“Good woman, apne words control karo. Proud kings jo power mein blind ho jaate hain, unka destruction certain hota hai.”
+
+Fir Pandavas deep anger aur grief ke saath immediately pursuit mein nikal pade.
+
+Unke bows loudly twang kar rahe the aur woh snakes ki tarah heavy breaths le rahe the.
+
+Thodi der baad unhone distance mein Jayadratha ki army ke horses se uthti dust dekhi.
+
+Unhone sage Dhaumya ko bhi enemy soldiers ke beech Draupadī ke piche chalte dekha.
+
+Pandavas ne Dhaumya ko reassure kiya aur lightning speed se enemy army ki taraf charge kar diya — bilkul hawks ki tarah jo apne prey par attack karte hain.
+
+Jab unhone Draupadī ko Jayadratha ki chariot mein baitha dekha, tab Bhīma, Arjuna aur twins ka anger aur bhi zyada terrifying ho gaya.
+
+Sab loudly chillaye,
+
+“Jayadratha! Ruk jao!”
+
+Yeh terrible roar sunkar Jayadratha aur uski army fear aur confusion se hil gayi."""
             create_image_text_layout(
                 text_content=text2,
                 layout="full"
@@ -34011,7 +34163,16 @@ Draupadī andar se Pandavas ke return ka wait kar rahi thi. Isliye woh calmly au
         # Section 3.11.8
         # --------------------------------------------------
         with st.expander("Section 3.11.8  Section CCLXVIII"):
-            text1 = """ """
+            text1 = """ 
+            ⚔️ Draupadī Describes the Mighty Pandavas
+
+Vaisampayana ne kaha,
+
+Jab Jayadratha ki army ne Bhīma aur Arjuna ko approaching dekha, tab forest loud war cries se bhar gaya.
+
+Lekin Jayadratha khud Pandavas ke battle standards dekhkar fear se weak padne laga.
+
+Usne Draupadī se nervously poocha,"""
             create_image_text_layout(
                 "attached_assets/chapter3/3.11.8.jpg",
                 text1,
@@ -34019,7 +34180,68 @@ Draupadī andar se Pandavas ke return ka wait kar rahi thi. Isliye woh calmly au
                 image_position="left"
             )
 
-            text2 = """ """
+            text2 = """ 
+            “O Krishnaa, jo paanch great warriors aa rahe hain, shayad wahi tumhare husbands hain. Please hume batao kaun kaun hai.”
+
+Draupadī fearlessly hanskar boli,
+
+“O fool! Ab unke names jaan kar kya fayda? Tumne already apni death ko invite kar liya hai.”
+
+“Ab mere heroic husbands aa gaye hain. Tum mein se koi bhi battle se alive nahi bachega.”
+
+Fir Draupadī proudly ek ek Pandava ka description dene lagi.
+
+Sabse pehle unhone Yudhishthira ki taraf point kiya.
+
+“Jiski flag par divine drums Nanda aur Upananda bajte hain, woh Dharma-putra Yudhishthira hain.”
+
+“Unka complexion pure gold jaisa hai. Woh righteousness ko perfectly jaante hain aur surrender karne wale enemy ko bhi life de dete hain.”
+
+Fir Draupadī warning dete hue boli,
+
+“Apne weapons chhodkar unki protection maango. Shayad wahi tumhari jaan bacha sake.”
+
+Uske baad unhone Bhīma ko describe kiya.
+
+“Jo huge sāla tree ki tarah tall warrior lips bite karte hue anger mein aa raha hai — woh Bhīmasena hai.”
+
+“Uski strength superhuman hai. Woh enemies ko kabhi forgive nahi karta.”
+
+“Jisne usse offend kiya, woh zinda nahi bachta.”
+
+Fir Draupadī lovingly Arjuna ki taraf dekhkar boli,
+
+“Woh great bowman Dhanañjaya hai — Yudhishthira ka brother aur disciple.”
+
+“Woh fear, anger ya desire ki wajah se kabhi dharma nahi chhodta.”
+
+“Uski energy blazing fire jaisi hai aur woh har enemy ko defeat kar sakta hai.”
+
+Fir Draupadī ne Nakula ko describe kiya.
+
+“Jo world ka most handsome warrior hai aur sab Pandavas ko apni life se bhi dear hai — woh Nakula hai.”
+
+“Uski sword-fighting lightning jaisi fast hai.”
+
+“Tum aaj uska battle skill dekhoge.”
+
+Finally Draupadī ne Sahadeva ki taraf point kiya.
+
+“Woh intelligent aur wise hero Sahadeva hai — Pandavas ka youngest brother.”
+
+“Uske equal wisdom aur eloquence wala koi nahi.”
+
+“Woh dharma ke against kuch bolne se better apni life sacrifice kar dega.”
+
+Fir Draupadī confidently boli,
+
+“Jab Pandavas tumhari army destroy kar denge, tab tumhari forces ocean mein wrecked ship ki tarah helpless ho jaayengi.”
+
+“Tum agar in sabse bach gaye, toh samajhna tumhe new life mili hai.”
+
+Isi waqt wrath se burning Pandavas battlefield mein storm ki tarah charge kar gaye.
+
+Mercy maangne wale infantry soldiers ko ignore karke woh directly enemy charioteers par toot pade aur unke arrows ne poora sky dark kar diya."""
             create_image_text_layout(
                 text_content=text2,
                 layout="full"
@@ -34029,7 +34251,16 @@ Draupadī andar se Pandavas ke return ka wait kar rahi thi. Isliye woh calmly au
         # Section 3.11.9
         # --------------------------------------------------
         with st.expander("Section 3.11.9  Section CCLXIX"):
-            text1 = """ """
+            text1 = """ 
+            ⚔️ The Pandavas Destroy Jayadratha’s Army
+
+Vaisampayana ne kaha,
+
+Battlefield mein Jayadratha continuously apni army ko orders de raha tha,
+
+“Attack! Move! Stop them quickly!”
+
+Lekin jaise hi soldiers ne Bhīma, Arjuna aur dusre Pandavas ko dekha, unka courage tootne laga."""
             create_image_text_layout(
                 "attached_assets/chapter3/3.11.9.jpg",
                 text1,
@@ -34037,7 +34268,96 @@ Draupadī andar se Pandavas ke return ka wait kar rahi thi. Isliye woh calmly au
                 image_position="left"
             )
 
-            text2 = """ """
+            text2 = """ 
+            Bhīmasena apni huge iron mace lekar directly Jayadratha ki taraf charge karne lage.
+
+Tab prince Kotika aur many charioteers Bhīma ke saamne wall ki tarah khade ho gaye.
+
+Enemies ne Bhīma par spears, clubs aur arrows ki heavy rain kar di, lekin Bhīma bilkul bhi nahi ruke.
+
+Unhone apni mace se ek elephant, uska rider aur many soldiers ko crush kar diya.
+
+Udhar Arjuna bhi blazing fury mein fight kar rahe the. Draupadī ko rescue karne ke liye unhone hundreds of mountain warriors ko arrows se destroy kar diya.
+
+Yudhishthira ne bhi many enemy warriors ko quickly defeat kiya.
+
+Nakula sword lekar apni chariot se jump kiye aur enemy soldiers ke heads ko aise scatter karne lage jaise farmer seeds bikherta hai.
+
+Sahadeva ne apni arrows se elephants par baithe warriors ko birds ki tarah gira diya.
+
+Battle aur bhi fierce hoti gayi.
+
+Ek Trigarta king ne Yudhishthira ke horses maar diye. Lekin Yudhishthira ne calmly ek crescent-arrow se us warrior ko chest mein hit kar diya. Woh blood vomit karta hua tree ki tarah gir gaya.
+
+Isi waqt Nakula par ek giant elephant charge kiya gaya.
+
+Nakula fearless hokar sword aur shield ke saath ground par khade ho gaye.
+
+Jaise hi elephant close aaya, Nakula ne ek powerful strike mein uska trunk aur tusks cut kar diye.
+
+Huge elephant terrifying roar ke saath ground par gir gaya aur apne riders ko crush kar diya.
+
+Bhīma ne bhi Kotika ke charioteer ko maar diya.
+
+Driver ke bina Kotika ka chariot battlefield mein uncontrollably ghoomne laga. Fir Bhīma ne us prince ko bhi deadly dart se kill kar diya.
+
+Arjuna ne apne sharp arrows se twelve Sauvira princes ke heads aur bows cut kar diye.
+
+Poora battlefield severed heads, broken chariots aur dead elephants se bhar gaya.
+
+Jackals, vultures aur crows battlefield par dead warriors ka flesh khane lage.
+
+Jab Jayadratha ne apni army ko completely destroyed dekha, toh woh panic mein aa gaya.
+
+Fear mein usne Draupadī ko chariot se neeche utar diya aur khud forest path se bhaagne laga.
+
+Yudhishthira ne Draupadī ko safely Sahadeva ki chariot mein bithaya.
+
+Bhīma ab bhi fleeing soldiers ko maar rahe the, lekin Arjuna ne unhe roka.
+
+Arjuna bole,
+
+“Real culprit Jayadratha hai. Usko pehle pakdo. In ordinary soldiers ko maarne ka kya benefit?”
+
+Bhīma ne Yudhishthira se kaha,
+
+“Main Jayadratha ko zinda nahi chhodunga — even agar Indra bhi uski help kare!”
+
+Lekin Yudhishthira calmly bole,
+
+“Dussalā aur Gandhārī ko yaad karo. Jayadratha ko mat maarna.”
+
+Yeh sunkar Draupadī anger se bhar gayi.
+
+Woh Bhīma aur Arjuna se boli,
+
+“Agar tum mujhe truly love karte ho, toh us sinful wretch ko zaroor punish karo!”
+
+“Jo kisi ki wife ko forcefully kidnap kare, usse battlefield mein kabhi forgive nahi karna chahiye.”
+
+Fir Bhīma aur Arjuna Jayadratha ke piche furious speed se nikal pade.
+
+Meanwhile Yudhishthira Draupadī aur sages ke saath hermitage wapas laut aaye. Wahan Markandeya aur many Brahmanas Draupadī ki suffering par sadly discuss kar rahe the.
+
+Pandavas ko Draupadī ke saath safe dekhkar sabko relief aur joy mila.
+
+Udhar Bhīma aur Arjuna Jayadratha ka fast pursuit kar rahe the.
+
+Arjuna ne ek amazing feat kiya — unhone do miles distance se hi mantra-powered arrows se Jayadratha ke horses kill kar diye.
+
+Jayadratha terrified hokar foot par forest mein bhaagne laga.
+
+Arjuna loudly usse bole,
+
+“Tum mein itni kam courage hai, fir bhi tumne ek woman ko kidnap karne ki himmat ki?”
+
+“Turn around and fight!”
+
+Lekin Jayadratha fear mein continuously bhaagta raha.
+
+Finally Bhīma lightning speed se us tak pahunch gaye.
+
+Bhīma usse maarne hi wale the, lekin compassionate Arjuna ne unhe request kiya ki us wretch ko immediately kill na karein."""
             create_image_text_layout(
                 text_content=text2,
                 layout="full"
@@ -34047,7 +34367,16 @@ Draupadī andar se Pandavas ke return ka wait kar rahi thi. Isliye woh calmly au
         # Section 3.11.10
         # --------------------------------------------------
         with st.expander("Section 3.11.10  Section CCLXX"):
-            text1 = """ """
+            text1 = """ 
+            😤 Bhīma Punishes Jayadratha
+
+Vaisampayana ne kaha,
+
+Jab Jayadratha ne Bhīma aur Arjuna ko apni taraf aate dekha, toh woh fear mein full speed se bhaagne laga.
+
+Lekin furious Bhīmasena apni chariot se jump karke uske piche daud pade.
+
+Kuch hi moments mein Bhīma ne Jayadratha ko uske hair se pakad liya aur forcefully ground par phek diya."""
             create_image_text_layout(
                 "attached_assets/chapter3/3.11.10.jpg",
                 text1,
@@ -34055,7 +34384,112 @@ Draupadī andar se Pandavas ke return ka wait kar rahi thi. Isliye woh calmly au
                 image_position="left"
             )
 
-            text2 = """ """
+            text2 = """ 
+            Bhīma usse violently pitne lage.
+
+Jayadratha jab hosh mein aakar uthne ki koshish karta, Bhīma uske head par kick maar dete.
+
+Woh uske chest par knees aur fists se attack karte rahe.
+
+Finally Jayadratha almost unconscious ho gaya.
+
+Tab Arjuna ne Bhīma ko remind kiya,
+
+“Dussalā aur Gandhārī ko yaad karo. Isse mat maaro.”
+
+Lekin Bhīma anger se bole,
+
+“Is sinful wretch ne Draupadī ke saath cruel act kiya hai. Yeh death deserve karta hai!”
+
+“Lekin Yudhishthira ki mercy aur tumhari kindness hamesha mujhe rok deti hai.”
+
+Fir Bhīma ne apne crescent-arrow se Jayadratha ka head shave kar diya — sirf paanch ugly hair tufts chhodkar.
+
+Jayadratha shame aur fear mein bilkul silent raha.
+
+Bhīma ne threatening voice mein kaha,
+
+“Agar zinda rehna hai, toh sab public assemblies mein kehna padega — ‘Main Pandavas ka slave hoon.’”
+
+“Tabhi main tumhari life spare karunga.”
+
+Terrified Jayadratha trembling voice mein bola,
+
+“So be it…”
+
+Fir Bhīma aur Arjuna ne usse chains mein baandhkar chariot mein daal diya aur hermitage le aaye.
+
+Yudhishthira ke saamne us humiliating condition mein Jayadratha ko khada kiya gaya.
+
+Yudhishthira smile karke bole,
+
+“Ab ise free kar do.”
+
+Bhīma ne kaha,
+
+“Pehle Draupadī ko bata dijiye ki yeh Pandavas ka slave ban chuka hai.”
+
+Tab Draupadī bhi calmly boli,
+
+“Isse chhod do. Yeh already insult aur punishment suffer kar chuka hai.”
+
+Yudhishthira compassion se Jayadratha ko dekhkar bole,
+
+“Tum ab free ho.”
+
+“Dobara kabhi kisi woman ko forcefully kidnap karne ki foolishness mat karna.”
+
+“Virtue ki taraf apna heart badhao.”
+
+Jayadratha shame se head jhukakar silently wahan se chala gaya.
+
+Lekin andar hi andar uska humiliation aur revenge ka anger jal raha tha.
+
+Woh Gaṅgā ke paas gaya aur Lord Śiva ki severe tapasya karne laga.
+
+Finally Lord Śiva uske saamne appear hue aur bole,
+
+“Mango, kya boon chahiye?”
+
+Jayadratha immediately bola,
+
+“Mujhe power dijiye ki main battle mein saare Pandavas ko defeat kar sakoon!”
+
+Lekin Śiva ne head shake karke kaha,
+
+“Yeh impossible hai.”
+
+“Pandavas unconquerable hain — especially Arjuna.”
+
+Śiva ne explain kiya,
+
+“Arjuna divine hero Nara ka incarnation hai aur Lord Nārāyaṇa khud uske friend aur protector hain.”
+
+“Maine khud Arjuna ko mighty Pāśupata weapon diya hai.”
+
+Fir Śiva ne Krishna aur Viṣṇu ki divine greatness explain karni shuru ki.
+
+Unhone Varāha avatāra ka story bataya — kaise Lord Viṣṇu ne giant boar form lekar Earth ko flood se rescue kiya.
+
+Fir Narasiṁha avatāra ka bhi mention kiya — kaise Lord ne half-lion half-man form mein Hiraṇyakaśipu ko destroy kiya.
+
+Śiva ne Vāmana avatāra ki story bhi sunayi — kaise tiny dwarf form mein Lord ne teen steps mein poori universe cover kar li.
+
+Finally Śiva bole,
+
+“Yahi supreme Lord ab Yadu race mein Krishna ke roop mein appear hue hain.”
+
+“Krishna khud Arjuna ki protection karte hain. Isliye Arjuna ko koi defeat nahi kar sakta — even gods bhi nahi.”
+
+Lekin Śiva ne ek limited boon diya.
+
+Woh bole,
+
+“Ek din ke liye tum Yudhishthira, Bhīma, Nakula aur Sahadeva ko rok paoge — lekin Arjuna ko kabhi nahi.”
+
+Yeh boon dekar Lord Śiva apni consort Umā aur attendants ke saath disappear ho gaye.
+
+Aur Jayadratha revenge ke thoughts lekar apne kingdom wapas chala gaya, jabki Pandavas Kamyaka forest mein rehne lage."""
             create_image_text_layout(
                 text_content=text2,
                 layout="full"
