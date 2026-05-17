@@ -35009,7 +35009,18 @@ Woh apne old friend Mārīca ke paas help maangne ke liye aerial journey par nik
         # Section 3.11.16
         # --------------------------------------------------
         with st.expander("Section 3.11.16  Section CCLXXVI"):
-            text1 = """ """
+            text1 = """ 
+            🦌 The Golden Deer and Sītā’s Abduction
+
+Mārkaṇḍeya sage continued,
+
+“Rāvaṇa jab Mārīca ke hermitage pahunchā, tab Mārīca ne uska respectfully welcome kiya.”
+
+Usne fruits aur roots offer kiye aur politely poocha,
+
+“O king of the Rākṣasas, aap worried aur disturbed kyun lag rahe ho?”
+
+“Kaunsi problem aapko yahan laayi hai?”"""
             create_image_text_layout(
                 "attached_assets/chapter3/3.11.16.jpg",
                 text1,
@@ -35017,7 +35028,130 @@ Woh apne old friend Mārīca ke paas help maangne ke liye aerial journey par nik
                 image_position="left"
             )
 
-            text2 = """ """
+            text2 = """ 
+            Tab Rāvaṇa ne Rāma ki power aur apne revenge plan ke baare mein bataya.
+
+Yeh sunkar Mārīca serious ho gaya.
+
+Woh bola,
+
+“Please Rāma ko provoke mat karo.”
+
+“Main unki strength jaanta hoon.”
+
+“Unke arrows ko koi withstand nahi kar sakta.”
+
+“Unhi ke fear ki wajah se maine ascetic life adopt ki hai.”
+
+“Jo bhi tumhe yeh plan suggest kar raha hai, woh tumhari destruction chahta hai.”
+
+Lekin Rāvaṇa angrily bola,
+
+“Agar tumne meri baat nahi maani, toh main tumhe abhi maar dunga.”
+
+Mārīca samajh gaya ki death unavoidable hai.
+
+Usne sadly socha,
+
+“Better hai ki main Rāma ke hands se marun.”
+
+Aur finally woh Rāvaṇa ki help karne ke liye agree ho gaya.
+
+Tab Rāvaṇa ne apna evil plan explain kiya,
+
+“Tum ek magical golden deer ban jao.”
+
+“Golden horns aur shining skin ke saath Sītā ko attract karo.”
+
+“Jab Sītā us deer ko dekhegi, woh Rāma ko uske piche bhejegi.”
+
+“Fir Sītā akeli reh jayegi aur main usse kidnap kar lunga.”
+
+Mārīca sorrowful heart ke saath ready ho gaya.
+
+Dono Rāma ke forest hermitage pahunch gaye.
+
+Mārīca beautiful golden deer ban gaya aur Rāvaṇa fake ascetic disguise mein nearby wait karne laga.
+
+Sītā ne jab us amazing golden deer ko dekha, woh instantly fascinated ho gayin.
+
+Unhone lovingly Rāma se kaha ki woh deer ko capture karein.
+
+Rāma Sītā ko happy karne ke liye immediately bow lekar deer ke piche nikal pade.
+
+Lakṣmaṇa ko unhone Sītā ki protection ke liye wahan chhod diya.
+
+Golden deer baar-baar disappear aur reappear hoke Rāma ko forest mein bahut door le gaya.
+
+Finally Rāma samajh gaye ki yeh actually Rākṣasa Mārīca hai.
+
+Unhone ek infallible arrow se usse shoot kar diya.
+
+Death ke moment par Mārīca ne Rāma ki voice imitate karke loudly cry kiya,
+
+“Ha Sītā! Ha Lakṣmaṇa!”
+
+Hermitage mein woh cry sunkar Sītā panic ho gayin.
+
+Unhone Lakṣmaṇa se immediately Rāma ki help ke liye jaane ko kaha.
+
+Lekin Lakṣmaṇa calmly bole,
+
+“Please fear mat kijiye.”
+
+“Rāma ko koi harm nahi kar sakta.”
+
+“Woh jaldi hi safely wapas aa jayenge.”
+
+Lekin anxiety aur fear ki wajah se Sītā suspicious ho gayin.
+
+Woh crying state mein harsh words bol baithin.
+
+Unhone Lakṣmaṇa par accuse kiya ki woh secretly evil desires rakhta hai.
+
+Yeh painful words sunkar Lakṣmaṇa deeply hurt ho gaye.
+
+Woh apne ears cover karke sadly Rāma ke direction mein chale gaye.
+
+Jaise hi Sītā akeli hui, Rāvaṇa fake hermit ke disguise mein hermitage ke paas aa gaya.
+
+Sītā ne guest samajhkar uska respectfully welcome kiya aur fruits, roots aur seat offer ki.
+
+Lekin suddenly Rāvaṇa ne apna true terrifying form reveal kar diya.
+
+Woh proudly bola,
+
+“Main Laṅkā ka king Rāvaṇa hoon.”
+
+“Mere saath chalo aur meri queen bano.”
+
+Sītā disgust aur anger se bhar gayin.
+
+Woh boldly boli,
+
+“Heaven toot sakta hai…”
+
+“Earth pieces mein break ho sakti hai…”
+
+“Fire cold ho sakti hai…”
+
+“Lekin main kabhi Lord Rāma ko abandon nahi karungi.”
+
+Unhone Rāvaṇa ko insult karte hue kaha,
+
+“Ek queenly elephant kabhi pig ke saath nahi reh sakti.”
+
+“Waise hi main tum jaise wicked being ko kabhi accept nahi karungi.”
+
+Rāvaṇa furious ho gaya.
+
+Usne forcefully Sītā ke hair pakad liye aur unhe sky mein utha kar le gaya.
+
+Sītā helplessly cry karne lagi,
+
+“Ha Rāma! Ha Lakṣmaṇa!”
+
+Tab nearby mountain par living giant vulture Jaṭāyu ne yeh horrifying scene dekh liya."""
             create_image_text_layout(
                 text_content=text2,
                 layout="full"
@@ -35027,7 +35161,16 @@ Woh apne old friend Mārīca ke paas help maangne ke liye aerial journey par nik
         # Section 3.11.17
         # --------------------------------------------------
         with st.expander("Section 3.11.17  Section CCLXXVII"):
-            text1 = """ """
+            text1 = """ 
+            🦅 Jaṭāyu’s Heroic Fight Against Rāvaṇa
+
+Mārkaṇḍeya sage continued,
+
+“Giant vulture king Jaṭāyu, jo Daśaratha ka close friend tha, usne Sītā ko Rāvaṇa ke lap mein helplessly crying condition mein dekha.”
+
+Jaṭāyu instantly rage se bhar gaya.
+
+Woh sky mein uḍkar loudly bola,"""
             create_image_text_layout(
                 "attached_assets/chapter3/3.11.17.jpg",
                 text1,
@@ -35035,7 +35178,130 @@ Woh apne old friend Mārīca ke paas help maangne ke liye aerial journey par nik
                 image_position="left"
             )
 
-            text2 = """ """
+            text2 = """ 
+            “Rāvaṇa! Mithilā ki princess ko immediately chhod do!”
+
+“Jab tak main alive hoon, tum Sītā ko lekar nahi ja sakte.”
+
+“Agar tumne unhe release nahi kiya, toh tum zinda nahi bachoge!”
+
+Fir aged hone ke bawajood Jaṭāyu ne heroic attack start kar diya.
+
+Usne apne claws, wings aur beak se Rāvaṇa ko badly wound kar diya.
+
+Rāvaṇa ke body se blood mountain spring ki tarah flow hone laga.
+
+Lekin finally furious Rāvaṇa ne sword nikali aur Jaṭāyu ke dono wings cut kar diye.
+
+Huge mountain-like body ke saath Jaṭāyu ground par gir gaya.
+
+Rāvaṇa phir Sītā ko lekar sky mein further south ki taraf fly karne laga.
+
+Journey ke dauraan Sītā wherever sages ke hermitages, rivers ya lakes dekhti, wahan apne ornaments gira deti thi — taaki Rāma later unhe trace kar sakein.
+
+Ek mountain peak par unhone five monkeys ko dekha.
+
+Tab Sītā ne apna shining yellow cloth unke beech throw kar diya.
+
+Woh cloth clouds se lightning girne ki tarah flutter karta hua neeche gira.
+
+Finally Rāvaṇa Laṅkā city pahunch gaya — ek magnificent city jo Viśvakarmā ne build ki thi.
+
+Wahan woh Sītā ko forcibly lekar enter hua.
+
+😢 Rāma Finds Jaṭāyu
+
+Meanwhile Rāma golden deer ko kill karke quickly hermitage ki taraf return kar rahe the.
+
+Raaste mein unhone Lakṣmaṇa ko aate dekha aur instantly worried ho gaye.
+
+Rāma angrily bole,
+
+“Tum Sītā ko alone chhodkar yahan kaise aa gaye?”
+
+“Yeh forest dangerous Rākṣasas se filled hai!”
+
+Lakṣmaṇa ne sadly Sītā ke harsh accusations aur panic ki full story explain ki.
+
+Yeh sunkar Rāma grief aur fear se burn hone lage.
+
+Woh desperately hermitage ki taraf daude.
+
+Raaste mein unhone ek huge wingless vulture ko dying condition mein dekha.
+
+Initially Rāma ko laga shayad yeh bhi koi Rākṣasa ho.
+
+Lekin vulture weak voice mein bola,
+
+“Main Jaṭāyu hoon… Daśaratha ka friend…”
+
+Yeh sunkar Rāma aur Lakṣmaṇa immediately emotional ho gaye.
+
+Jaṭāyu ne weakly bataya ki usne Sītā ko bachane ki try ki thi, lekin Rāvaṇa ne uske wings cut kar diye.
+
+Fir usne head se south direction indicate ki — jahan Rāvaṇa gaya tha.
+
+Aur uske baad heroic Jaṭāyu ne apna last breath le liya.
+
+Rāma deeply grief-stricken ho gaye.
+
+Unhone Jaṭāyu ko father-like respect diya aur personally uske funeral rites perform kiye.
+
+👹 The Headless Demon and Sugrīva’s Name
+
+Sītā ki search mein Rāma aur Lakṣmaṇa south direction mein Daṇḍaka forest ke deeper areas mein travel karne lage.
+
+Forest abandoned hermitages, broken water pots aur howling jackals se filled tha.
+
+Suddenly unhone ek terrifying headless Rākṣasa dekha.
+
+Uska mouth belly mein tha aur eyes chest par thi.
+
+Uski giant arms instantly Lakṣmaṇa ko pakad li.
+
+Lakṣmaṇa hopeless feel karne lage aur sadly bole,
+
+“Pehle kingdom loss hua…”
+
+“Fir father ki death…”
+
+“Fir Sītā ka abduction…”
+
+“Aur ab yeh disaster.”
+
+Lekin fearless Rāma calmly bole,
+
+“Fear mat karo.”
+
+“Main iska left arm cut karta hoon, tum right arm cut karo.”
+
+Dono brothers ne instantly demon ke arms sever kar diye.
+
+Monster ground par girkar mar gaya.
+
+Uske body se suddenly ek shining celestial being emerge hua.
+
+Woh bola,
+
+“Main actually Gandharva Viśvāvasu hoon.”
+
+“Ek curse ki wajah se mujhe yeh demon form mila tha.”
+
+Fir usne important guidance di,
+
+“Sītā ko Laṅkā ka king Rāvaṇa lekar gaya hai.”
+
+“Tum monkey prince Sugrīva ke paas jao.”
+
+“Woh Ṛṣyamūka mountain aur Pampā lake ke paas rehta hai.”
+
+“Woh bhi apne brother Vāli ki wajah se suffering face kar raha hai.”
+
+“Woh tumhari help karega.”
+
+Yeh bolkar celestial being vanish ho gaya.
+
+Rāma aur Lakṣmaṇa us amazing event ko dekhkar wonder se bhar gaye."""
             create_image_text_layout(
                 text_content=text2,
                 layout="full"
@@ -35045,7 +35311,18 @@ Woh apne old friend Mārīca ke paas help maangne ke liye aerial journey par nik
         # Section 3.11.18
         # --------------------------------------------------
         with st.expander("Section 3.11.18  Section CCLXXVIII"):
-            text1 = """ """
+            text1 = """ 
+            🌸 Rāma Meets Sugrīva and Hanumān
+
+Mārkaṇḍeya sage continued,
+
+“Sītā ke separation ka sorrow lekar Rāma aur Lakṣmaṇa Pampā lake ke paas pahuche.”
+
+Cool fragrant breeze aur beautiful lotuses dekhkar Rāma ko Sītā aur bhi yaad aane lagi.
+
+Woh grief mein deeply lament karne lage.
+
+Tab Lakṣmaṇa respectfully bole,"""
             create_image_text_layout(
                 "attached_assets/chapter3/3.11.18.jpg",
                 text1,
@@ -35053,7 +35330,162 @@ Woh apne old friend Mārīca ke paas help maangne ke liye aerial journey par nik
                 image_position="left"
             )
 
-            text2 = """ """
+            text2 = """ 
+            “O Rāma, itni despair aapko suit nahi karti.”
+
+“Ab hume Rāvaṇa ka clue mil chuka hai.”
+
+“Please courage rakhiye. Chaliye Sugrīva se friendship karte hain.”
+
+“Main aapka servant, disciple aur ally hoon.”
+
+Lakṣmaṇa ke comforting words sunkar Rāma calm ho gaye.
+
+Dono brothers ne Pampā lake mein bath kiya aur ancestors ko offerings dedicate ki.
+
+Fir woh Ṛṣyamūka mountain ki taraf chale gaye.
+
+Mountain par Sugrīva aur uske four ministers stay kar rahe the.
+
+Unhone distance se Rāma-Lakṣmaṇa ko dekha aur fear feel kiya.
+
+Sugrīva ne immediately Hanumān ko unse baat karne bheja.
+
+Hanumān giant aur powerful the — Himālaya mountain jaise majestic.
+
+Unhone politely Rāma aur Lakṣmaṇa se conversation start ki.
+
+Thodi hi der mein sabke beech friendship ho gayi.
+
+Rāma ne Sugrīva ko Sītā ke kidnapping ki full story batayi.
+
+Tab Sugrīva ne woh yellow cloth dikhaya jo Sītā ne sky se monkeys ke paas throw kiya tha.
+
+Us cloth ko dekhkar Rāma emotional ho gaye.
+
+Fir Rāma ne promise kiya,
+
+“Main tumhare enemy Vālī ko defeat karunga.”
+
+Aur Sugrīva ne promise diya ki woh Sītā ki search mein help karega.
+
+🐒 Vālī and Sugrīva’s Battle
+
+Sab log Kiṣkindhā kingdom ki taraf gaye.
+
+Wahan Sugrīva ne loud roar karke Vālī ko challenge diya.
+
+Vālī ki wise wife Tārā immediately worried ho gayi.
+
+Woh boli,
+
+“Sugrīva usually itna confident nahi hota.”
+
+“Is baar definitely usse koi powerful support mila hai.”
+
+“Please battle ke liye mat jao.”
+
+Vālī ne poocha,
+
+“Kaun help kar raha hai usse?”
+
+Tārā ne calmly answer diya,
+
+“Lord Rāma aur Lakṣmaṇa uske allies ban gaye hain.”
+
+“Hanumān aur many mighty vānar warriors bhi uske saath hain.”
+
+“Sab tumhari destruction ke liye ready hain.”
+
+Lekin jealous aur arrogant Vālī ne Tārā ki advice ignore kar di.
+
+Woh angrily cave se bahar nikla aur Sugrīva ko insult karne laga.
+
+Sugrīva bhi loudly bola,
+
+“Tumne mera kingdom aur wife dono cheen liye.”
+
+“Aaj battle hoga!”
+
+Fir dono monkey kings terrifying fight mein clash hue.
+
+Woh giant trees aur stones se ek dusre ko strike kar rahe the.
+
+Kabhi sky mein jump karte, kabhi fists aur nails se attack karte.
+
+Dono blood se covered ho gaye aur blossoming red flowers jaise lagne lage.
+
+Initially Rāma dono ko differentiate nahi kar paaye.
+
+Tab Hanumān ne Sugrīva ke neck mein flower garland daal di.
+
+Ab Rāma easily Sugrīva ko identify kar sake.
+
+Fir Rāma ne apna mighty bow draw kiya.
+
+Uski twang thunder jaise sound kar rahi thi.
+
+Ek powerful arrow directly Vālī ke chest mein jaakar laga.
+
+Vālī blood vomit karta hua ground par gir gaya.
+
+Tārā apne husband ko fallen dekhkar grief se toot gayi.
+
+Vālī ki death ke baad Sugrīva ne Kiṣkindhā kingdom regain kar liya.
+
+Rāma meanwhile Malyavat hill par four months tak stay karte rahe.
+
+😢 Sītā in Aśoka Grove
+
+Meanwhile Laṅkā mein Rāvaṇa ne Sītā ko beautiful Aśoka forest mein imprison kar diya.
+
+Sītā fruits aur roots khaakar ascetic life jeene lagi.
+
+Woh continuously Rāma ko remember karte hue day by day weak hoti ja rahi thi.
+
+Rāvaṇa ne terrifying demon-women guards appoint kiye.
+
+Kuch ke three eyes the, kuch ke strange bodies aur horrifying faces.
+
+Woh constantly Sītā ko threaten karti rehti thi,
+
+“Rāvaṇa ko accept karo, warna hum tumhe kha jayenge!”
+
+Lekin brave Sītā firmly boli,
+
+“Main Rāma ke bina kabhi nahi jee sakti.”
+
+“Main kabhi kisi aur man ko accept nahi karungi.”
+
+“Chahe mujhe marna hi kyun na pade.”
+
+Demon-women yeh baat Rāvaṇa ko batane chali gayin.
+
+Tab unmein se ek gentle and virtuous woman Trijaṭā Sītā ke paas aayi.
+
+Usne softly Sītā ko console kiya,
+
+“Fear mat karo.”
+
+“Rāma safe hain aur Sugrīva ke saath alliance bana chuke hain.”
+
+“Woh definitely tumhe rescue karne aayenge.”
+
+Fir Trijaṭā ne apna prophetic dream bataya.
+
+Usne dekha tha ki Rāvaṇa bald aur miserable condition mein destruction ki taraf ja raha hai.
+
+Kumbhakarṇa aur many Rākṣasas bhi doomed dikh rahe the.
+
+Lekin Vibhīṣaṇa white clothes aur royal umbrella ke saath safe dikh raha tha.
+
+Trijaṭā boli,
+
+“Yeh sign hai ki Rāma soon victory paayenge.”
+
+“Tum jaldi hi apne beloved Lord Rāma se milogi.”
+
+Yeh comforting words sunkar Sītā ke heart mein hope wapas aa gayi."""
             create_image_text_layout(
                 text_content=text2,
                 layout="full"
@@ -35063,7 +35495,18 @@ Woh apne old friend Mārīca ke paas help maangne ke liye aerial journey par nik
         # Section 3.11.19
         # --------------------------------------------------
         with st.expander("Section 3.11.19  Section CCLXXIX"):
-            text1 = """ """
+            text1 = """ 
+            🌺 Rāvaṇa Tries to Tempt Sītā
+
+Mārkaṇḍeya sage continued,
+
+“Aśoka grove mein Sītā miserable condition mein stay kar rahi thi.”
+
+“Woh simple clothes pehne hue thi, sirf ek marital ornament baaki tha, aur continuously Rāma ko yaad karke ro rahi thi.”
+
+Woh ek stone par baithi thi aur terrifying Rākṣasī women unhe guard kar rahi thi.
+
+Isi beech lust aur desire se disturbed Rāvaṇa wahan aaya."""
             create_image_text_layout(
                 "attached_assets/chapter3/3.11.19.jpg",
                 text1,
@@ -35071,7 +35514,70 @@ Woh apne old friend Mārīca ke paas help maangne ke liye aerial journey par nik
                 image_position="left"
             )
 
-            text2 = """ """
+            text2 = """ 
+            Woh celestial clothes, jeweled earrings, garlands aur royal crown pehne hue extremely magnificent lag raha tha.
+
+Lekin despite all beauty, Sītā ko woh terrifying aur inauspicious hi laga — bilkul cremation ground ke decorated tree ki tarah.
+
+Rāvaṇa softly Sītā ke paas aaya aur seductive voice mein bola,
+
+“O Sītā, tumne Rāma ke liye enough suffering kar li.”
+
+“Please mujh par mercy karo.”
+
+“Yeh miserable forest life bhool jao.”
+
+“Meri queen ban jao.”
+
+Rāvaṇa proudly apni power aur wealth boast karne laga.
+
+“Mere paas countless celestial women aur treasures hain.”
+
+“Millions of powerful beings mere command follow karte hain.”
+
+“Main Viśrava ka son hoon aur almost universe ka ruler hoon.”
+
+“Mandodarī ki tarah tum bhi meri chief queen ban sakti ho.”
+
+Lekin brave Sītā ne uski taraf properly dekha tak nahi.
+
+Woh usse straw se bhi less important samajh rahi thi.
+
+Tears continuously unke face aur chest par gir rahe the.
+
+Fir Sītā firmly boli,
+
+“Yeh meri bad luck hai ki mujhe tumhari aisi disgusting baatein sunni pad rahi hain.”
+
+“Main already married hoon aur apne husband ke prati fully devoted hoon.”
+
+“Main kabhi tumhari nahi ho sakti.”
+
+“Ek unwilling woman ko force karne mein tumhe kya joy milega?”
+
+Sītā ne further shame karte hue kaha,
+
+“Tum ek wise Brahmana lineage se belong karte ho.”
+
+“Tumhara brother Kubera virtuous aur respected hai.”
+
+“Phir tum itne adharmic acts kaise kar sakte ho?”
+
+Yeh bolkar Sītā grief se phir ro padi.
+
+Unki long black braid snake ki tarah neeche gir rahi thi.
+
+Rāvaṇa rejection se angry toh hua, lekin desire ki wajah se still soft tone maintain karne laga.
+
+Woh bola,
+
+“Chahe Kāma-deva mujhe burn karta rahe, main tumhe forcefully touch nahi karunga jab tak tum willing nahi hoti.”
+
+“Lekin mujhe samajh nahi aata tum us ordinary human Rāma se itna attachment kyun rakhti ho.”
+
+Yeh kehkar Rāvaṇa invisible ho gaya aur wahan se chala gaya.
+
+Sītā meanwhile Trijaṭā ki kindness aur protection ke saath Aśoka grove mein sorrowfully wait karti rahi — apne beloved Lord Rāma ke rescue ka hope lekar."""
             create_image_text_layout(
                 text_content=text2,
                 layout="full"
@@ -35081,7 +35587,18 @@ Woh apne old friend Mārīca ke paas help maangne ke liye aerial journey par nik
         # Section 3.11.20
         # --------------------------------------------------
         with st.expander("Section 3.11.20  Section CCLXXX"):
-            text1 = """ """
+            text1 = """ 
+            🌙 Rāma Waits for News of Sītā
+
+Mārkaṇḍeya sage continued,
+
+“Rāma aur Lakṣmaṇa Sugrīva ki hospitality accept karke Malyavat hill par stay kar rahe the.”
+
+Ek beautiful moonlit night mein fragrant breeze flowers ki smell lekar aa rahi thi.
+
+Us cool wind ne suddenly Rāma ko Sītā ki yaad dila di.
+
+Grief se bhar kar next morning Rāma ne Lakṣmaṇa se kaha,"""
             create_image_text_layout(
                 "attached_assets/chapter3/3.11.20.jpg",
                 text1,
@@ -35089,7 +35606,142 @@ Woh apne old friend Mārīca ke paas help maangne ke liye aerial journey par nik
                 image_position="left"
             )
 
-            text2 = """ """
+            text2 = """ 
+            “Jao aur Sugrīva ko remind karo.”
+
+“Maine uske liye Vālī ko kill kiya aur usse kingdom wapas dilaya.”
+
+“Lekin ab woh pleasures aur enjoyment mein busy lagta hai.”
+
+“Agar woh apna promise bhool gaya hai, toh usse bhi Vālī ke path par bhej do.”
+
+Lakṣmaṇa immediately bow aur arrows lekar Kiṣkindhā pahunch gaye.
+
+Unki anger dekhkar monkey king Sugrīva respectfully unke welcome ke liye aaya.
+
+Sugrīva folded hands ke saath bola,
+
+“O Lakṣmaṇa, main ungrateful nahi hoon.”
+
+“Maine already monkeys ko sab directions mein bhej diya hai.”
+
+“Woh forests, mountains, cities aur oceans sab search kar rahe hain.”
+
+“Bas kuch hi dinon mein good news milegi.”
+
+Lakṣmaṇa calm ho gaye aur Sugrīva ko saath lekar Rāma ke paas wapas aaye.
+
+Soon thousands of monkey chiefs north, east aur west search karke return hue — lekin south wale monkeys abhi tak nahi aaye the.
+
+Rāma worried toh the, lekin unhe south direction wale heroes par hope thi.
+
+🐒 Hanumān Returns with Great News
+
+Do months ke baad kuch monkeys haste hue Sugrīva ke paas aaye aur excitedly bole,
+
+“Hanumān aur Angada successful hoke wapas aa gaye!”
+
+“Woh Madhuvana orchard ko freely enjoy aur destroy kar rahe hain!”
+
+Yeh sunkar Sugrīva instantly samajh gaya ki mission successful hua hai.
+
+Woh happily Rāma se bola,
+
+“Sirf victorious servants hi itni freedom se behave karte hain.”
+
+Thodi der baad Hanumān aur other monkeys wahan pahuche.
+
+Hanumān ka glowing face aur confident walk dekhkar Rāma ko sure ho gaya ki Sītā mil chuki hain.
+
+Sab monkeys respectfully bow hue.
+
+Emotional Rāma ne poocha,
+
+“Kya tum successful hue?”
+
+“Kya tum mujhe life wapas doge?”
+
+“Kya main Sītā ko rescue karke Ayodhyā wapas ja paunga?”
+
+Tab Hanumān joyfully bole,
+
+“O Rāma, main good news laya hoon.”
+
+“Maine Sītā ko dekh liya hai!”
+
+Fir Hanumān ne full journey describe ki.
+
+🌊 Crossing Toward Laṅkā
+
+Hanumān bole,
+
+“South direction search karte hue hum ek huge dark cave mein enter hue.”
+
+“Andar Daitya Maya ka beautiful palace tha.”
+
+“Wahan ek ascetic woman Prabhāvatī ne hume food aur water diya.”
+
+Rest karke monkeys cave se bahar aaye aur finally vast ocean tak pahuche.
+
+Ocean dekhkar sab hopeless ho gaye.
+
+Woh starvation se marne ka decision lene lage.
+
+Isi beech unhone giant bird Sampāti ko dekha — Jaṭāyu ka elder brother.
+
+Sampāti ne Jaṭāyu ki death aur Sītā ki kidnapping ki story suni.
+
+Fir usne important revelation diya,
+
+“Rāvaṇa ki capital Laṅkā samundar ke us paar hai.”
+
+“Sītā definitely wahin hogi.”
+
+Sab monkeys excited ho gaye, lekin ocean cross karna impossible lag raha tha.
+
+Tab Hanumān ne apne divine power ko remember kiya aur huge leap lagakar hundred-yojana ocean cross kar diya.
+
+🌺 Hanumān Meets Sītā
+
+Hanumān बोले,
+
+“Laṅkā pahunchkar maine terrifying Rākṣasīs ko defeat kiya aur finally Sītā ko Aśoka grove mein dekha.”
+
+“Woh weak, sorrowful aur ascetic condition mein thi.”
+
+“Unke hair matted the aur body dust se covered thi.”
+
+Hanumān quietly unke paas gaye aur softly बोले,
+
+“Main Hanumān hoon, Rāma ka messenger.”
+
+“Rāma aur Lakṣmaṇa safe hain.”
+
+“Sugrīva bhi aapki welfare poochte hain.”
+
+“Rāma soon aapko rescue karne Laṅkā aayenge.”
+
+Initially Sītā cautious thi, lekin Avindhya naam ke wise Rākṣasa ki earlier prophecy yaad karke unhone Hanumān par trust kiya.
+
+Fir Sītā ne ek precious jewel Hanumān ko diya — proof ke liye.
+
+Unhone ek private memory bhi share ki:
+
+“Citrakūṭa par ek crow ne mujhe disturb kiya tha.”
+
+“Tab Rāma ne grass-blade ko divine weapon bana kar us crow ko punish kiya tha.”
+
+Yeh secret detail sirf real messenger hi jaan sakta tha.
+
+🔥 Hanumān Burns Laṅkā
+
+Hanumān further बोले,
+
+“Uske baad maine intentionally khud ko Rāvaṇa ke soldiers se capture hone diya.”
+
+“Fir maine poori Laṅkā city mein fire laga di!”
+
+Yeh glorious news sunkar Rāma joy aur emotion se bhar gaye."""
             create_image_text_layout(
                 text_content=text2,
                 layout="full"
