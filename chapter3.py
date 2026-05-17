@@ -34499,7 +34499,16 @@ Aur Jayadratha revenge ke thoughts lekar apne kingdom wapas chala gaya, jabki Pa
         # Section 3.11.11
         # --------------------------------------------------
         with st.expander("Section 3.11.11  Section CCLXXI"):
-            text1 = """ """
+            text1 = """ 
+            🌲 Yudhishthira Shares His Sorrow with Sage Mārkaṇḍeya
+
+King Janamejaya ne poocha,
+
+“Draupadī ko rescue karne ke baad Pandavas ne kya kiya?”
+
+Vaisampāyana ne kaha,
+
+Jayadratha ko defeat karke aur Draupadī ko safely wapas laakar, King Yudhishthira quietly great sages ke paas baith gaye."""
             create_image_text_layout(
                 "attached_assets/chapter3/3.11.11.jpg",
                 text1,
@@ -34507,7 +34516,48 @@ Aur Jayadratha revenge ke thoughts lekar apne kingdom wapas chala gaya, jabki Pa
                 image_position="left"
             )
 
-            text2 = """ """
+            text2 = """ 
+            Sab ascetics Draupadī ke suffering ko sunkar sad feel kar rahe the.
+
+Tab Yudhishthira respectfully sage Mārkaṇḍeya se bole,
+
+“O respected sage, aap past aur future sab jaante ho.”
+
+“Mere heart mein ek painful doubt hai. Please usse clear kijiye.”
+
+Yudhishthira sadly Draupadī ki taraf dekhkar bole,
+
+“Draupadī ordinary woman nahi hai.”
+
+“Woh King Drupada ki daughter hai aur sacred sacrifice fire se appear hui thi.”
+
+“Woh virtuous, faithful aur pure-hearted hai.”
+
+“Usne kabhi koi sinful act nahi kiya.”
+
+“Woh always Brahmanas aur elders ki respect karti hai.”
+
+Fir bhi Yudhishthira grief mein bole,
+
+“Phir bhi wicked Jayadratha usse forcefully kidnap karke le gaya.”
+
+“Haan, humne us evil man ko punish kiya, uski army ko defeat kiya aur Draupadī ko rescue bhi kar liya…”
+
+“Lekin jo disgrace aur pain hua, uska sorrow abhi bhi mere heart mein hai.”
+
+Yudhishthira forest-life ko yaad karke aur sad ho gaye.
+
+“Yeh exile life bahut difficult hai.”
+
+“Hum forest mein rehte hain, hunting karke survive karte hain aur jungle animals ko maarna padta hai.”
+
+“Upar se hum apne own deceitful relatives ki wajah se exile suffer kar rahe hain.”
+
+Fir woh deeply emotional hokar bole,
+
+“Sach batao, kya duniya mein koi mujhse zyada unfortunate bhi hua hai?”
+
+“Kya aapne kabhi kisi aur ko itna sorrow aur humiliation suffer karte dekha hai?”"""
             create_image_text_layout(
                 text_content=text2,
                 layout="full"
@@ -34517,7 +34567,16 @@ Aur Jayadratha revenge ke thoughts lekar apne kingdom wapas chala gaya, jabki Pa
         # Section 3.11.12
         # --------------------------------------------------
         with st.expander("Section 3.11.12  Section CCLXXII"):
-            text1 = """ """
+            text1 = """ 
+            🌊 Sage Mārkaṇḍeya Begins the Story of Rāma
+
+Mārkaṇḍeya sage gently bole,
+
+“O Yudhishthira, tum alone nahi ho jisne suffering face ki hai.”
+
+“Great Lord Rāma ne bhi unimaginable sorrow endure kiya tha.”
+
+“Evil-minded Rāvaṇa ne deceit use karke aur brave vulture Jaṭāyu ko defeat karke, Rāma ki wife Sītā ko forest se kidnap kar liya tha.”"""
             create_image_text_layout(
                 "attached_assets/chapter3/3.11.12.jpg",
                 text1,
@@ -34525,7 +34584,64 @@ Aur Jayadratha revenge ke thoughts lekar apne kingdom wapas chala gaya, jabki Pa
                 image_position="left"
             )
 
-            text2 = """ """
+            text2 = """ 
+            “Lekin finally Lord Rāma ne Sugrīva aur vānar army ki help se Sītā ko rescue kar liya.”
+
+“Unhone ocean par bridge banaya aur apne sharp arrows se Laṅkā ko destroy kar diya.”
+
+Yudhishthira curiosity aur respect ke saath bole,
+
+“O great sage, please mujhe Lord Rāma ki full story batayiye.”
+
+“Woh kis family mein born hue the?”
+
+“Unki strength aur heroism kitni great thi?”
+
+“Aur Rāvaṇa kaun tha? Uska Rāma se conflict kaise hua?”
+
+“Main yeh glorious story detail mein sunna chahta hoon.”
+
+Mārkaṇḍeya smile karke bole,
+
+“Dhyaan se suno, O Bharata prince. Main tumhe exactly waise hi purani history sunaunga jaise woh hui thi.”
+
+Fir sage ne story begin ki.
+
+“Ancient Ikṣvāku dynasty mein Aja naam ke ek great king hue.”
+
+“Unke son Daśaratha the, jo Vedas aur dharma mein deeply devoted the.”
+
+“King Daśaratha ke four famous sons hue — Rāma, Lakṣmaṇa, Bharata aur Śatrughna.”
+
+Mārkaṇḍeya further bole,
+
+“Rāma ki mother Kausalyā thi.”
+
+“Bharata ki mother Kaikeyī thi.”
+
+“Aur Lakṣmaṇa aur Śatrughna Sumitrā ke sons the.”
+
+“Videha kingdom ke king Janaka the, aur unki daughter Sītā thi.”
+
+“Sītā ko divine destiny ke through specially Lord Rāma ki beloved wife banne ke liye create kiya gaya tha.”
+
+Fir sage ne Rāvaṇa ki background explain karni start ki.
+
+“Rāvaṇa ka grandfather Prajāpati Brahmā khud the — universe ke creator.”
+
+“Pulastya ke son Viśrava the.”
+
+“Viśrava ka ek powerful son Vaiśravaṇa tha, jise later Kubera ke naam se jaana gaya.”
+
+Mārkaṇḍeya bole,
+
+“Kubera ko immortality, immense wealth aur Laṅkā city ka rulership mila.”
+
+“Usse magical Puṣpaka chariot bhi mila jo rider ki wish ke according kahin bhi ja sakta tha.”
+
+Lekin fir sage ne serious tone mein kaha,
+
+“Baad mein events aise turn hue ki Rāvaṇa ka birth hua — aur wahi future mein Lord Rāma ke life ka greatest enemy bana.”"""
             create_image_text_layout(
                 text_content=text2,
                 layout="full"
@@ -34535,7 +34651,16 @@ Aur Jayadratha revenge ke thoughts lekar apne kingdom wapas chala gaya, jabki Pa
         # Section 3.11.13
         # --------------------------------------------------
         with st.expander("Section 3.11.13  Section CCLXXIII"):
-            text1 = """ """
+            text1 = """ 
+            👹 The Birth of Rāvaṇa and His Terrible Power
+
+Mārkaṇḍeya sage continued,
+
+“Pulastya ke son Viśrava apne son Kubera se secretly angry rehne lage.”
+
+Lekin Kubera apne father ko please karna chahta tha.
+
+Isliye usne three beautiful Rākṣasī women — Puṣpotkaṭā, Rākā aur Mālinī — ko Viśrava ki service ke liye bheja."""
             create_image_text_layout(
                 "attached_assets/chapter3/3.11.13.jpg",
                 text1,
@@ -34543,7 +34668,106 @@ Aur Jayadratha revenge ke thoughts lekar apne kingdom wapas chala gaya, jabki Pa
                 image_position="left"
             )
 
-            text2 = """ """
+            text2 = """ 
+            Woh singing, dancing aur respectful service se sage ko happy rakhne lagi.
+
+Viśrava unse pleased ho gaye aur unhe powerful sons ka boon diya.
+
+Puṣpotkaṭā ke do mighty sons hue — giant Kumbhakarṇa aur ten-headed Rāvaṇa.
+
+Mālinī ka son Vibhīṣaṇa tha.
+
+Aur Rākā ke twins hue — Khara aur Śūrpaṇakhā.
+
+Mārkaṇḍeya bole,
+
+“Vibhīṣaṇa sabse handsome aur righteous tha.”
+
+“Woh dharma aur spiritual life mein devoted rehta tha.”
+
+“Lekin Rāvaṇa extremely powerful, ambitious aur dangerous tha.”
+
+“Kumbhakarṇa terrifying strength aur illusion powers mein unmatched tha.”
+
+“Khara cruel aur violent tha, aur Śūrpaṇakhā sages ko trouble karti rehti thi.”
+
+Ek din sab brothers ne Kubera ki immense wealth aur glory dekhi.
+
+Jealous hokar unhone decide kiya ki woh severe austerities perform karenge.
+
+Rāvaṇa thousand years tak ek leg par khade hokar penance karta raha.
+
+Woh sirf air par survive kar raha tha aur five sacred fires ke beech meditate karta tha.
+
+Kumbhakarṇa upside-down austerities kar raha tha.
+
+Vibhīṣaṇa dry leaves khaakar peaceful meditation mein engaged tha.
+
+Khara aur Śūrpaṇakhā un sabki service karte rahe.
+
+Thousands of years ke baad bhi jab Brahmā appear nahi hue, tab Rāvaṇa ne shocking act kiya.
+
+Usne apne heads ek-ek karke cut karke sacred fire mein offer karne start kar diye.
+
+Finally Brahmā pleased hokar personally appear hue.
+
+Woh bole,
+
+“Main tum sabse pleased hoon. Immortality ke alawa jo chaho boon maango.”
+
+“Rāvaṇa, tumhare cut heads wapas restore ho jayenge aur tum koi bhi form le paoge.”
+
+Tab Rāvaṇa proudly bola,
+
+“Mujhe gods, demons, Yakṣas, serpents aur heavenly beings se kabhi defeat na ho.”
+
+Brahmā bole,
+
+“Tumhe un sabse fear nahi hoga…”
+
+“Lekin humans se danger possible rahega.”
+
+Rāvaṇa ne humans ko weak samajhkar ignore kar diya.
+
+Fir Brahmā ne Kumbhakarṇa se boon maangne ko kaha.
+
+Lekin uski intelligence clouded ho gayi aur usne accidentally long-lasting sleep ka boon maang liya.
+
+Brahmā ne “So be it” keh diya.
+
+Fir Vibhīṣaṇa respectfully bola,
+
+“Even danger mein bhi main dharma ka path kabhi na chhodun.”
+
+“Aur mujhe divine knowledge mile.”
+
+Brahmā extremely pleased hokar bole,
+
+“Tum righteous ho, even Rākṣasa family mein born hokar bhi.”
+
+“Main tumhe immortality deta hoon.”
+
+Boons milte hi Rāvaṇa aur arrogant ho gaya.
+
+Usne Kubera ko battle mein defeat kiya aur Laṅkā kingdom seize kar liya.
+
+Usne magical Puṣpaka chariot bhi forcefully le liya.
+
+Angry Kubera ne curse diya,
+
+“Yeh chariot future mein us hero ko carry karega jo tumhe battle mein kill karega.”
+
+“Tumne apne elder brother ka insult kiya hai, isliye tumhari death near hai.”
+
+Vibhīṣaṇa meanwhile dharma aur goodness ke path par hi chalta raha.
+
+Lekin Rāvaṇa apni immense powers ke saath poori universe mein terror spread karne laga.
+
+Woh gods aur demons sabko defeat karke unki valuable treasures lootne laga.
+
+Sab creatures usse fear karne lage.
+
+Isi terror ki wajah se woh “Rāvaṇa” naam se famous hua — woh jo poori duniya ko dara de."""
             create_image_text_layout(
                 text_content=text2,
                 layout="full"
@@ -34553,7 +34777,16 @@ Aur Jayadratha revenge ke thoughts lekar apne kingdom wapas chala gaya, jabki Pa
         # Section 3.11.14
         # --------------------------------------------------
         with st.expander("Section 3.11.14  Section CCLXXIV"):
-            text1 = """ """
+            text1 = """ 
+            🌍 The Gods Prepare for Rāvaṇa’s Destruction
+
+Mārkaṇḍeya sage continued,
+
+“Rāvaṇa ki growing terror se sages, Siddhas aur heavenly beings sab disturbed ho gaye.”
+
+Finally sab Brahmā ji ke paas help maangne gaye.
+
+Agni dev sabki taraf se respectfully bole,"""
             create_image_text_layout(
                 "attached_assets/chapter3/3.11.14.jpg",
                 text1,
@@ -34561,7 +34794,62 @@ Aur Jayadratha revenge ke thoughts lekar apne kingdom wapas chala gaya, jabki Pa
                 image_position="left"
             )
 
-            text2 = """ """
+            text2 = """ 
+            “O Lord Brahmā, Rāvaṇa ko aapke boon ki wajah se koi defeat nahi kar pa raha.”
+
+“Woh apni huge power se poori world ko torture kar raha hai.”
+
+“Please hume protect kijiye. Aapke alawa aur koi hume save nahi kar sakta.”
+
+Tab Brahmā calmly bole,
+
+“Fear mat karo.”
+
+“Rāvaṇa ko gods aur demons kill nahi kar sakte, lekin maine uski destruction ka arrangement already kar diya hai.”
+
+“Lord Viṣṇu khud earth par incarnate ho chuke hain.”
+
+“Wahi future mein Rāvaṇa ka end karenge.”
+
+Fir Brahmā ne Indra aur sab celestials ko command diya,
+
+“Tum sab bhi earth par birth lo.”
+
+“Monkeys aur bears ke families mein powerful sons ko produce karo jo Lord Viṣṇu ki help kar sakein.”
+
+Sab gods instantly planning mein lag gaye.
+
+Gandharvas, celestials aur many divine beings decide karne lage ki woh earth par kaise appear honge.
+
+Tab Brahmā ne ek Gandharvī named Dundubhī ko bhi order diya,
+
+“Earth par jaakar apna role perform karo.”
+
+Woh later human world mein Mantharā naam ki hunchback woman ke form mein born hui.
+
+Uska future role destiny ko change karne wala tha.
+
+Meanwhile many gods ne monkey aur bear women ke through heroic children produce kiye.
+
+Woh extraordinary warriors future vānar army bane.
+
+Mārkaṇḍeya bole,
+
+“Un vānar heroes ki strength unbelievable thi.”
+
+“Woh mountains tod sakte the aur giant trees ko weapons ki tarah use karte the.”
+
+“Unke bodies vajra ki tarah hard the.”
+
+“Woh thousand elephants jitni power rakhte the aur wind ki speed se move karte the.”
+
+“Koi forests mein rehta tha, koi freely kahin bhi travel karta tha.”
+
+Sab future mein Lord Rāma ki divine mission mein help karne wale the.
+
+Brahmā ne sab arrangements complete karke Mantharā ko bhi secretly guide kiya ki future mein usse kya role play karna hai.
+
+Aur Mantharā quietly duniya mein conflicts aur misunderstandings create karne lagi — destiny ko us final great story ki taraf le jaate hue."""
             create_image_text_layout(
                 text_content=text2,
                 layout="full"
@@ -34571,7 +34859,16 @@ Aur Jayadratha revenge ke thoughts lekar apne kingdom wapas chala gaya, jabki Pa
         # Section 3.11.15
         # --------------------------------------------------
         with st.expander("Section 3.11.15  Section CCLXXV"):
-            text1 = """ """
+            text1 = """ 
+            👑 Rāma’s Exile Begins
+
+Yudhishthira respectfully bole,
+
+“O great sage, aapne Rāma aur dusre heroes ki birth story bata di.”
+
+“Ab please yeh bhi batayiye ki Rāma, Lakṣmaṇa aur Sītā forest exile mein kyun gaye?”
+
+Mārkaṇḍeya sage ne story continue ki."""
             create_image_text_layout(
                 "attached_assets/chapter3/3.11.15.jpg",
                 text1,
@@ -34579,7 +34876,130 @@ Aur Jayadratha revenge ke thoughts lekar apne kingdom wapas chala gaya, jabki Pa
                 image_position="left"
             )
 
-            text2 = """ """
+            text2 = """ 
+            “King Daśaratha apne sons ke birth se extremely happy the.”
+
+“Princes bade hoke Vedas, warfare aur dharma sab mein expert ban gaye.”
+
+“Marriage ke baad King Daśaratha aur bhi joyful ho gaye.”
+
+Rāma sabse bade aur most beloved son the.
+
+Unka behaviour itna sweet aur noble tha ki poori Ayodhyā unse love karti thi.
+
+Mārkaṇḍeya bole,
+
+“Rāma tall, handsome aur extremely powerful the.”
+
+“Unki walk royal elephant jaisi majestic thi.”
+
+“Woh wisdom mein Bṛhaspati ke equal aur battle mein Indra ke equal the.”
+
+“Woh wicked logon ke liye terror aur good people ke protector the.”
+
+Old age feel karke King Daśaratha ne decide kiya ki Rāma ko crown prince bana diya jaaye.
+
+Sab ministers aur priests bhi is decision se happy the.
+
+King excited hokar bole,
+
+“Pushya constellation ka auspicious time aa gaya hai.”
+
+“Kal Rāma ko officially prince-regent banaya jayega.”
+
+Lekin secretly Mantharā ne yeh news sun li.
+
+Woh immediately Queen Kaikeyī ke paas gayi aur poisonous words bolne lagi.
+
+“O foolish queen! Kausalyā toh blessed hai, kyunki uska son king banne wala hai.”
+
+“Tumhara son Bharata kingdom lose kar dega!”
+
+Mantharā ki manipulation sunkar Kaikeyī ka mind change ho gaya.
+
+Woh beautiful ornaments pehenkar King Daśaratha ke paas gayi aur sweet voice mein boli,
+
+“O King, aapne mujhe pehle do boons promise kiye the.”
+
+“Ab un promises ko fulfil kijiye.”
+
+Daśaratha lovingly bole,
+
+“Jo chaho maang lo.”
+
+“Main sab fulfil karunga.”
+
+Tab Kaikeyī ne shocking demand rakh di.
+
+“Bharata ko crown prince banaiye…”
+
+“Aur Rāma ko fourteen years ke liye forest exile bhejiye.”
+
+“Woh ascetic clothes pehenkar Daṇḍaka forest mein rahein.”
+
+Yeh cruel words sunkar Daśaratha completely shattered ho gaye.
+
+Woh grief se speechless ho gaye.
+
+Lekin jab Rāma ko situation pata chali, toh unhone calmly exile accept kar liya.
+
+Woh apne father ka promise false nahi hone dena chahte the.
+
+Lakṣmaṇa aur Sītā bhi lovingly unke saath forest chale gaye.
+
+Rāma ke departure ke sorrow ko Daśaratha bear nahi kar paaye.
+
+Thodi hi time baad unka death ho gaya.
+
+Tab Bharata ko wapas bulaya gaya.
+
+Kaikeyī proudly boli,
+
+“Rāma aur Lakṣmaṇa forest mein hain.”
+
+“Ab tum kingdom rule karo.”
+
+Lekin virtuous Bharata horrified ho gaye.
+
+Woh crying voice mein bole,
+
+“Aapne greed ke liye apne husband ko maar diya aur family destroy kar di!”
+
+“Main kabhi yeh kingdom accept nahi karunga.”
+
+Fir Bharata thousands of citizens, sages aur queens ke saath Rāma ko wapas lane forest chale gaye.
+
+Unhone Citrakūṭa mountain par Rāma ko ascetic dress mein dekha.
+
+Bharata ne bahut request ki, lekin Rāma father ke words follow karne par determined rahe.
+
+Finally Bharata sadly wapas laut aaye.
+
+Woh Nandigrāma mein Rāma ki wooden sandals ko throne par rakhkar kingdom rule karne lage — bilkul servant ki tarah.
+
+Meanwhile Rāma deeper forests mein chale gaye aur Godāvarī river ke paas stay karne lage.
+
+Wahan Śūrpaṇakhā ki wajah se conflict start hua.
+
+Rāma ne Khara, Dūṣaṇa aur fourteen thousand Rākṣasas ko defeat karke sages ko protect kiya.
+
+Śūrpaṇakhā badly injured condition mein Laṅkā bhaag gayi.
+
+Woh crying state mein apne brother Rāvaṇa ke feet par gir padi.
+
+Uski condition dekhkar Rāvaṇa rage se burn hone laga.
+
+Usne angrily poocha,
+
+“Kisne yeh kiya?”
+
+“Kaun itna foolish hai jo mere family ko insult karke peacefully jeena chahta hai?”
+
+Śūrpaṇakhā ne fir Rāma ki power aur Rākṣasas ke destruction ki full story suna di.
+
+Yeh sunkar Fate-driven Rāvaṇa ne evil plan banaya.
+
+Woh apne old friend Mārīca ke paas help maangne ke liye aerial journey par nikal pada."""
             create_image_text_layout(
                 text_content=text2,
                 layout="full"
