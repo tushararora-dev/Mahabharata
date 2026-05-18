@@ -35751,7 +35751,18 @@ Yeh glorious news sunkar Rāma joy aur emotion se bhar gaye."""
         # Section 3.11.21
         # --------------------------------------------------
         with st.expander("Section 3.11.21  Section CCLXXXI"):
-            text1 = """ """
+            text1 = """ 
+            🐒 The Great Monkey Army Gathers
+
+Mārkaṇḍeya sage continued,
+
+“Ṛṣyamūka mountain par Rāma aur Sugrīva ke paas monkey chiefs huge armies ke saath aane lage.”
+
+Vālī ke father-in-law Suṣeṇa thousands of crores monkeys ke saath aaye.
+
+Gaya aur Gavākṣa bhi gigantic monkey armies lekar pahuche.
+
+Jāmbavān black bears ki massive army ke saath aaya."""
             create_image_text_layout(
                 "attached_assets/chapter3/3.11.21.jpg",
                 text1,
@@ -35759,7 +35770,154 @@ Yeh glorious news sunkar Rāma joy aur emotion se bhar gaye."""
                 image_position="left"
             )
 
-            text2 = """ """
+            text2 = """ 
+            Aur countless monkey heroes different mountains aur forests se Rāma ki help ke liye assemble hone lage.
+
+Entire area roaring monkeys se fill ho gaya.
+
+Kuch monkeys mountains jaise huge the…
+
+kuch buffaloes jaise powerful…
+
+kuch autumn clouds ki tarah dark…
+
+aur kuch vermillion-red faces wale.
+
+Koi giant leaps laga raha tha, koi dust scatter kar raha tha, koi lion ki tarah roar kar raha tha.
+
+Monkey army bilkul overflowing ocean ki tarah immense lag rahi thi.
+
+Finally auspicious time par Rāma aur Lakṣmaṇa us mighty host ke saath south direction mein march karne lage.
+
+Hanumān army ke front mein the.
+
+Lakṣmaṇa rear guard protect kar rahe the.
+
+Rāma aur Lakṣmaṇa monkey chiefs ke beech Sun aur Moon ki tarah shine kar rahe the.
+
+Entire army stones aur giant Sala-Tāla trees ko weapons ki tarah carry kar rahi thi.
+
+🌊 The Problem of Crossing the Ocean
+
+Long journey ke baad monkey army finally vast ocean ke shore par pahunch gayi.
+
+Sea itself impossible obstacle lag raha tha.
+
+Rāma ne Sugrīva se poocha,
+
+“Hamāri army huge hai…”
+
+“Aur ocean bhi difficult to cross hai.”
+
+“Ab kya plan hona chahiye?”
+
+Kuch monkeys proudly बोले,
+
+“Hum directly jump karke cross kar lenge!”
+
+Kuch ne boats aur rafts ka idea diya.
+
+Lekin Rāma calmly बोले,
+
+“Sea hundred yojanas wide hai.”
+
+“Entire army boats se safely cross nahi kar sakti.”
+
+“Enemy easily attack bhi kar sakta hai.”
+
+Fir Rāma ne decision liya,
+
+“Main Ocean deity se pray karunga.”
+
+“Agar woh help nahi karega… toh main apne divine arrows se samundar sukha dunga.”
+
+Rāma aur Lakṣmaṇa kusa-grass bed par fasting state mein shore par lie down ho gaye.
+
+🌊 Ocean Deity Appears
+
+Kuch time baad Ocean deity divine vision mein appear hua.
+
+Woh gems aur aquatic beings se surrounded tha.
+
+Folded hands ke saath usne respectfully kaha,
+
+“O son of Kausalyā, main bhi Ikṣvāku lineage se connected hoon.”
+
+“Please bataiye main kya service kar sakta hoon?”
+
+Rāma बोले,
+
+“Mujhe apni army ke liye passage chahiye.”
+
+“Main Laṅkā jaakar Rāvaṇa ko destroy karna chahta hoon.”
+
+“Agar tumne help nahi ki… toh main celestial weapons se tumhe dry kar dunga.”
+
+Ocean deity fear aur humility se बोला,
+
+“Main aapka enemy nahi hoon.”
+
+“Lekin agar main freely path de doon, toh future mein every powerful king mujhe force karega.”
+
+“Lekin aapki army mein Nala naam ka monkey hai.”
+
+“Woh divine architect Tvaṣṭṛ ka son hai.”
+
+“Jo bhi wood, grass ya stones woh water mein throw karega…”
+
+“Main unhe support karunga.”
+
+Yeh kehkar Ocean deity disappear ho gaya.
+
+🌉 Nala Builds the Bridge
+
+Rāma ne immediately Nala ko bulaya aur कहा,
+
+“Tum bridge build karo.”
+
+“Sirf tum hi yeh kar sakte ho.”
+
+Then monkey army giant stones, trees aur rocks collect karne lagi.
+
+Nala engineering skill ke saath bridge construct karne laga.
+
+Massive bridge ten yojanas wide aur hundred yojanas long banaya gaya.
+
+Woh famous bridge later “Nala’s Bridge” ke naam se known hua.
+
+Monkey army excitement ke saath us bridge se ocean cross karne lagi.
+
+👑 Vibhīṣaṇa Joins Rāma
+
+Isi time Rāvaṇa ka virtuous brother Vibhīṣaṇa apne four ministers ke saath Rāma ke camp mein aaya.
+
+Sugrīva suspicious ho gaya.
+
+Woh bola,
+
+“Yeh spy bhi ho sakta hai.”
+
+Lekin Rāma ne Vibhīṣaṇa ki sincerity aur good character instantly understand kar li.
+
+Unhone warmly uska welcome kiya.
+
+Rāma ne usse future king of Laṅkā declare kar diya aur Lakṣmaṇa ka close ally bana diya.
+
+Vibhīṣaṇa ke guidance mein entire monkey army safely bridge cross karke Laṅkā pahunch gayi.
+
+🏙️ The Siege of Laṅkā Begins
+
+Laṅkā pahunchte hi monkeys ne city ke beautiful gardens destroy karne start kar diye.
+
+Rāvaṇa ne spies Śuka aur Sāraṇa ko monkey disguises mein bheja.
+
+Lekin Vibhīṣaṇa ne instantly unhe identify kar liya.
+
+Jab unhone apna real Rākṣasa form reveal kiya, Rāma ne surprisingly unhe kindly treat kiya aur poori army dikha kar peacefully wapas bhej diya.
+
+Finally Rāma ne wise monkey prince Aṅgada ko Rāvaṇa ke paas final peace-message lekar envoy bana kar bheja.
+
+War of Laṅkā ab start hone wala tha."""
             create_image_text_layout(
                 text_content=text2,
                 layout="full"
@@ -35769,7 +35927,16 @@ Yeh glorious news sunkar Rāma joy aur emotion se bhar gaye."""
         # Section 3.11.22
         # --------------------------------------------------
         with st.expander("Section 3.11.22  Section CCLXXXII"):
-            text1 = """ """
+            text1 = """ 
+            🏰 Laṅkā Prepares for War
+
+Mārkaṇḍeya sage continued,
+
+Rāma ne monkey army ko food, fruits aur water se filled groves mein camp karvaya aur personally entire army ka supervision karne lage.
+
+Meanwhile Rāvaṇa ne Laṅkā ko war ke liye fully prepare kar diya.
+
+City already naturally impregnable thi — huge ramparts, giant gateways aur seven deep water-filled trenches ke saath."""
             create_image_text_layout(
                 "attached_assets/chapter3/3.11.22.jpg",
                 text1,
@@ -35777,7 +35944,139 @@ Yeh glorious news sunkar Rāma joy aur emotion se bhar gaye."""
                 image_position="left"
             )
 
-            text2 = """ """
+            text2 = """ 
+            Un trenches mein fishes, sharks aur alligators the.
+
+Sharp Khadira stakes aur military traps bhi lagaye gaye.
+
+Walls par catapults, giant stones aur deadly weapons ready rakhe gaye.
+
+Rakṣasa soldiers ke paas:
+
+venomous snakes se bhare pots
+swords
+lances
+battle-axes
+blazing firebrands
+giant clubs
+deadly Śataghnis weapons
+
+sab prepared the.
+
+Har gate par massive infantry, elephants aur horse divisions stationed the.
+
+Laṅkā complete war-fortress ban chuki thi.
+
+🐒 Aṅgada Delivers Rāma’s Final Warning
+
+Rāma ne monkey prince Aṅgada ko final peace-envoy bana kar Rāvaṇa ke paas bheja.
+
+Fearless Aṅgada directly Laṅkā city enter kar gaya.
+
+Thousands of Rākṣasas uske around gather ho gaye, lekin woh clouds ke beech shining Sun ki tarah radiant lag raha tha.
+
+Aṅgada boldly Rāvaṇa ke royal court mein gaya aur loud voice mein Rāma ka message sunaya:
+
+“O Rāvaṇa!”
+
+“Sinful kings ki wajah se poori cities aur kingdoms destroy ho jaati hain.”
+
+“Tumne Sītā ko abduct karke sirf Rāma ko hi insult nahi kiya…”
+
+“Tum countless innocent lives ke destruction ka cause ban gaye ho.”
+
+“Tumne sages ko kill kiya…”
+
+“Gods ko insult kiya…”
+
+“Kings aur helpless women ko torment kiya.”
+
+“Ab punishment ka time aa gaya hai.”
+
+“Release Sītā immediately!”
+
+“Otherwise Rāma apne arrows se entire Earth ko Rākṣasas se empty kar denge.”
+
+Court silence se bhar gaya.
+
+😡 Rāvaṇa Explodes in Rage
+
+Aṅgada ke fearless words sunkar Rāvaṇa fury se almost senseless ho gaya.
+
+Usne instantly apne servants ko signal diya.
+
+Four gigantic Rākṣasas hawks ki tarah Aṅgada par jump hue aur usse seize kar liya.
+
+Lekin monkey prince casually upward leap maar gaya — directly palace terrace par.
+
+Uske leap ki force itni terrifying thi ki jo Rākṣasas usse pakde hue the woh violently ground par crash ho gaye.
+
+Unki ribs break ho gayin.
+
+Fir Aṅgada terrace se giant leap lekar city walls cross karta hua safely monkey camp mein wapas aa gaya.
+
+Usne Rāma ko poori situation report ki.
+
+War now unavoidable ho chuka tha.
+
+⚔️ The Assault on Laṅkā Begins
+
+Rāma ne immediately full assault ka order de diya.
+
+Wind-speed monkeys united attack ke saath Laṅkā ki ramparts todne lage.
+
+Lakṣmaṇa, Vibhīṣaṇa aur Jāmbavān southern gate par attack lead kar rahe the.
+
+Rāma personally hundred-thousand crores monkeys ke saath city par charge kar rahe the.
+
+Massive bears bhi attack support karne lage.
+
+Monkeys walls par jump kar rahe the, towers par climb kar rahe the aur giant rocks throw kar rahe the.
+
+Dust itni zyada raise hui ki Sun bhi invisible ho gaya.
+
+Citizens shock se dekhne lage ki poori city monkey warriors se cover ho gayi hai:
+
+kuch golden-yellow
+kuch grey
+kuch red like rising sun
+kuch white like flax
+
+Monkeys giant jeweled pillars aur palace terraces ko uproot karne lage.
+
+Catapults aur military machines destroy kar diye gaye.
+
+Śataghnis, clubs aur stones city ke andar violently throw kiye gaye.
+
+Rakṣasa guards panic mein hundreds aur thousands ki numbers mein flee karne lage.
+
+🩸 The Terrible Battle
+
+Rāvaṇa ne immediately terrifying Rākṣasa armies ko counterattack ka order diya.
+
+Shape-shifting warriors walls par spread ho gaye aur arrows ki storm release karne lage.
+
+Heavy attacks se many monkeys walls se neeche gir gaye.
+
+Lances aur collapsing structures ne countless warriors ko crush kar diya.
+
+Battle savage aur brutal ban gaya.
+
+Monkeys aur Rākṣasas ek dusre ko hair se pakadkar claws aur teeth se tear karne lage.
+
+Roars aur screams entire battlefield mein echo hone lage.
+
+Meanwhile Rāma continuously rain-clouds ki tarah arrows shower kar rahe the.
+
+Unke arrows Laṅkā ko cover karke huge numbers of Rākṣasas ko destroy kar rahe the.
+
+Lakṣmaṇa bhi specific enemy commanders ko identify karke deadly arrows se kill kar rahe the.
+
+Finally successful first assault ke baad Rāma ne monkey army ko temporarily withdraw kar liya.
+
+Laṅkā ki fortifications badly damaged ho chuki thi.
+
+Ab final decisive war begin hone wala tha."""
             create_image_text_layout(
                 text_content=text2,
                 layout="full"
@@ -35787,7 +36086,28 @@ Yeh glorious news sunkar Rāma joy aur emotion se bhar gaye."""
         # Section 3.11.23
         # --------------------------------------------------
         with st.expander("Section 3.11.23  Section CCLXXXIII"):
-            text1 = """ """
+            text1 = """ 
+            🌑 Night Battle Begins
+
+Mārkaṇḍeya sage continued,
+
+First assault ke baad monkey army apne camps mein rest kar rahi thi.
+
+Isi time many small Rākṣasas aur Piśācas secretly monkey camp mein infiltrate karne lage.
+
+Unmein Parvana, Patana, Jambha, Khara, Krodhavaśa, Hari, Praruja, Aruja aur Praghasa jaise dangerous demons bhi the.
+
+Woh sab invisible forms use kar rahe the taaki silently monkeys ko kill kar sakein.
+
+Lekin Vibhīṣaṇa ko unki trick instantly samajh aa gayi.
+
+Usne apni knowledge aur powers se unki invisibility break kar di.
+
+Jaise hi monkeys ne un demons ko clearly dekh liya, woh furious ho gaye.
+
+Powerful monkey warriors long leaps laga kar directly unpar toot pade.
+
+Thodi hi der mein sab infiltrating demons ground par dead gir chuke the."""
             create_image_text_layout(
                 "attached_assets/chapter3/3.11.23.jpg",
                 text1,
@@ -35795,7 +36115,81 @@ Yeh glorious news sunkar Rāma joy aur emotion se bhar gaye."""
                 image_position="left"
             )
 
-            text2 = """ """
+            text2 = """ 
+            👑 Rāvaṇa Personally Enters the Battlefield
+
+Apne hidden attackers ki death dekhkar Rāvaṇa ka rage explode ho gaya.
+
+Woh personally gigantic Rākṣasa-Piśāca army lead karke battlefield mein nikla.
+
+Military science mein expert Rāvaṇa ne apni army ko famous “Uśanas formation” mein arrange kiya.
+
+Rāma ne immediately Bṛhaspati ke strategy-rules follow karte hue counter-formation create ki.
+
+Dono armies terrifying roar ke saath ek dusre ki taraf charge hui.
+
+Battlefield phir se cosmic war jaise scene mein transform ho gaya.
+
+⚔️ Great Duels of the War
+
+Soon mighty warriors apne-apne opponents choose karke duel karne lage.
+
+Rāma directly Rāvaṇa ke saamne aaye
+Lakṣmaṇa ne Indrajit ko challenge kiya
+Sugrīva Virūpākṣa se bhid gaye
+Nala aur other monkey chiefs bhi Rākṣasa generals se fight karne lage
+
+Entire battlefield simultaneously countless duels se fill ho gaya.
+
+Combat itna terrifying tha ki timid people usse dekh bhi nahi sakte the.
+
+Woh ancient Deva-Asura wars ki yaad dilane laga.
+
+🏹 Rāma vs Rāvaṇa
+
+Rāvaṇa ne furious speed se Rāma par darts, swords, lances aur deadly weapons ki storm chala di.
+
+Sky sharp missiles se dark ho gaya.
+
+Lekin Rāma calmly apne divine iron arrows release karne lage.
+
+Unke arrows blazing meteors ki tarah directly Rāvaṇa ko strike kar rahe the.
+
+Har arrow razor-sharp aur unstoppable tha.
+
+Rāvaṇa bhi equal fury ke saath counterattack karta raha.
+
+Battlefield thunder aur exploding weapons ki sound se shake hone laga.
+
+⚡ Lakṣmaṇa vs Indrajit
+
+Isi beech Lakṣmaṇa aur Indrajit ka fierce duel start hua.
+
+Lakṣmaṇa ke arrows directly vital points target kar rahe the.
+
+Indrajit bhi magical speed aur skill se endless arrow-showers release kar raha tha.
+
+Dono warriors ek dusre ko continuously wound karte rahe.
+
+Unki battle lightning storms ki tarah dazzling lag rahi thi.
+
+🔥 Vibhīṣaṇa vs Prahasta
+
+Vibhīṣaṇa apne former ally Prahasta ke saamne aaye.
+
+Dono ne hesitation ke bina celestial weapons use karne start kiye.
+
+Winged arrows, blazing astras aur divine missiles battlefield mein collide hone lage.
+
+Weapons ki force itni enormous thi ki entire three worlds disturb hone lage.
+
+Mountains tremble karne lage…
+
+Sky dark hone laga…
+
+Aur beings everywhere fear feel karne lage.
+
+Laṅkā war now full destructive fury mein enter ho chuka tha."""
             create_image_text_layout(
                 text_content=text2,
                 layout="full"
@@ -35805,7 +36199,28 @@ Yeh glorious news sunkar Rāma joy aur emotion se bhar gaye."""
         # Section 3.11.24
         # --------------------------------------------------
         with st.expander("Section 3.11.24  Section CCLXXXIV"):
-            text1 = """ """
+            text1 = """ 
+            ⚔️ Vibhīṣaṇa Kills Prahasta
+
+Mārkaṇḍeya sage continued,
+
+Battlefield mein Prahasta suddenly loud roar karta hua Vibhīṣaṇa ki taraf charge hua.
+
+Usne apni gigantic mace full force ke saath Vibhīṣaṇa par strike ki.
+
+Impact terrifying tha — lekin wise aur mighty Vibhīṣaṇa bilkul Himālaya mountain ki tarah unmoved khade rahe.
+
+Unhone instantly ek huge divine javelin uthaya.
+
+Us weapon par hundred bells lage hue the aur mantras se empowered tha.
+
+Vibhīṣaṇa ne tremendous force ke saath usse Prahasta ki taraf throw kiya.
+
+Weapon thunderbolt ki speed se gaya…
+
+Aur directly Prahasta ka head body se separate kar diya.
+
+Gigantic Rākṣasa commander wind se uprooted tree ki tarah battlefield par gir gaya."""
             create_image_text_layout(
                 "attached_assets/chapter3/3.11.24.jpg",
                 text1,
@@ -35813,7 +36228,94 @@ Yeh glorious news sunkar Rāma joy aur emotion se bhar gaye."""
                 image_position="left"
             )
 
-            text2 = """ """
+            text2 = """ 
+            🐒 Hanumān Stops Dhumrākṣa
+
+Prahasta ki death dekhkar terrifying Rākṣasa Dhumrākṣa rage mein monkey army par toot pada.
+
+Uski army dark storm-clouds ki tarah frightening lag rahi thi.
+
+Monkeys initially fear se retreat karne lage.
+
+Lekin tab Hanumān battlefield ke beech firmly khade ho gaye.
+
+Hanumān ko fearless dekhkar monkeys ka courage instantly wapas aa gaya.
+
+Entire battlefield deafening roars aur war-cries se fill ho gaya.
+
+Blood itna zyada baha ki ground muddy aur red ho gayi.
+
+Dhumrākṣa continuously arrows ki showers se monkeys ko wound kar raha tha.
+
+Tab Hanumān directly us Rākṣasa commander ki taraf leap kar gaye.
+
+🌳 Hanumān vs Dhumrākṣa
+
+Hanumān aur Dhumrākṣa ka duel ancient Indra-Prahlāda battle ki tarah terrifying ban gaya.
+
+Dhumrākṣa maces aur iron-spiked clubs se attack kar raha tha.
+
+Hanumān meanwhile giant trees uproot karke unhe weapons ki tarah use kar rahe the.
+
+Battlefield repeated crashes aur explosions se shake hone laga.
+
+Finally Hanumān wrath se explode ho gaye.
+
+Unhone directly Dhumrākṣa ko overpower karke kill kar diya.
+
+Uske charioteer, horses aur entire chariot bhi completely destroy kar diye gaye.
+
+🩸 Rakṣasa Army Flees
+
+Apne commander ki death dekhkar Rākṣasa army panic mein aa gayi.
+
+Monkeys now fearless hokar massive counterattack launch karne lage.
+
+Countless Rākṣasas slaughter hue aur survivors fear mein Laṅkā ki taraf bhaag gaye.
+
+Wahan pahunchkar unhone trembling voice mein Rāvaṇa ko report diya:
+
+“Prahasta mar gaya…”
+
+“Dhumrākṣa bhi destroy ho gaya…”
+
+“Monkey army unstoppable lag rahi hai…”
+
+😨 Rāvaṇa Awakens Kumbhakarṇa
+
+Yeh terrible news sunkar Rāvaṇa deeply sigh karne laga.
+
+Fir suddenly throne se uthkar बोला,
+
+“Ab Kumbhakarṇa ka time aa gaya hai.”
+
+Entire palace giant drums, trumpets aur loud instruments se fill kar diya gaya taaki sleeping giant Kumbhakarṇa ko jagaya ja sake.
+
+Huge efforts ke baad finally monstrous Kumbhakarṇa deep sleep se awaken hua.
+
+Woh bed par baithkar slowly full consciousness regain karne laga.
+
+Rāvaṇa anxiety aur frustration ke saath usse bola,
+
+“O Kumbhakarṇa, tum peacefully so rahe the…”
+
+“Lekin meanwhile huge disaster ham par toot pada hai.”
+
+“Rāma monkey army ke saath ocean cross karke Laṅkā tak aa gaya hai.”
+
+“Maine uski wife Sītā ko abduct kiya tha…”
+
+“Aur ab woh usse recover karne aaya hai.”
+
+“Hamāre greatest warriors already mar chuke hain.”
+
+“Ab sirf tum hi Rāma ko defeat kar sakte ho.”
+
+“Please armour pehno aur immediately battlefield mein jao.”
+
+Rāvaṇa ne Vajravega aur Promāthin ko bhi Kumbhakarṇa ke saath join karne ka order diya.
+
+Thus giant demon Kumbhakarṇa war ke liye prepare hone laga — aur Laṅkā ka battlefield aur bhi terrifying stage mein enter kar gaya."""
             create_image_text_layout(
                 text_content=text2,
                 layout="full"
@@ -35823,7 +36325,18 @@ Yeh glorious news sunkar Rāma joy aur emotion se bhar gaye."""
         # Section 3.11.25
         # --------------------------------------------------
         with st.expander("Section 3.11.25  Section CCLXXXV"):
-            text1 = """ """
+            text1 = """ 
+            👹 Kumbhakarṇa Enters the Battlefield
+
+Mārkaṇḍeya sage continued,
+
+Gigantic Kumbhakarṇa finally Laṅkā city se battlefield ki taraf march karne laga.
+
+Uske saath countless terrifying Rākṣasas bhi the.
+
+Soon usne victorious monkey army ko apne saamne camped dekha.
+
+Lekin woh directly Rāma ko search karna chahta tha, isliye monkey ranks ko ignore karta hua aage badhne laga."""
             create_image_text_layout(
                 "attached_assets/chapter3/3.11.25.jpg",
                 text1,
@@ -35831,7 +36344,134 @@ Yeh glorious news sunkar Rāma joy aur emotion se bhar gaye."""
                 image_position="left"
             )
 
-            text2 = """ """
+            text2 = """ 
+            Tab usne Lakṣmaṇa ko bow ready position mein standing dekha.
+
+Monkey warriors instantly giant leaps laga kar Kumbhakarṇa ko all sides se surround karne lage.
+
+Woh uprooted trees aur huge rocks continuously uspar throw karne lage.
+
+Kuch monkeys claws aur nails se uska body tear karne lage.
+
+Battlefield monkey war-cries se shake hone laga.
+
+😨 Kumbhakarṇa Eats the Monkeys
+
+Lekin terrifying giant Kumbhakarṇa unpar sirf laugh karne laga.
+
+Usko monkey attacks almost meaningless lag rahe the.
+
+Fir horrifying scene start hua —
+
+Woh monkeys ko directly pakadkar khane laga.
+
+He devoured mighty monkey heroes like Chala, Chandachala aur Vajrabāhu.
+
+Yeh monstrous act dekhkar monkey army panic aur fear mein scream karne lagi.
+
+Entire battlefield terror se fill ho gaya.
+
+🐒 Sugrīva Challenges Kumbhakarṇa
+
+Monkey screams sunkar brave Sugrīva directly Kumbhakarṇa ki taraf charge hue.
+
+Unhone giant Śāla-tree trunk uthaya aur full force ke saath Kumbhakarṇa ke head par smash kar diya.
+
+Tree completely break ho gaya…
+
+Lekin giant demon ko almost koi effect hi nahi hua.
+
+Instead Kumbhakarṇa jaise fully awaken ho gaya.
+
+Usne apne gigantic arms stretch kiye aur Sugrīva ko forcibly seize kar liya.
+
+Monkey king helplessly uski grip mein aa gaya.
+
+🏹 Lakṣmaṇa vs Kumbhakarṇa
+
+Sugrīva ko captured dekhkar Lakṣmaṇa instantly furious ho gaye.
+
+Woh blazing speed se Kumbhakarṇa ki taraf rushed hue.
+
+Lakṣmaṇa ne ek divine golden-winged arrow release kiya.
+
+Arrow directly Kumbhakarṇa ke armour ko pierce karta hua uske body ke through pass ho gaya aur earth mein strike hua — blood se stained.
+
+Pain se shaken Kumbhakarṇa ne Sugrīva ko release kar diya.
+
+Fir usne ek gigantic mountain-sized stone weapon uthaya aur Lakṣmaṇa ki taraf charge kiya.
+
+Lekin Lakṣmaṇa unbelievable speed se react hue.
+
+Do razor-edged arrows se unhone Kumbhakarṇa ke dono raised arms cut off kar diye.
+
+👹 The Demon’s Terrifying Transformation
+
+Shockingly…
+
+Jaise hi do arms cut hue, instantly four new arms uske body par appear ho gaye.
+
+Lakṣmaṇa calmly aur precise archery skill ke saath un new arms ko bhi sever karte gaye.
+
+Tab monstrous Kumbhakarṇa ne apna gigantic magical form assume kiya:
+
+countless heads
+many arms
+numerous legs
+
+Woh moving mountain range ki tarah terrifying lag raha tha.
+
+Entire battlefield fear se tremble karne laga.
+
+⚡ Lakṣmaṇa Kills Kumbhakarṇa
+
+Lakṣmaṇa ne finally Brahmā weapon invoke kiya.
+
+Divine astra blazing radiance ke saath directly giant demon par strike hua.
+
+Impact heaven’s thunderbolt ki tarah devastating tha.
+
+Kumbhakarṇa ka monstrous body ripped apart ho gaya.
+
+Woh battlefield par gigantic burning tree ki tarah crash hua — completely dead.
+
+Rākṣasa army apne greatest giant warrior ko fallen dekhkar panic mein flee karne lagi.
+
+⚔️ Vajravega and Promāthin Attack
+
+Lekin Dūṣaṇa ke younger brothers — Vajravega aur Promāthin — retreating army ko rally karke Lakṣmaṇa par furious attack launch kar diye.
+
+Lakṣmaṇa loudly roar karke unhe arrow-showers se receive karne lage.
+
+Dono Rākṣasa brothers bhi intense fury ke saath arrows rain karne lage.
+
+Battle extremely fierce aur thrilling ban gaya.
+
+Sky arrows se dark hone laga.
+
+🪨 Hanumān and Nala Finish the Demons
+
+Isi beech Hanumān ek mountain peak uthakar battlefield mein leap hue.
+
+Unhone directly Vajravega par woh peak smash kar di — instantly killing him.
+
+At the same time mighty monkey Nala ne huge rock se Promāthin ko crush kar diya.
+
+Dono demon brothers destroy ho gaye.
+
+🩸 War Continues Ruthlessly
+
+Lekin despite these victories, Laṅkā war khatam nahi hua.
+
+Monkey aur Rākṣasa armies ab bhi savage combat mein engaged thi.
+
+Hundreds of demons monkeys ke hands se slain ho rahe the.
+
+Many monkeys bhi die ho rahe the.
+
+Lekin total casualties Rākṣasas ki far greater thi.
+
+Rāma’s side gradually battlefield par dominance gain karne lagi."""
             create_image_text_layout(
                 text_content=text2,
                 layout="full"
@@ -35841,7 +36481,22 @@ Yeh glorious news sunkar Rāma joy aur emotion se bhar gaye."""
         # Section 3.11.26
         # --------------------------------------------------
         with st.expander("Section 3.11.26  Section CCLXXXVI"):
-            text1 = """ """
+            text1 = """ 
+            😡 Rāvaṇa Sends Indrajit
+
+Mārkaṇḍeya sage continued,
+
+Kumbhakarṇa, Prahasta aur Dhumrākṣa jaise mighty warriors ki death ki news sunkar Rāvaṇa grief aur rage se bhar gaya.
+
+Tab usne apne greatest son Indrajit ko bulaya aur कहा,
+
+“O mighty warrior, ab tumhi Rāma, Lakṣmaṇa aur Sugrīva ko destroy kar sakte ho.”
+
+“Tumne pehle bhi Indra ko battle mein defeat karke meri fame ko blazing glory di thi.”
+
+“Tumhare paas invisibility aur illusion ki divine powers hain.”
+
+“Apne celestial weapons use karke mere enemies ko annihilate karo.”"""
             create_image_text_layout(
                 "attached_assets/chapter3/3.11.26.jpg",
                 text1,
@@ -35849,7 +36504,94 @@ Yeh glorious news sunkar Rāma joy aur emotion se bhar gaye."""
                 image_position="left"
             )
 
-            text2 = """ """
+            text2 = """ 
+            “Jo kaam Prahasta aur Kumbhakarṇa nahi kar sake…”
+
+“Woh aaj tum complete karo.”
+
+Indrajit confidently बोला,
+
+“So be it.”
+
+Fir woh shining armour pehenkar apne chariot par mount hua aur battlefield ki taraf rush kar gaya.
+
+⚔️ Lakṣmaṇa vs Indrajit Begins
+
+Battlefield mein pahunchkar Indrajit loudly apna naam announce karne laga aur Lakṣmaṇa ko single combat ke liye challenge diya.
+
+Lakṣmaṇa instantly bow aur arrows lekar uski taraf advance hue.
+
+Unki bowstring ka thunderous flap hi enemy ke heart mein fear generate kar raha tha.
+
+Dono warriors celestial weapons ke masters the, aur dono ek dusre ko defeat karne ke liye fully determined the.
+
+Battle extremely terrifying aur dazzling ban gaya.
+
+🏹 Divine Weapons Clash
+
+Indrajit ne furious speed se countless arrows aur divine missiles launch karne start kiye.
+
+Lakṣmaṇa equally precise archery ke saath sabko counter karte gaye.
+
+Jab Indrajit ne dekha ki ordinary arrows se advantage nahi mil raha, usne tremendous force se many javelins throw kiye.
+
+Lekin Lakṣmaṇa ne razor-edged arrows se un sab javelins ko mid-air mein pieces mein cut kar diya.
+
+Broken weapons blazing fragments ki tarah battlefield par girne lage.
+
+🐒 Aṅgada Destroys Indrajit’s Chariot
+
+Isi beech mighty monkey prince Aṅgada giant tree uthakar Indrajit ki taraf charge hua.
+
+Usne full force se tree directly Indrajit ke head par strike kiya.
+
+Indrajit instantly ek deadly lance lekar Aṅgada ko attack karne laga.
+
+Lekin exact same moment Lakṣmaṇa ne us lance ko arrows se pieces mein cut kar diya.
+
+Furious Indrajit ne mace uthakar Aṅgada ke left side par powerful blow maara.
+
+Par Vālī ka heroic son almost unaffected raha.
+
+Aṅgada wrath se blazing ho gaya.
+
+Usne giant Śāla-tree trunk directly Indrajit ke chariot par hurl kar diya.
+
+Impact devastating tha —
+
+Indrajit ka chariot, horses aur charioteer completely destroy ho gaye.
+
+🌑 Indrajit Turns Invisible
+
+Chariot destroyed dekhkar Indrajit instantly leap maar kar invisible ho gaya.
+
+Uski illusion powers ne battlefield ko confusing aur terrifying bana diya.
+
+Rāma immediately us area ki taraf aaye aur monkey army ko protect karne lage.
+
+Lekin hidden Indrajit now divine boon-weapons use karne laga.
+
+Invisible state mein woh Rāma aur Lakṣmaṇa ke bodies ko every direction se arrows se pierce kar raha tha.
+
+Thousands of sharp arrows rain ki tarah un dono brothers par girne lage.
+
+☁️ The Invisible Assault
+
+Rāma aur Lakṣmaṇa continuously counterattack karte rahe, lekin enemy visible hi nahi tha.
+
+Meanwhile monkeys huge rocks aur mountain-fragments lekar sky mein invisible demon ko search karne lage.
+
+Lekin Indrajit unseen form mein poori monkey army ko torture karta raha.
+
+Arrows har direction se aa rahe the.
+
+Monkeys screams aur confusion se battlefield chaotic ban gaya.
+
+Finally endless arrow wounds se covered Rāma aur Lakṣmaṇa weakened hone lage.
+
+Blood-soaked bodies ke saath dono heroic brothers battlefield par collapse kar gaye —
+
+bilkul sky se fallen Sun aur Moon ki tarah."""
             create_image_text_layout(
                 text_content=text2,
                 layout="full"
@@ -35859,7 +36601,30 @@ Yeh glorious news sunkar Rāma joy aur emotion se bhar gaye."""
         # Section 3.11.27
         # --------------------------------------------------
         with st.expander("Section 3.11.27  Section CCLXXXVII"):
-            text1 = """ """
+            text1 = """ 
+            🕸️ Indrajit Binds Rāma and Lakṣmaṇa
+
+Mārkaṇḍeya sage continued,
+
+Battlefield par unconscious fallen Rāma aur Lakṣmaṇa ko dekhkar Indrajit ne apne divine boon-arrows se un dono ko tightly bind kar diya.
+
+Arrow-net itna dense tha ki dono heroic brothers cage mein trapped hawks ki tarah lag rahe the.
+
+Monkey army immediately unke around protective circle bana kar stand karne lagi.
+
+Sugrīva personally wahan present the along with:
+
+Hanumān
+Aṅgada
+Nīla
+Nala
+Tāra
+Kumuda
+Mainda
+Dvivida
+Suṣeṇa
+
+sab deeply worried state mein."""
             create_image_text_layout(
                 "attached_assets/chapter3/3.11.27.jpg",
                 text1,
@@ -35867,7 +36632,130 @@ Yeh glorious news sunkar Rāma joy aur emotion se bhar gaye."""
                 image_position="left"
             )
 
-            text2 = """ """
+            text2 = """ 
+            ✨ Vibhīṣaṇa Revives the Brothers
+
+Isi beech Vibhīṣaṇa battlefield ke dusre side victory achieve karke wapas aaye.
+
+Situation dekhkar unhone immediately “Prajñā” weapon use kiya — jo unconscious warriors ko revive karta tha.
+
+Rāma aur Lakṣmaṇa slowly consciousness regain karne lage.
+
+Sugrīva aur others ne quickly arrows unke bodies se remove kiye.
+
+Fir celestial medicine “Viśalyā” divine mantras ke saath apply ki gayi.
+
+Instantly:
+
+pain disappear hone laga
+fatigue vanish ho gayi
+wounds heal hone lage
+
+Aur dono brothers full strength ke saath rise ho gaye.
+
+Monkey army relief aur joy se roar karne lagi.
+
+👁️ Kubera’s Divine Water
+
+Rāma ko recovered dekhkar Vibhīṣaṇa respectfully folded hands ke saath बोले,
+
+“O Rāghava, White Mountains se Kubera ka messenger sacred water lekar aaya hai.”
+
+“Yeh divine water eyes par apply karne se invisible beings visible ho jayenge.”
+
+Rāma ne immediately woh sacred water apni eyes par use kiya.
+
+Lakṣmaṇa, Sugrīva, Hanumān, Jāmbavān, Aṅgada aur many monkey chiefs ne bhi same kiya.
+
+Uske baad sabki vision supernatural ho gayi.
+
+Ab woh hidden aur invisible enemies ko bhi clearly dekh sakte the.
+
+😈 Indrajit Returns to Battle
+
+Meanwhile Indrajit apni success report karke Rāvaṇa ke paas gaya aur fir quickly battlefield par return hua.
+
+Ab woh army ke front par khud lead kar raha tha.
+
+Vibhīṣaṇa ne Lakṣmaṇa ko secret hint diya:
+
+“Indrajit ne apna daily sacrifice complete nahi kiya hai.”
+
+“Abhi woh vulnerable hai.”
+
+Lakṣmaṇa immediately wrath se blazing hokar uski taraf attack ke liye rushed hue.
+
+⚔️ Final Duel — Lakṣmaṇa vs Indrajit
+
+Lakṣmaṇa aur Indrajit ka duel ancient Indra-Prahlāda battle ki tarah astonishing ban gaya.
+
+Dono warriors continuously divine arrows exchange karne lage.
+
+Indrajit ke arrows directly Lakṣmaṇa ke vital points target kar rahe the.
+
+Lakṣmaṇa bhi blazing celestial shafts se Rāvaṇa’s son ko repeatedly wound kar rahe the.
+
+Finally fury se mad Indrajit ne venomous snake-like eight arrows simultaneously Lakṣmaṇa par launch kiye.
+
+Lekin Lakṣmaṇa ab decisive moment par pahunch chuke the.
+
+🔥 Lakṣmaṇa Kills Indrajit
+
+Lakṣmaṇa ne three blazing winged arrows ready kiye — fire ki energy se shining.
+
+First arrow:
+
+➡️ Indrajit ka bow-holding arm cut off kar diya.
+
+Second arrow:
+
+➡️ Uska dusra arm bhi sever kar diya jo arrows hold kar raha tha.
+
+Third razor-sharp arrow:
+
+➡️ Directly Indrajit ka jeweled head body se separate kar diya.
+
+Head battlefield par brilliantly shining earrings ke saath gir gaya.
+
+Headless trunk terrifyingly ground par collapse hua.
+
+Lakṣmaṇa ne fir uske charioteer ko bhi arrows se kill kar diya.
+
+Frightened horses empty chariot ko kheenchkar Laṅkā city wapas le gaye.
+
+😨 Rāvaṇa’s Grief and Rage
+
+Jab Rāvaṇa ne apne son ka empty chariot dekha, uska heart unbearable grief se fill ho gaya.
+
+Shock aur sorrow mein usne sudden madness mein decide kiya:
+
+“Main ab Sītā ko kill kar dunga!”
+
+Woh sword lekar furious speed se Aśoka grove ki taraf dauda jahan Sītā imprisoned thi.
+
+🛑 Avindhya Stops Rāvaṇa
+
+Wise Rākṣasa counselor Avindhya ne instantly Rāvaṇa ko stop kiya.
+
+Usne calmly kaha,
+
+“O King, aapko ek helpless woman ko kill nahi karna chahiye.”
+
+“Woh already suffering mein captive hai.”
+
+“Agar revenge lena hai…”
+
+“Toh Rāma ko kill karo.”
+
+“Uska husband mar jayega toh Sītā bhi spiritually destroyed ho jayegi.”
+
+Avindhya ne Rāvaṇa ko uski past victories aur glory bhi remind karayi.
+
+Gradually Rāvaṇa calm hua.
+
+Usne sword sheath ki aur finally decide kiya:
+
+“Ab main khud battlefield mein jaunga.”"""
             create_image_text_layout(
                 text_content=text2,
                 layout="full"
@@ -35877,7 +36765,25 @@ Yeh glorious news sunkar Rāma joy aur emotion se bhar gaye."""
         # Section 3.11.28
         # --------------------------------------------------
         with st.expander("Section 3.11.28  Section CCLXXXVIII"):
-            text1 = """ """
+            text1 = """ 
+            😡 Rāvaṇa Personally Leads the Final Battle
+
+Mārkaṇḍeya sage continued,
+
+Apne beloved son Indrajit ki death ke baad Rāvaṇa uncontrollable fury se bhar gaya.
+
+Woh golden aur jewel-decorated chariot par mount hua aur gigantic Rākṣasa army ke saath battlefield ki taraf rush kiya.
+
+Uske soldiers ke hands mein:
+
+swords
+lances
+maces
+deadly missiles
+
+sab ready the.
+
+Rāvaṇa directly monkey army par charge karne laga."""
             create_image_text_layout(
                 "attached_assets/chapter3/3.11.28.jpg",
                 text1,
@@ -35885,7 +36791,171 @@ Yeh glorious news sunkar Rāma joy aur emotion se bhar gaye."""
                 image_position="left"
             )
 
-            text2 = """ """
+            text2 = """ 
+            🐒 Monkey Chiefs Surround Rāvaṇa
+
+Rāvaṇa ko advancing dekhkar mighty monkey chiefs immediately uske around gather ho gaye:
+
+Hanumān
+Aṅgada
+Nīla
+Nala
+Mainda
+Jāmbavān
+
+aur countless monkey-bear warriors.
+
+Woh uprooted trees aur giant trunks se Rākṣasa soldiers ko destroy karne lage.
+
+Battlefield chaos aur destruction se bhar gaya.
+
+👹 Rāvaṇa’s Illusion Powers
+
+Apni army ko slaughter hota dekhkar Rāvaṇa ne terrifying illusion powers use karni start ki.
+
+Suddenly uske body se thousands of armed Rākṣasas appear hone lage.
+
+Har ek ke hands mein deadly weapons the.
+
+Lekin Rāma ne divine celestial weapon use karke un sab illusion-demons ko instantly destroy kar diya.
+
+Tab Rāvaṇa ne aur bhi terrifying illusion create ki:
+
+Usne many warriors generate kiye jo bilkul Rāma aur Lakṣmaṇa jaise dikhte the.
+
+Woh fake Rāma-Lakṣmaṇa forms real brothers par attack karne lage.
+
+Lakṣmaṇa immediately बोले,
+
+“O Rāma, in illusion-warriors ko destroy kijiye!”
+
+Rāma ne calmly un sab false forms ko annihilate kar diya.
+
+☀️ Indra Sends His Divine Chariot
+
+Isi time heavenly charioteer Mātali battlefield par descend hua.
+
+Woh Indra ka radiant divine chariot lekar aaya tha — Sun ki tarah blazing.
+
+Usmein tawny celestial horses yoked the.
+
+Mātali respectfully बोला,
+
+“O Rāghava, yeh victorious chariot Indra ka hai.”
+
+“Isi par ride karke Indra ne countless Daityas aur Dānavas ko defeat kiya tha.”
+
+“Please is par mount karke quickly Rāvaṇa ko slay kijiye.”
+
+Initially Rāma cautious hue.
+
+Unhone socha yeh bhi shayad Rāvaṇa ka illusion ho sakta hai.
+
+Lekin Vibhīṣaṇa बोले,
+
+“Yeh illusion nahi hai.”
+
+“Yeh truly Indra ka divine chariot hai.”
+
+Rāma then happily बोले,
+
+“So be it.”
+
+Aur immediately us divine chariot par ascend kar gaye.
+
+⚔️ The Ultimate Duel Begins
+
+Jab Rāma aur Rāvaṇa ek dusre ki taraf charge hue, entire universe react karne laga.
+
+Earth par creatures wailing karne lage…
+
+Aur heavens mein gods lion-like victory roars aur drums beat karne lage.
+
+Rāma-Rāvaṇa duel unparalleled tha.
+
+Aisa combat kabhi aur kahin nahi hua tha.
+
+🔥 Ravana’s Terrible Assault
+
+Rāvaṇa ne Indra’s thunderbolt jaise terrifying javelin Rāma par hurl kiya.
+
+Weapon blazing curse ki tarah deadly lag raha tha.
+
+Lekin Rāma ne apne sharp arrows se us javelin ko mid-air mein fragments mein cut kar diya.
+
+Yeh impossible feat dekhkar Rāvaṇa momentarily fear feel karne laga.
+
+Fir rage mein usne thousands aur tens-of-thousands arrows launch kiye.
+
+Saath hi:
+
+rockets
+javelins
+battle-axes
+maces
+darts
+Śataghnis
+
+sab directions se Rāma par rain hone lage.
+
+Monkey army yeh terrifying illusion aur weapon-storm dekhkar fear mein scatter hone lagi.
+
+🕉️ Rāma Uses the Brahmāstra
+
+Tab Rāma ne apne quiver se ek extraordinary arrow nikala.
+
+Us arrow par:
+
+golden feathers
+shining wings
+radiant head
+
+tha.
+
+Rāma ne sacred mantras chant karke usse Brahmāstra mein transform kar diya.
+
+Heavens instantly rejoice karne lage.
+
+Gods, Gandharvas aur even Dānavas samajh gaye:
+
+“Ab Rāvaṇa ka end certain hai.”
+
+☄️ The Death of Rāvaṇa
+
+Rāma ne bow ko complete circle tak draw kiya aur Brahmāstra release kiya.
+
+Weapon blazing cosmic fire ki tarah directly Rāvaṇa ki taraf gaya.
+
+Instantly:
+
+Rāvaṇa
+uska chariot
+horses
+charioteer
+
+sab terrible divine fire se engulf ho gaye.
+
+Entire battlefield dazzling flames se cover ho gaya.
+
+Then mighty Ten-headed Rāvaṇa finally destroyed ho gaya.
+
+🌌 The Fall of the Lord of Laṅkā
+
+Rāvaṇa ki death dekhkar:
+
+gods
+Gandharvas
+Cāraṇas
+
+sab heavenly joy se fill ho gaye.
+
+Brahmāstra ki overwhelming power ne Rāvaṇa ke body ke five elements ko separate kar diya.
+
+Uska flesh aur blood completely consume ho gaya.
+
+Even ashes bhi visible nahi bachi.
+
+Thus the mighty emperor of Laṅkā — terror of gods and worlds — finally perished before Lord Rāma."""
             create_image_text_layout(
                 text_content=text2,
                 layout="full"
@@ -35895,7 +36965,20 @@ Yeh glorious news sunkar Rāma joy aur emotion se bhar gaye."""
         # Section 3.11.29
         # --------------------------------------------------
         with st.expander("Section 3.11.29  Section CCLXXXIX"):
-            text1 = """ """
+            text1 = """ 
+            🌸 After the Fall of Rāvaṇa
+
+Mārkaṇḍeya sage continued,
+
+Rāvaṇa ki death ke baad Rāma, Lakṣmaṇa aur unke friends immense joy se fill ho gaye.
+
+Heavens celebration se bhar gaye.
+
+Gods, Ṛṣis, Gandharvas aur celestial beings repeatedly “Jaya! Jaya!” cries karte hue Rāma ka worship karne lage.
+
+Sky se flowers rain hone lage aur entire firmament festival jaisa radiant lag raha tha.
+
+Fir sab celestials respectfully Rāma ko honour karke apne divine realms wapas chale gaye."""
             create_image_text_layout(
                 "attached_assets/chapter3/3.11.29.jpg",
                 text1,
@@ -35903,7 +36986,210 @@ Yeh glorious news sunkar Rāma joy aur emotion se bhar gaye."""
                 image_position="left"
             )
 
-            text2 = """ """
+            text2 = """ 
+            👑 Vibhīṣaṇa Becomes King of Laṅkā
+
+Rāvaṇa ko slay karne ke baad Rāma ne Laṅkā kingdom Vibhīṣaṇa ko de diya.
+
+Then wise counselor Avindhya city se bahar aaye.
+
+Front mein Vibhīṣaṇa the aur unke piche Sītā slowly walk kar rahi thi.
+
+Deep humility ke saath Avindhya बोले,
+
+“O Rāghava, please Janaka’s virtuous daughter ko accept kijiye.”
+
+Rāma chariot se utar kar Sītā ko dekhne lage.
+
+Lekin Sītā ki condition heartbreaking thi:
+
+tears se filled
+filth se covered
+matted hair
+dirty clothes
+
+💔 Rāma’s Harsh Words
+
+Public honour aur royal duty ko protect karne ke concern se Rāma ne unexpectedly harsh words bole.
+
+“Videha’s daughter, tum free ho.”
+
+“Maine husband ka duty complete kar diya.”
+
+“Main tumhe Rāvaṇa ke house mein old grow hone nahi de sakta tha.”
+
+“Isliye maine us Rakṣasa ko kill kiya.”
+
+Fir painful words aaye:
+
+“Kaise koi noble man us woman ko accept kare jo another man ke hands mein rahi ho?”
+
+“Whether chaste or unchaste… main ab tumhe enjoy nahi kar sakta.”
+
+Yeh cruel words sunkar Sītā unbearable grief mein collapse ho gayi — uprooted plantain tree ki tarah.
+
+Entire monkey army aur Lakṣmaṇa bhi shock mein motionless ho gaye.
+
+🌌 Gods Defend Sītā
+
+Isi moment heavens open hue.
+
+Brahmā himself appeared along with:
+
+Indra
+Agni
+Vāyu
+Varuṇa
+Yama
+Kubera
+holy Ṛṣis
+even Daśaratha in celestial form
+
+Sky autumn stars ki tarah dazzling ho gaya.
+
+Sītā then calmly aur firmly spoke:
+
+“O Rāma, mujhe aapse koi anger nahi hai.”
+
+“Aap dharma ko jaante hain.”
+
+“But if I have ever sinned…”
+
+“Toh Air, Fire, Water, Space aur Earth meri life-force ko abandon kar dein.”
+
+“Aur agar maine kabhi even dream mein bhi kisi aur ko desire nahi kiya…”
+
+“Toh you alone remain my rightful lord.”
+
+🌬️ Divine Witnesses Declare Sītā Pure
+
+Immediately sacred heavenly voices sky mein echo hone lagi.
+
+Wind-god declared:
+
+“Sītā completely sinless hai!”
+
+Fire-god बोले:
+
+“Main every creature ke body mein dwell karta hoon.”
+
+“Mithilā princess even tiniest fault se bhi free hai.”
+
+Varuṇa bhi बोले:
+
+“Sītā pure hai — please accept her.”
+
+Finally Brahmā himself बोले,
+
+“O Rāghava, tumhara conduct royal dharma ke according understandable hai.”
+
+“Lekin Sītā innocent hai.”
+
+“Nalakūvara ke curse ki wajah se Rāvaṇa kabhi unwilling woman ko touch nahi kar sakta tha.”
+
+“Agar woh try karta, uska head hundred pieces mein split ho jata.”
+
+“Therefore abandon all suspicion.”
+
+👑 Daśaratha Blesses Rāma
+
+Last mein celestial Daśaratha lovingly बोले,
+
+“O child, main tumse pleased hoon.”
+
+“Apni wife ko accept karo aur Ayodhyā return karke kingdom rule karo.”
+
+Rāma respectfully bowed aur replied,
+
+“If you are truly my father, I obey your command.”
+
+Daśaratha happily reminded him:
+
+“Tumhare fourteen years exile complete ho chuke hain.”
+
+Then Rāma finally Sītā ke saath reunited hue — bilkul Indra aur Śacī ki reunion ki tarah.
+
+🐒 Boons and Blessings
+
+Rāma ne:
+
+Avindhya ko boon diya
+Trijaṭā ko riches aur honours diye
+
+Gods ne Rāma se poocha,
+
+“Kya boon chahiye?”
+
+Rāma ne do main wishes maangi:
+
+Eternal adherence to virtue
+Monkey warriors ka restoration to life
+
+Brahmā ne “So be it” kaha.
+
+Immediately battlefield mein dead monkeys revive ho gaye aur alive rise karne lage.
+
+❤️ Sītā Blesses Hanumān
+
+Sītā specially Hanumān ko blessing dete hue boli:
+
+“O son, tumhari life Rāma ki fame jitni long ho.”
+
+“Celestial foods aur drinks hamesha tumhe available rahen.”
+
+Hanumān divine joy se filled ho gaye.
+
+✈️ Return Journey to Ayodhyā
+
+Gods disappear hone ke baad Rāma ne Sītā, Lakṣmaṇa, Sugrīva aur Vibhīṣaṇa ke saath Pushpaka aerial chariot par journey start ki.
+
+Woh same bridge se ocean recross karke wapas aaye.
+
+Rāma ne monkey chiefs ko jewels aur gifts dekar honourfully dismiss kiya.
+
+Kishkindhā pahunchkar unhone Aṅgada ko prince-regent appoint kiya.
+
+Fir Ayodhyā journey continue hui.
+
+🕊️ Hanumān Meets Bharata
+
+Ayodhyā ke near Rāma ne Hanumān ko Bharata ke paas envoy bana kar bheja.
+
+Hanumān ne Bharata ko good news di:
+
+“Rāma wapas aa rahe hain.”
+
+Bharata immense joy se bhar gaya.
+
+👣 Reunion at Nandigrāma
+
+Rāma Nandigrāma pahunchkar Bharata ko dekhte hain:
+
+dirty clothes mein
+austere appearance ke saath
+Rāma’s sandals ke samne seated
+
+Brothers emotional reunion mein embrace hue.
+
+Śatrughna aur Bharata dono Sītā ko dekhkar joyful ho gaye.
+
+Bharata ne kingdom happily sacred trust ki tarah Rāma ko wapas hand over kar diya.
+
+👑 Coronation of Rāma
+
+Vasiṣṭha aur Vāmadeva ne auspicious Śravaṇa constellation mein Rāma ka royal coronation perform kiya.
+
+Sugrīva aur Vibhīṣaṇa ko honours aur gifts dekar respectfully unke kingdoms wapas bheja gaya.
+
+Finally Rāma ne Pushpaka chariot Kubera ko return kar diya.
+
+🐎 Rāma’s Rule
+
+Later Rāma ne Gomati river ke banks par ten horse-sacrifices perform kiye.
+
+Huge charities Brāhmaṇas ko di gayin.
+
+Thus Lord Rāma dharma, justice aur glory ke saath Ayodhyā par rule karne lage."""
             create_image_text_layout(
                 text_content=text2,
                 layout="full"
@@ -35913,7 +37199,18 @@ Yeh glorious news sunkar Rāma joy aur emotion se bhar gaye."""
         # Section 3.11.30
         # --------------------------------------------------
         with st.expander("Section 3.11.30  Section CCXC"):
-            text1 = """ """
+            text1 = """ 
+            🌿 Mārkaṇḍeya Consoles Yudhiṣṭhira
+
+Mārkaṇḍeya sage concluded,
+
+“O mighty-armed Yudhiṣṭhira, ancient times mein even Lord Rāma jaise immeasurable hero ko exile, separation aur unbearable suffering endure karna pada tha.”
+
+“Isliye, O tiger among men, despair mat karo.”
+
+“Kṣatriya ka path hi struggle, warfare aur endurance ka path hota hai.”
+
+“Tumhara conduct righteous hai — tum par sin ka slightest stain bhi nahi hai.”"""
             create_image_text_layout(
                 "attached_assets/chapter3/3.11.30.jpg",
                 text1,
@@ -35921,7 +37218,70 @@ Yeh glorious news sunkar Rāma joy aur emotion se bhar gaye."""
                 image_position="left"
             )
 
-            text2 = """ """
+            text2 = """ 
+            ⚡ Even Gods Face Struggles
+
+Mārkaṇḍeya further बोले,
+
+“Even gods aur Asuras bhi hardships aur warfare ke path par chalte hain.”
+
+“Indra ne bhi Maruts ki help se terrible demons — Vṛtra, Namuci aur long-tongued Rākṣasī — ko immense struggles ke baad defeat kiya tha.”
+
+“Jo powerful allies se supported hota hai, woh eventually apne goals achieve kar leta hai.”
+
+🏹 Strength of the Pāṇḍavas
+
+Fir sage ne Yudhiṣṭhira ko uske brothers ki strength yaad dilayi.
+
+“What enemy can remain unconquered when Dhanañjaya (Arjuna) tumhara brother ho?”
+
+“Bhīma terrifying strength ka master hai.”
+
+“Nakula aur Sahadeva bhi mighty youthful warriors hain.”
+
+“In celestial-form heroes ko allies bana kar tum kis baat ka despair kar rahe ho?”
+
+“These warriors toh even Indra aur Maruts ki armies ko challenge kar sakte hain.”
+
+👑 Draupadī Has Been Rescued
+
+Mārkaṇḍeya then pointed toward Draupadī’s rescue as proof of their greatness.
+
+“Dekho — wicked Jayadratha ne pride aur power ke intoxication mein Draupadī ko abduct kiya tha.”
+
+“Lekin tumhare mighty brothers ne terrible feats perform karke use wapas rescue kar liya.”
+
+“Jayadratha khud powerless aur defeated tumhare saamne gira pada tha.”
+
+🌉 Comparison with Rāma
+
+Sage ne Rāma’s story ka final lesson explain kiya.
+
+“Princess Sītā ko rescue karne ke liye Rāma ko mighty Rāvaṇa se war fight karna pada.”
+
+“Aur uske allies kaun the?”
+
+“Monkeys aur black-faced bears — ordinary non-human forest creatures.”
+
+“Phir bhi Rāma ne impossible victory achieve ki.”
+
+“So think deeply about all this, O king.”
+
+“Tumhare paas toh Bhīma, Arjuna aur other heroic allies already hain.”
+
+“Therefore grief mein mat doobo.”
+
+“Great souls like you sorrow mein indulge nahi karte.”
+
+🌟 Yudhiṣṭhira Regains Courage
+
+Vaiśampāyana concluded,
+
+Is tarah sage Mārkaṇḍeya ne Yudhiṣṭhira ko comfort aur inspire kiya.
+
+Rāma ki hardships aur ultimate victory ko yaad karke Dharma-rāja ka sorrow gradually disappear hone laga.
+
+Unhone apna grief cast off kiya aur renewed courage ke saath once again Mārkaṇḍeya se conversation continue ki."""
             create_image_text_layout(
                 text_content=text2,
                 layout="full"
