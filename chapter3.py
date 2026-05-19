@@ -37293,7 +37293,22 @@ Unhone apna grief cast off kiya aur renewed courage ke saath once again Mārka�
         # Section 3.12.1
         # --------------------------------------------------
         with st.expander("Section 3.12.1  Section CCXCI"):
-            text1 = """ """
+            text1 = """ 
+            🌸 Yudhiṣṭhira Praises Draupadī’s Chastity
+
+Yudhiṣṭhira emotionally spoke to sage Mārkaṇḍeya:
+
+“O great sage, mujhe apne kingdom loss ya exile ka itna grief nahi hai…”
+
+“Na hi mujhe apne brothers ke suffering ka itna sorrow hai…”
+
+“Lekin Draupadī ke pain ko dekhkar mera heart deeply afflicted hai.”
+
+He remembered:
+
+dice-game humiliation
+Kauravas’ cruelty
+Jayadratha abducting Draupadī from the forest"""
             create_image_text_layout(
                 "attached_assets/chapter3/3.12.1.jpg",
                 text1,
@@ -37301,7 +37316,154 @@ Unhone apna grief cast off kiya aur renewed courage ke saath once again Mārka�
                 image_position="left"
             )
 
-            text2 = """ """
+            text2 = """ 
+            Then he asked:
+
+“Have you ever heard of another woman as chaste, exalted and devoted as Draupadī?”
+
+👑 Mārkaṇḍeya Begins the Story of Sāvitrī
+
+Mārkaṇḍeya replied:
+
+“O king, listen carefully.”
+
+“I shall narrate the glory and spiritual power of another supremely chaste woman — princess Sāvitrī.”
+
+🏛️ King Aśvapati of Madra
+
+Long ago Madra kingdom mein Aśvapati naam ka righteous king rule karta tha.
+
+Woh:
+
+truthful
+generous
+self-controlled
+devoted to sacrifices
+protector of all beings
+
+tha.
+
+Citizens aur Brahmaṇas dono usse deeply loved karte the.
+
+😔 The King’s Great Sorrow
+
+Despite all prosperity, ek huge sorrow tha:
+
+➡️ he had no children.
+
+Old age approach kar rahi thi aur iss wajah se king grief se afflicted ho gaya.
+
+Then he decided:
+
+“I must perform intense austerities for offspring.”
+
+🔥 Eighteen Years of Austerity
+
+King Aśvapati ne extraordinary tapas start kiya:
+
+strict vows
+celibacy (brahmacarya)
+controlled diet
+sense restraint
+daily 10,000 oblations into sacred fire
+constant mantras to goddess Sāvitrī
+
+He continued this discipline for:
+
+➡️ 18 years.
+
+✨ Goddess Sāvitrī Appears
+
+Finally goddess Sāvitrī pleased ho gayin.
+
+Agnihotra fire se divine embodied form mein appear hoke unhone king se kaha:
+
+“O king, I am pleased with your austerity, purity and vows.”
+
+“Ask whatever boon you desire.”
+
+👶 The Boon of a Child
+
+King Aśvapati bowed aur replied:
+
+“I seek worthy offspring to continue my lineage.”
+
+“Scriptures declare that having children brings great merit.”
+
+Then goddess said:
+
+“I already informed Brahmā about your desire.”
+
+“Soon a daughter of great spiritual energy will be born to you.”
+
+👧 Birth of Princess Sāvitrī
+
+After some time, king’s chief queen conceived.
+
+Eventually she gave birth to an extraordinarily beautiful daughter with lotus-like eyes.
+
+Since the goddess Sāvitrī had granted the child through the king’s worship:
+
+➡️ the princess was named Sāvitrī.
+
+🌟 Beauty Beyond Human
+
+Princess Sāvitrī grew up like living Lakṣmī herself.
+
+Her beauty and radiance were so overwhelming that people thought:
+
+“This must be a goddess descended to Earth.”
+
+Because of her blazing spiritual splendour:
+
+➡️ no prince dared approach her for marriage.
+
+🙏 Sāvitrī’s Devotion
+
+One day during a sacred observance:
+
+Sāvitrī fasted
+bathed ritually
+worshipped the family deity
+offered oblations through Brahmaṇas
+
+Then carrying blessed flowers from worship, she respectfully approached her father and bowed at his feet.
+
+😟 Aśvapati Worries About Her Marriage
+
+Seeing his daughter now fully grown yet still unmarried, king Aśvapati became sad.
+
+He gently told her:
+
+“My daughter, the proper age for marriage has arrived…”
+
+“Yet no one seeks your hand.”
+
+“So now you should personally search for a husband equal to your qualities.”
+
+📜 A Father’s Duty
+
+The king then explained dharma:
+
+“A father who does not give his daughter in marriage incurs blame.”
+
+“A husband who neglects his wife incurs blame.”
+
+“A son who fails to protect his widowed mother also incurs blame.”
+
+“So please choose a worthy husband, so that our family may not be criticized by gods or society.”
+
+🚩 Sāvitrī Begins Her Search
+
+Hearing her father’s command, Sāvitrī modestly bowed to him in obedience.
+
+Then accompanied by elderly ministers and attendants, she mounted a golden chariot and began travelling through forests and hermitages.
+
+She visited holy āśramas of sages and royal seers, respectfully honouring elders and distributing charity throughout sacred regions.
+
+Thus began the famous journey that would eventually lead her to:
+
+➡️ Satyavān."""
             create_image_text_layout(
                 text_content=text2,
                 layout="full"
@@ -37311,7 +37473,16 @@ Unhone apna grief cast off kiya aur renewed courage ke saath once again Mārka�
         # Section 3.12.2
         # --------------------------------------------------
         with st.expander("Section 3.12.2  Section CCXCII"):
-            text1 = """ """
+            text1 = """ 
+            👑 Sāvitrī Returns After Her Search
+
+Mārkaṇḍeya continued,
+
+Ek din king Aśvapati apni royal court mein celestial sage Nārada ke saath conversation kar rahe the.
+
+Usi waqt princess Sāvitrī apne counselors ke saath sacred regions aur hermitages ka tour complete karke palace wapas aayi.
+
+Woh respectfully dono — apne father aur Nārada — ke feet par bow hui."""
             create_image_text_layout(
                 "attached_assets/chapter3/3.12.2.jpg",
                 text1,
@@ -37319,7 +37490,184 @@ Unhone apna grief cast off kiya aur renewed courage ke saath once again Mārka�
                 image_position="left"
             )
 
-            text2 = """ """
+            text2 = """ 
+            🌸 Nārada Questions Aśvapati
+
+Nārada asked:
+
+“O king, your daughter kahan gayi thi?”
+
+“And now that she has reached marriageable age, why have you not yet given her in marriage?”
+
+Aśvapati replied:
+
+“Isi purpose ke liye maine ise bheja tha — husband choose karne ke liye.”
+
+“Now she has returned.”
+
+“Please hear directly from her whom she has selected.”
+
+🏹 Sāvitrī Chooses Satyavān
+
+Father ke command par Sāvitrī calmly aur respectfully apni choice explain karne lagi.
+
+She said:
+
+“Among the Śālvas there was once a righteous king named Dyumatsena.”
+
+“Unfortunately he became blind.”
+
+“Then ek old enemy ne uska kingdom seize kar liya.”
+
+“King apni queen aur infant son ke saath forest mein exile chala gaya.”
+
+“There they adopted ascetic life.”
+
+“Their son grew up in the hermitage.”
+
+“That noble youth is named Satyavān…”
+
+“And I have accepted him in my heart as my husband.”
+
+😨 Nārada’s Shocking Reaction
+
+Sāvitrī ki choice sunkar Nārada suddenly exclaimed:
+
+“Alas!”
+
+“O king, unknowingly Sāvitrī has made a terrible mistake.”
+
+“Indeed Satyavān possesses extraordinary virtues…”
+
+“But…”
+
+“He is doomed to die within one year.”
+
+✨ Glories of Satyavān
+
+Before revealing the fatal flaw, Nārada extensively praised Satyavān.
+
+He said:
+
+“In brilliance he is like the Sun.”
+“In wisdom like Bṛhaspati.”
+“In courage like Indra.”
+“In forgiveness like the Earth.”
+
+He further praised him as:
+
+truthful
+charitable
+devoted to Brahmaṇas
+handsome like the Moon
+beautiful like the Aśvinī gods
+modest
+patient
+free from malice
+
+Nārada concluded:
+
+“All noble qualities permanently dwell within Satyavān.”
+
+☠️ The One Fatal Defect
+
+Then Aśvapati asked:
+
+“If he possesses every virtue, then what fault exists in him?”
+
+Nārada replied:
+
+“He has only one defect…”
+
+“But that one defect overwhelms all others.”
+
+“Within one year from today…”
+
+“Satyavān will die.”
+
+😢 Aśvapati Begs Her to Choose Again
+
+Hearing this prophecy, king Aśvapati became deeply distressed.
+
+He lovingly told his daughter:
+
+“O beautiful child, please choose another husband.”
+
+“All Satyavān’s virtues are covered by this terrible fate.”
+
+“The revered sage Nārada himself says his lifespan is only one year.”
+
+💎 Sāvitrī’s Unshakable Resolve
+
+Then Sāvitrī spoke one of the most famous declarations of fidelity in the Mahābhārata.
+
+She calmly said:
+
+“Death comes only once.”
+
+“A daughter is given away only once.”
+
+“And the vow ‘I give’ is spoken only once.”
+
+“So too, I choose a husband only once.”
+
+“Whether his life be short or long…”
+
+“Whether he has virtues or not…”
+
+“I have already chosen Satyavān.”
+
+“I shall never choose a second time.”
+
+🧠 “First Mind, Then Word, Then Action”
+
+Sāvitrī further explained her principle:
+
+“First the mind decides.”
+
+“Then words express the decision.”
+
+“And afterwards action follows.”
+
+“My mind has already accepted Satyavān.”
+
+“So I cannot turn away now.”
+
+🌟 Nārada Approves Her Choice
+
+Nārada deeply admired Sāvitrī’s firmness and virtue.
+
+He declared:
+
+“O king, your daughter’s heart does not waver from righteousness.”
+
+“No one can divert her from this path.”
+
+“And truly, no other man possesses virtues equal to Satyavān.”
+
+“Therefore I approve this marriage.”
+
+👑 Aśvapati Accepts Destiny
+
+King Aśvapati bowed to Nārada’s judgment.
+
+He said:
+
+“Your words can never be disobeyed.”
+
+“You are my revered guide and your speech is always true.”
+
+“So I shall act exactly as you advise.”
+
+☀️ Nārada Departs
+
+Nārada blessed the family:
+
+“May Sāvitrī’s marriage be auspicious and peaceful.”
+
+Then the celestial sage ascended into the sky and returned to heaven.
+
+After his departure, king Aśvapati began preparing for the wedding of Sāvitrī and Satyavān."""
             create_image_text_layout(
                 text_content=text2,
                 layout="full"
@@ -37329,7 +37677,20 @@ Unhone apna grief cast off kiya aur renewed courage ke saath once again Mārka�
         # Section 3.12.3
         # --------------------------------------------------
         with st.expander("Section 3.12.3  Section CCXCIII"):
-            text1 = """ """
+            text1 = """ 
+            👑 Aśvapati Arranges the Wedding
+
+Mārkaṇḍeya continued,
+
+Nārada ki prophecy sunne ke baad bhi king Aśvapati ne apni daughter ki resolve ko honour kiya aur marriage preparations start kar diye.
+
+He summoned:
+
+aged Brahmaṇas
+priests
+Ṛtviks
+
+aur auspicious day par Sāvitrī ko saath lekar forest ki journey start ki."""
             create_image_text_layout(
                 "attached_assets/chapter3/3.12.3.jpg",
                 text1,
@@ -37337,7 +37698,175 @@ Unhone apna grief cast off kiya aur renewed courage ke saath once again Mārka�
                 image_position="left"
             )
 
-            text2 = """ """
+            text2 = """ 
+            🌲 Arrival at Dyumatsena’s Hermitage
+
+Sacred forest mein pahunchkar Aśvapati chariot se utar kar respectfully foot par Dyumatsena ke āśrama tak gaye.
+
+Wahan unhone blind exiled king Dyumatsena ko dekha:
+
+kuśa-grass seat par seated
+Śāla tree ke neeche
+ascetic life practice karte hue
+
+Aśvapati ne humility ke saath royal sage ko bow kiya aur apna introduction diya.
+
+🏛️ Royal Hospitality in the Forest
+
+Though exiled aur forest mein living, Dyumatsena ne ancient royal custom follow kiya.
+
+He offered:
+
+arghya (honour-water)
+seat
+ceremonial cow
+
+to his guest.
+
+Then he politely asked:
+
+“O king, what purpose brings you here?”
+
+💍 Proposal for Satyavān
+
+Aśvapati openly revealed his intention.
+
+He said:
+
+“This beautiful maiden is my daughter Sāvitrī.”
+
+“O righteous king, according to Kṣatriya custom, please accept her as your daughter-in-law and wife of Satyavān.”
+
+🌿 Dyumatsena’s Concern
+
+Blind king Dyumatsena hesitated.
+
+He gently replied:
+
+“We are no longer royal householders.”
+
+“We lost our kingdom and now live as forest ascetics.”
+
+“How will your delicate daughter tolerate hardships of woodland life?”
+
+🌟 Aśvapati’s Wise Reply
+
+Aśvapati answered with calm philosophical wisdom:
+
+“Happiness and sorrow constantly come and go.”
+
+“My daughter understands this fully.”
+
+“So such concerns are not appropriate in speaking to me.”
+
+He further said:
+
+“I have already firmly resolved upon this alliance.”
+
+“I have come here out of friendship and respect.”
+
+“So please do not disappoint my hope.”
+
+🤝 Equality Between the Two Kings
+
+Aśvapati beautifully emphasized their equality:
+
+“You are worthy of alliance with me…”
+
+“And I am equally worthy of alliance with you.”
+
+“So please accept my daughter as Satyavān’s wife.”
+
+😊 Dyumatsena Happily Accepts
+
+Dyumatsena then admitted:
+
+“Actually, long ago I myself desired alliance with your family.”
+
+“But after losing my kingdom, I hesitated.”
+
+“Now let that old wish finally be fulfilled.”
+
+“You are indeed a welcome guest.”
+
+🔥 The Forest Wedding
+
+Then both kings invited Brahmaṇas and ascetics residing in nearby hermitages.
+
+Using proper Vedic rites:
+
+➡️ Sāvitrī and Satyavān were married.
+
+Aśvapati gifted his daughter:
+
+beautiful garments
+ornaments
+wedding gifts
+
+and joyfully returned to his kingdom.
+
+💛 Sāvitrī Embraces Forest Life
+
+Satyavān became deeply happy after receiving such a virtuous wife.
+
+Sāvitrī too rejoiced because she had attained the husband of her heart.
+
+But after her father departed, she completely renounced royal luxury.
+
+She removed all ornaments and began wearing:
+
+bark garments
+red-dyed ascetic cloths
+
+🌸 Sāvitrī Wins Everyone’s Hearts
+
+Through her conduct, Sāvitrī quickly became beloved by all.
+
+She served everyone through:
+
+humility
+tenderness
+self-control
+discipline
+gentle speech
+self-sacrifice
+
+👵 Service to Her Mother-in-law
+
+She lovingly attended her mother-in-law personally:
+
+caring for her needs
+dressing her
+comforting her
+
+🙏 Service to Dyumatsena
+
+Toward blind king Dyumatsena she behaved almost like worshipping a deity.
+
+She controlled her speech carefully and constantly honoured him with reverence.
+
+❤️ Love for Satyavān
+
+Toward her husband Satyavān, Sāvitrī showed deep affection through:
+
+sweet speech
+skillful household work
+calm temperament
+private signs of love and devotion
+
+Their married life became peaceful and deeply harmonious.
+
+🌙 Hidden Sorrow in Sāvitrī’s Heart
+
+Thus the couple continued living happily in the forest hermitage, practicing simple ascetic life.
+
+But despite outward peace…
+
+Nārada’s prophecy constantly haunted Sāvitrī’s mind.
+
+Day and night she silently remembered:
+
+➡️ “Within one year, Satyavān must die.”"""
             create_image_text_layout(
                 text_content=text2,
                 layout="full"
@@ -37347,7 +37876,20 @@ Unhone apna grief cast off kiya aur renewed courage ke saath once again Mārka�
         # Section 3.12.4
         # --------------------------------------------------
         with st.expander("Section 3.12.4  Section CCXCIV"):
-            text1 = """ """
+            text1 = """ 
+            ⏳ The Final Days Arrive
+
+Mārkaṇḍeya continued,
+
+Long time peacefully forest-life spend karne ke baad finally woh destined period aa gaya jo Nārada ne predict kiya tha.
+
+Sāvitrī har passing day carefully count kar rahi thi.
+
+Jab usne realize kiya ki:
+
+➡️ “Exactly four days baad Satyavān ki death hogi,”
+
+tab usne severe Trirātra vow begin kiya — three nights continuous fasting."""
             create_image_text_layout(
                 "attached_assets/chapter3/3.12.4.jpg",
                 text1,
@@ -37355,7 +37897,199 @@ Unhone apna grief cast off kiya aur renewed courage ke saath once again Mārka�
                 image_position="left"
             )
 
-            text2 = """ """
+            text2 = """ 
+            🔥 The Terrible Three-Night Fast
+
+Sāvitrī ne:
+
+day and night fasting
+intense concentration
+strict self-control
+spiritual austerity
+
+ke saath vow observe karna start kiya.
+
+Blind king Dyumatsena uska condition dekhkar deeply worried ho gaye.
+
+😟 Dyumatsena Tries to Console Her
+
+He gently told her:
+
+“O princess, this vow extremely difficult hai.”
+
+“Three nights complete fasting karna almost impossible hota hai.”
+
+💎 Sāvitrī’s Determination
+
+Sāvitrī calmly replied:
+
+“O father, please worry mat kijiye.”
+
+“I have undertaken this vow with complete perseverance.”
+
+“And perseverance hi vows ko successful banata hai.”
+
+🙏 Dyumatsena Blesses Her
+
+Dyumatsena replied lovingly:
+
+“I cannot tell you to break such a sacred vow.”
+
+“Instead, I should say — may you successfully complete it.”
+
+Then he became silent.
+
+🌙 Night of Agony
+
+Continuous fasting ki wajah se Sāvitrī extremely thin aur weak lagne lagi — “like a wooden doll,” Mahābhārata says.
+
+But internally uska grief aur bhi intense tha.
+
+Because she knew:
+
+➡️ “Tomorrow Satyavān must die.”
+
+Us terrifying thought ke saath usne poori night unbearable anguish mein spend ki.
+
+☀️ The Day of Destiny
+
+Next morning sunrise ke baad Sāvitrī silently thought:
+
+“Today is that day.”
+
+Fir she calmly performed:
+
+morning rituals
+fire oblations
+prayers
+respect toward elders and Brahmaṇas
+
+Then folded hands ke saath quietly meditation-like state mein stand karne lagi.
+
+🌸 Blessings from the Ascetics
+
+Forest hermitage ke ascetics aur Brahmaṇas uski purity aur devotion se pleased hokar blessings dene lage:
+
+“May you never become a widow.”
+
+Sāvitrī silently inside replied:
+
+“So be it.”
+
+Lekin simultaneously woh Nārada ki prophecy aur approaching fatal hour constantly remember kar rahi thi.
+
+🍃 Refusing to Eat
+
+After vow completion, her in-laws lovingly told her:
+
+“You have completed the vow correctly.”
+
+“Now it is time to eat.”
+
+But Sāvitrī replied:
+
+“I shall eat only after sunset.”
+
+“This is my resolve.”
+
+Actually woh secretly Satyavān ke final moments tak fast continue karna chahti thi.
+
+🪓 Satyavān Goes to the Forest
+
+Thodi der baad Satyavān axe shoulder par lekar woods ki taraf fruits aur firewood gather karne nikle.
+
+Immediately Sāvitrī said:
+
+“I will accompany you.”
+
+“I cannot bear separation from you today.”
+
+🌲 Satyavān Tries to Stop Her
+
+Satyavān lovingly objected:
+
+“You have never before travelled deep into the forest.”
+
+“Forest paths difficult hain.”
+
+“And because of your fast you are weak.”
+
+“How will you walk there?”
+
+🌟 Sāvitrī Insists
+
+But Sāvitrī firmly replied:
+
+“I feel neither weakness nor exhaustion.”
+
+“My mind is fixed on going with you.”
+
+“So please do not stop me.”
+
+🙇 Permission from the Parents
+
+Satyavān finally agreed but said:
+
+“Then first my parents ki permission le lo.”
+
+“I should not become guilty of disrespect toward them.”
+
+💛 Sāvitrī’s Gentle Request
+
+Sāvitrī respectfully bowed before her in-laws and said:
+
+“My husband goes today to gather fruits and wood for sacred duties.”
+
+“Today I cannot bear separation from him.”
+
+“It has almost been a year since I stepped outside the hermitage.”
+
+“I deeply wish to see the blossoming forests.”
+
+“So please allow me to accompany him.”
+
+👑 Dyumatsena Grants Permission
+
+Dyumatsena replied affectionately:
+
+“Since becoming our daughter-in-law, Sāvitrī has never asked anything selfishly.”
+
+“So let her wish be fulfilled.”
+
+“But, dear daughter, ensure that Satyavān’s work does not suffer.”
+
+🌿 Journey Into the Forest
+
+Having received permission, Sāvitrī departed with her husband.
+
+Outwardly she smiled gently…
+
+But internally her heart was shattered by grief.
+
+The couple walked through:
+
+beautiful forests
+flowering trees
+sacred rivers
+peacock-filled groves
+
+😢 Sāvitrī Sees Him as Already Dead
+
+Satyavān cheerfully pointed out nature’s beauty:
+
+“Look at these sacred rivers…”
+
+“See these flowering trees…”
+
+But Sāvitrī barely noticed anything around her.
+
+Her entire attention remained fixed on her husband.
+
+Remembering Nārada’s prophecy, she internally felt:
+
+“He is already as good as dead.”
+
+With heart torn in grief, she silently followed him — waiting for the destined moment to arrive."""
             create_image_text_layout(
                 text_content=text2,
                 layout="full"
@@ -37365,7 +38099,20 @@ Unhone apna grief cast off kiya aur renewed courage ke saath once again Mārka�
         # Section 3.12.5
         # --------------------------------------------------
         with st.expander("Section 3.12.5  Section CCXCV"):
-            text1 = """ """
+            text1 = """ 
+            🌳 Satyavān’s Fatal Moment Arrives
+
+Mārkaṇḍeya continued,
+
+Forest mein Satyavān apni wife ke saath fruits collect karne lage aur apna basket bhar liya.
+
+Uske baad woh axe se tree branches cut karne lage.
+
+Lekin suddenly hard labour ki wajah se:
+
+unhe heavy perspiration hone laga
+head intensely ache karne laga
+body weak feel hone lagi"""
             create_image_text_layout(
                 "attached_assets/chapter3/3.12.5.jpg",
                 text1,
@@ -37373,7 +38120,324 @@ Unhone apna grief cast off kiya aur renewed courage ke saath once again Mārka�
                 image_position="left"
             )
 
-            text2 = """ """
+            text2 = """ 
+            😨 Satyavān Feels Death Approaching
+
+Pain unbearable ho gaya.
+
+He came near Sāvitrī and said:
+
+“O Sāvitrī, my head feels pierced by countless darts…”
+
+“My limbs and heart are afflicted.”
+
+“I cannot stand anymore.”
+
+“I wish to sleep.”
+
+💔 Sāvitrī Knows the Hour Has Come
+
+Sāvitrī instantly understood:
+
+“This is the exact destined moment.”
+
+She quickly sat on the ground and gently placed Satyavān’s head on her lap.
+
+Inside, she began calculating:
+
+the division of the day
+the exact hour
+the destined moment foretold by Nārada
+
+☠️ Appearance of Yama
+
+Then suddenly…
+
+Sāvitrī saw a terrifying divine being standing nearby.
+
+He was:
+
+dressed in red garments
+crowned with a diadem
+dark-complexioned
+red-eyed
+carrying a noose
+effulgent like the Sun
+
+He stood silently gazing at Satyavān.
+
+🙏 Sāvitrī Addresses the Mysterious Being
+
+Realizing he was no ordinary being, Sāvitrī carefully placed her husband’s head upon the ground and stood up trembling.
+
+She respectfully asked:
+
+“Your form is superhuman.”
+
+“You must be a deity.”
+
+“Please tell me who you are and why you have come.”
+
+⚖️ Yama Reveals Himself
+
+The deity replied:
+
+“O Sāvitrī, because of your devotion and ascetic merit, I shall speak with you directly.”
+
+“Know me as Yama.”
+
+“Your husband Satyavān’s lifespan has ended.”
+
+“I have come to take him away.”
+
+❓ “Why Have You Come Personally?”
+
+Sāvitrī humbly asked:
+
+“I had heard your messengers take away mortals…”
+
+“Why have you personally come yourself?”
+
+🌟 Yama Praises Satyavān
+
+Yama replied:
+
+“Your husband is extraordinarily virtuous and noble.”
+
+“He deserves not to be handled by ordinary messengers.”
+
+“So I myself came personally.”
+
+🕊️ Extraction of Satyavān’s Soul
+
+Then Yama performed something extraordinary.
+
+Using his noose, he pulled from Satyavān’s body:
+
+➡️ a thumb-sized luminous subtle being — his soul.
+
+Immediately:
+
+Satyavān’s body lost colour
+breath stopped
+movement ceased
+radiance vanished
+
+The body became lifeless.
+
+Then Yama began walking southward carrying the bound soul.
+
+🚶‍♀️ Sāvitrī Follows Yama
+
+Heartbroken yet fearless, Sāvitrī began following Yama himself.
+
+Yama turned and said:
+
+“Return now.”
+
+“Perform your husband’s funeral rites.”
+
+“You have fulfilled your duties as wife.”
+
+“You cannot come farther.”
+
+💎 Sāvitrī’s First Great Speech
+
+Sāvitrī replied with deep spiritual wisdom:
+
+“Wherever my husband is taken, there I shall go.”
+
+“This is eternal dharma for a devoted wife.”
+
+Then she began discussing:
+
+friendship
+righteousness
+self-control
+true merit
+spiritual wisdom
+
+She explained:
+
+“Even walking seven steps together creates friendship.”
+
+“So now friendship exists between us also.”
+
+🌟 Yama Grants the First Boon
+
+Deeply impressed, Yama said:
+
+“Your words are wise, beautiful and righteous.”
+
+“Ask for any boon except your husband’s life.”
+
+👁️ First Boon — Dyumatsena’s Eyesight
+
+Sāvitrī requested:
+
+“My blind father-in-law lost both kingdom and sight.”
+
+“May he regain his eyesight and strength.”
+
+Yama immediately granted it.
+
+👑 Second Boon — Restoration of the Kingdom
+
+Still Sāvitrī continued following him.
+
+Again she spoke profound words on virtue and righteous company.
+
+Yama became even more pleased and granted another boon.
+
+Sāvitrī asked:
+
+“May my father-in-law regain his lost kingdom and never abandon dharma.”
+
+Yama granted this too.
+
+👶 Third Boon — Sons for Her Father
+
+Again Sāvitrī continued following Yama while glorifying righteousness and compassion.
+
+Yama offered another boon.
+
+She requested:
+
+“My father Aśvapati has no sons.”
+
+“May he receive one hundred sons to continue his lineage.”
+
+Yama granted the boon.
+
+👑 Fourth Boon — Sons for Herself
+
+Still Sāvitrī continued beside Yama.
+
+She again praised:
+
+justice
+righteousness
+truth
+goodness of heart
+
+Completely delighted, Yama offered yet another boon.
+
+Then Sāvitrī made her masterstroke request:
+
+“May I and Satyavān together have one hundred mighty sons.”
+
+Without thinking, Yama granted it.
+
+⚡ Sāvitrī’s Brilliant Argument
+
+Now Sāvitrī revealed the hidden implication.
+
+She said:
+
+“O lord, the boon you granted cannot become true without my husband living.”
+
+“How can I bear sons from Satyavān if you take him away?”
+
+“Without my husband I desire neither happiness, nor heaven, nor life itself.”
+
+“So please restore Satyavān to life.”
+
+🌸 Yama Defeated by Chastity and Wisdom
+
+Yama became fully conquered by:
+
+her chastity
+intelligence
+devotion
+truthfulness
+spiritual wisdom
+
+Finally he smiled and declared:
+
+“So be it.”
+
+Then he untied the noose and released Satyavān’s soul.
+
+✨ Yama’s Final Blessings
+
+Yama blessed her further:
+
+Satyavān would live long
+they would rule gloriously
+they would have one hundred sons
+Dyumatsena would regain kingdom and sight
+Aśvapati would receive one hundred sons
+
+Then Yama disappeared toward his own realm.
+
+💛 Satyavān Revives
+
+Sāvitrī returned to the forest spot where Satyavān’s lifeless body lay.
+
+She placed his head back on her lap.
+
+Then suddenly:
+
+➡️ Satyavān regained consciousness.
+
+Like someone awakening from deep sleep, he lovingly looked at her and asked:
+
+“Why did you not wake me?”
+
+“And where is that dark person who was dragging me away?”
+
+🌙 Sāvitrī Hides the Full Story
+
+Sāvitrī gently replied:
+
+“You slept long upon my lap.”
+
+“That divine being has departed.”
+
+“The night has become deep. Let us now return.”
+
+She postponed the full explanation for later.
+
+🌲 Returning Through the Dark Forest
+
+The couple prepared to return home through terrifying night forests filled with:
+
+jackal cries
+wild sounds
+darkness
+burning trees from a recent forest fire
+
+Satyavān worried for his parents because he had never before returned so late.
+
+He emotionally remembered how dependent his blind parents were on him.
+
+🙏 Sāvitrī’s Prayer of Truth
+
+Seeing his grief, Sāvitrī silently prayed:
+
+“If I have truly performed austerities…”
+
+“If I have spoken truth…”
+
+“If I have performed sacrifice and charity…”
+
+“Then may my husband and in-laws be safe.”
+
+🌕 Journey Back to the Hermitage
+
+Finally Sāvitrī lifted and supported her exhausted husband.
+
+She carried:
+
+his axe
+his burden
+and partly his body weight
+
+Leaning upon her shoulder, Satyavān guided the way under moonlight through the forest paths.
+
+And together, after conquering Death itself…
+
+they hastened back toward the hermitage."""
             create_image_text_layout(
                 text_content=text2,
                 layout="full"
