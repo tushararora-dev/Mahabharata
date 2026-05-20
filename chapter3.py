@@ -38447,7 +38447,16 @@ they hastened back toward the hermitage."""
         # Section 3.12.6
         # --------------------------------------------------
         with st.expander("Section 3.12.6  Section CCXCVI"):
-            text1 = """ """
+            text1 = """ 
+            Yeh prasang Mahabharata ke Savitri–Satyavan upākhyān ka antim aur bahut bhāvuk hissa hai.
+
+Isme Savitrī ki pativratā-shakti, dhairya aur satya ki vijay dikhāyi gayi hai.
+
+Kya hua is adhyāya me
+
+Jab Yama Savitrī ko var dekar chale gaye aur Satyavān ko jeevan wapas mil gaya, tab Savitrī apne pati ko lekar raat me āśram laut rahi thi.
+
+Udhar andhe rājā Dyumatsena ko achanak apni dr̥ṣṭi wapas mil gayi."""
             create_image_text_layout(
                 "attached_assets/chapter3/3.12.6.jpg",
                 text1,
@@ -38455,7 +38464,72 @@ they hastened back toward the hermitage."""
                 image_position="left"
             )
 
-            text2 = """ """
+            text2 = """ 
+            Ve sab kuch dekhne lage.
+
+Lekin putra Satyavān aur bahu Savitrī ko na dekhkar ve aur unki patnī Shaivya bahut chintit ho gaye.
+
+Dono raat bhar van, nadī, āśram aur jungle me unhe dhoondhte rahe.
+
+Har āwāz par unhe lagta:
+
+“Shayad Satyavān aur Savitrī aa rahe hain!”
+
+Unke pair kāṇṭon aur kuśa-ghās se ghaayal ho gaye.
+
+Tab āśram ke r̥ṣi aur brāhmaṇ unhe sambhālte hain aur kehte hain ki Savitrī jaise pativratā ke hote hue Satyavān mar nahi sakta.
+
+Kai r̥ṣi apni tapasya aur divya dr̥ṣṭi ke bal par kehte hain:
+
+Savitrī ke lakṣaṇ widowhood nahi dikhāte
+Shubh sanket mil rahe hain
+Dyumatsena ki aankhon ka lautna bhi maṅgal ka sanket hai
+
+Isliye sabko viśvās ho jata hai ki Satyavān jeevit hai.
+
+Thodi der baad Savitrī aur Satyavān vāpas āśram pahunch jaate hain.
+
+Sab log bahut khush ho jaate hain.
+
+Phir r̥ṣi poochte hain:
+
+“Tum dono itni der se kyun aaye?”
+
+Satyavān ko kuch yaad nahi hota, kyunki uske liye to bas vah behosh hua tha aur phir jag gaya.
+
+Tab r̥ṣi Savitrī se sach batane ko kehte hain.
+
+Savitrī poori kahani batāti hai:
+
+Narada ne pehle hi Satyavān ki mr̥tyu ka din bataya tha
+Yama swayam āye the
+Ve Satyavān ki prāṇ le gaye
+Savitrī unke peeche chalti rahi
+Apni buddhi, satya aur dharma se usne Yama ko prasann kiya
+
+Fir Savitrī batāti hai ki usne Yama se ye var pāye:
+
+Dyumatsena ki aankhen wapas mileṅ
+Unka rājy bhi laut aaye
+Uske pita ko 100 putra mileṅ
+Savitrī ko bhi 100 putra mileṅ
+Satyavān ko 400 varṣ ka jeevan mila
+
+R̥ṣi Savitrī ki bahut prasansā karte hain aur kehte hain:
+
+“Tumne apne pati ke vansh ko vināś se bachā liya.”
+
+Is prasang ka mūl sandesh
+
+Yeh kahani sirf pati-bhakti ki nahi, balki:
+
+satya,
+dharma,
+dhairya,
+buddhi,
+aur अटल निष्ठा ki kahani hai।
+
+Savitrī mr̥tyu se ladti nahi — balki dharma aur vinamratā se Yama ko jeet leti hai."""
             create_image_text_layout(
                 text_content=text2,
                 layout="full"
@@ -38465,7 +38539,14 @@ they hastened back toward the hermitage."""
         # Section 3.12.7
         # --------------------------------------------------
         with st.expander("Section 3.12.7  Section CCXCVII"):
-            text1 = """ """
+            text1 = """ 
+            Yeh adhyāya Mahabharata ke Savitrī–Satyavān upākhyān ka bahut hi gambhīr aur bhāvuk charam bindu hai।
+
+Isme Savitri ki satītva-shakti aur dharma ke bal se sab kuch badal jata hai।
+
+Is adhyāya ka saar
+
+Jab Dyumatsena ki aankhen achanak wapas aa gayin, tab unhe apna putra Satyavan aur bahu Savitrī yaad aaye।"""
             create_image_text_layout(
                 "attached_assets/chapter3/3.12.7.jpg",
                 text1,
@@ -38473,7 +38554,69 @@ they hastened back toward the hermitage."""
                 image_position="left"
             )
 
-            text2 = """ """
+            text2 = """ 
+            Ve aur unki patnī Shaivya raat bhar van aur āśramon me unhe dhoondhte rahe।
+
+Har āwāz par unhe lagta:
+
+“Dekho, Satyavān aur Savitrī aa rahe hain!”
+
+Unke pair kāṇṭon se ghaayal ho gaye, lekin prem aur chintā me ve ruk nahi paaye।
+
+Āśram ke r̥ṣi unhe sambhālte hain aur kehte hain ki Savitrī jaise mahān pativratā ki tapasya vyarth nahi ho sakti।
+
+Kai r̥ṣi apni tapasya aur divya-jñān ke bal par kehte hain:
+
+Savitrī ke lakṣaṇ widowhood nahi dikhāte
+Sabhi shubh sanket Satyavān ke jeevit hone ka pramāṇ hain
+Dyumatsena ki dr̥ṣṭi ka lautna bhi daivī maṅgal ka sanket hai
+
+Isse Dyumatsena ko thodā santvana milti hai।
+
+Thodi der baad Savitrī aur Satyavān raat me āśram laut aate hain।
+
+Sab log bahut prasann ho jaate hain।
+
+R̥ṣi poochte hain:
+
+“Tum itni der se kyun aaye?”
+
+Satyavān batāte hain ki jungle me lakdi kaatते samay unke sir me dard hua aur phir unhe kuch yaad nahi।
+
+Tab r̥ṣi Savitrī se sach batane ko kehte hain।
+
+Savitrī batāti hai ki:
+
+Narada ne pehle hi Satyavān ki mr̥tyu ka din bataya tha
+Yama swayam aaye the
+Ve Satyavān ke prāṇ lekar ja rahe the
+Savitrī unke peeche chali
+Apni satya-vāṇī, dharma aur bhakti se usne Yama ko prasann kar diya
+
+Fir Savitrī batāti hai ki usse ye 5 var mile:
+
+Dyumatsena ki aankhen wapas mileṅ
+Unka rājy wapas mile
+Uske pita ko 100 putra mileṅ
+Use swayam 100 putra mileṅ
+Satyavān ko 400 varṣ ka jeevan mile
+
+R̥ṣi Savitrī ki bahut prasansā karte hain aur kehte hain:
+
+“Tumne andhakār me doobte hue is vansh ko bachā liya।”
+
+Is kahani ka gahra arth
+
+Yeh kahani keval pati-bhakti ki nahi hai।
+Yeh:
+
+dharma,
+satya,
+tapasya,
+dhairya,
+aur अटल निष्ठा ki vijay hai।
+
+Savitri mr̥tyu se yuddh nahi karti — balki dharma aur karuṇā se Yama ko bhi jeet leti hai।"""
             create_image_text_layout(
                 text_content=text2,
                 layout="full"
@@ -38483,7 +38626,17 @@ they hastened back toward the hermitage."""
         # Section 3.12.8
         # --------------------------------------------------
         with st.expander("Section 3.12.8  Section CCXCIX"):
-            text1 = """ """
+            text1 = """ 
+            Yeh adhyāya Mahabharata me Karna ke charitra ka ek bahut gahra aur tragic pehlu dikhāta hai।
+
+Isme teen bade themes saamne aate hain:
+
+dān-vīratā,
+yaś (fame),
+aur niyati (destiny).
+Is prasang ka saar
+
+Rājā Janamejaya poochte hain:"""
             create_image_text_layout(
                 "attached_assets/chapter3/3.12.8.jpg",
                 text1,
@@ -38491,7 +38644,77 @@ they hastened back toward the hermitage."""
                 image_position="left"
             )
 
-            text2 = """ """
+            text2 = """ 
+            Yudhiṣṭhira ko Karṇa se itna bhay kyun tha?
+
+Tab Vaishampayana batāte hain ki vanvās ke antim samay me Indra ne socha:
+
+Agar Karṇa apna divya kavacha aur kuṇḍala pehne rahe, to use yuddh me koi nahi hara sakta।
+
+Kyonki Indra apne putra Arjuna ko bachana chāhte the, isliye ve bhikṣuk Brāhmaṇa ka rūp lekar Karṇa se kavacha-kuṇḍala māngne wale the।
+
+Lekin is baat ka pata Karṇa ke pitā Surya ko chal gaya।
+
+Sūrya swapna me Karṇa ke paas aakar kehte hain:
+
+“Mat dena apna kavacha aur kuṇḍala. Yeh amṛta se utpann hue hain. Inke bina tumhārī mr̥tyu nishchit hai.”
+
+Ve Karṇa ko samjhāte hain:
+
+Indra tumhe dhokhe se māngeṅge
+tum unhe anya dhan de dena
+lekin kavacha-kuṇḍala mat dena
+Karṇa ka uttar
+
+Yahaan Karṇa ka asli charitra chamakta hai।
+
+Karṇa kehte hain:
+
+“Main apne vrata ko nahi tod sakta.”
+
+Unka sankalp tha:
+
+Jo bhi Brāhmaṇa mānge, use kabhi mana nahi karunga।
+
+Karṇa jānate hain ki:
+
+Indra unka nuksān karne aa rahe hain
+kavacha-kuṇḍala dene ka arth mr̥tyu hai
+
+Phir bhi ve kehte hain:
+
+“Jīvan se bhi adhik mahatvapūrṇa yaś hai.”
+
+Unke kuch pramukh vichār:
+
+badnām hokar jeena vyarth hai
+kīrti amar karti hai
+sharīr nashvar hai, lekin yaś amar hai
+dān aur vīratā hi kṣatriya ka satya dharma hai
+
+Karṇa kehte hain:
+
+“Agar Indra swayam Brāhmaṇa bankar māngne aayeṅ, to unhe dena meri sabse badi kīrti hogi.”
+
+Is adhyāya ka darśanik arth
+
+Yeh prasang bahut tragic hai kyunki:
+
+Karna sach jānkar bhi apni surakṣā nahi chunte
+ve apni pratigya aur yaś ko mr̥tyu se upar rakhte hain
+
+Mahābhārata me Karṇa ko isi liye “Dānavīra” kaha jata hai।
+
+Lekin isi me ek irony bhi hai:
+
+unki sabse badi mahānata hi unki sabse badi kamzori ban jati hai
+dān aur gaurav ke prati ati-āsakti unhe vināś ki or le jati hai
+
+Yeh adhyāya yeh bhi dikhata hai ki:
+
+Mahān vyakti kabhi-kabhi apne guṇon ke kāraṇ hi patan ko prāpt hote hain।
+
+Aur isi wajah se Karna Mahābhārata ke sabse karuṇ aur complex patraon me se ek māne jate hain।"""
             create_image_text_layout(
                 text_content=text2,
                 layout="full"
@@ -38501,7 +38724,12 @@ they hastened back toward the hermitage."""
         # Section 3.12.9
         # --------------------------------------------------
         with st.expander("Section 3.12.9  Section CCC"):
-            text1 = """ """
+            text1 = """ 
+            Yeh agla bhāg Mahabharata me Surya aur Karna ke beech ek bahut emotional aur philosophical samvāda hai।
+
+Isme Sūrya dev fir se Karṇa ko samjhāne ki koshish karte hain ki:
+
+“Yaś (fame) se pehle jīvan mahatvapūrṇa hai.”"""
             create_image_text_layout(
                 "attached_assets/chapter3/3.12.9.jpg",
                 text1,
@@ -38509,7 +38737,89 @@ they hastened back toward the hermitage."""
                 image_position="left"
             )
 
-            text2 = """ """
+            text2 = """ 
+            Sūrya ka dr̥ṣṭikoṇ
+
+Sūrya Karṇa se kehte hain:
+
+agar tum mar gaye, to tumhāre:
+māta-pitā,
+patnī,
+putra,
+mitra,
+sab dukhi honge
+
+Ve kahte hain:
+
+“Jīvit vyakti hi apni kīrti ka ānand le sakta hai.”
+
+Ek bahut gahri upamā dete hain:
+
+“Mṛt vyakti ki prasiddhi us phool-mālā jaisi hai jo ek śav par rakhi ho.”
+
+Yani:
+
+fame tabhi meaningful hai jab vyakti zinda ho।
+Chhupa hua rahasya
+
+Is adhyāya ka ek mysterious part bhi hai।
+
+Surya kehte hain:
+
+“Is sabke pīchhe ek gahra daivī rahasya hai, lekin main tumhe abhi nahi bata sakta.”
+
+Yeh sanket hai:
+
+Karṇa ki destiny pehle se nirdhārit hai
+devatā bhi Mahābhārata ke vishāl cosmic plan ka hissa hain
+Arjuna ka sandarbh
+
+Sūrya seedhe kehte hain:
+
+“Jab tak tum kavacha-kuṇḍala pehne ho, tab tak Arjuna tumhe nahi hara sakta—even if Indra helps him.”
+
+Yeh bahut important line hai kyunki:
+
+Karṇa practically invincible tha
+uska janma-kavacha divine protection tha
+
+Isliye Indra ko chhal se use lena pada।
+
+Is prasang ka emotional core
+
+Yeh sirf strategy nahi hai।
+Yeh ek pitā ka apne putra ko bachāne ka prayās hai।
+
+Sūrya:
+
+divine being hone ke bāvajūd
+ek chintit pitā ki tarah bāt karte hain
+
+Unki lines me:
+
+sneha,
+bechaini,
+helplessness,
+aur bhaviṣya ka bhay
+
+sab dikhta hai।
+
+Lekin tragic baat yeh hai ki:
+Karna ka svabhāv hi aisa hai ki:
+
+ve apni pratigya nahi tod sakte।
+
+Yahān Mahābhārata ka ek bada theme saamne aata hai:
+
+kabhi-kabhi vyakti ka sabse bada guṇ hi uski vināś ka kāraṇ ban jata hai।
+
+Karṇa ki:
+
+dān-vīratā,
+satya-parāyaṇatā,
+aur yaś-prem
+
+unhe mahān bhi banāti hai aur tragic bhi।"""
             create_image_text_layout(
                 text_content=text2,
                 layout="full"
@@ -38519,7 +38829,21 @@ they hastened back toward the hermitage."""
         # Section 3.12.10
         # --------------------------------------------------
         with st.expander("Section 3.12.10  Section CCCI"):
-            text1 = """ """
+            text1 = """ 
+            Yeh adhyāya Mahabharata me Karna ke vyaktitva ka shikhar dikhāta hai।
+
+Ab tak Surya unhe rokne ki koshish kar rahe the, lekin yahān Karṇa apna antim nirṇay suna dete hain:
+
+“Main apna vrata nahi todunga — chaahe mr̥tyu hi kyun na ho.”
+
+Karṇa ka dharma
+
+Karṇa kehte hain:
+
+meri patnī,
+putra,
+mitra,
+hatta ki mera apna jīvan bhi,"""
             create_image_text_layout(
                 "attached_assets/chapter3/3.12.10.jpg",
                 text1,
@@ -38527,7 +38851,101 @@ they hastened back toward the hermitage."""
                 image_position="left"
             )
 
-            text2 = """ """
+            text2 = """ 
+            utna priya nahi jitna:
+
+satya,
+dān,
+aur mera vrata।
+
+Unki sabse powerful line ka arth hai:
+
+“Mr̥tyu se mujhe itna bhay nahi jitna asatya se hai.”
+
+Yeh Mahābhārata ka ek mahaan moral moment hai।
+
+Karṇa ka ideal
+
+Karṇa ke liye:
+
+sharīr temporary hai
+lekin pratigya eternal hai
+
+Ve kehte hain:
+
+“Brāhmaṇon ke liye main apna prāṇ bhi de sakta hoon.”
+
+Isliye ve jānkar bhi ki Indra unhe kamzor karne aa rahe hain, mana nahi karte।
+
+Sūrya ka practical solution
+
+Ab Surya samajh jate hain ki:
+
+Karṇa ko rokna sambhav nahi।
+
+To ve ek strategy dete hain।
+
+Ve kehte hain:
+
+“Agar tum kavacha-kuṇḍala dene hi wale ho, to badle me kuch māngo.”
+
+Aur wahi se famous:
+
+Vāsavi Śakti
+
+ka prasang shuru hota hai।
+
+Sūrya kehte hain:
+
+“Indra se ek amogha śakti māng lo — ek aisa divya astra jo kabhi vyarth nahi jata.”
+
+Yahi baad me:
+
+Karna ko prāpt hota hai
+aur ve use Ghatotkacha ko mārne me prayog karte hain
+
+Iska consequence bahut bada tha:
+
+agar wahi śakti bachti,
+to shayad Arjuna ka vinaś ho sakta tha।
+Is prasang ka deeper tragedy
+
+Yahān ek bahut subtle cheez dikhti hai।
+
+Surya:
+
+divine father hain,
+lekin destiny ko badal nahi pa rahe।
+
+Ve sirf:
+
+damage control
+kar sakte hain।
+
+Aur Karna:
+
+apni mr̥tyu ki or swayam chal rahe hain,
+lekin poori dignity aur awareness ke saath।
+
+Isi wajah se Karṇa Mahābhārata ke:
+
+sabse heroic,
+aur sabse tragic
+
+patra māne jate hain।
+
+Philosophical contrast
+
+Is dialogue me do dr̥ṣṭikoṇ takrāte hain:
+
+Sūrya	Karṇa
+Jīvan bachao	Yaś bachao
+Practical wisdom	Idealistic honour
+Survival	Dharma & vow
+Strategy	Sacrifice
+
+Mahābhārata kisi ek ko completely right nahi bolta।
+Isi ambiguity ki wajah se yeh epic itna gahra lagta hai।"""
             create_image_text_layout(
                 text_content=text2,
                 layout="full"
