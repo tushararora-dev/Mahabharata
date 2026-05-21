@@ -38955,7 +38955,12 @@ Isi ambiguity ki wajah se yeh epic itna gahra lagta hai।"""
         # Section 3.12.11
         # --------------------------------------------------
         with st.expander("Section 3.12.11  Section CCCII"):
-            text1 = """ """
+            text1 = """ 
+            Raja Janamejaya ne ek din poocha, “Karna ke magical kavach aur kundal ka raaz kya tha? Surya Dev ne kaunsi secret baat usse nahi batayi?”
+
+Rishi Vaisampayana ne kaha, “Main tumhe poori kahani sunata hoon.”
+
+Bahut pehle ek powerful Brahman Raja Kuntibhoj ke mahal mein aaye. Unka roop tej se chamak raha tha aur woh bahut gyaani the."""
             create_image_text_layout(
                 "attached_assets/chapter3/3.12.11.jpg",
                 text1,
@@ -38963,7 +38968,18 @@ Isi ambiguity ki wajah se yeh epic itna gahra lagta hai।"""
                 image_position="left"
             )
 
-            text2 = """ """
+            text2 = """ 
+            Brahman ne Raja se kaha, “Main tumhare mahal mein rehna chahta hoon. Lekin koi mujhe naraz nahi karega.” Raja ne respect ke saath unki baat maan li.
+
+Raja ne apni beti Pritha, yani Kunti ko bulaya aur kaha, “Tum in Brahman ki seva dhyaan aur prem se karna.”
+
+Raja ko Kunti par poora bharosa tha. Woh jaante the ki Kunti sabke saath pyar aur vinamrata se baat karti hai.
+
+Kunti ne bina complain kiye Brahman ki seva ki. Woh hamesha unki zaroorat ka dhyaan rakhti thi.
+
+Raja ne use samjhaya ki Brahman ka samman karna bahut important hota hai, kyunki gyaani aur tapasvi log bahut powerful hote hain.
+
+Is kahani se yeh seekh milti hai ki vinamrata, seva aur bade logon ka respect karna hamesha achha phal deta hai."""
             create_image_text_layout(
                 text_content=text2,
                 layout="full"
@@ -38973,7 +38989,16 @@ Isi ambiguity ki wajah se yeh epic itna gahra lagta hai।"""
         # Section 3.12.12
         # --------------------------------------------------
         with st.expander("Section 3.12.12  Section CCCIII"):
-            text1 = """ """
+            text1 = """ 
+            Kunti ne apne pita Raja Kuntibhoj se kaha, “Main poori imaandari aur dhyaan se us Brahman ki seva karungi.”
+
+Unhone kaha, “Chahe woh subah aaye ya raat mein, main kabhi unhe naraaz nahi hone dungi.”
+
+Kunti jaanti thi ki gyaani aur tapasvi Brahman bahut shaktishaali hote hain. Agar woh khush ho jaayein toh blessings dete hain, aur agar gussa ho jaayein toh nuksaan bhi ho sakta hai.
+
+Isliye Kunti ne mann se decide kiya ki woh poori shraddha aur prem se seva karegi.
+
+Raja Kuntibhoj apni beti ki baat sunkar bahut khush hue. Unhone use gale lagaya aur pyaar se samjhaya ki sab kuch dhyaan aur vinamrata se karna."""
             create_image_text_layout(
                 "attached_assets/chapter3/3.12.12.jpg",
                 text1,
@@ -38981,7 +39006,16 @@ Isi ambiguity ki wajah se yeh epic itna gahra lagta hai।"""
                 image_position="left"
             )
 
-            text2 = """ """
+            text2 = """ 
+            Phir Raja ne Brahman se kaha, “Meri beti abhi chhoti hai. Agar usse koi galti ho jaaye, toh kripya gussa mat hona.”
+
+Brahman muskura kar bole, “Theek hai.”
+
+Uske baad Raja ne Brahman ke liye sundar room aur achha bhojan tayyar karwaya.
+
+Kunti ne apna aalas aur ghamand chhod diya aur poore dil se Brahman ki seva karne lagi. Woh unka dhyaan bilkul waise rakhti thi jaise kisi devta ka rakha jaata hai.
+
+Dheere dheere Brahman bhi Kunti ki seva aur achhe swabhaav se bahut prasann ho gaye."""
             create_image_text_layout(
                 text_content=text2,
                 layout="full"
@@ -38991,7 +39025,12 @@ Isi ambiguity ki wajah se yeh epic itna gahra lagta hai।"""
         # Section 3.12.13
         # --------------------------------------------------
         with st.expander("Section 3.12.13  Section CCCIV"):
-            text1 = """ """
+            text1 = """ 
+            Rishi Vaisampayana ne kaha, “Kunti ne poore dil aur sachchi shraddha se us Brahman ki seva ki.”
+
+Kabhi Brahman bolte ki woh subah aayenge, lekin woh raat ko ya der se wapas aate. Phir bhi Kunti kabhi pareshaan nahi hoti thi. Woh hamesha unke liye khaana aur aaram ki sab taiyari rakhti thi.
+
+Kabhi kabhi Brahman uski arrangements mein galti nikaalte aur kathor shabdon mein baat karte. Lekin Kunti ne kabhi bura nahi maana. Woh shaant aur vinamr bani rahi."""
             create_image_text_layout(
                 "attached_assets/chapter3/3.12.13.jpg",
                 text1,
@@ -38999,7 +39038,20 @@ Isi ambiguity ki wajah se yeh epic itna gahra lagta hai।"""
                 image_position="left"
             )
 
-            text2 = """ """
+            text2 = """ 
+            Kai baar raat bahut ho jaati aur khaana milna mushkil hota. Tab bhi jab Brahman kehte, “Mujhe bhojan do,” Kunti turant pyaar se khaana lekar aa jaati.
+
+Woh unki seva bilkul ek devoted beti aur shishya ki tarah karti thi. Dheere dheere Brahman usse bahut khush ho gaye.
+
+Har subah aur shaam Raja Kuntibhoj apni beti se poochte, “Kya Brahman tumse khush hain?” Aur Kunti muskura kar kehti, “Haan, woh bahut prasann hain.”
+
+Ek saal beet gaya. Brahman ko Kunti mein ek bhi kami nahi mili. Woh bahut khush hue aur bole, “Tum koi bhi vardaan maang sakti ho.”
+
+Lekin Kunti ne vinamrata se kaha, “Aap aur mere pita mujhse khush hain, mere liye wahi sabse bada vardaan hai.”
+
+Brahman aur bhi prasann ho gaye. Unhone Kunti ko ek magical mantra diya. Unhone kaha, “Is mantra se tum kisi bhi devta ko bula sakti ho.”
+
+Phir Brahman ne Raja se vidai li aur achanak wahin se gaayab ho gaye. Sab log hairaan reh gaye. Raja Kuntibhoj ne us din se Kunti ko aur bhi zyada respect dena shuru kar diya."""
             create_image_text_layout(
                 text_content=text2,
                 layout="full"
@@ -39009,7 +39061,14 @@ Isi ambiguity ki wajah se yeh epic itna gahra lagta hai।"""
         # Section 3.12.14
         # --------------------------------------------------
         with st.expander("Section 3.12.14  Section CCCV"):
-            text1 = """ """
+            text1 = """ 
+            Rishi Vaisampayana ne kaha, “Jab woh Brahman chale gaye, tab Kunti un magical mantron ke baare mein sochne lagi.”
+
+Usne socha, “Yeh mantra sach mein kaam karte hain ya nahi? Main inhe test karti hoon.”
+
+Ek subah Kunti apne kamre mein baithi thi. Usne suraj ko ugte hue dekha aur uski roshni ko dekhkar woh hairaan reh gayi.
+
+Curiosity mein usne mantra ka use karke Surya Dev ko bula liya."""
             create_image_text_layout(
                 "attached_assets/chapter3/3.12.14.jpg",
                 text1,
@@ -39017,7 +39076,20 @@ Isi ambiguity ki wajah se yeh epic itna gahra lagta hai।"""
                 image_position="left"
             )
 
-            text2 = """ """
+            text2 = """ 
+            Turant Surya Dev uske saamne prakat ho gaye. Woh bahut tej aur divya roop mein chamak rahe the.
+
+Surya Dev ne pyaar se kaha, “Tumne mujhe bulaya hai, batao main tumhare liye kya karun?”
+
+Kunti ghabra gayi. Usne turant kaha, “Maine toh bas curiosity mein aapko bulaya tha. Kripya aap wapas chale jaiye.”
+
+Lekin Surya Dev ne kaha ki kisi devta ko bina wajah bulaakar wapas bhejna theek nahi hota. Unhone Kunti ko samjhaya ki mantron ki shakti bahut badi hoti hai.
+
+Kunti bahut sharma gayi aur darr bhi gayi. Usne vinamrata se kaha ki woh abhi unmarried hai aur sirf mantra ki power dekhna chahti thi.
+
+Surya Dev ne phir bhi usse samjhaya ki mantra ka istemaal soch samajhkar karna chahiye.
+
+Is kahani se yeh seekh milti hai ki kisi bhi shakti ya vardaan ka use hamesha samajhdari aur zimmedari se karna chahiye."""
             create_image_text_layout(
                 text_content=text2,
                 layout="full"
@@ -39027,7 +39099,12 @@ Isi ambiguity ki wajah se yeh epic itna gahra lagta hai।"""
         # Section 3.12.15
         # --------------------------------------------------
         with st.expander("Section 3.12.15  Section CCCVI"):
-            text1 = """ """
+            text1 = """ 
+            Rishi Vaisampayana ne kaha, “Kunti ne Surya Dev ko bahut pyaar aur vinamrata se samjhane ki koshish ki, lekin Surya Dev wapas jaane ko taiyaar nahi hue.”
+
+Kunti bahut pareshaan ho gayi. Woh sochne lagi, “Agar Surya Dev gussa ho gaye toh mere pita aur woh Brahman dono ko shraap mil sakta hai.”
+
+Ek taraf use logon ki baatein aur apni izzat ka darr tha, aur doosri taraf Surya Dev ke shraap ka. Woh samajh nahi paa rahi thi ki kya kare."""
             create_image_text_layout(
                 "attached_assets/chapter3/3.12.15.jpg",
                 text1,
@@ -39035,7 +39112,18 @@ Isi ambiguity ki wajah se yeh epic itna gahra lagta hai।"""
                 image_position="left"
             )
 
-            text2 = """ """
+            text2 = """ 
+            Darr aur sharm ke saath Kunti ne Surya Dev se kaha, “Mere mata-pita abhi jeevit hain. Main koi galat kaam nahi karna chahti. Lekin agar aap ise sahi maante hain, toh meri ek prarthana hai.”
+
+Usne kaha, “Agar mujhe aapse putra mile, toh woh bahut shaktishaali ho aur uske paas divine kavach aur kundal ho.”
+
+Surya Dev ne pyaar se kaha, “Tumhara putra bahut balwaan aur mahaan hoga. Uska kavach aur kundal amrit se bane honge aur koi unhe tod nahi paayega.”
+
+Kunti ne dheere se haan kar di. Tab Surya Dev ne apni divine shakti se usse vardaan diya.
+
+Surya Dev ne use aashirwad diya aur kaha, “Tum ek mahaan yoddha putra ko janm dogi, aur phir bhi tumhari pavitrata bani rahegi.”
+
+Uske baad Surya Dev chale gaye. Kunti dheere dheere hosh mein aayi, lekin uski zindagi hamesha ke liye badal chuki thi."""
             create_image_text_layout(
                 text_content=text2,
                 layout="full"
@@ -39045,7 +39133,14 @@ Isi ambiguity ki wajah se yeh epic itna gahra lagta hai।"""
         # Section 3.12.16
         # --------------------------------------------------
         with st.expander("Section 3.12.16  Section CCCVII"):
-            text1 = """ """
+            text1 = """ 
+            Rishi Vaisampayana ne kaha, “Samay beetne ke baad Kunti ne ek sundar aur divya putra ko janm diya.”
+
+Woh bachcha bilkul Surya Dev ki tarah chamak raha tha. Uske janm se hi uske sharir par divine kavach aur kundal the.
+
+Lekin Kunti abhi unmarried thi. Isliye woh bahut darr gayi aur apni baat sabse chhupakar rakhi. Sirf uski nurse ko sach pata tha.
+
+Jab bachcha paida hua, tab Kunti aur uski nurse ne use ek sundar aur safe tokri mein rakha. Tokri ko soft kapdon aur pillow se sajaya gaya tha."""
             create_image_text_layout(
                 "attached_assets/chapter3/3.12.16.jpg",
                 text1,
@@ -39053,7 +39148,20 @@ Isi ambiguity ki wajah se yeh epic itna gahra lagta hai।"""
                 image_position="left"
             )
 
-            text2 = """ """
+            text2 = """ 
+            Aankhon mein aansu lekar Kunti raat ke andhere mein us bachche ko nadi ke paas le gayi.
+
+Dil tootne ke baad bhi usne apne bete ke liye dua ki. Woh ro kar boli, “Mere bachche, Bhagwan tumhari hamesha raksha karein. Tumhara har raasta safe aur khushiyon se bhara ho.”
+
+Usne Surya Dev se bhi prarthana ki, “Aap hi is bachche ke pita hain. Kripya ise har jagah protect karna.”
+
+Kunti ne pyar se apne bachche ko dekha aur socha, “Jo bhi tumhe apna beta banayegi, woh bahut lucky hogi.”
+
+Bahut dukh ke saath Kunti ne tokri ko nadi mein chhod diya. Woh baar baar peeche mudkar dekhna chahti thi, lekin darr ke kaaran mahal laut gayi.
+
+Tokri dheere dheere nadiyon mein behte hue door chali gayi. Divine kavach aur kundal ne us bachche ki raksha ki.
+
+Wahi bachcha aage chal kar mahaan yoddha Karna bana."""
             create_image_text_layout(
                 text_content=text2,
                 layout="full"
@@ -39063,7 +39171,14 @@ Isi ambiguity ki wajah se yeh epic itna gahra lagta hai।"""
         # Section 3.12.17
         # --------------------------------------------------
         with st.expander("Section 3.12.17  Section CCCVIII"):
-            text1 = """ """
+            text1 = """ 
+            Rishi Vaisampayana ne kaha, “Nadi mein behte hue us tokri ko ek Suta, yani charioteer Adhirath aur uski wife Radha ne dekha.”
+
+Radha bahut sundar aur dayalu thi, lekin uske paas apna koi bachcha nahi tha.
+
+Jab unhone tokri kholi, toh andar ek chamakta hua sundar bachcha tha. Uske sharir par golden kavach aur kundal the.
+
+Adhirath aur Radha use dekhkar hairaan reh gaye. Adhirath ne kaha, “Yeh bachcha zaroor kisi devta ka vardaan hai.”"""
             create_image_text_layout(
                 "attached_assets/chapter3/3.12.17.jpg",
                 text1,
@@ -39071,7 +39186,22 @@ Isi ambiguity ki wajah se yeh epic itna gahra lagta hai।"""
                 image_position="left"
             )
 
-            text2 = """ """
+            text2 = """ 
+            Radha ne us bachche ko apne dil se apna liya. Woh usse bahut pyaar se paalne lagi.
+
+Bachcha dheere dheere bada hone laga. Uske kavach aur kundal ko dekhkar Brahmano ne uska naam Vasusena rakha.
+
+Wahi bachcha aage chal kar Karna ke naam se famous hua. Woh bahut powerful aur talented warrior bana.
+
+Kunti ko bhi chupke se pata chala ki uska beta zinda hai aur ek charioteer ke ghar bada ho raha hai.
+
+Baad mein Karna ne Dronacharya aur dusre gurus se weapons chalana seekha. Uski dosti Duryodhan se ho gayi.
+
+Karna aur Arjun hamesha ek dusre ko challenge karte the. Dono mahaan warriors the.
+
+Karna bahut daanveer bhi tha. Jab bhi koi Brahman usse kuch maangta, woh kabhi mana nahi karta tha.
+
+Ek din Indra bhi Brahman ka roop lekar uske paas aaye aur bole, “Mujhe kuch do.” Karna ne bina soche kaha, “Aapka swagat hai.”"""
             create_image_text_layout(
                 text_content=text2,
                 layout="full"
@@ -39081,7 +39211,14 @@ Isi ambiguity ki wajah se yeh epic itna gahra lagta hai।"""
         # Section 3.12.18
         # --------------------------------------------------
         with st.expander("Section 3.12.18  Section CCCIX"):
-            text1 = """ """
+            text1 = """ 
+            Rishi Vaisampayana ne kaha, “Ek din Indra Dev Brahman ka roop lekar Karna ke paas aaye.”
+
+Karna ne respect se unka swagat kiya aur bola, “Aap jo chahein maang lijiye.”
+
+Brahman bane Indra ne kaha, “Mujhe tumhara divine kavach aur kundal chahiye.”
+
+Yeh sunkar Karna hairaan ho gaya. Usne kaha, “Main aapko sona, gaay, zameen aur bahut kuch de sakta hoon, lekin kavach aur kundal nahi.”"""
             create_image_text_layout(
                 "attached_assets/chapter3/3.12.18.jpg",
                 text1,
@@ -39089,7 +39226,20 @@ Isi ambiguity ki wajah se yeh epic itna gahra lagta hai।"""
                 image_position="left"
             )
 
-            text2 = """ """
+            text2 = """ 
+            Karna jaanta tha ki wahi uski sabse badi protection thi. Unke bina woh enemies se haar sakta tha.
+
+Lekin Brahman kisi aur cheez ke liye maan hi nahi rahe the. Tab Karna samajh gaya ki yeh koi aam Brahman nahi hain.
+
+Woh muskura kar bola, “Mujhe pata hai aap Indra Dev hain. Agar aapko mera kavach aur kundal chahiye, toh बदले mein mujhe ek powerful weapon dijiye.”
+
+Indra maan gaye. Unhone Karna ko ek magical Vasavi Shakti di, jo sirf ek baar use ho sakti thi aur ek powerful enemy ko zaroor hara sakti thi.
+
+Karna ne bina darr ke apna kavach aur kundal khud kaat kar Indra ko de diye. Sab log uski himmat aur daan dekhkar hairaan reh gaye.
+
+Aasmaan se phool barsne lage aur devta bhi Karna ki generosity ki tareef karne lage.
+
+Us din se Karna aur bhi zyada famous ho gaya. Log use mahaan daanveer ke roop mein yaad karne lage."""
             create_image_text_layout(
                 text_content=text2,
                 layout="full"
