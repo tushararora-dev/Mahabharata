@@ -39251,7 +39251,10 @@ Us din se Karna aur bhi zyada famous ho gaya. Log use mahaan daanveer ke roop me
         # Section 3.13.1
         # --------------------------------------------------
         with st.expander("Section 3.13.1  Section CCCX"):
-            text1 = """ """
+            text1 = """ 
+            Raja Janamejaya ne poocha, “Jab Pandavo ne bahut dukh jhela aur Draupadi ko wapas bachaya, tab uske baad unhone kya kiya?”
+
+Rishi Vaisampayana bole, “Draupadi ke apaharan ki wajah se Pandavo ko bahut dukh hua tha. Iske baad Raja Yudhishthira apne bhaiyon aur Draupadi ke saath Kamyaka van chhodkar sundar Dvaitavana jungle mein chale gaye. Wahan bahut saare ped, phal aur jad-mool the. Pandav wahin simple jeevan jeene lage. Woh phal khaate, tapasya karte aur kathin vrat rakhte the."""
             create_image_text_layout(
                 "attached_assets/chapter3/3.13.1.jpg",
                 text1,
@@ -39259,7 +39262,18 @@ Us din se Karna aur bhi zyada famous ho gaya. Log use mahaan daanveer ke roop me
                 image_position="left"
             )
 
-            text2 = """ """
+            text2 = """ 
+            Ek din Pandav jungle mein reh rahe the. Tab unke saath ek ajeeb ghatna hui. Yeh mushkil baad mein unke liye achchi baat banne wali thi.
+
+Ek Brahman tapasya karta tha. Uske paas agni jalane ke lakdi ke yantra the. Ek din ek tez hiran jungle mein daudta hua aaya. Khelte-koodte woh lakdiyaan uske singh mein atak gayin. Hiran turant bhaag gaya aur saari cheezein saath le gaya.
+
+Brahman bahut pareshaan ho gaya. Woh seedha Pandavo ke paas gaya aur bola, “Hey Raja, mera Agnihotra ruk jayega. Kripya us hiran ko dhoondh kar meri lakdiyaan wapas laaiye.”
+
+Yudhishthira ne Brahman ki baat suni aur turant madad karne ka faisla kiya. Pandav apne dhanush lekar hiran ke peeche daud pade. Unhone teer bhi chalaye, lekin hiran bahut tez tha. Koi bhi teer usse lag nahi paaya.
+
+Thodi der baad woh hiran achanak gayab ho gaya. Pandav use dhoondhte-dhoondhte bahut thak gaye. Unhe bhookh aur pyaas bhi lagne lagi. Phir woh ek bade bargad ke ped ke neeche baith gaye.
+
+Tab Nakula udaas hokar Yudhishthira se bola, “Bhaiya, humne hamesha dharma ka paalan kiya hai. Humne kabhi kisi ko mana nahi kiya. Phir bhi humare saath aisi musibat kyun aa rahi hai?”"""
             create_image_text_layout(
                 text_content=text2,
                 layout="full"
@@ -39269,7 +39283,14 @@ Us din se Karna aur bhi zyada famous ho gaya. Log use mahaan daanveer ke roop me
         # Section 3.13.2
         # --------------------------------------------------
         with st.expander("Section 3.13.2  Section CCCXI"):
-            text1 = """ """
+            text1 = """ 
+            Raja Yudhishthira ne shant swar mein kaha, “Dukh aur musibat kabhi bhi aa sakti hain. Unka asli kaaran samajhna mushkil hota hai. Sirf Dharmraj hi sabko unke karmon ka phal dete hain.”
+
+Bhima udaas hokar bola, “Yeh musibat isliye aayi hai kyunki maine uss dusht Pratikamin ko ussi waqt nahi maara tha, jab woh Draupadi ko sabha mein ghaseet kar laya tha.”
+
+Arjuna ne kaha, “Yeh dukh isliye mila hai kyunki maine Karna ki buri baaton ka jawab nahi diya tha.”
+
+Sahadeva bola, “Aur shayad meri galti yeh thi ki maine Shakuni ko paasay ke khel ke waqt nahi maara.”"""
             create_image_text_layout(
                 "attached_assets/chapter3/3.13.2.jpg",
                 text1,
@@ -39277,7 +39298,54 @@ Us din se Karna aur bhi zyada famous ho gaya. Log use mahaan daanveer ke roop me
                 image_position="left"
             )
 
-            text2 = """ """
+            text2 = """ 
+            Tab Yudhishthira ne Nakula se kaha, “Beta, iss ped par chadhkar dekho. Kahin paas mein paani dikh raha hai kya? Tumhare sabhi bhai bahut thak gaye hain.”
+
+Nakula ped par chadha aur charon taraf dekhkar bola, “Bhaiya, mujhe paani ke paas ugne wale ped dikh rahe hain. Main pakshiyon ki awaaz bhi sun raha hoon. Zaroor paas mein koi talaab hoga.”
+
+Yudhishthira ne kaha, “Toh tum jaakar paani le aao.”
+
+Nakula turant paani dhoondhne chala gaya. Jaldi hi usse ek sundar saaf talaab mila. Woh bahut pyasa tha aur paani peene ja hi raha tha ki achanak aasman se awaaz aayi,
+
+“Hey Rajkumar, yeh paani peene ki jaldi mat karo. Yeh talaab mera hai. Pehle mere prashnon ka jawab do, phir paani peena.”
+
+Lekin Nakula bahut pyasa tha. Usne awaaz ko nazarandaz kiya aur paani pee liya. Jaise hi usne paani piya, woh zameen par gir gaya.
+
+Jab Nakula bahut der tak wapas nahi aaya, tab Yudhishthira ne Sahadeva se kaha, “Tumhare bhai ko gaye kaafi der ho gayi hai. Tum jaakar use aur paani dono lekar aao.”
+
+Sahadeva bhi talaab tak pahunch gaya. Wahan usne Nakula ko zameen par pada dekha. Woh bahut dukhi hua. Phir woh paani peene aage badha.
+
+Tab wahi awaaz fir se sunayi di, “Pehle mere prashnon ka jawab do. Tabhi paani pee sakte ho.”
+
+Lekin Sahadeva ne bhi awaaz nahi suni. Usne paani piya aur turant gir pada.
+
+Ab Yudhishthira ne Arjuna se kaha, “Tumhare dono bhai ab tak nahi aaye. Tum jaakar unhe aur paani lekar aao.”
+
+Arjuna dhanush aur talwar lekar talaab ki taraf gaya. Wahan usne Nakula aur Sahadeva ko zameen par pada dekha. Woh hairaan aur dukhi ho gaya.
+
+Usne jungle mein charon taraf dekha, lekin koi dikhayi nahi diya. Tab woh paani peene jaane laga.
+
+Aasman se awaaz aayi, “Hey Arjuna, bina mere prashnon ka jawab diye tum paani nahi pee sakte.”
+
+Arjuna gusse mein bola, “Samne aakar baat karo!” Phir usne har taraf teer chala diye. Lekin koi nazar nahi aaya.
+
+Awaaz fir boli, “Pehle prashnon ka jawab do. Warna paani peete hi tum mar jaoge.”
+
+Arjuna ne bhi baat nahi maani. Jaise hi usne paani piya, woh bhi gir pada.
+
+Phir Yudhishthira ne Bhima se kaha, “Tumhare teenon bhai ab tak nahi aaye. Tum jaakar unhe aur paani lekar aao.”
+
+Bhima talaab tak gaya aur apne sabhi bhaiyon ko gira hua dekha. Woh samajh gaya ki yeh kisi Yaksha ya rakshas ka kaam ho sakta hai.
+
+Bhima ne socha, “Pehle main apni pyaas bujha leta hoon, phir usse ladunga.”
+
+Jaise hi woh paani peene laga, awaaz fir se aayi, “Pehle mere prashnon ka jawab do.”
+
+Lekin Bhima ne bhi awaaz nahi suni. Usne paani piya aur turant gir gaya.
+
+Ab Yudhishthira akela reh gaya. Woh baar-baar sochne laga, “Sab itni der kyun laga rahe hain? Kya jungle mein koi khatra hai?”
+
+Aakhir woh khud unhe dhoondhne jungle mein gaya. Jungle bahut shaant tha. Har taraf hare ped, pakshi aur sundar phool the. Chalte-chalte Yudhishthira ek bahut hi sundar talaab ke paas pahunch gaya. Talaab ko dekhkar woh hairaan reh gaya."""
             create_image_text_layout(
                 text_content=text2,
                 layout="full"
@@ -39287,7 +39355,12 @@ Us din se Karna aur bhi zyada famous ho gaya. Log use mahaan daanveer ke roop me
         # Section 3.13.3
         # --------------------------------------------------
         with st.expander("Section 3.13.3  Section CCCXII"):
-            text1 = """ """
+            text1 = """ 
+            Rishi Vaisampayana bole, “Jab Yudhishthira talaab ke paas pahunche, toh unhone apne sabhi bhaiyon ko zameen par pada dekha. Bhima, Arjuna, Nakula aur Sahadeva bilkul shaant the, jaise gehri neend mein so rahe hon. Yeh dekhkar Yudhishthira ka dil dukh se bhar gaya. Unki aankhon se aansu behne lage.
+
+Woh dukhi hokar bole, “Hey Bhima, tumne vaada kiya tha ki tum Duryodhana ko yudh mein haraoge. Ab tumhare bina woh sab adhoora lag raha hai.”
+
+Phir Arjuna ko dekhkar bole, “Hey Dhananjaya, tum par hum sab bharosa karte the. Devtaon ne bhi kaha tha ki tum mahaan yoddha banoge. Phir tum aise kaise gir gaye?”"""
             create_image_text_layout(
                 "attached_assets/chapter3/3.13.3.jpg",
                 text1,
@@ -39295,7 +39368,54 @@ Us din se Karna aur bhi zyada famous ho gaya. Log use mahaan daanveer ke roop me
                 image_position="left"
             )
 
-            text2 = """ """
+            text2 = """ 
+            Yudhishthira ne Nakula aur Sahadeva ko dekha aur dukhi swar mein bole, “Tum sabne dharma ka paalan kiya. Kabhi galat kaam nahi kiya. Phir tumhare saath aisa kyun hua?”
+
+Kuch der baad Yudhishthira ne khud ko sambhala aur sochne lage, “Inke sharir par koi ghaav nahi hai. Na hi yahan kisi yudh ke nishaan hain. Zaroor koi bahut shaktishaali jeev yeh sab kar sakta hai.”
+
+Woh talaab ke paas paani peene jaane lage. Tab achanak aasman se awaaz aayi,
+
+“Hey Raja, tumhare bhaiyon ne meri baat nahi maani, isliye unki yeh haalat hui. Agar tumne bhi mere prashnon ka jawab diye bina paani piya, toh tum bhi mar jaoge.”
+
+Yudhishthira shaant rahe. Unhone poocha, “Aap kaun hain? Yeh kaam kisi aam pakshi ya prani ka nahi lagta.”
+
+Tab ek bada aur tej chamakta Yaksha saamne aaya. Uska roop bahut bhayanak aur shaktishaali tha.
+
+Yaksha bola, “Maine tumhare bhaiyon ko roka tha, lekin unhone meri baat nahi suni. Isliye woh gir pade. Agar tum paani chahte ho, toh pehle mere prashnon ka jawab do.”
+
+Yudhishthira bole, “Theek hai. Main aapke prashnon ka jawab dunga.”
+
+Phir Yaksha ne ek ke baad ek kathin prashn poochne shuru kiye.
+
+Usne poocha, “Surya ko kaun upar uthata hai?”
+
+Yudhishthira ne jawab diya, “Brahma.”
+
+Yaksha ne poocha, “Insaan buddhimaan kaise banta hai?”
+
+Yudhishthira bole, “Bade aur gyani logon ki seva karke.”
+
+Yaksha ne poocha, “Sabse bada dhan kya hai?”
+
+Yudhishthira ne kaha, “Santosh sabse bada dhan hai.”
+
+Yaksha ne poocha, “Duniya mein sabse bada adbhut kya hai?”
+
+Yudhishthira bole, “Har din log marte hain, phir bhi baaki log sochte hain ki woh hamesha jeevit rahenge. Isse bada adbhut kuch nahi.”
+
+Yaksha Yudhishthira ke gyaan aur shaanti se bahut prasann hua.
+
+Phir usne kaha, “Main tumse khush hoon. Tum apne ek bhai ko jeevit karne ka vardaan maang sakte ho.”
+
+Yudhishthira ne turant kaha, “Kripya Nakula ko jeevit kar dijiye.”
+
+Yaksha hairaan hokar bola, “Tum Bhima aur Arjuna ko chhodkar Nakula ko kyun bachana chahte ho?”
+
+Yudhishthira ne shaant swar mein kaha, “Meri maa Kunti ka ek beta main abhi jeevit hoon. Madri ka bhi ek beta jeevit rehna chahiye. Mere liye dono maayein samaan hain. Isi liye main Nakula ko bachana chahta hoon.”
+
+Yeh sunkar Yaksha bahut prasann hua. Usne kaha, “Tum sach mein dharm ko maante ho. Isliye tumhare sabhi bhai fir se jeevit ho jayenge.”
+
+Aur turant Bhima, Arjuna, Nakula aur Sahadeva sab uth baithe, jaise gehri neend se jaage hon."""
             create_image_text_layout(
                 text_content=text2,
                 layout="full"
@@ -39305,7 +39425,14 @@ Us din se Karna aur bhi zyada famous ho gaya. Log use mahaan daanveer ke roop me
         # Section 3.13.4
         # --------------------------------------------------
         with st.expander("Section 3.13.4  Section CCCXIII"):
-            text1 = """ """
+            text1 = """ 
+            Rishi Vaisampayana bole, “Jaise hi Yaksha ne vardaan diya, waise hi Pandav fir se jeevit ho gaye. Unki bhookh aur pyaas bhi turant door ho gayi.
+
+Yudhishthira ne hairaani se poocha, “Aap kaun hain? Aap koi aam Yaksha nahi lagte. Mere bhai ek lakh yoddhao ke barabar shaktishaali hain. Unhe haraana kisi saadharan jeev ke bas ki baat nahi.”
+
+Phir Yudhishthira ne dheere se kaha, “Kya aap hamare mitra hain… ya phir hamare pita?”
+
+Yeh sunkar Yaksha muskuraaya aur bola, “Hey putra, main tumhara pita hoon. Main Dharmraj hoon.”"""
             create_image_text_layout(
                 "attached_assets/chapter3/3.13.4.jpg",
                 text1,
@@ -39313,7 +39440,32 @@ Us din se Karna aur bhi zyada famous ho gaya. Log use mahaan daanveer ke roop me
                 image_position="left"
             )
 
-            text2 = """ """
+            text2 = """ 
+            Yudhishthira yeh sunkar bahut vinamra ho gaye.
+
+Dharmraj bole, “Main tumhari pariksha lena chahta tha. Tumne hamesha satya, daya aur dharma ka paalan kiya hai. Isi liye main tumse bahut prasann hoon. Maango, tum jo vardaan chaho.”
+
+Yudhishthira ne bina der kiye kaha, “Ek Brahman ki agni jalane wali lakdiyaan hiran le gaya tha. Kripya unki pooja rukni nahi chahiye.”
+
+Dharmraj bole, “Woh hiran main hi tha. Main tumhari pariksha ke liye lakdiyaan le gaya tha. Tumhara yeh vardaan poora hua.”
+
+Phir Dharmraj ne kaha, “Ab ek aur vardaan maango.”
+
+Yudhishthira bole, “Humne baarah saal vanvaas mein bita diye hain. Ab humein ek saal chupkar rehna hai. Kripya aisa ho ki koi humein pehchaan na sake.”
+
+Dharmraj bole, “Aisa hi hoga. Tum sab Virata rajya mein bina pehchaane rahoge. Zaroorat padne par tum apna roop bhi badal sakoge.”
+
+Phir Dharmraj ne kaha, “Ek aur vardaan maango, mere putra.”
+
+Yudhishthira ne haath jodkar kaha, “Mujhe hamesha lalach, gussa aur moorkhta se door rehne ki shakti mile. Mera mann sada satya, daan aur tapasya mein laga rahe.”
+
+Dharmraj khush hokar bole, “Tumhare andar yeh sab gun pehle se hi hain. Phir bhi meri kripa tumhare saath hamesha rahegi.”
+
+Itna kehkar Dharmraj antardhyaan ho gaye.
+
+Pandav kuch der aaram karne ke baad apne ashram laut aaye. Unhone Brahman ko uski lakdiyaan wapas de di.
+
+Rishi Vaisampayana bole, “Jo vyakti is kahani ko shraddha se sunta hai, uska mann shaant rehta hai aur woh hamesha dharma ke raaste par chalne ki prerna paata hai.”"""
             create_image_text_layout(
                 text_content=text2,
                 layout="full"
@@ -39323,7 +39475,12 @@ Us din se Karna aur bhi zyada famous ho gaya. Log use mahaan daanveer ke roop me
         # Section 3.13.5
         # --------------------------------------------------
         with st.expander("Section 3.13.5  Section CCCXIV"):
-            text1 = """ """
+            text1 = """ 
+            Rishi Vaisampayana bole, “Dharmraj ke jaane ke baad Pandavo ko yaad aaya ki ab unhe apna terahva saal chupkar bitaana hai. Agar Kaurav unhe pehchaan lete, toh unhe fir se vanvaas jhelna padta.
+
+Pandav sabhi rishiyon aur Brahmano ke saamne haath jodkar baithe. Yudhishthira ne vinamrata se kaha,
+
+“Aap sab jaante hain ki Duryodhana aur uske bhaiyon ne humse chal se rajya cheen liya. Humne baarah saal jungle mein bahut dukh jhela hai. Ab sirf ek saal bacha hai, jo humein bina pehchaane rehkar poora karna hai. Kripya humein aashirvaad dijiye.”"""
             create_image_text_layout(
                 "attached_assets/chapter3/3.13.5.jpg",
                 text1,
@@ -39331,9 +39488,806 @@ Us din se Karna aur bhi zyada famous ho gaya. Log use mahaan daanveer ke roop me
                 image_position="left"
             )
 
-            text2 = """ """
+            text2 = """ 
+            Yeh bolte-bolte Yudhishthira ki aankhon mein aansu aa gaye. Woh bahut dukhi ho gaye aur kuch der ke liye behosh jaise ho gaye.
+
+Sabhi Brahman aur unke bhai unhe sambhalne lage.
+
+Tab Rishi Dhaumya ne shaant swar mein kaha, “Hey Raja, himmat mat haaro. Bade-bade devtaon ne bhi kabhi-kabhi apne dushmano ko harane ke liye roop badla tha aur chupkar jeevan bitaya tha.”
+
+Unhone kai udaharan diye. “Indra ne bhi ek samay chhupkar jeevan bitaya tha. Bhagwan Vishnu ne bhi alag-alag roop lekar asuro ko haraya tha. Bade aur buddhimaan log kabhi zaroorat padne par disguise mein rehne se nahi darte.”
+
+Dhaumya ki baatein sunkar Yudhishthira ka mann shaant hua. Unhone fir se himmat paayi.
+
+Tab Bhima ne mazboot swar mein kaha, “Bhaiya, hum sab aapke saath hain. Arjuna, Nakula, Sahadeva aur main, hum sab aapka aadesh maanenge. Aap jo kahenge, hum wahi karenge. Ek din hum apne dushmano ko zaroor haraayenge.”
+
+Yeh sunkar sabhi Brahman khush hue aur Pandavo ko aashirvaad diya.
+
+Uske baad rishi aur tapasvi apne-apne ashram laut gaye. Pandav Draupadi aur Rishi Dhaumya ke saath aage badhe. Agle din woh ek shaant jagah par rukkar baith gaye aur sochne lage ki chupkar rehne ke liye kaunsa roop lena sahi hoga.
+
+Isi ke saath Van Parva ki kahani samaapt hui."""
             create_image_text_layout(
                 text_content=text2,
                 layout="full"
             )
 
+        # --------------------------------------------------
+        # Section 3.13.6
+        # --------------------------------------------------
+        with st.expander("Section 3.13.6  126 Questions"):
+            text1 = """ 
+            Yaksha Prashna – 126 Questions & Answers (Hinglish)
+Parichay
+
+Mahabharat ke Van Parva me ek bahut famous prasang aata hai jise “Yaksha Prashna” kaha jata hai. Jab Pandav van me the, tab ek jadui sarovar ke paas Yaksha ne Yudhishthira se kai gehre sawal puche. Yudhishthira ne dharm aur gyaan se bhare jawab diye.
+
+1.
+
+Prashna: Suraj ko kaun uthata hai?
+
+Uttar: Brahm ki shakti.
+
+2.
+
+Prashna: Suraj ke saath kaun chalta hai?
+
+Uttar: Devta.
+
+3.
+
+Prashna: Suraj ko kaun ast karta hai?
+
+Uttar: Dharma.
+
+4.
+
+Prashna: Suraj kis par tikka hai?
+
+Uttar: Satya par.
+
+5.
+
+Prashna: Manushya ko vidwan kya banata hai?
+
+Uttar: Shastra ka adhyayan.
+
+6.
+
+Prashna: Mahanta kaise milti hai?
+
+Uttar: Tapasya se."""
+            create_image_text_layout(
+                "attached_assets/chapter3/3.13.6.jpg",
+                text1,
+                layout="side",
+                image_position="left"
+            )
+
+            text2 = """ 
+            7.
+
+Prashna: Insaan ka saathi kaun hai?
+
+Uttar: Himmat.
+
+8.
+
+Prashna: Buddhi kaise milti hai?
+
+Uttar: Buzurgon ki seva se.
+
+9.
+
+Prashna: Brahman ka devtatva kya hai?
+
+Uttar: Veda ka gyaan.
+
+10.
+
+Prashna: Brahman ka dharm kya hai?
+
+Uttar: Tapasya.
+
+11.
+
+Prashna: Brahman ka manushyatva kya hai?
+
+Uttar: Mrityu.
+
+12.
+
+Prashna: Brahman ka adharm kya hai?
+
+Uttar: Dusron ki ninda.
+
+13.
+
+Prashna: Kshatriya ka devtatva kya hai?
+
+Uttar: Astra-shastra.
+
+14.
+
+Prashna: Kshatriya ka dharm kya hai?
+
+Uttar: Yagya aur raksha.
+
+15.
+
+Prashna: Kshatriya ka manushyatva kya hai?
+
+Uttar: Bhay.
+
+16.
+
+Prashna: Kshatriya ka adharm kya hai?
+
+Uttar: Sharan me aaye ko chhod dena.
+
+17.
+
+Prashna: Dharti se bhaari kya hai?
+
+Uttar: Maa.
+
+18.
+
+Prashna: Aakash se uncha kya hai?
+
+Uttar: Pita.
+
+19.
+
+Prashna: Hawa se tez kya hai?
+
+Uttar: Mann.
+
+20.
+
+Prashna: Ghaas se zyada kya hai?
+
+Uttar: Vichar.
+
+21.
+
+Prashna: Kaun sota hua bhi aankh nahi band karta?
+
+Uttar: Machhli.
+
+22.
+
+Prashna: Kaun janm lekar bhi hilta nahi?
+
+Uttar: Anda.
+
+23.
+
+Prashna: Kis ka hriday nahi hota?
+
+Uttar: Pathar.
+
+24.
+
+Prashna: Kaun tez badhta hai?
+
+Uttar: Nadi.
+
+25.
+
+Prashna: Yatri ka dost kaun hai?
+
+Uttar: Saathi.
+
+26.
+
+Prashna: Ghar wale ka dost kaun hai?
+
+Uttar: Patni.
+
+27.
+
+Prashna: Rogi ka dost kaun hai?
+
+Uttar: Vaidya.
+
+28.
+
+Prashna: Marte hue ka dost kaun hai?
+
+Uttar: Daan.
+
+29.
+
+Prashna: Sabse bada dhan kya hai?
+
+Uttar: Gyaan.
+
+30.
+
+Prashna: Sabse bada labh kya hai?
+
+Uttar: Swasthya.
+
+31.
+
+Prashna: Sabse bada sukh kya hai?
+
+Uttar: Santosh.
+
+32.
+
+Prashna: Sabse bada dharm kya hai?
+
+Uttar: Ahimsa.
+
+33.
+
+Prashna: Kis ko chhodne se insaan sabko priya lagta hai?
+
+Uttar: Ahankar.
+
+34.
+
+Prashna: Kis ko chhodne se dukh door hota hai?
+
+Uttar: Krodh.
+
+35.
+
+Prashna: Kis ko chhodne se ameer banta hai?
+
+Uttar: Ichchha.
+
+36.
+
+Prashna: Kis ko chhodne se sukh milta hai?
+
+Uttar: Lalach.
+
+37.
+
+Prashna: Tapasya kya hai?
+
+Uttar: Apne dharm me tikna.
+
+38.
+
+Prashna: Dama kya hai?
+
+Uttar: Mann ko control karna.
+
+39.
+
+Prashna: Kshama kya hai?
+
+Uttar: Dwand ko sahna.
+
+40.
+
+Prashna: Lajja kya hai?
+
+Uttar: Galat kaam se door rehna.
+
+41.
+
+Prashna: Gyaan kya hai?
+
+Uttar: Parmatma ko samajhna.
+
+42.
+
+Prashna: Shanti kya hai?
+
+Uttar: Mann ki sthirta.
+
+43.
+
+Prashna: Daya kya hai?
+
+Uttar: Sabka bhala chahna.
+
+44.
+
+Prashna: Saralta kya hai?
+
+Uttar: Mann ki safai.
+
+45.
+
+Prashna: Manushya ka sabse bada shatru kaun hai?
+
+Uttar: Krodh.
+
+46.
+
+Prashna: Kaunsi bimari ka ant nahi?
+
+Uttar: Lalach.
+
+47.
+
+Prashna: Sadhu kaun hai?
+
+Uttar: Jo sabka bhala kare.
+
+48.
+
+Prashna: Asadhu kaun hai?
+
+Uttar: Jo nirdayi ho.
+
+49.
+
+Prashna: Moh kya hai?
+
+Uttar: Dharm ki agyanta.
+
+50.
+
+Prashna: Ahankar kya hai?
+
+Uttar: Agyan.
+
+51.
+
+Prashna: Alasya kya hai?
+
+Uttar: Kartavya na karna.
+
+52.
+
+Prashna: Shok kya hai?
+
+Uttar: Agyan.
+
+53.
+
+Prashna: Dhairya kya hai?
+
+Uttar: Indriyon ko jeetna.
+
+54.
+
+Prashna: Snan kya hai?
+
+Uttar: Mann ki shuddhi.
+
+55.
+
+Prashna: Daan kya hai?
+
+Uttar: Sab praniyon ki raksha.
+
+56.
+
+Prashna: Pandit kaun hai?
+
+Uttar: Jo dharm ko samjhe.
+
+57.
+
+Prashna: Nastik kaun hai?
+
+Uttar: Murkh.
+
+58.
+
+Prashna: Murkh kaun hai?
+
+Uttar: Nastik.
+
+59.
+
+Prashna: Kaam kya hai?
+
+Uttar: Sansarik ichchha.
+
+60.
+
+Prashna: Matsar kya hai?
+
+Uttar: Dil ka jalan.
+
+61.
+
+Prashna: Swarg ka raasta kya hai?
+
+Uttar: Satya.
+
+62.
+
+Prashna: Sukh ka aadhar kya hai?
+
+Uttar: Achha charitra.
+
+63.
+
+Prashna: Manushya ki atma kaun hai?
+
+Uttar: Putra.
+
+64.
+
+Prashna: Bhagya se mila dost kaun hai?
+
+Uttar: Patni.
+
+65.
+
+Prashna: Sabse bada aashcharya kya hai?
+
+Uttar: Roz log marte hain, phir bhi insaan sochta hai ki wo amar hai.
+
+66.
+
+Prashna: Sahi raasta kya hai?
+
+Uttar: Mahapurushon ka raasta.
+
+67.
+
+Prashna: Samachar kya hai?
+
+Uttar: Samay sabko paka raha hai.
+
+68.
+
+Prashna: Kaun sach me jeevit hai?
+
+Uttar: Jiska achha naam hai.
+
+69.
+
+Prashna: Kaun sach me mara hua hai?
+
+Uttar: Jiska naam badnam ho.
+
+70.
+
+Prashna: Mitra kaise milta hai?
+
+Uttar: Vinamrata se.
+
+71.
+
+Prashna: Kaun dhanwan hai?
+
+Uttar: Jo santusht hai.
+
+72.
+
+Prashna: Kaun garib hai?
+
+Uttar: Jo lalchi hai.
+
+73.
+
+Prashna: Kaun andha hai?
+
+Uttar: Jo dharm nahi dekh pata.
+
+74.
+
+Prashna: Kaun behra hai?
+
+Uttar: Jo achhi baat nahi sunta.
+
+75.
+
+Prashna: Kaun gunga hai?
+
+Uttar: Jo satya nahi bolta.
+
+76.
+
+Prashna: Kaun buddhiman hai?
+
+Uttar: Jo sahi-galat samjhe.
+
+77.
+
+Prashna: Kis se brahman banta hai?
+
+Uttar: Aacharan se.
+
+78.
+
+Prashna: Janm se kya hota hai?
+
+Uttar: Sirf sharir.
+
+79.
+
+Prashna: Kaunse karm ka phal sabse bada hai?
+
+Uttar: Daan.
+
+80.
+
+Prashna: Kaunsa daan sabse bada hai?
+
+Uttar: Ann daan.
+
+81.
+
+Prashna: Kaunsa tapasya sabse badi hai?
+
+Uttar: Satya.
+
+82.
+
+Prashna: Kaunsa dharm sabse bada hai?
+
+Uttar: Daya.
+
+83.
+
+Prashna: Kaunsi cheez amrit jaisi hai?
+
+Uttar: Achhi vani.
+
+84.
+
+Prashna: Kaunsa sukh sabse uttam hai?
+
+Uttar: Antar ki shanti.
+
+85.
+
+Prashna: Kaunsa dukh sabse bada hai?
+
+Uttar: Rin.
+
+86.
+
+Prashna: Kaunsa shatru jeetna mushkil hai?
+
+Uttar: Mann.
+
+87.
+
+Prashna: Kaun kabhi santusht nahi hota?
+
+Uttar: Agni.
+
+88.
+
+Prashna: Kaun sabko kha jata hai?
+
+Uttar: Samay.
+
+89.
+
+Prashna: Kaun akela ghoomta hai?
+
+Uttar: Suraj.
+
+90.
+
+Prashna: Kaun baar-baar janm leta hai?
+
+Uttar: Chandrama.
+
+91.
+
+Prashna: Thand ki dawa kya hai?
+
+Uttar: Agni.
+
+92.
+
+Prashna: Sabse bada khet kya hai?
+
+Uttar: Dharti.
+
+93.
+
+Prashna: Dharm ka rakshak kaun hai?
+
+Uttar: Satya.
+
+94.
+
+Prashna: Yash ka rakshak kaun hai?
+
+Uttar: Daan.
+
+95.
+
+Prashna: Swarg ka rakshak kaun hai?
+
+Uttar: Satya.
+
+96.
+
+Prashna: Sukh ka rakshak kaun hai?
+
+Uttar: Achha vyavahar.
+
+97.
+
+Prashna: Kis se dosti toot jati hai?
+
+Uttar: Lalach.
+
+98.
+
+Prashna: Kis se manushya mahan banta hai?
+
+Uttar: Achhe karm.
+
+99.
+
+Prashna: Kis se paap hota hai?
+
+Uttar: Krodh aur lalach.
+
+100.
+
+Prashna: Kis se mukti milti hai?
+
+Uttar: Gyaan.
+
+101.
+
+Prashna: Sansar me sabse tez kya hai?
+
+Uttar: Mann.
+
+102.
+
+Prashna: Kaun sa dharm sada rehta hai?
+
+Uttar: Satya.
+
+103.
+
+Prashna: Kaun sa mitra kabhi nahi chhodta?
+
+Uttar: Dharma.
+
+104.
+
+Prashna: Kaun sa dhan kabhi chori nahi hota?
+
+Uttar: Vidya.
+
+105.
+
+Prashna: Kaun sa sukh kabhi kam nahi hota?
+
+Uttar: Santosh.
+
+106.
+
+Prashna: Kis se sab prani jeete hain?
+
+Uttar: Ann.
+
+107.
+
+Prashna: Kis se duniya dhaki hui hai?
+
+Uttar: Agyan.
+
+108.
+
+Prashna: Kyon log sach nahi dekh pate?
+
+Uttar: Moh ki wajah se.
+
+109.
+
+Prashna: Insaan swarg kyon nahi pahunch pata?
+
+Uttar: Asakti ki wajah se.
+
+110.
+
+Prashna: Mitra ko kaise bachaya jata hai?
+
+Uttar: Vishwas se.
+
+111.
+
+Prashna: Kaun akela khush rehta hai?
+
+Uttar: Santusht vyakti.
+
+112.
+
+Prashna: Kaun har jagah samman paata hai?
+
+Uttar: Vidwan.
+
+113.
+
+Prashna: Kaun dukhi rehta hai?
+
+Uttar: Lalchi.
+
+114.
+
+Prashna: Kaun sachcha brahman hai?
+
+Uttar: Jiska acharan pavitra ho.
+
+115.
+
+Prashna: Kaunse vyakti ko tyag dena chahiye?
+
+Uttar: Adharmi ko.
+
+116.
+
+Prashna: Kaunse vyakti ki seva karni chahiye?
+
+Uttar: Gyani ki.
+
+117.
+
+Prashna: Kaunsa kaam karne se pachtana nahi padta?
+
+Uttar: Achhe karm.
+
+118.
+
+Prashna: Kaun sa vyakti sukh se sota hai?
+
+Uttar: Jis par rin na ho.
+
+119.
+
+Prashna: Kaun azaad hai?
+
+Uttar: Jo ichchhao se mukt hai.
+
+120.
+
+Prashna: Kaun bandhan me hai?
+
+Uttar: Jo moh me fasa hai.
+
+121.
+
+Prashna: Kaun pavitra hai?
+
+Uttar: Jiska mann pavitra hai.
+
+122.
+
+Prashna: Kaun ashuddh hai?
+
+Uttar: Jiska mann dusht hai.
+
+123.
+
+Prashna: Kaun sachcha veer hai?
+
+Uttar: Jo apne mann ko jeet le.
+
+124.
+
+Prashna: Kaun sachcha gyani hai?
+
+Uttar: Jo dharm samjhe.
+
+125.
+
+Prashna: Jeevan ka saar kya hai?
+
+Uttar: Dharma aur satya.
+
+126.
+
+Prashna: Sabse bada kartavya kya hai?
+
+Uttar: Dharma ka palan.
+
+Antim Ghatna
+
+Yudhishthira ke sabhi jawab sunkar Yaksha bahut prasann hua. Fir usne apna asli roop dikhaya — wo Dharmaraj the, jo Yudhishthira ke pita the. Unhone Pandavo ko jeevit kar diya aur ashirwad diya."""
+            create_image_text_layout(
+                text_content=text2,
+                layout="full"
+            )
