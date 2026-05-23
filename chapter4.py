@@ -963,7 +963,14 @@ Lekin Pandav dhairya aur shaanti ke saath apna gupt jeevan bitaate rahe."""
 
         # Section 4.3.1
         with st.expander("Section 4.3.1  Section XIV"):
-            text1 = """ """
+            text1 = """ 
+            Rishi Vaisampayana bole, “Pandav Virata nagari mein gupt roop se rehte hue das mahine bita chuke the.”
+
+“Draupadi, jo swayam raniyon ki tarah seva paane yogya thi, ab Rani Sudeshna ki seva mein bahut dukh ke saath jee rahi thi.”
+
+“Fir ek din Virata sena ka senapati Keechak ne Draupadi ko dekha.”
+
+Keechak bahut balwaan tha aur Raja Virata ka priya bhi tha."""
             create_image_text_layout(
                 "attached_assets/chapter4/4.3.1.jpg",
                 text1,
@@ -971,7 +978,88 @@ Lekin Pandav dhairya aur shaanti ke saath apna gupt jeevan bitaate rahe."""
                 image_position="left"
             )
 
-            text2 = """ """
+            text2 = """ 
+            Jab usne Draupadi ko dekha, toh woh uski sundarta par mohit ho gaya.
+
+Uska mann kaam vasna se bhar gaya.
+
+Woh apni behen Sudeshna ke paas gaya aur bola,
+
+“Yeh sundar stree kaun hai? Maine ise pehle kabhi nahi dekha.”
+
+“Iski sundarta kisi devi jaisi hai.”
+
+“Isne toh mera mann hi chura liya hai.”
+
+“Yeh tumhari daasi banne layak nahi. Isse mere mahal ki rani banna chahiye.”
+
+“Main apna dhan, mahal aur sab kuch iske charanon mein rakh dunga.”
+
+Itna kehkar Keechak Draupadi ke paas gaya.
+
+Woh madhur shabdon mein bola,
+
+“Hey sundari, tum kaun ho?”
+
+“Tumhara chehra poornima ke chand jaisa chamak raha hai.”
+
+“Tumhari aankhen kamal ki pankhudiyon jaise sundar hain.”
+
+“Tumhari awaaz koel ki tarah madhur hai.”
+
+“Tumhari sundarta dekhkar koi bhi tum par mohit ho jaaye.”
+
+Keechak aur bhi adhik vasna bhari baatein karne laga.
+
+Woh bola,
+
+“Tum mere saath mahal mein raho.”
+
+“Main apni sab patniyon ko tumhari daasi bana dunga.”
+
+“Main khud bhi tumhara sevak ban jaaunga.”
+
+“Tumhe duniya ke sab sukh aur aaraam dunga.”
+
+Draupadi ne uski baatein sunkar shaant lekin kathor swar mein kaha,
+
+“Hey Soot putra, tum galat raah par chal rahe ho.”
+
+“Main ek vivaahit stree hoon.”
+
+“Achhe log sirf apni patni se hi prem karte hain.”
+
+“Parayi stree par buri nazar daalna paap hai.”
+
+“Kaam vasna mein andha vyakti badnaami aur vinaash paata hai.”
+
+Lekin Keechak par uski baaton ka koi asar nahi hua.
+
+Woh aur bhi adhik ahankaar se bola,
+
+“Is poore rajya ka asli swaami main hoon.”
+
+“Mere samaan balwaan aur sundar koi nahi.”
+
+“Tum mere saath rehkar sab sukh pa sakti ho.”
+
+Draupadi ne gusse aur himmat se jawab diya,
+
+“Apni maut ko mat bulao, Keechak!”
+
+“Mere paanch Gandharva pati meri raksha karte hain.”
+
+“Agar tumne mujhe paane ki koshish ki, toh woh tumhe maar daalenge.”
+
+“Chahe tum dharti ke andar chhuup jaao, aasman mein udd jaao ya samundar paar chale jaao, fir bhi tum bach nahi paoge.”
+
+“Tum ek moorkh bachche ki tarah ho jo chand ko pakadne ki koshish kar raha hai.”
+
+“Abhi bhi samay hai, apne aapko vinaash se bacha lo.”
+
+Rishi Vaisampayana bole, “Lekin kaam aur ahankaar mein andha hua Keechak Draupadi ki baat samajh nahi paaya.”
+
+“Uska mann aur bhi adhik paap ki taraf badhne laga.”"""
             create_image_text_layout(
                 text_content=text2,
                 layout="full"
@@ -980,7 +1068,18 @@ Lekin Pandav dhairya aur shaanti ke saath apna gupt jeevan bitaate rahe."""
 
         # Section 4.3.2
         with st.expander("Section 4.3.2  Section XV"):
-            text1 = """ """
+            text1 = """ 
+            Rishi Vaisampayana bole, “Draupadi ke mana karne par bhi Keechak ki buri ichchha kam nahi hui.”
+
+Woh bechain hokar apni behen Sudeshna ke paas gaya aur bola,
+
+“Hey behen, kisi tarah apni Sairindhri ko mere paas bhejo.”
+
+“Main uski sundarta ke moh mein jal raha hoon.”
+
+Rani Sudeshna ne Keechak ki baatein suni.
+
+Woh samajh gayi ki Draupadi iss baat se bahut pareshan hogi, lekin apne bhai ke liye uske mann mein daya bhi aa gayi."""
             create_image_text_layout(
                 "attached_assets/chapter4/4.3.2.jpg",
                 text1,
@@ -988,7 +1087,66 @@ Lekin Pandav dhairya aur shaanti ke saath apna gupt jeevan bitaate rahe."""
                 image_position="left"
             )
 
-            text2 = """ """
+            text2 = """ 
+            Thodi der sochne ke baad Sudeshna boli,
+
+“Kisi utsav ke bahaane tum apne mahal mein khaane aur madira ki vyavastha karo.”
+
+“Fir main Sairindhri ko madira lene ke bahaane tumhare paas bhej dungi.”
+
+“Us samay tum usse akele mein manaane ki koshish kar lena.”
+
+Keechak yeh sunkar bahut khush ho gaya.
+
+Usne turant apne mahal mein swadisht bhojan aur madira taiyaar karwaayi.
+
+Fir ek din Sudeshna ne Draupadi se kaha,
+
+“Sairindhri, mujhe pyaas lagi hai. Tum Keechak ke mahal jaakar mere liye madira le aao.”
+
+Draupadi yeh sunkar ghabra gayi.
+
+Woh vinamrata se boli,
+
+“Hey Rani, main Keechak ke mahal nahi jaana chahti.”
+
+“Aap jaanti hain ki woh kitna besharam aur dusht hai.”
+
+“Woh mujhe dekhkar zaroor mera apmaan karega.”
+
+“Maine pehle hi kaha tha ki main apne patiyon ke prati wafadaar rahungi.”
+
+“Kripya kisi aur daasi ko bhej dijiye.”
+
+Lekin Sudeshna boli,
+
+“Tum meri taraf se jaa rahi ho. Woh tumhe haani nahi pahunchayega.”
+
+Fir usne Draupadi ko ek sone ka bartan diya aur Keechak ke mahal bhej diya.
+
+Draupadi bahut chintit thi.
+
+Unki aankhon mein aansu aa gaye.
+
+Raaste mein unhone mann hi mann prarthana ki,
+
+“Main apne pati ke alawa kisi aur ko kabhi mann se nahi jaanti.”
+
+“Is satya ki shakti se Keechak mera kuch bhi na bigaad sake.”
+
+Rishi Vaisampayana bole, “Draupadi ne Surya Dev ka bhi smaran kiya.”
+
+Surya Dev ne unki pavitrata aur dukh ko samjha.
+
+Unhone ek adrishya Rakshas ko aadesh diya ki woh Draupadi ki raksha kare.
+
+Us din se woh adrishya rakshak hamesha Draupadi ke saath rehne laga.
+
+Udhar Keechak Draupadi ka intezaar kar raha tha.
+
+Jab usne Draupadi ko apne mahal mein aate dekha, toh woh bahut khush hua.
+
+Uske mann mein paap aur vasna aur bhi badh gayi."""
             create_image_text_layout(
                 text_content=text2,
                 layout="full"
@@ -996,7 +1154,18 @@ Lekin Pandav dhairya aur shaanti ke saath apna gupt jeevan bitaate rahe."""
             
                 # Section 4.3.3
         with st.expander("Section 4.3.3  Section XVI"):
-            text1 = """ """
+            text1 = """ 
+            Rishi Vaisampayana bole, “Draupadi ke mana karne ke baad bhi Keechak ki buri ichchha aur badh gayi.”
+
+Jab Draupadi uske mahal mein pahunchi, tab Keechak muskuraakar bola,
+
+“Hey sundari, tumhara swaagat hai.”
+
+“Aaj ka din mere liye bahut shubh hai, kyunki tum mere ghar aayi ho.”
+
+“Tum mere saath yahan sukh se raho.”
+
+“Main tumhe sone ke gehne, sundar vastra aur anek ratna dunga.”"""
             create_image_text_layout(
                 "attached_assets/chapter4/4.3.3.jpg",
                 text1,
@@ -1004,7 +1173,120 @@ Lekin Pandav dhairya aur shaanti ke saath apna gupt jeevan bitaate rahe."""
                 image_position="left"
             )
 
-            text2 = """ """
+            text2 = """ 
+            “Yeh sundar shayya tumhare liye taiyaar hai. Aao, mere saath baithkar madira piyo.”
+
+Draupadi ne shaant swar mein jawab diya,
+
+“Main yahan sirf Rani Sudeshna ke liye madira lene aayi hoon.”
+
+“Kripya jaldi se madira de dijiye.”
+
+Lekin Keechak bola,
+
+“Rani ke liye koi aur madira le jaayega.”
+
+Itna kehkar usne Draupadi ka haath pakad liya.
+
+Draupadi gusse aur apmaan se kaamp uthi.
+
+Woh boli,
+
+“Hey dusht! Maine kabhi mann se bhi apne patiyon ke prati bewafai nahi ki.”
+
+“Is satya ki shakti se tum jaldi hi zameen par giraaye jaaoge.”
+
+Rishi Vaisampayana bole, “Jab Draupadi bhaagne lagi, tab Keechak ne unke vastra pakad liye.”
+
+Draupadi ne krodh mein use zor se dhakka diya.
+
+Keechak ek kate hue ped ki tarah zameen par gir gaya.
+
+Draupadi turant bhaagkar rajsabha ki taraf gayi, jahan Yudhishthira aur Bhima baithe the.
+
+Lekin Keechak bhi unke peeche dauda.
+
+Sabke saamne usne Draupadi ke baal pakadkar unhe gira diya aur laat maari.
+
+Yeh dekhkar Surya Dev dwara bheja gaya adrishya Rakshas turant krodhit ho gaya.
+
+Usne zor se Keechak ko dhakka diya.
+
+Keechak hilkar zameen par gir pada aur kuch der ke liye behosh ho gaya.
+
+Yeh sab dekhkar Bhima ka krodh bhadak utha.
+
+Unki aankhen gusse se laal ho gayin.
+
+Woh turant Keechak ko maar dena chahte the.
+
+Lekin Yudhishthira ko darr tha ki kahin unki pehchaan khul na jaaye.
+
+Isliye unhone chupke se Bhima ko shaant rehne ka sanket diya.
+
+Woh bole,
+
+“Hey rasoiye, agar tumhe lakdi chahiye toh baahar jaakar ped kaat lao.”
+
+Bhima samajh gaye ki bade bhai abhi unhe rukne ko keh rahe hain.
+
+Udhar Draupadi aansuon ke saath Raja Virata ki sabha mein boli,
+
+“Haaye! Aaj ek Soot putra ne mahaan veeron ki patni ka sabke saamne apmaan kiya hai.”
+
+“Woh veer jo duniya ko hila sakte hain, aaj chup baithe hain.”
+
+“Hey Raja Virata, aapke saamne mujhe laat maari gayi aur aap chup rahe.”
+
+“Yeh kisi sachche raja ka vyavahaar nahi hai.”
+
+“Yahaan ke sab log bhi chupchaap yeh anyaay dekh rahe hain.”
+
+Sabha ke log Draupadi ki baatein sunkar Keechak ko dosh dene lage.
+
+Woh bole,
+
+“Yeh stree kisi devi jaisi lagti hai.”
+
+“Jiske paas aisi patni ho, use aur kisi sukh ki kya zarurat?”
+
+Yudhishthira bhi andar hi andar bahut krodhit the, lekin apna roop chhupaaye rakha.
+
+Unhone Draupadi se shaant swar mein kaha,
+
+“Hey Sairindhri, ab tum Sudeshna ke mahal laut jaao.”
+
+“Veeron ki patniyan apne pati ke liye dukh sahti hain.”
+
+“Tumhare Gandharva pati samay aane par tumhara apmaan karne waale ko dand denge.”
+
+Draupadi samajh gayi ki Yudhishthira abhi dhairya rakhne ko keh rahe hain.
+
+Woh boli,
+
+“Mere pati bahut dayaalu hain.”
+
+“Lekin kyunki unmein sabse bade paase ke khel mein lage rehte hain, isliye sab log unhe sataate hain.”
+
+Itna kehkar Draupadi rote hue Sudeshna ke mahal laut gayi.
+
+Sudeshna ne unhe us haal mein dekhkar poocha,
+
+“Hey sundari, tumhare saath yeh anyaay kisne kiya?”
+
+Draupadi boli,
+
+“Jab main aapke liye madira lene gayi, tab Keechak ne sabke saamne mera apmaan kiya.”
+
+Yeh sunkar Sudeshna boli,
+
+“Agar tum chaho toh main Keechak ko marwa sakti hoon.”
+
+Draupadi ne gehri awaaz mein jawab diya,
+
+“Uski maut ab nishchit hai.”
+
+“Jin logon ka usne apmaan kiya hai, wahi aaj usse Yamraj ke paas bhejenge.”"""
             create_image_text_layout(
                 text_content=text2,
                 layout="full"
@@ -1013,7 +1295,22 @@ Lekin Pandav dhairya aur shaanti ke saath apna gupt jeevan bitaate rahe."""
 
         # Section 4.3.4
         with st.expander("Section 4.3.4  Section XVII"):
-            text1 = """ """
+            text1 = """ 
+            Rishi Vaisampayana bole, “Keechak ke apmaan se Draupadi ka hriday dukh aur krodh se bhar gaya tha.”
+
+Woh apne kaksh mein gayi, snaan kiya aur aansuon ke saath sochne lagi,
+
+“Main kya karun? Kis se madad maangu?”
+
+Fir unhe Bhima ki yaad aayi.
+
+Draupadi ne mann hi mann kaha,
+
+“Is samay sirf Bhima hi meri raksha kar sakte hain.”
+
+Raat hone par Draupadi chupke se Bhima ke paas gayi.
+
+Bhima rasoi ke paas so rahe the."""
             create_image_text_layout(
                 "attached_assets/chapter4/4.3.4.jpg",
                 text1,
@@ -1021,7 +1318,91 @@ Lekin Pandav dhairya aur shaanti ke saath apna gupt jeevan bitaate rahe."""
                 image_position="left"
             )
 
-            text2 = """ """
+            text2 = """ 
+            Unki saans sher ki garaj jaise lag rahi thi.
+
+Draupadi unke paas jaakar dukhi swar mein boli,
+
+“Hey Bhimasena, aap kaise chain se so sakte hain jab woh dusht Keechak abhi bhi zinda hai?”
+
+Rishi Vaisampayana bole, “Draupadi ne Bhima ko hilaakar jagaya.”
+
+Bhima uthkar baith gaye.
+
+Unhone Draupadi ka udaas aur peela chehra dekha toh bahut chintit hue.
+
+Bhima prem aur chinta se bole,
+
+“Hey Krishnaa, tum itni raat ko yahaan kyun aayi ho?”
+
+“Tum bahut dukhi aur kamzor lag rahi ho.”
+
+“Jo bhi baat hai, mujhe sach-sach batao.”
+
+“Chahe baat sukh ki ho ya dukh ki, main tumhari madad zaroor karunga.”
+
+“Tum jaanti ho ki har sankat mein main hi tumhari raksha karta aaya hoon.”
+
+“Jaldi batao tumhare mann mein kya hai.”
+
+“Lekin dhyaan rahe, subah hone se pehle tumhe wapas jaana hoga, taaki kisi ko hamare baare mein pata na chale.”
+
+Draupadi ki aankhon mein aansu bhar aaye.
+
+Ab unka mann Bhima ko apna saara dukh bataane ke liye taiyaar ho chuka tha.
+Draupadi aansuon bhari aankhon se Bhima se boli,
+
+“Hey Bhimasena, jis stree ke pati Yudhishthira jaise ho, uske jeevan mein dukh ki kami kaise ho sakti hai?”
+
+“Aap sab kuch jaante hue bhi mujhse kyun pooch rahe hain?”
+
+“Sabha mein mujhe daasi kehkar ghaseeta gaya.”
+
+“Jungle mein Jayadrath ne mera apaharan karne ki koshish ki.”
+
+“Aur ab Keechak ne sabke saamne mujhe laat maari.”
+
+“Kaunsi aur rajkumari itna apmaan sahkar bhi jee sakti hai?”
+
+Draupadi ka swar dard se bhar gaya.
+
+Woh boli,
+
+“Yeh sab us paase ke khel ki wajah se hua.”
+
+“Kaunsa buddhimaan raja apna rajya, dhan aur apni patni tak ko daav par laga deta hai?”
+
+“Yudhishthira ke paas itna dhan tha ki agar woh saalon tak bhi paase khelte, tab bhi unka khazaana khatam nahi hota.”
+
+“Lekin aaj wahi mahaan raja doosron ke darbaar mein baithkar paase phenkte hain.”
+
+Draupadi ne dukhi mann se kaha,
+
+“Indraprastha mein hazaaron raja unka samman karte the.”
+
+“Unke mahal mein har din anek mehmaan aur Brahman bhojan paate the.”
+
+“Hazaaron gaayak aur kavi unki prashansa karte the.”
+
+“Woh gareebon, andhon, budhon aur dukhi logon ki raksha karte the.”
+
+“Lekin aaj wahi Dharmraj Virata ke darbaar mein Kanka bankar baithe hain.”
+
+“Jo raja kabhi sabko aadesh dete the, aaj doosron ki seva kar rahe hain.”
+
+Draupadi ki aankhon se aansu behne lage.
+
+Woh boli,
+
+“Hey Bhima, jab main Yudhishthira ko kisi aur raja ki prashansa karte dekhti hoon, mera hriday toot jaata hai.”
+
+“Jo poori dharti ke raja the, aaj doosron par nirbhar hokar jee rahe hain.”
+
+“Fir aap kaise keh sakte hain ki main dukhi nahi hoon?”
+
+Draupadi ka dard aur apmaan unki har baat mein saaf dikh raha tha.
+
+Woh ab Bhima ke saamne apna saara dukh kholkar rakh chuki thi. """
             create_image_text_layout(
                 text_content=text2,
                 layout="full"
@@ -1030,7 +1411,18 @@ Lekin Pandav dhairya aur shaanti ke saath apna gupt jeevan bitaate rahe."""
 
         # Section 4.3.5
         with st.expander("Section 4.3.5  Section XVIII"):
-            text1 = """ """
+            text1 = """ 
+            Draupadi aansuon bhari aankhon se Bhima se boli,
+
+“Hey Bhimasena, ek aur bada dukh hai jo mere hriday ko tod deta hai.”
+
+“Jab main aapko Virata ke rasoiye ke roop mein dekhti hoon, mera mann dukh se bhar jaata hai.”
+
+“Log aapko Vallava naam ka ek saadhaaran rasoiya samajhte hain.”
+
+“Yeh dekhkar mera hriday toot jaata hai, kyunki aap jaise mahaan veer is kaam ke liye nahi bane.”
+
+“Jab aap rasoi ka kaam khatam karke vinamrata se Raja Virata ke paas baithte hain, tab mera dukh aur badh jaata hai.”"""
             create_image_text_layout(
                 "attached_assets/chapter4/4.3.5.jpg",
                 text1,
@@ -1038,7 +1430,68 @@ Lekin Pandav dhairya aur shaanti ke saath apna gupt jeevan bitaate rahe."""
                 image_position="left"
             )
 
-            text2 = """ """
+            text2 = """ 
+            “Raja manoranjan ke liye aapko haathiyon aur jangli jaanwaron se ladaata hai.”
+
+“Mahal ki streeon ko yeh sab dekhkar hansi aati hai.”
+
+“Lekin mera mann darr aur dukh se bhar uthta hai.”
+
+Draupadi boli,
+
+“Rani Sudeshna aur uski saheliyan mujhe dekhkar kehti hain ki main aapki chinta kisi priya vyakti ki tarah karti hoon.”
+
+“Woh mazaak udaati hain aur mujhe sharminda karti hain.”
+
+“Yeh sab sunkar mera dukh aur badh jaata hai.”
+
+Fir Draupadi ne Arjuna ko yaad karke gehri saans li.
+
+Woh boli,
+
+“Jo Arjuna ek samay devtaon ko bhi hara chuke hain, aaj wahi Brihannala bankar mahal ki ladkiyon ko nritya aur sangeet sikha rahe hain.”
+
+“Jinke dhanush ki awaaz se dushman kaamp uthte the, aaj wahi streeon ke beech gaane gaa rahe hain.”
+
+“Unke baalon mein chotiyaan aur haathon mein shankh ke kangan dekhkar mera hriday dukhi ho uthta hai.”
+
+“Jo duniya ke sabse mahaan dhanurdhar the, aaj stree ka roop dhaaran karke jee rahe hain.”
+
+“Unhe iss haal mein dekhkar meri aankhon mein aansu aa jaate hain.”
+
+Draupadi ka swar aur bhaari ho gaya.
+
+Woh boli,
+
+“Fir main Sahadeva ko dekhti hoon.”
+
+“Woh mahaan aur vinamr yoddha aaj gaayon ki dekhbhaal kar rahe hain.”
+
+“Unhe raat ko bachhdo ki khal par sota dekhkar mujhe neend nahi aati.”
+
+“Mata Kunti ne jungle jaate waqt mujhe kaha tha — ‘Sahadeva bahut komal aur sharmeele hain. Unka dhyaan rakhna.’”
+
+“Yeh sab yaad karke mera mann toot jaata hai.”
+
+Fir Draupadi ne Nakula ko yaad kiya.
+
+Woh boli,
+
+“Jo Nakula apni sundarta, buddhi aur veerta ke liye prasiddh the, aaj Raja Virata ke ghodon ko train kar rahe hain.”
+
+“Jo veer yuddh mein shatru sena ko dara dete the, aaj ghodon ko daudakar raja ko khush karte hain.”
+
+“Samay ne hum sabko kitna badal diya hai.”
+
+Draupadi ne Bhima ki taraf dekhkar kaha,
+
+“Hey Bhima, Yudhishthira ke dukh, Arjuna ka roop, Sahadeva ki peeda aur Nakula ki haalat dekhkar mera hriday roz toot jaata hai.”
+
+“Fir bhi aap kaise soch sakte hain ki main sukhi hoon?”
+
+“Jab aap sab jeevit hote hue bhi itne dukh sah rahe hain, tab mera jeevan bhi dukh se bhar gaya hai.”
+
+Draupadi ki har baat mein gehra prem, dard aur apmaan chhupa hua tha."""
             create_image_text_layout(
                 text_content=text2,
                 layout="full"
@@ -1047,7 +1500,16 @@ Lekin Pandav dhairya aur shaanti ke saath apna gupt jeevan bitaate rahe."""
 
         # Section 4.3.6
         with st.expander("Section 4.3.6  Section XIX"):
-            text1 = """ """
+            text1 = """ 
+            Draupadi aansuon ke saath Bhima se boli,
+
+“Hey Bhimasena, us paase ke khel ki wajah se aaj main Rani Sudeshna ki daasi bankar jee rahi hoon.”
+
+“Main ek rajkumari hokar bhi Sairindhri ke roop mein doosron ki seva kar rahi hoon.”
+
+“Bas isi aasha mein jee rahi hoon ki ek din hamara dukh samaapt hoga aur Pandav fir se apna rajya paayenge.”
+
+Draupadi ne dukhi swar mein kaha,"""
             create_image_text_layout(
                 "attached_assets/chapter4/4.3.6.jpg",
                 text1,
@@ -1055,7 +1517,70 @@ Lekin Pandav dhairya aur shaanti ke saath apna gupt jeevan bitaate rahe."""
                 image_position="left"
             )
 
-            text2 = """ """
+            text2 = """ 
+            “Duniya mein sukh aur dukh chakr ki tarah ghoomte rehte hain.”
+
+“Aaj dukh hai, toh kal sukh bhi aa sakta hai.”
+
+“Isi umeed par main ab tak jee rahi hoon.”
+
+“Bhagya bahut balwaan hota hai.”
+
+“Jo daan deta hai, kabhi-kabhi wahi maangne par majboor ho jaata hai.”
+
+“Jo doosron ko haraata hai, kabhi khud bhi haar jaata hai.”
+
+“Koi bhi apni kismat ko poori tarah nahi badal sakta.”
+
+Fir Draupadi ne gehri saans lekar kaha,
+
+“Main Drupad ki putri aur Pandavo ki patni hoon.”
+
+“Fir bhi aaj itna apmaan aur dukh sah rahi hoon.”
+
+“Mere paas pati, putra aur apne log sab hote hue bhi main akeli aur dukhi hoon.”
+
+“Shayad maine pichhle janm mein koi bada paap kiya hoga, isi liye mujhe yeh sab dekhna pad raha hai.”
+
+Draupadi ne Bhima ko apne haath dikhaye.
+
+Unke komal haathon par ghisav aur kathorpan aa gaya tha.
+
+Woh boli,
+
+“Hey Bhima, pehle maine kabhi apne liye bhi chandan nahi peesa tha.”
+
+“Lekin aaj main doosron ke liye chandan pees rahi hoon.”
+
+“Dekhiye, mere haath kitne kathor ho gaye hain.”
+
+“Jo stree kabhi kisi se nahi darti thi, aaj woh Raja Virata aur Sudeshna se bhay mein rehti hai.”
+
+“Main hamesha darrti rehti hoon ki kahin mujhse koi galti na ho jaaye.”
+
+Draupadi rote hue boli,
+
+“Jo kabhi poori dharti ki rani thi, aaj doosron ke peeche chalne ko majboor hai.”
+
+“Samay ne hamare jeevan ko kitna badal diya hai.”
+
+Rishi Vaisampayana bole, “Apne dukh bataate-bataate Draupadi chupchaap rone lagi.”
+
+Unki awaaz aansuon se bhar gayi.
+
+Woh boli,
+
+“Hey Bhima, shayad devta bhi mujhse naraaz hain.”
+
+“Itna sab sahne ke baad bhi main abhi tak jeevit hoon.”
+
+Yeh sunkar Bhima ka hriday dukh aur krodh se bhar gaya.
+
+Unhone Draupadi ke kathor ho chuke haathon ko apne haathon mein liya.
+
+Bhima ki aankhon se bhi aansu behne lage.
+
+Woh apni priya patni ka dukh aur apmaan ab aur zyada bardasht nahi kar paa rahe the."""
             create_image_text_layout(
                 text_content=text2,
                 layout="full"
@@ -1064,7 +1589,18 @@ Lekin Pandav dhairya aur shaanti ke saath apna gupt jeevan bitaate rahe."""
 
         # Section 4.3.7
         with st.expander("Section 4.3.7  Section XX"):
-            text1 = """ """
+            text1 = """ 
+            Bhima ka hriday Draupadi ka dukh sunkar krodh se bhar gaya.
+
+Woh bole,
+
+“Dhikkaar hai meri baahuon ki shakti par!”
+
+“Dhikkaar hai Arjuna ke Gandiva dhanush par!”
+
+“Tumhare komal haath jo pehle laal aur sundar the, aaj un par kathor ghatte pad gaye hain.”
+
+“Jab Keechak ne sabha mein tumhe laat maari, tab mera mann hua tha ki main poori Matsya sena ka vinaash kar doon.”"""
             create_image_text_layout(
                 "attached_assets/chapter4/4.3.7.jpg",
                 text1,
@@ -1072,7 +1608,92 @@ Lekin Pandav dhairya aur shaanti ke saath apna gupt jeevan bitaate rahe."""
                 image_position="left"
             )
 
-            text2 = """ """
+            text2 = """ 
+            “Lekin Yudhishthira bhaiya ne aankhon hi aankhon mein mujhe rok diya.”
+
+“Isi liye main shaant raha.”
+
+Bhima gusse se bole,
+
+“Rajya khona, Duryodhana aur Dushasan ko abhi tak zinda dekhna, aur Shakuni jaise dushton ko na maar paana — yeh sab mere hriday ko roz jalaata hai.”
+
+“Yeh dard mere andar teer ki tarah chubhta rehta hai.”
+
+Fir Bhima ne Draupadi ko shaant karte hue kaha,
+
+“Hey Krishnaa, itna krodh mat karo.”
+
+“Agar Yudhishthira tumhari yeh kathin baatein sun lenge, toh unka hriday toot jaayega.”
+
+“Aur agar Arjuna, Nakula ya Sahadeva bhi yeh sun lenge, toh woh bhi jeena nahi chahenge.”
+
+“Tum thoda aur dhairya rakho.”
+
+Bhima ne Draupadi ko purani mahan streeon ki yaad dilaayi.
+
+Woh bole,
+
+“Sukanya ne budhe Rishi Chyavan ka saath nahi chhoda.”
+
+“Savitri ne apne pati Satyavan ko bachane ke liye Yamraj tak ka saamna kiya.”
+
+“Sita Mata ne Bhagwan Ram ke saath vanvaas saha.”
+
+“Waise hi tum bhi dhairya aur pavitrata ki moorti ho.”
+
+“Bas thoda samay aur sah lo.”
+
+“Jab yeh agyaatvaas samaapt hoga, tab tum fir se rani banogi.”
+
+Draupadi ne aansu pochhte hue kaha,
+
+“Hey Bhima, main Yudhishthira ko dosh nahi deti.”
+
+“Lekin Keechak har din mujhe pareshan karta hai.”
+
+“Main use baar-baar kehti hoon ki mere paanch Gandharva pati hain jo use maar daalenge.”
+
+“Lekin woh hamesha hanskar kehta hai ki use Gandharvon se koi darr nahi.”
+
+“Woh kehta hai ki woh hazaaron Gandharvon ko bhi maar sakta hai.”
+
+Draupadi boli,
+
+“Jab Rani Sudeshna ne mujhe uske mahal bheja, tab usne pehle meethi baatein ki.”
+
+“Fir jab maine mana kiya, toh usne zabardasti karni chahi.”
+
+“Main darrkar rajsabha ki taraf bhaagi.”
+
+“Lekin usne sabke saamne mujhe gira diya aur laat maari.”
+
+“Raja Virata aur Yudhishthira sab dekhte rahe, lekin kisi ne use roka nahi.”
+
+Draupadi ka swar kaampne laga.
+
+Woh boli,
+
+“Keechak paapi, ahankaari aur kaami hai.”
+
+“Woh doosron ka dhan cheenta hai aur kisi ki parwah nahi karta.”
+
+“Agar woh fir se mujhe chhoone ki koshish karega, toh main apni jaan de dungi.”
+
+“Main kabhi bhi uske saamne jhukungi nahi.”
+
+“Hey Bhima, jaise aapne Jatasur aur Jayadrath se meri raksha ki thi, waise hi ab Keechak ko bhi maar dijiye.”
+
+“Us dusht ko mitti ke ghade ki tarah pathar par phod dijiye.”
+
+“Kal suraj ugne se pehle agar Keechak zinda raha, toh main vish peeke apni jaan de dungi.”
+
+Itna kehkar Draupadi roti hui Bhima ke seene se lag gayi.
+
+Rishi Vaisampayana bole, “Bhima ne Draupadi ko apni baahon mein sambhaala aur unke aansu pochhe.”
+
+Lekin andar hi andar unka krodh agni ki tarah bhadak raha tha.
+
+Woh baar-baar apne honton ko dabaa rahe the aur mann hi mann Keechak ke vinaash ka soch rahe the."""
             create_image_text_layout(
                 text_content=text2,
                 layout="full"
@@ -1081,7 +1702,18 @@ Lekin Pandav dhairya aur shaanti ke saath apna gupt jeevan bitaate rahe."""
 
         # Section 4.3.8
         with st.expander("Section 4.3.8  Section XXI"):
-            text1 = """ """
+            text1 = """ 
+            Bhima ne Draupadi ki baat sunkar gehri awaaz mein kaha,
+
+“Hey Krishnaa, main tumhari ichchha zaroor poori karunga.”
+
+“Main aaj hi Keechak aur uske saathiyon ka vinaash kar dunga.”
+
+“Tum kal shaam kisi tarah Keechak ko nritya shala mein bula lo.”
+
+“Din mein wahan rajkumariyaan nritya karti hain, lekin raat ko woh jagah khaali rehti hai.”
+
+“Wahin ek bada lakdi ka palang rakha hai.”"""
             create_image_text_layout(
                 "attached_assets/chapter4/4.3.8.jpg",
                 text1,
@@ -1089,7 +1721,164 @@ Lekin Pandav dhairya aur shaanti ke saath apna gupt jeevan bitaate rahe."""
                 image_position="left"
             )
 
-            text2 = """ """
+            text2 = """ 
+            “Usi jagah main Keechak ko uske purkhon ke paas bhej dunga.”
+
+“Lekin dhyaan rahe, kisi ko tumhari aur uski baat ka pata nahi chalna chahiye.”
+
+Rishi Vaisampayana bole, “Dono ne poori raat dukh aur gusse mein bitaayi.”
+
+Subah hote hi Keechak fir Draupadi ke paas gaya.
+
+Ahankaar se bhar kar woh bola,
+
+“Kal maine sabke saamne tumhe laat maari, lekin koi tumhari raksha nahi kar saka.”
+
+“Virata naam ka raja hai, lekin asli shakti toh mere paas hai.”
+
+“Tum meri patni ban jaao.”
+
+“Main tumhe dhan, daasiyaan aur har sukh dunga.”
+
+Draupadi ne shaant swar mein kaha,
+
+“Thik hai, lekin hamari mulaqat ka pata kisi ko nahi chalna chahiye.”
+
+“Mere Gandharva pati bahut bhayankar hain.”
+
+“Raat ko nritya shala mein akele aana.”
+
+“Koi bhi wahan nahi aata.”
+
+Keechak yeh sunkar bahut khush ho gaya.
+
+Woh samajh hi nahi paaya ki uski maut uska intezaar kar rahi hai.
+
+Poora din woh sugandh, gehne aur sundar vastra pehenkar khud ko sajaata raha.
+
+Udhar Draupadi chupke se Bhima ke paas gayi aur boli,
+
+“Hey Bhima, maine Keechak ko nritya shala mein bula liya hai.”
+
+“Woh raat ko akela aayega.”
+
+“Ab aap us paapi ka ant kar dijiye.”
+
+Bhima muskuraakar bole,
+
+“Tumne mujhe bahut khushkhabri di hai.”
+
+“Jitni khushi mujhe Hidimbasur ko maarte waqt hui thi, utni hi aaj ho rahi hai.”
+
+“Main shapath leta hoon ki aaj Keechak ko zaroor maarunga.”
+
+“Chahe chupkar ya saamne se, uska vinaash nishchit hai.”
+
+Draupadi ne fir kaha,
+
+“Lekin dhyaan rahe, hamara agyaatvaas tootna nahi chahiye.”
+
+“Isliye use chupke se maarna.”
+
+Bhima bole,
+
+“Chinta mat karo.”
+
+“Main us dusht ka sir haathi ki tarah kuchal dunga.”
+
+Rishi Vaisampayana bole, “Raat hote hi Bhima pehle hi nritya shala mein pahunch gaye.”
+
+Woh andhere mein chupkar sher ki tarah apne shikaar ka intezaar karne lage.
+
+Kuch der baad Keechak saj-dhaj kar wahan aaya.
+
+Woh mann hi mann Draupadi ke baare mein sochkar khush ho raha tha.
+
+Andhere mein usne Bhima ko palang par lete dekha aur samjha ki woh Draupadi hai.
+
+Woh madhur shabdon mein bola,
+
+“Hey sundari, main tumhare liye dhan, mahal aur daasiyaan sab lekar aaya hoon.”
+
+“Duniya ki streeon ne bhi meri sundarta ki prashansa ki hai.”
+
+Tab Bhima gehri awaaz mein bole,
+
+“Haan, tum bahut sundar ho.”
+
+“Aur tumhe sparsh ka bhi bada gyaan hai.”
+
+“Tumhare jaisa koi nahi.”
+
+Itna kehkar Bhima achanak uth khade hue.
+
+Unki aankhen krodh se jal rahi thi.
+
+Woh garajkar bole,
+
+“Hey paapi Keechak! Aaj tumhari behen tumhe sher ke haath se mare hue haathi ki tarah zameen par pada dekhegi!”
+
+“Tumhare marne ke baad Draupadi aur hum sab chain se jee paayenge!”
+
+Itna kehkar Bhima ne Keechak ke baal pakad liye.
+
+Keechak bhi bahut balwaan tha.
+
+Dono ke beech bhayanak yudh shuru ho gaya.
+
+Kabhi woh ek doosre ko dhakka dete, kabhi zameen par patakte.
+
+Unki garaj aur takkar ki awaaz se poori nritya shala kaampne lagi.
+
+Woh do jangli haathiyon ya do sher jaise lad rahe the.
+
+Keechak ne bhi poori shakti lagaayi aur ek baar Bhima ko gira diya.
+
+Lekin Bhima turant uth khade hue.
+
+Fir Bhima ne apni mahaan shakti se Keechak ko zor se pakad liya.
+
+Unhone use baar-baar patka aur uska gala daba diya.
+
+Keechak dheere-dheere kamzor padne laga.
+
+Bhima ne use zor se ghumaaya aur uske sharir ki saari haddiyan tod di.
+
+Aakhir mein Bhima ne uske haath, pair aur gardan kuchal kar uska sharir maans ke gole jaisa bana diya.
+
+Keechak wahi mar gaya.
+
+Bhima garajkar bole,
+
+“Is paapi ko maar kar maine Draupadi ke apmaan ka badla le liya.”
+
+Fir Bhima ne Draupadi ko bulaaya aur kaha,
+
+“Hey Panchali, aakar dekho iss kaami dusht ka kya haal hua.”
+
+Draupadi ne Keechak ka vinaash dekhkar gehri rahat mehsoos ki.
+
+Bhima bole,
+
+“Jo bhi tum par buri nazar daalega, uska yahi haal hoga.”
+
+Uske baad Bhima chupchaap wapas rasoi mein chale gaye.
+
+Draupadi ne nritya shala ke rakshakon ko bulaakar kaha,
+
+“Aao aur dekho, jo doosron ki stree par buri nazar daalta hai, uska kya anjaam hota hai.”
+
+Rakshak mashaal lekar andar aaye.
+
+Keechak ki laash dekhkar sab darr gaye.
+
+Uska sharir pehchaan mein bhi nahi aa raha tha.
+
+Sab hairaan hokar bole,
+
+“Yeh kaam kisi aam insaan ka nahi ho sakta.”
+
+“Zaroor ise kisi Gandharva ne maara hai.”"""
             create_image_text_layout(
                 text_content=text2,
                 layout="full"
@@ -1098,7 +1887,18 @@ Lekin Pandav dhairya aur shaanti ke saath apna gupt jeevan bitaate rahe."""
 
         # Section 4.3.9
         with st.expander("Section 4.3.9  Section XXII"):
-            text1 = """ """
+            text1 = """ 
+            Rishi Vaisampayana bole, “Jab Keechak ke rishtedaar nritya shala mein pahunche, toh unhone uski bhayanak haalat dekhi.”
+
+Uska sharir poori tarah kuchla hua tha.
+
+Sab log darr aur shok se kaamp uthe.
+
+Woh zor-zor se rote hue bole,
+
+“Yeh zaroor kisi Gandharva ka kaam hai!”
+
+Fir unki nazar paas khadi Draupadi par padi."""
             create_image_text_layout(
                 "attached_assets/chapter4/4.3.9.jpg",
                 text1,
@@ -1106,7 +1906,90 @@ Lekin Pandav dhairya aur shaanti ke saath apna gupt jeevan bitaate rahe."""
                 image_position="left"
             )
 
-            text2 = """ """
+            text2 = """ 
+            Gusse mein bhare hue Keechak ke rishtedaar chillaye,
+
+“Isi stree ki wajah se Keechak mara hai!”
+
+“Isse bhi Keechak ke saath jala dena chahiye!”
+
+“Yahi uske liye sahi dand hoga!”
+
+Woh Raja Virata ke paas gaye aur bole,
+
+“Hey Raja, Keechak Draupadi ke kaaran mara hai.”
+
+“Isliye ise bhi Keechak ke saath chita par jalaane ki anumati dijiye.”
+
+Raja Virata Keechak ke parivaar aur unki shakti se darte the.
+
+Isliye unhone chupchaap haan kar di.
+
+Rishi Vaisampayana bole, “Yeh sunkar Keechak ke rishtedaar Draupadi ko zabardasti pakadkar baandhne lage.”
+
+Woh bechari Draupadi ko Keechak ki arthi par rakhkar shamshaan ki taraf le gaye.
+
+Draupadi bahut dukhi aur bhaybheet ho gayi.
+
+Woh zor-zor se apne patiyon ko pukaarne lagi,
+
+“Hey Jaya! Hey Jayant! Hey Vijaya! Hey Jayatsena! Hey Jayadbala!”
+
+“Mujhe yeh Soot log zabardasti le ja rahe hain!”
+
+“Hey mere veer Gandharva pati, meri raksha kijiye!”
+
+Rishi Vaisampayana bole, “Draupadi ki dard bhari awaaz Bhima ne sun li.”
+
+Bhima turant uth khade hue aur bole,
+
+“Hey Sairindhri, ab tumhe darrne ki zarurat nahi.”
+
+“Main aa gaya hoon.”
+
+Bhima ka krodh fir se agni ki tarah bhadak utha.
+
+Woh chupke se mahal se baahar nikle aur tez gati se shamshaan ki taraf daude.
+
+Raaste mein unhe ek bahut bada ped dikha.
+
+Bhima ne use jad se ukhaad liya aur kandhe par rakh liya.
+
+Woh Yamraj ki tarah gusse mein bhare hue Keechak ke rishtedaaron ki taraf badhe.
+
+Jab Soot logon ne Bhima ko dekha, toh woh darr se kaamp uthe.
+
+Woh ek doosre se bole,
+
+“Yeh toh wahi bhayankar Gandharva lagta hai!”
+
+“Jaldi Draupadi ko chhod do!”
+
+Dar ke maare unhone Draupadi ko turant chhod diya aur bhaagne lage.
+
+Lekin Bhima ne unhe nahi chhoda.
+
+Woh bade ped se un par toot pade.
+
+Ek-ek karke unhone sabko maar giraaya.
+
+Kul milakar Bhima ne Keechak ke 105 rishtedaaron ko maar daala.
+
+Shamshaan bhoomi unki laashon se bhar gayi.
+
+Woh jagah aise lag rahi thi jaise aandhi mein poora jungle tootkar gir gaya ho.
+
+Uske baad Bhima ne Draupadi ko santvana di aur bole,
+
+“Hey Krishnaa, jo bina wajah tumhara apmaan karega, uska yahi haal hoga.”
+
+“Ab tum bina darr ke wapas nagar jaao.”
+
+“Main doosre raaste se rasoi mein laut jaaunga.”
+
+Rishi Vaisampayana bole, “Keechak aur uske 105 rishtedaaron ka vinaash dekhkar sab log hairaan reh gaye.”
+
+“Sabko poora vishwas ho gaya ki Draupadi ki raksha sach mein shaktishaali Gandharva karte hain.”"""
             create_image_text_layout(
                 text_content=text2,
                 layout="full"
@@ -1115,7 +1998,16 @@ Lekin Pandav dhairya aur shaanti ke saath apna gupt jeevan bitaate rahe."""
 
         # Section 4.3.10
         with st.expander("Section 4.3.10  Section XXIII"):
-            text1 = """ """
+            text1 = """ 
+            Rishi Vaisampayana bole, “Jab logon ne Keechak aur uske 105 rishtedaaron ki laashen dekhin, toh poori nagari darr se bhar gayi.”
+
+Sab log Raja Virata ke paas jaakar bole,
+
+“Hey Raja, Gandharvon ne sab Sooton ko maar daala hai.”
+
+“Unki laashen zameen par aise padi hain jaise bijli girne se bade-bade pahaad toot gaye hon.”
+
+“Sairindhri bhi wapas mahal ki taraf aa rahi hai.”"""
             create_image_text_layout(
                 "attached_assets/chapter4/4.3.10.jpg",
                 text1,
@@ -1123,7 +2015,98 @@ Lekin Pandav dhairya aur shaanti ke saath apna gupt jeevan bitaate rahe."""
                 image_position="left"
             )
 
-            text2 = """ """
+            text2 = """ 
+            “Lekin agar woh yahaan rahi, toh Gandharvon ke krodh se poora rajya khatre mein pad sakta hai.”
+
+“Woh bahut sundar hai aur Gandharva uski raksha karte hain.”
+
+“Kripya jaldi koi upaay sochiye.”
+
+Raja Virata yeh sunkar aur bhi darr gaye.
+
+Unhone kaha,
+
+“Keechak aur sab Sooton ka antim sanskaar ek saath kiya jaaye.”
+
+“Unki chita sugandhit tel aur ratnon se sajaayi jaaye.”
+
+Fir Virata ne darr ke saath Rani Sudeshna se kaha,
+
+“Jab Sairindhri wapas aaye, toh usse keh dena ki woh jahaan chahe chali jaaye.”
+
+“Main Gandharvon ke darr se usse yeh baat khud nahi keh sakta.”
+
+“Woh bahut sundar hai aur uske rakshak bahut bhayankar hain.”
+
+Rishi Vaisampayana bole, “Udhar Draupadi, Bhima dwara bachaye jaane ke baad, apne kapde aur sharir saaf karke dheere-dheere nagar ki taraf laut rahi thi.”
+
+Woh aise lag rahi thi jaise koi hiran sher ke darr se bachkar aa rahi ho.
+
+Jab nagar ke logon ne unhe dekha, toh sab Gandharvon ke darr se idhar-udhar bhaagne lage.
+
+Kuch logon ne toh aankhen tak band kar li.
+
+Rasoi ke dwar par Draupadi ne Bhima ko dekha.
+
+Bhima chupchaap wahin khade the, ek krodhit haathi ki tarah.
+
+Draupadi ne sanket bhari bhaasha mein kaha,
+
+“Main us Gandharva rajkumar ko pranam karti hoon jisne meri raksha ki.”
+
+Bhima samajh gaye aur dheere se bole,
+
+“Ab jo log tumhe pareshan karte the, woh sab apne karm ka phal paa chuke hain.”
+
+Uske baad Draupadi nritya shala ki taraf gayi.
+
+Wahan Arjuna Brihannala ke roop mein rajkumariyon ko nritya aur sangeet sikha rahe the.
+
+Rajkumariyaan Draupadi ke paas aakar khushi se boli,
+
+“Hey Sairindhri, achha hua tum surakshit wapas aa gayi.”
+
+“Achha hua un paapi Sooton ko dand mil gaya.”
+
+Tab Brihannala bane Arjuna ne poocha,
+
+“Hey Sairindhri, tum kaise bach gayi?”
+
+“Aur un dushton ka vinaash kaise hua?”
+
+Draupadi dukh bhari halki muskaan ke saath boli,
+
+“Hey Brihannala, tum toh hamesha rajkumariyon ke beech khushi se rehti ho.”
+
+“Tum mere dukh ko kaise samajh paogi?”
+
+Arjuna shaant swar mein bole,
+
+“Hey sundari, Brihannala ke apne dukh bhi bahut gehre hain.”
+
+“Koi bhi doosre ke hriday ka poora dard nahi samajh sakta.”
+
+“Isliye tum mere mann ki peeda nahi jaan paati.”
+
+Rishi Vaisampayana bole, “Uske baad Draupadi Rani Sudeshna ke paas pahunchi.”
+
+Sudeshna ne Raja Virata ka sandesh dete hue kaha,
+
+“Hey Sairindhri, tum jahaan chaaho chali jaao.”
+
+“Raja Gandharvon ke krodh se bahut dare hue hain.”
+
+“Tum bahut sundar ho aur Gandharva tumhari raksha karte hain.”
+
+Draupadi ne vinamrata se jawab diya,
+
+“Hey Rani, bas mujhe terah din aur yahaan rehne dijiye.”
+
+“Uske baad Gandharva mujhe yahaan se le jaayenge.”
+
+“Agar aap itna karengi, toh Gandharva bhi Raja Virata par prasann honge aur unka bhala hoga.”
+
+Rishi Vaisampayana bole, “Draupadi ne bahut dhairya aur buddhi se apni baat kahi, aur sab log chupchaap unki baatein sunte rahe.”"""
             create_image_text_layout(
                 text_content=text2,
                 layout="full"
@@ -1132,7 +2115,18 @@ Lekin Pandav dhairya aur shaanti ke saath apna gupt jeevan bitaate rahe."""
 
         # Section 4.3.11
         with st.expander("Section 4.3.11  Section XXIV"):
-            text1 = """ """
+            text1 = """ 
+            Rishi Vaisampayana bole, “Keechak aur uske bhaiyon ke mare jaane ki khabar poore desh mein phail gayi.”
+
+Log hairaan hokar ek doosre se kehne lage,
+
+“Keechak bahut balwaan tha.”
+
+“Lekin woh dusht aur ahankaari bhi tha.”
+
+“Woh logon par atyachaar karta tha aur doosron ki streeon ka apmaan karta tha.”
+
+“Isi paap ke kaaran Gandharvon ne uska vinaash kar diya.”"""
             create_image_text_layout(
                 "attached_assets/chapter4/4.3.11.jpg",
                 text1,
@@ -1140,24 +2134,58 @@ Lekin Pandav dhairya aur shaanti ke saath apna gupt jeevan bitaate rahe."""
                 image_position="left"
             )
 
-            text2 = """ """
-            create_image_text_layout(
-                text_content=text2,
-                layout="full"
-            )
+            text2 = """ 
+            Is tarah har jagah Keechak ki maut ki charcha hone lagi.
 
+Udhar Duryodhana ke bheje hue guptchar bhi apni khoj poori karke laut aaye.
 
-        # Section 4.3.12
-        with st.expander("Section 4.3.12  Section XXV"):
-            text1 = """ """
-            create_image_text_layout(
-                "attached_assets/chapter4/4.3.12.jpg",
-                text1,
-                layout="side",
-                image_position="left"
-            )
+Unhone jungle, pahaad, gaon, nagar aur anek rajyon mein Pandavo ko dhoondha tha.
 
-            text2 = """ """
+Lekin unhe Pandavo ka koi pata nahi mila.
+
+Sab guptchar Hastinapur pahunchkar Duryodhana ke saamne khade hue.
+
+Us samay wahan Bhishma, Dronacharya, Karna, Kripacharya aur Trigart desh ke raja bhi maujood the.
+
+Guptchar bole,
+
+“Hey Maharaj Duryodhana, humne Pandavo ko dhoondhne mein koi kami nahi chhodi.”
+
+“Humne ghane jungle, pahaadi ilaake, shehar aur rajya sab jagah khoj ki.”
+
+“Humne unke pairon ke nishaan tak dhoondhne ki koshish ki.”
+
+“Lekin hum Pandavo tak nahi pahunch sake.”
+
+“Lagta hai woh bina koi nishaan chhode gaayab ho gaye hain.”
+
+Guptcharon ne aage kaha,
+
+“Humne unke rath chalakon ka peecha bhi kiya.”
+
+“Woh Dwaraka pahunch gaye, lekin Pandav unke saath nahi the.”
+
+“Na Pandav aur na Draupadi Dwaraka mein mile.”
+
+“Isliye humein samajh nahi aa raha ki woh iss samay kahaan reh rahe hain.”
+
+Fir guptchar khush hokar bole,
+
+“Lekin hum ek achhi khabar lekar aaye hain.”
+
+“Matsya desh ka senapati Keechak maara gaya hai.”
+
+“Wahi Keechak jo Trigarton ko baar-baar haraata tha.”
+
+“Raat ke samay kisi adrishya Gandharva ne use aur uske bhaiyon ko maar daala.”
+
+“Yeh sunkar humein bahut khushi hui, kyunki woh hamara shatru tha.”
+
+“Ab aap humein batayein ki aage kya karna hai.”
+
+Rishi Vaisampayana bole, “Duryodhana aur uske saathi yeh sab sunkar gehri soch mein pad gaye.”
+
+Unhe ab bhi shaq tha ki Pandav kahin na kahin jeevit hain aur gupt roop mein reh rahe hain."""
             create_image_text_layout(
                 text_content=text2,
                 layout="full"
