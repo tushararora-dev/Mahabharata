@@ -364,7 +364,17 @@ Phir woh sab Virata nagari mein chupkar rehne ke liye pravesh kar gaye, taaki ap
         # Section 4.1.6
         with st.expander("Section 4.1.6  Section VI"):
             text1 = """ 
-            """
+            Rishi Vaisampayana bole, “Jab Pandav Virata nagari ki taraf ja rahe the, tab Yudhishthira ne mann hi mann Devi Durga ka smaran kiya.
+
+Unhone Devi ko pranam karte hue kaha,
+
+‘Hey Devi Durga, aap sabko vardaan dene waali hain. Aap Yashoda ji ke ghar janmi thi aur Kans ka vinaash karne waali hain.’
+
+‘Aap bhakton ki raksha karti hain aur unhe dukh aur sankat se bachati hain.’
+
+Yudhishthira ne bahut bhakti se Devi ki stuti ki.
+
+Woh bole,"""
             create_image_text_layout(
                 "attached_assets/chapter4/4.1.6.jpg",
                 text1,
@@ -372,7 +382,44 @@ Phir woh sab Virata nagari mein chupkar rehne ke liye pravesh kar gaye, taaki ap
                 image_position="left"
             )
 
-            text2 = """ """
+            text2 = """ 
+            ‘Hey Devi, aapka roop suraj aur poornima ke chand ki tarah tejomay hai.’
+
+‘Aapke haathon mein talwar, dhanush, chakra aur anek divya hathiyaar hain.’
+
+‘Aap Mahishasur ko maarne waali mahaan shakti hain.’
+
+‘Aap hi Vijay dene waali Jaya aur Vijaya hain.’
+
+‘Hey Devi, iss kathin samay mein humein apni kripa dijiye aur humari raksha kijiye.’
+
+Yudhishthira ne fir kaha,
+
+‘Jungle, samundar, pahaad ya dushmano ke beech — jo bhi aapko yaad karta hai, uski raksha hoti hai.’
+
+‘Aap hi Lakshmi hain, aap hi buddhi, shakti, daya aur safalta hain.’
+
+‘Hum apna rajya kho chuke hain. Hey Mata, kripya humein apni sharan mein lijiye.’
+
+Rishi Vaisampayana bole, “Yudhishthira ki sachchi bhakti se prasann hokar Devi Durga unke saamne prakat ho gayin.”
+
+Devi muskuraakar boli,
+
+‘Hey Yudhishthira, meri kripa se tum jaldi hi Kauravo ko haraoge aur apna rajya wapas paoge.’
+
+‘Tum aur tumhare bhai fir se sukh aur samriddhi paoge.’
+
+‘Jab tak tum Virata nagari mein rahoge, koi bhi tumhe pehchaan nahi paayega.’
+
+‘Jo bhi vyakti bhakti se meri stuti karega, use dhan, santaan, safalta aur suraksha milegi.’
+
+‘Jungle, yudh, samundar ya kisi bhi sankat mein jo mujhe yaad karega, main uski raksha karungi.’
+
+‘Aur jo is pavitra stuti ko shraddha se sunega ya padhega, uske kaam safal honge.’
+
+Itna kehkar Devi Durga ne Pandavo ko aashirvaad diya aur fir antardhyaan ho gayin.
+
+Pandav Devi ka aashirvaad paakar aur bhi himmat se Virata nagari ki taraf badh gaye."""
             create_image_text_layout(
                 text_content=text2,
                 layout="full"
@@ -381,7 +428,16 @@ Phir woh sab Virata nagari mein chupkar rehne ke liye pravesh kar gaye, taaki ap
 
         # Section 4.1.7
         with st.expander("Section 4.1.7  Section VII"):
-            text1 = """ """
+            text1 = """ 
+            Rishi Vaisampayana bole, “Yudhishthira ne apne kapde mein sundar paase baandh liye. Woh sone aur neelam se sajhe hue the. Unhe baazu ke neeche rakhkar woh Virata ki rajsabha mein pahunche.
+
+Us samay Raja Virata apne darbaar mein baithe the.
+
+Yudhishthira ka roop bahut tejomay lag raha tha. Woh aise chamak rahe the jaise baadalon ke peeche chhupa hua chand ya raakh se dhaki hui agni.
+
+Raja Virata ne unhe dekhkar apne mantriyon aur sabha ke logon se kaha,
+
+“Yeh vyakti kaun hai? Yeh kisi aam Brahman jaise nahi lagte.”"""
             create_image_text_layout(
                 "attached_assets/chapter4/4.1.7.jpg",
                 text1,
@@ -389,7 +445,48 @@ Phir woh sab Virata nagari mein chupkar rehne ke liye pravesh kar gaye, taaki ap
                 image_position="left"
             )
 
-            text2 = """ """
+            text2 = """ 
+            “Yeh kisi mahaan raja ki tarah dikhte hain. Inke paas na sena hai, na rath aur na haathi, fir bhi inka tej Indra jaisa hai.”
+
+“Yeh bina dare seedha meri taraf aa rahe hain.”
+
+Tab Yudhishthira Raja Virata ke paas gaye aur vinamrata se bole,
+
+“Hey Maharaj, main ek Brahman hoon. Maine apna sab kuch kho diya hai aur ab jeevan chalane ke liye aapki seva karna chahta hoon.”
+
+Raja Virata unki baat sunkar khush hue aur bole,
+
+“Tumhara yahaan swaagat hai. Batao, tumhara naam kya hai aur tum kya kaam jaante ho?”
+
+Yudhishthira ne jawab diya,
+
+“Mera naam Kanka hai. Main paasa khelne mein nipun hoon aur pehle Raja Yudhishthira ka mitra tha.”
+
+Virata bole,
+
+“Kanka, tum mujhe bahut priya lagte ho. Tum kisi devta jaise dikhte ho.”
+
+“Tum mere saath raho. Tumhe yahaan poora samman milega.”
+
+Yudhishthira ne kaha,
+
+“Hey Raja, meri ek prarthana hai. Mujhe neeche soch waale logon ke saath jhagda na karna pade.”
+
+“Aur jo vyakti mujhse paase mein haar jaaye, usse meri jeeti hui vastu wapas na li jaaye.”
+
+Virata ne turant kaha,
+
+“Aisa hi hoga. Jo bhi tumhe pareshaan karega, main use dand dunga.”
+
+“Is rajya mein tum mere samaan samman paoge.”
+
+“Tum mere mitra ki tarah rahoge. Mere mahal ke sab darwaaze tumhare liye khule rahenge.”
+
+“Tum mere rajya ke andar aur baahar ke kaamon ko bhi dekh sakte ho.”
+
+Rishi Vaisampayana bole, “Is tarah Yudhishthira ne Virata ke darbaar mein Kanka ke roop mein rehna shuru kiya.”
+
+“Sab log unka bahut adar karte the, lekin koi bhi unki asli pehchaan nahi samajh paaya.”"""
             create_image_text_layout(
                 text_content=text2,
                 layout="full"
@@ -398,7 +495,16 @@ Phir woh sab Virata nagari mein chupkar rehne ke liye pravesh kar gaye, taaki ap
 
         # Section 4.1.8
         with st.expander("Section 4.1.8  Section VIII"):
-            text1 = """ """
+            text1 = """ 
+            Rishi Vaisampayana bole, “Uske baad Bhima Raja Virata ke darbaar mein pahunche.
+
+Unka sharir bahut balwaan tha aur unka roop suraj ki tarah chamak raha tha. Woh sher ki tarah garv se chal rahe the.
+
+Unke haath mein rasoi ke bade chamche aur ek kaali talwar thi.
+
+Bhima ko dekhkar Raja Virata hairaan ho gaye.
+
+Woh apne logon se bole,"""
             create_image_text_layout(
                 "attached_assets/chapter4/4.1.8.jpg",
                 text1,
@@ -406,7 +512,48 @@ Phir woh sab Virata nagari mein chupkar rehne ke liye pravesh kar gaye, taaki ap
                 image_position="left"
             )
 
-            text2 = """ """
+            text2 = """ 
+            “Yeh balwaan yuva kaun hai? Iske kandhe sher jaise mazboot hain aur iska tej suraj jaisa hai.”
+
+“Mujhe lagta hai yeh koi aam aadmi nahi. Shayad yeh Gandharvon ka raja ya swayam Indra ho sakta hai.”
+
+“Jaldi pata karo yeh kaun hai aur kya chahta hai.”
+
+Raja ke sevak Bhima ke paas gaye aur unhe raja ke saamne le aaye.
+
+Bhima ne vinamrata se kaha,
+
+“Hey Maharaj, mera naam Vallabha hai. Main ek rasoiya hoon aur bahut swadisht bhojan banana jaanta hoon.”
+
+“Kripya mujhe apni rasoi mein kaam de dijiye.”
+
+Raja Virata muskuraakar bole,
+
+“Vallabha, mujhe nahi lagta ki tum sirf rasoiya ho.”
+
+“Tumhara roop aur shakti kisi mahan raja ya devta jaise lagte hain.”
+
+Bhima ne shaant swar mein jawab diya,
+
+“Hey Raja, main bhojan banana achchi tarah jaanta hoon. Raja Yudhishthira bhi mere haath ka bana khaana pasand karte the.”
+
+“Lekin main sirf rasoiya hi nahi, ek pehelwan bhi hoon.”
+
+“Mujhse zyada balwaan shayad hi koi ho.”
+
+“Main sher aur haathiyon se bhi lad sakta hoon aur aapka manoranjan kar sakta hoon.”
+
+Virata yeh sunkar bahut khush hue.
+
+Woh bole,
+
+“Tum jo chaho woh kaam kar sakte ho. Main tumhe apni rasoi ka mukhiya banata hoon.”
+
+“Lekin sach kahoon, tum jaise veer ko toh poori dharti ka raja hona chahiye.”
+
+Rishi Vaisampayana bole, “Is tarah Bhima Vallabha naam se Virata ke mahal ki rasoi mein rehne lage.”
+
+“Jaldi hi Raja Virata unse bahut prasann ho gaye. Lekin koi bhi unki asli pehchaan nahi jaan paaya.”"""
             create_image_text_layout(
                 text_content=text2,
                 layout="full"
@@ -415,7 +562,16 @@ Phir woh sab Virata nagari mein chupkar rehne ke liye pravesh kar gaye, taaki ap
 
         # Section 4.1.9
         with st.expander("Section 4.1.9  Section IX"):
-            text1 = """ """
+            text1 = """ 
+            Rishi Vaisampayana bole, “Draupadi ne apne lambe, komal aur sundar baalon ko baandhkar ek choti bana li aur use apne kapde se chhupa liya.
+
+Unhone ek saadhaaran aur thoda maila vastra pehna, taaki koi unhe pehchaan na sake.
+
+Sairindhri ka roop dharan karke woh Virata nagari mein idhar-udhar ghoomne lagi.
+
+Unki sundarta dekhkar nagar ke log hairaan ho gaye.
+
+Sab unse poochne lage,"""
             create_image_text_layout(
                 "attached_assets/chapter4/4.1.9.jpg",
                 text1,
@@ -423,7 +579,66 @@ Phir woh sab Virata nagari mein chupkar rehne ke liye pravesh kar gaye, taaki ap
                 image_position="left"
             )
 
-            text2 = """ """
+            text2 = """ 
+            ‘Tum kaun ho? Aur kya chahti ho?’
+
+Draupadi ne shaant swar mein kaha,
+
+‘Main ek Sairindhri hoon. Main kisi ki seva karke jeevan chalana chahti hoon.’
+
+Lekin logon ko yakeen nahi ho raha tha ki itni sundar aur komal stree ek saadharan daasi ho sakti hai.
+
+Usi samay Raja Virata ki patni Rani Sudeshna mahal ki chhat se Draupadi ko dekh rahi thi.
+
+Draupadi ki sundarta aur vinamrata dekhkar woh turant unhe bulane lagi.
+
+Sudeshna ne poocha,
+
+‘Hey sundari, tum kaun ho? Tum kisi rani ya devi jaise lagti ho.’
+
+‘Tumhari chal, tumhari awaaz aur tumhara roop kisi saadharan stree jaisa nahi hai.’
+
+‘Sach batao, kya tum koi devi, Gandharvi ya apsara ho?’
+
+Draupadi ne vinamrata se jawab diya,
+
+‘Hey Rani, main na devi hoon aur na apsara. Main ek Sairindhri hoon.’
+
+‘Mujhe baal sajaana, sugandhit lep banana aur sundar phoolon ki mala banana aata hai.’
+
+‘Main pehle Krishna ki priya rani Satyabhama aur Pandavo ki patni Draupadi ki seva karti thi.’
+
+‘Draupadi mujhe Malini kehkar bulaati thi.’
+
+Rani Sudeshna Draupadi ki baat sunkar bhi chintit ho gayin.
+
+Woh boli,
+
+‘Tum itni sundar ho ki Raja Virata tumhe dekhkar mujhse door ho sakte hain.’
+
+‘Mahal ki sab stree aur sevikaayein bhi tumhe hi dekh rahi hain. Koi purush tumhari sundarta se bach nahi paayega.’
+
+‘Mujhe darr hai ki tumhe mahal mein rakhkar kahin main khud hi museebat mein na pad jaaun.’
+
+Draupadi ne shaant aur himmat bhare swar mein kaha,
+
+‘Hey Rani, koi bhi purush mujhe paane ki koshish nahi kar sakta.’
+
+‘Mere paanch Gandharva pati hamesha meri raksha karte hain.’
+
+‘Jo bhi dusht vyakti mujhe buri nazar se dekhega ya pareshan karega, woh usi raat mar jaayega.’
+
+‘Main sirf un logon ki seva karti hoon jo mujhe jhootha bhojan chhoone ya pair dhone ko na kahen.’
+
+Sudeshna ne yeh sunkar rahat ki saans li aur boli,
+
+‘Agar aisa hai, toh tum mere mahal mein reh sakti ho.’
+
+‘Tumhe koi neecha kaam nahi karna padega.’
+
+Rishi Vaisampayana bole, “Is tarah Draupadi Malini naam se Rani Sudeshna ke mahal mein rehne lagi.”
+
+“Lekin Virata nagari mein koi bhi unki asli pehchaan nahi jaan paaya.”"""
             create_image_text_layout(
                 text_content=text2,
                 layout="full"
@@ -432,7 +647,16 @@ Phir woh sab Virata nagari mein chupkar rehne ke liye pravesh kar gaye, taaki ap
 
         # Section 4.1.10
         with st.expander("Section 4.1.10  Section X"):
-            text1 = """ """
+            text1 = """ 
+            Rishi Vaisampayana bole, “Uske baad Sahadeva gaay charane waale kapde pehenkar Virata nagari ke gaushala ki taraf gaye.
+
+Woh gaayon ke rakhwaalon ki boli mein baat kar rahe the.
+
+Jab Raja Virata ne unhe dekha, toh woh unke tej aur shaant swabhav ko dekhkar hairaan ho gaye.
+
+Raja ne turant apne sevakon se kaha,
+
+‘Us yuva ko mere paas bulao.’"""
             create_image_text_layout(
                 "attached_assets/chapter4/4.1.10.jpg",
                 text1,
@@ -440,7 +664,54 @@ Phir woh sab Virata nagari mein chupkar rehne ke liye pravesh kar gaye, taaki ap
                 image_position="left"
             )
 
-            text2 = """ """
+            text2 = """ 
+            Jab Sahadeva raja ke saamne aaye, tab Virata ne poocha,
+
+‘Tum kaun ho? Kahaan se aaye ho? Aur kya kaam jaante ho?’
+
+‘Maine tumhe pehle kabhi nahi dekha.’
+
+Sahadeva ne gehri aur shaant awaaz mein jawab diya,
+
+‘Mera naam Arishtanemi hai. Main ek Vaishya hoon.’
+
+‘Main pehle Pandavo ke yahan gaayon ki dekhbhaal karta tha.’
+
+‘Ab main aapki seva mein rehna chahta hoon, kyunki mujhe nahi pata Pandav ab kahaan hain.’
+
+‘Main bina seva ke nahi reh sakta aur aapke alawa kisi aur ki seva karna bhi nahi chahta.’
+
+Raja Virata unki baat sunkar bole,
+
+‘Tum kisi aam gaay charane waale jaise nahi lagte.’
+
+‘Tumhara roop toh kisi mahan raja ya yoddha jaisa hai.’
+
+‘Sach batao, tum kya jaante ho aur kis kaam ke badle kya chahte ho?’
+
+Sahadeva ne vinamrata se kaha,
+
+‘Raja Yudhishthira ke paas lakhon gaayein thi aur main un sabki dekhbhaal karta tha.’
+
+‘Log mujhe Tantripal kehte the.’
+
+‘Mujhe gaayon ki prakriti aur unki sehat ka poora gyaan hai.’
+
+‘Main jaan sakta hoon ki kaunsi gaay ya saand shubh hai aur kaise gaayon ki sankhya badhaayi ja sakti hai.’
+
+‘Mujhe unhe bimariyon se bachane ka bhi gyaan hai.’
+
+Virata yeh sunkar bahut prasann hue.
+
+Woh bole,
+
+‘Mere paas bhi ek lakh gaayein hain. Aaj se un sabki zimmedaari tumhari hai.’
+
+‘Tum unki poori dekhbhaal karoge.’
+
+Rishi Vaisampayana bole, “Is tarah Sahadeva Tantripal ke roop mein Raja Virata ki gaayon ki dekhbhaal karne lage.”
+
+“Woh wahan bahut shaanti se rehne lage aur koi bhi unki asli pehchaan nahi jaan paaya.”"""
             create_image_text_layout(
                 text_content=text2,
                 layout="full"
@@ -449,7 +720,16 @@ Phir woh sab Virata nagari mein chupkar rehne ke liye pravesh kar gaye, taaki ap
 
         # Section 4.1.11
         with st.expander("Section 4.1.11  Section XI"):
-            text1 = """ """
+            text1 = """ 
+            Rishi Vaisampayana bole, “Uske baad ek aur adbhut vyakti Virata ke mahal ke dwar par aaya.
+
+Woh Arjuna the, lekin Brihannala ke roop mein.
+
+Unhone striyon jaise gehne pehne hue the — bade kundal, sone se sajhi hui choodiyan aur lambe baal ki choti.
+
+Unki chal haathi ki tarah shaktishaali thi aur unke kadam se zameen hilti hui lag rahi thi.
+
+Jab Raja Virata ne unhe dekha, toh woh hairaan reh gaye."""
             create_image_text_layout(
                 "attached_assets/chapter4/4.1.11.jpg",
                 text1,
@@ -457,7 +737,48 @@ Phir woh sab Virata nagari mein chupkar rehne ke liye pravesh kar gaye, taaki ap
                 image_position="left"
             )
 
-            text2 = """ """
+            text2 = """ 
+            Woh apne darbaar mein bole,
+
+“Yeh kaun hai? Maine ise pehle kabhi nahi dekha.”
+
+“Yeh kisi devta ya mahaan yoddha jaise lagte hain. Mujhe vishwas nahi hota ki yeh napunsak ho sakte hain.”
+
+Virata ne Arjuna se poocha,
+
+“Tum kaun ho? Aur kya kaam jaante ho?”
+
+Arjuna ne shaant swar mein jawab diya,
+
+“Hey Raja, mera naam Brihannala hai.”
+
+“Mujhe gaan, nritya aur sangeet ka gyaan hai.”
+
+“Main rajkumari Uttara aur mahal ki anya kanyaon ko nritya aur sangeet sikha sakta hoon.”
+
+“Main apni purani kahani nahi sunana chahta, kyunki use yaad karke mujhe dukh hota hai.”
+
+“Samajh lijiye ki mera na koi pita hai aur na maa.”
+
+Raja Virata bole,
+
+“Hey Brihannala, tumhe wahi kaam diya jaata hai jo tum chahte ho.”
+
+“Tum meri beti Uttara ko nritya aur sangeet sikhao.”
+
+“Lekin sach kahoon, tum jaise vyakti ko toh poori dharti par raj karna chahiye.”
+
+Rishi Vaisampayana bole, “Virata ne pehle Brihannala ki kalaon ki pareeksha li.”
+
+“Mahilao ne bhi dekh liya ki Brihannala sach mein napunsak roop mein hi reh rahe hain.”
+
+Uske baad Arjuna ko rajkumari Uttara ke mahal mein bhej diya gaya.
+
+Wahan Arjuna ne Uttara aur uski saheliyon ko gaan, nritya aur vaadya yantra bajana sikhana shuru kiya.
+
+Jaldi hi sab log Brihannala se bahut prasann ho gaye.
+
+Is tarah mahaan dhanurdhari Arjuna chupkar Virata ke mahal mein rehne lage, aur koi bhi unki asli pehchaan nahi jaan paaya."""
             create_image_text_layout(
                 text_content=text2,
                 layout="full"
@@ -466,7 +787,16 @@ Phir woh sab Virata nagari mein chupkar rehne ke liye pravesh kar gaye, taaki ap
 
         # Section 4.1.12
         with st.expander("Section 4.1.12  Section XII"):
-            text1 = """ """
+            text1 = """ 
+            Rishi Vaisampayana bole, “Kuch samay baad Nakula bhi Raja Virata ke mahal ki taraf aaye.
+
+Unka roop bahut tejomay tha. Woh aise chamak rahe the jaise baadalon ke beech se suraj nikal aaya ho.
+
+Mahal ke paas pahunchte hi Nakula ghodon ko dhyaan se dekhne lage.
+
+Yeh dekhkar Raja Virata ne apne sevakon se kaha,
+
+“Yeh yuva kaun hai? Iska tej kisi devta jaisa lagta hai.”"""
             create_image_text_layout(
                 "attached_assets/chapter4/4.1.12.jpg",
                 text1,
@@ -474,7 +804,54 @@ Phir woh sab Virata nagari mein chupkar rehne ke liye pravesh kar gaye, taaki ap
                 image_position="left"
             )
 
-            text2 = """ """
+            text2 = """ 
+            “Yeh mere ghodon ko bade dhyaan se dekh raha hai. Zaroor ise ghodon ka bahut gyaan hoga.”
+
+“Ise turant mere paas lao.”
+
+Nakula raja ke saamne aaye aur vinamrata se bole,
+
+“Hey Maharaj, aapki jai ho.”
+
+“Main ghodon ko sambhaalne aur training dene mein nipun hoon. Main aapke ghodon ki dekhbhaal karna chahta hoon.”
+
+Raja Virata bole,
+
+“Main tumhe dhan, rehne ki jagah aur samman sab dunga.”
+
+“Lekin pehle batao tum kaun ho aur kahaan se aaye ho?”
+
+Nakula ne shaant swar mein jawab diya,
+
+“Pandavo mein sabse bade Raja Yudhishthira the. Main pehle unke ghodon ki dekhbhaal karta tha.”
+
+“Log mujhe Granthika kehte the.”
+
+“Mujhe ghodon ki prakriti ka poora gyaan hai.”
+
+“Main jungli aur gusse waale ghodon ko bhi shaant bana sakta hoon.”
+
+“Main unki bimariyon ka ilaaj bhi jaanta hoon.”
+
+“Mere haathon mein koi bhi ghoda kamzor ya beemar nahi hota.”
+
+Virata yeh sunkar bahut khush hue.
+
+Woh bole,
+
+“Aaj se mere sabhi ghode tumhari dekhbhaal mein rahenge.”
+
+“Mere ghodon ke rakhwaale aur rath chalane waale sab tumhare adheen rahenge.”
+
+“Lekin sach kahoon, tum kisi mahan raja jaise lagte ho. Tumhe dekhkar mujhe Yudhishthira ki yaad aa gayi.”
+
+“Pata nahi woh mahaan Pandav iss samay jungle mein kaise jee rahe honge.”
+
+Rishi Vaisampayana bole, “Nakula ne apne kaam aur vinamr swabhav se jaldi hi sabka dil jeet liya.”
+
+“Virata ke mahal mein rehkar bhi koi unki asli pehchaan nahi jaan paaya.”
+
+“Is tarah Pandav apni kathin peeda ko chupate hue bhi shaanti aur dhairya se Virata nagari mein apna gupt jeevan bitaane lage.”"""
             create_image_text_layout(
                 text_content=text2,
                 layout="full"
@@ -489,7 +866,18 @@ Phir woh sab Virata nagari mein chupkar rehne ke liye pravesh kar gaye, taaki ap
 
         # Section 4.2.1
         with st.expander("Section 4.2.1  Section XIII"):
-            text1 = """ """
+            text1 = """ 
+            Rishi Vaisampayana bole, “Hey Raja Janamejaya, ab suno ki Pandav Virata nagari mein chupkar kaise jeevan bita rahe the.
+
+Dharmraj Yudhishthira Raja Virata ke priya saathi ban gaye. Woh paase aur khel mein sabko manoranjan karte the.
+
+Jo dhan woh jeette, use chupchaap apne bhaiyon mein baant dete.
+
+Bhima bhi rasoi mein kaam karke khaane aur anya vastuon ko Yudhishthira ko de dete.
+
+Arjuna mahal ke andar sangeet aur nritya sikhakar jo paate, use bhi sab bhaiyon mein baant dete.
+
+Sahadeva doodh, dahi aur ghee laate aur Nakula ghodon ki seva ke badle jo paate, woh bhi sabke saath baantte."""
             create_image_text_layout(
                 "attached_assets/chapter4/4.2.1.jpg",
                 text1,
@@ -497,7 +885,70 @@ Phir woh sab Virata nagari mein chupkar rehne ke liye pravesh kar gaye, taaki ap
                 image_position="left"
             )
 
-            text2 = """ """
+            text2 = """ 
+            Draupadi khud bahut dukh mein thi, lekin fir bhi sab bhaiyon ka dhyaan rakhti thi.
+
+Is tarah sab ek doosre ki madad karte hue Virata nagari mein chupkar rehne lage, jaise maa ke garbh mein koi surakshit rehta hai.
+
+Pandav hamesha saavdhaan rehte the, kyunki unhe darr tha ki kahin Duryodhana ke log unhe pehchaan na lein.
+
+Kuch mahine beet gaye.
+
+Phir Matsya desh mein Bhagwan Brahma ke samman mein ek bada utsav hua.
+
+Us utsav mein bahut saare pehelwan aur yoddha aaye. Sab apni shakti dikhana chahte the.
+
+Unmein Jimuta naam ka ek bahut balwaan pehelwan tha. Woh sabko yudh ke liye lalkaar raha tha.
+
+Lekin uski shakti dekhkar koi bhi usse ladne ki himmat nahi kar paaya.
+
+Tab Raja Virata ne Bhima, yani Vallabha ko usse ladne ka aadesh diya.
+
+Bhima mann hi mann sochne lage ki unhe apni shakti chhupaani chahiye, lekin raja ki baat bhi taal nahi sakte the.
+
+Isliye woh dheere-dheere sher ki chaal se akhaade mein utar gaye.
+
+Sab log utsaah se unhe dekhne lage.
+
+Bhima aur Jimuta dono haathi jaise balwaan lag rahe the.
+
+Dono ne ek doosre ko pakda, dhakka diya aur zor-zor se patka.
+
+Kabhi ek doosre ko uthaate, kabhi zameen par gira dete.
+
+Unke mukke aur laaton ki awaaz bijli ki tarah garaj rahi thi.
+
+Sab log bahut romanch se yeh yudh dekh rahe the.
+
+Aakhir mein Bhima ne sher ki tarah Jimuta ko pakad liya.
+
+Unhone use hawa mein uthaakar bahut baar ghumaya.
+
+Phir zor se zameen par phek diya.
+
+Jimuta wahi mar gaya.
+
+Yeh dekhkar sab log hairaan reh gaye aur Raja Virata bahut khush hue.
+
+Raja ne Vallabha ko bahut saare uphaar diye.
+
+Uske baad Bhima ne aur bhi kai pehelwano aur jangli jaanwaron ko haraaya.
+
+Kabhi woh sher se ladte, kabhi baagh aur haathiyon se.
+
+Mahal ki mahilaayein bhi unki veerta dekhkar hairaan ho jaati thi.
+
+Udhar Arjuna apne gaan aur nritya se mahal ki sab streeon ko khush rakhte the.
+
+Nakula apne shikshit aur tez ghodon se Raja Virata ko prasann karte the.
+
+Sahadeva ki sambhaal se gaayein aur bail bahut swasth aur shaant rehte the.
+
+Raja unhe bhi dhan aur uphaar dete the.
+
+Draupadi yeh sab dekhkar kabhi-kabhi dukhi ho jaati thi, kyunki itne mahaan yoddha ab doosron ki seva kar rahe the.
+
+Lekin Pandav dhairya aur shaanti ke saath apna gupt jeevan bitaate rahe."""
             create_image_text_layout(
                 text_content=text2,
                 layout="full"
