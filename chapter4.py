@@ -2200,7 +2200,16 @@ Unhe ab bhi shaq tha ki Pandav kahin na kahin jeevit hain aur gupt roop mein reh
 
         # Section 4.4.1
         with st.expander("Section 4.4.1  Section XXVI"):
-            text1 = """ """
+            text1 = """ 
+            Rishi Vaisampayana bole, “Guptcharon ki baatein sunkar Duryodhana kuch der tak gehri soch mein doob gaya.”
+
+Fir woh apne sabha ke logon se bola,
+
+“Pandavo ka pata lagana bahut mushkil ho raha hai.”
+
+“Unke agyaatvaas ka adhiktar samay ab beet chuka hai.”
+
+“Bas thoda samay hi baaki hai.”"""
             create_image_text_layout(
                 "attached_assets/chapter4/4.4.1.jpg",
                 text1,
@@ -2208,7 +2217,58 @@ Unhe ab bhi shaq tha ki Pandav kahin na kahin jeevit hain aur gupt roop mein reh
                 image_position="left"
             )
 
-            text2 = """ """
+            text2 = """ 
+            “Agar woh yeh samay bina pehchaane poora kar lenge, toh apna vachan poora kar lenge.”
+
+“Uske baad woh gusse se bhare hue shaktishaali haathiyon aur zehreeli saanpon ki tarah lautenge.”
+
+“Fir woh Kauravo ko kathin dand denge.”
+
+Duryodhana ne chinta bhare swar mein kaha,
+
+“Isliye humein bina deri kiye aisa upaay karna hoga ki Pandav fir se jungle jaane par majboor ho jaayein.”
+
+“Humein apne rajya ko surakshit aur shatruon se mukt rakhna hai.”
+
+Tab Karna bola,
+
+“Hey Maharaj, aur bhi zyada chatur aur kushal guptchar bhejne chahiye.”
+
+“Woh alag-alag roop dhaaran karke bade rajyon aur shehron mein khoj karein.”
+
+“Rajmahalon ke andar, mandiron mein, teerth sthalon par aur gupt jagahon par Pandavo ko dhoondha jaaye.”
+
+“Jungle, pahaad, nadiyon ke kinaare aur rishiyon ke aashram tak sab jagah talaash honi chahiye.”
+
+“Pandav kahin na kahin gupt roop mein zaroor reh rahe honge.”
+
+Karna ki baat ke baad Dushasan bola,
+
+“Hey bhaiya, mujhe bhi Karna ki baat sahi lagti hai.”
+
+“Hum apne vishwas-paatra guptcharon ko fir se bhejte hain.”
+
+“Unhe pehle hi inaam de diya jaaye, taaki woh poori lagan se kaam karein.”
+
+Fir Dushasan thodi hansi ke saath bola,
+
+“Lekin mujhe lagta hai ki Pandavo ka pata lagana aasaan nahi hoga.”
+
+“Ho sakta hai woh kahin gehri jagah chhupe hon.”
+
+“Ya samundar ke paar chale gaye hon.”
+
+“Ya shayad jungle ke jaanwaron ne unhe maar diya ho.”
+
+“Ho sakta hai woh kisi bade sankat mein padkar mar hi gaye hon.”
+
+“Isliye, hey Maharaj, zyada chinta mat kijiye.”
+
+“Aap apni ichchha ke anusaar rajya ka aanand lijiye.”
+
+Rishi Vaisampayana bole, “Lekin Duryodhana ke mann se Pandavo ka darr poori tarah gaya nahi tha.”
+
+“Usse lag raha tha ki Pandav jeevit hain aur sahi samay ka intezaar kar rahe hain.”"""
             create_image_text_layout(
                 text_content=text2,
                 layout="full"
@@ -2217,7 +2277,18 @@ Unhe ab bhi shaq tha ki Pandav kahin na kahin jeevit hain aur gupt roop mein reh
 
         # Section 4.4.2
         with st.expander("Section 4.4.2  Section XXVII"):
-            text1 = """ """
+            text1 = """ 
+            Rishi Vaisampayana bole, “Dronacharya bahut buddhimaan aur door ki soch rakhne wale the.”
+
+Unhone Duryodhana ki sabha mein shaant swar mein kaha,
+
+“Pandav jaise veer aasaani se naash nahi hote.”
+
+“Woh bahadur, gyaani aur har kala mein nipun hain.”
+
+“Unka mann aur indriyan hamesha niyantran mein rehte hain.”
+
+“Woh satya aur dharm ka paalan karte hain.”"""
             create_image_text_layout(
                 "attached_assets/chapter4/4.4.2.jpg",
                 text1,
@@ -2225,7 +2296,52 @@ Unhe ab bhi shaq tha ki Pandav kahin na kahin jeevit hain aur gupt roop mein reh
                 image_position="left"
             )
 
-            text2 = """ """
+            text2 = """ 
+            Dronacharya ne aage kaha,
+
+“Sabse badi baat yeh hai ki woh sab Yudhishthira ka samman aur aagya maante hain.”
+
+“Yudhishthira apne chhote bhaiyon se pita ki tarah prem karte hain.”
+
+“Woh kabhi kisi ka bura nahi chahte.”
+
+“Aur unke bhai bhi unke prati poori shraddha aur wafadaari rakhte hain.”
+
+“Jo bhai itne ekjut aur dharm par chalne wale hon, unka vinaash aasaan nahi hota.”
+
+Drona bole,
+
+“Yudhishthira neeti aur samay ko achhi tarah samajhte hain.”
+
+“Pandav iss samay shaant hain, lekin woh bas sahi avsar ka intezaar kar rahe hain.”
+
+“Jab samay aayega, woh apni shakti aur rajya fir se prapt kar lenge.”
+
+“Isliye yeh sochna galat hoga ki woh mar gaye hain.”
+
+Dronacharya ne gambhir swar mein kaha,
+
+“Pandav bahut tejasvi aur pavitra hain.”
+
+“Yudhishthira toh apni aankhon ke tej se hi shatruon ko jala dene ki shakti rakhte hain.”
+
+“Unhe agyaatvaas ke samay dhoondhna bahut kathin hai.”
+
+“Woh buddhi aur dhairya se kaam le rahe hain.”
+
+Fir Drona ne salaah di,
+
+“Isliye humein fir se unki talaash karni chahiye.”
+
+“Is baar aise log bhejne chahiye jo buddhimaan aur anubhav se bharpoor hon.”
+
+“Brahman, Charan aur tapasvi rishiyon ko bhi bhejna chahiye.”
+
+“Ho sakta hai unmein se kisi ko Pandavo ke baare mein kuch pata ho.”
+
+Rishi Vaisampayana bole, “Dronacharya ki baatein sunkar sabha mein baithe log gehri soch mein pad gaye.”
+
+“Kuch logon ko ab bhi vishwas tha ki Pandav jaldi hi phir saamne aayenge.”"""
             create_image_text_layout(
                 text_content=text2,
                 layout="full"
@@ -2234,7 +2350,18 @@ Unhe ab bhi shaq tha ki Pandav kahin na kahin jeevit hain aur gupt roop mein reh
 
         # Section 4.4.3
         with st.expander("Section 4.4.3  Section XXVIII"):
-            text1 = """ """
+            text1 = """ 
+            Rishi Vaisampayana bole, “Dronacharya ki baat ke baad Bhishma Pitamah ne bhi sabha mein apni baat kahi.”
+
+Bhishma bahut gyaani aur dharm ko samajhne wale the.
+
+Unhone shaant swar mein kaha,
+
+“Main Dronacharya ki baat se poori tarah sehmat hoon.”
+
+“Pandav jaise veer aur dharmic log kabhi aasaani se vinaash nahi hote.”
+
+“Woh satya, dharm aur maryada ka paalan karne wale hain.”"""
             create_image_text_layout(
                 "attached_assets/chapter4/4.4.3.jpg",
                 text1,
@@ -2242,7 +2369,72 @@ Unhe ab bhi shaq tha ki Pandav kahin na kahin jeevit hain aur gupt roop mein reh
                 image_position="left"
             )
 
-            text2 = """ """
+            text2 = """ 
+            “Woh bade buzurgon ka samman karte hain aur Shri Krishna ke prati wafadaar hain.”
+
+“Isliye mushkilon ke baad bhi woh kabhi toot nahi sakte.”
+
+Bhishma ne Duryodhana ki taraf dekhkar kaha,
+
+“Pandav iss samay gupt roop mein reh rahe hain.”
+
+“Lekin woh apni shakti aur buddhi ke bal par surakshit hain.”
+
+“Unhe dhoondhne ke liye jasoos bhejna kisi buddhimaan raja ki neeti nahi honi chahiye.”
+
+“Main tumse bair ki wajah se nahi, balki sachchai aur dharm ke anusaar baat kar raha hoon.”
+
+Bhishma bole,
+
+“Jo vyakti satya aur dharm ka paalan karta hai, use sabha mein bhi sach hi bolna chahiye.”
+
+“Isi liye main tum sabse alag soch rakhta hoon.”
+
+Fir Bhishma ne Yudhishthira ki mahanta bataayi.
+
+Woh bole,
+
+“Jahaan Yudhishthira rehte hain, wahan ke log dayalu, vinamr aur sachche hote hain.”
+
+“Wahan log apna kartavya imaandari se nibhaate hain.”
+
+“Wahan log ek doosre se prem aur madhurta se baat karte hain.”
+
+“Wahan jhooth, ghamand aur dvesh kam ho jaata hai.”
+
+Bhishma ne aage kaha,
+
+“Jahaan Yudhishthira rehte hain, wahan yagya aur daan hote hain.”
+
+“Brahmanon ka samman hota hai.”
+
+“Barish samay par hoti hai aur kheton mein achhi fasal ugti hai.”
+
+“Phal ras se bhare hote hain aur phool sugandhit hote hain.”
+
+“Gaayen swasth aur doodh se bhari hoti hain.”
+
+“Logon ke mann shaant aur prasann rehte hain.”
+
+“Wahan ka vaataavaran bhi sukh aur shaanti se bhara hota hai.”
+
+Bhishma ne gehri awaaz mein kaha,
+
+“Yudhishthira mein buddhi, daya, kshama aur sab praniyon ke prati prem hai.”
+
+“Aise mahan vyakti ko dhoondhna bahut kathin hai.”
+
+“Brahman aur tapasvi log bhi unhe aasaani se nahi pehchaan sakte.”
+
+Fir Bhishma bole,
+
+“Pandav kisi aise hi shubh aur dharmic desh mein reh rahe honge.”
+
+“Ab tum dhairya aur buddhi se socho ki tumhe kya karna chahiye.”
+
+Rishi Vaisampayana bole, “Bhishma Pitamah ki sachchai aur dharm bhari baatein sunkar sabha mein sannata chha gaya.”
+
+“Kai log mann hi mann samajh gaye ki Pandav ab bhi surakshit aur jeevit hain.”"""
             create_image_text_layout(
                 text_content=text2,
                 layout="full"
@@ -2251,7 +2443,20 @@ Unhe ab bhi shaq tha ki Pandav kahin na kahin jeevit hain aur gupt roop mein reh
 
         # Section 4.4.4
         with st.expander("Section 4.4.4  Section XXIX"):
-            text1 = """ """
+            text1 = """ 
+            Rishi Vaisampayana bole, “Bhishma Pitamah ke baad Kripacharya ne bhi apni baat rakhi.”
+
+Woh bole,
+
+“Bhishma ji ne jo kaha, woh bilkul sahi aur dharm ke anusaar hai.”
+
+“Unki baatein buddhi aur neeti se bhari hui hain.”
+
+“Lekin meri bhi ek salaah hai.”
+
+Kripacharya ne Duryodhana se kaha,
+
+“Pandavo ko halka shatru samajhne ki galti kabhi mat karna.”"""
             create_image_text_layout(
                 "attached_assets/chapter4/4.4.4.jpg",
                 text1,
@@ -2259,7 +2464,54 @@ Unhe ab bhi shaq tha ki Pandav kahin na kahin jeevit hain aur gupt roop mein reh
                 image_position="left"
             )
 
-            text2 = """ """
+            text2 = """ 
+            “Jo raja apni bhalai chahta hai, woh chhote se chhote shatru ko bhi nazarandaaz nahi karta.”
+
+“Fir Pandav toh mahaan yoddha hain aur har astra-shastra mein nipun hain.”
+
+Woh aage bole,
+
+“Pandavo ka agyaatvaas ab lagbhag samaapt hone wala hai.”
+
+“Jab woh lautenge, tab bahut shakti aur utsaah ke saath lautenge.”
+
+“Isliye abhi se taiyaari karna samajhdari hogi.”
+
+Kripa ne samjhaaya,
+
+“Tumhe apni sena aur khazaane ko aur mazboot banana chahiye.”
+
+“Apne mitron aur anya rajyon ki shakti bhi jaan leni chahiye.”
+
+“Kaun tumhare saath wafadaar hai aur kaun mann se tumhare khilaaf hai, yeh sab samajhna zaroori hai.”
+
+“Buddhimaan raja wahi hota hai jo samay se pehle taiyaar ho jaaye.”
+
+Fir Kripacharya ne neeti ki baat bataayi.
+
+Woh bole,
+
+“Kabhi prem aur vinamrata se kaam lena chahiye.”
+
+“Kabhi daan aur uphaar se logon ko apni taraf karna chahiye.”
+
+“Aur zarurat pade toh dand aur yuddh ka bhi sahara lena chahiye.”
+
+“Kamzor shatru ko bal se haraya ja sakta hai, lekin apne saathiyon ko madhur shabdon se jeetna chahiye.”
+
+Kripa bole,
+
+“Jab sena mazboot ho aur khazaana bhara ho, tab bade se bada shatru bhi daraaya ja sakta hai.”
+
+“Fir Pandavo se saamna karna bhi aasaan ho jaayega.”
+
+“Isliye neeti aur dhairya ke saath kaam karo.”
+
+“Isi mein tumhari bhalai hai.”
+
+Rishi Vaisampayana bole, “Kripacharya ki baatein sunkar sab log gehri soch mein pad gaye.”
+
+“Sabko samajh aa raha tha ki Pandavo ke wapas aane ka samay ab kareeb hai.”"""
             create_image_text_layout(
                 text_content=text2,
                 layout="full"
@@ -2268,7 +2520,16 @@ Unhe ab bhi shaq tha ki Pandav kahin na kahin jeevit hain aur gupt roop mein reh
 
         # Section 4.4.5
         with st.expander("Section 4.4.5  Section XXX"):
-            text1 = """ """
+            text1 = """ 
+            Rishi Vaisampayana bole, “Trigart desh ka raja Susharma pehle bhi kai baar Keechak se haar chuka tha.”
+
+Ab jab Keechak mar chuka tha, toh usse laga ki Virata par hamla karne ka yeh sahi samay hai.
+
+Woh turant Duryodhana ki sabha mein bola,
+
+“Hey Maharaj, Matsya desh ne kai baar mere rajya par hamla kiya tha.”
+
+“Unki sena ka sabse bada bal Keechak tha.”"""
             create_image_text_layout(
                 "attached_assets/chapter4/4.4.5.jpg",
                 text1,
@@ -2276,14 +2537,80 @@ Unhe ab bhi shaq tha ki Pandav kahin na kahin jeevit hain aur gupt roop mein reh
                 image_position="left"
             )
 
-            text2 = """ """
+            text2 = """ 
+            “Woh bahut kroor, ghamandi aur balwaan tha.”
+
+“Lekin ab Gandharvon ne uska vinaash kar diya hai.”
+
+“Ab Raja Virata kamzor aur dara hua hoga.”
+
+Susharma ne lalach bhare swar mein kaha,
+
+“Isliye humein abhi turant Matsya desh par hamla kar dena chahiye.”
+
+“Hum unka dhan, gaayen aur rajya sab loot sakte hain.”
+
+“Ya unhe haraakar apne adheen kar sakte hain.”
+
+“Yeh hamare liye bahut achha avsar hai.”
+
+Fir Karna ne bhi Susharma ki baat ka samarthan kiya.
+
+Woh bola,
+
+“Susharma bilkul sahi keh raha hai.”
+
+“Yeh samay hamare liye laabhdayak hai.”
+
+“Humein apni sena taiyaar karke turant Matsya desh ki taraf badhna chahiye.”
+
+Karna ne ahankaar se kaha,
+
+“Pandavo ki chinta karne ki koi zarurat nahi.”
+
+“Woh ab na dhanwaan rahe aur na shaktishaali.”
+
+“Ho sakta hai woh mar bhi chuke hon.”
+
+“Isliye bina darr ke Virata ka dhan aur gaayen le leni chahiye.”
+
+Duryodhana ko bhi yeh baat pasand aayi.
+
+Usne turant Dushasan ko aadesh diya,
+
+“Buzurgon se salaah lekar sena ko turant taiyaar karo.”
+
+“Susharma pehle apni sena lekar gupt roop se Matsya desh ki taraf jaaye.”
+
+“Hum ek din baad apni poori sena ke saath uske peeche chalenge.”
+
+“Trigart sena achanak hamla karke Virata ki gaayen chura legi.”
+
+“Uske baad hum bhi hazaaron gaayen apne kabze mein kar lenge.”
+
+Rishi Vaisampayana bole, “Duryodhana ka aadesh milte hi Trigart sena yuddh ke liye nikal padi.”
+
+Woh Matsya desh ki taraf badhne lage, taaki Virata ki gaayen loot saken.
+
+Saptami ke din Susharma apni sena lekar nikal gaya.
+
+Aur uske agle din Kaurav sena bhi hazaaron sainikon ke saath Matsya desh ki ओर badh chali."""
             create_image_text_layout(
                 text_content=text2,
                 layout="full"
             )
                 # Section 4.4.6
         with st.expander("Section 4.4.6  Section XXXI"):
-            text1 = """ """
+            text1 = """ 
+            Rishi Vaisampayana bole, “Pandavo ne Virata nagari mein apna agyaatvaas safalta se poora kar liya tha.”
+
+“Keechak ke marne ke baad Raja Virata ko Pandavo par aur bhi adhik bharosa hone laga.”
+
+Isi samay Trigart raja Susharma ne Virata ki hazaaron gaayen chura li.
+
+Gaay charane waale log ghabraakar rajsabha mein aaye aur bole,
+
+“Hey Maharaj, Trigart sena hamari gaayen lootkar le ja rahi hai!”"""
             create_image_text_layout(
                 "attached_assets/chapter4/4.4.6.jpg",
                 text1,
@@ -2291,7 +2618,54 @@ Unhe ab bhi shaq tha ki Pandav kahin na kahin jeevit hain aur gupt roop mein reh
                 image_position="left"
             )
 
-            text2 = """ """
+            text2 = """ 
+            “Kripya turant unhe bachaiye.”
+
+Yeh sunkar Raja Virata ne turant yuddh ki taiyaari ka aadesh diya.
+
+Poore Matsya desh mein yuddh ki taiyaari shuru ho gayi.
+
+Rath, haathi, ghode aur sainik sajne lage.
+
+Sab yoddha chamakte hue kavach pehenkar yuddh ke liye taiyaar ho gaye.
+
+Virata ke bhai Shatanika ne sone se saja hua mazboot kavach pehna.
+
+Doosre veeron ne bhi apne-apne sundar aur balwaan kavach dhaaran kiye.
+
+Khud Raja Virata ka kavach suraj ki tarah chamak raha tha.
+
+Unke putra aur sena ke mahaan yoddha bhi shastra aur dhanush lekar taiyaar ho gaye.
+
+Jald hi poori sena yuddh ke utsaah se bhar gayi.
+
+Rathon par sundar dhwaj lehra rahe the.
+
+Haathi garaj rahe the aur ghode tez awaaz kar rahe the.
+
+Raja Virata ne fir apne bhai Shatanika se kaha,
+
+“Mujhe lagta hai ki Kanka, Vallava, Tantripal aur Damagranthi bhi yuddh kar sakte hain.”
+
+“Unhe bhi rath, kavach aur hathiyaar diye jaayein.”
+
+“Unki baahuon aur roop ko dekhkar nahi lagta ki woh saamanya log hain.”
+
+Yeh sunkar Shatanika ne turant Pandavo ke liye rath aur shastra taiyaar karwa diye.
+
+Yudhishthira, Bhima, Nakula aur Sahadeva ne sundar aur mazboot kavach pehne.
+
+Woh sab rath par baithkar Raja Virata ke peeche chal diye.
+
+Unke chehre shaant the, lekin andar se woh mahaan yoddha jaag chuke the.
+
+Rishi Vaisampayana bole, “Virata ki sena bahut bhavya lag rahi thi.”
+
+Us sena mein hazaaron rath, haathi aur ghode the.
+
+Sainik balwaan hathiyaar lekar gaayon ke nishaan ka peecha karte hue aage badh rahe the.
+
+Door se woh sena aise lag rahi thi jaise samundar ki badi lehr dharti par chal rahi ho."""
             create_image_text_layout(
                 text_content=text2,
                 layout="full"
@@ -2300,7 +2674,16 @@ Unhe ab bhi shaq tha ki Pandav kahin na kahin jeevit hain aur gupt roop mein reh
 
         # Section 4.4.7
         with st.expander("Section 4.4.7  Section XXXII"):
-            text1 = """ """
+            text1 = """ 
+            Rishi Vaisampayana bole, “Virata ki sena nagar se nikal kar Trigart sena ke peeche badhi.”
+
+Dopehar beet chuki thi jab dono senaein aamne-saamne aa gayin.
+
+Matsya aur Trigart yoddha garaj uthe.
+
+Dono paksh yuddh ke liye utsaah aur krodh se bhare hue the.
+
+Fir bhayanak yuddh shuru ho gaya."""
             create_image_text_layout(
                 "attached_assets/chapter4/4.4.7.jpg",
                 text1,
@@ -2308,7 +2691,76 @@ Unhe ab bhi shaq tha ki Pandav kahin na kahin jeevit hain aur gupt roop mein reh
                 image_position="left"
             )
 
-            text2 = """ """
+            text2 = """ 
+            Haathiyon ko ankush aur lohe ke hathiyaaron se aage badhaya gaya.
+
+Ghode daudne lage.
+
+Rath tez awaaz ke saath ek doosre ki taraf badhe.
+
+Rishi Vaisampayana bole, “Woh yuddh devtaon aur asuron ke purane yuddh ki tarah bhayanak lag raha tha.”
+
+Sainik ek doosre par talwaar, bhale, gada aur teer barsaane lage.
+
+Dhool itni zyada uddne lagi ki kisi ko kuch saaf dikh nahi raha tha.
+
+Aasmaan teeron se bhar gaya.
+
+Suraj bhi teeron aur dhool ke peeche chhup gaya.
+
+Yoddha ek haath se doosre haath mein dhanush badal-badal kar teer chala rahe the.
+
+Rath rathon se takra rahe the.
+
+Ghudsawar ghudsawaron se lad rahe the.
+
+Haathi haathiyon se bhid rahe the.
+
+Zameen par kate hue haath, pair aur sir bikharne lage.
+
+Khoon se yuddh bhoomi laal ho gayi.
+
+Kayi yoddha behosh hokar gir pade.
+
+Kuch log dosti aur rishton ko bhoolkar sirf maarne mein lage hue the.
+
+Giddh aasman se neeche utarne lage, kyunki yuddh bhoomi laashon se bhar rahi thi.
+
+Lekin itne bhayanak yuddh ke baad bhi koi sena doosri ko hara nahi paa rahi thi.
+
+Virata ke bhai Shatanika ne shatru ke sau yoddha maar giraaye.
+
+Veer Vishalaksha ne chaar sau yoddhaon ko hara diya.
+
+Dono sena ke beech ghuskar bhayanak yuddh karne lage.
+
+Kayi yoddha toh ek doosre ke baal pakadkar aur naakhunon se bhi ladne lage.
+
+Udhar Raja Virata bhi bade parakram se lad rahe the.
+
+Unhone anek rath aur ghodon ko nasht kar diya.
+
+Fir unka saamna Trigart raja Susharma se hua.
+
+Dono raja garajte hue ek doosre ki taraf badhe, bilkul do saandhon ki tarah.
+
+Susharma chillakar bola,
+
+“Hey Virata! Aao, hum dono akele yuddh karein!”
+
+Fir dono ne apne rathon se ek doosre par teeron ki baarish kar di.
+
+Virata ne Susharma ko das teer maare.
+
+Unhone uske ghodon ko bhi ghaayal kar diya.
+
+Lekin Susharma bhi bahut balwaan tha.
+
+Usne Raja Virata ko pachaas teeron se bhed diya.
+
+Dhool aur khoon se bhari yuddh bhoomi mein sainikon ko apne aur paraye ki pehchaan karna mushkil ho gaya.
+
+Rishi Vaisampayana bole, “Yuddh aur bhi bhayanak hota ja raha tha, aur dono senaein poori shakti se lad rahi thi.”"""
             create_image_text_layout(
                 text_content=text2,
                 layout="full"
@@ -2317,7 +2769,14 @@ Unhe ab bhi shaq tha ki Pandav kahin na kahin jeevit hain aur gupt roop mein reh
 
         # Section 4.4.8
         with st.expander("Section 4.4.8  Section XXXIII"):
-            text1 = """ """
+            text1 = """ 
+            Rishi Vaisampayana bole, “Yuddh ke dauraan dhool aur andhera itna badh gaya ki dono senaein kuch der ke liye ruk gayin.”
+
+Fir chand nikal aaya aur uski roshni se yuddh bhoomi dobara saaf dikhne lagi.
+
+Jaise hi sab kuch dikhne laga, yuddh fir se shuru ho gaya.
+
+Dono paksh aur bhi zyada gusse se ladne lage."""
             create_image_text_layout(
                 "attached_assets/chapter4/4.4.8.jpg",
                 text1,
@@ -2325,7 +2784,140 @@ Unhe ab bhi shaq tha ki Pandav kahin na kahin jeevit hain aur gupt roop mein reh
                 image_position="left"
             )
 
-            text2 = """ """
+            text2 = """ 
+            Trigart raja Susharma apne bhaiyon aur rathon ke saath seedha Raja Virata ki taraf badha.
+
+Dono senaein gada, talwaar, bhale aur teeron se ek doosre par toot padi.
+
+Fir Susharma ne bhayanak hamla kiya.
+
+Usne Raja Virata ke ghodon ko maar giraaya.
+
+Virata ka saarathi bhi maara gaya.
+
+Virata ka rath toot gaya aur woh akela pad gaye.
+
+Tab Susharma ne Raja Virata ko jeevit pakad liya aur apne rath par baithakar yuddh bhoomi se le jaane laga.
+
+Yeh dekhkar Matsya sena darr gayi.
+
+Kai sainik bhaagne lage.
+
+Rishi Vaisampayana bole, “Tab Yudhishthira ne Bhima se kaha,”
+
+“Hey Bhimasena, Raja Virata hamare upkaari hain.”
+
+“Humne unke rajya mein sukh se agyaatvaas poora kiya hai.”
+
+“Ab hamara kartavya hai ki hum unki raksha karein.”
+
+“Tum turant jaakar unhe shatru ke haathon se chhudao.”
+
+Bhima garajkar bole,
+
+“Hey Maharaj, aaj aap mera parakram dekhiye.”
+
+“Main iss bade ped ko ukhaadkar Trigarton ka vinaash kar dunga!”
+
+Lekin Yudhishthira ne turant roka.
+
+Woh bole,
+
+“Hey Bhima, aisa mat karo.”
+
+“Agar tum ped ukhaadoge, toh sab tumhe pehchaan lenge.”
+
+“Log samajh jaayenge ki tum Bhima ho.”
+
+“Koi saamanya hathiyaar lo aur manushya ki tarah yuddh karo.”
+
+“Tumhare saath Nakula aur Sahadeva bhi rahenge.”
+
+Bhima ne bade dhanush ko uthaya aur teeron ki baarish kar di.
+
+Fir woh garajkar Susharma ki taraf badhe.
+
+Woh chillaye,
+
+“Ruko Susharma! Bhaago mat!”
+
+Bhima ko Yamraj ki tarah apni taraf aata dekhkar Susharma ghabra gaya.
+
+Usne mudkar fir se yuddh shuru kiya.
+
+Lekin Bhima ne kuch hi palon mein uske anek rath, ghode aur sainik tod daale.
+
+Yuddh bhoomi mein Bhima toofaan ki tarah lad rahe the.
+
+Udhar Yudhishthira ne hazaar shatru maare.
+
+Nakula ne saat sau aur Sahadeva ne teen sau yoddhaon ko hara diya.
+
+Virata ke putra bhi bahaduri se ladne lage.
+
+Bhima ne Susharma ke ghodon ko maar giraaya.
+
+Uska saarathi bhi zameen par gira diya.
+
+Rath bina saarathi ke ruk gaya.
+
+Virata bhi gada lekar Susharma ke peeche daud pade.
+
+Bhima ne fir Susharma ko lalkar kar kaha,
+
+“Hey rajkumar! Bhaagna tumhe shobha nahi deta.”
+
+“Tum itne kamzor hokar gaayen lootne aaye the?”
+
+Susharma gusse mein Bhima ki taraf dauda.
+
+Tab Bhima rath se kood pade.
+
+Woh sher ki tarah Susharma par toot pade.
+
+Unhone uske baal pakadkar use zor se zameen par patak diya.
+
+Susharma dard se cheekhne laga.
+
+Bhima ne uske seene par ghutna rakhkar use zor-zor se maara.
+
+Susharma behosh ho gaya.
+
+Apne raja ko gira hua dekhkar Trigart sena darrkar bhaag gayi.
+
+Pandavo ne gaayen aur dhan wapas le liya.
+
+Raja Virata ki chinta door ho gayi.
+
+Bhima ne behosh Susharma ko baandhkar Yudhishthira ke saamne laakar khada kar diya.
+
+Bhima bole,
+
+“Yeh dusht jeene layak nahi hai.”
+
+“Main ise abhi maar deta hoon.”
+
+Lekin Yudhishthira muskuraakar bole,
+
+“Isse chhod do.”
+
+“Yeh ab Virata ka haar chuka daas hai.”
+
+Fir Bhima ne Susharma se kaha,
+
+“Agar jeena chahta hai, toh har sabha mein kehna padega — ‘Main haar chuka hoon aur daas ban gaya hoon.’”
+
+Yudhishthira ne daya se kaha,
+
+“Ab ise mukt kar do.”
+
+Fir unhone Susharma se kaha,
+
+“Tum azaad ho.”
+
+“Lekin dobara kabhi aisa anyaay mat karna.”
+
+Rishi Vaisampayana bole, “Is tarah Pandavo ne Raja Virata ko bachaya aur Trigart sena ko hara diya, lekin fir bhi kisi ko unki asli pehchaan ka pata nahi chala.”"""
             create_image_text_layout(
                 text_content=text2,
                 layout="full"
@@ -2334,7 +2926,18 @@ Unhe ab bhi shaq tha ki Pandav kahin na kahin jeevit hain aur gupt roop mein reh
 
         # Section 4.4.9
         with st.expander("Section 4.4.9  Section XXXIV"):
-            text1 = """ """
+            text1 = """ 
+            Rishi Vaisampayana bole, “Yudhishthira ki baat sunkar Susharma sharm se jhuk gaya.”
+
+Woh chupchaap Raja Virata ke paas gaya, unhe pranam kiya aur wahan se chala gaya.
+
+Udhar Pandavo ne apni shakti se shatruon ko hara diya tha aur Raja Virata ko bacha liya tha.
+
+Us raat sab yoddha yuddh bhoomi mein hi aaraam se ruke.
+
+Raja Virata Pandavo ke parakram se bahut prasann hue.
+
+Woh bole,"""
             create_image_text_layout(
                 "attached_assets/chapter4/4.4.9.jpg",
                 text1,
@@ -2342,7 +2945,56 @@ Unhe ab bhi shaq tha ki Pandav kahin na kahin jeevit hain aur gupt roop mein reh
                 image_position="left"
             )
 
-            text2 = """ """
+            text2 = """ 
+            “Aaj meri jeet tum sabki wajah se hui hai.”
+
+“Mera dhan, ratna aur sampatti ab tumhari bhi hai.”
+
+“Tum yahan khushi se raho.”
+
+“Main tumhe sundar vastra, gehne, dhan aur jo chaho dene ko taiyaar hoon.”
+
+“Tumhare bal aur sahayata se hi main apne shatruon se bach paaya hoon.”
+
+“Tum sab Matsya desh ke swaami banne layak ho.”
+
+Rishi Vaisampayana bole, “Yeh sunkar Yudhishthira aur unke bhai vinamrata se haath jodkar bole,”
+
+“Hey Maharaj, aapke prem aur samman se hum bahut prasann hain.”
+
+“Lekin humein sabse zyada khushi iss baat ki hai ki aap surakshit hain aur shatruon se mukt ho gaye hain.”
+
+Virata fir Yudhishthira se bole,
+
+“Hey mahaan Brahman, aap jo chaahein le sakte hain.”
+
+“Main aapko gaayen, sona, moti aur anek ratna dena chahta hoon.”
+
+“Aapki wajah se hi main aaj fir se apne putron aur rajya ko dekh pa raha hoon.”
+
+“Aap sabne mujhe bade sankat se bachaya hai.”
+
+Tab Yudhishthira shaant swar mein bole,
+
+“Hey Maharaj, aap sada sab logon ke saath daya aur nyaay ka vyavahaar kariye.”
+
+“Ab aapke doot turant nagar jaakar aapki vijay ki khabar sunaayein.”
+
+“Sab logon ko pata chalna chahiye ki aap yuddh jeet gaye hain.”
+
+Raja Virata ko yeh baat achhi lagi.
+
+Unhone turant dooton ko aadesh diya,
+
+“Nagar jaakar meri vijay ki ghoshna karo.”
+
+“Aur nagar ki sundar streeon aur gaayikaon ko sangeet ke saath mera swaagat karne bhejo.”
+
+Rishi Vaisampayana bole, “Raja ka aadesh sunkar doot khushi-khushi nagar ki taraf chale gaye.”
+
+Subah hote hi poori Virata nagari mein Raja Virata ki vijay ki khabar phail gayi.
+
+Log khushi se bhar gaye aur nagar mein utsav jaisa mahaul ho gaya."""
             create_image_text_layout(
                 text_content=text2,
                 layout="full"
@@ -2351,7 +3003,16 @@ Unhe ab bhi shaq tha ki Pandav kahin na kahin jeevit hain aur gupt roop mein reh
 
         # Section 4.4.10
         with st.expander("Section 4.4.10  Section XXXV"):
-            text1 = """ """
+            text1 = """ 
+            Rishi Vaisampayana bole, “Jab Raja Virata Trigarton se yuddh karne gaye hue the, tab Duryodhana ne mauka dekhkar Matsya desh par hamla kar diya.”
+
+Bhishma, Dronacharya, Karna, Kripacharya, Ashwatthama, Shakuni, Dushasan aur kai bade Kaurav yoddha uske saath the.
+
+Woh sab milkar Matsya desh ki gaayen churaane lage.
+
+Kaurav sena ne chaaron taraf se gherkar saath hazaar gaayen apne kabze mein kar li.
+
+Gaay charane waale log darr aur dukh se chillane lage."""
             create_image_text_layout(
                 "attached_assets/chapter4/4.4.10.jpg",
                 text1,
@@ -2359,7 +3020,40 @@ Unhe ab bhi shaq tha ki Pandav kahin na kahin jeevit hain aur gupt roop mein reh
                 image_position="left"
             )
 
-            text2 = """ """
+            text2 = """ 
+            Unmein se ek mukhya gopal jaldi se rath par baithkar Virata nagari pahunch gaya.
+
+Woh seedha Rajkumar Uttar ke paas gaya, jo mahal ke andar streeon ke beech baitha tha.
+
+Gopal ghabraaye hue swar mein bola,
+
+“Hey Rajkumar! Kaurav hamari saath hazaar gaayen le ja rahe hain!”
+
+“Kripya turant unhe bachaiye.”
+
+“Aapke pita Maharaj Virata toh Trigarton se yuddh karne gaye hue hain.”
+
+“Is samay poore rajya ki aasha sirf aap par hai.”
+
+Gopal ne Rajkumar Uttar ka hausla badhaate hue kaha,
+
+“Maharaj hamesha sabha mein aapki bahaduri ki tareef karte hain.”
+
+“Woh kehte hain ki unka putra ek mahaan dhanurdhar aur veer yoddha hai.”
+
+“Aaj woh baat sach saabit karne ka samay aa gaya hai.”
+
+“Apne teeron se Kaurav sena ko hara dijiye.”
+
+“Apne rath par sone ka sher waala dhwaj lagaiye aur veerta dikhaaiye.”
+
+“Aap iss rajya ke rakshak hain, bilkul waise hi jaise Arjuna Pandavo ke rakshak hain.”
+
+“Hum sab praja ki aasha aap par tiki hui hai.”
+
+Rishi Vaisampayana bole, “Yeh baatein sunkar Rajkumar Uttar ke mann mein ghamand aur utsaah bhar gaya.”
+
+Woh mahal ki streeon ke saamne apni bahaduri dikhane laga aur bade garv se baatein karne laga."""
             create_image_text_layout(
                 text_content=text2,
                 layout="full"
