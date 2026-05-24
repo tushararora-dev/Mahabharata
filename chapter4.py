@@ -3062,7 +3062,16 @@ Woh mahal ki streeon ke saamne apni bahaduri dikhane laga aur bade garv se baate
 
         # Section 4.4.11
         with st.expander("Section 4.4.11  Section XXXVI"):
-            text1 = """ """
+            text1 = """ 
+            Rishi Vaisampayana bole, “Rajkumar Uttar garv se bole,”
+
+“Main dhanush chalane mein nipun hoon.”
+
+“Agar mujhe ek achha saarathi mil jaaye, toh main abhi turant Kauravo ke peeche nikal padun.”
+
+“Mera purana saarathi ek bade yuddh mein maara gaya tha.”
+
+“Isi liye mere paas ab koi kushal rath chalane waala nahi hai.”"""
             create_image_text_layout(
                 "attached_assets/chapter4/4.4.11.jpg",
                 text1,
@@ -3070,7 +3079,52 @@ Woh mahal ki streeon ke saamne apni bahaduri dikhane laga aur bade garv se baate
                 image_position="left"
             )
 
-            text2 = """ """
+            text2 = """ 
+            “Jaise hi mujhe ek saarathi milega, main apna dhwaj lekar yuddh ke liye nikal jaaunga.”
+
+Uttar aur bhi ghamand se bole,
+
+“Main akela hi Kauravo ki sena mein ghus jaaunga.”
+
+“Bhishma, Drona, Karna aur Duryodhana sabko dara dunga.”
+
+“Main gaayen wapas lekar aaunga aur sab log meri veerta dekhenge.”
+
+“Woh ek doosre se kahenge — kya yeh khud Arjuna hai?”
+
+Rishi Vaisampayana bole, “Yeh baatein sunkar Arjuna, jo Brihannala ke roop mein wahan maujood the, dheere se Draupadi se bole,”
+
+“Hey Krishnaa, tum Rajkumar Uttar se keh do ki Brihannala pehle Arjuna ka saarathi reh chuka hai.”
+
+“Woh bahut kushal hai aur bade-bade yuddhon ka anubhav rakhta hai.”
+
+Draupadi Rajkumar Uttar ke paas gayi aur boli,
+
+“Hey Rajkumar, Brihannala saamanya vyakti nahi hai.”
+
+“Woh pehle Arjuna ka saarathi reh chuka hai.”
+
+“Jab Agnidev ne Khandav van jalaya tha, tab bhi wahi Arjuna ka rath chala raha tha.”
+
+“Uske jaisa saarathi dhoondhna mushkil hai.”
+
+Rajkumar Uttar thoda jhijhak kar bole,
+
+“Hey Sairindhri, tum use achhi tarah jaanti ho.”
+
+“Lekin main khud us Brihannala se kaise kahun?”
+
+Draupadi boli,
+
+“Tumhari chhoti behen Uttara agar kahegi, toh Brihannala zaroor maan jaayega.”
+
+“Fir tum bina chinta ke yuddh mein jaa sakoge.”
+
+Yeh sunkar Rajkumar Uttar ne apni behen se kaha,
+
+“Hey Uttara, tum jaakar Brihannala ko yahaan bula lao.”
+
+Rishi Vaisampayana bole, “Bhai ka aadesh paakar Rajkumari Uttara turant nritya shala ki taraf chal padi, jahaan veer Arjuna Brihannala ke roop mein reh rahe the.”"""
             create_image_text_layout(
                 text_content=text2,
                 layout="full"
@@ -3079,7 +3133,16 @@ Woh mahal ki streeon ke saamne apni bahaduri dikhane laga aur bade garv se baate
 
         # Section 4.4.12
         with st.expander("Section 4.4.12  Section XXXVII"):
-            text1 = """ """
+            text1 = """ 
+            Rishi Vaisampayana bole, “Rajkumar Uttar ka sandesh paakar Rajkumari Uttara turant nritya shala ki taraf gayi.”
+
+Woh bahut sundar lag rahi thi.
+
+Unhone sone ka haar pehna hua tha, kamar mein motiyon ki mekhla thi, aur unka roop Devi Lakshmi ki tarah chamak raha tha.
+
+Woh jaldi-jaldi Brihannala ke paas pahunchi, bilkul bijli ki chamak ki tarah.
+
+Rajkumari ne Arjuna ko pranam kiya."""
             create_image_text_layout(
                 "attached_assets/chapter4/4.4.12.jpg",
                 text1,
@@ -3087,7 +3150,84 @@ Woh mahal ki streeon ke saamne apni bahaduri dikhane laga aur bade garv se baate
                 image_position="left"
             )
 
-            text2 = """ """
+            text2 = """ 
+            Arjuna ne pyaar aur muskaan ke saath poocha,
+
+“Hey sundari, tum itni jaldi mein yahaan kyun aayi ho?”
+
+“Tumhara chehra udaas kyun lag raha hai?”
+
+“Mujhe bina deri sab batao.”
+
+Rajkumari Uttara vinamrata se boli,
+
+“Hey Brihannala, Kaurav hamare rajya ki gaayen le ja rahe hain.”
+
+“Mere bhai Rajkumar Uttar unse yuddh karne ja rahe hain.”
+
+“Lekin unka saarathi mar chuka hai aur ab unke paas koi kushal rath chalane waala nahi hai.”
+
+“Sairindhri ne humein aapke baare mein bataya.”
+
+“Usne kaha ki aap pehle Arjuna ke priya saarathi the.”
+
+“Arjuna ne aapke saath milkar poori dharti ko jeeta tha.”
+
+“Isliye kripya mere bhai ke saarathi ban jaiye.”
+
+Rajkumari ne dukhi swar mein kaha,
+
+“Agar aap meri baat nahi maanenge, toh main jeena chhod dungi.”
+
+Rishi Vaisampayana bole, “Rajkumari ki baat sunkar Arjuna unke saath Rajkumar Uttar ke paas chale gaye.”
+
+Rajkumari bhi unke peeche-peeche chalti rahi, bilkul maa haathi ke peeche chalne wale bachche ki tarah.
+
+Rajkumar Uttar ne Brihannala ko dekhkar kaha,
+
+“Sairindhri ne mujhe aapki mahanta bataayi hai.”
+
+“Aap hi Arjuna ke saarathi the.”
+
+“Kripya mera rath sambhaliye aur mujhe Kauravo se yuddh karne le chaliye.”
+
+Arjuna mazaak bhare andaaz mein bole,
+
+“Main toh sirf gaan aur nritya jaanta hoon.”
+
+“Mujhe yuddh bhoomi mein rath chalane ka kya gyaan?”
+
+Rajkumar Uttar bole,
+
+“Chahe aap gaayak ho ya nritya guru, iss samay aapko mera saarathi banna hi hoga.”
+
+Rishi Vaisampayana bole, “Arjuna sab kuch jaante hue bhi manoranjan ke liye anjaan ban rahe the.”
+
+Jab unhone kavach pehenne ki koshish ki, toh jaan-boojhkar ulta pehenne lage.
+
+Yeh dekhkar mahal ki sab rajkumariyaan zor-zor se hansne lagi.
+
+Fir Rajkumar Uttar ne khud Arjuna ko kavach pehnaya.
+
+Uske baad Uttar ne apna chamakta hua kavach pehna aur sher waala dhwaj apne rath par lagwaya.
+
+Arjuna Brihannala ke roop mein saarathi bane aur Rajkumar Uttar ko lekar yuddh ke liye nikal pade.
+
+Mahal ki rajkumariyaan haste hue Brihannala se boli,
+
+“Jab aap Kauravo ko haraakar lautenge, toh hamari gudiyon ke liye sundar kapde lekar aana!”
+
+Arjuna muskuraakar gehri awaaz mein bole,
+
+“Agar Rajkumar Uttar Kauravo ko hara denge, toh main tum sabke liye bahut sundar vastra zaroor laaunga.”
+
+Rishi Vaisampayana bole, “Iske baad Arjuna ne ghodon ko tez gati se Kaurav sena ki taraf badhaya.”
+
+Nikalte samay buzurg streeon, Brahmanon aur rajkumariyon ne rath ke chaaron taraf ghoomkar Rajkumar Uttar ko aashirvaad diya.”
+
+Woh boli,
+
+“Jaise Arjuna ne Khandav van mein vijay paayi thi, waise hi tum bhi aaj Kauravo par vijay paao.”"""
             create_image_text_layout(
                 text_content=text2,
                 layout="full"
@@ -3096,7 +3236,18 @@ Woh mahal ki streeon ke saamne apni bahaduri dikhane laga aur bade garv se baate
 
         # Section 4.4.13
         with st.expander("Section 4.4.13  Section XXXVIII"):
-            text1 = """ """
+            text1 = """ 
+            Rishi Vaisampayana bole, “Rajkumar Uttar ne Brihannala se kaha,”
+
+“Mujhe seedha wahaan le chalo jahaan Kaurav sena khadi hai.”
+
+“Main unhe haraakar hamari gaayen wapas le aaunga.”
+
+Yeh sunkar Arjuna ne tez gati waale ghodon ko aage badhaya.
+
+Sone ke haaron se sajae hue woh ghode hawa ki tarah daudne lage.
+
+Kuch hi der mein dono ne Kaurav sena ko dekh liya."""
             create_image_text_layout(
                 "attached_assets/chapter4/4.4.13.jpg",
                 text1,
@@ -3104,7 +3255,122 @@ Woh mahal ki streeon ke saamne apni bahaduri dikhane laga aur bade garv se baate
                 image_position="left"
             )
 
-            text2 = """ """
+            text2 = """ 
+            Woh sena samundar ki tarah vishaal lag rahi thi.
+
+Har taraf haathi, ghode, rath aur dhwaj hi dhwaj dikh rahe the.
+
+Dhool ka bada baadal aasman tak chha gaya tha.
+
+Rajkumar Uttar ne jab Bhishma, Drona, Karna, Kripa, Ashwatthama aur Duryodhana ko dekha, toh woh darr se kaamp uthe.
+
+Unke shareer ke rom khade ho gaye.
+
+Woh ghabraakar bole,
+
+“Hey Brihannala, main in Kauravo se yuddh nahi kar sakta!”
+
+“Yeh sena bahut bhayanak hai.”
+
+“Bhishma, Drona aur Karna jaise mahaan yoddha yahaan maujood hain.”
+
+“Main abhi bachcha hoon.”
+
+“Mere paas itni shakti aur anubhav nahi hai.”
+
+“Kripya rath ko wapas mod lo!”
+
+Rishi Vaisampayana bole, “Darr ke maare Uttar ka hausla toot gaya.”
+
+Woh rote hue bole,
+
+“Mere pita poori sena lekar Trigarton se ladne gaye hain.”
+
+“Main yahaan akela hoon.”
+
+“Main iss vishaal sena ka saamna nahi kar sakta.”
+
+Tab Brihannala bane Arjuna muskuraakar bole,
+
+“Hey Rajkumar, abhi tak tumne yuddh kiya bhi nahi aur tum itna darr rahe ho?”
+
+“Tumne hi sabke saamne apni veerta ki badi-badi baatein ki thi.”
+
+“Ab peeche hatoge toh log tum par hansenge.”
+
+“Veer Kshatriya yuddh bhoomi se bhaagte nahi.”
+
+“Main toh bina gaayen wapas laaye lautunga hi nahi.”
+
+Lekin Uttar ka darr aur badh gaya.
+
+Woh bole,
+
+“Chahe log mera mazaak udaayein, chahe gaayen chali jaayein, mujhe yuddh nahi karna!”
+
+Itna kehkar Rajkumar Uttar rath se kood pade aur dhanush chhodkar bhaagne lage.
+
+Tab Arjuna zor se bole,
+
+“Yeh veeron ka kaam nahi hai!”
+
+“Yuddh bhoomi mein darrkar bhaagna Kshatriya ko shobha nahi deta.”
+
+“Yuddh mein mar jaana bhi bhaagne se behtar hai!”
+
+Yeh kehkar Arjuna khud rath se utar pade aur Uttar ke peeche bhaage.
+
+Unki lambi choti aur laal vastra hawa mein lehra rahe the.
+
+Door se yeh drishya dekhkar Kaurav sena ke kai yoddha hansne lage.
+
+Kuch log ek doosre se bole,
+
+“Yeh vyakti kaun hai?”
+
+“Yeh aadha purush aur aadha stree jaisa lagta hai.”
+
+“Lekin iska chalna aur shareer Arjuna jaisa lag raha hai.”
+
+“Kya yeh sach mein Dhananjaya Arjuna ho sakta hai?”
+
+“Koi aur akela hamare saamne aane ki himmat nahi kar sakta.”
+
+Fir bhi Kaurav kisi nishchay par nahi pahunch paaye.
+
+Udhar Arjuna ne bhaagte hue Uttar ko pakad liya.
+
+Rajkumar darr ke maare lagbhag behosh ho rahe the.
+
+Woh rote hue bole,
+
+“Hey Brihannala, mujhe chhod do!”
+
+“Main tumhe sau sone ke sikke dunga.”
+
+“Ratna, haathi aur sundar rath bhi dunga.”
+
+“Bas mujhe yahaan se le chalo!”
+
+Arjuna hans pade.
+
+Woh Uttar ko kheenchkar wapas rath ke paas laaye aur bole,
+
+“Hey Rajkumar, agar tum yuddh nahi kar sakte, toh koi baat nahi.”
+
+“Tum sirf mere saarathi ban jao.”
+
+“Main akela hi Kauravo se yuddh karunga aur gaayen wapas laaunga.”
+
+“Tum bas ghodon ki lagaam sambhalo.”
+
+“Darrna mat, tum ek Kshatriya ho.”
+
+“Main tumhari raksha karunga.”
+
+Rishi Vaisampayana bole, “Arjuna ne dheere-dheere Uttar ka hausla badhaya aur use rath par wapas bitha diya.”
+
+“Fir veer Arjuna Kaurav sena ki taraf badhne lage.”"""
             create_image_text_layout(
                 text_content=text2,
                 layout="full"
@@ -3113,7 +3379,16 @@ Woh mahal ki streeon ke saamne apni bahaduri dikhane laga aur bade garv se baate
 
         # Section 4.4.14
         with st.expander("Section 4.4.14  Section XXXIX"):
-            text1 = """ """
+            text1 = """ 
+            Rishi Vaisampayana bole, “Jab Kaurav yoddhaon ne Brihannala ke roop mein Arjuna ko Rajkumar Uttar ke saath Shami vriksh ki taraf jaate dekha, toh unke mann mein shanka utpann hui.”
+
+Bhishma, Dronacharya aur anya maharathi sochne lage,
+
+“Kya yeh sach mein Arjuna ho sakta hai?”
+
+Us samay achanak bahut saare apashakun dikhne lage.
+
+Tez aur garam hawa chalne lagi."""
             create_image_text_layout(
                 "attached_assets/chapter4/4.4.14.jpg",
                 text1,
@@ -3121,7 +3396,64 @@ Woh mahal ki streeon ke saamne apni bahaduri dikhane laga aur bade garv se baate
                 image_position="left"
             )
 
-            text2 = """ """
+            text2 = """ 
+            Dhool aur kankad aasman mein uddne lage.
+
+Aasmaan raakh ke rang ka ho gaya.
+
+Bina paani ke baadal ajeeb dikhne lage.
+
+Yoddhaon ke hathiyaar apne aap myaan se bahar nikalne lage.
+
+Ghode aansu bahaane lage.
+
+Dhwaj bina hawa ke kaampne lage.
+
+Siyar bhayanak awaaz mein cheekhne lage.
+
+Yeh sab dekhkar Dronacharya gambhir ho gaye.
+
+Woh bole,
+
+“Yeh sab bahut bade sankat ke sanket hain.”
+
+“Sab log saavdhan ho jaao.”
+
+“Sena ko yuddh ke liye taiyaar rakho aur gaayon ki raksha karo.”
+
+“Jo vyakti stree ke roop mein aa raha hai, woh koi aam vyakti nahi.”
+
+“Mujhe poora vishwas hai ki yeh Arjuna hi hai.”
+
+Fir Drona ne Bhishma se kaha,
+
+“Yeh wahi Kiriti Arjuna hai, jiske rath par vaanar dhwaj lehraata hai.”
+
+“Yeh Indra putra hai aur devtaon tak se ladne ki shakti rakhta hai.”
+
+“Mahadev swayam isse prasann ho chuke hain.”
+
+“Yeh aaj nishchit roop se hum sabko haraakar gaayen wapas le jaayega.”
+
+Dronacharya ki baat sunkar Karna ko krodh aa gaya.
+
+Woh ghamand se bola,
+
+“Aap hamesha Arjuna ki hi tareef karte rehte hain.”
+
+“Arjuna meri ya Duryodhana ki shakti ke saamne solahve bhaag ke barabar bhi nahi hai!”
+
+Tab Duryodhana khush hokar bola,
+
+“Agar yeh sach mein Arjuna hai, toh mera kaam aasaan ho gaya.”
+
+“Pandavo ka agyaatvaas poora hone se pehle hi woh pakde jaayenge.”
+
+“Fir unhe dobara baarah saal vanvaas jaana padega.”
+
+“Lekin agar yeh koi aur vyakti hai, toh main ise apne teeron se turant gira dunga.”
+
+Rishi Vaisampayana bole, “Duryodhana ki baat sunkar Bhishma, Drona, Kripa aur Ashwatthama ne uski veerta ki prashansa toh ki, lekin unke mann mein Arjuna ka darr ab bhi bana hua tha.”"""
             create_image_text_layout(
                 text_content=text2,
                 layout="full"
@@ -3130,7 +3462,18 @@ Woh mahal ki streeon ke saamne apni bahaduri dikhane laga aur bade garv se baate
 
         # Section 4.4.15
         with st.expander("Section 4.4.15  Section XL"):
-            text1 = """ """
+            text1 = """ 
+            Rishi Vaisampayana bole, “Arjuna Rajkumar Uttar ko lekar Shami vriksh ke paas pahunche.”
+
+Unhone samajh liya tha ki Uttar abhi yuddh mein anubhavheen aur komal hriday waale hain.
+
+Tab Arjuna ne shaant swar mein kaha,
+
+“Hey Uttar, iss vriksh par kuch mahaan dhanush aur divya astr-shastra chhipe hue hain.”
+
+“Tumhare dhanush mere bal aur teeron ka bhaar nahi sambhaal sakte.”
+
+“Isliye tum iss vriksh par chadhkar unhe neeche utaaro.”"""
             create_image_text_layout(
                 "attached_assets/chapter4/4.4.15.jpg",
                 text1,
@@ -3138,7 +3481,32 @@ Woh mahal ki streeon ke saamne apni bahaduri dikhane laga aur bade garv se baate
                 image_position="left"
             )
 
-            text2 = """ """
+            text2 = """ 
+            Arjuna ne aage kaha,
+
+“Isi vriksh par Pandavo ke dhanush, baan, dhwaj aur kavach bandhe hue hain.”
+
+“Yudhishthira, Bhima, Nakula, Sahadeva aur Arjuna ke divya hathiyaar yahaan surakshit rakhe gaye hain.”
+
+Fir Arjuna ne Gandiva ka varnan kiya.
+
+Woh bole,
+
+“Yahaan Arjuna ka mahaan Gandiva dhanush bhi rakha hai.”
+
+“Woh hazaaron dhanushon ke barabar shakti rakhta hai.”
+
+“Uske bal se rajya jeete ja sakte hain.”
+
+“Woh taad vriksh jitna bada, bahut mazboot aur sone se saja hua hai.”
+
+“Us par koi gaanth nahi hai aur woh bahut sundar bana hua hai.”
+
+“Uska bhaar aur tanav saamanya yoddha sambhaal bhi nahi sakte.”
+
+“Pandavo ke anya dhanush bhi utne hi shaktishaali aur kathor hain.”
+
+Rishi Vaisampayana bole, “Arjuna ki baatein sunkar Rajkumar Uttar aashcharya se us Shami vriksh ko dekhne lage, jahaan Pandavo ke divya astr-shastra chhupe hue the.”"""
             create_image_text_layout(
                 text_content=text2,
                 layout="full"
@@ -3147,7 +3515,16 @@ Woh mahal ki streeon ke saamne apni bahaduri dikhane laga aur bade garv se baate
 
         # Section 4.4.16
         with st.expander("Section 4.4.16  Section XLI"):
-            text1 = """ """
+            text1 = """ 
+            Rajkumar Uttar ne Shami vriksh ko dekhkar ghabraate hue kaha,
+
+“Hey Brihannala, maine suna hai ki iss vriksh par ek laash latkaayi gayi hai.”
+
+“Main ek Kshatriya rajkumar hoon.”
+
+“Main kisi shav ko haath kaise laga sakta hoon?”
+
+“Yeh mere liye uchit nahi hai.”"""
             create_image_text_layout(
                 "attached_assets/chapter4/4.4.16.jpg",
                 text1,
@@ -3155,7 +3532,42 @@ Woh mahal ki streeon ke saamne apni bahaduri dikhane laga aur bade garv se baate
                 image_position="left"
             )
 
-            text2 = """ """
+            text2 = """ 
+            “Tum mujhe apavitra kaam kyun karwa rahe ho?”
+
+Tab Brihannala bane Arjuna muskuraakar bole,
+
+“Hey Rajkumar, darrne ki koi baat nahi hai.”
+
+“Yahaan koi shav nahi latka.”
+
+“Sirf divya dhanush aur astr-shastra yahaan surakshit rakhe gaye hain.”
+
+“Main tumse kabhi koi apmaan janak kaam nahi karwaunga.”
+
+Rishi Vaisampayana bole, “Arjuna ki baat sunkar Rajkumar Uttar dheere-dheere vriksh par chadh gaye.”
+
+Arjuna neeche rath par khade rahe aur bole,
+
+“Jaldi un astron ki rassi aur kapde kholkar neeche utaaro.”
+
+Rajkumar Uttar ne vriksh par bandhe hue kapde aur rassiyan khol diं.
+
+Tab unhone wahan paanch mahaan dhanush dekhe.
+
+Unmein Arjuna ka divya Gandiva bhi tha.
+
+Jaise hi ve dhanush prakat hue, unka tej surya ki tarah chamakne laga.
+
+Woh aise lag rahe the jaise aasman mein naye grah uday ho rahe hon.
+
+Un dhanushon ka roop bhayanak saanpon ki tarah prateet ho raha tha.
+
+Unka divya prakash dekhkar Uttar ke shareer ke rom khade ho gaye.
+
+Woh aashcharya aur bhay se bhar gaye.
+
+Divya astron ko sparsh karte hue Rajkumar Uttar neeche khade Arjuna ki taraf dekhkar bolne lage."""
             create_image_text_layout(
                 text_content=text2,
                 layout="full"
@@ -3164,7 +3576,18 @@ Woh mahal ki streeon ke saamne apni bahaduri dikhane laga aur bade garv se baate
 
         # Section 4.4.17
         with st.expander("Section 4.4.17  Section XLII"):
-            text1 = """ """
+            text1 = """ 
+            Rajkumar Uttar ne divya astr-shastron ko dekhkar bade aashcharya se Arjuna se poocha,
+
+“Hey Brihannala, yeh adbhut dhanush kis mahaan yoddha ka hai?”
+
+“Is dhanush par sau sone ke kundal jaise alankaar lage hue hain aur iska tej surya ki tarah chamak raha hai.”
+
+“Yeh doosra dhanush kiska hai, jis par sone ke haathi bane hue hain?”
+
+“Yeh teesra dhanush kiska hai, jis par sone ke Indragop ke chinh sajae gaye hain?”
+
+“Yeh chautha dhanush kiska hai, jo teen chamakte hue suryon se alankrit hai?”"""
             create_image_text_layout(
                 "attached_assets/chapter4/4.4.17.jpg",
                 text1,
@@ -3172,7 +3595,46 @@ Woh mahal ki streeon ke saamne apni bahaduri dikhane laga aur bade garv se baate
                 image_position="left"
             )
 
-            text2 = """ """
+            text2 = """ 
+            “Yeh sundar dhanush kiska hai, jo sona aur ratnon se saja hua hai aur jis par chamakte hue keede jaise alankaar bane hain?”
+
+Rajkumar Uttar fir teeron ko dekhkar bole,
+
+“Yeh hazaaron teer kis yoddha ke hain?”
+
+“Inke sir sone ke bane hue hain aur yeh sone ke tarkash mein rakhe gaye hain.”
+
+“Yeh mote aur bhayanak teer kis ke hain, jin par giddh ke pankh lage hue hain aur jo poore lohe ke bane hue hain?”
+
+“Yeh kaale rang ka tarkash kis ka hai, jis par paanch baaghon ki chhavi bani hai?”
+
+“Ismein rakhe hue teer bahut bhayanak lag rahe hain.”
+
+“Yeh saat sau bade-bade teer kis ke hain, jo khoon peene ke liye taiyaar lagte hain aur chand ki kala ki tarah chamak rahe hain?”
+
+“Yeh sone se sajaye hue teer kis ke hain, jinmein tota ke pankhon jaise hare pankh lage hue hain?”
+
+Fir Uttar ne talwaaron ko dekhkar poocha,
+
+“Yeh bhayanak talwaar kis mahaan yoddha ki hai, jis par mendhak ka chinh bana hua hai?”
+
+“Yeh baagh ki khaal waali myaan mein rakhi hui sone se saji talwaar kiski hai?”
+
+“Yeh sundar chamakti hui talwaar kiski hai, jiska hilt sone ka bana hua hai?”
+
+“Yeh neele aasman ki tarah kaali aur lambi talwaar kiski hai?”
+
+“Yeh bhaari aur chaudi talwaar kis mahaan yoddha ki hai, jo aag ki tarah chamak rahi hai?”
+
+“Yeh kaali dhaar waali aur sone ke binduon se saji bhayanak talwaar kiski hai, jo zehreeli saanp ki tarah darr paida karti hai?”
+
+Rajkumar Uttar bade aashcharya se bole,
+
+“Hey Brihannala, kripya mujhe sach-sach bataaiye.”
+
+“In sab divya astr-shastron ko dekhkar mera mann chakit ho gaya hai.”
+
+"""
             create_image_text_layout(
                 text_content=text2,
                 layout="full"
@@ -3181,7 +3643,20 @@ Woh mahal ki streeon ke saamne apni bahaduri dikhane laga aur bade garv se baate
 
         # Section 4.4.18
         with st.expander("Section 4.4.18  Section XLIII"):
-            text1 = """ """
+            text1 = """ 
+            Brihannala bane Arjuna muskuraakar bole,
+
+“Hey Rajkumar Uttar, jis dhanush ke baare mein tumne sabse pehle poocha tha, woh duniya bhar mein prasiddh Arjuna ka Gandiva hai.”
+
+“Yeh shatru senaon ka vinaash karne waala divya dhanush hai.”
+
+“Is par sona saja hua hai aur yeh sabhi dhanushon mein sabse mahaan hai.”
+
+“Yeh akela hi hazaaron dhanushon ke barabar shakti rakhta hai.”
+
+“Isi Gandiva ke bal par Arjuna ne manushyon aur devtaon tak ko yuddh mein haraaya hai.”
+
+Arjuna ne aage kaha,"""
             create_image_text_layout(
                 "attached_assets/chapter4/4.4.18.jpg",
                 text1,
@@ -3189,7 +3664,64 @@ Woh mahal ki streeon ke saamne apni bahaduri dikhane laga aur bade garv se baate
                 image_position="left"
             )
 
-            text2 = """ """
+            text2 = """ 
+            “Is divya dhanush ko pehle Bhagwan Shiva ne hazaar varsh tak dhaaran kiya tha.”
+
+“Uske baad Prajapati ne ise rakha.”
+
+“Fir Indra, Chandradev aur Varun Dev ne ise dhaaran kiya.”
+
+“Ant mein Varun Dev ne yeh dhanush Arjuna ko diya.”
+
+“Isliye yeh sab dhanushon mein sarvashreshth maana jaata hai.”
+
+Fir Arjuna ne doosre dhanush ki taraf sanket karte hue kaha,
+
+“Yeh sundar aur mazboot dhanush Bhimasena ka hai.”
+
+“Issi dhanush se Bhima ne poorvi deshon ko jeeta tha.”
+
+“Yeh teesra dhanush Dharmaraj Yudhishthira ka hai.”
+
+“Is par sone ke Indragop ke chinh bane hue hain.”
+
+“Yeh chamakte hue suryon waala dhanush Nakula ka hai.”
+
+“Aur yeh sona aur ratnon se saja dhanush Sahadeva ka hai.”
+
+Fir Arjuna ne teeron ke baare mein bataya.
+
+Woh bole,
+
+“Yeh hazaar teekhe aur zehreeli saanp jaise bhayanak teer Arjuna ke hain.”
+
+“Yuddh mein chalne par yeh kabhi samaapt nahi hote.”
+
+“Yeh bade aur chand ki kala jaise teer Bhima ke hain.”
+
+“Yeh baaghon ke chinh waala tarkash Nakula ka hai.”
+
+“Issi ke bal par usne pashchimi deshon ko jeeta tha.”
+
+“Yeh rang-birange aur surya ki tarah chamakne waale teer Sahadeva ke hain.”
+
+“Aur yeh mote, mazboot aur sone ke sir waale baan Yudhishthira ke hain.”
+
+Fir Arjuna ne talwaaron ka varnan kiya.
+
+Woh bole,
+
+“Yeh mendhak ke chinh waali bhayanak talwaar Arjuna ki hai.”
+
+“Yeh baagh ki khaal waali myaan mein rakhi lambi talwaar Bhimasena ki hai.”
+
+“Yeh sundar aur sone ki mooth waali talwaar Dharmaraj Yudhishthira ki hai.”
+
+“Bakri ki khaal waali myaan mein rakhi yeh tez dhaar talwaar Nakula ki hai.”
+
+“Aur yeh badi aur shaktishaali talwaar, jo gaay ki khaal waali myaan mein rakhi hai, Sahadeva ki hai.”
+
+Rishi Vaisampayana bole, “Arjuna ke mukh se Pandavo ke divya astr-shastron ka varnan sunkar Rajkumar Uttar aur bhi adhik chakit ho gaye.”"""
             create_image_text_layout(
                 text_content=text2,
                 layout="full"
@@ -3198,7 +3730,18 @@ Woh mahal ki streeon ke saamne apni bahaduri dikhane laga aur bade garv se baate
 
         # Section 4.4.19
         with st.expander("Section 4.4.19  Section XLIV"):
-            text1 = """ """
+            text1 = """ 
+            Rajkumar Uttar ne divya astr-shastron ko dekhkar aashcharya se kaha,
+
+“Yeh sab Arjuna ke astr bahut adbhut lag rahe hain.”
+
+“Lekin Pandav ab kahaan hain?”
+
+“Yudhishthira, Bhima, Nakula, Sahadeva aur swayam Arjuna kahaan chhupe hue hain?”
+
+“Draupadi bhi kahaan hai, jo vanvaas mein unke saath gayi thi?”
+
+Tab Brihannala bane Arjuna shaant swar mein bole,"""
             create_image_text_layout(
                 "attached_assets/chapter4/4.4.19.jpg",
                 text1,
@@ -3206,7 +3749,76 @@ Woh mahal ki streeon ke saamne apni bahaduri dikhane laga aur bade garv se baate
                 image_position="left"
             )
 
-            text2 = """ """
+            text2 = """ 
+            “Hey Rajkumar, main hi Arjuna hoon.”
+
+“Tumhare pita ki sabha mein jo Kanka naam se rehte hain, wahi Yudhishthira hain.”
+
+“Tumhare rajya ke rasoiya Vallava hi Bhimasena hain.”
+
+“Ghodo ki dekhbhaal karne waale Granthika hi Nakula hain.”
+
+“Gaayon ki raksha karne waale Tantripal hi Sahadeva hain.”
+
+“Aur Sairindhri hi Draupadi hain, jiske liye Keechak aur uske bhai maare gaye.”
+
+Yeh sunkar Rajkumar Uttar hairaan reh gaye.
+
+Woh bole,
+
+“Agar aap sach mein Arjuna hain, toh mujhe apne das naam bataaiye.”
+
+“Maine pehle unke baare mein suna hai.”
+
+“Tabhi mujhe vishwas hoga.”
+
+Arjuna muskuraaye aur bole,
+
+“Mere das naam hain — Arjuna, Phalguna, Jishnu, Kiriti, Shvetavahana, Vibhatsu, Vijaya, Krishna, Savyasachi aur Dhananjaya.”
+
+Rajkumar Uttar ne poocha,
+
+“Hey veer, aapko yeh sab naam kyun diye gaye?”
+
+Tab Arjuna ne ek-ek naam ka arth bataya.
+
+Woh bole,
+
+“Mujhe Dhananjaya isliye kehte hain kyunki maine anek deshon ko jeetkar dhan prapt kiya.”
+
+“Mujhe Vijaya kehte hain kyunki main yuddh bhoomi se kabhi bina vijay paaye wapas nahi lauta.”
+
+“Mera naam Shvetavahana hai kyunki mere rath mein sada safed ghode jude rehte hain.”
+
+“Mujhe Phalguna kaha jaata hai kyunki mera janm Uttara Phalguni nakshatra mein hua tha.”
+
+“Mujhe Kiriti isliye kehte hain kyunki Indra ne mujhe ek chamakta hua mukut diya tha.”
+
+“Mera naam Vibhatsu hai kyunki main kabhi yuddh mein neech ya adharm ka kaam nahi karta.”
+
+“Mujhe Savyasachi kehte hain kyunki main dono haathon se Gandiva chala sakta hoon.”
+
+“Mujhe Arjuna kaha jaata hai kyunki mera roop aur mere karm dono pavitra aur nirmal hain.”
+
+“Mera naam Jishnu hai kyunki main shatruon ko haraane waala aur ajey yoddha hoon.”
+
+“Aur Krishna naam mere pita ne prem se rakha tha, kyunki mera rang saanvla tha.”
+
+Rishi Vaisampayana bole, “Arjuna ki baatein sunkar Rajkumar Uttar ka darr poori tarah door ho gaya.”
+
+Woh turant Arjuna ke paas aaye aur unhe pranam kiya.
+
+Woh vinamrata se bole,
+
+“Hey Partha, mujhe kshama kariye.”
+
+“Maine aapko pehchaana nahi aur agyaan mein bahut kuch keh diya.”
+
+“Aapko dekhkar mera bhay ab samaapt ho gaya hai.”
+
+“Aaj mera bhaagya jag gaya ki mujhe aapke darshan hue.”
+
+“Ab mujhe poora vishwas hai ki Kaurav sena ko koi nahi bacha sakta.”"""
             create_image_text_layout(
                 text_content=text2,
                 layout="full"
@@ -3215,7 +3827,18 @@ Woh mahal ki streeon ke saamne apni bahaduri dikhane laga aur bade garv se baate
 
         # Section 4.4.20
         with st.expander("Section 4.4.20  Section XLV"):
-            text1 = """ """
+            text1 = """ 
+            Rishi Vaisampayana bole, “Rajkumar Uttar ne Arjuna se poocha,”
+
+“Hey veer, main aapka saarathi bankar iss vishaal Kaurav sena ke kis bhaag ki taraf rath le jaaun?”
+
+Arjuna muskuraakar bole,
+
+“Hey Rajkumar, tum bilkul bhi mat daro.”
+
+“Main aaj tumhare sab shatruon ko yuddh mein hara dunga.”
+
+“Tum sirf dhairya rakho aur mere liye rath sambhalo.”"""
             create_image_text_layout(
                 "attached_assets/chapter4/4.4.20.jpg",
                 text1,
@@ -3223,7 +3846,124 @@ Woh mahal ki streeon ke saamne apni bahaduri dikhane laga aur bade garv se baate
                 image_position="left"
             )
 
-            text2 = """ """
+            text2 = """ 
+            “Jaldi se mere tarkash rath par baandh do aur ek sundar talwaar bhi le lo.”
+
+Rishi Vaisampayana bole, “Arjuna ki baat sunkar Uttar ka darr dheere-dheere door ho gaya.”
+
+Woh turant vriksh se neeche utar aaye aur Arjuna ke divya astr-shastra rath par rakh diye.
+
+Tab Arjuna bole,
+
+“Hey Uttar, jab tak main iss rath par hoon, tab tak yeh rath ek durg ke samaan surakshit hai.”
+
+“Mere baan uski deewarein hain.”
+
+“Mera dhwaj uska shikhar hai.”
+
+“Meri dhanush ki jya us durg ke yantron ki tarah shatruon par vaar karegi.”
+
+“Mere krodh se yeh rath ajey ho jaayega.”
+
+“Isliye tumhara bhay ab samaapt ho jaana chahiye.”
+
+Rajkumar Uttar vinamrata se bole,
+
+“Hey Partha, ab mujhe koi darr nahi hai.”
+
+“Aapka yuddh mein dhairya Indra aur Shri Krishna ke samaan hai.”
+
+“Lekin ek baat mujhe sada hairaan karti rahi.”
+
+“Aap jaise sundar aur divya purush ne napunsak ka roop kaise dhaaran kiya?”
+
+Tab Arjuna bole,
+
+“Hey Rajkumar, yeh sab maine apne bade bhai Yudhishthira ki aagya se kiya tha.”
+
+“Main vaastav mein napunsak nahi hoon.”
+
+“Agyaatvaas poora karne aur dharm paalan ke liye maine Brihannala ka roop dhaaran kiya tha.”
+
+“Ab mera woh vrat samaapt ho chuka hai.”
+
+Yeh sunkar Uttar bahut prasann hue.
+
+Woh bole,
+
+“Aaj mera bhaagya jaag gaya.”
+
+“Ab mujhe poora vishwas hai ki hum devtaon se bhi lad sakte hain.”
+
+“Aap mujhe aadesh dijiye.”
+
+“Main aapka saarathi banunga.”
+
+“Main Daruk aur Matali ki tarah kushalta se rath chala sakta hoon.”
+
+Fir Uttar ne Arjuna ke ghodon ki tareef ki.
+
+Woh bole,
+
+“Yeh safed ghode bahut tez aur shaktishaali hain.”
+
+“Yeh Shri Krishna aur Indra ke divya ghodon ke samaan hain.”
+
+“Yeh rath aap jaise mahaan dhanurdhar ke yogya hai.”
+
+Rishi Vaisampayana bole, “Uske baad Arjuna ne apne haathon se chudiyan utaar diं aur sone se kadhai ki hui divya dastane pehen liye.”
+
+Unhone apne ghunghraale kaale baalon ko safed kapde se baandh liya.
+
+Fir purv disha ki taraf mukh karke ve rath par baith gaye.
+
+Unhone man hi man apne sabhi astr-shastron ka smaran kiya.
+
+Turant saare divya astr prakat ho gaye aur bole,
+
+“Hey Indraputra, hum aapki seva mein haazir hain.”
+
+Arjuna ne unhe pranam kiya aur kaha,
+
+“Tum sab mere smaran mein sadaa virajmaan raho.”
+
+Fir Arjuna ne Gandiva dhanush uthaya aur uski jya chadhaakar zor se tan di.
+
+Us dhanush ki awaaz do bade saandon ki takkar ki tarah goonj uthi.
+
+Dharti kaamp uthi.
+
+Tez aandhi chalne lagi.
+
+Aasmaan mein ulkaayein girne lagiं.
+
+Pakshi ghabraakar uddne lage aur bade-bade vriksh hilne lage.
+
+Kaurav sena ne us bhayanak dhwani ko sunkar turant pehchaan liya.
+
+Sab samajh gaye ki Arjuna ne Gandiva utha liya hai.
+
+Rajkumar Uttar fir bhi thoda ghabraakar bole,
+
+“Hey Partha, aap akela hain aur saamne itne saare maharathi hain.”
+
+“Aap in sabko kaise haraayenge?”
+
+Arjuna zor se hans pade aur bole,
+
+“Hey Rajkumar, jab maine Gandharvon se yuddh kiya tha, tab mere saath kaun tha?”
+
+“Khandav van mein devtaon aur daanavon se ladte samay mera sahayak kaun tha?”
+
+“Nivatakavach aur Paulom daanavon se yuddh mein kaun mere saath tha?”
+
+“Draupadi swayamvar mein anek rajaon ka saamna karte waqt mera saathi kaun tha?”
+
+“Maine Dronacharya, Indra, Varun, Agni, Shri Krishna aur swayam Mahadev se astr-vidya seekhi hai.”
+
+“Isliye in Kauravo se ladna mere liye kathin nahi hai.”
+
+“Tum bas rath ko tez gati se aage badhao aur apna bhay chhod do.”"""
             create_image_text_layout(
                 text_content=text2,
                 layout="full"
