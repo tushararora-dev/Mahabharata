@@ -4456,7 +4456,14 @@ Is tarah yudh ke beech bhi Arjun ne apne guru aur buzurgon ka samman kabhi nahi 
 
         # Section 4.4.31
         with st.expander("Section 4.4.31  Section LVI"):
-            text1 = """ """
+            text1 = """ 
+            Devtaon ne Dekha Arjun ka Mahayudh
+
+Vaisampayana ne kaha, “Kaurav sena ke yoddha badalon ki tarah maidan mein khade the. Unke ghode, haathi aur rath yudh ke liye taiyaar the.”
+
+Haathiyon par bade-bade yoddha baithe the aur poori sena bahut bhayankar lag rahi thi.
+
+Tab aasman mein ek adbhut drishya dikhai diya."""
             create_image_text_layout(
                 "attached_assets/chapter4/4.4.31.jpg",
                 text1,
@@ -4464,7 +4471,26 @@ Is tarah yudh ke beech bhi Arjun ne apne guru aur buzurgon ka samman kabhi nahi 
                 image_position="left"
             )
 
-            text2 = """ """
+            text2 = """ 
+            Swarg ke raja Indra khud devtaon ke saath yudh dekhne aaye. Unke saath Gandharv, Yaksha, Naag aur bade-bade rishi bhi aaye.
+
+Poora aasman chamakte hue divya rathon se bhar gaya. Aisa lag raha tha jaise taaron se bhara hua sundar aakash ho.
+
+Sab devta ek hi cheez dekhna chahte the — Arjun aur Bhishma ka mahaan yudh.
+
+Indra ka divya rath sona aur ratno se chamak raha tha. Bahut se mahaan raja aur purvaj bhi unke saath baithe the.
+
+Agni dev, Varun dev, Kuber, Yamraj aur kai aur devta bhi apne-apne rathon mein wahan aaye.
+
+Hawa mein swarg ke phoolon ki sugandh fail gayi. Thandi hawa chalne lagi aur poora maidan divya roshni se jagmag karne laga.
+
+Devtaon ke laal chhatra, sundar haar aur chamakte vastra aasman ko aur bhi khoobsurat bana rahe the.
+
+Sabki nazar ek hi vyakti par thi — Arjun.
+
+Indra apne putra Arjun ko garv se dekh rahe the. Woh baar-baar use dekhte, lekin unka mann bhar hi nahi raha tha.
+
+Us samay yudh bhoomi sirf ek battlefield nahi rahi. Woh devtaon aur mahaan yoddhaon ke adbhut darshan ka divya drishya ban gayi."""
             create_image_text_layout(
                 text_content=text2,
                 layout="full"
@@ -4473,7 +4499,14 @@ Is tarah yudh ke beech bhi Arjun ne apne guru aur buzurgon ka samman kabhi nahi 
 
         # Section 4.4.32
         with st.expander("Section 4.4.32  Section LVII"):
-            text1 = """ """
+            text1 = """ 
+            Arjun aur Kripacharya ka Tez Muqabla
+
+Vaisampayana ne kaha, “Arjun ne Kaurav sena ko dekhkar Uttara se kaha, ‘Rath ko Kripacharya ki taraf le chalo.’”
+
+Uttara ne turant safed aur tez ghodon ko bijli ki speed se daudaya. Kabhi woh rath ko ghumata, kabhi gol chakkar banata. Kaurav sena uski chaal dekhkar confuse ho gayi.
+
+Jab Arjun Kripacharya ke saamne pahunch gaya, tab usne zor se apna Devadatta shankh bajaya."""
             create_image_text_layout(
                 "attached_assets/chapter4/4.4.32.jpg",
                 text1,
@@ -4481,7 +4514,44 @@ Is tarah yudh ke beech bhi Arjun ne apne guru aur buzurgon ka samman kabhi nahi 
                 image_position="left"
             )
 
-            text2 = """ """
+            text2 = """ 
+            Us shankh ki awaaz itni bhayankar thi jaise pahaad toot gaya ho. Awaaz aasman tak pahunch gayi.
+
+Kaurav yoddha bhi us adbhut shankh ki tareef karne lage.
+
+Kripacharya ko yeh sunkar gussa aa gaya. Unhone bhi apna shankh bajaya aur dhanush utha liya.
+
+Dono mahaan dhanurdhar aamne-saamne khade the, bilkul do chamakte Suraj ki tarah.
+
+Kripacharya ne pehle Arjun par tez baan chalaaye. Lekin Arjun ne Gandiva se itne teer barsaaye ki poora aasman dhak gaya.
+
+Kripa ne bhi bahaduri se Arjun ke kai baan hawa mein hi kaat diye.
+
+Yudh aur tez ho gaya.
+
+Phir Arjun ne Kripa ke ghodon ko baan maar kar hila diya. Kripacharya ka santulan bigad gaya aur woh thoda peeche hat gaye.
+
+Lekin Arjun ne maryada dikhayi. Unhone turant aur vaar nahi kiya.
+
+Kripa phir sambhal kar wapas lade. Lekin Arjun ne unka dhanush kaat diya.
+
+Kripa ne doosra dhanush uthaya, woh bhi kaat diya gaya.
+
+Ek-ek karke Arjun unke sab dhanush todta gaya.
+
+Phir Kripacharya ne gusse mein ek bhayankar bhala phenka. Lekin Arjun ne use bhi teeron se hawa mein hi tod diya.
+
+Uske baad Arjun ne Kripa ke rath ko tod diya. Ghode ghaayal ho gaye, saarathi mar gaya aur dhwaj bhi gir gaya.
+
+Aakhir mein Kripa rath se utar kar gada lekar Arjun ki taraf daude.
+
+Lekin Arjun ne apne baanon se us gada ko bhi wapas mod diya.
+
+Tab Kripacharya ki sena unhe bachane ke liye Arjun par toot padi.
+
+Uttara ne samajhdari se rath ghumaya aur Arjun ko surakshit sambhalte hue yudh karta raha.
+
+Ant mein Kaurav yoddha Kripacharya ko wahan se le gaye, kyunki Arjun ke saamne tikna bahut mushkil ho raha tha."""
             create_image_text_layout(
                 text_content=text2,
                 layout="full"
@@ -4490,7 +4560,14 @@ Is tarah yudh ke beech bhi Arjun ne apne guru aur buzurgon ka samman kabhi nahi 
 
         # Section 4.4.33
         with st.expander("Section 4.4.33  Section LVIII"):
-            text1 = """ """
+            text1 = """ 
+            Arjun aur Dronacharya ka Mahaan Yudh
+
+Vaisampayana ne kaha, “Kripacharya ke chale jaane ke baad Dronacharya apne laal ghodon wale rath par Arjun ki taraf badhe.”
+
+Arjun ne Uttara se kaha, “Mujhe mere guru Dronacharya ke paas le chalo. Woh mahaan gyani aur sabse bade dhanurdharon mein se ek hain.”
+
+Usne bade samman se Drona ki tareef ki."""
             create_image_text_layout(
                 "attached_assets/chapter4/4.4.33.jpg",
                 text1,
@@ -4498,7 +4575,50 @@ Is tarah yudh ke beech bhi Arjun ne apne guru aur buzurgon ka samman kabhi nahi 
                 image_position="left"
             )
 
-            text2 = """ """
+            text2 = """ 
+            “Unke paas sabhi divya astron ka gyaan hai. Woh satya, dhairya aur self-control se bhare hue hain.”
+
+Uttara ne turant rath Drona ki taraf mod diya.
+
+Dronacharya ne apna shankh bajaya. Uski awaaz sunkar poori sena hil uthi.
+
+Jab Arjun aur Drona aamne-saamne aaye, tab sab yoddha unhe hairani se dekhne lage. Guru aur shishya dono hi mahaan dhanurdhar the.
+
+Arjun ne vinamrata se Drona ko pranam kiya aur kaha,
+
+“Humne apna vanvaas poora kar liya hai. Ab hum apna adhikar wapas lena chahte hain. Guruvar, main aap par pehle vaar nahi karunga.”
+
+Lekin Dronacharya ne turant baan chala diye.
+
+Arjun ne un sab teeron ko hawa mein hi kaat diya.
+
+Phir dono ke beech bhayankar yudh shuru ho gaya.
+
+Drona ne aasman ko teeron se bhar diya. Arjun ne bhi Gandiva se itne baan chalaaye ki Suraj ki roshni tak dhak gayi.
+
+Dono divya astron ka prayog kar rahe the. Kabhi Agni astra, kabhi Vayu astra. Arjun har baar Drona ke astron ka jawab de raha tha.
+
+Yeh yudh dekhkar sab log hairaan reh gaye.
+
+Kaurav sena ke log bole, “Sirf Arjun hi Dronacharya ka saamna kar sakta hai.”
+
+Teeron ki awaaz bijli ki garaj jaisi lag rahi thi. Aasman poori tarah baanon se bhar gaya tha.
+
+Arjun ki speed itni tez thi ki log dekh hi nahi pa rahe the ki woh kab baan uthata aur kab chala deta.
+
+Devta aur Gandharv bhi uski tareef karne lage.
+
+Dronacharya bhi Arjun ki kala dekhkar andar hi andar prabhavit ho rahe the.
+
+Phir Arjun ne itne teer barsaaye ki Drona ka rath poori tarah dhak gaya.
+
+Kaurav sena ghabra gayi aur zor-zor se chillane lagi.
+
+Tab Ashwatthama gusse mein Arjun ki taraf badha aur usne teeron ki tez baarish kar di.
+
+Arjun ne turant apna rath uski taraf mod diya.
+
+Isi mauke ka fayda uthakar Dronacharya, jo ghaayal ho chuke the, yudh bhoomi se thoda door chale gaye."""
             create_image_text_layout(
                 text_content=text2,
                 layout="full"
@@ -4507,9 +4627,453 @@ Is tarah yudh ke beech bhi Arjun ne apne guru aur buzurgon ka samman kabhi nahi 
 
         # Section 4.4.34
         with st.expander("Section 4.4.34  Section LIX"):
-            text1 = """ """
+            text1 = """ 
+            Ashwatthama ne Gandiva ki Dor Kaati
+
+Vaisampayana ne kaha, “Dronacharya ke baad unke putra Ashwatthama gusse mein Arjun ki taraf badhe.”
+
+Woh tufaan ki tarah tezi se aaye aur baarish ke badal ki tarah teeron ki bochhaar kar di.
+
+Arjun ne bhi turant jawab diya. Dono mahaan yoddhaon ke beech bhayankar yudh shuru ho gaya.
+
+Aasman teeron se bhar gaya. Suraj tak chhup gaya aur hawa bhi shaant si lagne lagi.
+
+Teeron ki takrahat se jalte hue baans jaisi awaaz aa rahi thi."""
             create_image_text_layout(
                 "attached_assets/chapter4/4.4.34.jpg",
+                text1,
+                layout="side",
+                image_position="left"
+            )
+
+            text2 = """ 
+            Arjun ke teer Ashwatthama ke ghodon ko lagne lage. Ghode ghabra gaye aur unhe samajh nahi aa raha tha ki kis taraf jaana hai.
+
+Tab Ashwatthama ko ek mauka mila.
+
+Usne ek tez baan se Arjun ke Gandiva ki dor kaat di.
+
+Yeh dekhkar devta bhi hairaan reh gaye. Drona, Bhishma, Karna aur Kripacharya sabne Ashwatthama ki tareef ki.
+
+Lekin Arjun bilkul bhi ghabraya nahi.
+
+Woh zor se hasa aur turant Gandiva par nayi dor baandh li.
+
+Phir woh gusse mein ek bade haathi ki tarah Ashwatthama ki taraf badha.
+
+Dono yoddha saanp jaise jalte hue baan ek doosre par chala rahe the.
+
+Arjun ke paas divya aur kabhi khatam na hone wale baan the. Isliye woh bina ruke ladta raha.
+
+Dheere-dheere Ashwatthama ke baan kam padne lage aur Arjun us par bhaari padne laga.
+
+Tabhi achanak Karna ne apna dhanush zor se tan kar awaaz ki.
+
+Yeh awaaz sunkar sabka dhyaan uski taraf chala gaya.
+
+Arjun ne jaise hi Karna ko dekha, uska gussa aur badh gaya.
+
+Uski aankhen krodh se laal ho gayin. Woh sirf Karna se yudh karna chahta tha.
+
+Kaurav yoddhaon ne Arjun ko rokne ke liye hazaaron teer chalaaye, lekin Arjun seedha Karna ki taraf badhta gaya.
+
+Ab maidan ek aur mahaan takraav ke liye taiyaar ho raha tha — Arjun aur Karna ka saamna."""
+            create_image_text_layout(
+                text_content=text2,
+                layout="full"
+            )
+
+
+        # Section 4.4.35
+        with st.expander("Section 4.4.35  Section LX"):
+            text1 = """ 
+            Arjun ne Karna ko Yaad Dilaya Purana Apmaan
+
+Arjun ne Karna se kaha, “Hey Karna, ab woh samay aa gaya hai jab tumhe apni badi-badi baaton ko sach karke dikhana hoga.”
+
+Woh gusse mein bola, “Sabha mein tumne kaha tha ki tumhare jaisa yoddha koi nahi. Aaj yudh mein apni asli taakat dikhao.”
+
+Phir Arjun ko Draupadi ka apmaan yaad aa gaya.
+
+Usne kaha, “Jab Draupadi ka sabha mein apmaan ho raha tha, tab tum chup nahi rahe. Aaj us paap ka phal bhugto.”"""
+            create_image_text_layout(
+                "attached_assets/chapter4/4.4.35.jpg",
+                text1,
+                layout="side",
+                image_position="left"
+            )
+
+            text2 = """ 
+            Arjun bola, “Humne 12 saal vanvaas mein bahut dukh jhele hain. Aaj hamara saara gussa yudh mein dikhega.”
+
+Karna bhi peeche nahi hata.
+
+Woh bola, “Parth, sirf baatein mat karo. Aaj apni taakat dikhakar sabit karo.”
+
+Usne ahankaar se kaha, “Chahe Indra bhi tumhari madad kare, main phir bhi tumse nahi darunga.”
+
+Tab Arjun ne uski purani haar yaad dilayi.
+
+Woh bola, “Tum pehle bhi mujhse darr kar yudh bhoomi se bhaag chuke ho, jab tumhara bhai maara gaya tha.”
+
+Yeh sunkar Karna aur gusse mein aa gaya.
+
+Dono ne ek doosre par bhayankar teeron ki baarish shuru kar di. Teer itni tezi se chal rahe the ki poora maidan goonj utha.
+
+Karna ne Arjun ko ghaayal karne ki koshish ki, lekin Arjun ne uske dhanush aur teer rakhne ki dor kaat di.
+
+Phir Karna ne ek aur baan se Arjun ke haath par vaar kiya. Kuch pal ke liye Gandiva dheela pad gaya.
+
+Lekin Arjun turant sambhal gaya.
+
+Usne Karna ka dhanush tod diya aur uska bhala bhi hawa mein hi kaat diya.
+
+Karna ki sena Arjun ki taraf daudi, lekin Arjun ne Gandiva se un sabko hara diya.
+
+Phir Arjun ne Karna ke ghodon ko maar giraaya.
+
+Aakhir mein Arjun ne ek bahut shaktishaali baan chalaaya jo Karna ke kavach ko cheerkar uske shareer mein ghus gaya.
+
+Karna ko tez dard hua. Uski aankhon ke saamne andhera chha gaya.
+
+Hosh sambhalte hi woh darr aur peeda mein yudh bhoomi chhodkar bhaag gaya.
+
+Arjun aur Uttara usse dekhkar uska mazaak udaane lage, kyunki phir se Karna Arjun ke saamne tik nahi paaya."""
+            create_image_text_layout(
+                text_content=text2,
+                layout="full"
+            )
+            
+                    # Section 4.4.36
+        with st.expander("Section 4.4.36  Section LXI"):
+            text1 = """ 
+            Uttara ka Dar aur Arjun ka Honsla
+
+Vaisampayana ne kaha, “Karna ko haraane ke baad Arjun ne Uttara se kaha, ‘Ab rath ko Bhishma Pitamah ki taraf le chalo.’”
+
+Lekin Uttara bahut thak chuka tha. Woh darr aur shock se kaanp raha tha.
+
+Usne Arjun se kaha, “Hey veer, main ab ghodon ko sambhal nahi paa raha. Har taraf khoon, awaazein aur yudh ka darr dikh raha hai.”
+
+Woh bola, “Aapke divya astron aur Gandiva ki garaj se meri soch tak hil gayi hai. Mujhe samajh nahi aa raha ki kya ho raha hai.”"""
+            create_image_text_layout(
+                "attached_assets/chapter4/4.4.36.jpg",
+                text1,
+                layout="side",
+                image_position="left"
+            )
+
+            text2 = """ 
+            Uttara ne kaha, “Main dekh bhi nahi pa raha ki aap kab baan uthate hain aur kab chala dete hain.”
+
+Arjun ne shaant swar mein uska hausla badhaya.
+
+Woh bola, “Dar mat, Uttara. Tumne bhi bahaduri dikhayi hai. Tum Matsya vansh ke rajkumar ho. Himmat mat haaro.”
+
+Arjun ne kaha, “Bas mere ghodon ko sambhalo. Baaki sab mujh par chhod do.”
+
+Phir Arjun ne apni shakti ke baare mein bataya.
+
+“Main aaj Bhishma ka dhanush tod dunga. Kaurav dekhenge ki mere baan bijli ki tarah aasman mein chamakte hain.”
+
+Woh bola, “Aaj yudh bhoomi mein teeron ki aisi aandhi chalegi ki dushman sambhal nahi paayenge.”
+
+Arjun ne Uttara ko yaad dilaya ki usne pehle bhi devtaon aur daityon se yudh kiya hai.
+
+“Indra ne mujhe shakti di hai. Shiv ji aur doosre devtaon se maine divya astra paaye hain.”
+
+Uski baatein sunkar Uttara ka darr dheere-dheere kam hone laga.
+
+Phir woh Arjun ka rath lekar Bhishma ki sena mein ghus gaya.
+
+Arjun ne saamne aate hi Bhishma Pitamah ka dhwaj ek teer se gira diya.
+
+Yeh dekhkar Dushasan, Vikarna, Dussaha aur Vivingsati ek saath Arjun par toot pade.
+
+Dushasan ne Uttara aur Arjun dono ko baan maare. Lekin Arjun ne turant uska dhanush tod diya aur use ghaayal kar diya.
+
+Darr kar Dushasan yudh se bhaag gaya.
+
+Phir Vikarna ne hamla kiya, lekin Arjun ne uske maathe par baan maara aur woh rath se gir pada.
+
+Dussaha aur Vivingsati ne milkar Arjun ko rokne ki koshish ki. Lekin Arjun ne unke ghodon ko maar giraaya aur dono ko ghaayal kar diya.
+
+Aakhir mein unhe bhi yudh bhoomi se hata diya gaya.
+
+Aur Arjun apne divya Gandiva ke saath chaaro taraf teeron ki baarish karta hua akela hi poori Kaurav sena par bhaari padne laga."""
+            create_image_text_layout(
+                text_content=text2,
+                layout="full"
+            )
+
+
+        # Section 4.4.37
+        with st.expander("Section 4.4.37  Section LXII"):
+            text1 = """ 
+            Arjun bana Kaurav Sena ke liye Toofan
+
+Vaisampayana ne kaha, “Tab saare bade Kaurav maharathi ek saath milkar Arjun par har taraf se hamla karne lage.”
+
+Lekin Arjun bilkul nahi dara.
+
+Usne apne teeron ki aisi baarish ki ki poori Kaurav sena dhundh mein chhupe pahaadon ki tarah dikhne lagi.
+
+Haathiyon ki garaj, shankhon ki awaaz aur Gandiva ki tan-tan se poora maidan goonj utha.
+
+Arjun ke baan haathiyon, ghodon aur lohe ke kavach ko cheer kar nikal rahe the.
+
+Woh itni tezi se teer chala raha tha ki lag raha tha jaise dopahar ka chamakta Suraj yudh bhoomi mein utar aaya ho."""
+            create_image_text_layout(
+                "attached_assets/chapter4/4.4.37.jpg",
+                text1,
+                layout="side",
+                image_position="left"
+            )
+
+            text2 = """ 
+            Kaurav sena mein darr fail gaya.
+
+Kai yoddha rath se kud pade. Ghudsawar ghodon se girne lage aur paidal sainik har taraf bhaagne lage.
+
+Arjun ke baanon ne kai yoddhaon ke kavach tod diye. Zameen par toote hue hathiyaar, kate hue haath aur sir bikhar gaye.
+
+Gandiva ki garaj sunkar bahut se yoddha darr ke maare yudh chhodkar bhaag gaye.
+
+Arjun maidan mein aise ghoom raha tha jaise swayam kaal yudh kar raha ho.
+
+Uska gussa Dhritarashtra ke putron par bijli ki tarah toot raha tha.
+
+Duryodhan ke saamne hi Kaurav sena ka hausla tootne laga. Kai maharathi ladna chhodkar peeche hatne lage.
+
+Vaisampayana ne kaha, “Arjun ne yudh bhoomi mein khoon ki ek bhayankar nadi si bana di.”
+
+Us nadi mein rath naukaon ki tarah lag rahe the. Haathi uske bhayankar jaanwar jaise dikh rahe the.
+
+Toote hue kavach, mukut aur gehne usmein tair rahe the.
+
+Poora drishya itna bhayankar tha ki dekhne walon ke dil kaanp uthe.
+
+Aur Arjun ki speed itni tez thi ki koi samajh hi nahi paa raha tha ki woh kab baan uthata, kab chalaata aur kab agla vaar kar deta."""
+            create_image_text_layout(
+                text_content=text2,
+                layout="full"
+            )
+
+
+        # Section 4.4.38
+        with st.expander("Section 4.4.38  Section LXIII"):
+            text1 = """ 
+            Arjun aur Bhishma ka Divya Mahayudh
+
+Vaisampayana ne kaha, “Jab Kaurav sena mein bahut vinaash hone laga, tab Bhishma Pitamah khud Arjun ke saamne aaye.”
+
+Unhone sona se saja hua dhanush uthaya aur tez baan lekar Arjun ki taraf badhe. Unke sir ke upar safed chhatra chamak raha tha, jis se woh ugte Suraj ke saamne pahaad ki tarah dikh rahe the.
+
+Bhishma ne shankh bajaya aur Kaurav sena ka hausla badhaya.
+
+Arjun ne bhi unhe khushi aur samman ke saath dekha, jaise koi pahaad baarish wale baadal ka swagat karta hai.
+
+Bhishma ne pehle Arjun ke dhwaj par baan chalaaye. Vanar wale dhwaj ko teer lage aur woh zor se hilne laga."""
+            create_image_text_layout(
+                "attached_assets/chapter4/4.4.38.jpg",
+                text1,
+                layout="side",
+                image_position="left"
+            )
+
+            text2 = """ 
+            Tab Arjun ne ek bhala phenkar Bhishma ka safed chhatra gira diya.
+
+Uske baad Arjun ne Bhishma ke ghodon aur rath ke rakshakon par teeron ki baarish kar di.
+
+Bhishma bhi peeche nahi hate. Unhone divya astra chalaaya aur Arjun ko teeron se dhak diya.
+
+Arjun ne bhi turant apna divya astra chalaakar uska jawab diya.
+
+Dono mahaan yoddhaon ka yudh dekhkar Kaurav sena chup-chaap dekhne lagi.
+
+Teer aasman mein takra rahe the aur chamak rahe the, jaise barsaat ki raat mein jugnu chamakte hain.
+
+Arjun dono haathon se itni tezi se Gandiva chala raha tha ki uska dhanush aag ke gol ghoomne jaisa lag raha tha.
+
+Kabhi Arjun Bhishma ko teeron se dhak deta, kabhi Bhishma Arjun ko.
+
+Kaurav yoddha hairaan hokar bole, “Sirf Bhishma, Krishna aur Dronacharya hi Arjun ka saamna kar sakte hain.”
+
+Dono divya astron ka prayog kar rahe the — Agni, Indra, Varun aur Rudra ke astra aasman mein chamak rahe the.
+
+Devta aur Gandharv bhi yeh adbhut yudh dekhkar prashansa karne lage.
+
+Phir Arjun ne ek tez baan se Bhishma ka dhanush kaat diya.
+
+Lekin Bhishma ne turant doosra dhanush utha liya aur phir se yudh shuru kar diya.
+
+Dono taraf se itni tez teeron ki baarish ho rahi thi ki dason dishaayein dhak gayin.
+
+Devta bhi hairaan the ki koi insaan itni tez dhanurvidya kaise dikha sakta hai.
+
+Citrasen Gandharv ne Indra se kaha, “Dekhiye, Arjun ke baan bina ruke ek seedhi rekha ki tarah aasman mein ja rahe hain. Yeh kala aam manushyon ke bas ki baat nahi.”
+
+Indra ne dono mahaan yoddhaon par swarg ke phool barsaaye.
+
+Phir Arjun hans pada aur usne ek aur baan se Bhishma ka dhanush dobara kaat diya.
+
+Uske baad usne Bhishma ke seene par das tez baan maare.
+
+Bhishma ko bahut dard hua. Kuch pal ke liye unki hosh chali gayi aur woh apne rath ke sahare khade rahe.
+
+Yeh dekhkar unka saarathi unhe surakshit jagah par le gaya.
+
+Is tarah Arjun aur Bhishma ka mahaan yudh poori duniya ke liye ek adbhut drishya ban gaya."""
+            create_image_text_layout(
+                text_content=text2,
+                layout="full"
+            )
+
+
+        # Section 4.4.39
+        with st.expander("Section 4.4.39  Section LXIV"):
+            text1 = """ 
+            Duryodhan bhi Arjun se Dar Gaya
+
+Vaisampayana ne kaha, “Jab Bhishma Pitamah ko yudh bhoomi se le jaaya gaya, tab Duryodhan khud Arjun ke saamne aaya.”
+
+Usne zor se garaj kar apna dhanush tan liya aur ek tez baan Arjun ke maathe par maara.
+
+Baan lagte hi Arjun ke maathe se khoon behne laga. Woh khoon uske shareer par aise chamak raha tha jaise sone ke phoolon ki mala ho.
+
+Lekin Arjun aur bhi gusse mein aa gaya."""
+            create_image_text_layout(
+                "attached_assets/chapter4/4.4.39.jpg",
+                text1,
+                layout="side",
+                image_position="left"
+            )
+
+            text2 = """ 
+            Usne zahreeli saanp jaisi shakti wale baan uthaye aur Duryodhan par tezi se vaar kiya.
+
+Dono mahaan yoddha ek doosre par teeron ki baarish karne lage.
+
+Tab Vikarna ek bade aur bhayankar haathi par baithkar Arjun ki taraf badha.
+
+Arjun ne turant ek bhayankar baan chalaaya jo seedha haathi ke maathe mein ja laga.
+
+Woh baan bijli ki tarah haathi ke shareer mein ghus gaya.
+
+Haathi zor se kaampa aur dard se gir pada, bilkul us pahaad ki tarah jo vajra se toot jaaye.
+
+Vikarna darr kar haathi se kud gaya aur bhaagkar Vivingsati ke rath par chadh gaya.
+
+Phir Arjun ne ek aur tez baan Duryodhan ke seene par maara.
+
+Duryodhan ghaayal ho gaya. Uske saath ke yoddha bhi darr kar bhaagne lage.
+
+Jab Duryodhan ne dekha ki sena toot rahi hai, toh woh bhi rath modkar bhaagne laga.
+
+Arjun ne use bhaagte hue dekhkar zor se awaaz lagayi,
+
+“Hey Duryodhan! Apni shaan aur garv chhodkar kyun bhaag rahe ho?”
+
+Woh bola, “Jab tum yudh ke liye nikle the tab shankh aur nagade baj rahe the. Ab woh himmat kahaan gayi?”
+
+Arjun ne uska mazaak udaate hue kaha,
+
+“Main Yudhishthir ka sevak aur Pritha ka putra yahan yudh ke liye khada hoon. Tum bhi palatkar saamna karo.”
+
+Phir Arjun hanskar bola,
+
+“Tumhara naam Duryodhan hai, lekin yudh chhodkar bhaagne se yeh naam bekaar lag raha hai.”
+
+Duryodhan chup-chaap darr ke saath bhaagta raha, kyunki us samay Arjun ke saamne tikna kisi ke liye aasaan nahi tha."""
+            create_image_text_layout(
+                text_content=text2,
+                layout="full"
+            )
+
+
+        # Section 4.4.40
+        with st.expander("Section 4.4.40  Section LXV"):
+            text1 = """ 
+            Arjun ka Sammohan Astra aur Kauravo ki Haar
+
+Vaisampayana ne kaha, “Jab Arjun ne Duryodhan ko lalkara, tab Duryodhan gusse mein wapas mud gaya.”
+
+Karna uske paas aaya aur use shaant karne laga. Saath hi Bhishma, Drona, Kripacharya, Dushasan aur doosre maharathi bhi Duryodhan ki raksha ke liye Arjun ki taraf badhe.
+
+Poora Kaurav sena samundar ki tez lehron ki tarah Arjun ko gherne lagi.
+
+Lekin Arjun bilkul shaant raha."""
+            create_image_text_layout(
+                "attached_assets/chapter4/4.4.40.jpg",
+                text1,
+                layout="side",
+                image_position="left"
+            )
+
+            text2 = """ 
+            Usne sabke astron ka jawab diya aur phir Indra se mila hua ek divya astra nikala — Sammohan Astra.
+
+Arjun ne Gandiva ki bhayankar awaaz aur teeron ki chamak se poori sena ko hila diya.
+
+Phir usne zor se Devadatta shankh bajaya.
+
+Us shankh ki awaaz itni shaktishaali thi ki Kaurav maharathi apni hosh kho baithe.
+
+Unke dhanush haathon se gir gaye aur woh sab kuch der ke liye behosh jaise ho gaye.
+
+Tab Arjun ne Uttara se kaha,
+
+“Jaldi jao aur in maharathiyon ke rang-birange vastra le aao. Lekin Bhishma Pitamah se bachkar rehna, kyunki woh abhi bhi hosh mein hain.”
+
+Uttara turant rath se utar gaya aur Drona, Kripa, Karna, Duryodhan aur Ashwatthama ke sundar vastra lekar wapas aa gaya.
+
+Uske baad Arjun rath lekar sena se bahar nikalne laga.
+
+Bhishma ne use jaate hue baan maare, lekin Arjun ne unke ghodon ko gira diya aur Bhishma ko bhi teeron se ghaayal kar diya.
+
+Phir Arjun ne Bhishma ke saarathi ko maar diya aur sena se bahar aa gaya, bilkul baadalon se nikalte Suraj ki tarah.
+
+Thodi der baad Duryodhan aur doosre yoddha hosh mein aaye.
+
+Duryodhan gusse mein Bhishma se bola, “Aapne Arjun ko jaane kyun diya?”
+
+Bhishma muskuraaye aur bole,
+
+“Jab tum sab behosh the, tab Arjun chahta toh hum sabko maar sakta tha. Lekin woh adharm nahi karta.”
+
+Unhone samjhaya, “Arjun hamesha dharm ka paalan karta hai. Isi wajah se tum sab aaj zinda ho.”
+
+Bhishma ne Duryodhan ko salah di,
+
+“Ab Hastinapur laut chalo. Arjun gaayein jeet chuka hai. Behtar hai aur yudh na karo.”
+
+Duryodhan chup ho gaya. Usne samajh liya ki Arjun ko rokna mushkil hai.
+
+Phir Kaurav sena dheere-dheere wapas lautne lagi.
+
+Jaate waqt Arjun ne Bhishma aur Dronacharya ko samman se pranam kiya. Usne Kripa aur Ashwatthama ko bhi teeron se namaskar kiya.
+
+Lekin Duryodhan ka ahankaar todne ke liye Arjun ne ek baan se uska ratno se saja hua mukut tod diya.
+
+Phir usne Gandiva ki tan-tan aur Devadatta shankh ki awaaz se teenon lokon ko goonja diya.
+
+Aakhir mein Arjun ne Uttara se muskura kar kaha,
+
+“Gaayein wapas mil gayi hain. Dushman ja chuka hai. Ab hum khushi se apne nagar laut sakte hain.”
+
+Aur devta bhi Arjun ke adbhut parakram ko dekhkar prasann hokar swarg laut gaye."""
+            create_image_text_layout(
+                text_content=text2,
+                layout="full"
+            )
+
+
+        # Section 4.4.41
+        with st.expander("Section 4.4.41  Section LXVI"):
+            text1 = """ """
+            create_image_text_layout(
+                "attached_assets/chapter4/4.4.41.jpg",
                 text1,
                 layout="side",
                 image_position="left"
@@ -4522,11 +5086,96 @@ Is tarah yudh ke beech bhi Arjun ne apne guru aur buzurgon ka samman kabhi nahi 
             )
 
 
-        # Section 4.4.35
-        with st.expander("Section 4.4.35  Section LX"):
+        # Section 4.4.42
+        with st.expander("Section 4.4.42  Section LXVII"):
             text1 = """ """
             create_image_text_layout(
-                "attached_assets/chapter4/4.4.35.jpg",
+                "attached_assets/chapter4/4.4.42.jpg",
+                text1,
+                layout="side",
+                image_position="left"
+            )
+
+            text2 = """ """
+            create_image_text_layout(
+                text_content=text2,
+                layout="full"
+            )
+
+
+        # Section 4.4.43
+        with st.expander("Section 4.4.43  Section LXVIII"):
+            text1 = """ """
+            create_image_text_layout(
+                "attached_assets/chapter4/4.4.43.jpg",
+                text1,
+                layout="side",
+                image_position="left"
+            )
+
+            text2 = """ """
+            create_image_text_layout(
+                text_content=text2,
+                layout="full"
+            )
+
+
+        # Section 4.4.44
+        with st.expander("Section 4.4.44  Section LXIX"):
+            text1 = """ """
+            create_image_text_layout(
+                "attached_assets/chapter4/4.4.44.jpg",
+                text1,
+                layout="side",
+                image_position="left"
+            )
+
+            text2 = """ """
+            create_image_text_layout(
+                text_content=text2,
+                layout="full"
+            )
+
+
+        # Section 4.4.45
+        with st.expander("Section 4.4.45  Section LXX"):
+            text1 = """ """
+            create_image_text_layout(
+                "attached_assets/chapter4/4.4.45.jpg",
+                text1,
+                layout="side",
+                image_position="left"
+            )
+
+            text2 = """ """
+            create_image_text_layout(
+                text_content=text2,
+                layout="full"
+            )
+
+
+        # Section 4.4.46
+        with st.expander("Section 4.4.46  Section LXXI"):
+            text1 = """ """
+            create_image_text_layout(
+                "attached_assets/chapter4/4.4.46.jpg",
+                text1,
+                layout="side",
+                image_position="left"
+            )
+
+            text2 = """ """
+            create_image_text_layout(
+                text_content=text2,
+                layout="full"
+            )
+
+
+        # Section 4.4.47
+        with st.expander("Section 4.4.47  Section LXXII"):
+            text1 = """ """
+            create_image_text_layout(
+                "attached_assets/chapter4/4.4.47.jpg",
                 text1,
                 layout="side",
                 image_position="left"
