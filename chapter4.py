@@ -5071,7 +5071,18 @@ Aur devta bhi Arjun ke adbhut parakram ko dekhkar prasann hokar swarg laut gaye.
 
         # Section 4.4.41
         with st.expander("Section 4.4.41  Section LXVI"):
-            text1 = """ """
+            text1 = """ 
+            Arjun ki Jeet aur Vinamrata
+
+Vaisampayana ne kaha, “Arjun ne Kaurav sena ko haraakar Virat ki saari gaayein wapas le li.”
+
+Jab Kaurav sena haar kar laut rahi thi, tab jungle se kai dare hue Kaurav sainik bahar aaye.
+
+Woh thake hue the, bhookh aur pyaas se pareshaan the. Darr ke maare unke chehre utar gaye the.
+
+Sab Arjun ke saamne haath jodkar khade ho gaye aur bole,
+
+“Hum aapke daas hain. Kripya humein maaf kar dijiye.”"""
             create_image_text_layout(
                 "attached_assets/chapter4/4.4.41.jpg",
                 text1,
@@ -5079,7 +5090,48 @@ Aur devta bhi Arjun ke adbhut parakram ko dekhkar prasann hokar swarg laut gaye.
                 image_position="left"
             )
 
-            text2 = """ """
+            text2 = """ 
+            Arjun ka dil daya se bhar gaya.
+
+Usne shaant swar mein kaha,
+
+“Darne ki zaroorat nahi. Main dukhi aur haare hue logon ko nahi maarta. Tum sab surakshit ho.”
+
+Yeh sunkar sainikon ko rahat mili. Woh Arjun ki bahaduri aur daya ki tareef karne lage.
+
+Uske baad Arjun ne Uttara se kaha,
+
+“Sirf tum jaante ho ki Pandav tumhare pita ke mahal mein reh rahe hain. Nagar mein jaakar hamari sachchai mat batana.”
+
+Arjun ne samjhaya,
+
+“Agar tum sach bata doge, toh Raja Virat darr sakte hain. Isliye kehna ki tumne hi Kaurav sena ko haraaya aur gaayein wapas laayi.”
+
+Uttara vinamrata se bola,
+
+“Yeh mahaan kaam mere bas ka nahi tha. Lekin jab tak aap nahi kahenge, main kisi ko aapki sachchai nahi bataunga.”
+
+Phir Arjun aur Uttara wapas usi Sami ped ke paas gaye jahan Arjun ne apne divya hathiyaar chhupaye the.
+
+Tab Arjun ke rath par laga divya vanar dhwaj aasman mein gayab ho gaya aur Uttara ka purana sher wala dhwaj wapas lag gaya.
+
+Arjun ne Gandiva aur apne divya baan phir se chhupa diye.
+
+Uske baad usne dobara apne baal baandhe aur Brihannala ka roop le liya.
+
+Ab woh phir se Uttara ka saarathi aur nritya-guru ban gaya, jaise kuch hua hi na ho.
+
+Raaste mein Arjun ne Uttara se kaha,
+
+“Gaayon ko pehle shehar bhej do aur logon ko tumhari jeet ki khabar do.”
+
+Uttara ne turant sandesh bheja,
+
+“Kaurav sena haar gayi hai. Gaayein wapas aa gayi hain.”
+
+Phir Uttara aur Brihannala khushi ke saath Virat nagar ki taraf laut pade.
+
+Is tarah mahaan yoddha Arjun ne sirf yudh mein hi nahi, balki vinamrata aur daya mein bhi apni mahaanta dikhayi."""
             create_image_text_layout(
                 text_content=text2,
                 layout="full"
@@ -5088,7 +5140,18 @@ Aur devta bhi Arjun ke adbhut parakram ko dekhkar prasann hokar swarg laut gaye.
 
         # Section 4.4.42
         with st.expander("Section 4.4.42  Section LXVII"):
-            text1 = """ """
+            text1 = """ 
+            Virat ka Garv aur Yudhishthir ka Dhairya
+
+Vaisampayana ne kaha, “Raja Virat Trigarton ko haraakar aur apni gaayein wapas paakar bahut khush hokar nagar laut aaye.”
+
+Unke saath chaar Pandav bhi the, lekin sab abhi bhi apne gupt roop mein the.
+
+Rajya ke log aur Brahman unka swagat karne aaye. Sab jagah khushi ka mahaul tha.
+
+Tab Raja Virat ne poocha,
+
+“Mera putra Uttara kahaan hai?”"""
             create_image_text_layout(
                 "attached_assets/chapter4/4.4.42.jpg",
                 text1,
@@ -5096,7 +5159,92 @@ Aur devta bhi Arjun ke adbhut parakram ko dekhkar prasann hokar swarg laut gaye.
                 image_position="left"
             )
 
-            text2 = """ """
+            text2 = """ 
+            Mahal ki mahilaon ne kaha,
+
+“Rajkumar Uttara sirf Brihannala ko saarathi banaakar akela hi Kaurav sena se ladne gaya hai.”
+
+Yeh sunkar Virat ka chehra udaas ho gaya.
+
+Woh bole, “Akele aur ek napunsak saarathi ke saath woh kaise bach payega?”
+
+Unhone turant sena ko Uttara ki madad ke liye bhejne ka aadesh diya.
+
+Tab Yudhishthir, jo Kanka ke roop mein the, halka sa muskuraaye aur bole,
+
+“Rajan, agar Brihannala uska saarathi hai, toh aaj koi bhi aapki gaayein nahi le ja sakta.”
+
+Woh bole, “Us saarathi ke saath aapka putra devtaon aur asuron ko bhi hara sakta hai.”
+
+Thodi der baad Uttara ke bheje hue doot nagar pahunch gaye.
+
+Unhone khushi se kaha,
+
+“Kaurav sena haar gayi! Gaayein wapas aa gayi hain! Rajkumar Uttara surakshit laut rahe hain!”
+
+Yeh sunkar Raja Virat khushi se bhar gaye.
+
+Unhone poore nagar ko sajaane ka aadesh diya. Jhande lagaye gaye, shankh bajne lage aur sundar mahilaayein aur gaayak Uttara ke swagat ke liye bheje gaye.
+
+Khushi mein Virat ne dice game khelne ka faisla kiya aur Yudhishthir ko bulaya.
+
+Yudhishthir ne shaanti se kaha,
+
+“Jab mann bahut khush ho, tab jua nahi khelna chahiye. Ismein bahut buraiyaan hoti hain.”
+
+Unhone apne purane dukh ko yaad karke kaha,
+
+“Yudhishthir naam ke ek raja ne dice ke kaaran apna rajya aur bhai tak kho diye the.”
+
+Lekin Virat ne fir bhi khel shuru kar diya.
+
+Khelte waqt Virat baar-baar apne putra ki tareef karne lage.
+
+Har baar Yudhishthir ek hi baat kehte,
+
+“Jiske saarathi Brihannala ho, uski jeet pakki hoti hai.”
+
+Yeh sunkar Virat ko gussa aa gaya.
+
+Woh bole,
+
+“Tum mere putra ki tulna ek napunsak se kar rahe ho? Tum hadd paar kar rahe ho!”
+
+Lekin Yudhishthir shaant rahe.
+
+Unhone kaha,
+
+“Bhishma, Drona, Karna aur Duryodhan jaise maharathiyon ka saamna sirf Brihannala hi kar sakta hai.”
+
+Virat ka gussa aur badh gaya.
+
+Achanak unhone haath mein pakda hua pasa zor se Yudhishthir ke chehre par maar diya.
+
+Yudhishthir ke naak se khoon behne laga.
+
+Lekin unhone us khoon ko zameen par girne nahi diya. Woh use apne haathon mein sambhalne lage.
+
+Draupadi samajh gayi ki Yudhishthir kya chahte hain. Woh turant sona ka bartan lekar aayi aur usmein khoon sambhal liya.
+
+Isi beech Uttara mahal ke gate par pahunch gaya.
+
+Darban ne Raja Virat ko bataya,
+
+“Rajkumar Uttara Brihannala ke saath dwar par khade hain.”
+
+Virat ne khushi se kaha,
+
+“Dono ko turant andar lao!”
+
+Lekin Yudhishthir ne dheere se darban ko roka.
+
+Woh bole,
+
+“Pehle Uttara ko akela andar aane do. Brihannala ko abhi mat bulaana.”
+
+Yudhishthir jaante the ki agar Arjun ne unhe khoon se bhara dekha, toh woh gusse mein Raja Virat ko bhi maar sakta tha.
+
+Is tarah Yudhishthir ne apne dhairya aur samajhdari se ek aur bada sankat tal diya."""
             create_image_text_layout(
                 text_content=text2,
                 layout="full"
@@ -5105,7 +5253,16 @@ Aur devta bhi Arjun ke adbhut parakram ko dekhkar prasann hokar swarg laut gaye.
 
         # Section 4.4.43
         with st.expander("Section 4.4.43  Section LXVIII"):
-            text1 = """ """
+            text1 = """ 
+            Uttara ne Sachchai Samajh Li
+
+Vaisampayana ne kaha, “Rajkumar Uttara mahal mein aaye aur sabse pehle apne pita Raja Virat ko pranam kiya.”
+
+Phir unki nazar Kanka par padi, jo asal mein Yudhishthir the.
+
+Woh zameen par baithe the aur unke chehre par khoon laga hua tha. Draupadi unki seva kar rahi thi.
+
+Yeh dekhkar Uttara ghabra gaya."""
             create_image_text_layout(
                 "attached_assets/chapter4/4.4.43.jpg",
                 text1,
@@ -5113,7 +5270,58 @@ Aur devta bhi Arjun ke adbhut parakram ko dekhkar prasann hokar swarg laut gaye.
                 image_position="left"
             )
 
-            text2 = """ """
+            text2 = """ 
+            Usne jaldi se poocha,
+
+“Pitashri, inhe kisne maara? Yeh paap kisne kiya?”
+
+Virat ne gusse mein jawab diya,
+
+“Maine is Brahman ko maara. Jab main tumhari tareef kar raha tha, tab yeh baar-baar us napunsak Brihannala ki tareef kar raha tha.”
+
+Yeh sunkar Uttara chauk gaya.
+
+Woh bola,
+
+“Rajan, aapne bahut galat kaam kiya hai. Jaldi inse maafi maangiye. Brahman ka shraap poore rajya ko barbaad kar sakta hai.”
+
+Virat ko apni galti ka ehsaas hone laga.
+
+Woh shaant hokar Yudhishthir ko manane lage.
+
+Tab Yudhishthir ne bade dhairya se kaha,
+
+“Rajan, maine aapko pehle hi maaf kar diya hai. Mujhe aapse koi gussa nahi hai.”
+
+Phir woh dheere se bole,
+
+“Agar mera yeh khoon zameen par gir jaata, toh aap aur aapka rajya dono vinaash ho jaate.”
+
+Lekin Yudhishthir ne Virat ko dosh nahi diya.
+
+Woh bole,
+
+“Shaktishaali log kabhi-kabhi bina soche gusse mein galat kaam kar dete hain.”
+
+Kuch der baad jab khoon ruk gaya, tab Brihannala yani Arjun andar aaye.
+
+Unhone Virat aur Yudhishthir dono ko pranam kiya aur chup-chaap khade ho gaye.
+
+Raja Virat ab bhi khushi mein apne putra Uttara ki tareef kar rahe the.
+
+Woh bole,
+
+“Beta, tumne Karna, Bhishma, Drona, Ashwatthama aur Duryodhan jaise mahaan yoddhaon ka saamna kaise kiya?”
+
+Virat ko lag raha tha ki Uttara ne akela hi sabko hara diya.
+
+Woh garv se bole,
+
+“Tumne meri saari gaayein wapas laayi aur mere dushmanon ko hara diya. Tum sach mein mahaan veer ho.”
+
+Lekin Uttara sach jaanta tha.
+
+Usse pata tha ki asli vijay Arjun ki thi, jo abhi bhi Brihannala ke roop mein chup-chaap khade the."""
             create_image_text_layout(
                 text_content=text2,
                 layout="full"
@@ -5122,7 +5330,18 @@ Aur devta bhi Arjun ke adbhut parakram ko dekhkar prasann hokar swarg laut gaye.
 
         # Section 4.4.44
         with st.expander("Section 4.4.44  Section LXIX"):
-            text1 = """ """
+            text1 = """ 
+            Uttara ne Bataya Asli Veer Kaun Tha
+
+Uttara ne apne pita Raja Virat se kaha,
+
+“Pitashri, na toh maine gaayein wapas laayi aur na hi maine Kaurav sena ko haraaya.”
+
+Woh vinamrata se bola,
+
+“Yeh sab ek divya veer ne kiya tha.”
+
+Uttara ne bataya ki jab woh darr kar yudh bhoomi se bhaag raha tha, tab ek devputra jaisa mahaan yoddha uske saamne aaya."""
             create_image_text_layout(
                 "attached_assets/chapter4/4.4.44.jpg",
                 text1,
@@ -5130,7 +5349,52 @@ Aur devta bhi Arjun ke adbhut parakram ko dekhkar prasann hokar swarg laut gaye.
                 image_position="left"
             )
 
-            text2 = """ """
+            text2 = """ 
+            Usne Uttara ko roka aur khud rath par chadh gaya.
+
+“Usi veer ne Kripacharya, Dronacharya, Ashwatthama, Karna aur Bhishma jaise maharathiyon ka saamna kiya.”
+
+Uttara ne kaha,
+
+“Usne akela hi poori Kaurav sena ko teeron se hila diya.”
+
+Phir Uttara ne Duryodhan ka drishya yaad kiya.
+
+Woh bola,
+
+“Jab Duryodhan darr kar bhaag raha tha, tab us divya veer ne use lalkar kar kaha —”
+
+“Hey Kuru rajkumar! Bhaagkar tum bach nahi sakte. Palatkar yudh karo. Jeetoge toh dharti milegi, aur maroge toh swarg.”
+
+Yeh sunkar Duryodhan wapas mud gaya aur teeron ki baarish karne laga.
+
+Lekin Uttara ka sharir darr se kaanpne laga.
+
+Woh bola,
+
+“Us samay maine dekha ki us veer ne sher ki tarah poori Kaurav sena ko akela hi hara diya.”
+
+“Usne maharathiyon ko parajit karke unke vastra aur alankaar tak le liye.”
+
+Uttara ne kaha,
+
+“Jaise ek gusse wala sher jungle ke jaanwaron ko bhaga deta hai, waise hi us veer ne akela hi chhe maharathiyon ko hara diya.”
+
+Virat yeh sab sunkar hairaan reh gaye.
+
+Woh bole,
+
+“Woh divya yoddha kahaan hai? Main usse milkar uska dhanyavaad karna chahta hoon. Usne tumhari aur meri gaayon ki raksha ki hai.”
+
+Uttara ne shaanti se jawab diya,
+
+“Woh yudh ke baad wahan se chala gaya. Shayad woh kal ya parson phir dikhai de.”
+
+Raja Virat ab bhi nahi samajh paaye ki Uttara jis divya veer ki baat kar raha hai, woh aur koi nahi, balki Brihannala ke roop mein chhupe Arjun hi the.
+
+Baad mein Arjun ne jo sundar vastra aur alankaar yudh se laaye the, woh Virat ki putri Uttara ko diye.
+
+Un sundar kapdon ko paakar Rajkumari Uttara bahut khush hui."""
             create_image_text_layout(
                 text_content=text2,
                 layout="full"
@@ -5139,7 +5403,16 @@ Aur devta bhi Arjun ke adbhut parakram ko dekhkar prasann hokar swarg laut gaye.
 
         # Section 4.4.45
         with st.expander("Section 4.4.45  Section LXX"):
-            text1 = """ """
+            text1 = """ 
+            Raja Virat ko Hui Pandavo ki Pehchaan
+
+Vaisampayana ne kaha, “Teesre din Pandav bhai snan karke safed vastra aur sundar abhushan pehenkar rajsabha mein aaye.”
+
+Paanchon bhai bahut tej aur shaan se chamak rahe the, bilkul paanch bade haathiyon ki tarah.
+
+Yudhishthir sabse aage the.
+
+Sab rajao ke liye rakhe gaye singhasanon par jaakar baith gaye."""
             create_image_text_layout(
                 "attached_assets/chapter4/4.4.45.jpg",
                 text1,
@@ -5147,7 +5420,60 @@ Aur devta bhi Arjun ke adbhut parakram ko dekhkar prasann hokar swarg laut gaye.
                 image_position="left"
             )
 
-            text2 = """ """
+            text2 = """ 
+            Tab Raja Virat sabha mein aaye.
+
+Jaise hi unhone Pandavo ko dekha, woh hairaan reh gaye.
+
+Unhone Kanka yani Yudhishthir ko dekha aur gusse mein bole,
+
+“Tum toh mere saath dice khelne wale courtier the! Itne rajsi kapde pehenkar rajaon ke singhasan par kaise baith gaye?”
+
+Yeh sunkar Arjun halka sa muskuraaya.
+
+Woh Raja Virat se bola,
+
+“Rajan, yeh vyakti sirf is singhasan ke hi nahi, balki Indra ke paas baithne ke bhi yogya hain.”
+
+Phir Arjun ne Yudhishthir ki mahaanta batani shuru ki.
+
+Woh bola,
+
+“Yeh Brahmano ka samman karne wale, Vedo ke gyani aur dharm par chalne wale mahaan raja hain.”
+
+“Yeh shakti, buddhi aur dhairya mein sabse aage hain.”
+
+Arjun ne kaha,
+
+“Teenon lokon mein koi bhi inse zyada dharm aur astra-shastra ka gyaan nahi rakhta.”
+
+Woh bola,
+
+“Devta, Asur, Gandharv ya Naag — koi bhi inke samaan nahi.”
+
+Phir Arjun ne Yudhishthir ke purane rajya ki mahima batayi.
+
+“Jab yeh Hastinapur mein raj karte the, tab hazaaron haathi, rath aur sainik inke saath chalte the.”
+
+“Bahut se gaayak aur kavi inki tareef gaate the.”
+
+Arjun ne kaha,
+
+“Bade-bade raja bhi inki seva karte the, jaise devta Kuber ki seva karte hain.”
+
+“Yeh gareeb, andhe, kamzor aur buddhe logon ki raksha apne bachchon ki tarah karte the.”
+
+Phir Arjun ne sachchai bata di.
+
+Woh bola,
+
+“Hey Rajan, yeh aur koi nahi, dharmraj Yudhishthir hain — Pandu putra aur Kuru vansh ke mahaan raja.”
+
+Sabha mein sannata chha gaya.
+
+Raja Virat hairani se Yudhishthir ko dekhte reh gaye.
+
+Ab unhe samajh aa gaya tha ki jin logon ko woh saamanya samajh rahe the, woh asal mein mahaan Pandav the."""
             create_image_text_layout(
                 text_content=text2,
                 layout="full"
@@ -5156,7 +5482,16 @@ Aur devta bhi Arjun ke adbhut parakram ko dekhkar prasann hokar swarg laut gaye.
 
         # Section 4.4.46
         with st.expander("Section 4.4.46  Section LXXI"):
-            text1 = """ """
+            text1 = """ 
+            Pandavo ki Asli Pehchaan Sabke Saamne Aayi
+
+Raja Virat hairani se bole,
+
+“Agar yeh sach mein Yudhishthir hain, toh phir Bhim, Arjun, Nakul, Sahadev aur Draupadi kahaan hain?”
+
+Tab Arjun muskuraaye aur dheere-dheere sabki asli pehchaan batane lage.
+
+Woh bole,"""
             create_image_text_layout(
                 "attached_assets/chapter4/4.4.46.jpg",
                 text1,
@@ -5164,7 +5499,80 @@ Aur devta bhi Arjun ke adbhut parakram ko dekhkar prasann hokar swarg laut gaye.
                 image_position="left"
             )
 
-            text2 = """ """
+            text2 = """ 
+            “Jo aapke mahal mein Vallava naam ka rasoiya tha, wahi mahaan Bhimsen hain.”
+
+“Unhone Gandhamadan parvat par raakshason ko maara tha aur Draupadi ke liye divya phool laaye the.”
+
+Arjun ne kaha,
+
+“Keechak ko maarne wale bhi wahi the. Mahal mein jangli jaanwaron ko bhi wahi sambhalte the.”
+
+Phir Arjun ne Nakul aur Sahadev ki taraf ishara kiya.
+
+“Jo aapke ghodon ki dekhbhaal karta tha, wahi Nakul hai. Aur jo gaayon ka rakshak tha, wahi Sahadev hai.”
+
+“Yeh dono Madri putra mahaan yoddha hain.”
+
+Phir Arjun ne Draupadi ki taraf dekha.
+
+“Yeh sundar aur komal swabhav wali mahila hi Draupadi hain, jo Sairindhri bankar aapke mahal mein reh rahi thi.”
+
+“Unhi ke liye Keechak aur uske bhaiyon ka vinaash hua.”
+
+Aakhir mein Arjun bole,
+
+“Aur Rajan, main hi Arjun hoon — Pandu putra aur Bhim ka chhota bhai.”
+
+“Humne aapke mahal mein apna agyaatvaas surakshit poora kiya.”
+
+Sabha mein sab log hairaan reh gaye.
+
+Tab Rajkumar Uttara bhi Pandavo ki tareef karne lage.
+
+Woh bole,
+
+“Jinka rang sone ki tarah chamak raha hai, woh Dharmraj Yudhishthir hain.”
+
+“Jinki chaal gusse wale haathi jaisi hai, woh Bhimsen hain.”
+
+“Jo sher ki tarah mazboot aur bade dhanurdhar hain, woh Arjun hain.”
+
+“Yeh dono sundar aur tejvaan yuvak Nakul aur Sahadev hain.”
+
+“Aur jo devi ki tarah chamak rahi hain, woh Draupadi hain.”
+
+Phir Uttara ne sabke saamne sach bata diya.
+
+“Gaayein maine nahi, Arjun ne wapas laayi thi.”
+
+“Bhishma, Drona aur Duryodhan jaise maharathiyon ko bhi Arjun ne haraaya.”
+
+Virat yeh sab sunkar bahut sharminda ho gaye.
+
+Unhe yaad aaya ki unhone gusse mein Yudhishthir ko maara tha.
+
+Woh bole,
+
+“Mujhe Pandavo se maafi maangni chahiye.”
+
+Virat ne haath jodkar kaha,
+
+“Aap sabke kaaran hi mujhe vijay mili hai. Kripya meri galtiyon ko maaf kar dijiye.”
+
+Phir Raja Virat ne apna rajya, dhan aur dosti Pandavo ko samarpit kar di.
+
+Woh bahut khush hokar bole,
+
+“Main apni putri Uttara ka vivaah Arjun se karna chahta hoon.”
+
+Yudhishthir ne Arjun ki taraf dekha.
+
+Tab Arjun ne bade pyaar aur maryada se jawab diya,
+
+“Rajan, Uttara meri shishya aur beti samaan hai. Main use apni bahu banana chahta hoon.”
+
+Is tarah Arjun ne Uttara ka vivaah apne putra Abhimanyu se karne ka sankalp liya, aur Matsya aur Pandavo ka rishta aur bhi mazboot ho gaya."""
             create_image_text_layout(
                 text_content=text2,
                 layout="full"
@@ -5173,7 +5581,16 @@ Aur devta bhi Arjun ke adbhut parakram ko dekhkar prasann hokar swarg laut gaye.
 
         # Section 4.4.47
         with st.expander("Section 4.4.47  Section LXXII"):
-            text1 = """ """
+            text1 = """ 
+            Uttara aur Abhimanyu ka Vivaah
+
+Raja Virat ne Arjun se poocha,
+
+“Hey Pandav shreshth, aap meri putri Uttara ko patni ke roop mein kyun nahi sweekar karna chahte?”
+
+Arjun ne bade shaant aur maryada bhare swar mein jawab diya,
+
+“Rajan, main ek saal tak aapke antahpur mein raha. Uttara mujhe hamesha pita aur rakshak ki tarah maanti thi.”"""
             create_image_text_layout(
                 "attached_assets/chapter4/4.4.47.jpg",
                 text1,
@@ -5181,7 +5598,78 @@ Aur devta bhi Arjun ke adbhut parakram ko dekhkar prasann hokar swarg laut gaye.
                 image_position="left"
             )
 
-            text2 = """ """
+            text2 = """ 
+            “Main use nritya aur sangeet sikhata tha. Isliye mere aur uske beech pita-putri jaisa pavitra rishta hai.”
+
+Arjun ne kaha,
+
+“Main nahi chahta ki log hum dono par kabhi jhootha ilzaam lagaayein.”
+
+Phir Arjun muskuraakar bole,
+
+“Isliye main Uttara ko apni bahu ke roop mein sweekar karta hoon.”
+
+Unhone apne putra ka naam liya.
+
+“Mera putra Abhimanyu, jo Subhadra aur Arjun ka beta hai, Uttara ke liye sabse yogya var hai.”
+
+“Woh mahaan yoddha hai aur Shri Krishna ka priya bhanja bhi.”
+
+Raja Virat bahut khush ho gaye.
+
+Woh bole,
+
+“Jiska sambandh Arjun ke parivaar se ho jaaye, uski sab ichchhaayein poori ho jaati hain.”
+
+Yudhishthir ne bhi iss vivaah ke liye apni sweekriti de di.
+
+Bade-Bade Rajaon ka Aagman
+
+Pandavo aur Raja Virat ne apne mitron aur rishtedaron ko nimantran bheja.
+
+Jald hi bahut se mahaan raja aur yoddha Upaplavya nagar mein aane lage.
+
+Shri Krishna, Balram, Satyaki aur Vrishni vansh ke bahut se veer bhi aaye.
+
+Drupad, Dhrishtadyumn, Shikhandi aur Draupadi ke putra bhi apni senaon ke saath pahunche.
+
+Har taraf utsav aur khushi ka mahaul tha.
+
+Shaandaar Vivaah Samaroh
+
+Abhimanyu apni maa Subhadra ke saath wahan aaye.
+
+Rajkumari Uttara ko sundar gehno aur vastron se sajaya gaya. Woh bahut sundar lag rahi thi, bilkul kisi dev kanya ki tarah.
+
+Mahal mein shankh, dhol, nagade aur sangeet ki awaaz goonj rahi thi.
+
+Sab log khushi mana rahe the.
+
+Arjun ne apne putra Abhimanyu ki taraf se Uttara ka haath sweekar kiya.
+
+Yudhishthir bhi us vivaah ko dekhkar bahut prasann hue.
+
+Phir ved mantron aur pavitra agni ke saamne Uttara aur Abhimanyu ka vivaah sampann hua.
+
+Virat ka Daan aur Samman
+
+Raja Virat ne dahej mein hazaaron ghode, haathi aur bahut saara dhan diya.
+
+Unhone Pandavo ko apna rajya, sena aur khazana tak samarpit kar diya.
+
+Krishna bhi Pandavo ke liye bahut saare ratna, vastra aur uphaar laaye the.
+
+Yudhishthir ki Udarta
+
+Vivaah ke baad Yudhishthir ne Brahmano ko bahut daan diya.
+
+Unhone gaayein, sona, kapde, bhojan aur zameen tak daan mein baanti.
+
+Poora Matsya nagar utsav ki tarah chamak raha tha.
+
+Sab log khush the.
+
+Is tarah Pandavo ka agyaatvaas samaapt hua aur Uttara-Abhimanyu ke vivaah ke saath Virat Parva ka sundar ant hua."""
             create_image_text_layout(
                 text_content=text2,
                 layout="full"
