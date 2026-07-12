@@ -1418,7 +1418,18 @@ Aur isi sawaal ke saath ek nayi kahani shuru hone wali thi."""
 
         # Section 5.1.11
         with st.expander("Section 5.1.11  Section XI"):
-            text1 = """ """
+            text1 = """ 
+            Chapter 11 – Nahush ka Ahankaar
+
+Shalya ne kahani aage sunaai.
+
+Naya Devraj Chuna Gaya
+
+Jab Indra apne paapon ke darr se chhip gaye, tab Devta aur Rishi bahut pareshaan ho gaye.
+
+Unhone milkar kaha,
+
+“Humein swarg ka naya raja chahiye.”"""
             create_image_text_layout(
                 "attached_assets/chapter5/5.1.11.jpg",
                 text1,
@@ -1426,7 +1437,106 @@ Aur isi sawaal ke saath ek nayi kahani shuru hone wali thi."""
                 image_position="left"
             )
 
-            text2 = """ """
+            text2 = """ 
+Sabne milkar Raja Nahush ka naam chuna.
+
+Woh shaktishaali, dharmik aur nyaaypriya raja the.
+
+Nahush ne Mana Kiya
+
+Nahush bole,
+
+“Main itna shaktishaali nahi hoon.”
+
+“Indra hi Devtaon ke raja banne ke yogya hain.”
+
+Lekin sabhi Devta aur Rishi bole,
+
+“Hamari tapasya ki shakti tumhare saath hogi.”
+
+“Tum swarg ka raaj sambhalo.”
+
+Divya Vardaan
+
+Devtaon ne Nahush ko ek vishesh vardaan diya.
+
+Woh bole,
+
+“Jo bhi tumhare saamne aayega, uski shakti tumhare andar aa jaayegi.”
+
+“Isse tum aur bhi shaktishaali ban jaaoge.”
+
+Nahush ne yeh zimmedaari sveekar kar li.
+
+Aur woh naye Devraj ban gaye.
+
+Ahankaar ki Shuruaat
+
+Shuru mein Nahush nyaay aur dharm ke saath raaj karte rahe.
+
+Lekin dheere-dheere unhe apni taakat aur pad ka ghamand hone laga.
+
+Woh swarg ke sundar baagon, pahaadon aur nadiyon mein aish-o-aaraam se rehne lage.
+
+Apsaraayein unke liye nritya karti thi.
+
+Gandharv madhur geet gaate the.
+
+Har taraf sukh hi sukh tha.
+
+Nahush ki Galat Ichchha
+
+Ek din Nahush ki nazar Indra ki patni Shachi par padi.
+
+Unke mann mein galat vichaar aa gaya.
+
+Woh bole,
+
+“Ab main Devtaon ka raja hoon.”
+
+“Toh Shachi ko bhi mere paas aana chahiye.”
+
+Unhone apne sevakon ko aadesh diya,
+
+“Jao, Shachi ko turant mere paas lekar aao.”
+
+Shachi Dar Gayi
+
+Yeh sunkar Devi Shachi bahut ghabra gayin.
+
+Woh seedhe Devguru Brihaspati ke paas pahunchi.
+
+Unhone haath jodkar kaha,
+
+“Gurudev, meri raksha kijiye.”
+
+“Aapne hamesha kaha tha ki main apne pati Indra ke saath hi rahungi.”
+
+“Kripya apni baat ko sach kijiye.”
+
+Brihaspati ka Bharosa
+
+Brihaspati ji ne shaant swar mein kaha,
+
+“Devi, bilkul mat daro.”
+
+“Indra jaldi hi wapas aayenge.”
+
+“Main tumhe unse zaroor milaunga.”
+
+“Nahush tumhara kuch bhi nahi bigaad paayega.”
+
+Shachi ko thodi himmat mili.
+
+Nahush ka Gussa
+
+Jab Nahush ko pata chala ki Shachi ne Brihaspati ki sharan le li hai,
+
+Toh woh bahut krodhit ho gaya.
+
+Uske ahankaar aur gusse ne use aur bhi andha bana diya.
+
+Ab uske galat faislon ki wajah se uska patan shuru hone wala tha."""
             create_image_text_layout(
                 text_content=text2,
                 layout="full"
@@ -1435,7 +1545,16 @@ Aur isi sawaal ke saath ek nayi kahani shuru hone wali thi."""
 
         # Section 5.1.12
         with st.expander("Section 5.1.12  Section XII"):
-            text1 = """ """
+            text1 = """ 
+Chapter 12 – Brihaspati ne Sharan Mein Aayi Shachi ki Raksha Ki
+
+Shalya ne kahani aage sunaai.
+
+Devtaon ne Nahush ko Samjhaya
+
+Jab Nahush gusse aur ahankaar mein doob gaya, tab Devta aur Rishi uske paas aaye.
+
+Woh bole,"""
             create_image_text_layout(
                 "attached_assets/chapter5/5.1.12.jpg",
                 text1,
@@ -1443,7 +1562,112 @@ Aur isi sawaal ke saath ek nayi kahani shuru hone wali thi."""
                 image_position="left"
             )
 
-            text2 = """ """
+            text2 = """ 
+“Hey Devraj, kripya shaant ho jaiye.”
+
+“Shachi kisi aur ki patni hain.”
+
+“Dusre ki patni par buri nazar rakhna dharm ke viruddh hai.”
+
+“Aap poore swarg ke raja hain.”
+
+“Aapka kartavya sabki raksha karna hai, na ki kisi ka apmaan.”
+
+Nahush ne Baat Nahi Maanee
+
+Lekin Nahush par kaam aur ahankaar ka nasha chadh chuka tha.
+
+Woh bola,
+
+“Jab Indra ne pehle Ahalya ke saath galat kiya tha, tab tum sabne unhe kyun nahi roka?”
+
+“Ab mujhe kyun rok rahe ho?”
+
+“Mujhe Shachi chahiye.”
+
+Devta samajh gaye ki Nahush samajhne ko taiyaar nahi hai.
+
+Devta Brihaspati ke Paas Gaye
+
+Sabhi Devta Brihaspati ji ke paas gaye.
+
+Woh bole,
+
+“Shachi aapki sharan mein hain.”
+
+“Lekin Nahush ab Devraj hain.”
+
+“Kya Shachi unhe apna pati sveekar kar sakti hain?”
+
+Yeh sunkar Shachi ro padi.
+
+Shachi ki Vinati
+
+Shachi ne rote hue kaha,
+
+“Gurudev, main Nahush ko kabhi apna pati nahi maan sakti.”
+
+“Main aapki sharan mein aayi hoon.”
+
+“Kripya meri raksha kijiye.”
+
+Brihaspati ka Dridh Sankalp
+
+Brihaspati ji bole,
+
+“Jo vyakti meri sharan mein aata hai, main uska saath kabhi nahi chhodta.”
+
+“Chahe kuch bhi ho jaaye, main tumhe Nahush ke hawaale nahi karunga.”
+
+Phir unhone ek bada dharm ka niyam bataya.
+
+Sharan Mein Aaye Vyakti ki Raksha
+
+Brihaspati bole,
+
+“Jo kisi dare hue aur sharan maangne wale vyakti ko uske dushman ke hawaale kar deta hai, uska kabhi bhala nahi hota.”
+
+“Uske achchhe kaam safal nahi hote.”
+
+“Uska punya kam ho jaata hai.”
+
+“Isliye main Shachi ko kabhi nahi chhodunga.”
+
+Ek Buddhimaan Yojana
+
+Devta bole,
+
+“Toh ab kya kiya jaaye?”
+
+Brihaspati ne shaant swar mein kaha,
+
+“Shachi Nahush se thoda samay maang le.”
+
+“Samay bahut badi shakti hoti hai.”
+
+“Ho sakta hai isi dauraan koi naya raasta mil jaaye.”
+
+Sabhi Devta ko yeh yojana pasand aa gayi.
+
+Shachi Nahush ke Paas Gayi
+
+Devtaon ne Shachi ko himmat di.
+
+Woh bole,
+
+“Dhairya rakho.”
+
+“Nahush ka ahankaar hi uske patan ka kaaran banega.”
+
+“Jaldi hi Indra apna rajya wapas paayenge.”
+
+Yeh sunkar Shachi himmat jutakar Nahush ke paas gayi.
+
+Nahush ne jaise hi unhe dekha, woh bahut khush ho gaya.
+
+Use laga ki ab uski ichchha poori hone wali hai.
+
+Lekin use bilkul bhi andaaza nahi tha ki yahi mulaqat uske patan ki shuruaat banne wali hai."""
             create_image_text_layout(
                 text_content=text2,
                 layout="full"
@@ -1452,7 +1676,20 @@ Aur isi sawaal ke saath ek nayi kahani shuru hone wali thi."""
 
         # Section 5.1.13
         with st.expander("Section 5.1.13  Section XIII"):
-            text1 = """ """
+            text1 = """ 
+Chapter 13 – Shachi ki Buddhi aur Indra ki Talaash
+
+Shalya ne kahani aage sunaai.
+
+Nahush ka Prastaav
+
+Nahush ne Shachi ko dekhkar kaha,
+
+“Ab main teenon lokon ka Devraj hoon.”
+
+“Tum mujhe apna pati sveekar kar lo.”
+
+Yeh sunkar Shachi bahut dar gayin."""
             create_image_text_layout(
                 "attached_assets/chapter5/5.1.13.jpg",
                 text1,
@@ -1460,7 +1697,114 @@ Aur isi sawaal ke saath ek nayi kahani shuru hone wali thi."""
                 image_position="left"
             )
 
-            text2 = """ """
+            text2 = """ 
+Unka sharir kaampne laga.
+
+Lekin unhone himmat nahi haari.
+
+Shachi ne Samay Maanga
+
+Shachi ne haath jodkar shaant swar mein kaha,
+
+“Hey Devraj, pehle mujhe yeh pata kar lene dijiye ki Indra kahaan hain.”
+
+“Agar mujhe unka koi pata na mila, tab main aapke paas laut aaungi.”
+
+Nahush apne ahankaar mein andha ho chuka tha.
+
+Usne turant haan kar di.
+
+Woh bola,
+
+“Theek hai.”
+
+“Jao, lekin apna vachan yaad rakhna.”
+
+Shachi wahan se turant Brihaspati ke paas laut gayin.
+
+Devta Vishnu ke Paas Gaye
+
+Udhar sabhi Devta fir se Bhagwan Vishnu ke paas gaye.
+
+Woh bole,
+
+“Prabhu, Indra Brahmahatya ke paap se dukhi hain.”
+
+“Kripya unhe is paap se mukt karne ka upaay bataaiye.”
+
+Vishnu ka Upaay
+
+Bhagwan Vishnu bole,
+
+“Indra mere liye Ashwamedh Yagya karein.”
+
+“Is pavitra yagya se unka paap door ho jaayega.”
+
+“Uske baad woh fir se Devraj ban sakenge.”
+
+“Dhairya rakho.”
+
+“Nahush ka ahankaar hi uske vinaash ka kaaran banega.”
+
+Ashwamedh Yagya
+
+Devta aur Rishi Indra ke paas gaye.
+
+Wahan unhone Ashwamedh Yagya karvaaya.
+
+Yagya ke baad Indra ka paap halka hone laga.
+
+Kahte hain ki Indra ne apna paap alag-alag jagahon mein baant diya.
+
+Pedon ko.
+
+Nadiyon ko.
+
+Pahaadon ko.
+
+Dharti ko.
+
+Aur stree jaati ko bhi uska ek hissa mila.
+
+Iske baad Indra ka mann shaant hone laga.
+
+Indra Fir Bhi Chhipe Rahe
+
+Lekin Nahush ab bhi bahut shaktishaali tha.
+
+Uske paas Rishiyon ka diya hua vardaan tha.
+
+Isliye Indra abhi bhi saamne aane ki himmat nahi kar paaye.
+
+Woh chupkar sahi samay ka intezaar karte rahe.
+
+Shachi ki Prarthana
+
+Shachi bahut dukhi thi.
+
+Unhone Bhagwan se prarthana ki,
+
+“Agar maine kabhi sachcha dharm nibhaya hai...”
+
+“Agar main hamesha apne pati ke prati nishthavaan rahi hoon...”
+
+“Toh meri pavitrata ki raksha ho.”
+
+“Kripya mujhe Indra ka pata bataaiye.”
+
+Devi Raatri ki Pooja
+
+Shachi ne pavitra mann se Devi Raatri ki pooja ki.
+
+Phir unhone prarthana ki,
+
+“Hey Devi, mujhe bataaiye ki mere pati Indra kahaan hain.”
+
+“Sachchai ki shakti se mujhe un tak pahunchne ka raasta dikhaiye.”
+
+Ab Shachi ki sachchi bhakti aur dhairya unhe Indra tak pahunchane wale the.
+
+Aur Nahush ka ahankaar dheere-dheere uske ant ki taraf badh raha tha."""
             create_image_text_layout(
                 text_content=text2,
                 layout="full"
@@ -1469,7 +1813,20 @@ Aur isi sawaal ke saath ek nayi kahani shuru hone wali thi."""
 
         # Section 5.1.14
         with st.expander("Section 5.1.14  Section XIV"):
-            text1 = """ """
+            text1 = """ 
+Chapter 14 – Shachi ne Indra ko Dhoondh Nikala
+
+Shalya ne kahani aage sunaai.
+
+Divya Devi ka Prakat Hona
+
+Shachi ki sachchi prarthana se Divination (Daivi Margdarshan ki Devi) unke saamne prakat hui.
+
+Shachi ne vinamrata se poochha,
+
+“Aap kaun hain?”
+
+Devi ka Uttar"""
             create_image_text_layout(
                 "attached_assets/chapter5/5.1.14.jpg",
                 text1,
@@ -1477,7 +1834,97 @@ Aur isi sawaal ke saath ek nayi kahani shuru hone wali thi."""
                 image_position="left"
             )
 
-            text2 = """ """
+            text2 = """ 
+Devi boli,
+
+“Main Divination hoon.”
+
+“Tum satyavaan ho.”
+
+“Tum apne pati ke prati poori tarah nishthavaan ho.”
+
+“Isi pavitrata ke kaaran main tumhare saamne prakat hui hoon.”
+
+“Main tumhe Indra tak le chalungi.”
+
+Indra ki Talaash
+
+Devi ke peeche-peeche Shachi chal padi.
+
+Dono ne—
+
+swarg ke sundar van paar kiye,
+bahut se pahaad paar kiye,
+Himalaya ke uttar bhaag tak pahunchin,
+phir ek vishaal samudra paar kiya.
+
+Samudra ke beech ek sundar dweep tha.
+
+Us dweep par ek bahut bada divya sarovar tha.
+
+Sarovar rang-birange kamalon se bhara hua tha.
+
+Har taraf madhumakkhiyan gunj rahi thi.
+
+Bahut hi adbhut aur shaant drishya tha.
+
+Safed Kamal ka Rahasya
+
+Us bade sarovar ke beech ek vishaal safed kamal tha.
+
+Us kamal ke mote tane (stem) ke andar Devi Shachi ko lekar gayi.
+
+Wahin...
+
+Bahut chhote roop mein...
+
+Indra chhupe hue the.
+
+Brahmahatya ke paap aur Nahush ke vardaan ke darr se woh wahin chhipkar samay ka intezaar kar rahe the.
+
+Shachi aur Devi ne bhi apna roop chhota kar liya aur kamal ke andar pravesh kiya.
+
+Shachi ne Indra ki Stuti Ki
+
+Apne pati ko dekhkar Shachi ne unki purani veerta aur mahima ka smaran karte hue unki stuti ki.
+
+Indra ne aankhen kholi aur poochha,
+
+“Tum yahan kaise pahunchi?”
+
+“Aur tumhe mera pata kaise chala?”
+
+Shachi ne Sab Kuch Bataya
+
+Shachi boli,
+
+“Nahush ab teenon lokon ka raja ban gaya hai.”
+
+“Uska ahankaar bahut badh gaya hai.”
+
+“Usne mujhe apni patni banne ka aadesh diya hai.”
+
+“Maine usse thoda samay maang liya.”
+
+“Lekin woh jaldi mujhe apne paas bulaayega.”
+
+“Agar aap meri raksha nahi karenge, toh woh mujhe zabardasti apne adhikaar mein kar lega.”
+
+Shachi ki Vinati
+
+Shachi ne haath jodkar kaha,
+
+“Hey Vritrasur ke vijeta!”
+
+“Ab aur mat chhipiye.”
+
+“Apni purani shakti fir se dhaaran kijiye.”
+
+“Nahush jaise dusht aur ahankaari vyakti ka vinaash kijiye.”
+
+“Fir se Devtaon ke raja baniye.”
+
+Yahin se kahani ek naye mod par pahunchti hai. Ab Indra ko Nahush ke vardaan ka tod dhoondhna tha, aur Shachi ki buddhi hi Nahush ke patan ka sabse bada kaaran banne wali thi."""
             create_image_text_layout(
                 text_content=text2,
                 layout="full"
@@ -1486,7 +1933,20 @@ Aur isi sawaal ke saath ek nayi kahani shuru hone wali thi."""
 
         # Section 5.1.15
         with st.expander("Section 5.1.15  Section XV"):
-            text1 = """ """
+            text1 = """ 
+Chapter 15 – Indra ki Chatur Yojana aur Nahush ka Ahankaar
+
+Shalya ne kahani aage sunaai.
+
+Indra ki Yojana
+
+Shachi ki baat sunkar Indra bole,
+
+“Abhi Nahush mujhse zyada shaktishaali hai.”
+
+“Use Rishiyon ki tapasya aur vardaan ka bal mila hua hai.”
+
+“Is samay seedha yuddh karna theek nahi hoga.”"""
             create_image_text_layout(
                 "attached_assets/chapter5/5.1.15.jpg",
                 text1,
@@ -1494,7 +1954,131 @@ Aur isi sawaal ke saath ek nayi kahani shuru hone wali thi."""
                 image_position="left"
             )
 
-            text2 = """ """
+            text2 = """ 
+“Isliye humein buddhi se kaam lena hoga.”
+
+Phir Indra ne Shachi ko ek gupt yojana bataai.
+
+Gupt Sandesh
+
+Indra bole,
+
+“Tum Nahush ke paas jao.”
+
+“Usse kehna ki agar woh mujhe paana chahta hai, toh ek anokhi sawaari par mere paas aaye.”
+
+“Uski palki ko ghode ya haathi nahi...”
+
+“Balki swayam Maharishi apne kandhon par utha kar laayein.”
+
+“Yeh baat kisi ko mat batana.”
+
+Shachi ne haan kar di.
+
+Shachi Nahush ke Paas
+
+Shachi fir Nahush ke paas pahunchi.
+
+Nahush unhe dekhkar bahut khush hua.
+
+Woh bola,
+
+“Tum jo kahogi, main wahi karunga.”
+
+“Main tumhare liye kuch bhi karne ko taiyaar hoon.”
+
+Shachi ki Maang
+
+Shachi boli,
+
+“Indra ke paas haathi, ghode aur rath the.”
+
+“Lekin main chahti hoon ki aap un sabse alag aur mahaan dikhai dein.”
+
+“Main chahti hoon ki Maharishi swayam aapki palki uthakar mere paas laayein.”
+
+“Aisa vaahan na Vishnu ke paas tha, na Shiv ke paas aur na kisi Asur ke paas.”
+
+“Tab main aapko apna pati maan loongi.”
+
+Ahankaar Andha Kar Deta Hai
+
+Nahush ko laga ki Shachi uski mahima se prabhavit ho gayi hai.
+
+Uska ahankaar aur badh gaya.
+
+Woh bola,
+
+“Bahut achchhi baat kahi tumne.”
+
+“Sach mein, sirf main hi itna mahaan hoon ki Rishi mujhe uthakar le jaayen.”
+
+“Main teenon kaal ka swaami hoon.”
+
+“Mujhse bada koi nahi.”
+
+“Main tumhari ichchha zaroor poori karunga.”
+
+Maharishiyon se Palki Uthvaana
+
+Apne ghamand mein andha hokar Nahush ne bade-bade Maharishiyon ko hukm diya ki woh uski palki uthayein.
+
+Yahi uski sabse badi galti thi.
+
+Dharm aur tapasya ke prateek Rishiyon ko apna naukar samajhna uske vinaash ki shuruaat ban gaya.
+
+Shachi Fir Brihaspati ke Paas
+
+Udhar Shachi Brihaspati ji ke paas laut aayi.
+
+Unhone kaha,
+
+“Ab samay bahut kam bacha hai.”
+
+“Kripya jaldi Indra ko dhoondhiye.”
+
+Brihaspati ka Vishwas
+
+Brihaspati ji bole,
+
+“Darne ki zarurat nahi.”
+
+“Nahush ka ant ab nishchit hai.”
+
+“Usne Rishiyon ko palki uthwaakar bahut bada adharm kiya hai.”
+
+“Uska ahankaar hi uska vinaash karega.”
+
+Agni ko Indra ki Talaash
+
+Brihaspati ne ek yagya kiya.
+
+Usmein Agni Dev ko aadesh diya,
+
+“Jao, Indra ko dhoondhkar lao.”
+
+Agni Dev ne turant ek adbhut roop dhaaran kiya aur poori srishti mein Indra ko dhoondhne nikal pade.
+
+Unhone—
+
+pahaad,
+van,
+dharti,
+aakaash,
+
+sab jagah khoja.
+
+Lekin Indra kahin nahi mile.
+
+Phir Agni bole,
+
+“Ab sirf jal baaki hai.”
+
+“Lekin paani mein pravesh karna mere liye kathin hai, kyunki paani mujhe bujha deta hai.”
+
+Brihaspati ne unhe phir bhi paani mein pravesh karne ko kaha.
+
+Yahin par kahani agle adhyay ki aur badhti hai, jahan Nahush ka ahankaar apne charam par pahunchta hai aur uske patan ka antim charan shuru hota hai."""
             create_image_text_layout(
                 text_content=text2,
                 layout="full"
