@@ -2805,7 +2805,7 @@ Bhishma ne purohit ka aadar karte hue kaha,
 
 "Yeh bhi achha hai ki unhone shaktishaali mitra prapt kiye hain."
 
-"Sabse adhik prasannata ki baat yeh hai ki ve apne hi bandhu Kauravon ke saath shaanti chahte hain.""""
+"Sabse adhik prasannata ki baat yeh hai ki ve apne hi bandhu Kauravon ke saath shaanti chahte hain." """
             create_image_text_layout(
                 "attached_assets/chapter5/5.1.21.jpg",
                 text1,
