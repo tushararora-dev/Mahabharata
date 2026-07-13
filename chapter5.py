@@ -2086,7 +2086,26 @@ Yahin par kahani agle adhyay ki aur badhti hai, jahan Nahush ka ahankaar apne ch
 
             # Section 5.1.16
         with st.expander("Section 5.1.16  Section XVI"):
-            text1 = """ """
+            text1 = """ 
+            Chapter 16 – Agni ne Indra ko Dhoondha aur Devtaon ne Yuddh ki Taiyaari Ki
+
+Shalya ne kahani aage sunaai.
+
+Brihaspati ne Agni ko Himmat Di
+
+Agni Dev paani mein jaane se hichkichaa rahe the.
+
+Tab Brihaspati bole,
+
+“Hey Agni, tum sabhi Devtaon ka mukh ho.”
+
+“Sabhi yagyon ki ahuti tumhare dwaara hi Devtaon tak pahunchti hai.”
+
+“Tum teenon lokon ke saakshi ho.”
+
+“Tumhare bina yagya sambhav nahi.”
+
+“Tum hi srishti ka aarambh bhi ho aur ant bhi.”"""
             create_image_text_layout(
                 "attached_assets/chapter5/5.1.16.jpg",
                 text1,
@@ -2094,7 +2113,127 @@ Yahin par kahani agle adhyay ki aur badhti hai, jahan Nahush ka ahankaar apne ch
                 image_position="left"
             )
 
-            text2 = """ """
+            text2 = """ 
+“Isliye bina dare paani mein pravesh karo.”
+
+“Main Vedon ke mantron se tumhari raksha karunga.”
+
+Agni Paani Mein Gaye
+
+Brihaspati ki stuti sunkar Agni prasann ho gaye.
+
+Unhone kaha,
+
+“Main Indra ko zaroor dhoondh nikaalunga.”
+
+Phir Agni samudron, talaabon aur sabhi jalashayon mein pravesh kar gaye.
+
+Aakhirkaar...
+
+Ek bade kamal ke tane ke andar...
+
+Unhone Indra ko chhote roop mein chhipa hua dekh liya.
+
+Turant lautkar Agni ne Brihaspati ko sab bata diya.
+
+Devta Indra ke Paas Pahunche
+
+Brihaspati sabhi Devtaon aur Rishiyon ko lekar Indra ke paas gaye.
+
+Unhone Indra ki purani veerta yaad dilaai.
+
+Woh bole,
+
+“Aapne Namuchi ko maara.”
+
+“Aapne Vala aur Shambara jaise Asuron ko haraaya.”
+
+“Aapne Vritrasur ka vinaash kiya.”
+
+“Aap hi Devtaon ke sachche raja hain.”
+
+“Ab fir se apni shakti dhaaran kijiye.”
+
+Indra ne Shakti Prapt Ki
+
+Devtaon ki prerna se Indra ka hausla badhne laga.
+
+Unka asli roop aur tej dheere-dheere laut aaya.
+
+Phir Indra ne poochha,
+
+“Ab aur kya samasya hai?”
+
+“Vritrasur toh mar chuka hai.”
+
+Brihaspati ne Nahush ki Khabar Di
+
+Brihaspati bole,
+
+“Ab ek nayi samasya hai.”
+
+“Raja Nahush Devtaon ka raja ban gaya hai.”
+
+“Use sabhi Devtaon aur Rishiyon ne apni tapasya ka bal de diya hai.”
+
+“Ab woh bahut shaktishaali ho gaya hai.”
+
+“Uski aankhon mein itna tej hai ki jis par nazar daalta hai, uski shakti kam ho jaati hai.”
+
+“Sabhi Devta usse dar kar chhupe hue hain.”
+
+Lokpal Devta Aaye
+
+Itne mein chaar bade Devta bhi wahan aa gaye—
+
+Kubera (dhan ke devta),
+Yama,
+Varuna,
+aur Soma.
+
+Unhone Indra ko dekhkar khushi vyakt ki.
+
+Phir Indra ne kaha,
+
+“Ab humein milkar Nahush ko haraana hoga.”
+
+Devtaon ki Shart
+
+Devta bole,
+
+“Nahush bahut bhayaanak hai.”
+
+“Hum usse darte hain.”
+
+“Lekin agar aap uska vinaash kar denge, toh hum phir se apne-apne adhikaar sambhaal lenge.”
+
+Indra ne sabko saath aane ko kaha.
+
+Agni ka Vardaan
+
+Agni Dev bole,
+
+“Main bhi aapki madad karunga.”
+
+“Lekin mujhe bhi yagyon mein apna hissa chahiye.”
+
+Indra bole,
+
+“Aaj se bade yagyon mein tumhara bhi hissa hoga.”
+
+“Kai yagyon mein Indra aur Agni ki saanjhi ahuti di jaayegi.”
+
+Devtaon ko Unke Adhikaar Mile
+
+Iske baad Indra ne vibhinna Devtaon ko unke adhikaar fir se diye—
+
+Kubera ko Yakshon aur sampatti ka swaami banaya.
+Yama ko Pitrlok ka adhikaar diya.
+Varuna ko sabhi jalon ka adhipati banaya.
+
+Ab sabhi Devta ekjut ho chuke the.
+
+Agla kadam tha—Nahush ke ahankaar ka ant karna. Yahi uske patan ka antim charan shuru hone wala tha."""
             create_image_text_layout(
                 text_content=text2,
                 layout="full"
@@ -2103,7 +2242,22 @@ Yahin par kahani agle adhyay ki aur badhti hai, jahan Nahush ka ahankaar apne ch
 
         # Section 5.1.17
         with st.expander("Section 5.1.17  Section XVII"):
-            text1 = """ """
+            text1 = """ 
+            Chapter 17 – Nahush ka Ahankaar aur Uska Patan
+
+Shalya ne kahani ka agla bhaag sunaaya.
+
+Agastya Rishi ka Aagaman
+
+Jab Indra aur sabhi Devta milkar soch rahe the ki Nahush ko kaise haraaya jaaye,
+
+Tab mahaan Rishi Agastya wahan aaye.
+
+Unhone Indra ko dekhkar kaha,
+
+“Bahut shubh hai ki Vritra aur anya Asuron ka vinaash ho chuka hai.”
+
+“Aur sabse bada sukh yeh hai ki Nahush swarg ke singhasan se gir chuka hai.”"""
             create_image_text_layout(
                 "attached_assets/chapter5/5.1.17.jpg",
                 text1,
@@ -2111,7 +2265,126 @@ Yahin par kahani agle adhyay ki aur badhti hai, jahan Nahush ka ahankaar apne ch
                 image_position="left"
             )
 
-            text2 = """ """
+            text2 = """ 
+Indra ka Prashn
+
+Indra ne vinamrata se Agastya Rishi ka satkaar kiya aur poochha,
+
+“Hey Maharishi, kripya bataaiye, Nahush swarg se kaise gira?”
+
+Agastya ne Ghatna Sunaai
+
+Agastya bole,
+
+“Jab Nahush apni palki mein baithkar ghoom raha tha, tab uski palki ko hum jaise Maharishi utha rahe the.”
+
+Raaste mein Rishiyon ne usse ek dharmik prashn poochha.
+
+Unhone kaha,
+
+“Vedon mein jo gaayon ke pavitra sanskaar ke samay mantra bole jaate hain, kya tum unhe satya maante ho?”
+
+Nahush ki Sabse Badi Galti
+
+Ahankaar se andha ho chuka Nahush bola,
+
+“Nahi.”
+
+“Woh mantra satya nahi hain.”
+
+Yeh sunkar sabhi Rishi chauk gaye.
+
+Unhone kaha,
+
+“Tum adharm ki aur badh rahe ho.”
+
+“Mahaan Rishiyon ne in mantron ko hamesha satya maana hai.”
+
+Lekin Nahush ne kisi ki baat nahi maani.
+
+Agastya ka Apmaan
+
+Ghamand mein choor Nahush ne jaldi chalne ke liye...
+
+Rishi Agastya ke sir par apne pair se laat maar di.
+
+Yahi uski sabse badi bhool thi.
+
+Ek tapasvi Maharishi ka apmaan karna uske vinaash ka kaaran ban gaya.
+
+Agastya ka Shraap
+
+Agastya Rishi krodhit ho gaye.
+
+Unhone kaha,
+
+“Tumne Vedon ka apmaan kiya.”
+
+“Tumne Maharishiyon ko apna naukar bana diya.”
+
+“Aur tumne mere sir par pair rakha.”
+
+“Isliye tumhara saara tej aur shakti chhin jaayegi.”
+
+“Tum swarg se gir jaaoge.”
+
+“Das hazaar varsh tak tum dharti par ek vishaal saanp ke roop mein bhatakte rahoge.”
+
+“Uske baad hi tumhe fir se swarg lautne ka avsar milega.”
+
+Jaise hi shraap diya gaya...
+
+Nahush ka saara tej samaapt ho gaya.
+
+Woh swarg se seedha dharti par gir pada.
+
+Aur ek vishaal ajgar (python/saanp) ban gaya.
+
+Indra ki Wapasi
+
+Agastya ne Indra se kaha,
+
+“Ab swarg wapas jaaiye.”
+
+“Teenon lokon ki raksha kijiye.”
+
+“Apne man aur indriyon par niyantran rakhiye.”
+
+“Dharm ke saath shaasan kijiye.”
+
+Sabhi Lokon Mein Khushi
+
+Nahush ke patan ki khabar sunkar—
+
+Devta,
+Rishi,
+Pitra,
+Yaksha,
+Gandharva,
+Naag,
+Rakshas,
+Apsaraayein,
+
+sabhi bahut prasann hue.
+
+Nadiyan, pahaad, samudra aur prakriti bhi maano khushi manaane lagi.
+
+Sabhi bole,
+
+“Bahut shubh hua!”
+
+“Indra fir se Devraj ban gaye.”
+
+“Aur ahankaari Nahush ko uske karmon ka phal mil gaya.”
+
+Is Kahani ka Sandesh
+
+Is adhyay ka sabse bada sandesh hai:
+
+Ahankaar sabse shaktishaali vyakti ko bhi gira deta hai.
+Rishi, Guru aur dharm ka apmaan vinaash ka kaaran banta hai.
+Shakti tabhi tikti hai jab uske saath vinamrata aur dharm ho.
+Buddhi aur dhairya (jaise Shachi ne dikhaya) kai baar bal se bhi adhik shaktishaali hote hain."""
             create_image_text_layout(
                 text_content=text2,
                 layout="full"
@@ -2120,7 +2393,24 @@ Yahin par kahani agle adhyay ki aur badhti hai, jahan Nahush ka ahankaar apne ch
 
         # Section 5.1.18
         with st.expander("Section 5.1.18  Section XVIII"):
-            text1 = """ """
+            text1 = """ 
+Chapter 18 – Indra ki Vijay aur Yudhishthira ko Prerna
+
+Shalya ne apni kahani samaapt karte hue kaha.
+
+Indra Fir Devraj Bane
+
+Nahush ke patan ke baad Indra apne divya haathi Airavata par savaar hue.
+
+Unke saath the—
+
+Agni,
+Brihaspati,
+Yama,
+Varuna,
+Kubera,
+
+aur anek Devta, Gandharv aur Apsaraayein."""
             create_image_text_layout(
                 "attached_assets/chapter5/5.1.18.jpg",
                 text1,
@@ -2128,7 +2418,103 @@ Yahin par kahani agle adhyay ki aur badhti hai, jahan Nahush ka ahankaar apne ch
                 image_position="left"
             )
 
-            text2 = """ """
+            text2 = """ 
+Sabne milkar Indra ka swagat kiya.
+
+Indra fir se Devtaon ke raja ban gaye.
+
+Aur Shachi bhi unse fir mil gayin.
+
+Is tarah Indra aur Shachi ka punarmilan hua.
+
+Indra ka Nyaaypoorn Shaasan
+
+Indra ne fir se dharm ke anusaar teenon lokon ka shaasan shuru kiya.
+
+Sab jagah shaanti aur vyavastha laut aayi.
+
+Atharvangiras ko Vardaan
+
+Iske baad Maharishi Angiras aaye aur Atharva Ved ke mantron se Indra ki stuti ki.
+
+Indra bahut prasann hue.
+
+Unhone vardaan diya,
+
+“Aaj se tum Atharvangiras ke naam se prasiddh hoge.”
+
+“Tumhe yagyon mein bhi hissa milega.”
+
+Shalya ne Yudhishthira ko Samjhaya
+
+Phir Shalya bole,
+
+“Hey Yudhishthira, dekho.”
+
+“Indra jaise mahaan Devta ko bhi dukh aur vanvaas jaisa samay dekhna pada.”
+
+“Unhe bhi kuch samay tak chhipkar rehna pada.”
+
+“Lekin ant mein dharm ki hi jeet hui.”
+
+“Isi tarah tumne bhi Draupadi aur apne bhaiyon ke saath bahut kasht sahe hain.”
+
+“Lekin tum bhi apna rajya wapas paoge.”
+
+Duryodhana aur Karna ka Ant
+
+Shalya ne aage kaha,
+
+“Jaise Nahush apne ahankaar ke kaaran gira...”
+
+“Waise hi Duryodhana, Karna aur unke dusht saathi bhi jaldi vinaash ko praapt honge.”
+
+“Uske baad tum aur tumhare bhai poori dharti par dharm ke saath raaj karoge.”
+
+Is Kahani ka Mahatva
+
+Shalya bole,
+
+“Indra ki vijay ki yeh kahani bahut pavitra hai.”
+
+“Jo raja yuddh se pehle is kahani ko shraddha se sunta ya padhta hai, uske liye yeh shubh maani gayi hai.”
+
+Isse—
+
+paapon ka naash hota hai,
+shatruon par vijay milti hai,
+dirgh aayu milti hai,
+santaan ka sukh milta hai,
+aur is lok aur parlok dono mein mangal hota hai.
+Yudhishthira ki Vinati
+
+Yeh kahani sunkar Yudhishthira ko nayi himmat mili.
+
+Unhone Shalya se kaha,
+
+“Jab Karna aur Arjuna ka antim yuddh hoga...”
+
+“Tab aap Karna ke saarathi honge.”
+
+“Us samay kripya Arjuna ki veerta ka baar-baar varnan karke Karna ka hausla tod dijiye.”
+
+Shalya ka Vachan
+
+Shalya bole,
+
+“Jaise tum kahoge, main waise hi karunga.”
+
+“Main Karna ka saarathi banunga.”
+
+“Lekin avsar aane par uska utsaah kam karunga aur tumhari vijay mein sahayata karunga.”
+
+Agle Parv ki Taiyaari
+
+Iske baad Shalya ne Pandavon se vida li.
+
+Woh apni sena ke saath Duryodhana ke shivir ki aur chal diye.
+
+Is prakar Indra ki kahani samaapt hoti hai, aur Mahabharat ka kendr phir se Kurukshetra ke aane wale mahaayuddh par aa jaata hai, jahan shaanti ki aakhri koshishon ke baad itihaas ka sabse mahaan yuddh aarambh hone wala hai."""
             create_image_text_layout(
                 text_content=text2,
                 layout="full"
@@ -2137,7 +2523,35 @@ Yahin par kahani agle adhyay ki aur badhti hai, jahan Nahush ka ahankaar apne ch
 
         # Section 5.1.19
         with st.expander("Section 5.1.19  Section XIX"):
-            text1 = """ """
+            text1 = """ 
+Chapter 19 – Dono Pakshon ki Sena ka Sangrah
+
+Is adhyay mein Kurukshetra yuddh se pehle dono paksh apni-apni sena ikatthi karte hain.
+
+Pandavon ki Sena
+
+Sabse pehle Satyaki (Yuyudhana), Yadava veer, ek poori 1 Akshauhini sena lekar Yudhishthira ke paas aaye.
+
+Unki sena mein the:
+
+Padati (infantry)
+Rath
+Ghode
+Haathi
+
+Aur har prakar ke shreshth hathiyaar—
+
+Talwar
+Gada
+Barchha
+Bhala
+Dhanush-baan
+Kulhaadi
+Dand
+Chakra
+Chhure
+
+Sena dekhne mein aisi lag rahi thi jaise bijliyon se ghire hue baadal."""
             create_image_text_layout(
                 "attached_assets/chapter5/5.1.19.jpg",
                 text1,
@@ -2145,7 +2559,80 @@ Yahin par kahani agle adhyay ki aur badhti hai, jahan Nahush ka ahankaar apne ch
                 image_position="left"
             )
 
-            text2 = """ """
+            text2 = """ 
+Phir ek-ek karke aur raja bhi Pandavon ke saath judte gaye.
+
+Pandavon ke mukhya sahayak
+Satyaki — 1 Akshauhini
+Dhrishtaketu — 1 Akshauhini
+Jayatsena — 1 Akshauhini
+Pandya — Dakshin Bharat se sena
+Drupada
+Virata
+Pahaadi raja aur anya mitra
+Pandavon ki Kul Sena
+
+7 Akshauhini
+
+Sabhi yuddh ke liye utsuk the.
+
+Kauravon ki Sena
+
+Udhar Duryodhana ne bhi lagbhag poore Bharat ke rajaon ko apni taraf kar liya.
+
+Kauravon ke mukhya sahayak
+Bhagadatta — 1 Akshauhini
+Bhurishravas
+Shalya — 1 Akshauhini
+Kritavarma — 1 Akshauhini
+Jayadratha — 1 Akshauhini
+Sudakshina — 1 Akshauhini
+Nila
+Avanti ke do raja
+Kekaya ke paanch rajkumar
+Aur kai anya deshon ki sena
+
+Inmein—
+
+Chini (China kshetra)
+Kirata
+Shaka
+Yavana
+Kamboja
+
+jaise vibhinna janajaatiyon ke yoddha bhi shaamil the.
+
+Kauravon ki Kul Sena
+
+11 Akshauhini
+
+Yeh Pandavon se kaafi badi sena thi.
+
+Sena Itni Badi Thi...
+
+Duryodhana ki sena itni vishaal thi ki Hastinapur mein uske liye jagah hi nahi bachi.
+
+Isliye sena ko kai kshetron mein phaila diya gaya:
+
+Kurujangala
+Panchanad (Punjab)
+Rohitaka
+Ahichatra
+Ganga ke kinaare
+Yamuna ke aas-paas ke pahaadi ilaake
+Aur anya vishaal maidaan
+
+Poora kshetra sainikon, haathiyon, ghodon aur rathon se bhar gaya tha.
+
+Sena ki Tulna
+Paksh	Akshauhini
+Pandav	7
+Kaurav	11
+Is Adhyay ka Mukhya Sandesh
+Dono pakshon ne Bharat ke lagbhag sabhi bade rajaon ko apni taraf kar liya.
+Sankhya ke hisaab se Kauravon ki sena kaafi badi thi (11 vs 7 Akshauhini).
+Lekin Pandavon ke paas Arjuna, Bhima, Krishna aur anya mahan yoddha the, jabki Kaurav sankhya-bal par adhik nirbhar the.
+Ab dono senaen taiyaar thi, aur Kurukshetra ka mahaayuddh shuru hone ke bilkul kareeb tha."""
             create_image_text_layout(
                 text_content=text2,
                 layout="full"
@@ -2154,7 +2641,24 @@ Yahin par kahani agle adhyay ki aur badhti hai, jahan Nahush ka ahankaar apne ch
 
         # Section 5.1.20
         with st.expander("Section 5.1.20  Section XX"):
-            text1 = """ """
+            text1 = """ 
+Chapter 20 – Drupada ke Purohit ka Hastinapur Mein Shaanti Sandesh
+
+Yeh adhyay Mahabharat ke sabse mahatvapurn shaanti-prayas (peace negotiation) mein se ek hai.
+
+Drupada ke Purohit Hastinapur Pahunche
+
+Raja Drupada ke purohit Hastinapur pahunche.
+
+Unka svaagat kiya—
+
+Dhritarashtra
+Bhishma
+Vidura
+
+Sabse pehle unhone Pandavon ki kushalta bataai aur Kauravon ka haal-chaal poochha.
+
+Uske baad unhone sabha mein apna sandesh rakha."""
             create_image_text_layout(
                 "attached_assets/chapter5/5.1.20.jpg",
                 text1,
@@ -2162,7 +2666,124 @@ Yahin par kahani agle adhyay ki aur badhti hai, jahan Nahush ka ahankaar apne ch
                 image_position="left"
             )
 
-            text2 = """ """
+            text2 = """ 
+Unka Pehla Tark – Rajya Dono Bhaiyon Ka Tha
+
+Purohit bole,
+
+“Dhritarashtra aur Pandu dono ek hi pita ke putra the.”
+
+“Toh pita ki sampatti par dono ka barabar adhikaar tha.”
+
+“Toh phir Pandavon ko unka hissa kyun nahi mila?”
+
+Kauravon ke Anyay Yaad Dilaye
+
+Unhone ek-ek karke Kauravon ke anyaay ginaaye.
+
+1. Rajya Cheen Liya
+
+Pandavon ko unke pita ka hissa nahi diya gaya.
+
+2. Unhe Maarne ki Koshish Ki
+
+Kai baar unhe chhal aur saazish se maarne ki koshish hui.
+
+Lekin unki aayu baaki thi, isliye ve bach gaye.
+
+3. Apni Mehnat se Bana Rajya bhi Cheen Liya
+
+Pandavon ne apni veerta se Indraprastha basaya.
+
+Lekin Shakuni ke chhal se unka rajya chheen liya gaya.
+
+Dhritarashtra ne bhi ise rokne ki koshish nahi ki.
+
+4. Vanvaas aur Agyatvaas
+
+Pandavon ne—
+
+12 saal vanvaas
+1 saal agyatvaas
+
+poori imaandaari se poora kiya.
+
+5. Draupadi ka Apmaan
+
+Sabha mein Draupadi ka apmaan hua.
+
+Pandav sab kuch sehkar bhi apni pratigya nibhaate rahe.
+
+6. Virat Nagar Mein Kasht
+
+Agyatvaas ke dauraan bhi unhone bahut apmaan aur kasht sahe.
+
+Phir bhi dharm ka maarg nahi chhoda.
+
+Phir Bhi Pandav Yuddh Nahi Chahte
+
+Purohit bole,
+
+“In sab anyaayon ke baad bhi Pandav badla nahi maang rahe.”
+
+“Ve sirf apna haq chahte hain.”
+
+“Ve poori duniya ko yuddh mein jhonkna nahi chahte.”
+
+“Ve shaanti chahte hain.”
+
+Lekin Yuddh Hua To...
+
+Purohit ne chetaavni bhi di.
+
+Unhone kaha,
+
+“Pandav kamzor nahi hain.”
+
+Unke paas—
+
+7 Akshauhini sena taiyaar khadi hai.
+
+Aur unke saath mahaan yoddha hain.
+
+Jaise—
+
+Satyaki
+Bhima
+Nakula
+Sahadeva
+Sabse Badi Shakti
+
+Phir unhone kaha,
+
+“Tumhari 11 Akshauhini sena ek taraf hai...”
+
+“Lekin doosri taraf ek hi Arjuna bahut bhaari hai.”
+
+Aur usse bhi bada bal hai—
+
+Krishna ki buddhi aur maargdarshan.
+
+Unhone prashn kiya,
+
+“Aakhir kaun hoga jo Arjuna ki veerta aur Krishna ki neeti ke saamne tik sake?”
+
+Antim Sandesh
+
+Purohit ne sabha se kaha,
+
+“Jo nyaay ke anusaar Pandavon ka hai, woh unhe wapas de dijiye.”
+
+“Abhi bhi samay hai.”
+
+“Shaanti ka avsar haath se mat jaane dijiye.”
+
+Is Adhyay ka Mukhya Sandesh
+Pandavon ne apna poora vanvaas aur agyatvaas dharm ke anusaar poora kiya.
+Unka rajya unka adhikaar tha.
+Ve yuddh nahi, nyaay aur shaanti chahte the.
+Lekin agar shaanti na mili, toh Arjuna aur Krishna ke netritva mein ve yuddh ke liye poori tarah taiyaar the.
+Yeh Udyoga Parva ki pehli aadhikarik shaanti-varta hai, jahan Pandav apna nyaaypoorn daava vinamrata se rakhte hain."""
             create_image_text_layout(
                 text_content=text2,
                 layout="full"
