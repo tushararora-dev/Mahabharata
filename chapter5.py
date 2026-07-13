@@ -2792,7 +2792,20 @@ Yeh Udyoga Parva ki pehli aadhikarik shaanti-varta hai, jahan Pandav apna nyaayp
 
         # Section 5.1.21
         with st.expander("Section 5.1.21  Section XXI"):
-            text1 = """ """
+            text1 = """ 
+            Chapter 21 – Bhishma ne Pandavon ke Adhikaar ko Svikar Kiya, Karna ne Yuddh ka Paksh Liya
+
+Yeh adhyay Drupada ke purohit ke shaanti sandesh ke baad Hastinapur ki sabha mein hui pratikriya ko darshata hai.
+
+Bhishma ne Purohit ka Sammaan Kiya
+
+Bhishma ne purohit ka aadar karte hue kaha,
+
+"Yeh bahut shubh hai ki Pandav Krishna ke saath surakshit hain."
+
+"Yeh bhi achha hai ki unhone shaktishaali mitra prapt kiye hain."
+
+"Sabse adhik prasannata ki baat yeh hai ki ve apne hi bandhu Kauravon ke saath shaanti chahte hain.""""
             create_image_text_layout(
                 "attached_assets/chapter5/5.1.21.jpg",
                 text1,
@@ -2800,7 +2813,102 @@ Yeh Udyoga Parva ki pehli aadhikarik shaanti-varta hai, jahan Pandav apna nyaayp
                 image_position="left"
             )
 
-            text2 = """ """
+            text2 = """ 
+Bhishma ne Pandavon ka Haq Svikar Kiya
+
+Bhishma ne spasht roop se kaha,
+
+"Tumne jo kaha hai, vah satya hai."
+
+"Haan, tumhare shabd kathor hain, lekin sachchai par aadharit hain."
+
+Unhone svikaar kiya ki—
+
+Pandavon ne Hastinapur aur van mein bahut kasht sahe.
+Unhone apni pratigya poori imaandari se nibhayi.
+Dharm aur kanoon ke anusaar unka pita ka rajya unka hi adhikaar hai.
+Arjuna ki Apar Shakti
+
+Bhishma ne sabha mein Arjuna ki khulkar prashansa ki.
+
+Unhone kaha,
+
+"Arjuna mahaan dhanurdhar aur ati shreshth maharathi hai."
+
+"Uska saamna yuddh mein kaun kar sakta hai?"
+
+"Devraj Indra bhi uska saamna karne mein kathinai mehsoos karenge."
+
+"Mere vichaar se Arjuna teenon lokon ka saamna karne ki kshamata rakhta hai."
+
+Karna ne Bhishma ki Baat Kaati
+
+Bhishma ki baat chal hi rahi thi ki Karna krodhit hokar beech mein bol pada.
+
+Usne kaha,
+
+"Yeh baatein sabko pehle se pata hain."
+
+"Inhe baar-baar dohraane ka kya laabh?"
+
+Karna ka Tark
+
+Karna ne kaha,
+
+Shakuni ne niyam ke anusaar paason mein jeet haasil ki thi.
+Yudhishthira ne swayam vanvaas ki shart sveekar ki thi.
+Ab Panchal aur Matsya ki sena dekhkar ve apna rajya wapas maang rahe hain.
+
+Usne kaha,
+
+"Agar unhe rajya chahiye, to pehle poori shart poori karni chahiye."
+
+"Uske baad ve Duryodhana ke adheen shaanti se reh sakte hain."
+
+Aur agar ve yuddh chunte hain,
+
+"Toh ranbhoomi mein Kauravon ka saamna karte samay meri baat yaad rakhenge."
+
+Bhishma ne Karna ko Daant Diya
+
+Bhishma ne turant Karna ko rokte hue kaha,
+
+"Hey Radheya, itna ghamand mat karo."
+
+"Kya tum bhool gaye jab Arjuna ne akela hi chhah mahaan maharathiyon ko parajit kar diya tha?"
+
+Bhishma ne sabha ko chetaavni di,
+
+"Agar hum is Brahman (Drupada ke purohit) ki baat nahi maanenge, to nishchit roop se Arjuna ke haathon yuddh mein vinaash ho jaayega."
+
+Dhritarashtra ne Beech-Bachav Kiya
+
+Tab Dhritarashtra ne—
+
+Bhishma ko shaant kiya,
+Karna ko daanta,
+aur kaha,
+
+"Bhishma ki baat hum sab ke hit mein hai."
+
+"Lekin antim nirnay lene se pehle main Pandavon ke paas apna doot bhejunga."
+
+Sanjaya ko Doot Banaaya Gaya
+
+Dhritarashtra ne Drupada ke purohit ka samman kiya aur unhe vaapas bhej diya.
+
+Uske baad usne apne vishwas-paatra Sanjaya ko bulaya.
+
+Usne nishchay kiya ki Sanjaya Pandavon ke paas jaakar shaanti ka sandesh pahunchayega.
+
+Yahin se Mahabharat ki prasiddh Sanjaya Shanti-Doot Yatra ka aarambh hota hai.
+
+Is Adhyay ka Mukhya Sandesh
+Bhishma ne khule roop se maana ki Pandav apne pita ke rajya ke vaastavik adhikaari hain.
+Unhone Arjuna ko lagbhag ajeya yoddha bataya.
+Karna ne Duryodhana ka paksh lekar Pandavon ki maang ka virodh kiya aur yuddh ki baat ki.
+Bhishma ne Karna ke ghamand ko yaad dilaya ki Arjuna pehle bhi akela kai maharathiyon ko hara chuka hai.
+Dhritarashtra ne turant yuddh ka nirnay na lekar Sanjaya ko shaanti-varta ke liye Pandavon ke paas bhejne ka faisla kiya."""
             create_image_text_layout(
                 text_content=text2,
                 layout="full"
@@ -2809,7 +2917,22 @@ Yeh Udyoga Parva ki pehli aadhikarik shaanti-varta hai, jahan Pandav apna nyaayp
 
         # Section 5.1.22
         with st.expander("Section 5.1.22  Section XXII"):
-            text1 = """ """
+            text1 = """ 
+Chapter 22 – Dhritarashtra ne Sanjaya ko Shaanti Sandesh ke Saath Pandavon ke Paas Bheja
+
+Yeh adhyay dikhata hai ki Dhritarashtra ko andar hi andar Pandavon ki shakti aur apne putra Duryodhana ki zid ka poora ehsaas tha. Isliye usne apne vishwas-paatra Sanjaya ko Pandavon ke paas sandesh lekar bhejne ka nirnay liya.
+
+Dhritarashtra ne Sanjaya ko Aadesh Diya
+
+Dhritarashtra bola,
+
+"Pandav Upaplavya pahunch chuke hain."
+
+"Jao aur unka haal-chaal poochho."
+
+Yudhishthira se kehna,
+
+"Tum log bahut kasht uthaakar vanvaas se surakshit laut aaye, yeh hamare liye khushi ki baat hai.""""
             create_image_text_layout(
                 "attached_assets/chapter5/5.1.22.jpg",
                 text1,
@@ -2817,7 +2940,142 @@ Yeh Udyoga Parva ki pehli aadhikarik shaanti-varta hai, jahan Pandav apna nyaayp
                 image_position="left"
             )
 
-            text2 = """ """
+            text2 = """ 
+Pandavon ki Prashansa
+
+Dhritarashtra ne svikaar kiya,
+
+"Pandav kabhi jhooth nahi bolte."
+
+"Maine unke vyavahaar mein kabhi koi dosh nahi dekha."
+
+Unhone kaha ki Pandav—
+
+hamesha dharm ka paalan karte hain,
+apni mehnat se rajya jeete the,
+badon ka samman karte the,
+kabhi ahankari nahi bane,
+sukh-dukh mein samaan rehte hain,
+mitron ka hamesha saath dete hain.
+Duryodhana aur Karna par Afsos
+
+Dhritarashtra ne dukh ke saath kaha,
+
+"Kuru vansh mein sirf do log hi Pandavon se dwesh rakhte hain—
+
+Duryodhana
+Karna."
+
+Unhone maana ki in dono ki zid hi sab vinash ka kaaran ban rahi hai.
+
+Pandavon ki Sena ka Dar
+
+Dhritarashtra ne kaha,
+
+"Jab tak Pandav jeevit hain, unse rajya chheena nahi ja sakta."
+
+Usne Pandav paksh ke mahaan yoddhaon ka ullekh kiya—
+
+Arjuna
+Bhima
+Krishna
+Satyaki
+Nakula
+Sahadeva
+Dhrishtadyumna
+Virata
+
+Aur kaha,
+
+"Yeh sab milkar hamari sena ko tabah kar sakte hain."
+
+Arjuna ki Mahima
+
+Dhritarashtra ne yaad dilaya ki Arjuna—
+
+akela hi uttar disha jeet kar lauta tha.
+Khandava van mein devtaon tak ka saamna kar chuka hai.
+Gandiva se teeron ki aisi varsha karta hai ki aasmaan dhak jaata hai.
+
+Usne maana,
+
+"Eklauta Arjuna hi poori duniya ka saamna kar sakta hai."
+
+Bhima ka Dar
+
+Dhritarashtra bola,
+
+"Bhima ki gada ka koi samaan nahi."
+
+"Uski shakti das hazaar haathiyon ke barabar hai."
+
+"Krodhit Bhima Kaurav sena ko kuch hi samay mein samaapt kar dega."
+
+Nakula aur Sahadeva
+
+Unhone kaha,
+
+"Madri ke dono putra Arjuna ke shishya hain."
+
+"Ve baaz ki tarah dushmanon ka vinaash kar denge."
+
+Krishna ka Smaran
+
+Dhritarashtra ko sabse zyada chinta Krishna ki thi.
+
+Usne yaad kiya—
+
+Krishna ne Shishupala ko sabha mein hi maar diya tha.
+Bade-bade raja Krishna ka saamna nahi kar paaye.
+Sab Krishna se dar kar bhaag gaye the.
+
+Dhritarashtra bola,
+
+"Jahan Krishna neta hain, wahan vijay nishchit hai."
+
+Sabse Bada Dar
+
+Phir usne kaha,
+
+"Jab main sochta hoon ki Krishna aur Arjuna ek hi rath par honge, mera hriday bhay se kaamp uthta hai."
+
+Usne kaha,
+
+"Arjuna Indra ke samaan hai."
+
+"Aur Krishna swayam Vishnu hain."
+
+Yudhishthira ka Krodh Sabse Bhayankar
+
+Ek bahut mahatvapurn baat Dhritarashtra ne kahi.
+
+Usne maana,
+
+"Mujhe Arjuna, Bhima ya Krishna se utna dar nahi lagta..."
+
+"...jitna Yudhishthira ke dharmik krodh se lagta hai."
+
+"Kyunki unhone sada dharm ka paalan kiya hai."
+
+"Unpar anyaay hua hai."
+
+"Agar unka dharm-yukt krodh phoot pada, toh Kaurav vansh ka vinaash nishchit hai."
+
+Sanjaya ke Liye Antim Nirdesh
+
+Dhritarashtra ne Sanjaya se kaha,
+
+Yudhishthira ka kushal-mangal poochhna.
+Krishna ka bhi samman ke saath haal-chaal poochhna.
+Kehna ki Dhritarashtra shaanti chahta hai.
+Sabhi Pandavon, Satyaki, Virata aur anya rajaon ko mera pranam kehna.
+Aur aise shabd bolna jo yuddh ko roken, na ki bhadkayein.
+Is Adhyay ka Mukhya Sandesh
+Dhritarashtra ko poori tarah pata tha ki Pandav dharm ke paksh mein hain.
+Use Arjuna, Bhima aur Krishna ki apar shakti ka poora gyaan tha.
+Usne khud maana ki Duryodhana aur Karna ki zid hi sangharsh ka mool kaaran hai.
+Sabse adhik bhay use Yudhishthira ke dharmik krodh se tha.
+Phir bhi, putra-moh ke kaaran woh Duryodhana ko rok nahi saka aur keval Sanjaya ke madhyam se ek aur shaanti-prayas karne laga."""
             create_image_text_layout(
                 text_content=text2,
                 layout="full"
@@ -2826,7 +3084,18 @@ Yeh Udyoga Parva ki pehli aadhikarik shaanti-varta hai, jahan Pandav apna nyaayp
 
         # Section 5.1.23
         with st.expander("Section 5.1.23  Section XXIII"):
-            text1 = """ """
+            text1 = """ 
+Chapter 23 – Sanjaya Pandavon ke Paas Pahunche, Yudhishthira ne Kauravon ka Haal Poocha
+
+Yeh adhyay batata hai ki Sanjaya Dhritarashtra ka shaanti sandesh lekar Upaplavya mein Pandavon ke paas pahunche.
+
+Sanjaya ne Yudhishthira ko Pranam Kiya
+
+Sanjaya ne sabse pehle Yudhishthira ko pranam kiya aur kaha,
+
+"Hey Rajan, aapko apne mitron ke saath swasth dekhkar mujhe bahut khushi hui."
+
+Unhone bataya ki Dhritarashtra ne unka kushal-mangal poochha hai."""
             create_image_text_layout(
                 "attached_assets/chapter5/5.1.23.jpg",
                 text1,
@@ -2834,7 +3103,133 @@ Yeh Udyoga Parva ki pehli aadhikarik shaanti-varta hai, jahan Pandav apna nyaayp
                 image_position="left"
             )
 
-            text2 = """ """
+            text2 = """ 
+Pandavon ka Haal Poocha
+
+Sanjaya ne poochha,
+
+Bhima kaise hain?
+Arjuna kaise hain?
+Nakula aur Sahadeva kaise hain?
+Aur Draupadi, jo sada satya aur dharm par chalti hain, kya ve bhi apne putron ke saath kushal hain?
+Yudhishthira ne Sanjaya ka Swaagat Kiya
+
+Yudhishthira bole,
+
+"Hey Sanjaya, tumhe dekhkar aisa lag raha hai jaise maine swayam Dhritarashtra ko dekh liya ho."
+
+Unhone kaha,
+
+"Hum sab kushal hain."
+
+Sabse Pehle Kauravon ka Haal Poocha
+
+Yeh Yudhishthira ke uchch charitra ko dikhata hai.
+
+Unhone ek-ek karke sabka haal poochha—
+
+Bhishma
+Dhritarashtra
+Bahlika
+Somadatta
+Bhurishravas
+Drona
+Ashwatthama
+Kripa
+Yuyutsu
+Karna
+
+Unhone prarthana ki ki sab swasth hon.
+
+Rajmahal ki Striyon ka Bhi Haal Poocha
+
+Yudhishthira ne poochha,
+
+Mataayein kaisi hain?
+Bahuein kaisi hain?
+Rajkumariyan kaisi hain?
+Bachche kaise hain?
+Ghar ke sab log sukhi hain na?
+
+Yeh unki karuna aur vinamrata ko darshata hai.
+
+Brahmanon ka Vishesh Dhyaan
+
+Yudhishthira ne kaha,
+
+"Mujhe aasha hai Dhritarashtra Brahmanon ka samman karte honge."
+
+"Maine jo daan Brahmanon ko diye the, unhe Duryodhana ne cheena toh nahi?"
+
+Unhone kaha,
+
+"Brahmanon ka apmaan kisi bhi rajya ke vinaash ka kaaran ban sakta hai."
+
+Rajya ki Suraksha ka Prashn
+
+Yudhishthira ne poochha,
+
+Kya rajya ke adhikaari santusht hain?
+Kya koi dushman mitra bankar andar se saazish toh nahi kar raha?
+Kya sab log Dhritarashtra ko apna rakshak maante hain?
+Kya Unhe Pandav Yaad Hain?
+
+Yudhishthira ne halka sa vyangya karte hue poochha,
+
+"Kya Kauravon ko Arjuna yaad hai?"
+
+"Wahi Arjuna jiske Gandiva ke teeron ki garaj bijli ki tarah goonjti hai."
+
+"Wahi Arjuna jo ek baar mein anek teer chala sakta hai."
+
+Bhima ko Yaad Hai?
+
+Unhone poochha,
+
+"Kya unhe Bhima yaad hai?"
+
+"Wahi Bhima jise dekhkar shatru sena haathi ke saamne kaanpte hue baans ki tarah hilne lagti hai."
+
+Nakula aur Sahadeva
+
+Yudhishthira ne yaad dilaya,
+
+Sahadeva ne Kalinga ko jeeta tha.
+Nakula ne pashchimi deshon ko jeetkar rajya ka vistaar kiya tha.
+Dwaitavana ki Ghatna Yaad Hai?
+
+Yudhishthira ne Sanjaya se poochha,
+
+"Kya Kauravon ko Dwaitavana ki ghatna yaad hai?"
+
+Jab—
+
+Gandharvon ne Duryodhana ko hara diya tha.
+Use bandi bana liya tha.
+Aur ant mein usi Duryodhana ko Bhima aur Arjuna ne chhudaya tha.
+
+Yudhishthira ne yaad dilaya,
+
+"Humne apne dushman ko bhi us samay bachaya tha."
+
+Ant Mein Dukh
+
+Yudhishthira bole,
+
+"Sirf achchai karne se hamesha sukh nahi milta."
+
+"Humne dharm ka paalan kiya."
+
+"Humne Kauravon ki bhi madad ki."
+
+"Lekin phir bhi Duryodhana ka hriday nahi badla."
+
+Is Adhyay ka Mukhya Sandesh
+Sanjaya Dhritarashtra ka shaanti sandesh lekar Pandavon ke paas pahunche.
+Yudhishthira ne pehle Kauravon aur unke parivaar ka kushal-mangal poochha, jo unke uchch charitra ko darshata hai.
+Unhone Brahmanon, rajya-prashasan aur praja ke kalyan ki bhi chinta vyakt ki.
+Unhone Kauravon ko unke purane upkaar yaad dilaye—khaaskar Dwaitavana mein Duryodhana ko bachane ki ghatna.
+Adhyay ka antim bhaav yeh hai ki dharm aur sadachar ke baad bhi anyaayi vyakti ka hriday badalna bahut kathin hota hai."""
             create_image_text_layout(
                 text_content=text2,
                 layout="full"
@@ -2843,7 +3238,25 @@ Yeh Udyoga Parva ki pehli aadhikarik shaanti-varta hai, jahan Pandav apna nyaayp
 
         # Section 5.1.24
         with st.expander("Section 5.1.24  Section XXIV"):
-            text1 = """ """
+            text1 = """ 
+Chapter 24 – Sanjaya ne Dhritarashtra ka Shaanti Sandesh Sunaya
+
+Is adhyay mein Sanjaya Yudhishthira ko Dhritarashtra ka sandesh sunata hai aur dono vanshon ke beech shaanti ki prarthana karta hai.
+
+Sanjaya ne Yudhishthira ki Baaton ki Pushti Ki
+
+Sanjaya bola,
+
+"Hey Yudhishthira, jo kuchh aapne Kuru vansh ke baare mein poochha aur kaha, vah satya hai."
+
+Usne bataya ki—
+
+Bhishma,
+Drona,
+Kripa,
+aur anya vriddh Kuru
+
+sab swasth hain."""
             create_image_text_layout(
                 "attached_assets/chapter5/5.1.24.jpg",
                 text1,
@@ -2851,7 +3264,98 @@ Yeh Udyoga Parva ki pehli aadhikarik shaanti-varta hai, jahan Pandav apna nyaayp
                 image_position="left"
             )
 
-            text2 = """ """
+            text2 = """ 
+Kauravon Mein Achhe aur Bure Dono Hain
+
+Sanjaya ne imaandari se kaha,
+
+"Kaurav paksh mein dharmic aur buddhimaan log bhi hain..."
+
+"...aur kuchh paapi aur durbuddhi log bhi."
+
+Yeh sanket tha ki sab log Duryodhana jaise nahi the.
+
+Duryodhana ke Baare Mein
+
+Sanjaya ne kaha,
+
+"Duryodhana Brahmanon ko diya hua daan kabhi wapas nahi leta."
+
+Aur kaha,
+
+"Dhritarashtra tumhare saath hue anyaay ko sahi nahi maanta."
+
+"Vah andar hi andar is baat se bahut dukhi hai."
+
+Usne yeh bhi bataya ki Dhritarashtra ne Brahmanon se suna hai ki—
+
+Apne hi kul mein yuddh (grih-yuddh) sabse bada paap hota hai.
+
+Isliye vah shaanti chahta hai.
+
+Pandavon ki Veerta Sabko Yaad Hai
+
+Sanjaya ne kaha,
+
+"Kaurav aaj bhi Pandavon ki veerta ko yaad karte hain."
+
+Sabko yaad hai—
+
+Arjuna ka Gandiva,
+Bhima ki gada,
+Nakula aur Sahadeva ki asadharan yuddh-kala.
+
+Unhone maana ki yeh chaaron yoddha ranbhoomi mein bhayankar hain.
+
+Bhagya ka Rahasya
+
+Sanjaya ne gahri baat kahi,
+
+"Bhavishya ko koi nahi jaanta."
+
+"Aap jaise dharmatma ko bhi itna kasht sehna pada."
+
+Isliye manushya ko apne karm karte rehna chahiye.
+
+Pandav Kabhi Dharm Nahi Chhodenge
+
+Sanjaya bola,
+
+"Mujhe poora vishvaas hai ki Pandav kabhi sukh ke liye dharm ka tyag nahi karenge."
+
+Yeh Yudhishthira ke charitra ki prashansa thi.
+
+Shaanti ki Aasha
+
+Ant mein Sanjaya ne kaha,
+
+"Hey Yudhishthira, mujhe aasha hai ki apni buddhi aur dhairya se aap aisa maarg nikaalenge..."
+
+"...jisse—
+
+Kaurav,
+Pandav,
+Srinjaya,
+aur sabhi raja
+
+shaanti prapt kar saken."
+
+Dhritarashtra ka Sandesh
+
+Sanjaya ne ant mein kaha,
+
+"Ab dhyaan se suniye."
+
+"Main wahi sandesh sunaunga jo Dhritarashtra ne apne putron aur mantriyon se salaah karke mujhe diya hai."
+
+Yahin se Dhritarashtra ka aadhikarik shaanti-prastaav shuru hota hai.
+
+Is Adhyay ka Mukhya Sandesh
+Sanjaya ne bataya ki Kaurav paksh mein sab log anyaayi nahi hain.
+Dhritarashtra ko apne hi vansh ke yuddh ka bhay aur pachtava hai.
+Kaurav Pandavon ki shakti aur veerta ko achhi tarah jaante hain.
+Sanjaya ne Yudhishthira ke dharm aur vivek par bharosa jataya aur unse shaanti ka maarg chunne ki aasha vyakt ki.
+Agla adhyay Dhritarashtra ke vistaar se diye gaye sandesh aur shaanti-varta ko aage badhata hai."""
             create_image_text_layout(
                 text_content=text2,
                 layout="full"
@@ -2860,7 +3364,24 @@ Yeh Udyoga Parva ki pehli aadhikarik shaanti-varta hai, jahan Pandav apna nyaayp
 
         # Section 5.1.25
         with st.expander("Section 5.1.25  Section XXV"):
-            text1 = """ """
+            text1 = """ 
+Chapter 25 – Sanjaya ne Pandavon se Yuddh Rokne ki Vinati Ki
+
+Is adhyay mein Yudhishthira sabke saamne Sanjaya se kehte hain ki ab vah Dhritarashtra ka poora sandesh sunaaye. Iske baad Sanjaya shaanti ka gehra sandesh deta hai.
+
+Yudhishthira ne Kaha – Sabke Saamne Sandesh Sunao
+
+Yudhishthira bole,
+
+"Yahaan sab upasthit hain—
+
+Pandav,
+Srinjaya,
+Krishna,
+Satyaki,
+Virata,
+
+ab Dhritarashtra ka sandesh sabke saamne sunaao." """
             create_image_text_layout(
                 "attached_assets/chapter5/5.1.25.jpg",
                 text1,
@@ -2868,7 +3389,142 @@ Yeh Udyoga Parva ki pehli aadhikarik shaanti-varta hai, jahan Pandav apna nyaayp
                 image_position="left"
             )
 
-            text2 = """ """
+            text2 = """ 
+Sanjaya ne Sabko Pranam Kiya
+
+Sanjaya ne samman ke saath pranam kiya—
+
+Yudhishthira
+Bhima
+Arjuna
+Nakula
+Sahadeva
+Krishna
+Satyaki
+Drupada
+Dhrishtadyumna
+
+Phir bola,
+
+"Main yahaan Kuru vansh ke hit ke liye aaya hoon."
+
+Dhritarashtra ki Ichchha – Shaanti
+
+Sanjaya ne kaha,
+
+"Dhritarashtra shaanti chahta hai."
+
+"Isi liye usne bina deri kiye mujhe tumhare paas bheja hai."
+
+Yudhishthira se Vinati
+
+Sanjaya bola,
+
+"Hey Yudhishthira, kripaya shaanti ka maarg apnaaiye."
+
+"Tum sabhi gunon se sampann ho."
+
+"Tum—
+
+dhairyavaan ho,
+komal swabhaav ke ho,
+satyavaadi ho,
+udaar ho,
+uchch kul mein janme ho,
+aur kabhi apmaanjanak kaam nahi karte."
+Yuddh ka Koi Laabh Nahi
+
+Sanjaya ne bahut gahri baat kahi.
+
+Usne poochha,
+
+"Aisa kaun buddhimaan hoga jo jaan-boojhkar aisa kaam kare jisme poori duniya ka vinaash ho?"
+
+Usne kaha,
+
+"Is yuddh mein jeet aur haar dono hi dukhad hongi."
+
+Agar Pandav Jeet Gaye To...
+
+Sanjaya bola,
+
+"Maan lo tum jeet bhi gaye..."
+
+"Lekin agar tumhare hi sabhi rishtedaar mar gaye..."
+
+"Toh aisi jeet ka kya arth?"
+
+"Apne hi kul ka vinaash karke jeena bhi ek prakar ki mrityu ke samaan hoga."
+
+Dono Paksh Bahut Shaktishaali Hain
+
+Sanjaya ne kaha,
+
+Pandavon ke saath hain—
+
+Krishna
+Satyaki
+Dhrishtadyumna
+Chekitana
+aur anya mahaan yoddha.
+
+Aur Kauravon ke saath hain—
+
+Bhishma
+Drona
+Ashwatthama
+Kripa
+Karna
+Shalya
+
+Isliye,
+
+"Kisi bhi paksh ki jeet aasaan nahi hogi."
+
+Main Vijay Ya Haar Mein Koi Bhalaai Nahi Dekhta
+
+Sanjaya ne spasht kaha,
+
+"Na mujhe Pandavon ki jeet mein koi laabh dikhta hai..."
+
+"...na Kauravon ki."
+
+"Kyunki dono sthitiyon mein Bharat vansh ka vinaash hoga."
+
+Krishna se Prarthana
+
+Sanjaya ne vinamrata se haath jodkar kaha,
+
+"Main Krishna aur Maharaj Drupada se prarthana karta hoon."
+
+"Kripaya dono vanshon ka kalyan kijiye."
+
+Krishna aur Arjuna par Vishwas
+
+Sanjaya bola,
+
+"Mujhe vishvaas hai..."
+
+"Krishna aur Arjuna dharm ki baat kabhi nahi taalenge."
+
+"Agar unse shaanti ke liye kaha jaaye, toh ve apni jaan tak dene ko taiyaar ho jaayenge."
+
+Ant Mein Sandesh
+
+Sanjaya ne kaha,
+
+"Yahi Dhritarashtra ki ichchha hai."
+
+"Aur Bhishma bhi isi baat ka samarthan karte hain..."
+
+"...ki Kaurav aur Pandavon ke beech shaanti ho."
+
+Is Adhyay ka Mukhya Sandesh
+Sanjaya ne Dhritarashtra ka aadhikarik shaanti sandesh sabke saamne sunaaya.
+Usne Yudhishthira ke dharm, vinamrata aur uchch charitra ki prashansa ki.
+Usne samjhaya ki is yuddh mein jeetne wala bhi apne hi kul ko kho dega.
+Usne maana ki dono paksh apar shaktishaali hain aur yuddh ka parinaam vinashkari hoga.
+Ant mein usne Krishna aur Bhishma ki shaanti ki ichchha ka ullekh karte hue yuddh taalne ki vinati ki."""
             create_image_text_layout(
                 text_content=text2,
                 layout="full"
