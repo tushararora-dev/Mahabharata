@@ -2932,7 +2932,7 @@ Dhritarashtra bola,
 
 Yudhishthira se kehna,
 
-"Tum log bahut kasht uthaakar vanvaas se surakshit laut aaye, yeh hamare liye khushi ki baat hai.""""
+"Tum log bahut kasht uthaakar vanvaas se surakshit laut aaye, yeh hamare liye khushi ki baat hai." """
             create_image_text_layout(
                 "attached_assets/chapter5/5.1.22.jpg",
                 text1,
