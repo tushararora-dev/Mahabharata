@@ -3533,7 +3533,22 @@ Ant mein usne Krishna aur Bhishma ki shaanti ki ichchha ka ullekh karte hue yudd
 
         # Section 5.1.26
         with st.expander("Section 5.1.26  Section XXVI"):
-            text1 = """ """
+            text1 = """ 
+            Section XXVI – Yudhishthira ka Shaanti Sandesh aur Antim Maang
+
+Is adhyay mein Yudhishthira, Sanjaya ko apna drishtikon batate hain. Ve spasht karte hain ki Pandav yuddh nahi chahte, lekin apna nyayik adhikaar bhi nahi chhodenge.
+
+1. "Humne Kab Yuddh Maanga?"
+
+Yudhishthira ne Sanjaya se puchha,
+
+"Maine aisi kaunsi baat kahi jisse tumhe laga ki main yuddh chahta hoon?"
+
+Unhone kaha,
+
+Shaanti hamesha yuddh se uttam hai.
+Agar bina yuddh ke apna adhikaar mil jaaye, to kaun yuddh karega?
+Sirf abhishapt vyakti hi yuddh ko pasand karega."""
             create_image_text_layout(
                 "attached_assets/chapter5/5.1.26.jpg",
                 text1,
@@ -3541,7 +3556,104 @@ Ant mein usne Krishna aur Bhishma ki shaanti ki ichchha ka ullekh karte hue yudd
                 image_position="left"
             )
 
-            text2 = """ """
+            text2 = """ 
+2. Ichchha Kabhi Samaapt Nahi Hoti
+
+Yudhishthira ne gahra darshanik siddhant diya.
+
+Unhone kaha,
+
+Jaise jalti hui agni mein aur ghee daalne se vah aur bhadakti hai, vaise hi ichchha kabhi poori nahi hoti; use jitna poora karo, vah utni hi badhti hai.
+
+Isliye,
+
+Indriyon ke pichhe bhaagna dukh ka kaaran hai.
+Dharma se prapt sukh hi vaastavik sukh hai.
+3. Duryodhana ki Lalach hi Sab Vinash ka Kaaran
+
+Yudhishthira ne kaha,
+
+Dhritarashtra aaj dukhi isliye hai kyunki usne shuruaat se hi apne dusht putra ka saath diya.
+
+Usne kabhi Vidura ki baat nahi maani.
+
+4. Vidura ko Nazarandaaz Karna Sabse Badi Galti Thi
+
+Vidura ke baare mein Yudhishthira ne kaha,
+
+Ve sabse buddhimaan the.
+Ve sabke sachche hitkari the.
+Ve dharma ko jaante the.
+Unki har salaah rajya ke hit mein hoti thi.
+
+Lekin,
+
+Dhritarashtra ne putra-moh mein unki baat ko nazarandaaz kar diya.
+
+Yudhishthira ke anusaar,
+
+"Jis din Vidura ki baat thukra di gayi, usi din Kuru vansh ke vinash ki shuruaat ho gayi."
+
+5. Duryodhana ke Teen Mukhya Salahkaar
+
+Yudhishthira ne kaha ki Duryodhana ke aas-paas sirf teen log hain—
+
+Dushasana
+Shakuni
+Karna
+
+Aur inhi ke prabhav mein vah galat nirnay le raha hai.
+
+6. Karna ki Galatfahmi
+
+Yudhishthira ne kaha,
+
+Karna sochta hai ki vah Arjuna ko rok lega.
+
+Lekin,
+
+Itne saare yuddhon mein Karna kabhi Pandavon ko hara nahi saka.
+Bhishma, Drona aur anya maharathi bhi jaante hain ki Arjuna ka koi samaan nahi.
+7. Gandiva ki Dhvani Abhi Suni Nahi
+
+Yudhishthira ne kaha,
+
+"Dhritarashtra ke putra isliye zinda hain kyunki unhone abhi tak Gandiva ki asli garjana nahi suni."
+
+Aur,
+
+"Jab Bhima ka krodh phoot padega, tab Duryodhana ki saari aas toot jaayegi."
+
+8. Hum Badla Nahi Chahte
+
+Yudhishthira ne Sanjaya ko yaad dilaya,
+
+Tum hamare saare dukh jaante ho.
+Tumne dekha hai ki hamare saath kya hua.
+Phir bhi hum shaanti hi chahte hain.
+
+Yeh Yudhishthira ke dhairya aur kshama ka pramaan hai.
+
+9. Antim Maang – Sirf Indraprastha
+
+Ant mein Yudhishthira ne bahut spasht shabdon mein kaha,
+
+"Jaise tum keh rahe ho, main shaanti ke liye taiyaar hoon."
+
+Aur unhone sirf itni maang rakhi—
+
+"Mujhe mera Indraprastha vaapas de diya jaaye."
+
+Unhone na poora Hastinapur maanga, na Kauravon ka rajya.
+
+Sirf apna vaidh aur nyayik rajya.
+
+Is Adhyay ka Mukhya Sandesh
+Yudhishthira ne spasht kiya ki Pandav yuddh nahi, shaanti chahte hain.
+Ichchha aur lalach ko dukh ka mool bataya.
+Dhritarashtra ke putra-moh aur Vidura ki avhelna ko Kuru vansh ke vinash ka kaaran bataya.
+Karna ke ahankaar aur Arjuna ki asadharan shakti ka ullekh kiya.
+Ant mein Yudhishthira ne sirf apna nyayik rajya, Indraprastha, maanga—yeh dikhata hai ki unka uddeshya badla nahi, dharma aur nyay tha."""
             create_image_text_layout(
                 text_content=text2,
                 layout="full"
@@ -3550,7 +3662,24 @@ Ant mein usne Krishna aur Bhishma ki shaanti ki ichchha ka ullekh karte hue yudd
 
         # Section 5.1.27
         with st.expander("Section 5.1.27  Section XXVII"):
-            text1 = """ """
+            text1 = """ 
+Section XXVII – Sanjaya ka Antim Shaanti Upadesh
+
+Is adhyay mein Sanjaya, Yudhishthira ko yuddh se rokne ke liye gahra darshanik aur naitik upadesh dete hain. Yeh Mahabharata ke sabse shaantivadi sambhashanon mein se ek maana jaata hai.
+
+1. "Yuddh se Rajya Mile, to bhi Achha Nahi"
+
+Sanjaya ne kaha,
+
+"Agar bina yuddh ke tumhe rajya nahi milta, to bhi yuddh karke rajya paane se behtar hai ki tum Andhak aur Vrishni rajya mein bhiksha maang kar jeevan bitao."
+
+Yeh unka sabse kathor shaanti-sandesh tha.
+
+Unke anusaar,
+
+Jeevan chhota hai.
+Yash aur dharma rajya se bade hain.
+Khoon se jeeta hua rajya sukh nahi deta."""
             create_image_text_layout(
                 "attached_assets/chapter5/5.1.27.jpg",
                 text1,
@@ -3558,7 +3687,130 @@ Ant mein usne Krishna aur Bhishma ki shaanti ki ichchha ka ullekh karte hue yudd
                 image_position="left"
             )
 
-            text2 = """ """
+            text2 = """ 
+2. Ichchha Hi Sabse Badi Bedi Hai
+
+Sanjaya ne kaha,
+
+"Manushya ko baandhne wali sabse badi bedi dhan aur ichchha ki trishna hai."
+
+Isliye,
+
+Buddhimaan vyakti pehle apni ichchhaon ko jeetta hai.
+Jo sirf dharma ka anusaran karta hai, wahi surya ki tarah prakashit hota hai.
+3. Dhan se Bada Dharma
+
+Unhone samjhaya,
+
+Jo vyakti dharma ke bina sampatti paata hai, ant mein vinash ko prapt hota hai.
+Chahe poori prithvi mil jaaye, bina dharma ke uska koi moolya nahi.
+4. Yudhishthira ka Jeevan Pehle Hi Safal Hai
+
+Sanjaya ne Yudhishthira ki prashansa karte hue kaha,
+
+Tumne—
+
+Vedo ka adhyayan kiya,
+Yajna kiye,
+Brahmanon ko daan diya,
+Vanvaas saha,
+Satya aur dharma ka paalan kiya.
+
+Isliye,
+
+Tumne is janm ka kartavya poora kar diya hai.
+
+5. Achhe Karm Kabhi Vyarth Nahi Jaate
+
+Sanjaya ke anusaar,
+
+Maut ke baad dhan nahi jaata.
+Sirf karm saath jaate hain.
+Achhe karm swarg aur shanti dete hain.
+
+Isliye,
+
+Ek paap ke liye apni poori tapasya ko vyarth mat karo.
+
+6. Vanvaas Kyon Saha Tha?
+
+Sanjaya ne ek kathin prashn poochha,
+
+Agar ant mein yuddh hi karna tha,
+
+to 13 saal vanvaas kyon saha?
+us samay hi yuddh karke rajya kyon nahi le liya?
+
+Unhone yaad dilaya ki us samay bhi Pandavon ke paas—
+
+Krishna,
+Arjuna,
+Satyaki,
+Virata,
+aur anek mitra the.
+
+Tab bhi ve jeet sakte the.
+
+7. Krodh Sabse Khatarnak Rog Hai
+
+Sanjaya ne kaha,
+
+"Krodh ek kadvi dava hai jo kisi rog ko nahi, balki manushya ko hi nasht kar deti hai."
+
+Uske prabhav—
+
+buddhi ka nash,
+yash ka vinash,
+paap ki or pravritti.
+
+Isliye,
+
+Krodh ko peena (niyantrit karna) hi sachchi veerta hai.
+
+8. Vijay ke Baad Milega Kya?
+
+Sanjaya ne prashn kiya,
+
+Agar tum jeet bhi gaye aur—
+
+Bhishma,
+Drona,
+Ashvatthama,
+Kripa,
+Somadatta ka putra,
+Vikarna,
+Vivingsati,
+Karna,
+Duryodhana
+
+sab mar gaye...
+
+To phir tumhe kaunsa sukh milega?
+
+Rajya mil jayega, lekin—
+
+budhapa,
+mrityu,
+sukh-dukh
+
+to waise hi rahenge.
+
+9. Agar Mitra Yuddh Chahte Hain...
+
+Sanjaya ne bahut asadharan salah di,
+
+"Yadi tumhare mitra hi yuddh chahte hain, to rajya unhe de do aur swayam yuddh se door chale jao."
+
+Unke anusaar,
+
+Swarg ka marg yuddh se nahi, dharma aur tyag se hai.
+
+Is Adhyay ka Mukhya Sandesh
+Sanjaya ne rajya se adhik dharma aur yash ko mahatva diya.
+Unhone dhan aur ichchha ko bandhan bataya.
+Krodh ko sabse bada shatru kaha.
+Yuddh ke baad bhi jeevan ke dukh samaapt nahi hote—yeh yaad dilaya.
+Ant mein unhone Yudhishthira se vinati ki ki rajya ke liye apne kul ka vinash na hone dein, aur yuddh se bachne ka har sambhav prayas karein."""
             create_image_text_layout(
                 text_content=text2,
                 layout="full"
@@ -3567,7 +3819,24 @@ Ant mein usne Krishna aur Bhishma ki shaanti ki ichchha ka ullekh karte hue yudd
 
         # Section 5.1.28
         with st.expander("Section 5.1.28  Section XXVIII"):
-            text1 = """ """
+            text1 = """ 
+Section XXVIII – Yudhishthira ka Dharma ka Gahra Darshan
+
+Is adhyay mein Yudhishthira, Sanjaya ke shaanti-upadesh ka uttar dete hain. Yah Mahabharata ke sabse gahre dharma-darshanik adhyayon mein se ek hai.
+
+1. Dharma Hamesha Aasaan Nahi Hota
+
+Yudhishthira kehte hain,
+
+"Tumne dharma ki baat sahi kahi. Lekin pehle yeh batao ki jo main kar raha hoon, vah vaastav mein dharma hai ya adharma."
+
+Ve batate hain ki kabhi-kabhi—
+
+Adharma, dharma jaisa dikhai deta hai.
+Dharma, adharma jaisa lagta hai.
+Isliye sirf bahari roop dekhkar nirnay nahi kiya ja sakta.
+
+Isliye buddhimaan vyakti ko vivek (reason) se faisla karna chahiye."""
             create_image_text_layout(
                 "attached_assets/chapter5/5.1.28.jpg",
                 text1,
@@ -3575,7 +3844,115 @@ Ant mein usne Krishna aur Bhishma ki shaanti ki ichchha ka ullekh karte hue yudd
                 image_position="left"
             )
 
-            text2 = """ """
+            text2 = """ 
+2. Sankat ke Samay Dharma Badal Sakta Hai
+
+Yudhishthira ek mahatvapurn siddhant rakhte hain:
+
+"Aapad-dharma" (emergency ethics).
+
+Unke anusaar,
+
+Samanya paristhiti mein har varna aur ashram ka apna kartavya hai.
+Lekin sankat ke samay kuch alag niyam lagu hote hain.
+
+Udaharan:
+
+Agar kisi vyakti ki jeevika poori tarah chali jaaye, to vah apne jeevan aur dharma ko bachane ke liye anya uchit saadhan apna sakta hai.
+
+3. Paristhiti ke Anusaar Hi Dharma ka Nirnay
+
+Yudhishthira kehte hain,
+
+Galti do prakaar ki hai:
+
+Jo sankat na hone par bhi sankat ka bahana banaaye.
+Jo vaastavik sankat mein bhi zaruri kadam na uthaye.
+
+Dono nindaniya hain.
+
+4. Purvajon ka Marg
+
+Ve kehte hain,
+
+Hamare—
+
+pita,
+pitamah,
+aur pracheen rishi
+
+sabne isi siddhant ka paalan kiya hai.
+
+Yani,
+
+Dharma ko andhadhund nahi, balki paristhiti aur vivek ke anusaar samajhna chahiye.
+
+5. Adharma se Rajya Nahi Chahiye
+
+Yudhishthira ka dridh sankalp:
+
+"Chahe mujhe poori prithvi mil jaaye...
+chahe devlok mil jaaye...
+chahe Brahmalok mil jaaye...
+main unhe adharma se kabhi prapt nahi karunga."
+
+Yeh unke charitra ka saar hai.
+
+6. Krishna Hi Antim Nyaayadhish Hain
+
+Yudhishthira kehte hain,
+
+"Yahaan Krishna upasthit hain."
+
+Aur Krishna—
+
+buddhimaan hain,
+rajneeti jaante hain,
+dharma jaante hain,
+sabka hit chahte hain.
+
+Isliye Yudhishthira kehte hain,
+
+"Krishna hi bataayein ki yuddh karna mera dharma hai ya shaanti ke liye sab chhod dena."
+
+Yeh dikhata hai ki ve apni ichchha se nahi, dharma ke aadhar par nirnay lena chahte hain.
+
+7. Krishna ki Mahima
+
+Yudhishthira Krishna ki prashansa karte hue kehte hain ki—
+
+Andhak,
+Vrishni,
+Bhoja,
+Kukura,
+Srinjaya
+
+sab Krishna ke margdarshan se shaktishaali aur samriddh hue.
+
+Krishna ke baare mein ve kehte hain:
+
+Ve sab kuch jaante hain.
+Ve rajneeti ke mahan gyata hain.
+Ve dharma ke rakshak hain.
+Ve sabke hit ki sochne wale hain.
+8. Main Kabhi Krishna ki Salah Nahi Taalta
+
+Adhyay ka sabse mahatvapurn vakya:
+
+"Main kabhi bhi Krishna ki baat ko nazarandaaz nahi karta."
+
+Yudhishthira ke liye Krishna—
+
+mitra bhi hain,
+guru bhi,
+margdarshak bhi,
+aur dharma ke sarvashreshtha vivechak bhi.
+Is Adhyay ka Mukhya Sandesh
+Dharma ka nirnay hamesha saral nahi hota; kabhi-kabhi dharma aur adharma ek jaise dikhte hain.
+Sankat ke samay Aapad-dharma lagu hota hai, jahan paristhiti ke anusaar kartavya badal sakta hai.
+Yudhishthira spasht karte hain ki ve adharma se prithvi ya swarg bhi nahi chahte.
+Ve apne nirnay ka antim adhikar Krishna ko dete hain, kyunki unke anusaar Krishna hi dharma aur rajneeti ke sarvashreshtha vivechak hain.
+Is adhyay se Yudhishthira ka charitra aur bhi spasht hota hai—ve rajya se adhik dharma ko mahatva dete hain, lekin dharma ki raksha ke liye yuddh bhi avashyak ho sakta hai agar Krishna use uchit maanein."""
             create_image_text_layout(
                 text_content=text2,
                 layout="full"
@@ -3584,7 +3961,22 @@ Ant mein usne Krishna aur Bhishma ki shaanti ki ichchha ka ullekh karte hue yudd
 
         # Section 5.1.29
         with st.expander("Section 5.1.29  Section XXIX"):
-            text1 = """ """
+            text1 = """ 
+Section XXIX – Krishna ka Dharma, Karma aur Nyaya par Antim Sandesh
+
+Is adhyay mein Krishna pehli baar is shanti-varta mein apna vistaar se drishtikon rakhte hain. Ve spasht karte hain ki Pandav shanti chahte hain, lekin adharma ke saamne chup rehna bhi paap hai.
+
+1. Krishna Dono Pakshon ki Bhalai Chahte Hain
+
+Krishna kehte hain:
+
+Main chahta hoon ki Pandavon ka vinash na ho.
+Main Dhritarashtra aur uske putron ki bhi samriddhi chahta hoon.
+Meri pehli ichchha hamesha shanti ki hi rahi hai.
+
+Lekin ve ek mahatvapurn baat jodte hain:
+
+Jab ek paksh atyadhik lalchi ho jaaye, tab shanti tik nahi sakti."""
             create_image_text_layout(
                 "attached_assets/chapter5/5.1.29.jpg",
                 text1,
@@ -3592,7 +3984,165 @@ Ant mein usne Krishna aur Bhishma ki shaanti ki ichchha ka ullekh karte hue yudd
                 image_position="left"
             )
 
-            text2 = """ """
+            text2 = """ 
+2. Sirf Gyaan Nahi, Karma Bhi Zaroori Hai
+
+Krishna ek gahra darshanik siddhant dete hain.
+
+Ve kehte hain:
+
+Kuch log kehte hain ki karm hi mukti ka marg hai.
+Kuch kehte hain ki keval gyaan hi kaafi hai.
+
+Lekin Krishna udaharan dete hain:
+
+Bhookh ka gyaan hone se bhookh nahi mitti.
+Paani ka gyaan hone se pyaas nahi bujhti.
+
+Jab tak vyakti khaata ya peeta nahi, tab tak phal nahi milta.
+
+Isliye karm anivarya hai.
+
+3. Pura Vishva Karma se Chal Raha Hai
+
+Krishna batate hain:
+
+Surya pratidin karm karta hai.
+Vayu chalti hai.
+Agni jalti hai.
+Prithvi sabka bhaar uthati hai.
+Nadiyan nirantar bahti hain.
+Indra tapasya aur karm se Devraj bana.
+
+Yani,
+
+Prakriti ka har tattva karm kar raha hai.
+
+4. Yudhishthira Apna Kshatriya Dharma Nibha Rahe Hain
+
+Krishna kehte hain:
+
+Yudhishthira—
+
+Vedon ka adhyayan karte hain,
+Yajna karna chahte hain,
+Astra-shastra chalana jaante hain,
+Rajadharma ka paalan karte hain.
+
+Agar bina yuddh ke nyaya mil jaaye, to ve wahi marg chunenge.
+
+Lekin agar yuddh hi kartavya ban jaaye, to usse bhaagna bhi adharma hoga.
+
+5. Chaar Varnon ke Kartavya
+
+Krishna pratyek varna ke kartavya batate hain:
+
+Brahmana: adhyayan, adhyapan, yajna, daan aur tapasya.
+Kshatriya: praja ki raksha, daan, yajna aur nyaya.
+Vaishya: vyapar, krishi aur goraksha.
+Shudra: seva aur parishram.
+
+Aur raja ka kartavya hai ki sabko nyaya ke saath unke kartavya karne de.
+
+6. Jab Raja Lobh Karne Lage...
+
+Krishna kehte hain,
+
+Jab raja—
+
+lalchi ho jaata hai,
+doosron ka dhan chheen leta hai,
+dharma ko chhod deta hai,
+
+tab yuddh janm leta hai.
+
+Isliye astra aur shastra ka avishkar bhi dushton ko rokne ke liye hua.
+
+7. Dhritarashtra ke Putra Chor ke Samaan Hain
+
+Krishna kathor shabdon mein kehte hain,
+
+Jo vyakti chori-chhipe dhan churaata hai aur jo khule aam bal se kisi ka adhikaar chheen leta hai—
+
+dono chor hain.
+
+Ve poochte hain,
+
+Dhritarashtra ke putron aur choron mein antar hi kya hai?
+
+8. Draupadi ka Apmaan Kabhi Nahi Bhoola Ja Sakta
+
+Krishna sabko yaad dilate hain:
+
+Sabha mein—
+
+Draupadi ko ghaseet kar laya gaya.
+Bhishma, Drona aur anya mahan log chup baithe rahe.
+Sirf Vidura ne virodh kiya.
+
+Phir Krishna Karna aur Dushasana ke kathor shabdon ko yaad dilate hain.
+
+Yeh sab adharma tha, aur isi ne aaj ki paristhiti paida ki.
+
+9. Krishna Swayam Doot Bankar Jaayenge
+
+Krishna kehte hain,
+
+Main swayam Hastinapura jaunga.
+
+Agar meri baat maan li gayi, to—
+
+Pandav bach jayenge,
+Kaurav bhi bach jayenge,
+aur maha-vinash tal jayega.
+
+Lekin agar Duryodhana na maana,
+
+to Bhima aur Arjuna uska vinash kar denge.
+
+10. Do Vrikshon ka Prasiddh Roopak
+
+Krishna do prateek dete hain:
+
+Adharma ka Vriksh
+Duryodhana – vriksh
+Karna – tana (trunk)
+Shakuni – shaakhaen
+Dushasana – phool aur phal
+Dhritarashtra – jad (root)
+Dharma ka Vriksh
+Yudhishthira – vriksh
+Arjuna – tana
+Bhima – shaakhaen
+Nakula-Sahadeva – phool aur phal
+Krishna, Dharma aur dharmanishtha log – jad
+
+Yeh Mahabharata ke sabse prasiddh prateekon mein se ek hai.
+
+11. Van aur Bagh ka Roopak
+
+Krishna ant mein ek aur sundar upama dete hain:
+
+Kaurav van (forest) hain.
+Pandav bagh (tigers) hain.
+
+Jaise—
+
+bagh ke bina van surakshit nahi,
+aur van ke bina bagh jeevit nahi,
+
+waise hi Kaurav aur Pandav ek hi vansh ke ang hain.
+
+Unka sandesh hai:
+
+Dono ka sah-astitva hi sabke hit mein hai.
+
+Is Adhyay ka Mukhya Sandesh
+Krishna spasht karte hain ki shanti sabse pehla vikalp hai, lekin nyaya ke bina shanti sambhav nahi.
+Ve karma-yoga ka siddhant rakhte hain—sirf gyaan nahi, uchit karm bhi avashyak hai.
+Raja ka kartavya praja ki raksha aur nyaya hai; jab raja hi adhikaar chheen le, tab uska virodh dharma ban jaata hai.
+Draupadi ka apmaan aur Pandavon ke adhikaar ka harn Mahabharata ke sangharsh ka mool kaaran bataya gaya.
+Ant mein Krishna swayam shanti-doot banne ka sankalp lete hain, lekin saath hi chetavani dete hain ki agar shanti asafal hui, to dharma ki raksha ke liye yuddh anivarya hoga."""
             create_image_text_layout(
                 text_content=text2,
                 layout="full"
@@ -3601,7 +4151,24 @@ Ant mein usne Krishna aur Bhishma ki shaanti ki ichchha ka ullekh karte hue yudd
 
         # Section 5.1.30
         with st.expander("Section 5.1.30  Section XXX"):
-            text1 = """ """
+            text1 = """ 
+Section XXX – Yudhishthira ka Antim Sandesh Hastinapura ke Naam
+
+Is adhyay mein Yudhishthira, Sanjaya ko Hastinapura bhejne se pehle ek bahut hi gahra aur maryadit sandesh dete hain. Yeh Mahabharata ke sabse shreshth diplomatic speeches mein se ek maana jaata hai. Ant mein ve spasht kar dete hain ki ve shanti chahte hain, lekin apna adhikar chhodenge nahi.
+
+1. Sanjaya ki Prashansa
+
+Yudhishthira sabse pehle Sanjaya ki tareef karte hain.
+
+Ve kehte hain:
+
+Tum kabhi jhooth nahi bolte.
+Tum kabhi kathor bhasha nahi bolte.
+Tum dono pakshon ke priya ho.
+Tumhara man nirmal hai.
+Tum Vidura ke samaan hamare hitachintak ho.
+
+Isse pata chalta hai ki Sanjaya ko dono paksh poori tarah vishwas ke saath dekhte the."""
             create_image_text_layout(
                 "attached_assets/chapter5/5.1.30.jpg",
                 text1,
@@ -3609,7 +4176,123 @@ Ant mein usne Krishna aur Bhishma ki shaanti ki ichchha ka ullekh karte hue yudd
                 image_position="left"
             )
 
-            text2 = """ """
+            text2 = """ 
+2. Sabka Kushal-Mangal Poochna
+
+Yudhishthira Sanjaya se kehte hain ki Hastinapura pahunchkar sirf rajaon hi nahi, balki sabhi logon ka haal poochna.
+
+Ismein shamil hain:
+
+Brahman
+Rishi
+Guru
+Vyapari
+Rajya ke adhikari
+Senapati
+Sipahi
+Sevak
+Das-dasi
+Vriddh
+Viklang
+Garib
+Nirashrit log
+
+Yeh Yudhishthira ki sarvajan-hit ki soch ko darshata hai.
+
+3. Drona, Bhishma aur Kripa ko Pranam
+
+Ve vishesh roop se Sanjaya se kehte hain ki:
+
+Drona ko mera pranam kehna.
+Ashvatthama ka haal poochna.
+Kripa ke charan sparsh karna.
+Bhishma ko mera pranam kehna.
+Dhritarashtra ka bhi samman karna.
+
+Yeh sab us samay kaha ja raha hai jab yuddh lagbhag nischit ho chuka hai. Phir bhi maryada bani hui hai.
+
+4. Duryodhana aur Dushasana ka Bhi Haal Poochna
+
+Yeh aur bhi adbhut baat hai.
+
+Yudhishthira kehte hain:
+
+Duryodhana ka bhi kushal poochna.
+Dushasana ka bhi.
+
+Yeh dikhata hai ki ve vyaktigat dvesh se prerit nahi hain.
+
+5. Vidura ke Liye Vishesh Sneha
+
+Yudhishthira Vidura ke liye kehte hain:
+
+Vidura hamare guru hain, pita hain, mata hain, mitra hain aur margdarshak hain.
+
+Yeh Mahabharata mein Vidura ke prati Pandavon ki sabse sundar prashansaon mein se ek hai.
+
+6. Mahilaon aur Parivar ke Liye Sandesh
+
+Yudhishthira kehte hain:
+
+Sabhi mataon se kehna:
+
+Asha hai tumhare putra tumhara samman karte hon.
+
+Sabhi bahuon se kehna:
+
+Tumhara samman bana rahe.
+Tum apne pati aur sasural ka adar karo.
+Tum sukhi raho.
+
+Yeh batata hai ki yuddh ke beech bhi unki chinta samaj aur parivar ke liye hai.
+
+7. Garib aur Viklangon ke Liye Daya
+
+Yudhishthira Sanjaya se kehte hain:
+
+Jo—
+
+andhe hain,
+langde hain,
+baune hain,
+nirbal hain,
+garib hain,
+
+unse kehna:
+
+Ghabrana mat. Jab main apna rajya wapas paa lunga, tab main tumhari bhojan aur vastra se seva karunga.
+
+Yeh Yudhishthira ki karuna ka ati uttam udaharan hai.
+
+8. Dharma Hi Meri Shakti Hai
+
+Ve kehte hain:
+
+Duryodhana ke paas bahut bade yoddha hain.
+
+Lekin turant jodte hain:
+
+Meri asli shakti dharma hai.
+
+Yeh Mahabharata ka ek kendriya siddhant hai.
+
+9. Antim Sandesh Duryodhana ke Naam
+
+Sabse antim aur sabse mahatvapurn vaakya:
+
+Yudhishthira Sanjaya se kehte hain ki Duryodhana ko kehna:
+
+Tumhari poore Kuru rajya par akela raj karne ki ichchha anyaay hai.
+
+Aur phir ve apni antim shart rakhte hain:
+
+Ya to mera Indraprastha mujhe wapas de do, ya phir yuddh karo.
+
+Is Adhyay ka Mukhya Sandesh
+Yudhishthira Sanjaya ko ek aadarsh rajdoot ke roop mein vidai dete hain aur sabhi—mitra, shatru, guru, sevak, mahilaon aur garibon—ka kushal poochhne ko kehte hain.
+Ve dikhate hain ki ek dharmic raja ke liye praja ka har varg samaan mahatva rakhta hai.
+Vidura, Bhishma aur Drona ke prati unka samman yuddh ke saamne bhi kam nahi hota.
+Ant mein ve ek spasht aur nyayapurn sandesh bhejte hain: Pandav shanti ke ichchhuk hain, lekin apne vaidh adhikar—Indraprastha—se kabhi haath nahi kheench sakte. Agar rajya wapas nahi diya gaya, to yuddh hi antim vikalp hoga."""
             create_image_text_layout(
                 text_content=text2,
                 layout="full"
@@ -3618,7 +4301,18 @@ Ant mein usne Krishna aur Bhishma ki shaanti ki ichchha ka ullekh karte hue yudd
 
         # Section 5.1.31
         with st.expander("Section 5.1.31  Section XXXI"):
-            text1 = """ """
+            text1 = """ 
+Section XXXI – Yudhishthira ka Antim Shanti Prastav (Five Villages Proposal)
+
+Yeh Mahabharata ke sabse prasiddh adhyayon mein se ek hai. Isi adhyay mein Yudhishthira apna antim shanti-prastav rakhte hain—agar poora rajya na mile, to sirf paanch gaon de diye jaayen. Agar itna bhi na diya gaya, to yuddh anivarya hoga.
+
+1. Sab Kuch Ishwar ke Adheen Hai
+
+Yudhishthira Sanjaya se kehte hain:
+
+Dharmic ho ya adharmic, balwan ho ya durbal, buddhiwan ho ya balak—sabhi Bhagavan ke niyantran mein hain.
+
+Isliye kisi ko apne bal ya buddhi ka ahankar nahi karna chahiye."""
             create_image_text_layout(
                 "attached_assets/chapter5/5.1.31.jpg",
                 text1,
@@ -3626,7 +4320,109 @@ Ant mein usne Krishna aur Bhishma ki shaanti ki ichchha ka ullekh karte hue yudd
                 image_position="left"
             )
 
-            text2 = """ """
+            text2 = """ 
+2. Dhritarashtra ke Liye Sandesh
+
+Yudhishthira Sanjaya se kehte hain ki Dhritarashtra ko pranam karke kehna:
+
+Hum aaj bhi aapka samman karte hain.
+Bachpan mein aapne hi humein rajya diya tha.
+Ab humein poori tarah tyag mat dijiye.
+Pura rajya kisi ek vyakti ke liye nahi hota.
+Hum sab milkar rehna chahte hain.
+3. Bhishma ke Naam Sandesh
+
+Bhishma se kehna:
+
+Aapne Kuru vansh ko bachaya tha.
+
+Ab phir wahi kariye—
+
+Aisa upay batayiye jisse sabhi Kuru vanshaj shanti se saath reh saken.
+
+4. Vidura se Vinati
+
+Vidura ke liye sandesh bahut chhota hai lekin gahra:
+
+Kripaya Yudhishthira ke hit ke liye shanti ki salah dete rahiye.
+
+Yudhishthira jaante hain ki Hastinapura mein sach bolne wala sabse bada vyakti Vidura hi hai.
+
+5. Duryodhana ke Liye Yaad Dilayi Gayi Purani Anyay
+
+Yudhishthira Sanjaya se kehte hain ki Duryodhana ko yaad dilana:
+
+Tumne—
+
+Draupadi ka sabha mein apmaan kiya.
+Humein vanvaas diya.
+Deer-skin pehna kar jungle bheja.
+Dushasana se Draupadi ko ghaseetwaya.
+
+Phir bhi—
+
+Humne badla nahi liya.
+
+Humne sab kuch sirf isliye saha kyunki hum Kuru vansh ka vinash nahi chahte.
+
+6. Sirf Apna Adhikar Chahiye
+
+Yudhishthira kehte hain:
+
+Humein doosron ka rajya nahi chahiye.
+
+Sirf apna hissa chahiye.
+
+Yeh unke dharma ka saar hai.
+
+7. Mahabharata ka Sabse Prasiddh Shanti Prastav
+
+Yudhishthira kehte hain:
+
+Agar poora rajya nahi dena chahte—
+
+to humein sirf ye paanch sthaan de do:
+
+Kusasthala
+Vrikasthala
+Makandi
+Varanavata
+Aur koi ek paanchva gaon tumhari pasand ka
+
+Bas itna de do—
+
+Aur yuddh nahi hoga.
+
+Yeh wahi prasiddh "Five Villages Proposal" hai. Iska arth tha:
+
+Pandavon ko rajya ki lalach nahi thi; unhe keval nyay aur jeevan-yapan ke liye apna uchit hissa chahiye tha.
+
+8. Antim Appeal
+
+Yudhishthira kehte hain:
+
+Bhai bhai ke saath rahein.
+Pita putron ke saath rahein.
+Panchala aur Kuru milkar hasen.
+Dono vansh surakshit rahen.
+
+Yeh mera sachcha ichchha hai.
+
+9. Antim Vaakya
+
+Adhyay ka sabse prabhavshali vaakya:
+
+Main shanti ke liye bhi taiyar hoon aur yuddh ke liye bhi.
+
+Main dharma bhi jaanta hoon aur shastra bhi.
+
+Komalta bhi mera swabhav hai aur kathorta bhi, jab avashyak ho.
+
+Is Adhyay ka Mukhya Sandesh
+Yudhishthira Dhritarashtra, Bhishma aur Vidura se shanti banaye rakhne ki vinati karte hain.
+Ve Duryodhana ko yaad dilate hain ki Pandavon ne har apmaan sah liya, sirf Kuru vansh ko bachane ke liye.
+Ve poore rajya ki maang chhodkar sirf paanch gaon maangte hain—yeh unki vinamrata aur nyay-priyata ka pramaan hai.
+Ant mein ve spasht kar dete hain: "Shanti meri pehli pasand hai. Lekin agar nyay nahi mila, to main yuddh ke liye bhi poori tarah taiyar hoon." """
             create_image_text_layout(
                 text_content=text2,
                 layout="full"
@@ -3635,7 +4431,20 @@ Ant mein usne Krishna aur Bhishma ki shaanti ki ichchha ka ullekh karte hue yudd
 
         # Section 5.1.32
         with st.expander("Section 5.1.32  Section XXXII"):
-            text1 = """ """
+            text1 = """ 
+Section XXXII – Sanjaya ki Wapasi aur Dhritarashtra ko Kadvi Sachchai
+
+Is adhyay mein Sanjaya Pandavon ka sandesh lekar Hastinapura laut te hain. Yudhishthira ka sandesh sunane se pehle hi ve Dhritarashtra ko uski galtiyon ka aaina dikha dete hain. Yeh Mahabharata ke sabse kathor satyavaadi updeshon mein se ek hai.
+
+1. Sanjaya Hastinapura Lautte Hain
+
+Pandavon se vidai lekar Sanjaya Hastinapura pahunchte hain.
+
+Ve pehle dwarpal se kehte hain:
+
+Raja ko batao ki main Pandavon ka sandesh lekar aaya hoon.
+
+Dhritarashtra turant unhe andar bulwa lete hain."""
             create_image_text_layout(
                 "attached_assets/chapter5/5.1.32.jpg",
                 text1,
@@ -3643,7 +4452,158 @@ Ant mein usne Krishna aur Bhishma ki shaanti ki ichchha ka ullekh karte hue yudd
                 image_position="left"
             )
 
-            text2 = """ """
+            text2 = """ 
+2. Yudhishthira ka Namaskar
+
+Sanjaya sabse pehle kehte hain:
+
+Yudhishthira ne aapko pranam kaha hai.
+Ve aapka, aapke putron, mitron aur mantriyon ka kushal-mangal poochte hain.
+
+Dhritarashtra bhi Yudhishthira aur Pandavon ka haal poochte hain.
+
+Isse dono pakshon ki maryada dikhti hai.
+
+3. Yudhishthira ka Swabhav
+
+Sanjaya Dhritarashtra se kehte hain:
+
+Yudhishthira—
+
+apna adhikar chahte hain,
+dharma ke viruddh kuch nahi karna chahte,
+ahimsa ko sabse bada gun maante hain,
+dhan se adhik dharma ko mahatva dete hain,
+sada satya aur nyay ki or jhukte hain.
+
+Yeh Pandavon ki neeti ka saar hai.
+
+4. Sab Kuch Bhagya ke Adheen
+
+Sanjaya kehte hain:
+
+Manushya kathputli ki tarah hai.
+
+Koi adrishya shakti use chalati hai.
+
+Yudhishthira jaise dharmic vyakti ko dukh milna aur Duryodhana jaise adharmi ko rajya milna dekhkar Sanjaya kehte hain ki Bhagya ka bal bahut bada hai.
+
+5. Dhritarashtra ko Seedha Dosh
+
+Iske baad Sanjaya bahut kathor shabdon mein kehte hain:
+
+Aapne anyaay kiya hai.
+
+Aapki kirti kharab ho chuki hai.
+
+Agle janm mein bhi iska phal bhugatna padega.
+
+Ve kehte hain:
+
+Aapne putra-moh mein dharma chhod diya.
+Anyay se prapt rajya ko sambhalna chahte hain.
+Yeh Kuru vansh ke vinash ka kaaran banega.
+6. Dusht Salahkaaron ka Prabhav
+
+Sanjaya kehte hain:
+
+Aapke paas buddhimaan mantri hain.
+
+Phir bhi—
+
+Sab Pandavon ko unka adhikar na dene ka hi nirnay le rahe hain.
+
+Isliye Kuru vansh ka vinash nishchit hai.
+
+7. Yudhishthira Agar Krodhit Hue...
+
+Sanjaya chetavani dete hain:
+
+Yadi Yudhishthira sach mein shraap ya vinash ki ichchha kar dein—
+
+to
+
+Kuru vansh samay se pehle hi samapt ho jayega.
+
+Aur iska paap keval Dhritarashtra par aayega.
+
+8. Arjuna ka Swarg Gaman
+
+Sanjaya yaad dilate hain:
+
+Arjuna jeevit avastha mein hi Swarg gaye the.
+
+Devtaon ne unka satkar kiya tha.
+
+Isse pramaan milta hai ki Pandav asadharan hain aur unhe halka nahi samajhna chahiye.
+
+9. Raja Bali ka Darshan
+
+Sanjaya Raja Bali ka darshanik vichar batate hain:
+
+Janm
+Bal
+Kirti
+Sampatti
+Dukh
+Sukh
+
+Sab kuch ek gahre kaaran se hota hai.
+
+Ant mein Bali is nishkarsh par pahunchte hain ki sabka mool kaaran Paramatma hi hai.
+
+10. Indriya Niyantran
+
+Sanjaya kehte hain:
+
+Gyan ke paanch dwar hain—
+
+Aankh
+Kaan
+Naak
+Sparsh
+Jeevha
+
+Jo apni ichchhaon ko niyantrit kar leta hai, vah swayam shant ho jata hai.
+
+11. Antim Chetavani
+
+Sanjaya kehte hain:
+
+Yadi shanti nahi hui—
+
+to
+
+Arjuna Kuruvansh ko usi tarah jala dega jaise sukhi ghaas ko aag jala deti hai.
+
+Is vinash ke zimmedar keval Dhritarashtra honge.
+
+12. Dhritarashtra ki Sabse Badi Galti
+
+Sanjaya spasht kehte hain:
+
+Aapne—
+
+sache aur wafadar salahkaaron (jaise Vidura) ki baat nahi maani,
+aur bure salahkaaron ki baat maan li.
+
+Isi wajah se itna bada samrajya ab haath se nikalne wala hai.
+
+13. Agle Din Sabha Mein Sandesh
+
+Ant mein Sanjaya kehte hain:
+
+Main bahut thak gaya hoon.
+
+Kal subah sabha mein sabhi Kuru rajkumar aur maharathi Yudhishthira ka poora sandesh sunenge.
+
+Yahi se Mahabharata ki antim shanti-varta ka agla charan shuru hota hai.
+
+Is Adhyay ka Mukhya Sandesh
+Sanjaya Hastinapura lautkar pehle Dhritarashtra ko Yudhishthira ka kushal sandesh dete hain.
+Uske baad ve bina dare Dhritarashtra ko uske putra-moh, anyaay aur durdrishti ke liye doshi thahrate hain.
+Ve chetavani dete hain ki agar shanti na hui, to Arjuna aur Pandav Kuru sena ka vinash kar denge.
+Ant mein Sanjaya agle din sabha mein Yudhishthira ka poora sandesh sunane ki baat kahkar varta ko agle adhyay ke liye chhod dete hain."""
             create_image_text_layout(
                 text_content=text2,
                 layout="full"
@@ -3652,7 +4612,24 @@ Ant mein usne Krishna aur Bhishma ki shaanti ki ichchha ka ullekh karte hue yudd
 
         # Section 5.1.33
         with st.expander("Section 5.1.33  Section XXXIII"):
-            text1 = """ """
+            text1 = """ 
+Section XXXIII – Vidura Niti ki Shuruaat (Mahabharata ka Maha-Upadesh)
+
+Is adhyay se Vidura Niti shuru hoti hai. Yeh Mahabharata ke sabse prasiddh niti-granthon mein se ek hai. Dhritarashtra ko neend nahi aa rahi, kyunki Sanjaya Pandavon ka sandesh la chuke hain aur kal sabha mein sunaya jayega. Is chinta mein vah Vidura ko bulate hain.
+
+1. Dhritarashtra ki Bechaini
+
+Dhritarashtra Vidura se kehte hain:
+
+Sanjaya Pandavon se laut aaya hai.
+Usne mujhe daant diya.
+Kal sabha mein Yudhishthira ka sandesh sunayega.
+Mujhe nahi pata us sandesh mein kya hai.
+Isi chinta se mujhe neend nahi aa rahi.
+
+Woh Vidura se puchte hain:
+
+"Aise vyakti ke liye kya upay hai jo chinta ke karan so nahi pa raha?" """
             create_image_text_layout(
                 "attached_assets/chapter5/5.1.33.jpg",
                 text1,
@@ -3660,7 +4637,176 @@ Ant mein usne Krishna aur Bhishma ki shaanti ki ichchha ka ullekh karte hue yudd
                 image_position="left"
             )
 
-            text2 = """ """
+            text2 = """ 
+2. Vidura ka Pehla Uttar
+
+Vidura kehte hain:
+
+Neend kin logon ko nahi aati?
+
+Chor ko
+Kaam-vasna se grast vyakti ko
+Jisne dhan kho diya ho
+Jo asafal ho gaya ho
+Kamzor vyakti jo kisi shaktishaali se dara hua ho
+Jo doosron ki sampatti ka lalach karta ho
+
+Phir ve prashn karte hain:
+
+"Maharaj, kya aap doosron ke dhan (Pandavon ke rajya) ka lobh kar rahe hain?"
+
+Yeh ek bahut seedha prahar hai.
+
+3. Dhritarashtra ka Uttar
+
+Dhritarashtra kehte hain:
+
+"Mujhe dharma aur rajneeti ki baatein batao."
+
+Ve maante hain ki Vidura hi sabse buddhimaan hain.
+
+4. Vidura ka Kathor Satya
+
+Vidura kehte hain:
+
+Yudhishthira teenon lokon ka raja banne yogya hai.
+Phir bhi tumne use vanvas de diya.
+Tum swayam andhe hone ke karan rajya ke adhikari nahi the.
+Fir bhi tumne Duryodhana ko rajya de diya.
+
+Ve kehte hain:
+
+Yudhishthira—
+
+satyavaadi hai,
+dharmic hai,
+dayaalu hai,
+tumhara samman karta hai,
+
+isliye sab anyaay seh raha hai.
+
+5. Duryodhana Par Bharosa = Vinash
+
+Vidura kehte hain:
+
+Tumne rajya ka niyantran de diya—
+
+Duryodhana ko
+Shakuni ko
+Karna ko
+Dushasana ko
+
+Phir tum samriddhi ki aasha kaise kar sakte ho?
+
+6. Buddhimaan Vyakti ke Lakshan
+
+Vidura ek lambi suchi dete hain.
+
+Ek buddhimaan vyakti—
+
+achhe kaam karta hai,
+bure kaam chhod deta hai,
+gussa aur ahankaar par niyantran rakhta hai,
+apni yojana gupt rakhta hai,
+mushkilon se nahi ghabrata,
+ichchha se nahi, vivek se nirnay leta hai,
+kaam ko poora karta hai,
+samay barbaad nahi karta,
+apne indriyon par niyantran rakhta hai.
+7. Murkh Vyakti ke Lakshan
+
+Murkh vyakti—
+
+doosron ke kaam mein dakhal deta hai,
+shaktishaali se bair leta hai,
+dushman ko dost samajhta hai,
+apni yojana sabko bata deta hai,
+bina bulaye pahunch jata hai,
+bahut bolta hai,
+galti khud karta hai aur dosh doosron ko deta hai,
+apni aukaat jaane bina bade sapne dekhta hai.
+8. Kshama ki Mahima
+
+Vidura kehte hain:
+
+Log samajhte hain—
+
+Kshama kamzori hai.
+
+Lekin sach ye hai:
+
+Kshama sabse badi shakti hai.
+
+Aur:
+
+Dharm sabse bada hit hai.
+Kshama sabse badi shanti hai.
+Gyaan sabse bada santosh hai.
+Daya sabse bada sukh hai.
+9. Narak ke Teen Dwaar
+
+Vidura kehte hain:
+
+Teen cheezein narak ka dwaar hain—
+
+Kaam (Lust)
+Krodh (Anger)
+Lobh (Greed)
+
+Inhe hamesha tyagna chahiye.
+
+10. Raja ko Kin Logon se Salah Nahi Leni Chahiye
+
+Kabhi salah na lo:
+
+Murkh se
+Aalasi se
+Kaam talne wale se
+Chaplusi karne wale se
+
+Dhritarashtra ne in chaaron ki baat maani thi.
+
+11. Raja ke Saat Vinashkari Dosh
+
+Ek raja ko tyagna chahiye:
+
+Stri-asakti
+Jua
+Shikaar ka vyasan
+Madira
+Kathor vachan
+Ati kathor dand
+Dhan ka durupyog
+12. Safal Raja Kaun?
+
+Safal raja wahi hai jo—
+
+kaam aur krodh par niyantran rakhe,
+yogya vyakti ko dhan de,
+nyay kare,
+doshi ko dand de,
+aur samay par daya bhi kare.
+13. Antim Upadesh
+
+Vidura ant mein kehte hain:
+
+Pandu ke paanch putra—
+
+tumne hi paale,
+tumne hi unhe shiksha di,
+ve aaj bhi tumhari aagya maante hain.
+
+Isliye:
+
+Unhe unka uchit rajya wapas de do.
+
+Tab tum bhi sukhi rahoge, tumhare putra bhi, aur devata aur manushya sab tum par vishwas karenge.
+
+Is Adhyay ka Saar
+Dhritarashtra ne chinta mein Vidura ko bulaya.
+Vidura ne spasht kaha ki unki bechaini ka mool Pandavon ke adhikar par lobh hai.
+Is adhyay mein Vidura Niti ka aarambh hota hai—jismein buddhimaan aur murkh vyakti ke lakshan, raja ke kartavya, kshama, dharma, indriya-niyantran aur rajneeti ke siddhant bataye gaye hain.
+Ant mein Vidura Dhritarashtra ko ek hi samadhan dete hain: Pandavon ko unka haq de do, tabhi Kuru vansh bach sakta hai."""
             create_image_text_layout(
                 text_content=text2,
                 layout="full"
@@ -3669,7 +4815,19 @@ Ant mein usne Krishna aur Bhishma ki shaanti ki ichchha ka ullekh karte hue yudd
 
         # Section 5.1.34
         with st.expander("Section 5.1.34  Section XXXIV"):
-            text1 = """ """
+            text1 = """ 
+Section XXXIV – Vidura Niti (Part 2): Self-Control aur Rajdharma
+
+Is adhyay mein Dhritarashtra fir Vidura se poochte hain ki unki chinta ka kya upay hai aur Pandavon ke hit mein kya karna chahiye. Vidura aur bhi gahra niti-upadesh dete hain. Isme sabse bada vishay hai indriya-niyantran (self-control), vivek, aur satya-vachan.
+
+1. Dhritarashtra ka Prashn
+
+Dhritarashtra kehte hain:
+
+Mujhe neend nahi aa rahi.
+Mujhe bhavishya ka dar hai.
+Mujhe batao Yudhishthira ke mann mein kya hai.
+Aur mujhe batao ki Kuruvansh ke hit mein kya karna chahiye."""
             create_image_text_layout(
                 "attached_assets/chapter5/5.1.34.jpg",
                 text1,
@@ -3677,7 +4835,185 @@ Ant mein usne Krishna aur Bhishma ki shaanti ki ichchha ka ullekh karte hue yudd
                 image_position="left"
             )
 
-            text2 = """ """
+            text2 = """ 
+2. Kadva Sach Bolna Chahiye
+
+Vidura kehte hain:
+
+Agar kisi ka bhala chahte ho, to bina poochhe bhi satya bolna chahiye—chahe woh kadva ho ya meetha.
+
+Ek buddhimaan vyakti:
+
+anyaay se safalta paane ki ichchha nahi karta,
+aur agar nyaay ke baad bhi safalta na mile to shok nahi karta.
+3. Kaam Karne se Pehle Teen Cheezen Socho
+
+Har karya se pehle socho:
+
+Kya main iske yogya hoon?
+Yeh karya kaisa hai?
+Iska parinaam kya hoga?
+
+Jo bina soche kaam karta hai, vah baad mein pachtata hai.
+
+4. Achha Raja Kaun?
+
+Vidura kehte hain ki raja ko hamesha pata hona chahiye:
+
+rajya kitna bada hai,
+kitna dhan hai,
+kitna nuksan ho sakta hai,
+kitni praja hai,
+aur dand kab aur kitna dena hai.
+
+Jo raja in sab ka santulan nahi jaanta, uska rajya tikta nahi.
+
+5. Sabse Bada Shatru – Apni Indriyan
+
+Vidura kehte hain:
+
+Insaan ka sabse bada shatru bahar nahi, andar hai.
+
+Pehle:
+
+apne mann ko jeeto,
+phir mantriyon ko,
+phir dushmanon ko.
+
+Jo ulta karta hai, vah haar jata hai.
+
+6. Sharir Ek Rath Hai
+
+Vidura ek sundar upama dete hain:
+
+Sharir = Rath
+Atma = Saarthi
+Indriyan = Ghode
+
+Agar ghode niyantrit honge to yatra surakshit hogi.
+
+Agar indriyan aniyantrit hongi to jeevan vinash ki or chala jayega.
+
+Yahi siddhant Bhagavad Gita aur Kathopanishad mein bhi milta hai.
+
+7. Apna Sabse Bada Mitra Aur Shatru
+
+Vidura kehte hain:
+
+Insaan khud hi apna mitra hai.
+Aur wahi khud apna shatru bhi hai.
+
+Jo apne mann aur indriyon ko jeet leta hai, usne sab kuch jeet liya.
+
+8. Kaam aur Krodh
+
+Vidura kehte hain:
+
+Kaam (desire) aur Krodh (anger):
+
+buddhi ko tod dete hain,
+vivek ko khatm kar dete hain.
+
+Isliye pehle andar ke paanch shatru jeeto, phir bahar ke shatru se lado.
+
+9. Dushton ki Sangat
+
+Vidura kehte hain:
+
+Jaise geeli lakdi sukhi lakdi ke saath jal jaati hai,
+
+waise hi nirdosh vyakti bhi dushton ki sangat se dand paata hai.
+
+Isliye:
+
+Dushton ki mitrata se bacho.
+
+10. Sajjan aur Durjan ka Antar
+Sajjan ke gun
+Atma-gyan
+Dhairya
+Satya
+Daan
+Madhur vaani
+Santosh
+Saralta
+Sanyam
+Durjan ke gun
+Kapat
+Asatya
+Ashuddhata
+Kathor vaani
+Asantosh
+Lobh
+11. Vaani ka Mahatva
+
+Vidura kehte hain:
+
+Sabse kathin cheez hai—
+
+Apni zubaan ko niyantrit karna.
+
+Achhi vaani:
+
+logon ka hit karti hai,
+sambandh banati hai.
+
+Buri vaani:
+
+jeevan bhar ka dukh deti hai.
+12. Shabd Talwar se Zyada Chot Pahunchate Hain
+
+Vidura bahut sundar upama dete hain:
+
+Teer sharir se nikala ja sakta hai.
+Talwar ka ghaav bhar sakta hai.
+
+Lekin—
+
+Kathor shabdon ka ghaav kabhi poori tarah nahi bharta.
+
+Isliye buddhimaan kabhi aise shabd nahi bolta jo kisi ke hriday ko chhed dein.
+
+13. Vinash Se Pehle Buddhi Chali Jaati Hai
+
+Vidura kehte hain:
+
+Jab kisi ka vinash nikat hota hai,
+
+to uski buddhi ulta kaam karne lagti hai.
+
+Usse galat baat bhi sahi lagne lagti hai.
+
+Phir ve Dhritarashtra se kehte hain:
+
+Aapke putron ke saath bhi yahi ho raha hai.
+
+Unki buddhi Pandavon ke prati dvesh ke karan bhrasht ho chuki hai.
+
+14. Antim Salah
+
+Vidura kehte hain:
+
+Yudhishthira:
+
+sabse yogya vaaris hai,
+dharm ko jaanta hai,
+buddhimaan hai,
+aapka sadaiv aadar karta hai,
+aur aapki maryada bachane ke liye bahut dukh sah chuka hai.
+
+Isliye:
+
+Rajya Yudhishthira ko de dijiye. Wahi aapka vaastavik aur uchit uttaradhikari hai.
+
+Is Adhyay ka Saar
+Satya kadva ho to bhi hit ke liye bolna chahiye.
+Kisi bhi karya se pehle yogyata, karya aur parinaam par vichar karna chahiye.
+Sabse pehle apni indriyon aur mann ko jeetna chahiye.
+Dushton ki sangat vinash ka kaaran banti hai.
+Madhur vaani aur sanyam sabse bade gun hain.
+Vinash se pehle buddhi viparit ho jaati hai.
+Vidura ka spasht nishkarsh hai: Yudhishthira hi dharm ke anusaar rajya ke adhikari hain; unhe unka rajya wapas de dena hi Kuruvansh ka kalyan hai."""
             create_image_text_layout(
                 text_content=text2,
                 layout="full"
@@ -3686,7 +5022,18 @@ Ant mein usne Krishna aur Bhishma ki shaanti ki ichchha ka ullekh karte hue yudd
 
         # Section 5.1.35
         with st.expander("Section 5.1.35  Section XXXV"):
-            text1 = """ """
+            text1 = """ 
+Section XXXV – Vidura Niti (Part 3): Satya, Dharma aur Rajdharma
+
+Is adhyay mein Dhritarashtra fir Vidura se aur upadesh maangte hain. Vidura ek prasiddh kahani (Virochana–Sudhanvan–Prahlada) ke madhyam se batate hain ki satya ko kabhi bhi putra, dhan ya rajya ke liye nahi chhodna chahiye.
+
+1. Dhritarashtra aur Sunna Chahte Hain
+
+Dhritarashtra kehte hain:
+
+"Tumhare dharma aur niti ke vachan bahut madhur hain. Meri pyaas abhi nahi bujhi. Mujhe aur batao."
+
+Yeh dikhata hai ki Dhritarashtra sach ko samajhte hain, lekin us par amal karne ki shakti unmein kam hai."""
             create_image_text_layout(
                 "attached_assets/chapter5/5.1.35.jpg",
                 text1,
@@ -3694,7 +5041,208 @@ Ant mein usne Krishna aur Bhishma ki shaanti ki ichchha ka ullekh karte hue yudd
                 image_position="left"
             )
 
-            text2 = """ """
+            text2 = """ 
+2. Sabse Bada Teerth – Daya
+
+Vidura kehte hain:
+
+Do cheezein samaan maani jaati hain:
+
+sabhi teerthon mein snaan,
+sabhi jeevon par daya.
+
+Lekin Vidura kehte hain:
+
+Sabhi praaniyon par daya karna, teerth-snaan se bhi bada hai.
+
+Aur Dhritarashtra se kehte hain:
+
+Apne sabhi putron (Pandav aur Kaurav dono) par samaan daya rakho.
+
+3. Virochana aur Sudhanvan ki Kahani
+
+Vidura ek purani kahani sunate hain.
+
+Rajkumari Kesini swayamvar karna chahti thi.
+
+Do var aaye:
+
+Virochana (Prahlada ka putra, Asura)
+Sudhanvan (Brahmana)
+
+Kesini ne prashn poocha:
+
+"Kaun shreshtha hai – Brahmana ya Asura?"
+
+4. Ahankaar vs Vinamrata
+
+Virochana bola:
+
+"Hum Asura sabse bade hain."
+
+Sudhanvan ne use samaan aasan par baithne se mana kar diya aur kaha ki maryada ka paalan hona chahiye.
+
+5. Jeevan ki Shart
+
+Dono ne apni jaan daav par laga di aur faisla karne ke liye gaye:
+
+Prahlada ke paas (Virochana ke pita).
+
+Kyuki sabko pata tha:
+
+Prahlada kabhi jhooth nahi bolte.
+
+6. Jhooth Bolne ka Parinaam
+
+Prahlada pehle poochte hain:
+
+"Jhooth bolne wale ka kya hota hai?"
+
+Sudhanvan jawab dete hain:
+
+Jhooth bolne wala—
+
+sada dukh paata hai,
+shatru paata hai,
+kul ka nash karta hai.
+
+Aur phir bahut gahra siddhant dete hain:
+
+Pashu ke liye jhooth → 5 purvajon ka patan.
+Gaay ke liye jhooth → 10 purvajon ka patan.
+Ghode ke liye jhooth → 100 purvajon ka patan.
+Manushya ke liye jhooth → 1000 purvajon ka patan.
+Zameen (land/kingdom) ke liye jhooth → poore vansh ka vinash.
+
+Isliye:
+
+Kabhi bhi bhoomi ya rajya ke liye jhooth mat bolo.
+
+Yeh seedha Dhritarashtra ke liye sandesh hai.
+
+7. Prahlada ka Nyaya
+
+Prahlada ne apne putra ke paksh mein jhooth nahi bola.
+
+Unhone kaha:
+
+Sudhanvan tumse shreshtha hai.
+
+Aur is prakar apne hi putra ko hara hua ghoshit kar diya.
+
+8. Vidura ka Sandesh
+
+Vidura kehte hain:
+
+Prahlada ne putra se zyada dharma ko chuna.
+
+Dhritarashtra ko bhi wahi karna chahiye.
+
+Putra-prem mein jhooth bolkar aur anyaay karke apne poore vansh ka vinash mat karo.
+
+9. Devata Kaise Raksha Karte Hain?
+
+Vidura ek bahut sundar baat kehte hain:
+
+Devata hathiyar lekar kisi ki raksha nahi karte.
+
+Ve us vyakti ko sahi buddhi dete hain.
+
+Yahi unki sabse badi kripa hai.
+
+10. Kin Cheezon se Bachna Chahiye
+
+Vidura kuch paapon ki suchi dete hain:
+
+Madira
+Nirarthak jhagda
+Bahut logon se shatruta
+Ghar mein phoot
+Raja ke prati vishvasghaat
+
+Aur anya gambhir adharmik karmon ka bhi varnan karte hain.
+
+11. Asli Pariksha Kab Hoti Hai?
+
+Vidura kehte hain:
+
+Sona → Aag mein parikshit hota hai.
+Achha kul → Vyavahaar se pehchana jaata hai.
+Imaandaar vyakti → Aacharan se.
+Veer → Sankat mein.
+Sanyami → Garibi mein.
+Dost aur dushman → Vipatti mein.
+12. Samriddhi Kis Se Aati Hai?
+
+Vidura ke anusaar:
+
+Achhe karm → Samriddhi ka janm.
+Parishram → Samriddhi ki vriddhi.
+Kaushal → Jad mazboot karta hai.
+Atma-sanyam → Samriddhi ko sthir rakhta hai.
+13. Aath Mukhya Gun
+
+Vidura aath gun batate hain jo vyakti ko prakashit karte hain:
+
+Buddhi
+Uttam kul
+Atma-sanyam
+Shastra-gyan
+Veerta
+Kam bolna
+Shakti ke anusaar daan
+Kritagyata (gratitude)
+14. Dharma ke Aath Marg
+
+Vidura dharma ke aath marg batate hain:
+
+Yajna
+Daan
+Adhyayan
+Tapasya
+Satya
+Kshama
+Daya
+Santosh
+
+Ve kehte hain ki pehle chaar ka paalan kabhi-kabhi dikhave ke liye bhi ho sakta hai, lekin:
+
+Satya, Kshama, Daya aur Santosh sirf sache sajjanon mein hi hote hain.
+
+15. Jeevan ki Yojana
+
+Vidura kehte hain:
+
+Din mein aisa kaam karo ki raat sukh se bite.
+Yuvaavastha mein aisa karo ki budhaapa sukh se bite.
+Poore jeevan mein aisa karo ki mrityu ke baad bhi kalyan ho.
+16. Antim Salah Dhritarashtra ke Liye
+
+Vidura ant mein bahut kathor satya kehte hain:
+
+Tumne rajya ka bhar diya hai:
+
+Duryodhana,
+Shakuni,
+Dushasana,
+Karna
+
+jaise logon ko.
+
+Isse rajya ka kalyan kaise hoga?
+
+Pandav tumhe pita ke samaan maante hain.
+
+Un par hi apna bharosa rakho; wahi tumhare vaastavik putra ke samaan hain.
+
+Is Adhyay ka Saar
+Daya sabse bada teerth hai.
+Rajya ya bhoomi ke liye kabhi jhooth nahi bolna chahiye.
+Prahlada ne apne putra ke viruddh jaakar bhi satya ka saath diya.
+Devata shastra se nahi, sadbuddhi dekar raksha karte hain.
+Asli gun sankat mein pehchane jaate hain.
+Satya, Kshama, Daya aur Santosh dharma ke sarvottam stambh hain.
+Vidura ka antim sandesh spasht hai: Duryodhana aur uske durjan salahkaron par bharosa chhodkar Pandavon ke saath nyay karo; wahi Kuru vansh ko bacha sakta hai."""
             create_image_text_layout(
                 text_content=text2,
                 layout="full"
@@ -3703,7 +5251,35 @@ Ant mein usne Krishna aur Bhishma ki shaanti ki ichchha ka ullekh karte hue yudd
 
         # Section 5.1.36
         with st.expander("Section 5.1.36  Section XXXVI"):
-            text1 = """ """
+            text1 = """ 
+Section XXXVI – Vidura Niti (Part 4): Krodh, Mitrata, Uchch Kul aur Atma-Sanyam
+
+Is adhyay mein Vidura ek aur gahra niti-upadesh dete hain. Pehle ve Sadhya devata aur Atri-putra Rishi ka samvad sunate hain, phir uchch kul (noble family), sachchi mitrata, indriya-nigrah aur ant mein Dhritarashtra ko Pandavon se shanti karne ki antim salah dete hain.
+
+1. Sadhya Devataon ka Prashn
+
+Vidura kehte hain ki ek samay Sadhya Devataon ne Atri Rishi ke putra se poocha:
+
+"Humein bataiye ki sachcha dharma aur uttam jeevan kya hai."
+
+Rishi ne bahut gahri niti batayi.
+
+2. Gaali ka Uttar Kabhi Gaali se Mat Do
+
+Rishi kehte hain:
+
+Agar koi tumhari ninda kare—
+
+uska jawab ninda se mat do,
+use shanti se seh lo.
+
+Kyon?
+
+Jo ninda sah leta hai,
+uska paap nindak ko milta hai,
+aur nindak ka punya sehne wale ko prapt hota hai.
+
+Yeh Mahabharata ka ek ati-prasiddh siddhant hai."""
             create_image_text_layout(
                 "attached_assets/chapter5/5.1.36.jpg",
                 text1,
@@ -3711,7 +5287,240 @@ Ant mein usne Krishna aur Bhishma ki shaanti ki ichchha ka ullekh karte hue yudd
                 image_position="left"
             )
 
-            text2 = """ """
+            text2 = """ 
+3. Kathor Vachan Sabse Bada Astra
+
+Vidura kehte hain:
+
+Harsh words—
+
+hriday ko jalate hain,
+haddiyon tak dukh pahunchate hain,
+jeevan bhar ghaav chhod dete hain.
+
+Isliye:
+
+Krodh se bole gaye shabd kabhi mat bolo.
+
+4. Vani ka Chaar Star ka Siddhant
+
+Vidura ek bahut prasiddh niti dete hain:
+
+Maun (silence) sabse achha hai.
+Agar bolna hi pade → Satya bolo.
+Agar satya bolo → Madhur bolo.
+Agar madhur bolo → Dharma ke anukul bolo.
+
+Yeh Bharatiya niti-shastra ke sabse mahan vakyon mein se ek mana jata hai.
+
+5. Sangati ka Prabhav
+
+Vidura kehte hain:
+
+Vyakti vaisa hi ban jaata hai—
+
+jiske saath rehta hai,
+jise apna adarsh maanta hai,
+jaisa banna chahta hai.
+
+Isliye:
+
+Achchhe logon ki sangat sabse bada dhan hai.
+
+6. Uttam, Madhyam aur Nikrisht Vyakti
+Uttam Vyakti
+sabka bhala chahta hai,
+kisi ka ahit nahi chahta,
+satyavaadi,
+vinamra,
+indriya-jit.
+Madhyam Vyakti
+jhoothi tasalli nahi deta,
+vaada nibhata hai,
+doosron ki kamzori par nazar rakhta hai.
+Nikrisht Vyakti
+krodhi,
+akritagya,
+kisi ka dost nahi,
+dusht hriday wala,
+hamesha doosron ki unnati se jalan karta hai.
+7. Uchch Kul (Noble Family) Kisey Kehte Hain?
+
+Dhritarashtra poochte hain:
+
+"Ucch kul ki pehchan kya hai?"
+
+Vidura jawab dete hain:
+
+Ucch kul wahi hai jahan:
+
+Tapasya
+Atma-sanyam
+Veda ka gyan
+Yajna
+Pavitra vivaah
+Annadaan
+Dharma ka paalan
+
+ho.
+
+8. Kul Ko Kaun Girata Hai?
+
+Vidura kehte hain:
+
+Ucch kul neecha ban jaata hai jab—
+
+dharma chhod diya jaye,
+Brahmanon ka apmaan kiya jaye,
+amanat mein khayanat ki jaye,
+jhooth aur kapat badh jaye.
+
+Aur ve kehte hain:
+
+Dhan se nahi, aacharan se kul mahaan hota hai.
+
+9. Sachcha Mitra Kaun?
+
+Vidura kehte hain:
+
+Sachcha dost woh nahi—
+
+jisse darte ho,
+jiske saamne hamesha sambhal kar rehna pade.
+
+Sachcha dost woh hai—
+
+jiske saamne pita jaisa bharosa ho,
+jo raksha kare,
+jo janm se sambandhi na hote hue bhi tumhara hit chahe.
+10. Dukh ka Prabhav
+
+Vidura kehte hain:
+
+Shok—
+
+sundarta ko khatam karta hai,
+shakti ko kam karta hai,
+buddhi ko nasht karta hai,
+rog paida karta hai.
+
+Isliye:
+
+Ati shok mein doobna uchit nahi.
+
+11. Dhritarashtra ka Pashchatap
+
+Dhritarashtra pehli baar spasht roop se sweekar karte hain:
+
+"Maine Yudhishthira ko dhokha diya hai."
+
+Aur kehte hain:
+
+"Ab mera man bhay se bhara hua hai."
+
+Yeh unke antarik pashchatap ka prakat roop hai.
+
+12. Vidura ka Upay
+
+Vidura kehte hain:
+
+Bhay door hota hai:
+
+Atma-gyan se,
+Tapasya se,
+Indriya-nigrah se,
+Lobh tyag se.
+13. Rishtedaron Mein Jhagda Sabse Vinashkari
+
+Vidura kehte hain:
+
+Jin logon ka apne rishtedaron se jhagda ho—
+
+unhe neend nahi aati,
+dhan ka sukh nahi milta,
+stri ka sukh nahi milta,
+geet-sangeet bhi anand nahi deta.
+
+Aise log ant mein vinash paate hain.
+
+14. Ekta ki Shakti
+
+Vidura do sundar udaharan dete hain:
+
+Dhaage
+
+Patle dhaage alag-alag kamzor hote hain.
+
+Saath judkar bhaari bojh utha lete hain.
+
+Ped
+
+Ek akela bada ped aandhi mein gir sakta hai.
+
+Jungle ke ped ek doosre ko sambhal kar khade rehte hain.
+
+Isi tarah:
+
+Parivaar ekjut rahe to use koi nahi hara sakta.
+
+15. Krodh – Ek Vish
+
+Vidura kehte hain:
+
+Krodh—
+
+kadva hai,
+jalata hai,
+rog jaisa hai,
+lekin sharirik rog nahi.
+
+Sirf buddhimaan hi ise pacha sakte hain.
+
+Isliye:
+
+Krodh ko nigal jao, shanti pao.
+
+16. Dice Sabha ki Yaad
+
+Vidura Dhritarashtra ko yaad dilate hain:
+
+Jab Draupadi ko dice sabha mein apmaanit kiya gaya tha,
+
+tab maine kaha tha:
+
+"Imandaar log kapat se khel nahi khelte."
+
+Aur maine Duryodhana ko rokne ko kaha tha.
+
+Lekin tumne meri baat nahi maani.
+
+17. Antim Salah
+
+Vidura kehte hain:
+
+Sahi niti hai—
+
+Shakti + Komalta
+
+Sirf bal par tikka hua rajya tikta nahi.
+
+Jo rajya bal aur daya dono par chalta hai,
+
+vah putra-pautron tak sthir rehta hai.
+
+Ant mein ve kehte hain:
+
+Pandav aur Kaurav ek hi mitra aur ek hi shatru rakhkar saath rahen. Pandavon ko apne hi putron ki tarah apnao. Duryodhana ko uske adharmik marg se hatao aur turant shanti karo.
+
+Is Adhyay ka Saar
+Gaali ka jawab gaali se nahi dena chahiye.
+Sabse uttam vani: Maun → Satya → Madhur Satya → Dharma-anukul Satya.
+Sangati vyakti ko gadh deti hai.
+Uchch kul ka aadhar dhan nahi, aacharan hai.
+Sachcha mitra wahi hai jiske saamne nishchint reh sako.
+Krodh aur shok dono vinashak hain.
+Parivaar ki ekta hi sabse badi shakti hai.
+Vidura ka antim sandesh ek hi hai: Pandavon se shanti karo; wahi Kuru vansh ko bachane ka antim avsar hai."""
             create_image_text_layout(
                 text_content=text2,
                 layout="full"
@@ -3720,7 +5529,26 @@ Ant mein usne Krishna aur Bhishma ki shaanti ki ichchha ka ullekh karte hue yudd
 
         # Section 5.1.37
         with st.expander("Section 5.1.37  Section XXXVII"):
-            text1 = """ """
+            text1 = """ 
+Section XXXVII – Vidura Niti (Part 5): Murkhata, Ayu, Krodh, Rajniti aur Pandav-Kaurav Ekta
+
+Is adhyay mein Vidura aur bhi kathor aur spasht niti batate hain. Ve murkhata ke lakshan, ayu kam karne wale dosh, sachche salahkar, sevak ke gun, rajniti aur ant mein Pandav-Kaurav ekta ki mahatta samjhate hain.
+
+1. 17 Prakar ke Murkh (Fools)
+
+Vidura kehte hain ki Manu ne 17 prakar ke murkh bataye hain. Aise log asambhav kaam karna chahte hain—jaise hawa ko pakadna ya indradhanush ko modna.
+
+Kuchh pramukh murkh:
+
+Jo apne se adhik shaktishali se bina soche dushmani kare.
+Jo dushman ki chaplusi kare.
+Jo apni hi patni ki burai kare.
+Jo diya hua vaada mukar jaye.
+Jo jhooth ko sach sabit karne ki koshish kare.
+Jo apne achhe kaam ka dikhava kare.
+Jo uchch kul mein janm lekar nich karm kare.
+
+Vidura kehte hain ki aise log narak ke adhikari hote hain."""
             create_image_text_layout(
                 "attached_assets/chapter5/5.1.37.jpg",
                 text1,
@@ -3728,7 +5556,221 @@ Ant mein usne Krishna aur Bhishma ki shaanti ki ichchha ka ullekh karte hue yudd
                 image_position="left"
             )
 
-            text2 = """ """
+            text2 = """ 
+2. Dusron ke Saath Waisa Hi Vyavahar Karo
+
+Vidura ka siddhant:
+
+Imaandar ke saath imaandari.
+Kapati ke saath satarkata aur uski bhasha mein vyavahar.
+
+Yeh samajik niti ka niyam hai.
+
+3. Chhe Talware Jo Ayu Kam Kar Deti Hain
+
+Dhritarashtra poochte hain:
+
+Agar manushya ki ayu 100 varsh hai, to sab itna nahi jeete kyon?
+
+Vidura jawab dete hain:
+
+Ye 6 dosh ayu ko kaat dete hain:
+
+Ati ahankar
+Ati bolna
+Ati khana
+Krodh
+Bhog-vilas ki adhik ichchha
+Parivar ke andar jhagda
+
+Ye hi manushya ko maarte hain, mrityu nahi.
+
+4. Kaun Brahmahatya ke Paapi Samaan Hai?
+
+Vidura kuchh aise karm batate hain jo bahut gambhir paap ke saman mane gaye hain, jaise:
+
+Vishwas karne wale ki patni ka apaharan.
+Guru-patni ka apmaan.
+Brahmanon ki bhoomi chheenna.
+Sharan maangne wale ko maar dena.
+
+Aise karmon ke liye prayaschitta avashyak hai.
+
+5. Swarg Kisey Milta Hai?
+
+Vidura kehte hain ki swarg us vyakti ko milta hai jo:
+
+gyani ho,
+niti jaanta ho,
+daani ho,
+pehle devata aur pitron ko arpan karke bhojan kare,
+kisi se irsha na kare,
+satyavaadi ho,
+vinamra ho.
+6. Kadvi Lekin Hitkari Baat
+
+Vidura kehte hain:
+
+Madhur bolne wale bahut mil jaate hain.
+
+Lekin:
+
+kadvi par hitkari baat bolne wala,
+aur use sunne wala,
+
+bahut durlabh hai.
+
+Yahi sachcha mantri hota hai.
+
+7. Rajniti ka Mahavakya
+
+Vidura ka prasiddh niti-vachan:
+
+Parivar ke liye ek vyakti ka balidan.
+Gaon ke liye ek parivar ka balidan.
+Rajya ke liye ek gaon ka balidan.
+Atma ke liye poori prithvi ka balidan bhi uchit hai.
+
+Yeh Bharatiya rajniti ka ek prasiddh siddhant hai.
+
+8. Jua (Gambling) ka Vinash
+
+Vidura yaad dilate hain:
+
+Maine dice ke samay bhi mana kiya tha.
+
+Jua hamesha:
+
+jhagda,
+vair,
+vinash
+
+lata hai.
+
+Lekin Dhritarashtra ne meri baat nahi maani.
+
+9. Pandav aur Kaurav ki Tulna
+
+Vidura bahut prabhavshali upma dete hain:
+
+Tum Pandavon jaise moron ko chhodkar apne kauwon jaise putron ko bachane ki koshish kar rahe ho.
+
+Aur:
+
+Sheron ko chhodkar geedaron ko bacha rahe ho.
+
+Yeh Duryodhana aur Pandavon ke charitra ki tulna hai.
+
+10. Achha Raja aur Achha Sevak
+
+Vidura kehte hain:
+
+Achha raja:
+
+wafadar sevakon par bina wajah krodh nahi karta,
+unka vetan nahi rokta,
+yogya logon se mitrata karta hai.
+
+Achha sevak:
+
+malik ki ichchha samajhta hai,
+imaandar hota hai,
+apni aur shatru ki shakti jaanta hai,
+hamesha hit ki baat karta hai.
+
+Aisa sevak raja ka "doosra swaroop" hota hai.
+
+11. Uttam Sevak ke 8 Gun
+
+Vidura ke anusaar uttam sevak mein hone chahiye:
+
+ahankar ka abhav,
+kshamata,
+aalas na karna,
+daya,
+shuddhata,
+bhrashtachar se door rehna,
+achha kul,
+gambhir aur santulit vaani.
+12. Kisse Madad Nahi Maangni Chahiye
+
+Vidura kehte hain:
+
+Kabhi bhi sahayata na maango:
+
+kanjoos se,
+doosron ki burai karne wale se,
+shastra na jaane wale se,
+krur vyakti se,
+akritagya se,
+jhagda karne wale se.
+13. Jeevan ka Antim Ashram
+
+Vidura paramparik jeevan vyavastha batate hain:
+
+Santan ko sthapit karo.
+Betiyon ka uchit vivaah karo.
+Phir vanaprastha ki or badho aur Ishwar ki upasana karo.
+14. Pandavon se Yuddh ke Parinaam
+
+Vidura Dhritarashtra ko chetavani dete hain ki yuddh se:
+
+Bhai-bhai ke shatru ban jayenge.
+Nirantar chinta rahegi.
+Kuru vansh ki kirti nasht hogi.
+Shatru khush honge.
+15. Jungle aur Sher ki Prasiddh Upma
+
+Vidura kehte hain:
+
+Kaurav van hain. Pandav us van ke sher hain.
+
+Sher bina jungle ke nahi reh sakta.
+Jungle bina sher ke surakshit nahi rehta.
+
+Isliye:
+
+Na jungle ko sher se alag karo, na sher ko jungle se.
+
+Yeh Mahabharata ki sabse prasiddh rajnaitik upmaon mein se ek hai.
+
+16. Panch Prakar ki Shakti
+
+Vidura kehte hain ki manushya ki 5 shaktiyan hoti hain:
+
+Bahubal (sabse nichli shakti)
+Achhe salahkaron ki shakti
+Dhan ki shakti
+Uchch janm ki shakti
+Buddhi ki shakti (sabse shreshth)
+
+Sabse mahan bal buddhi hai.
+
+17. Antim Chetavani
+
+Vidura ant mein kehte hain:
+
+Pandav agni ki tarah hain.
+
+Abhi ve shant dikh rahe hain, jaise lakdi ke andar chhupi hui aag.
+
+Lekin agar unhe bhadka diya gaya,
+
+to ve poore van ko jala denge.
+
+Aur ant mein phir wahi upma dete hain:
+
+Tumhare putra bel (creeper) jaise hain, Pandav sal-vriksh aur sher jaise hain. Bel bade vriksh ke sahare hi jeeti hai. Isliye Pandavon ko nasht karna tumhare apne vansh ko nasht karna hoga.
+
+Is Adhyay ka Saar
+17 prakar ke murkhon se bachna chahiye.
+Ahankar, ati-bhojan, krodh aur parivarik jhagde ayu kam kar dete hain.
+Kadvi lekin hitkari salah sabse mahan salah hai.
+Raja ko yogya sevakon ka samman karna chahiye.
+Sabse bada bal buddhi ka bal hai.
+Jua aur lobh rajya ka vinash karte hain.
+Pandav aur Kaurav ek doosre ke virodhi nahi, ek doosre ke sahayak hone chahiye.
+Vidura ka antim sandesh spasht hai: Pandav aur Kaurav saath rahenge to Kuru vansh bachega; yuddh hua to dono ka vinash nishchit hai."""
             create_image_text_layout(
                 text_content=text2,
                 layout="full"
@@ -3737,7 +5779,24 @@ Ant mein usne Krishna aur Bhishma ki shaanti ki ichchha ka ullekh karte hue yudd
 
         # Section 5.1.38
         with st.expander("Section 5.1.38  Section XXXVIII"):
-            text1 = """ """
+            text1 = """ 
+Section XXXVIII – Vidura Niti (Part 6): Atithi, Grihastha, Rajniti aur Gupt Mantrana
+
+Is adhyay mein Vidura grihastha-dharma, mehmaan-nawazi (atithi satkar), raja ki gupt niti, mantriyon ka chayan aur vyaktitva ke gunon par upadesh dete hain. Ant mein ve phir Dhritarashtra ko Duryodhana ko chunne ki bhool yaad dilate hain.
+
+1. Atithi ka Swagat Kaise Kare?
+
+Vidura kehte hain ki jab koi vriddh aur sammanit vyakti ghar aaye to:
+
+uthkar uska swagat karo,
+pranam karo,
+baithne ke liye aasan do,
+paani do,
+pair dhulvao,
+kushal-mangal poochho,
+phir bhojan karao.
+
+Yahi grihastha ka dharma hai."""
             create_image_text_layout(
                 "attached_assets/chapter5/5.1.38.jpg",
                 text1,
@@ -3745,7 +5804,219 @@ Ant mein usne Krishna aur Bhishma ki shaanti ki ichchha ka ullekh karte hue yudd
                 image_position="left"
             )
 
-            text2 = """ """
+            text2 = """ 
+2. Kanjoosi Sabse Badi Kami
+
+Vidura kehte hain:
+
+Jo Brahmana ya yogya atithi:
+
+paani,
+madhu,
+dahi,
+gau-daan
+
+grahan kiye bina laut jaye sirf isliye ki ghar ka malik kanjoos hai ya ichchha se daan nahi de raha, to aisa grihastha vyarth jeevan jeeta hai.
+
+Arth:
+Atithi satkar dhan se nahi, bhavna se hota hai.
+
+3. Kaun Sa Vyapar Brahmana Ko Nahi Karna Chahiye?
+
+Vidura batate hain ki Brahmana ko in vastuon ka vyapar nahi karna chahiye:
+
+namak,
+paka hua bhojan,
+doodh,
+dahi,
+ghee,
+tel,
+shahad,
+til,
+maans,
+phal,
+jad,
+sabzi,
+sugandh,
+gud,
+rangin vastra.
+
+Yeh us samay ke varnashrama-dharma ke sandarbh mein kaha gaya hai.
+
+4. Sachcha Yogi Kaun Hai?
+
+Vidura ke anusaar sachcha yogi vah hai jo:
+
+krodh se pare ho,
+shok se pare ho,
+mitra aur shatru mein samaan rahe,
+prashansa aur ninda dono se prabhavit na ho,
+sukh-dukh se upar uth gaya ho.
+
+Yeh Bhagavad Gita ke sthitaprajna ke varnan se milta-julta hai.
+
+5. Buddhimaan Vyakti Se Kabhi Dushmani Mat Karo
+
+Vidura kehte hain:
+
+Agar tumne kisi buddhimaan vyakti ke saath anyay kiya hai, to yeh mat socho ki door rehkar bach jaoge.
+
+Unki "baahen bahut lambi hoti hain" — arthaat unki buddhi aur prabhav bahut door tak pahunchta hai.
+
+6. Vishwas Kis Par Kare?
+
+Vidura ka santulit siddhant:
+
+Jo avishwas ke yogya ho us par kabhi vishwas mat karo.
+Jo vishwas ke yogya ho us par bhi andha vishwas mat karo.
+
+Ati-vishwas bhi vinash ka kaaran ban sakta hai.
+
+7. Patni ke Prati Vyavahar
+
+Vidura kehte hain:
+
+Patni se madhur bhasha mein baat karo.
+Uska samman karo.
+Uski raksha karo.
+Lekin uska daas mat ban jao.
+
+Ve patni ko "ghar ki Lakshmi" kehte hain.
+
+8. Ghar Ki Jimmedariyon Ka Vibhajan
+
+Vidura ek rochak vyavastha batate hain:
+
+Antarpur (ghar ke andar) – pita dekhe.
+Rasoi – mata dekhe.
+Gayein – apna sabse vishwasniya vyakti dekhe.
+Kheti – swayam dekhni chahiye.
+
+Yeh prabandhan (management) ka siddhant hai.
+
+9. Rajya Ke Rahasya
+
+Vidura kehte hain:
+
+Apni yojana kabhi pehle mat batao.
+
+Kaam hone ke baad hi logon ko pata chalna chahiye.
+
+Isliye:
+
+Rajnaitik mantrana hamesha gupt jagah par karo.
+Rajya ke rahasya har dost ko mat batao.
+Mantri ko achhi tarah parakh kar hi chunna chahiye.
+
+Yeh prachin intelligence aur statecraft ka siddhant hai.
+
+10. Uttam Raja Ka Lakshan
+
+Sabse uttam raja vah hai:
+
+jiske mantri uske nirnay tab jaane jab kaam ho chuka ho,
+jiske rahasya surakshit rahen,
+jo swayam rajkosh par nazar rakhe,
+jo khud kaam ki dekhrekh kare.
+11. Raja Aur Dhan
+
+Vidura kehte hain:
+
+Raja ko:
+
+sirf apne liye dhan ikattha nahi karna chahiye.
+Rajya ka dhan yogya sevakon mein baantna chahiye.
+
+Achha shasak apni praja aur sevakon ko saath lekar chalta hai.
+
+12. Shatru Ko Kab Chhodna Chahiye?
+
+Vidura ka kathor rajnaitik siddhant:
+
+Agar shatru bahut shaktishali hai aur tum kamzor ho, to kuch samay usse sandhi karo.
+Lekin jab tum shaktishali ho jao, tab use dobara khatra banne se pehle rok do.
+
+Yeh rajneeti ka vyavaharik drishtikon hai.
+
+13. Kiske Upar Krodh Nahi Karna Chahiye?
+
+Vidura kehte hain:
+
+In par krodh ko niyantrit rakho:
+
+Devata
+Raja
+Brahmana
+Vriddh
+Bachche
+Asahay log
+
+Yeh maryada ka prateek hai.
+
+14. Samriddhi Ki Saat Lakdiyan (Fuel of Prosperity)
+
+Vidura kehte hain ki samriddhi ki agni ko jalaye rakhne wale saat gun hain:
+
+Buddhi
+Shant chitta
+Atma-sanyam
+Shuddhata
+Kathor vaani ka abhav
+Mitron ke prati komalta
+Imaandari
+
+Jahan ye gun hote hain, wahan samriddhi tikti hai.
+
+15. Kis Vyakti Se Door Rahna Chahiye?
+
+Vidura kehte hain:
+
+Door raho usse jo:
+
+dusron ka adhikar chheen le,
+akritagya ho,
+besharam ho,
+dusht ho,
+jhoothe aarop lagata ho.
+
+Aise log kabhi chain ki neend nahi so sakte.
+
+16. Kaun Achha Neta Nahi Ban Sakta?
+
+Vidura kehte hain:
+
+Jo log:
+
+striyon ke moh mein,
+kapti logon ke prabhav mein,
+bachchon ki soch par,
+ya dusht logon ke margdarshan par chalenge,
+
+ve safal nahi honge.
+
+Neta ko vivek se nirnay lena chahiye.
+
+17. Dhritarashtra Ki Sabse Badi Galti
+
+Vidura ant mein phir wahi baat kehte hain:
+
+Tumne Arjuna, Bhima aur Yudhishthira jaise mahan dhanurdharon ko chhodkar poore samrajya ka bhar Duryodhana par rakh diya.
+
+Isliye:
+
+Jaise Raja Bali ka vaibhav gir gaya tha,
+
+waise hi tumhari samriddhi bhi jaldi girne wali hai.
+
+Is Adhyay ka Saar
+Atithi ka samman grihastha ka pratham dharma hai.
+Patni ka samman karo, par vivek banaye rakho.
+Rajya ke rahasya kabhi prakat na karo.
+Mantri ko bahut parakh kar chuno.
+Raja ko dhan baantna chahiye, sab kuch swayam nahi rakhna chahiye.
+Shatru ke saath niti aur samay ka dhyan rakho.
+Samriddhi buddhi, sanyam aur satya se tikti hai.
+Vidura phir Dhritarashtra ko chetavani dete hain ki Pandavon ko nazarandaaz karke Duryodhana par bharosa karna Kuru vansh ke vinash ka kaaran banega."""
             create_image_text_layout(
                 text_content=text2,
                 layout="full"
@@ -3754,7 +6025,20 @@ Ant mein usne Krishna aur Bhishma ki shaanti ki ichchha ka ullekh karte hue yudd
 
         # Section 5.1.39
         with st.expander("Section 5.1.39  Section XXXIX"):
-            text1 = """ """
+            text1 = """ 
+Section XXXIX – Vidura Niti (Part 7): Duryodhana ko Tyagna, Achhe Mitra, Rajneeti aur Dharma
+
+Is adhyay mein Dhritarashtra apni majboori batata hai ki sab kuch bhagya ke adheen hai. Vidura ise sveekar nahi karte aur phir se Duryodhana ko bachane ke bajaay usse tyagne ki salah dete hain. Yah Vidura Niti ke sabse mahatvapurna adhyayon mein se ek hai.
+
+1. Dhritarashtra ki Soch – "Sab Bhagya Hai"
+
+Dhritarashtra kehte hain:
+
+Insaan apni safalta ya asafalta ka malik nahi hai.
+Hum sab Bhagwan ke haath ki kathputli hain.
+Isliye mujhe aur upadesh do.
+
+Yeh Dhritarashtra ka favourite excuse hai: zimmedari se bachne ke liye sab kuch destiny par daal dena."""
             create_image_text_layout(
                 "attached_assets/chapter5/5.1.39.jpg",
                 text1,
@@ -3762,7 +6046,221 @@ Ant mein usne Krishna aur Bhishma ki shaanti ki ichchha ka ullekh karte hue yudd
                 image_position="left"
             )
 
-            text2 = """ """
+            text2 = """ 
+2. Vidura ki Sabse Badi Yaad-Dihani
+
+Vidura kehte hain:
+
+Jab Duryodhana paida hua tha tabhi maine kaha tha:
+
+"Ek putra ko chhod do, tab tumhare baaki sau putra bach jayenge."
+
+Lekin Dhritarashtra ne mana kar diya.
+
+Vidura fir samjhate hain:
+
+Chhota nuksan agar bada laabh laaye to vah laabh hai.
+Aur jo chhota laabh aage chal kar bada vinash laaye, vah asal mein nuksan hai.
+3. Gun Dhan Se Bade Hain
+
+Vidura kehte hain:
+
+Do prakaar ke log prasiddh hote hain:
+
+gunon ke kaaran
+dhan ke kaaran
+
+Lekin:
+
+Gunheen dhanvaan se door raho.
+
+Character > Wealth.
+
+4. Kis Sangati Se Bachna Chahiye?
+
+Door raho:
+
+jhagadalu log
+lalchi
+besharam
+kapati
+paapi
+doosron ki burai karne wale
+
+Aise log kabhi achhe mitra nahi hote.
+
+5. Rishtedaaron Ka Dharm
+
+Vidura kehte hain:
+
+Garib, kamzor aur dukhi rishtedaaron ki sahayata karo.
+
+Rishtedaar:
+
+bacha bhi sakte hain,
+barbaad bhi kar sakte hain.
+
+Isliye:
+
+Apne kul ko saath lekar chalo.
+
+6. Pandavon Ko Kuchh Gaon De Do
+
+Vidura fir seedha Dhritarashtra se kehte hain:
+
+Pandavon ko:
+
+"Kuch gaon hi de do."
+
+Isse:
+
+tumhara yash badega,
+paap dhul jayega,
+vansh bach jayega.
+
+Yeh wahi salah hai jo baad mein Yudhishthira "paanch gaon" ke roop mein maangte hain.
+
+7. Baad Mein Pachtana Mat
+
+Vidura chetavani dete hain:
+
+Aaj agar tumne kuch nahi kiya to kal:
+
+ya Pandav marenge,
+ya tumhare putra.
+
+Aur tab tum sirf pachtate rah jaoge.
+
+8. Rajya Ke Rahasya Kaise Leak Hote Hain?
+
+Vidura bahut practical rajneeti sikhate hain.
+
+Rahasya 6 kaaranon se bahar nikalte hain:
+
+Nasha
+Ati neend
+Guptcharon par dhyan na dena
+Apne vyavahar se sanket de dena
+Dusht mantri par bharosa
+Ayogya doot (messenger)
+
+Jo raja in sab ko rok leta hai wahi safal hota hai.
+
+9. Achha Mitra Kaun?
+
+Vidura ke anusaar achha dost vah hai jo:
+
+satyavaadi ho,
+kritagy ho,
+udaar ho,
+indriya-jit ho,
+wafadaar ho,
+kabhi mitra ko na chhode.
+
+Aise vyakti ko hi mitra banana chahiye.
+
+10. Samriddhi Kis Se Aati Hai?
+
+Prosperity ke mool:
+
+sahi prayas
+samay ki samajh
+sahi jagah
+sahi saadhan
+shastra gyaan
+imaandari
+achhe logon ki sangat
+
+Aur sabse bada:
+
+Perseverance (lagataar prayas).
+
+11. Kshama Ki Mahima
+
+Vidura kehte hain:
+
+Kamzor maaf kare majboori se.
+Shaktishaali maaf kare dharma ke liye.
+Sabse mahaan wahi hai jo shakti hote hue bhi kshama kare.
+12. Samriddhi Kinse Door Bhaagti Hai?
+
+Lakshmi unke paas nahi tikti jo:
+
+sada dukhi rehte hain,
+bure kaam karte hain,
+mehnat nahi karte,
+indriyon ke gulaam hain,
+prayatna chhod dete hain.
+13. Dharma Ka Saar
+
+Vidura ek bahut prasiddh siddhant dete hain:
+
+Jo tum apne liye pasand nahi karte, vah doosron ke saath kabhi mat karo.
+
+Ve kehte hain:
+
+Yahi sankshipt roop mein Dharma hai.
+
+Baaki sab usi ke vistaar hain.
+
+14. Dushton Ko Kaise Haraye?
+
+Vidura kehte hain:
+
+Krodh → Kshama se jeeto.
+Dusht → Imaandari se jeeto.
+Kanjoos → Daan se jeeto.
+Jhooth → Satya se jeeto.
+15. Kis Par Vishwas Nahi Karna Chahiye?
+
+Vishwas na karo:
+
+kapati
+chor
+darpok
+aalsi
+ahankari
+akritagya
+nastik (is sandarbh mein jo naitikta ko hi asweekar kare)
+
+Vidura yahaan rajneetik satarkata ki baat kar rahe hain.
+
+16. Dhan Se Trishna Kabhi Khatm Nahi Hoti
+
+Vidura kehte hain:
+
+Chahe:
+
+sona,
+dhan,
+anaaj,
+pashu,
+striyan,
+
+poori prithvi par kyon na mil jaaye,
+
+ek vyakti ki ichchha tab bhi poori nahi hoti.
+
+Isliye:
+
+Lobh chhod do.
+
+17. Antim Sandesh Dhritarashtra Ko
+
+Vidura poore adhyay ka saar ek vaakya mein dete hain:
+
+Pandavon aur apne putron ke saath samaan vyavahar karo.
+
+Yahi tumhare, Kuru vansh aur poore rajya ke hit mein hai.
+
+Is Adhyay ka Saar
+Bhagya ka bahana bana kar kartavya se mat bhaago.
+Kabhi-kabhi ek dusht vyakti ko rokna poore parivaar ko bachata hai.
+Dhan se adhik mahatvapurna gun hain.
+Achhi sangat jeevan banati hai, buri sangat vinash karti hai.
+Rajya ke rahasya surakshit rakhna shasak ka kartavya hai.
+Dharma ka saar: "Jo tum apne liye nahi chahte, vah doosron ke saath mat karo."
+Ant mein Vidura phir Dhritarashtra se kehte hain ki Pandavon ko unka adhikar dekar samaan vyavahar karo—isi mein Kuru vansh ki raksha hai."""
             create_image_text_layout(
                 text_content=text2,
                 layout="full"
@@ -3771,7 +6269,26 @@ Ant mein usne Krishna aur Bhishma ki shaanti ki ichchha ka ullekh karte hue yudd
 
         # Section 5.1.40
         with st.expander("Section 5.1.40  Section XL"):
-            text1 = """ """
+            text1 = """ 
+Section XL – Vidura Niti (Part 8): Dharma Hi Sthayi Hai, Sab Kuchh Anitya Hai
+
+Is adhyay mein Vidura apne upadesh ko aur gahra bana dete hain. Ve batate hain ki dhan, rajya aur sharir sab nashvar hain, lekin dharma aur karm hi vyakti ke saath jaate hain. Ant mein Dhritarashtra sveekar karta hai ki Vidura sahi hain, lekin kehta hai ki Duryodhana ke saamne aate hi uski buddhi badal jaati hai.
+
+1. Achhe Logon Ka Samman Karo
+
+Vidura kehte hain:
+
+Jo vyakti:
+
+sajjanon ka samman karta hai,
+ahankaar chhod deta hai,
+apni shakti ke anusaar hi kaam karta hai,
+
+vah jaldi hi yash aur safalta prapt karta hai.
+
+Kyon?
+
+Kyunki sajjan log prasann hokar uska bhala karte hain."""
             create_image_text_layout(
                 "attached_assets/chapter5/5.1.40.jpg",
                 text1,
@@ -3779,7 +6296,251 @@ Ant mein usne Krishna aur Bhishma ki shaanti ki ichchha ka ullekh karte hue yudd
                 image_position="left"
             )
 
-            text2 = """ """
+            text2 = """ 
+2. Adharma Se Mila Laabh Tyag Do
+
+Vidura kehte hain:
+
+Yadi koi bahut bada laabh bhi:
+
+adharma se mil raha ho,
+
+to use turant chhod dena chahiye.
+
+Aisa vyakti:
+
+saanp ki tarah purani khaal chhodkar naya jeevan pa leta hai.
+
+3. Teen Paap Brahmahatya Ke Barabar
+
+Vidura ke anusaar ye teen karm bahut bhayankar hain:
+
+jhooth bolkar jeet hasil karna,
+raja ke saath kapat karna,
+guru ke saamne asatya ya kapat rakhna.
+
+Ye Brahmahatya ke samaan paap ke roop mein bataye gaye hain.
+
+4. Vidya Ke Dushman
+
+Vidura kehte hain ki vidya ke teen shatru hain:
+
+guru ki seva mein laparvahi,
+jaldbazi,
+ahankaar.
+
+Aur vidyarthi ke saat dosh hain:
+
+aalas
+dhyan na dena
+bhram
+chanchalta
+samay barbaad karna
+ghamand
+lobh
+
+Yeh sab seekhne ki shakti ko nasht kar dete hain.
+
+5. Vidya Aur Bhog Ek Saath Mushkil
+
+Vidura ka prasiddh siddhant:
+
+Jo sukh-bhog ka ichchhuk hai uske liye vidya mushkil hai.
+
+Aur:
+
+Jo sachchi vidya chahta hai use sukh-suvaidhayein chhodni padti hain.
+
+Iska arth hai ki gahri shiksha tyag aur anushasan maangti hai.
+
+6. Chaar Cheezein Kabhi Santusht Nahi Hoti
+
+Vidura chaar udaharan dete hain:
+
+Agni → indhan se kabhi nahi bharati.
+Samudra → nadiyon se kabhi nahi bharata.
+Mrityu → praaniyon se kabhi santusht nahi hoti.
+Kaam (ichchha) → kabhi poori nahi hoti.
+
+Sandesh:
+
+Ichchhaon ka ant nahi hota.
+
+7. Kya Kis Ko Nasht Karta Hai?
+
+Vidura bahut sundar sutra dete hain:
+
+Asha (hope) → dhairya ko maar deti hai.
+Krodh → samriddhi ko.
+Kanjoosi → yash ko.
+Gai ki dekhbhal na karna → pashudhan ko.
+Krodhit Brahmana → poore rajya ko.
+
+Yeh pratikatmak roop se bataya gaya hai ki har vastu ka ek vinashak hota hai.
+
+8. Dharma Kabhi Mat Chhodo
+
+Vidura ka sabse mahan vakya:
+
+Dharma ko kabhi mat chhodo—
+
+chahe:
+
+lalach ho,
+dar ho,
+praan bachane ki baat hi kyon na ho.
+
+Kyonki:
+
+Dharma nitya hai.
+Sukh-dukh anitya hain.
+9. Santosh Sabse Badi Sampatti
+
+Vidura kehte hain:
+
+Santosh hi sabse bada dhan hai.
+
+Jo santusht hai wahi vastav mein samriddh hai.
+
+10. Mrityu Ke Baad Kya Saath Jaata Hai?
+
+Vidura bahut gahra varnan karte hain.
+
+Jab vyakti mar jaata hai:
+
+parivaar rota hai,
+shareer ko shamshan le jaata hai,
+agni shareer ko jala deti hai,
+dhan doosre log baant lete hain.
+
+Lekin:
+
+Sirf do cheezein uske saath jaati hain:
+
+Punya
+Paap
+
+Yahi uski asli sampatti hai.
+
+11. Isliye Jeevan Bhar Dharma Kamao
+
+Vidura kehte hain:
+
+Dheere-dheere,
+
+jeevan bhar,
+
+punya ikattha karo.
+
+Kyonki antim yatra mein wahi saath jaayega.
+
+12. Atma Ek Nadi Hai
+
+Vidura ek bahut sundar upama dete hain.
+
+Atma ko ek pavitra nadi batate hain:
+
+Satya uska jal hai.
+Sanyam uske kinare hain.
+Daya uski lehrein hain.
+Dharma uska pavitra snaan hai.
+
+Jo is nadi mein snaan karta hai, vah pavitra ho jaata hai.
+
+13. Jeevan Ki Nadi
+
+Vidura ek aur upama dete hain:
+
+Jeevan ek nadi hai.
+
+Usmein:
+
+paanch indriyan paani hain,
+kaam aur krodh magarmachh hain,
+punarjanm uski bhavaren hain.
+
+Is nadi ko paar karne ki naav hai:
+
+Atma-sanyam.
+
+14. Indriya Nigrah
+
+Vidura batate hain:
+
+Niyantran ka kram:
+
+Dhairya se kaam aur bhook ko sambhalo.
+Aankhon se haath-pair ko niyantrit karo.
+Mann se aankh-kaan ko niyantrit karo.
+Karmon se mann aur vaani ko shuddh rakho.
+
+Yeh poori self-discipline ki prakriya hai.
+
+15. Chaar Varnon Ka Dharma
+
+Vidura sankshipt roop mein batate hain:
+
+Brahmana
+Veda adhyayan
+Satya
+Shauch
+Guru seva
+Kshatriya
+Praja ki raksha
+Dharma yuddha
+Gau aur Brahmana ki raksha
+Vaisya
+Veda ka adhyayan
+Daan
+Vyapar aur samaj ki seva
+Shudra
+Teenon varn ki seva
+Imaandari se jeevan
+
+Yeh Mahabharata ke samay ki varnashrama vyavastha ke sandarbh mein kaha gaya hai.
+
+16. Vidura Ki Antim Vinanti
+
+Vidura kehte hain:
+
+Yudhishthira Kshatriya hain.
+
+Unka kartavya hai:
+
+Rajya chalana.
+
+Isliye:
+
+Unhe unka rajya wapas de do.
+
+Yahi tumhara dharma hai.
+
+17. Dhritarashtra Ka Dard
+
+Dhritarashtra ant mein ek bahut mahatvapurna sveekar karta hai:
+
+"Mujhe pata hai tum sahi ho."
+
+"Mera mann bhi Pandavon ki taraf jata hai."
+
+"Lekin jaise hi main Duryodhana ke paas jaata hoon, meri buddhi badal jaati hai."
+
+Aur phir wahi kehta hai:
+
+"Shayad sab kuchh bhagya hi hai."
+
+Yahi Dhritarashtra ki sabse badi kamzori thi—sach ko jaanne ke baad bhi us par amal na kar pana.
+
+Is Adhyay ka Saar
+Sajjanon ka samman safalta ka mool hai.
+Adharma se mila laabh tyag dena chahiye.
+Vidya aur bhog dono ka poorn anand ek saath mushkil hai.
+Ichchha kabhi poori nahi hoti.
+Dharma hi nitya hai; dhan, sharir aur rajya sab anitya hain.
+Mrityu ke baad sirf punya aur paap saath jaate hain.
+Santosh sabse bada dhan hai.
+Jeevan ki nadi ko atma-sanyam ki naav se hi paar kiya ja sakta hai.
+Dhritarashtra ko sach ka gyaan tha, lekin putra-moh ne uske vivek ko baar-baar hara diya."""
             create_image_text_layout(
                 text_content=text2,
                 layout="full"
