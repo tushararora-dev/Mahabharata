@@ -6553,7 +6553,14 @@ Dhritarashtra ko sach ka gyaan tha, lekin putra-moh ne uske vivek ko baar-baar h
 
         # Section 5.2.1
         with st.expander("Section 5.2.1  Section XLI"):
-            text1 = """ """
+            text1 = """ 
+            Section XLI – Sanat-Sujata Ka Aagman
+
+Dhritarashtra ne kaha, "Vidura, agar tumhare paas aur bhi koi gyaan hai, to mujhe batao. Main dhyaan se sunne ke liye taiyaar hoon. Tumhari baatein bahut acchi lagti hain."
+
+Vidura ne vinamrata se kaha, "Maharaj, ek amar aur mahaan Rishi hain – Sanat-Sujata. Unhone poori zindagi brahmacharya ka paalan kiya hai. Unka gyaan anant hai. Wahi aapke sabhi sawaalon ka sahi uttar de sakte hain."
+
+Dhritarashtra ne poocha, "Kya tum unki baatein nahi jaante? Agar jaante ho, to tum hi mujhe bata do." """
             create_image_text_layout(
                 "attached_assets/chapter5/5.2.1.jpg",
                 text1,
@@ -6561,7 +6568,18 @@ Dhritarashtra ko sach ka gyaan tha, lekin putra-moh ne uske vivek ko baar-baar h
                 image_position="left"
             )
 
-            text2 = """ """
+            text2 = """ 
+Vidura bole, "Main apni maryada jaanta hoon. Itne gehre adhyatmik rahasya batana mera adhikaar nahi hai. Sirf Sanat-Sujata jaise mahaan Rishi hi in vishayon ko poori tarah samjha sakte hain."
+
+Dhritarashtra ne phir poocha, "Main un mahaan Rishi se kaise mil sakta hoon?"
+
+Vidura ne turant Sanat-Sujata ka dhyaan kiya.
+
+Rishi ne mehsoos kiya ki unhe yaad kiya gaya hai. Ve turant wahan prakat ho gaye.
+
+Vidura ne unka bahut samman ke saath swaagat kiya. Jab Rishi aaraam se baith gaye, tab Vidura ne kaha,
+
+"Maharaj Dhritarashtra ke mann mein bahut gehre sawaal hain. Main unka uttar nahi de sakta. Kripya aap unhe satya ka gyaan dijiye. Aapki shiksha se ye jeevan ke har sukh-dukh, laabh-haani, budhaape, mrityu, bhay, irshya, bhookh, pyaas, ahankaar, kaamna aur krodh ko samajhkar shaanti paa sakenge." """
             create_image_text_layout(
                 text_content=text2,
                 layout="full"
@@ -6570,7 +6588,16 @@ Dhritarashtra ko sach ka gyaan tha, lekin putra-moh ne uske vivek ko baar-baar h
 
         # Section 5.2.2
         with st.expander("Section 5.2.2  Section XLII"):
-            text1 = """ """
+            text1 = """ 
+Section XLII – Asli Mrityu Kya Hai?
+
+Vidura ki baat sunne ke baad, Dhritarashtra ne Rishi Sanat-Sujata se ek gehra sawaal poocha.
+
+Unhone kaha, "Maine suna hai ki aap kehte hain ki mrityu hoti hi nahi. Lekin log to mrityu se bachne ke liye tapasya bhi karte hain. In dono baaton mein sach kya hai?"
+
+Sanat-Sujata muskuraye aur bole,
+
+"Dono baatein apni jagah sahi hain." """
             create_image_text_layout(
                 "attached_assets/chapter5/5.2.2.jpg",
                 text1,
@@ -6578,7 +6605,33 @@ Dhritarashtra ko sach ka gyaan tha, lekin putra-moh ne uske vivek ko baar-baar h
                 image_position="left"
             )
 
-            text2 = """ """
+            text2 = """ Phir unhone samjhaya,
+
+"Asli mrityu sharir ka khatam hona nahi hai. Asli mrityu hai agyaan. Aur sachcha gyaan hi amarta ka raasta hai."
+
+Unhone kaha,
+
+"Jab insaan sach ko nahi samajhta, tab uske andar lalach, gussa aur ahankaar badhne lagte hain. Yehi usse dukh aur barbaadi ki taraf le jaate hain."
+
+"Jo sirf apni ichchhaon ke peeche bhaagta hai, woh baar-baar dukh aur janm-mrityu ke chakra mein phans jaata hai."
+
+Lekin jo apne mann aur ichchhaon par control kar leta hai, woh is chakra se bahar nikal sakta hai.
+
+Dhritarashtra ne phir poocha,
+
+"Agar gyaan sabse bada hai, to Vedo mein bataye gaye yagya aur dharmik karm kyun kiye jaate hain?"
+
+Sanat-Sujata bole,
+
+"Achhe karm bhi zaroori hain. Lekin agar mann mein ichchha aur moh baaki ho, to unka phal sirf kuch samay ke liye milta hai. Sachchi mukti tab milti hai jab insaan apni ichchhaon ko chhodkar sachche gyaan ko apnaata hai."
+
+Dhritarashtra ne aur sawaal pooche. Unhone Brahman, atma aur dharm ka matlab samajhna chaha.
+
+Sanat-Sujata ne dhairya se har baat samjhayi.
+
+Ant mein unhone kaha,
+
+"Sach bolna, seedha rehna, vinamrata rakhna, apne mann par control rakhna, shuddh jeevan jeena aur gyaan paana—yeh chhe gun insaan ko andhkaar se nikaal kar sachchi khushi aur mukti ki taraf le jaate hain."  """
             create_image_text_layout(
                 text_content=text2,
                 layout="full"
@@ -6587,7 +6640,13 @@ Dhritarashtra ko sach ka gyaan tha, lekin putra-moh ne uske vivek ko baar-baar h
 
         # Section 5.2.3
         with st.expander("Section 5.2.3  Section XLIII"):
-            text1 = """ """
+            text1 = """ Section XLIII – Asli Tapasya Aur Sachcha Gyaan
+
+Dhritarashtra ne poocha,
+
+"Asli maun kya hai? Kya sirf chup rehna hi maun hai, ya kuch aur? Aur kya isse moksha mil sakta hai?"
+
+Sanat-Sujata bole, """
             create_image_text_layout(
                 "attached_assets/chapter5/5.2.3.jpg",
                 text1,
@@ -6595,7 +6654,35 @@ Dhritarashtra ko sach ka gyaan tha, lekin putra-moh ne uske vivek ko baar-baar h
                 image_position="left"
             )
 
-            text2 = """ """
+            text2 = """ "Asli maun sirf chup rehna nahi hai. Jab mann shaant ho jaata hai aur insaan apni atma ko pehchaan leta hai, wahi sachcha maun hai."
+
+Dhritarashtra ne phir poocha,
+
+"Agar koi Vedo ka bahut gyaan rakhta ho, lekin bure kaam kare, to kya Veda usse bacha lenge?"
+
+Sanat-Sujata ne kaha,
+
+"Nahi. Sirf Veda padh lena kaafi nahi hai. Agar insaan apni indriyon par control nahi karta aur dharm par nahi chalta, to Veda bhi uski madad nahi kar sakte."
+
+Unhone aage samjhaya,
+
+"Tapasya tabhi safal hoti hai jab usme ahankaar, lalach aur dikhawa na ho. Agar ye sab ho, to tapasya ka koi fayda nahi."
+
+Phir unhone bataya ki insaan ko kin buri aadaton se bachna chahiye.
+
+Gussa, kaam, lalach, ahankaar, irshya, doosron ki burai aur doosron ko dukh dena insaan ko galat raaste par le jaate hain.
+
+Lekin kuch achhe gun hamesha apnane chahiye.
+
+Sach bolna, daya rakhna, apne mann par control rakhna, vinamrata, dhairya, daan aur gyaan insaan ko mahaan bana dete hain.
+
+Sanat-Sujata ne kaha,
+
+"Asli tyaag sirf cheezen chhodna nahi hai. Asli tyaag apni ichchhaon aur ahankaar ko chhodna hai."
+
+Ant mein unhone sabse bada sach bataya.
+
+"Sirf kitaabein padhne se koi gyani nahi banta. Jo sach ke raaste par chalta hai, apne mann ko jeet leta hai aur apni atma ko pehchaan leta hai, wahi sachcha gyani hai." """
             create_image_text_layout(
                 text_content=text2,
                 layout="full"
@@ -6604,7 +6691,18 @@ Dhritarashtra ko sach ka gyaan tha, lekin putra-moh ne uske vivek ko baar-baar h
 
         # Section 5.2.4
         with st.expander("Section 5.2.4  Section XLIV"):
-            text1 = """ """
+            text1 = """ 
+Section XLIV – Brahman Ko Kaise Paaya Jaaye?
+
+Dhritarashtra ne kaha,
+
+"Hey Rishi, aapki baatein bahut adbhut hain. Kripya mujhe aur gyaan dijiye. Main aisi baatein sunna chahta hoon jo sirf sach aur atma se judi hon."
+
+Sanat-Sujata bole,
+
+"Brahman ko jaldi nahi paaya ja sakta. Jab insaan apni indriyon aur mann par poora control kar leta hai, tab uske andar sachcha gyaan prakat hota hai. Yeh sirf Brahmacharya aur anushasan se milta hai."
+
+Dhritarashtra ne poocha, """
             create_image_text_layout(
                 "attached_assets/chapter5/5.2.4.jpg",
                 text1,
@@ -6612,7 +6710,45 @@ Dhritarashtra ko sach ka gyaan tha, lekin putra-moh ne uske vivek ko baar-baar h
                 image_position="left"
             )
 
-            text2 = """ """
+            text2 = """ "Agar gyaan pehle se hi mann mein hai, to phir amarta kaise milti hai?"
+
+Sanat-Sujata bole,
+
+"Gyaan mann mein zaroor hota hai, lekin chhupa hua hota hai. Shuddh buddhi, anushasan aur Guru ki shiksha se woh saamne aata hai. Jab yeh gyaan mil jaata hai, tab insaan Brahman ko jaan leta hai."
+
+Dhritarashtra ne phir poocha,
+
+"Achha Brahmacharya kaise kiya jaata hai?"
+
+Sanat-Sujata ne kaha,
+
+"Sabse pehle Guru ka samman karo. Unki seva dil se karo. Kabhi gussa ya ahankaar mat rakho."
+
+"Guru ki baat dhyaan se suno. Unke parivaar ka bhi utna hi aadar karo jitna Guru ka karte ho."
+
+"Hamesha yaad rakho ki Guru ne tumhe gyaan diya hai. Unke prati hamesha kritagy raho."
+
+"Aur jab tak Guru ki anumati aur Guru Dakshina poori na ho, tab tak apni padhai ko adhura mat chhodo."
+
+Sanat-Sujata bole,
+
+"Isi anushasan se Devtaon ne apni mahanta paayi. Rishiyon ne Brahman ko jaana. Aur Surya bhi apna kartavya nibhata hai."
+
+Phir unhone kaha,
+
+"Achhe karm sirf kuch samay ka phal dete hain. Lekin sachcha gyaan hamesha ke liye mukti deta hai. Brahman ko paane ka asli raasta gyaan hi hai."
+
+Dhritarashtra ne ant mein poocha,
+
+"Brahman ka rang kaisa hai? Kya woh safed, laal ya neela hai?"
+
+Sanat-Sujata muskuraye aur bole,
+
+"Brahman ka koi ek rang ya roop nahi hai. Use aankhon se nahi dekha ja sakta."
+
+"Wahi har jagah hai. Wahi poori srishti ka aadhaar hai. Sab kuch usi se aata hai aur ant mein usi mein laut jaata hai."
+
+"Jo is sach ko samajh leta hai, wahi janm aur mrityu ke chakra se mukt ho jaata hai." """
             create_image_text_layout(
                 text_content=text2,
                 layout="full"
@@ -6621,7 +6757,17 @@ Dhritarashtra ko sach ka gyaan tha, lekin putra-moh ne uske vivek ko baar-baar h
 
         # Section 5.2.5
         with st.expander("Section 5.2.5  Section XLV"):
-            text1 = """ """
+            text1 = """ Section XLV – Achha Insaan Kaun Hota Hai?
+
+Sanat-Sujata bole,
+
+"Kuch buri aadatein insaan ki zindagi barbaad kar deti hain."
+
+Unhone bataya,
+
+"Dukh mein doobna, gussa, lalach, kaam, agyaan, aalas, irshya, ahankaar, hamesha aur paane ki ichchha, zyada moh aur buri baatein karna—ye sab insaan ko galat raaste par le jaate hain."
+
+"Jab aise logon ke paas dhan aa jaata hai, to ve aur bhi ghamandi ho jaate hain. Ve doosron ka samman nahi karte aur sirf apni khushi ke baare mein sochte hain." """
             create_image_text_layout(
                 "attached_assets/chapter5/5.2.5.jpg",
                 text1,
@@ -6629,7 +6775,31 @@ Dhritarashtra ko sach ka gyaan tha, lekin putra-moh ne uske vivek ko baar-baar h
                 image_position="left"
             )
 
-            text2 = """ """
+            text2 = """ Phir Sanat-Sujata ne bataya ki ek achhe insaan ke gun kya hote hain.
+
+"Sach bolna, dharm par chalna, apne mann aur indriyon par control rakhna, santosh, vinamrata, tyaag, daya, daan, gyaan, dhairya aur maaf karna—ye sab mahaan gun hain."
+
+"Jo in gunon ko apna leta hai, wahi sach mein safal insaan banta hai."
+
+Phir unhone sachchi dosti ke lakshan bataye.
+
+"Sachcha dost tumhari khushi mein khush hota hai aur tumhare dukh mein tumhare saath khada rehta hai."
+
+"Zarurat padne par woh apni sabse pyari cheez bhi tumhare liye dene ko taiyaar hota hai."
+
+"Aur kabhi bhi tumhara fayda uthaane ki koshish nahi karta."
+
+Sanat-Sujata ne aage kaha,
+
+"Apni indriyon par control rakhna hi asli tapasya hai. Lekin sirf achhe karm karna hi kaafi nahi hai."
+
+"Bina sachche gyaan ke, bade se bada yagya ya pooja bhi insaan ko mukti nahi de sakti."
+
+Ant mein unhone kaha,
+
+"Jo apne mann ko shaant rakhta hai, tarif se ghamand nahi karta aur ninda se gussa nahi hota, wahi dheere-dheere Brahman ko praapt kar leta hai."
+
+"Yahi sachcha gyaan hai, aur yahi mukti ka raasta hai." """
             create_image_text_layout(
                 text_content=text2,
                 layout="full"
@@ -6637,7 +6807,19 @@ Dhritarashtra ko sach ka gyaan tha, lekin putra-moh ne uske vivek ko baar-baar h
             
                 # Section 5.2.6
         with st.expander("Section 5.2.6  Section XLVI"):
-            text1 = """ """
+            text1 = """ Section XLVI – Brahman Har Jagah Hai
+
+Sanat-Sujata bole,
+
+"Is poori srishti ka ek hi mool hai. Wahi Brahman hai. Wahi sabse shuddh, prakashmay aur hamesha se maujood hai."
+
+"Surya ka prakash, prakriti ki shakti aur jeevan ki urja sab usi se aati hai."
+
+Unhone kaha,
+
+"Yogi apne mann ki aankhon se us Brahman ko dekhte hain. Use aam aankhon se nahi dekha ja sakta."
+
+Phir unhone ek sundar udaaharan diya. """
             create_image_text_layout(
                 "attached_assets/chapter5/5.2.6.jpg",
                 text1,
@@ -6645,7 +6827,29 @@ Dhritarashtra ko sach ka gyaan tha, lekin putra-moh ne uske vivek ko baar-baar h
                 image_position="left"
             )
 
-            text2 = """ """
+            text2 = """ "Yeh sharir ek rath ki tarah hai. Ek din yeh khatam ho jaayega. Lekin atma amar hai. Agar indriyan aur mann sahi disha mein chalein, to insaan Brahman tak pahunch sakta hai."
+
+Sanat-Sujata bole,
+
+"Yeh duniya ek badi nadi ki tarah hai. Isme moh aur maya ka bahav hai. Bahut log isi mein uljhe rehte hain aur sach ko bhool jaate hain."
+
+"Lekin jo gyaan pa leta hai, woh is maya se bahar nikal aata hai."
+
+Unhone samjhaya,
+
+"Sabhi jeevon ke andar wahi ek Paramatma rehta hai. Farq sirf itna hai ki kuch log use pehchaan lete hain aur kuch nahi."
+
+"Jo apne mann ko shaant kar leta hai, sabka bhala chahta hai aur apne andar ki atma ko pehchaan leta hai, wahi sachcha gyani hai."
+
+Sanat-Sujata ne ek aur chetavni di.
+
+"Kuch log bahar se bahut dharmik dikhte hain, lekin andar se bure hote hain. Aise logon se hamesha saavdhan rehna."
+
+Ant mein unhone sabse gehra satya bataya.
+
+"Brahman har jeev ke hriday mein rehta hai. Wahi sabka mata hai, pita hai aur sabka aadhaar hai."
+
+"Jo ise apne andar pehchaan leta hai, uske liye janm, mrityu aur dukh ka koi dar nahi rehta." """
             create_image_text_layout(
                 text_content=text2,
                 layout="full"
@@ -6654,7 +6858,17 @@ Dhritarashtra ko sach ka gyaan tha, lekin putra-moh ne uske vivek ko baar-baar h
 
         # Section 5.2.7
         with st.expander("Section 5.2.7  Section XLVII"):
-            text1 = """ """
+            text1 = """ Section XLVII – Sanjaya Ki Wapsi
+
+Raat bhar Dhritarashtra, Vidura aur Rishi Sanat-Sujata ke saath gehri baatein karte rahe.
+
+Subah hote hi Hastinapur ki rajsabha saj gayi.
+
+Sabhagaar bahut sundar tha. Sone ki chamak, safed farsh, chandan ki khushboo aur shandaar aasan uski shobha badha rahe the.
+
+Bhishma, Drona, Kripacharya, Shalya, Karna, Ashwatthama, Shakuni, Duryodhana aur doosre sabhi mahan yoddha wahan aa kar baith gaye.
+
+Sabhi ek hi baat ka intezaar kar rahe the. """
             create_image_text_layout(
                 "attached_assets/chapter5/5.2.7.jpg",
                 text1,
@@ -6662,7 +6876,27 @@ Dhritarashtra ko sach ka gyaan tha, lekin putra-moh ne uske vivek ko baar-baar h
                 image_position="left"
             )
 
-            text2 = """ """
+            text2 = """ Sanjaya Pandavon se milkar laut chuke the.
+
+Thodi der baad dwarpal ne khabar di,
+
+"Maharaj, Sanjaya aa gaye hain. Unka rath Pandavon se laut aaya hai."
+
+Sanjaya turant sabha mein aaye aur sabko pranam kiya.
+
+Phir unhone kaha,
+
+"Main Pandavon se milkar wapas aaya hoon."
+
+"Yudhishthira aur unke sabhi bhaiyon ne Kuru vansh ke har vyakti ko unki umar aur maryada ke anusaar pranam aur shubhkamnayein bheji hain."
+
+Uske baad Sanjaya bole,
+
+"Ab main aap sabko wahi sandesh sunaunga jo Dhritarashtra ke kehne par main Pandavon ke paas lekar gaya tha, aur jo jawab mujhe wahan se mila."
+
+Is tarah sabha mein poori shaanti chha gayi.
+
+Sabhi dhyaan se Pandavon ka sandesh sunne ke liye taiyaar ho gaye. """
             create_image_text_layout(
                 text_content=text2,
                 layout="full"
@@ -6671,7 +6905,19 @@ Dhritarashtra ko sach ka gyaan tha, lekin putra-moh ne uske vivek ko baar-baar h
 
         # Section 5.2.8
         with st.expander("Section 5.2.8  Section XLVIII"):
-            text1 = """ """
+            text1 = """ Section XLVIII – Arjuna Ka Antim Sandesh
+
+Dhritarashtra ne Sanjaya se kaha,
+
+"Sabke saamne batao, Arjuna ne kya sandesh bheja hai."
+
+Sanjaya bole,
+
+"Arjuna ne yeh baat Shri Krishna aur Yudhishthira ki maujoodgi mein kahi thi."
+
+Arjuna ne kaha,
+
+"Agar Duryodhana Yudhishthira ko unka haq ka rajya wapas nahi dega, to yuddh nishchit hai." """
             create_image_text_layout(
                 "attached_assets/chapter5/5.2.8.jpg",
                 text1,
@@ -6679,7 +6925,39 @@ Dhritarashtra ko sach ka gyaan tha, lekin putra-moh ne uske vivek ko baar-baar h
                 image_position="left"
             )
 
-            text2 = """ """
+            text2 = """ "Humne bahut anyaay saha hai. Vanvaas bhi poora kiya aur agyaatvaas bhi. Ab hum apna adhikaar lekar hi rahenge."
+
+Phir Arjuna ne Duryodhana ko chetavni di.
+
+"Jab Bhima apni gada lekar yuddh mein utrega, tab tumhe apni galti ka ehsaas hoga."
+
+"Jab Nakula aur Sahadeva apni veerta dikhayenge, tab tum pachtoge."
+
+"Jab Abhimanyu, Draupadi ke putra, Dhrishtadyumna, Shikhandi, Satyaki, Virata aur Drupada yuddh mein aage badhenge, tab tum samajh jaoge ki yeh faisla kitna bhaari tha."
+
+Phir Arjuna ne apni baat kahi.
+
+"Aur jab tum mujhe Gandiva dhanush ke saath dekhoge, mere rath par Shri Krishna saarathi honge, tab tumhe samajh aa jayega ki jeet kiski hogi."
+
+"Mere baan bijli ki tarah girenge. Dushman ki sena har taraf bikhar jaayegi."
+
+Iske baad Arjuna ne Shri Krishna ki mahima batayi.
+
+"Shri Krishna sirf ek mahaan yoddha nahi hain. Unhone bahut bade-bade asuron aur dusht rajaon ka vinaash kiya hai."
+
+"Jinke saath Shri Krishna khade hote hain, unki jeet lagbhag nishchit hoti hai."
+
+Phir Arjuna ne apna vishwas jataya.
+
+"Maine Shri Krishna ko apna saathi chuna hai. Mujhe poora bharosa hai ki dharm ki hi jeet hogi."
+
+Ant mein Arjuna ne Sanjaya se kaha,
+
+"Jaakar Duryodhana ko bata do. Agar woh abhi bhi shanti chahe, to sab bach sakte hain. Lekin agar woh yuddh chunta hai, to Kaurav sena ka vinaash nishchit hai."
+
+Sabha mein yeh sandesh sunkar sab log gehri soch mein doob gaye.
+
+Sabko samajh aa gaya ki ab shanti aur yuddh ke beech sirf Duryodhana ka faisla baaki tha. """
             create_image_text_layout(
                 text_content=text2,
                 layout="full"
@@ -6688,7 +6966,17 @@ Dhritarashtra ko sach ka gyaan tha, lekin putra-moh ne uske vivek ko baar-baar h
 
         # Section 5.2.9
         with st.expander("Section 5.2.9  Section XLIX"):
-            text1 = """ """
+            text1 = """ Section XLIX – Bhishma Ki Antim Chetavni
+
+Sanjaya ka sandesh sunne ke baad, sabha mein kuch der ke liye shaanti chha gayi.
+
+Tab Pitamah Bhishma uthkar Duryodhana se bole,
+
+"Main tumhe ek purani kahani sunata hoon."
+
+Unhone bataya,
+
+"Bahut pehle Devta Brahma ji ke paas gaye the. Wahan do mahaan Rishi aaye – Nara aur Narayana. Brahma ji ne bataya ki ye dono dharm ki raksha aur adharm ka vinaash karne ke liye janm lete hain." """
             create_image_text_layout(
                 "attached_assets/chapter5/5.2.9.jpg",
                 text1,
@@ -6696,7 +6984,43 @@ Dhritarashtra ko sach ka gyaan tha, lekin putra-moh ne uske vivek ko baar-baar h
                 image_position="left"
             )
 
-            text2 = """ """
+            text2 = """ Bhishma ne phir kaha,
+
+"Aaj wahi Nara aur Narayana, Arjuna aur Shri Krishna ke roop mein is dharti par hain."
+
+"Jab bhi adharm badhta hai, ye dono milkar uska ant karte hain."
+
+Phir Bhishma ne Duryodhana ko samjhaya,
+
+"Agar tum yuddh karoge, to Krishna aur Arjuna ko ek hi rath par dekhoge. Us din tumhe meri baat yaad aayegi, lekin tab bahut der ho chuki hogi."
+
+Bhishma ne saaf kaha,
+
+"Tum galat logon ki baat maan rahe ho. Karna, Shakuni aur Dushasana tumhe galat raasta dikha rahe hain."
+
+Yeh sunkar Karna ko gussa aa gaya.
+
+Usne kaha,
+
+"Pitamah, aap hamesha meri ninda karte hain. Maine Duryodhana ka saath nibhaaya hai aur yuddh mein Pandavon ko haraane ki poori koshish karunga."
+
+Bhishma shaant rahe aur bole,
+
+"Sirf badi-badi baatein karne se koi mahaan yoddha nahi ban jaata."
+
+"Pandavon ne apni veerta baar-baar saabit ki hai. Lekin tum kabhi unke saamne tik nahi paaye."
+
+Uske baad Guru Dronacharya bhi bole,
+
+"Maharaj, Pitamah ki baat maan lijiye. Abhi bhi samay hai. Pandavon se shanti kar lijiye."
+
+"Arjuna jo keh raha hai, woh zaroor hoga. Teenon lokon mein uske jaisa dhanurdhar koi nahi hai."
+
+Lekin Duryodhana ne Bhishma aur Drona, dono ki salah ko nazarandaaz kar diya.
+
+Woh phir bhi Sanjaya se Pandavon ke baare mein poochta raha.
+
+Usi samay sab samajh gaye ki ab yuddh ko rokna bahut mushkil ho chuka hai. """
             create_image_text_layout(
                 text_content=text2,
                 layout="full"
@@ -6705,7 +7029,15 @@ Dhritarashtra ko sach ka gyaan tha, lekin putra-moh ne uske vivek ko baar-baar h
 
         # Section 5.2.10
         with st.expander("Section 5.2.10  Section L"):
-            text1 = """ """
+            text1 = """ Section L – Pandavon Ki Taiyaari
+
+Dhritarashtra ne Sanjaya se poocha,
+
+"Yudhishthira kya kar rahe hain? Itni badi sena dekhkar unhone kya faisla liya? Aur kaun unhe shanti ki salah de raha hai?"
+
+Sanjaya bole,
+
+"Sabhi Pandav, Panchal aur unke saathi Yudhishthira ki taraf dekh rahe hain. Sab unke aadesh ka intezaar kar rahe hain." """
             create_image_text_layout(
                 "attached_assets/chapter5/5.2.10.jpg",
                 text1,
@@ -6713,7 +7045,41 @@ Dhritarashtra ko sach ka gyaan tha, lekin putra-moh ne uske vivek ko baar-baar h
                 image_position="left"
             )
 
-            text2 = """ """
+            text2 = """ "Yudhishthira sabko shaant rakh rahe hain. Ve bina wajah yuddh nahi chahte. Lekin agar nyaay na mila, to ve peeche bhi nahi hatenge."
+
+"Har taraf se raja aur senaayein Pandavon ka saath dene aa rahi hain. Sab unke saath khade hone par khush hain."
+
+Dhritarashtra ne phir poocha,
+
+"Pandavon ke saath kaun-kaun yuddh karega?"
+
+Itna sunte hi Sanjaya kuch pal ke liye chup ho gaye.
+
+Unhone gehri saans li aur achanak behosh hokar zameen par gir pade.
+
+Vidura ne turant kaha,
+
+"Maharaj, Sanjaya behosh ho gaye hain."
+
+Dhritarashtra bole,
+
+"Lagta hai Pandavon ki shakti dekhkar unka mann ghabra gaya hai."
+
+Thodi der baad Sanjaya ko hosh aa gaya.
+
+Phir unhone kaha,
+
+"Maine Pandavon ko dekha. Vanvaas ki wajah se unke sharir patle zaroor ho gaye hain, lekin unka hausla pehle se bhi zyada mazboot hai."
+
+Phir Sanjaya ne ek-ek karke Pandavon ke mahaan yoddhaon ka naam bataya.
+
+"Yudhishthira unke neta hain. Bhima das hazaar haathiyon jaisa bal rakhte hain. Arjuna ka koi muqaabla nahi. Nakula aur Sahadeva bhi mahaan yoddha hain."
+
+"Shikhandi, Dhrishtadyumna, Satyaki, Virata, Drupada, Abhimanyu, Draupadi ke paanch putra aur bahut se shaktishaali raja bhi unke saath hain."
+
+Ant mein Sanjaya bole,
+
+"In sab veer yoddhaon par bharosa karke Yudhishthira yuddh ke liye poori tarah taiyaar hain. Agar shanti nahi hui, to bahut bada yuddh hona nishchit hai." """
             create_image_text_layout(
                 text_content=text2,
                 layout="full"
