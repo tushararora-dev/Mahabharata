@@ -7088,7 +7088,22 @@ Ant mein Sanjaya bole,
 
         # Section 5.2.11
         with st.expander("Section 5.2.11  Section LI"):
-            text1 = """ """
+            text1 = """ 
+            Section LI – Dhritarashtra Ka Dar
+
+Dhritarashtra gehri saans lekar bole,
+
+"Mujhe sabse zyada dar Bhima se lagta hai."
+
+"Mujhe lagta hai ki baaki sab yoddha milkar bhi Bhima ke barabar nahi hain."
+
+Unhone dukh se kaha,
+
+"Main raat bhar so nahi paata. Jab bhi Bhima ki yaad aati hai, mera dil kaanp uthta hai."
+
+"Bachpan se hi Bhima mere beton se bahut zyada shaktishaali tha. Khelte waqt bhi woh un sab par bhaari padta tha."
+
+Dhritarashtra bole,"""
             create_image_text_layout(
                 "attached_assets/chapter5/5.2.11.jpg",
                 text1,
@@ -7096,7 +7111,34 @@ Ant mein Sanjaya bole,
                 image_position="left"
             )
 
-            text2 = """ """
+            text2 = """ 
+"Ab woh aur bhi balwaan ho chuka hai. Uske haath mein lohe ki gada hai. Mujhe lagta hai ki yuddh mein woh mere kisi bhi bete ko nahi chhodega."
+
+"Jab Bhima gusse mein sena ke beech ghusega, to haathi, ghode aur rath sab toot jaayenge."
+
+Phir unhone Bhima ke purane kaarnamon ko yaad kiya.
+
+"Usne raakshason ko haraaya, Jarasandha jaise mahaan raja ko maara aur hamesha apne bhaiyon ki raksha ki."
+
+"Uska bal das hazaar haathiyon ke barabar maana jaata hai."
+
+Dhritarashtra ne dukhi hokar kaha,
+
+"Mere bete samajh hi nahi rahe ki woh kis se takraane ja rahe hain."
+
+"Ve sirf jeet dekh rahe hain, lekin saamne khadi vinash ki gehri khaai nahi dekh pa rahe."
+
+Phir unhone sweekar kiya,
+
+"Vidura ne pehle hi humein chetavni di thi. Lekin humne unki baat nahi maani."
+
+"Woh paase ka khel hi is sab vinash ki shuruaat tha."
+
+Ant mein Dhritarashtra ne nirash hokar kaha,
+
+"Ab sab kuch Kaal ke haath mein hai. Main dekh raha hoon ki Kuru vansh ka vinaash paas aa chuka hai."
+
+"Mujhe darr hai ki bahut jald mere sau beton ki maut ki khabar sunni padegi. Aur Bhima aur Arjuna milkar meri poori sena ka ant kar denge." """
             create_image_text_layout(
                 text_content=text2,
                 layout="full"
@@ -7105,7 +7147,20 @@ Ant mein Sanjaya bole,
 
         # Section 5.2.12
         with st.expander("Section 5.2.12  Section LII"):
-            text1 = """ """
+            text1 = """ 
+Section LII – Arjuna Ka Dar
+
+Dhritarashtra ne udaas hokar kaha,
+
+"Yudhishthira kabhi jhooth nahi bolte. Aur jab Arjuna jaise mahaan yoddha unke saath hain, to unhe teenon lokon ka raajya bhi mil sakta hai."
+
+Phir unhone kaha,
+
+"Main har din sochta hoon, lekin mujhe koi aisa yoddha nazar nahi aata jo Arjuna ka saamna kar sake."
+
+"Jab Arjuna apna Gandiva dhanush uthakar baan chalayega, tab uske saamne tikna bahut mushkil hoga."
+
+Dhritarashtra bole,"""
             create_image_text_layout(
                 "attached_assets/chapter5/5.2.12.jpg",
                 text1,
@@ -7113,7 +7168,36 @@ Ant mein Sanjaya bole,
                 image_position="left"
             )
 
-            text2 = """ """
+            text2 = """ 
+"Haan, Dronacharya aur Karna bahut bade yoddha hain. Shayad woh uska saamna kar sakein. Lekin mujhe apni jeet ka bharosa bilkul nahi hai."
+
+"Drona buddhe ho chuke hain aur Arjuna se pyaar bhi karte hain. Karna bahadur hai, lekin Arjuna ka bal aur kaushal alag hi hai."
+
+Unhone aage kaha,
+
+"Mujhe nahi lagta ki koi Arjuna ko hara sakta hai."
+
+"Usne kabhi yuddh mein haar nahi maani. Khandav Van mein usne Devtaon tak ka saamna kiya tha."
+
+Phir Dhritarashtra ne sabse badi baat kahi.
+
+"Arjuna ke rath par Shri Krishna saarathi hain. Gandiva uske haath mein hai. Aur Arjuna khud mahaan yoddha hai."
+
+"Yeh teeno saath hain. Hamare paas inka muqaabla karne wala koi nahi."
+
+Dhritarashtra ne gehri saans lekar kaha,
+
+"Duryodhana aur uske saathi is baat ko samajh hi nahi rahe."
+
+"Mujhe abhi se dikh raha hai ki Arjuna ke baan meri sena ko chaaron taraf se tod denge."
+
+"Mere sainik dar kar bhaagenge aur yuddh ka maidan vinaash se bhar jaayega."
+
+Ant mein Dhritarashtra bole,
+
+"Mujhe bure sanket dikh rahe hain. Har taraf ashubh lakshan nazar aa rahe hain."
+
+"Mera mann keh raha hai ki Kuru vansh ka vinaash ab bahut kareeb aa chuka hai." """
             create_image_text_layout(
                 text_content=text2,
                 layout="full"
@@ -7122,7 +7206,20 @@ Ant mein Sanjaya bole,
 
         # Section 5.2.13
         with st.expander("Section 5.2.13  Section LIII"):
-            text1 = """ """
+            text1 = """ 
+Section LIII – Dhritarashtra Ki Pachtawa Bhari Baat
+
+Dhritarashtra ne udaasi se kaha,
+
+"Pandav sirf veer hi nahi hain. Unke saath ladne wale sabhi raja bhi apni jaan dene ke liye taiyaar hain."
+
+"Krishna unke saath hain. Aur jinke saath Krishna hote hain, unki jeet ki umeed aur badh jaati hai."
+
+Phir unhone Pandavon ke saathiyon ka zikr kiya.
+
+"Satyaki, Dhrishtadyumna, Panchal, Matsya, Kekaya aur bahut se mahaan yoddha unke saath khade hain."
+
+Dhritarashtra bole,"""
             create_image_text_layout(
                 "attached_assets/chapter5/5.2.13.jpg",
                 text1,
@@ -7130,7 +7227,28 @@ Ant mein Sanjaya bole,
                 image_position="left"
             )
 
-            text2 = """ """
+            text2 = """ 
+"Mujhe Bhima aur Arjuna se dar lagta hi hai. Lekin Yudhishthira ka dhairya aur unka dharm bhi utna hi shaktishaali hai."
+
+"Jab ye sab milkar yuddh karenge, to meri sena unke baanon ke jaal se bahar nahi nikal paayegi."
+
+Phir unhone Yudhishthira ki tareef ki.
+
+"Yudhishthira buddhimaan hain, dayaalu hain, dhairyavaan hain aur hamesha sach aur dharm ka saath dete hain."
+
+"Unke paas veer bhai hain, shaktishaali mitra hain aur achhe salahkaar bhi hain."
+
+Dhritarashtra ne dukh ke saath kaha,
+
+"Maine unke saath anyaay kiya. Aaj usi galti ka parinaam saamne khada hai."
+
+"Agar yuddh hua, to mere bete bach nahi paayenge. Kuru vansh ka vinaash nishchit lag raha hai."
+
+Ant mein Dhritarashtra ne kaha,
+
+"Isliye mujhe lagta hai ki humein yuddh nahi, shanti chuni chahiye."
+
+"Yudhishthira dayaalu hain. Agar hum sachche mann se shanti maangen, to mujhe bharosa hai ki woh humein thukraayenge nahi." """
             create_image_text_layout(
                 text_content=text2,
                 layout="full"
@@ -7139,7 +7257,20 @@ Ant mein Sanjaya bole,
 
         # Section 5.2.14
         with st.expander("Section 5.2.14  Section LIV"):
-            text1 = """ """
+            text1 = """ 
+Section LIV – Sanjaya Ne Sach Bata Diya
+
+Sanjaya ne shaant swar mein kaha,
+
+"Maharaj, aap jo keh rahe hain, woh bilkul sach hai."
+
+"Agar yuddh hua, to Arjuna ke Gandiva se bahut bade vinaash ko koi nahi rok sakta."
+
+Phir Sanjaya ne ek kathin baat kahi.
+
+"Lekin mujhe samajh nahi aata. Aap sab kuch jaante hain. Aap Pandavon ki shakti bhi jaante hain. Phir bhi aap apne beton ki galat baat kyun maan rahe hain?"
+
+Unhone yaad dilaya,"""
             create_image_text_layout(
                 "attached_assets/chapter5/5.2.14.jpg",
                 text1,
@@ -7147,7 +7278,36 @@ Ant mein Sanjaya bole,
                 image_position="left"
             )
 
-            text2 = """ """
+            text2 = """ 
+"Jab Pandav paase ke khel mein haar gaye the, tab aap khush hue the."
+
+"Jab unka apmaan kiya gaya, tab bhi aapne unhe nahi roka."
+
+"Us waqt aapne nahi socha ki ek din is anyaay ka parinaam saamne aayega."
+
+Sanjaya ne phir kaha,
+
+"Yeh poora rajya Pandavon ne apni veerta se jeeta tha. Lekin aapne use apna samajh liya."
+
+"Aur jab Duryodhana Gandharvon ke haath pakda gaya tha, tab bhi Arjuna hi usse bacha kar laaye the."
+
+Phir Sanjaya bole,
+
+"Arjuna ka Gandiva sabse mahaan dhanush hai. Shri Krishna sabse mahaan saarathi hain. Aur unka rath ajey hai."
+
+"Inka saamna karna bahut mushkil hai."
+
+Unhone aage kaha,
+
+"Matsya, Panchal aur bahut se raja ab Pandavon ka saath de rahe hain. Kyunki unhe pata hai ki Yudhishthira dharm ke raaste par hain."
+
+Ant mein Sanjaya ne Dhritarashtra ko seedhi baat kahi.
+
+"Is sab ka asli kaaran Duryodhana hai. Uski irshya aur galat faislon ne hi is yuddh ko janam diya hai."
+
+"Vidura aur maine pehle bhi aapko roka tha. Lekin aapne hamari baat nahi maani."
+
+"Ab sirf pachtane se kuch nahi hoga. Agar kuch badalna hai, to abhi bhi sahi faisla lena hoga." """
             create_image_text_layout(
                 text_content=text2,
                 layout="full"
@@ -7156,7 +7316,20 @@ Ant mein Sanjaya bole,
 
         # Section 5.2.15
         with st.expander("Section 5.2.15  Section LV"):
-            text1 = """ """
+            text1 = """ 
+Section LV – Duryodhana Ka Atmavishwas
+
+Dhritarashtra ki baatein sunkar Duryodhana bola,
+
+"Pitashree, chinta mat kijiye. Hum yeh yuddh zaroor jeetenge."
+
+Usne yaad dilaya,
+
+"Jab Pandav vanvaas mein the, tab bhi unke paas Krishna aur bahut se raja aaye the. Sab unhe turant rajya wapas lene ke liye keh rahe the."
+
+"Us samay mujhe bhi dar laga tha. Maine Bhishma, Drona aur Kripacharya se salah maangi."
+
+Duryodhana bola,"""
             create_image_text_layout(
                 "attached_assets/chapter5/5.2.15.jpg",
                 text1,
@@ -7164,7 +7337,40 @@ Ant mein Sanjaya bole,
                 image_position="left"
             )
 
-            text2 = """ """
+            text2 = """ 
+"Un sabne mujhe himmat di. Unhone kaha ki agar yuddh hua, to hum Pandavon ka saamna kar sakte hain."
+
+Phir usne garv se kaha,
+
+"Aaj hamare paas aur bhi badi sena hai. Bahut se raja mere saath hain. Ve mere liye apni jaan dene ko bhi taiyaar hain."
+
+Usne Bhima ko chunauti di.
+
+"Sab Bhima se darte hain. Lekin main nahi darta."
+
+"Maine Balram ji se gada chalana seekha hai. Unhone khud kaha tha ki gada yuddh mein mera koi muqaabla nahi."
+
+"Ek hi vaar mein main Bhima ko gira sakta hoon."
+
+Phir Duryodhana ne apni sena ke mahaan yoddhaon ka naam liya.
+
+"Bhishma, Drona, Kripacharya, Ashwatthama, Karna, Shalya, Jayadratha aur bahut se mahaan yoddha mere saath hain."
+
+"Ye sab milkar Arjuna ko bhi hara denge."
+
+Usne Karna ki bhi tareef ki.
+
+"Karna ke paas divya astra hai. Mujhe poora vishwas hai ki woh Arjuna ko hara dega."
+
+Ant mein Duryodhana ne apna sabse bada tark diya.
+
+"Hamare paas gyarah Akshauhini sena hai. Pandavon ke paas sirf saat Akshauhini hai."
+
+"Hamari sena zyada badi hai. Isliye haarne ka sawaal hi paida nahi hota."
+
+Yeh kehkar Duryodhana phir Sanjaya ki taraf muda aur bola,
+
+"Ab mujhe Pandavon ki aur taiyaari ke baare mein aur batao." """
             create_image_text_layout(
                 text_content=text2,
                 layout="full"
@@ -7173,7 +7379,18 @@ Ant mein Sanjaya bole,
 
         # Section 5.2.16
         with st.expander("Section 5.2.16  Section LVI"):
-            text1 = """ """
+            text1 = """ 
+Section LVI – Pandavon Ka Atmavishwas
+
+Duryodhana ne Sanjaya se poocha,
+
+"Pandavon ke paas sirf saat Akshauhini sena hai. Phir bhi Yudhishthira aur unke saathi itne nishchint kyun hain?"
+
+Sanjaya ne jawab diya,
+
+"Maharaj, Yudhishthira bilkul shaant aur khush hain. Bhima aur Arjuna bhi poore vishwas ke saath yuddh ki taiyaari kar rahe hain. Nakula aur Sahadeva bhi bina kisi dar ke khade hain."
+
+Phir Sanjaya ne Arjuna ke baare mein bataya."""
             create_image_text_layout(
                 "attached_assets/chapter5/5.2.16.jpg",
                 text1,
@@ -7181,7 +7398,38 @@ Ant mein Sanjaya bole,
                 image_position="left"
             )
 
-            text2 = """ """
+            text2 = """ 
+"Arjuna ne apna divya rath taiyaar kiya. Chamakte hue kavach mein woh bijli se ghire baadal ki tarah dikh rahe the."
+
+Arjuna muskurakar bole,
+
+"Sanjaya, in shubh sanketon ko dekho. Humein poora vishwas hai ki jeet hamari hi hogi."
+
+Duryodhana ne phir poocha,
+
+"Achha batao, Arjuna ke rath aur uske ghodon mein aisa kya khaas hai?"
+
+Sanjaya bole,
+
+"Arjuna ka rath divya shilpkar ne Devtaon ki madad se banaya tha."
+
+"Uske dhwaj par Hanuman ji ka chinh hai. Jab rath yuddh mein chalega, to Hanuman ji uski raksha aur utsaah badhaayenge."
+
+"Us rath ke safed ghode bahut tez hain. Unki raftaar mann ki gati jaisi hai. Aur agar ve yuddh mein gir bhi jaayen, to unki sankhya phir se poori ho jaati hai."
+
+Phir Sanjaya ne baaki Pandavon ke rathon ka bhi varnan kiya.
+
+"Yudhishthira ke ghode haathi ke daanton ki tarah safed aur shaant hain."
+
+"Bhima ke ghode hawa ki tarah tez hain."
+
+"Nakula aur Sahadeva ke paas bhi Devtaon ke diye hue bahut shaktishaali ghode hain."
+
+"Abhimanyu aur Draupadi ke putron ke rath bhi divya ghodon se jude hue hain."
+
+Ant mein Sanjaya bole,
+
+"Pandav sirf veer hi nahi hain. Unki taiyaari, unke rath aur unke divya saadhan bhi asadharan hain. Isliye unka atmavishwas itna mazboot hai." """
             create_image_text_layout(
                 text_content=text2,
                 layout="full"
@@ -7190,7 +7438,18 @@ Ant mein Sanjaya bole,
 
         # Section 5.2.17
         with st.expander("Section 5.2.17  Section LVII"):
-            text1 = """ """
+            text1 = """ 
+Section LVII – Yuddh Ki Zimmedaari Baant Di Gayi
+
+Dhritarashtra ne Sanjaya se poocha,
+
+"Pandavon ke saath kaun-kaun raja aa gaye hain? Aur yuddh mein kaun kis se ladega?"
+
+Sanjaya ne kaha,
+
+"Shri Krishna, Satyaki, Chekitana, Drupada, Virata, Dhrishtadyumna, Dhrishtaketu, Kekaya ke paanch bhai aur bahut se mahaan raja Pandavon ke saath aa chuke hain."
+
+"Sabhi apni-apni sena lekar aaye hain aur Yudhishthira ka saath dene ke liye taiyaar hain." """
             create_image_text_layout(
                 "attached_assets/chapter5/5.2.17.jpg",
                 text1,
@@ -7198,7 +7457,60 @@ Ant mein Sanjaya bole,
                 image_position="left"
             )
 
-            text2 = """ """
+            text2 = """ 
+Phir Sanjaya ne bataya ki Pandavon ne yuddh ki zimmedaari baant di hai.
+
+"Shikhandi ka lakshya Bhishma hain."
+
+"Bhima Duryodhana aur uske bhaiyon se ladenge."
+
+"Arjuna Karna aur Jayadratha ka saamna karenge."
+
+"Abhimanyu Duryodhana ke putron se ladega."
+
+"Draupadi ke putra Dronacharya ke saamne jaayenge."
+
+"Satyaki Kritavarma se, Sahadeva Shakuni se aur Nakula Uluka se yuddh karenge."
+
+Sanjaya ne kaha,
+
+"Har yoddha ko uska saamne wala shatru pehle hi bata diya gaya hai. Pandavon ki poori sena soch-samajh kar taiyaar ki gayi hai."
+
+Yeh sunkar Dhritarashtra bahut dukhi ho gaye.
+
+Unhone kaha,
+
+"Mere bete to pehle hi maut ki taraf badh chuke hain."
+
+"Jo Bhima aur Arjuna ka saamna karna chahte hain, woh aag mein koodne wale patangon jaise hain."
+
+"Pandavon ke saath itne mahaan yoddha hain ki unhe haraana bahut mushkil hai."
+
+Lekin Duryodhana phir bhi ghamand se bola,
+
+"Hum bhi kamzor nahi hain. Hamare paas Bhishma, Drona, Karna, Kripacharya, Ashwatthama aur bahut se mahaan yoddha hain."
+
+"Hum Pandavon ko zaroor hara denge."
+
+Dhritarashtra ne sir hila kar kaha,
+
+"Tum sach ko dekhna hi nahi chahte."
+
+Ant mein Sanjaya ne bataya ki Dhrishtadyumna baar-baar Pandavon ka hausla badha rahe the.
+
+Woh kehte the,
+
+"Daro mat. Hum sab milkar Kaurav sena ka saamna karenge."
+
+Yudhishthira ne un par poora bharosa jataya aur kaha,
+
+"Humein aapki veerta par poora vishwas hai. Is yuddh mein humein sahi raasta dikhaiye."
+
+Jaate waqt Dhrishtadyumna ne Sanjaya se ek antim sandesh bheja.
+
+"Jaakar Kauravon se keh do. Agar woh abhi bhi shanti chahte hain, to Yudhishthira ko unka haq ka rajya wapas de dein."
+
+"Warna Arjuna ko koi nahi rok paayega, aur phir yuddh ka vinaash nishchit hoga." """
             create_image_text_layout(
                 text_content=text2,
                 layout="full"
@@ -7207,7 +7519,20 @@ Ant mein Sanjaya bole,
 
         # Section 5.2.18
         with st.expander("Section 5.2.18  Section LVIII"):
-            text1 = """ """
+            text1 = """ 
+Section LVIII – Duryodhana Ka Antim Faisla
+
+Dhritarashtra ne dukh se kaha,
+
+"Yudhishthira bachpan se hi dharm aur anushasan par chale hain. Unse yuddh karna sahi nahi hai."
+
+Phir unhone Duryodhana se kaha,
+
+"Beta, abhi bhi samay hai. Dushmani chhod do. Pandavon ko unka haq ka hissa wapas de do."
+
+"Aadha rajya bhi tumhare liye kaafi hai. Yuddh se kisi ka bhala nahi hoga."
+
+Dhritarashtra ne aage kaha,"""
             create_image_text_layout(
                 "attached_assets/chapter5/5.2.18.jpg",
                 text1,
@@ -7215,7 +7540,42 @@ Ant mein Sanjaya bole,
                 image_position="left"
             )
 
-            text2 = """ """
+            text2 = """ 
+"Bhishma, Drona, Kripacharya, Shalya, Sanjaya aur hamare bahut se mahaan yoddha bhi yuddh nahi chahte."
+
+"Sirf Karna, Dushasana aur Shakuni tumhe is raaste par le ja rahe hain."
+
+Lekin Duryodhana ne ghamand se jawab diya,
+
+"Mujhe kisi ki madad ki zaroorat nahi hai."
+
+"Main, Karna aur Dushasana hi Pandavon ko hara denge."
+
+Phir usne dridh awaaz mein kaha,
+
+"Chahe mujhe apni jaan hi kyun na deni pade, main Pandavon ke saath rajya baantkar nahi rahunga."
+
+"Main unhe sui ki nok jitni zameen bhi nahi dunga."
+
+Yeh sunkar Dhritarashtra ka dil toot gaya.
+
+Unhone kaha,
+
+"Aaj se main tumhari zid se haar maan leta hoon."
+
+"Mujhe tum par nahi, un sab rajaon par daya aa rahi hai jo tumhare saath yuddh mein jaayenge."
+
+Phir unhone bhavishya ki tasveer batayi.
+
+"Bhima tumhari sena ko aandhi ki tarah tod dega."
+
+"Haathi, ghode aur rath sab zameen par gir jaayenge."
+
+"Satyaki aur doosre Pandav yoddha bhi Kaurav sena ko chaaron taraf se hara denge."
+
+Ant mein Dhritarashtra ne ek baar phir kaha,
+
+"Abhi bhi shanti kar lo. Warna jab Bhima tumhari poori sena ko mita dega, tab tumhe meri aaj ki baat zaroor yaad aayegi." """
             create_image_text_layout(
                 text_content=text2,
                 layout="full"
@@ -7224,7 +7584,18 @@ Ant mein Sanjaya bole,
 
         # Section 5.2.19
         with st.expander("Section 5.2.19  Section LIX"):
-            text1 = """ """
+            text1 = """ 
+Section LIX – Krishna Ka Antim Sandesh
+
+Dhritarashtra ne Sanjaya se kaha,
+
+"Mujhe batao, Krishna aur Arjuna ne kya kaha. Main sab kuch sunna chahta hoon."
+
+Sanjaya bole,
+
+"Maharaj, main Krishna aur Arjuna se milne unke shivir gaya."
+
+"Wahan maine dono ko ek saath dekha. Dono bahut shaant, khush aur gehri mitrata se baithe the." """
             create_image_text_layout(
                 "attached_assets/chapter5/5.2.19.jpg",
                 text1,
@@ -7232,7 +7603,46 @@ Ant mein Sanjaya bole,
                 image_position="left"
             )
 
-            text2 = """ """
+            text2 = """ 
+"Unhe dekhkar mujhe aisa laga jaise Narayan aur Indra ek saath baithe hon."
+
+"Usi pal mujhe samajh aa gaya ki Yudhishthira ki jeet ki sambhaavna bahut mazboot hai."
+
+Sanjaya ne Dhritarashtra ka sandesh un tak pahunchaya.
+
+Tab Arjuna ne vinamrata se Krishna ki taraf dekha aur kaha,
+
+"Iska jawab aap dijiye."
+
+Krishna shaant swar mein bole,
+
+"Sanjaya, pehle sabhi buzurgon ko hamara pranam kehna."
+
+Phir unhone kaha,
+
+"Dhritarashtra se kehna ki apne parivaar ke saath samay bitaayein, daan karein aur achhe karm karein."
+
+"Kyunki agar yuddh hua, to bahut bada sankat aane wala hai."
+
+Krishna ki aankhon mein karuna thi.
+
+Unhone kaha,
+
+"Duryodhana ne Arjuna se dushmani karke bahut badi galti ki hai."
+
+"Jiske saath Arjuna aur main dono khade hain, usse koi nahi hara sakta."
+
+"Devta, Asur, Yaksha ya koi bhi mahaan yoddha Arjuna ka saamna nahi kar sakta."
+
+Phir Krishna ne Virat Nagar ka yuddh yaad dilaya.
+
+"Ek baar Arjuna ne akele hi poori Kaurav sena ko hara diya tha. Woh uski shakti ka sabse bada saboot hai."
+
+Krishna ne ant mein kaha,
+
+"Arjuna ki veerta, dhairya aur yuddh kaushal ka koi muqaabla nahi hai."
+
+Yeh sab sunkar Arjuna ne bhi Krishna ki baat se sehmat hote hue apna sandesh dene ki taiyaari ki. """
             create_image_text_layout(
                 text_content=text2,
                 layout="full"
@@ -7241,7 +7651,22 @@ Ant mein Sanjaya bole,
 
         # Section 5.2.20
         with st.expander("Section 5.2.20  Section LX"):
-            text1 = """ """
+            text1 = """ 
+Section LX – Dhritarashtra Ne Sach Maan Liya
+
+Sanjaya ki baatein sunkar Dhritarashtra gehri soch mein doob gaye.
+
+Unhone dono senaon ki taakat aur kamzori ko dhyaan se socha.
+
+Ant mein woh bole,
+
+"Ab mujhe saaf dikh raha hai ki Pandav sirf apni taakat se hi nahi, Devtaon ke aashirvaad se bhi mazboot hain."
+
+Phir unhone Duryodhana se kaha,
+
+"Mujhe din-raat ek hi chinta sataati hai. Mujhe lagta hai ki yeh yuddh Kuru vansh ke liye bahut bhaari padega."
+
+Dhritarashtra ne samjhaya,"""
             create_image_text_layout(
                 "attached_assets/chapter5/5.2.20.jpg",
                 text1,
@@ -7249,7 +7674,34 @@ Ant mein Sanjaya bole,
                 image_position="left"
             )
 
-            text2 = """ """
+            text2 = """ 
+"Jo kisi ka bhala karta hai, use zaroor madad milti hai."
+
+"Arjuna ne Khandav Van mein Agni Dev ki madad ki thi. Isliye Agni Dev bhi uska saath denge."
+
+"Pandav hamesha dharm ke raaste par chale hain. Isliye Devta bhi unki raksha karenge."
+
+Phir unhone Arjuna ki shakti ka varnan kiya.
+
+"Uske paas divya Gandiva dhanush hai."
+
+"Uske baan kabhi khatam nahi hote."
+
+"Uske rath par Hanuman ji ka dhwaj hai. Aur uska rath kisi se kam nahi."
+
+"Arjuna pal bhar mein saikdon baan chala sakta hai. Bahut bade-bade yoddha bhi uska saamna mushkil se kar sakte hain."
+
+Dhritarashtra ne dukh se kaha,
+
+"Main roz sochta hoon ki agar yuddh hua, to Arjuna hamari sena mein bahut bada vinaash karega."
+
+Ant mein unhone ek baar phir apni ichchha batayi.
+
+"Main yuddh nahi chahta."
+
+"Main chahta hoon ki Pandavon se shanti ho jaaye."
+
+"Sach kahoon, to mujhe hamesha se lagta hai ki Pandav Kauravon se zyada shaktishaali hain." """
             create_image_text_layout(
                 text_content=text2,
                 layout="full"
