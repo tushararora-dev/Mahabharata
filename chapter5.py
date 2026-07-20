@@ -8434,7 +8434,18 @@ Ant mein Dhritarashtra bole,
 
         # Section 5.3.1
         with st.expander("Section 5.3.1  Section LXXII"):
-            text1 = """ """
+            text1 = """ 
+Section LXXII – Yudhishthira Ki Shanti Ki Ichchha
+
+Janamejaya ne poochha,
+
+"Jab Sanjaya wapas Kauravon ke paas chale gaye, tab Pandavon ne kya kiya?"
+
+Vaisampayana bole,
+
+Sanjaya ke jaane ke baad Yudhishthira ne Shri Krishna se kaha,
+
+"Madhav, ab woh samay aa gaya hai jab ek sachcha dost apne mitra ka saath deta hai." """
             create_image_text_layout(
                 "attached_assets/chapter5/5.3.1.jpg",
                 text1,
@@ -8442,7 +8453,78 @@ Ant mein Dhritarashtra bole,
                 image_position="left"
             )
 
-            text2 = """ """
+            text2 = """ "Is mushkil samay mein humein bachane wale aapke siwa koi nahi hai."
+
+"Humne sirf apna haq maanga tha, lekin Duryodhana aur uske saathi ghamand mein andhe ho gaye hain."
+
+Phir Yudhishthira ne dukh se kaha,
+
+"Humne apna vaada nibhaya."
+
+"Humne 12 saal vanvaas aur 1 saal agyaatvaas poora kiya."
+
+"Lekin Dhritarashtra aur Duryodhana apna vaada nibhaana nahi chahte."
+
+"Humne to sirf paanch gaon maange the, taaki bina yuddh ke sab shaanti se reh sakein."
+
+"Lekin Duryodhana woh bhi dene ko taiyaar nahi hai."
+
+Yudhishthira ne aage kaha,
+
+"Lalach insaan ki buddhi ko khatam kar deta hai."
+
+"Jab buddhi chali jaati hai, to sharm, dharm aur samriddhi sab chhin jaate hain."
+
+"Garibi sirf paison ki kami nahi hoti. Woh insaan ka maan-sammaan bhi chheen leti hai."
+
+Phir unhone kaha,
+
+"Hum apna rajya chhodna nahi chahte, lekin hum apne hi rishtedaaron ka vinaash bhi nahi chahte."
+
+"Yuddh mein jeetne wala bhi dukhi hota hai aur haarne wala bhi."
+
+"Dushmani kabhi dushmani se khatam nahi hoti. Woh aur badhti hai."
+
+"Isliye hum pehle har tareeke se shanti ki koshish karna chahte hain."
+
+Phir Yudhishthira ne Shri Krishna se poochha,
+
+"Aap hi bataaiye, is samay sabse sahi raasta kya hai?"
+
+"Hum apna dharm bhi bachaana chahte hain aur apna adhikaar bhi."
+
+Shri Krishna ne shaant swar mein kaha,
+
+"Main khud Kauravon ki sabha mein jaaunga."
+
+"Main poori koshish karunga ki bina yuddh ke shanti ho jaaye."
+
+"Agar shanti ho gayi, to dono vansh bach jaayenge aur yeh sabse bada punya hoga."
+
+Lekin Yudhishthira ne chinta se kaha,
+
+"Mujhe darr hai ki Duryodhana aapki baat bhi nahi maanega."
+
+"Agar kisi ne aapko nuksaan pahunchane ki koshish ki, to humein duniya ki koi jeet khushi nahi de sakti."
+
+Shri Krishna muskuraye aur bole,
+
+"Main Duryodhana ko achhi tarah jaanta hoon."
+
+"Lekin agar main shanti ki koshish nahi karunga, to log kahenge ki humne yuddh rokne ki poori koshish hi nahi ki."
+
+"Aur agar kisi ne mujhe nuksaan pahunchane ki himmat ki, to main akela hi poore Kauravon ka ant kar sakta hoon."
+
+"Isliye mera wahan jaana zaroori hai."
+
+Yeh sunkar Yudhishthira bole,
+
+"Krishna, humein aap par poora bharosa hai."
+
+"Aap hamare sabse bade mitra aur maargdarshak hain."
+
+"Jaaiye, aur aisi baat kijiye ki agar sambhav ho, to poora Bharat bina yuddh ke shanti se jee sake."
+::: """
             create_image_text_layout(
                 text_content=text2,
                 layout="full"
@@ -8451,7 +8533,17 @@ Ant mein Dhritarashtra bole,
 
         # Section 5.3.2
         with st.expander("Section 5.3.2  Section LXXIII"):
-            text1 = """ """
+            text1 = """ Section LXXIII – Krishna Ka Faisla Aur Yuddh Ki Taiyaari
+
+Shri Krishna ne Yudhishthira se kaha,
+
+"Maine Sanjaya ki baat bhi suni aur tumhari bhi."
+
+"Main jaanta hoon ki tum hamesha dharm aur shanti ka raasta chahte ho."
+
+"Lekin Duryodhana aur uske saathi sirf dushmani aur lalach mein doobe hue hain."
+
+Krishna ne aage kaha,"""
             create_image_text_layout(
                 "attached_assets/chapter5/5.3.2.jpg",
                 text1,
@@ -8459,7 +8551,66 @@ Ant mein Dhritarashtra bole,
                 image_position="left"
             )
 
-            text2 = """ """
+            text2 = """ "Agar bina yuddh ke adhikaar mil jaaye, to usse achhi baat koi nahi."
+
+"Lekin ek Kshatriya ka kartavya hai ki zaroorat padne par anyaay ke khilaaf lade."
+
+"Yuddh se darr kar peeche hatna Kshatriya ka dharm nahi hai."
+
+Phir Krishna ne Duryodhana ke baare mein kaha,
+
+"Duryodhana bahut samay se apni sena aur mitron ko mazboot bana raha hai."
+
+"Usse Bhishma, Drona aur Kripacharya jaise mahaan yoddhaon ka sahaara hone ka ghamand hai."
+
+"Jab tak tum sirf daya aur shanti ki baat karte rahoge, woh tumhara rajya kabhi wapas nahi karega."
+
+Krishna ne Yudhishthira ko purani baatein yaad dilayi.
+
+"Yaad karo, tumhe dhokhe se juye mein haraaya gaya tha."
+
+"Tumhe vanvaas bheja gaya."
+
+"Sabha mein Dushasana ne Draupadi ka apmaan kiya."
+
+"Us samay bhi Duryodhana ko apni galti par zara bhi sharm nahi aayi."
+
+"Itne anyaay ke baad bhi tumne badla nahi liya aur dharm ka paalan kiya."
+
+Krishna bole,
+
+"Ab Duryodhana apne paapon ki saza paane ke yogya hai."
+
+"Lekin phir bhi main pehle shanti ki poori koshish karunga."
+
+"Main sab rajaon ke saamne tumhare achhe gun bataunga aur Duryodhana ke bure karm bhi sabke saamne rakhunga."
+
+"Tab sabko sachchai ka pata chal jaayega."
+
+Krishna ne aage kaha,
+
+"Agar uske baad bhi Duryodhana nahi maana, to duniya samajh jaayegi ki yuddh ki zimmedaari sirf uski hai."
+
+Phir Krishna ne gambhir swar mein kaha,
+
+"Mujhe lagta hai ki yuddh lagbhag nishchit hai."
+
+"Prakriti bhi bure sanket de rahi hai."
+
+"Pashu-pakshi ajeeb awaazein nikaal rahe hain."
+
+"Haathi, ghode aur agni bhi ashubh sanket dikha rahe hain."
+
+"Yeh sab bata rahe hain ki ek bahut bada vinaash aane wala hai."
+
+Ant mein Krishna ne kaha,
+
+"Isliye shanti ki koshish bhi karo aur saath hi yuddh ki taiyaari bhi poori rakho."
+
+"Apne hathiyaar, rath, haathi, ghode aur sena sab taiyaar rakho."
+
+"Jab tak Duryodhana zinda aur ghamandi hai, woh tumhara rajya kabhi wapas nahi karega."
+::: """
             create_image_text_layout(
                 text_content=text2,
                 layout="full"
@@ -8468,7 +8619,20 @@ Ant mein Dhritarashtra bole,
 
         # Section 5.3.3
         with st.expander("Section 5.3.3  Section LXXIV"):
-            text1 = """ """
+            text1 = """ 
+Section LXXIV – Bhima Bhi Pehle Shanti Chahta Tha
+
+Bhima ne Shri Krishna se kaha,
+
+"Krishna, jab aap Kauravon ke paas jaayein, to pehle shanti ki baat hi kijiye."
+
+"Unhe yuddh ki dhamki mat dijiye."
+
+Phir Bhima ne Duryodhana ke swabhaav ka varnan kiya.
+
+"Duryodhana bahut ghamandi, lalchi aur gusse wala hai."
+
+"Woh kisi ki achhi salaah nahi maanta." """
             create_image_text_layout(
                 "attached_assets/chapter5/5.3.3.jpg",
                 text1,
@@ -8476,7 +8640,50 @@ Ant mein Dhritarashtra bole,
                 image_position="left"
             )
 
-            text2 = """ """
+            text2 = """ "Uska swabhaav dhokebaaz hai aur woh apni zid kabhi nahi chhodta."
+
+"Usse shanti ke liye manaana bahut mushkil hai."
+
+Bhima ne aage kaha,
+
+"Aap uski taakat aur uski sena ko achhi tarah jaante hain."
+
+"Lekin main sabse zyada is baat se dukhi hoon ki uski zid ki wajah se poora Kuru vansh barbaad ho sakta hai."
+
+Phir Bhima ne purane itihaas ka udaaharan diya.
+
+"Har yug ke ant mein kuch bure log paida hote hain jo apne hi parivaar ka vinaash kar dete hain."
+
+"Mujhe lagta hai Duryodhana bhi unhi logon jaisa hai."
+
+"Woh apne hi vansh ke vinaash ka kaaran banega."
+
+Iske baad Bhima ne Shri Krishna se vinati ki,
+
+"Isliye usse pyaar aur shaanti se samjhaiye."
+
+"Kadve shabd mat boliyega."
+
+"Aise shabd boliyega jo uske dil ko chhoo sakein aur shayad uska mann badal jaaye."
+
+Bhima ne apni sabse badi ichchha batai.
+
+"Agar zaroorat pade, to hum apmaan seh lenge."
+
+"Hum Duryodhana ke adheen rehna bhi bardaasht kar lenge."
+
+"Lekin hum nahi chahte ki poora Bharata vansh yuddh mein khatam ho jaaye."
+
+Ant mein Bhima ne kaha,
+
+"Bhishma, Dronacharya aur Kauravon ke sabhi buzurg bhi milkar Duryodhana ko samjhaayein."
+
+"Agar bhaiyon ke beech phir se prem ho jaaye, to wahi sabse achha hoga."
+
+"Yudhishthira bhi yahi chahte hain aur Arjuna bhi yuddh se bachna chahta hai."
+
+"Hum sab pehle shanti chahte hain. Yuddh sirf tab hoga jab koi aur raasta nahi bachega."
+::: """
             create_image_text_layout(
                 text_content=text2,
                 layout="full"
@@ -8485,7 +8692,17 @@ Ant mein Dhritarashtra bole,
 
         # Section 5.3.4
         with st.expander("Section 5.3.4  Section LXXV"):
-            text1 = """ """
+            text1 = """ Section LXXV – Krishna Ne Bhima Ko Yaad Dilaya Uska Sankalp
+
+Vaisampayana bole,
+
+Jab Shri Krishna ne Bhima ki itni shaant baatein suni, to unhe bahut aashcharya hua.
+
+"Yeh bilkul aisa tha jaise pahaad halka ho jaaye ya aag thandi ho jaaye."
+
+Krishna muskuraaye aur Bhima ko utsaahit karte hue bole,
+
+"Bhima, tum to hamesha yuddh ki baat karte the." """
             create_image_text_layout(
                 "attached_assets/chapter5/5.3.4.jpg",
                 text1,
@@ -8493,7 +8710,50 @@ Ant mein Dhritarashtra bole,
                 image_position="left"
             )
 
-            text2 = """ """
+            text2 = """ "Tum din-raat Duryodhana ko haraane ka sankalp lete the."
+
+"Raaton ko bhi tumhe chain ki neend nahi aati thi."
+
+"Kabhi gusse mein gehri saanse lete the, kabhi akela baithkar sochte rehte the."
+
+"Kabhi zor se haste the aur kabhi ghanton tak chup-chaap baithe rehte the."
+
+"Kabhi apne hoth daba kar aur bhawein chadha kar saamne dekhte rehte the."
+
+Krishna bole,
+
+"Yeh sab tumhare andar jal rahe krodh ki nishaniyan thi."
+
+Phir Krishna ne Bhima ko uski purani pratigya yaad dilayi.
+
+"Ek din tumne apni gada utha kar sabke saamne kasam khaayi thi."
+
+"Tumne kaha tha ki jaise Surya har din ugta aur dhalta hai, waise hi main apni gada se Duryodhana ka vadh zaroor karunga."
+
+"Tumne kaha tha ki yeh pratigya kabhi jhoothi nahi hogi."
+
+Krishna ne phir poochha,
+
+"Ab achanak tum shanti ki baat kyun kar rahe ho?"
+
+"Kya yuddh paas aane ki wajah se tumhare mann mein darr aa gaya hai?"
+
+"Yeh tumhare swabhaav jaisa bilkul nahi lagta."
+
+Krishna ne Bhima ko aur himmat dete hue kaha,
+
+"Apni shakti aur apni veerta ko yaad karo."
+
+"Tum ek mahaan Kshatriya ho."
+
+"Dukh ya nirasha ke saamne kamzor mat padho."
+
+Ant mein Krishna bole,
+
+"Ek Kshatriya ko wahi adhikaar milta hai jo woh apni veerta aur parishram se jeetta hai."
+
+"Isliye mazboot bano, apna hausla wapas lao aur apne kartavya ke liye taiyaar ho jao."
+::: """
             create_image_text_layout(
                 text_content=text2,
                 layout="full"
@@ -8502,7 +8762,23 @@ Ant mein Dhritarashtra bole,
 
         # Section 5.3.5
         with st.expander("Section 5.3.5  Section LXXVI"):
-            text1 = """ """
+            text1 = """ Section LXXVI – Bhima Ne Apni Asli Shakti Dikhayi
+
+Vaisampayana bole,
+
+Shri Krishna ki baat sunkar Bhima turant uth khade hue.
+
+"Unka purana josh aur veerta phir se jaag uthi."
+
+Bhima ne Shri Krishna se kaha,
+
+"Krishna, aapne meri baat ka galat matlab samajh liya."
+
+"Main yuddh se darr kar shanti ki baat nahi kar raha tha."
+
+"Main sirf isliye shanti chahta hoon taaki hamara Kuru vansh barbaad na ho."
+
+Bhima ne aage kaha, """
             create_image_text_layout(
                 "attached_assets/chapter5/5.3.5.jpg",
                 text1,
@@ -8510,7 +8786,40 @@ Ant mein Dhritarashtra bole,
                 image_position="left"
             )
 
-            text2 = """ """
+            text2 = """ "Aap to mujhe bahut achhi tarah jaante hain."
+
+"Agar koi aur mujhe aisi baat kehta, to mujhe itna dukh nahi hota."
+
+"Lekin aapse yeh baatein sunkar mujhe bahut chot pahunchi hai."
+
+Phir Bhima ne apni shakti ka varnan kiya.
+
+"Agar gusse mein aasman aur dharti ek doosre se takraane lagen, to main apni baahon se unhe alag rakh sakta hoon."
+
+"Jo ek baar meri baahon ki pakad mein aa gaya, uska bachkar nikalna lagbhag namumkin hai."
+
+"Himalaya, samundar aur Indra bhi milkar meri pakad se kisi ko nahi chhuda sakte."
+
+Bhima ne garv se kaha,
+
+"Yuddh mein jo bhi mere saamne aayega, main use hara doonga."
+
+"Agar aapne meri asli shakti nahi dekhi hai, to yuddh ke din dekh lena."
+
+"Tab aap dekhoge ki main haathiyon, ghodon, rathon aur bade-bade yoddhaon ko kaise dhool chataata hoon."
+
+Bhima ne ant mein kaha,
+
+"Mere shareer ki taakat abhi bhi pehle jaisi hi hai."
+
+"Mere dil mein darr ka naam bhi nahi hai."
+
+"Chahe poori duniya mere khilaaf khadi ho jaaye, main peeche nahi hatunga."
+
+"Main sirf daya aur apne Kuru vansh ko bachane ki ichchha se shanti ki baat kar raha tha."
+
+"Main itne saalon se saare apmaan sirf isliye seh raha hoon taaki hamara poora vansh vinaash se bach sake."
+::: """
             create_image_text_layout(
                 text_content=text2,
                 layout="full"
@@ -8519,7 +8828,20 @@ Ant mein Dhritarashtra bole,
 
         # Section 5.3.6
         with st.expander("Section 5.3.6  Section LXXVII"):
-            text1 = """ """
+            text1 = """ 
+Section LXXVII – Krishna Ne Bhima Ka Hausla Aur Badhaya
+
+Shri Krishna ne Bhima se kaha,
+
+"Bhima, maine jo kuch kaha tha, woh sirf tumhare prati prem aur apnapan ki wajah se kaha tha."
+
+"Mera iraada tumhari ninda karna ya tumhe neecha dikhana bilkul nahi tha."
+
+"Main tumhari taakat, tumhari veerta aur tumhare mahaan swabhaav ko achhi tarah jaanta hoon."
+
+"Pandavon ki jeet mein tumhara yogdaan tumhare soch se bhi kahin zyada hoga."
+
+Krishna ne aage kaha,"""
             create_image_text_layout(
                 "attached_assets/chapter5/5.3.6.jpg",
                 text1,
@@ -8527,7 +8849,53 @@ Ant mein Dhritarashtra bole,
                 image_position="left"
             )
 
-            text2 = """ """
+            text2 = """ 
+"Tum ek mahaan Kshatriya ho aur apne kul ka naam roshan karte ho."
+
+"Lekin is duniya mein har kaam ka parinaam pehle se pakka nahi hota."
+
+"Kabhi jis kaam se safalta milti hai, wahi baad mein asafalta ka kaaran bhi ban jaata hai."
+
+"Isliye sirf parinaam ke baare mein sochkar faisla nahi karna chahiye."
+
+Phir Krishna ne samjhaya,
+
+"Insaan ko hamesha apna kartavya karna chahiye."
+
+"Safalta sirf mehnat se nahi aur sirf bhaagya se bhi nahi milti."
+
+"Jeet ke liye mehnat aur bhaagya, dono ka saath hona zaroori hai."
+
+"Jo insaan is baat ko samajhkar kaam karta hai, woh na jeet par zyada ghamand karta hai aur na haar se toot jaata hai."
+
+Krishna bole,
+
+"Main tumhe yahi baat samjhaana chahta tha."
+
+"Mera matlab yeh nahi tha ki tum yuddh se darr gaye ho."
+
+"Main sirf tumhara hausla aur bhi mazboot karna chahta tha."
+
+Phir Krishna ne apni yojana batayi.
+
+"Kal main Dhritarashtra ki sabha mein jaaunga."
+
+"Main poori koshish karunga ki tumhare adhikaar ko bina chhode shanti ho jaaye."
+
+"Agar Kaurav meri baat maan gaye, to sabka bhala hoga aur mujhe bhi bahut khushi hogi."
+
+"Lekin agar woh nahi maane, to yuddh nishchit hai."
+
+Ant mein Krishna ne kaha,
+
+"Us yuddh ka sabse bada bojh tum aur Arjuna uthaaoge."
+
+"Baaki saare yoddha tum dono ke netritva mein ladenge."
+
+"Aur main Arjuna ke rath ka saarathi banunga."
+
+"Isiliye maine tumhari soyi hui veerta ko phir se jagaaya hai, taaki jab samay aaye, tum poori shakti ke saath dharm ke liye lad sako."
+:::"""
             create_image_text_layout(
                 text_content=text2,
                 layout="full"
@@ -8536,7 +8904,20 @@ Ant mein Dhritarashtra bole,
 
         # Section 5.3.7
         with st.expander("Section 5.3.7  Section LXXVIII"):
-            text1 = """ """
+            text1 = """ 
+Section LXXVIII – Arjuna Ka Krishna Par Poora Bharosa
+
+Arjuna ne Shri Krishna se kaha,
+
+"Krishna, Yudhishthira ne jo kehna tha, woh pehle hi keh diya hai."
+
+"Aapki baaton se mujhe lagta hai ki aap bhi samajhte hain ki Duryodhana ki lalach ki wajah se shanti aasaan nahi hogi."
+
+"Lekin koi bhi kaam asambhav nahi hota."
+
+"Agar sahi tareeke se baat ki jaaye, to shayad shanti ho sakti hai."
+
+Arjuna ne vinati karte hue kaha,"""
             create_image_text_layout(
                 "attached_assets/chapter5/5.3.7.jpg",
                 text1,
@@ -8544,7 +8925,44 @@ Ant mein Dhritarashtra bole,
                 image_position="left"
             )
 
-            text2 = """ """
+            text2 = """ 
+"Isliye aap poori koshish kijiye ki Kaurav aur Pandav ke beech shanti ho jaaye."
+
+"Aap dono parivaaron ke sabse bade hitkari aur sachche mitra hain."
+
+"Jo dono ka bhala ho, wahi kijiye."
+
+Phir Arjuna bole,
+
+"Mujhe poora vishwas hai ki agar aap chahein, to yeh kaam ho sakta hai."
+
+"Aur agar aap yuddh ko hi sahi samjhein, to hum bhi uske liye taiyaar hain."
+
+"Aap jo faisla karenge, hum use poori tarah sweekar karenge."
+
+Arjuna ne Duryodhana ke anyaay ko yaad kiya.
+
+"Usne sirf jalan aur lalach ki wajah se humein dhokhe se juye mein hara kar hamara rajya chheen liya."
+
+"Ek Kshatriya ke liye yuddh se bhaagna uchit nahi hota."
+
+"Jab humein vanvaas bheja gaya tha, tabhi mujhe laga tha ki Duryodhana apni maut ka haqdaar ban chuka hai."
+
+Phir Arjuna ne Draupadi ke apmaan ko yaad karte hue kaha,
+
+"Hum sabne apni aankhon ke saamne Draupadi ka apmaan dekha."
+
+"Phir bhi humne dhairya aur dharm ka paalan kiya."
+
+"Aise Duryodhana se nyaay ki umeed mujhe bilkul nahi hai."
+
+"Us par achhi salaah ka koi asar nahi hoga, bilkul us beej ki tarah jo banjar zameen par boya jaaye."
+
+Ant mein Arjuna bole,
+
+"Isliye, Krishna, jo aapko Pandavon ke hit mein sahi lage, wahi kijiye."
+
+"Chahe shanti ka raasta ho ya yuddh ka, humein aapke faisle par poora bharosa hai." """
             create_image_text_layout(
                 text_content=text2,
                 layout="full"
@@ -8553,7 +8971,18 @@ Ant mein Dhritarashtra bole,
 
         # Section 5.3.8
         with st.expander("Section 5.3.8  Section LXXIX"):
-            text1 = """ """
+            text1 = """ 
+Section LXXIX – Krishna Ko Yuddh Ka Andesha Tha
+
+Shri Krishna ne Arjuna se kaha,
+
+"Pandavon, main wahi karunga jo tum sabke hit mein hoga."
+
+"Main poori koshish karunga ki Pandav aur Kaurav ke beech shanti ho jaaye."
+
+"Jitna insaan ke bas mein hai, utna main zaroor karunga."
+
+Phir Krishna ne ek udaaharan diya."""
             create_image_text_layout(
                 "attached_assets/chapter5/5.3.8.jpg",
                 text1,
@@ -8561,7 +8990,56 @@ Ant mein Dhritarashtra bole,
                 image_position="left"
             )
 
-            text2 = """ """
+            text2 = """ "Kisaan khet ko taiyaar kar sakta hai, ghaas hata sakta hai aur mehnat kar sakta hai."
+
+"Lekin agar baarish hi na ho, to fasal nahi ugti."
+
+"Isi tarah safalta ke liye sirf mehnat hi nahi, balki bhaagya ka saath bhi zaroori hota hai."
+
+"Main apni taraf se poori mehnat karunga, lekin jo Bhagwan ki ichchha hogi, usse main bhi nahi badal sakta."
+
+Phir Krishna ne Duryodhana ke baare mein kaha,
+
+"Duryodhana dharm ki baat nahi maanta."
+
+"Uske bure vichaaron ko Shakuni, Karna aur Dushasana aur bhi badhaava dete hain."
+
+"Jab tak woh aur uska ghamand zinda hai, woh kabhi apni marzi se rajya wapas nahi karega."
+
+Krishna ne aage kaha,
+
+"Yudhishthira bhi bina nyaay ke apna rajya chhodna nahi chahte."
+
+"Aur Duryodhana bhi bina yuddh ke kuch dene ko taiyaar nahi hai."
+
+"Isliye mujhe nahi lagta ki sirf sandesh dekar shanti ho jaayegi."
+
+Phir Krishna bole,
+
+"Duryodhana ne bachpan se hi tum sabko dukh diya hai."
+
+"Usne tumhara rajya cheena aur hamesha tumse jalan rakhi."
+
+"Usne kai baar mujhe bhi tumse alag karne ki koshish ki, lekin woh kabhi safal nahi hua."
+
+Krishna ne Arjuna ko samjhaya,
+
+"Tum jaante ho ki main hamesha Yudhishthira aur dharm ke paksh mein hoon."
+
+"Phir tum mere baare mein chinta kyun karte ho?"
+
+Ant mein Krishna ne kaha,
+
+"Main phir bhi shanti ki poori koshish karunga."
+
+"Lekin sach yeh hai ki mujhe yuddh hi zyada sambhav lagta hai."
+
+"Bhishma ne bhi pehle Duryodhana ko shanti ki salaah di thi, lekin usne tab bhi nahi maani."
+
+"Woh to ek chhota sa hissa bhi dene ko taiyaar nahi hai."
+
+"Phir bhi, Yudhishthira ki aagya ka paalan karte hue main aakhri baar shanti ka prayaas zaroor karunga."
+::: """
             create_image_text_layout(
                 text_content=text2,
                 layout="full"
@@ -8570,7 +9048,22 @@ Ant mein Dhritarashtra bole,
 
         # Section 5.3.9
         with st.expander("Section 5.3.9  Section LXXX"):
-            text1 = """ """
+            text1 = """ 
+Section LXXX – Nakula Ki Soch
+
+Nakula ne Shri Krishna se kaha,
+
+"Madhav, Yudhishthira ne apni baat keh di hai aur Arjuna ne bhi apni raay bata di hai."
+
+"Meri soch bhi lagbhag wahi hai jo aap pehle hi samajh chuke hain."
+
+"Sabse pehle Kauravon ki baat suniye."
+
+"Uske baad jo us samay sabse sahi lage, wahi kijiye."
+
+Nakula ne aage kaha,
+
+"Har samay ek hi faisla sahi nahi hota." """
             create_image_text_layout(
                 "attached_assets/chapter5/5.3.9.jpg",
                 text1,
@@ -8578,7 +9071,46 @@ Ant mein Dhritarashtra bole,
                 image_position="left"
             )
 
-            text2 = """ """
+            text2 = """ 
+"Samay badalta hai, to faisle bhi badalne padte hain."
+
+"Jab hum vanvaas mein the, tab hamari soch alag thi."
+
+"Jab hum agyaatvaas mein the, tab hamari ichchha kuch aur thi."
+
+"Aur ab jab woh sab khatam ho gaya hai, to paristhiti bhi badal chuki hai."
+
+"Ab humein apna rajya wapas paana hai."
+
+Phir Nakula ne Pandavon ki taakat batayi.
+
+"Aapki kripa se hamare paas saat Akshauhini sena taiyaar khadi hai."
+
+"Itne shaktishaali yoddhaon ko dekhkar koi bhi dushman dar jaayega."
+
+Nakula bole,
+
+"Jab aap Kauravon ke paas jaayein, to pehle pyaar aur shaanti ki baat kijiye."
+
+"Lekin agar zaroorat pade, to unhe hamari taakat ka ehsaas bhi kara dijiye."
+
+"Duryodhana ko samajh aa jaana chahiye ki agar yuddh hua, to uske liye jeetna namumkin hoga."
+
+Phir Nakula ne Pandavon aur unke saathiyon ka naam liya.
+
+"Yudhishthira, Bhima, Arjuna, Sahadeva, main, aap, Balrama, Satyaki, Raja Virata, Raja Drupada, Dhrishtadyumna, Kashi ke Raja aur Dhrishtaketu jaise mahaan yoddha hamare saath hain."
+
+"In sabka saamna karna kisi bhi raja ke liye bahut kathin hoga."
+
+Ant mein Nakula bole,
+
+"Mujhe poora vishwas hai ki jaise hi aap Kauravon ki sabha mein jaayenge, Yudhishthira ka uddeshya zaroor poora hoga."
+
+"Vidura, Bhishma, Dronacharya aur doosre buddhimaan buzurg aapki baat ko samajh jaayenge."
+
+"Woh Dhritarashtra aur Duryodhana ko bhi samjhaane ki poori koshish karenge."
+
+"Aur jab bolne wale aap hon aur sunne wale Vidura jaise gyani hon, to har kathin baat bhi aasaan ban sakti hai." """
             create_image_text_layout(
                 text_content=text2,
                 layout="full"
@@ -8595,14 +9127,52 @@ Ant mein Dhritarashtra bole,
                 image_position="left"
             )
 
-            text2 = """ """
+            text2 = """ 
+Section LXXXI – Sahadeva Aur Satyaki Ka Yuddh Ka Sankalp
+
+Sahadeva ne Shri Krishna se kaha,
+
+"Yudhishthira Maharaj ne dharm ki baat kahi hai, aur woh bilkul sahi hai."
+
+"Lekin meri ichchha kuch aur hai."
+
+"Main chahta hoon ki yuddh zaroor ho."
+
+"Chahe Kaurav shanti ki baat bhi karein, phir bhi Duryodhana ko uske paapon ki saza milni chahiye."
+
+Phir Sahadeva ne kaha, """
             create_image_text_layout(
                 text_content=text2,
                 layout="full"
             )
                 # Section 5.3.11
         with st.expander("Section 5.3.11  Section LXXXII"):
-            text1 = """ """
+            text1 = """ 
+"Jab maine Draupadi ka sabha mein hua apmaan dekha tha, tab se mera gussa shaant nahi hua hai."
+
+"Jab tak Duryodhana ka ant nahi hoga, tab tak mera krodh khatam nahi hoga."
+
+"Agar Bhima, Arjuna aur Yudhishthira dharm ke liye shanti chahte hain, to bhi main Duryodhana ke khilaaf yuddh hi chahta hoon."
+
+Uske baad Satyaki bole,
+
+"Sahadeva ne bilkul sach kaha hai."
+
+"Mera gussa bhi sirf Duryodhana ki maut se hi shaant hoga."
+
+"Krishna, kya aap bhool gaye hain ki vanvaas ke dauraan Pandavon ki haalat dekhkar aapko bhi kitna krodh aaya tha?"
+
+"Isliye yahan maujood sabhi yoddha Sahadeva ki baat se sehmat hain."
+
+Vaisampayana bole,
+
+Satyaki ki baat sunte hi sabhi veer yoddha zor se garajne lage.
+
+"Bahut achha! Bahut achha!" kehkar sabne Satyaki ki baat ka samarthan kiya.
+
+Sabke chehron par utsaah tha.
+
+"Ab sabhi yoddha yuddh ke liye poori tarah taiyaar aur utsuk ho gaye the." """
             create_image_text_layout(
                 "attached_assets/chapter5/5.3.11.jpg",
                 text1,
