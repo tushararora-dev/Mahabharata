@@ -9119,16 +9119,8 @@ Ant mein Nakula bole,
 
         # Section 5.3.10
         with st.expander("Section 5.3.10  Section LXXXI"):
-            text1 = """ """
-            create_image_text_layout(
-                "attached_assets/chapter5/5.3.10.jpg",
-                text1,
-                layout="side",
-                image_position="left"
-            )
-
-            text2 = """ 
-Section LXXXI – Sahadeva Aur Satyaki Ka Yuddh Ka Sankalp
+            text1 = """ 
+            Section LXXXI – Sahadeva Aur Satyaki Ka Yuddh Ka Sankalp
 
 Sahadeva ne Shri Krishna se kaha,
 
@@ -9140,15 +9132,16 @@ Sahadeva ne Shri Krishna se kaha,
 
 "Chahe Kaurav shanti ki baat bhi karein, phir bhi Duryodhana ko uske paapon ki saza milni chahiye."
 
-Phir Sahadeva ne kaha, """
+Phir Sahadeva ne kaha,"""
             create_image_text_layout(
-                text_content=text2,
-                layout="full"
+                "attached_assets/chapter5/5.3.10.jpg",
+                text1,
+                layout="side",
+                image_position="left"
             )
-                # Section 5.3.11
-        with st.expander("Section 5.3.11  Section LXXXII"):
-            text1 = """ 
-"Jab maine Draupadi ka sabha mein hua apmaan dekha tha, tab se mera gussa shaant nahi hua hai."
+
+            text2 = """ 
+ "Jab maine Draupadi ka sabha mein hua apmaan dekha tha, tab se mera gussa shaant nahi hua hai."
 
 "Jab tak Duryodhana ka ant nahi hoga, tab tak mera krodh khatam nahi hoga."
 
@@ -9174,13 +9167,110 @@ Sabke chehron par utsaah tha.
 
 "Ab sabhi yoddha yuddh ke liye poori tarah taiyaar aur utsuk ho gaye the." """
             create_image_text_layout(
+                text_content=text2,
+                layout="full"
+            )
+                # Section 5.3.11
+        with st.expander("Section 5.3.11  Section LXXXII"):
+            text1 = """ 
+ection LXXXII – Draupadi Ka Dard Aur Krishna Ka Vachan
+
+Vaisampayana bole,
+
+Jab sab log shanti aur yuddh ki baat kar rahe the, tab Draupadi chup-chaap sab kuch sun rahi thi.
+
+Uski aankhen aansuon se bhari hui thi.
+
+Usne Sahadeva aur Satyaki ki baat ka samarthan kiya aur Shri Krishna se boli,
+
+"Krishna, aap sab kuch jaante hain." """
+            create_image_text_layout(
                 "attached_assets/chapter5/5.3.11.jpg",
                 text1,
                 layout="side",
                 image_position="left"
             )
 
-            text2 = """ """
+            text2 = """ 
+"Aap jaante hain ki Duryodhana aur uske saathiyon ne dhokhe se Pandavon ka rajya cheen liya."
+
+"Aapne Yudhishthira ka sandesh bhi suna tha ki humein sirf paanch gaon de diye jaayein."
+
+"Lekin Duryodhana ne woh bhi dene se mana kar diya."
+
+Draupadi ne kaha,
+
+"Agar woh bina rajya lautaye shanti chahta hai, to aisi shanti ka koi matlab nahi."
+
+"Pandav aur unke mitra Kauravon ka saamna karne ke liye poori tarah saksham hain."
+
+"Jo log pyaar aur samjhaane ki baat nahi samajhte, unhe unke paapon ki saza milni chahiye."
+
+Phir Draupadi apna dard yaad karte hue boli,
+
+"Main Raja Drupada ki beti hoon."
+
+"Main Dhrishtadyumna ki behen hoon."
+
+"Main Pandu ke putron ki patni hoon."
+
+"Mere paanch veer putra hain."
+
+"Phir bhi mujhe sabha mein baalon se pakadkar ghaseeta gaya aur sabke saamne mera apmaan kiya gaya."
+
+Uski awaaz bhar aayi.
+
+"Us samay mere pati, buzurg aur sabhi mahaan log wahin maujood the."
+
+"Lekin main beizzati sehne par majboor thi."
+
+"Tab maine sirf aapko pukara tha—'Krishna, meri raksha kijiye!'"
+
+Draupadi ne aage kaha,
+
+"Dhritarashtra ne mujhe vardaan maangne ko kaha."
+
+"Maine sirf itna maanga ki Pandav azaad ho jaayein aur unhe unke hathiyaar wapas mil jaayein."
+
+"Pandav azaad to ho gaye, lekin phir unhe vanvaas bhej diya gaya."
+
+Phir Draupadi ne apne baal haath mein lekar Shri Krishna se kaha,
+
+"Krishna, jab bhi aap shanti ki baat karein, mere in baalon ko yaad rakhiyega."
+
+"Inhi baalon ko Dushasana ne sabke saamne pakadkar ghaseeta tha."
+
+"Jab tak main Dushasana ki woh baahu kati hui zameen par padi nahi dekhungi, tab tak mere mann ko shanti nahi milegi."
+
+"Main 13 saal se apna krodh dil mein daba kar jee rahi hoon."
+
+"Agar Bhima aur Arjuna bhi shanti chahte hain, to mere pita, mere bhai aur mere putra Kauravon se yuddh karenge."
+
+Yeh kehkar Draupadi zor-zor se rone lagi.
+
+Uske aansu ruk hi nahi rahe the.
+
+Tab Shri Krishna ne pyaar se use sambhalte hue kaha,
+
+"Draupadi, apne aansu pochh lo."
+
+"Bahut jald tum dekhogi ki Kauravon ke ghar ki streeiyan bhi isi tarah ro rahi hongi."
+
+"Jinhone tumhara apmaan kiya hai, unka ant nishchit hai."
+
+"Agar woh meri baat nahi maanenge, to Bhima, Arjuna, Nakula, Sahadeva aur Yudhishthira ke saath milkar main unka vinaash karaunga."
+
+Ant mein Shri Krishna ne dridh vachan diya,
+
+"Chahe Himalaya apni jagah se hil jaaye..."
+
+"Chahe dharti tukde-tukde ho jaaye..."
+
+"Chahe aasmaan toot kar gir pade..."
+
+"Lekin mera vachan kabhi jhootha nahi hoga."
+
+"Bahut jald tum apne pati ko vijayi dekhogi aur tumhare sabhi dushman apne karmon ki saza paayenge." """
             create_image_text_layout(
                 text_content=text2,
                 layout="full"
@@ -9189,7 +9279,20 @@ Sabke chehron par utsaah tha.
 
         # Section 5.3.12
         with st.expander("Section 5.3.12  Section LXXXIII"):
-            text1 = """ """
+            text1 = """ 
+Section LXXXIII – Krishna Shanti Sandesh Lekar Hastinapur Chale
+
+Arjuna ne Shri Krishna se kaha,
+
+"Krishna, aap Pandav aur Kaurav dono ke sabse bade mitra hain."
+
+"Isliye aap hi dono parivaaron ke beech shanti kara sakte hain."
+
+"Agar Duryodhana aapki achhi aur dharm se bhari baat nahi maanta, to uski barbaadi nishchit hai."
+
+Shri Krishna ne shaant swar mein jawab diya,
+
+"Main Dhritarashtra ke paas jaaunga." """
             create_image_text_layout(
                 "attached_assets/chapter5/5.3.12.jpg",
                 text1,
@@ -9197,7 +9300,80 @@ Sabke chehron par utsaah tha.
                 image_position="left"
             )
 
-            text2 = """ """
+            text2 = """ "Main dharm aur sabke hit ke liye poori koshish karunga ki shanti ho jaaye."
+
+Agli subah suraj ugte hi Shri Krishna ne snaan kiya, pooja ki aur Surya Dev aur Agni Dev ki aaradhana ki.
+
+Uske baad unhone shubh reeti-rivaaz poore kiye aur Satyaki se kaha,
+
+"Mera rath taiyaar karo."
+
+"Us par mera shankh, Sudarshan Chakra, gada, dhanush aur sabhi hathiyaar rakh do."
+
+"Duryodhana, Karna aur Shakuni par kabhi bharosa nahi karna chahiye."
+
+"Dushman chahe kitna bhi kamzor lage, use kabhi halka nahi samajhna chahiye."
+
+Krishna ka divya rath taiyaar kiya gaya.
+
+Usme Saivya, Sugriva, Meghapushpa aur Valahaka naam ke shaktishaali ghode jode gaye.
+
+Garuda bhi rath ke dhwaj par baith gaye.
+
+Phir Shri Krishna aur Satyaki us rath par baithkar Hastinapur ke liye nikal pade.
+
+Jaise hi Krishna ne yatra shuru ki,
+
+Aasmaan saaf ho gaya.
+
+Thandi aur shubh hawa chalne lagi.
+
+Pakshi aur anya shubh jeev unke saath-saath chalne lage.
+
+Sab taraf mangal ke sanket dikhai dene lage.
+
+Kai Maharishi aur Brahmarishi bhi unka swaagat karne aaye aur unhe aashirvaad diya.
+
+Yudhishthira, Bhima, Arjuna, Nakula, Sahadeva aur unke sabhi mitra raja kuch door tak Krishna ke saath chale.
+
+Wahan Yudhishthira ne Shri Krishna ko gale lagaya aur kaha,
+
+"Meri maa Kunti ko mera pranaam kehna."
+
+"Unhe bataana ki hum sab theek hain aur unki bahut yaad aati hai."
+
+"Dhritarashtra, Bhishma, Dronacharya, Kripacharya, Vidura aur sabhi buzurgon ko bhi mera pranaam kehna."
+
+Iske baad Arjuna ne kaha,
+
+"Agar Kaurav bina apmaan kiye humein hamara rajya wapas de dein, to humein bahut khushi hogi aur yuddh tal jaayega."
+
+"Lekin agar Duryodhana fir bhi anyaay par adaa raha, to main poore Kshatriya sena ka vinaash kar doonga."
+
+Arjuna ki yeh baat sunkar Bhima ne zor se garjana ki.
+
+Uski garjana itni bhayankar thi ki sabhi yoddha dar gaye.
+
+Haathi aur ghode bhi ghabra uthe.
+
+Sabko samajh aa gaya ki yuddh bahut kareeb hai.
+
+Raaste mein Shri Krishna ki mulaqat kai Maharishiyon se hui.
+
+Krishna ne unka sammaan kiya aur unse poochha,
+
+"Sab jagah dharm aur shanti bani hui hai na?"
+
+Tab Maharishiyon ne kaha,
+
+"Hum Hastinapur jaa rahe hain."
+
+"Hum dekhna chahte hain ki aap Kauravon ki sabha mein dharm aur nyaay ki kya baat karte hain."
+
+"Hum sab us mahaan sabha ke saakshi banna chahte hain."
+
+Yeh sunkar Shri Krishna ne sabhi Rishiyon ko pranaam kiya aur Hastinapur ki taraf apni yatra jaari rakhi.
+::: """
             create_image_text_layout(
                 text_content=text2,
                 layout="full"
@@ -9206,7 +9382,19 @@ Sabke chehron par utsaah tha.
 
         # Section 5.3.13
         with st.expander("Section 5.3.13  Section LXXXIV"):
-            text1 = """ """
+            text1 = """ Section LXXXIV – Krishna Ki Hastinapur Yatra
+
+Vaisampayana bole,
+
+Jab Shri Krishna Hastinapur ke liye nikle, tab unke saath 10 mahaan yoddha, bahut saare sainik, ghudsawar aur sevak bhi chale.
+
+Sab log yatra ke liye zaroori saamaan aur bhojan saath lekar chal rahe the.
+
+Janamejaya ne poochha,
+
+"Krishna ki yatra ke dauraan kaun-kaun se shubh aur ashubh sanket dikhai diye?"
+
+Vaisampayana bole, """
             create_image_text_layout(
                 "attached_assets/chapter5/5.3.13.jpg",
                 text1,
@@ -9214,7 +9402,70 @@ Sabke chehron par utsaah tha.
                 image_position="left"
             )
 
-            text2 = """ """
+            text2 = """ "Krishna ke nikalte hi bahut adbhut ghatnaayein hone lagi."
+
+"Aasmaan bilkul saaf tha, phir bhi bijli chamki aur baadal garajne lage."
+
+"Kuch jagahon par bina baadal ke baarish hone lagi."
+
+"Badi-badi nadiyon ka paani ulta behne laga."
+
+"Dharti baar-baar hilne lagi."
+
+"Kuen aur paani ke bartan apne aap bhar kar behne lage."
+
+"Har taraf andhera aur dhool chha gayi."
+
+"Aasmaan se ajeeb garajne ki awaazein aane lagi."
+
+"Hastinapur ke paas tez aandhi chalne lagi aur bahut se ped gir gaye."
+
+Lekin jahan-jahan Shri Krishna guzre, wahan sab kuch bilkul alag tha.
+
+"Thandi aur sugandhit hawa chal rahi thi."
+
+"Raaste par phool baras rahe the."
+
+"Raasta saaf aur sundar ho gaya tha."
+
+"Har taraf shubh sanket hi dikhai de rahe the."
+
+Raaste mein hazaaron Brahmanon ne Shri Krishna ka swaagat kiya.
+
+Unhone dahi, ghee, shahad aur anya uphaar arpit kiye.
+
+Gaon ki mahilaon ne bhi un par sugandhit phoolon ki varsha ki.
+
+Shri Krishna kai gaon aur shahron se hote hue Salibhavana naam ke sundar sthaan par pahunche.
+
+Raaste bhar log sirf unke darshan karne ke liye ikattha hote rahe.
+
+Shaam hone par Shri Krishna Vrikasthala pahunche.
+
+Wahan unhone rath se utar kar snaan aur sandhya-vandan ki.
+
+Daruka ne ghodon ko kholkar unki achhi tarah dekhbhaal ki.
+
+Uske baad Shri Krishna bole,
+
+"Aaj raat hum yahin rukenge."
+
+"Kal Yudhishthira ka sandesh lekar Hastinapur ki taraf aage badhenge."
+
+Sevakon ne turant unke liye rehne ki vyavastha aur bhojan taiyaar kar diya.
+
+Gaon ke vidvaan Brahman Shri Krishna se milne aaye.
+
+Unhone unka sammaan kiya aur apne ghar mein thaharne ka nimantran diya.
+
+Lekin Shri Krishna ne vinamrata se unka aadar kiya aur kaha ki jo vyavastha ho chuki hai wahi theek hai.
+
+Phir unhone sabhi Brahmanon ko bhojan karvaya.
+
+Unke saath milkar swayam bhi bhojan kiya.
+
+Iske baad Shri Krishna ne shaanti se wahi raat bitaayi aur agle din Hastinapur ki yatra ke liye taiyaar ho gaye.
+::: """
             create_image_text_layout(
                 text_content=text2,
                 layout="full"
@@ -9223,7 +9474,19 @@ Sabke chehron par utsaah tha.
 
         # Section 5.3.14
         with st.expander("Section 5.3.14  Section LXXXV"):
-            text1 = """ """
+            text1 = """ Section LXXXV – Duryodhana Ki Swagat Ki Taiyaari
+
+Vaisampayana bole,
+
+Jab Dhritarashtra ko apne guptcharon se pata chala ki Shri Krishna Hastinapur aa rahe hain, to unhone Bhishma, Dronacharya, Vidura, Sanjaya aur Duryodhana ko bulaya.
+
+Dhritarashtra ne kaha,
+
+"Poore desh mein bas ek hi baat ho rahi hai."
+
+"Har jagah log keh rahe hain ki Shri Krishna Pandavon ke liye Hastinapur aa rahe hain."
+
+"Shri Krishna bahut mahaan hain." """
             create_image_text_layout(
                 "attached_assets/chapter5/5.3.14.jpg",
                 text1,
@@ -9231,7 +9494,43 @@ Sabke chehron par utsaah tha.
                 image_position="left"
             )
 
-            text2 = """ """
+            text2 = """ "Unka humein poore sammaan ke saath swagat karna chahiye."
+
+"Unmein buddhi, shakti, gyaan aur dharm sab kuch hai."
+
+"Jo unka sammaan karta hai, use sukh milta hai."
+
+"Aur jo unka apmaan karta hai, use dukh ka saamna karna padta hai."
+
+Phir Dhritarashtra ne Duryodhana se kaha,
+
+"Unke swagat ki taiyaari mein koi kami mat chhodna."
+
+"Raaste bhar sundar vishraam sthal aur mandap banvaao."
+
+"Har jagah unke liye achhi vyavastha honi chahiye."
+
+Yeh baat sunkar Bhishma aur sabhi buzurg bole,
+
+"Yeh bilkul sahi baat hai."
+
+Iske baad Duryodhana ne turant taiyaari shuru kar di.
+
+Raaste mein kai sundar mandap banvaaye gaye.
+
+Unhe heere, moti aur keemti ratnon se sajaya gaya.
+
+Shri Krishna ke liye sundar aasan, sugandhit phool, kapde, gehne, swaadisht bhojan aur har tarah ki suvidha ka intezaam kiya gaya.
+
+Vrikasthala mein to Duryodhana ne ek bahut hi bhavya aur shandaar mandap banvaaya.
+
+Sab taiyaari poori hone ke baad usne Dhritarashtra ko jaakar sab bata diya.
+
+Lekin jab Shri Krishna Hastinapur ki taraf badhe,
+
+Unhone un shandaar mandapon aur keemti ratnon ki taraf ek baar bhi nazar nahi daali.
+
+Unka dhyaan sirf apne kartavya par tha—Pandavon ke liye shanti ka sandesh pahunchana. """
             create_image_text_layout(
                 text_content=text2,
                 layout="full"
@@ -9240,7 +9539,23 @@ Sabke chehron par utsaah tha.
 
         # Section 5.3.15
         with st.expander("Section 5.3.15  Section LXXXVI"):
-            text1 = """ """
+            text1 = """  Section LXXXVI – Dhritarashtra Ka Krishna Ke Liye Swagat
+
+Dhritarashtra ne Vidura se kaha,
+
+"Vidura, Shri Krishna Upaplavya se nikal chuke hain."
+
+"Aaj woh Vrikasthala mein rukey hain aur kal Hastinapur pahunch jaayenge."
+
+"Krishna bahut mahaan, buddhimaan aur shaktishaali hain."
+
+"Poora Vrishni vansh unka bahut sammaan karta hai."
+
+"Main unka bade aadar aur sammaan ke saath swagat karna chahta hoon."
+
+Phir Dhritarashtra ne kaha,
+
+"Main unhe sone ke 16 rath uphaar mein dunga." """
             create_image_text_layout(
                 "attached_assets/chapter5/5.3.15.jpg",
                 text1,
@@ -9248,7 +9563,44 @@ Sabke chehron par utsaah tha.
                 image_position="left"
             )
 
-            text2 = """ """
+            text2 = """ "Main unhe 8 shaktishaali haathi bhi dunga."
+
+"Main unhe sundar sevak aur sevikaayein bhi dunga."
+
+"Main unhe hazaaron kambal, keemti hiran ki khal aur bahut se anmol uphaar dunga."
+
+"Main unhe ek bahut hi anmol mani bhi dunga, jo din-raat chamakti rehti hai."
+
+"Apna sabse achha rath bhi unhe de dunga."
+
+Dhritarashtra ne aage kaha,
+
+"Krishna aur unke saath aaye sabhi logon ke liye bharpoor bhojan aur har suvidha ka intezaam kiya jaaye."
+
+"Mere sabhi putra aur pote, sirf Duryodhana ko chhodkar, unke swagat ke liye baahar jaayenge."
+
+"Hazaaron sundar nrityangnaayein bhi unka swagat karengi."
+
+"Poore nagar ke log apne parivaar ke saath Krishna ke darshan karne aayenge."
+
+"Sab unka utna hi sammaan karein jitna Surya Dev ka karte hain."
+
+Phir unhone aadesh diya,
+
+"Raaste ko achhi tarah saaf kiya jaaye."
+
+"Har jagah jhande aur pataake lagaye jaayein."
+
+"Dhool hata kar raaste par paani chhidka jaaye."
+
+Ant mein Dhritarashtra bole,
+
+"Dushasana ke sundar mahal ko bhi achhi tarah saaf aur saja diya jaaye."
+
+"Usi mahal mein Shri Krishna ko thaharaya jaaye."
+
+"Krishna jo bhi sammaan ke yogya hain, unhe woh sab kuch diya jaana chahiye."
+::: """
             create_image_text_layout(
                 text_content=text2,
                 layout="full"
@@ -9257,7 +9609,21 @@ Sabke chehron par utsaah tha.
 
         # Section 5.3.16
         with st.expander("Section 5.3.16  Section LXXXVII"):
-            text1 = """ """
+            text1 = """ Section LXXXVII – Vidura Ki Sachchi Salah
+
+Vidura ne Dhritarashtra se kaha,
+
+"Maharaj, poori duniya aapka sammaan karti hai."
+
+"Log aapko buddhimaan aur dharm ka paalan karne wala raja maante hain."
+
+"Sabko vishwas hai ki aapke andar dharm hamesha bana rehta hai."
+
+"Isliye aapko hamesha sachchai aur nyaay ka saath dena chahiye."
+
+Vidura ne aage kaha,
+
+"Apne putron, parivaar aur mitron ko bachaaiye." """
             create_image_text_layout(
                 "attached_assets/chapter5/5.3.16.jpg",
                 text1,
@@ -9265,7 +9631,54 @@ Sabke chehron par utsaah tha.
                 image_position="left"
             )
 
-            text2 = """ """
+            text2 = """ "Galat faisla lekar un sabka vinaash mat hone dijiye."
+
+Phir Vidura bole,
+
+"Aap Krishna ko bahut saare uphaar dena chahte hain."
+
+"Woh in sabke yogya bhi hain."
+
+"Chahe poori dharti bhi unhe de di jaaye, tab bhi woh uske yogya hain."
+
+"Lekin Maharaj, main jaanta hoon ki aap yeh sab sachche dil se nahi kar rahe."
+
+"Aapka asli uddeshya Krishna ko khush karna nahi hai."
+
+"Aap unhe dhan aur uphaaron se Pandavon se alag karna chahte hain."
+
+Vidura ne dridh swar mein kaha,
+
+"Yeh kabhi sambhav nahi hoga."
+
+"Na dhan se, na sammaan se aur na hi uphaaron se Krishna ko Arjuna aur Pandavon se alag kiya ja sakta hai."
+
+"Krishna aur Arjuna ka rishta bahut gehra hai."
+
+"Krishna kabhi Pandavon ka saath nahi chhodenge."
+
+Phir Vidura ne kaha,
+
+"Krishna sirf saadhaaran atithi satkaar sweekar karenge."
+
+"Ek lota paani, pair dhone ka paani aur pyaar se ki gayi kushal-mangal ki baat hi unke liye kaafi hai."
+
+"Woh dhan-daulat ke liye yahan nahi aa rahe."
+
+Ant mein Vidura ne Dhritarashtra ko sabse zaroori baat samjhayi,
+
+"Krishna yahan sirf ek kaam ke liye aa rahe hain."
+
+"Woh Pandav aur Kaurav ke beech shanti karwana chahte hain."
+
+"Isliye unki baat maaniye."
+
+"Pandav bhi aapke hi putra hain."
+
+"Aap unke pita samaan hain."
+
+"Unke saath nyaay aur pyaar se vyavahaar kijiye."
+::: """
             create_image_text_layout(
                 text_content=text2,
                 layout="full"
@@ -9274,7 +9687,21 @@ Sabke chehron par utsaah tha.
 
         # Section 5.3.17
         with st.expander("Section 5.3.17  Section LXXXVIII"):
-            text1 = """ """
+            text1 = """ Section LXXXVIII – Duryodhana Ki Buri Yojana
+
+Duryodhana ne kaha,
+
+"Vidura ne Krishna ke baare mein jo kaha, woh sach hai."
+
+"Krishna hamesha Pandavon ka saath denge."
+
+"Unhe dhan ya uphaar dekar Pandavon se alag nahi kiya ja sakta."
+
+"Is samay unka bhavya swagat karna bhi theek nahi hai."
+
+"Woh sochenge ki hum dar ke maare unka sammaan kar rahe hain."
+
+"Jab yuddh ka faisla ho chuka hai, to ab uphaaron aur mehmaan-nawaazi ka koi matlab nahi." """
             create_image_text_layout(
                 "attached_assets/chapter5/5.3.17.jpg",
                 text1,
@@ -9282,7 +9709,56 @@ Sabke chehron par utsaah tha.
                 image_position="left"
             )
 
-            text2 = """ """
+            text2 = """ Yeh sunkar Bhishma ne kaha,
+
+"Krishna ka sammaan karo ya na karo, unhe isse koi farq nahi padta."
+
+"Lekin unka apmaan kabhi nahi karna chahiye."
+
+"Krishna jo karne ka nishchay karte hain, use koi rok nahi sakta."
+
+"Unki baat maano aur unke madhyam se Pandavon se shanti kar lo."
+
+Lekin Duryodhana ne zidd se kaha,
+
+"Main apna rajya Pandavon ke saath kabhi nahi baantunga."
+
+Phir usne apni buri yojana batayi.
+
+"Kal jab Krishna yahan aayenge, main unhe bandi bana loonga."
+
+"Agar Krishna hamare kabze mein aa gaye, to Pandav, Yadav aur poori dharti hamare saamne jhuk jaayegi."
+
+"Ab bataaiye ki yeh kaam kaise kiya jaaye."
+
+Duryodhana ki yeh baat sunkar Dhritarashtra bahut dukhi ho gaye.
+
+Unhone turant kaha,
+
+"Aisi baat dobara kabhi mat kehna."
+
+"Krishna yahan shanti ke doot bankar aa rahe hain."
+
+"Woh hamare rishtedaar bhi hain aur hamara koi nuksaan bhi nahi kiya."
+
+"Aise mehmaan ko bandi banana bahut bada adharm hai."
+
+Tab Bhishma ka krodh phoot pada.
+
+Unhone Dhritarashtra se kaha,
+
+"Aapka yeh putra vinaash ke raaste par chal pada hai."
+
+"Yeh apne hit ki baat bhi nahi maanta."
+
+"Aap bhi iski galat baaton ka virodh nahi kar rahe."
+
+"Krishna jaise pavitra aur mahaan vyakti ke khilaaf chalne wala yeh aur iske saathi jaldi hi apne karmon ka phal paayenge."
+
+Itna kehkar Bhishma bahut krodhit ho gaye.
+
+Woh sabha se uthkar bina kuch aur kahe wahan se chale gaye.
+::: """
             create_image_text_layout(
                 text_content=text2,
                 layout="full"
@@ -9291,7 +9767,21 @@ Sabke chehron par utsaah tha.
 
         # Section 5.3.18
         with st.expander("Section 5.3.18  Section LXXXIX"):
-            text1 = """ """
+            text1 = """ Section LXXXIX – Krishna Ka Hastinapur Mein Swagat
+
+Vaisampayana bole,
+
+Agli subah Shri Krishna ne apne sabhi pratahkaal ke kaam poore kiye aur Hastinapur ke liye nikal pade.
+
+Vrikasthala ke sabhi log unhe vida karne aaye.
+
+Unhone Krishna ko pranaam kiya aur phir apne ghar laut gaye.
+
+Hastinapur ki taraf se Bhishma, Dronacharya, Kripacharya aur Kaurav rajkumar, Duryodhana ko chhodkar, Shri Krishna ke swagat ke liye baahar aaye.
+
+Hazaaron nagrik bhi unke darshan ke liye gharon se baahar nikal aaye.
+
+Jab Shri Krishna Hastinapur mein pravesh kar rahe the, """
             create_image_text_layout(
                 "attached_assets/chapter5/5.3.18.jpg",
                 text1,
@@ -9299,7 +9789,53 @@ Sabke chehron par utsaah tha.
                 image_position="left"
             )
 
-            text2 = """ """
+            text2 = """ Poora nagar sundar phoolon, jhandon aur keemti sajaavat se saja hua tha.
+
+Har gali mein log unka swagat kar rahe the.
+
+Koi bhi ghar ke andar nahi tha.
+
+Sab log bas Krishna ke darshan karna chahte the.
+
+Log unke saamne sir jhuka kar unki stuti kar rahe the.
+
+Mahalon ki chhaton aur khidkiyon par bhi itni mahilaayein khadi thi ki lag raha tha jaise mahal unke bhaar se jhuk jaayenge.
+
+Bheed itni zyada thi ki Krishna ka tez daudne wala rath bhi dheere-dheere chal raha tha.
+
+Shri Krishna sabse pehle Dhritarashtra ke mahal pahunche.
+
+Jaise hi woh sabha mein aaye,
+
+Dhritarashtra, Bhishma, Dronacharya, Kripacharya, Somadatta aur Raja Vahlika sab unke sammaan mein khade ho gaye.
+
+Krishna ne sabse pehle Dhritarashtra aur Bhishma ko pranaam kiya.
+
+Phir sabhi buzurgon aur rajaon ka unki umr aur pad ke anusaar sammaan kiya.
+
+Dhritarashtra ne Krishna ke liye ek sundar sone ka aasan rakhvaaya.
+
+Parampara ke anusaar unka swagat gau-daan, shahad, dahi aur jal se kiya gaya.
+
+Atithi satkaar ke baad Shri Krishna kuch der sabke saath baithe.
+
+Woh sabse pyaar se baat karte rahe aur sabka haal-chaal poochhte rahe.
+
+Uske baad Dhritarashtra ki anumati lekar Shri Krishna wahan se Vidura ke ghar chale gaye.
+
+Vidura ne bade prem aur shraddha se unka swagat kiya.
+
+Vidura bole,
+
+"Krishna, aapke aane se mujhe bahut khushi hui hai."
+
+"Aap sabke hriday ki baat jaante hain, isliye meri khushi batane ki bhi zaroorat nahi."
+
+Satkaar ke baad Vidura ne Pandavon ka haal-chaal poochha.
+
+Shri Krishna jaante the ki Vidura Pandavon se bahut prem karte hain aur hamesha dharm ka saath dete hain.
+
+Isliye Krishna ne Vidura ko Pandavon ki poori khabar aur unke haal ki saari baatein vistaar se bata di. """
             create_image_text_layout(
                 text_content=text2,
                 layout="full"
@@ -9308,7 +9844,23 @@ Sabke chehron par utsaah tha.
 
         # Section 5.3.19
         with st.expander("Section 5.3.19  Section XC"):
-            text1 = """ """
+            text1 = """ Section XC – Kunti Ka Dard Aur Krishna Ka Aashwasan
+
+Vaisampayana bole,
+
+Vidura se milne ke baad Shri Krishna apni bua Kunti se milne gaye.
+
+Jaise hi Kunti ne Krishna ko dekha, woh unke gale lagkar zor-zor se rone lagi.
+
+Unhe apne sabhi putron ki yaad aa gayi.
+
+Kunti aansuon bhari aankhon se boli,
+
+"Krishna, mere bachchon ne bachpan se hi dharm ka paalan kiya hai."
+
+"Unhone kabhi kisi ka bura nahi kiya."
+
+"Phir bhi unhe itna dukh kyun mila?" """
             create_image_text_layout(
                 "attached_assets/chapter5/5.3.19.jpg",
                 text1,
@@ -9316,7 +9868,88 @@ Sabke chehron par utsaah tha.
                 image_position="left"
             )
 
-            text2 = """ """
+            text2 = """ "Jo rajmahal mein rehte the, woh van mein kaise rahe honge?"
+
+"Jo har subah shankh aur sangeet ki awaaz se uthte the, unhe jangli jaanwaron ki awaazon ke beech kaise sona pada hoga?"
+
+Phir Kunti ne ek-ek karke apne sabhi putron ke baare mein poochha.
+
+"Mera dharmatma Yudhishthira kaisa hai?"
+
+"Mera shaktishaali Bhima kaisa hai?"
+
+"Mera veer Arjuna kaisa hai?"
+
+"Mere pyaare Nakula aur Sahadeva theek hain na?"
+
+Uske baad Kunti ne Draupadi ko yaad kiya.
+
+"Draupadi mujhe apni beti se bhi zyada pyaari hai."
+
+"Usne apne pati ke saath har dukh saha."
+
+"Sabke saamne uska jo apmaan hua, us dard ko main aaj tak nahi bhool paayi."
+
+"Us din Dushasana ne uske baal pakadkar use sabha mein ghaseeta tha."
+
+"Mere jeevan ka sabse bada dukh wahi tha."
+
+Kunti ne Vidura ki bhi prashansa ki.
+
+"Sab log chup the, lekin Vidura ne hi dharm ka saath diya tha."
+
+"Isliye main unka bahut sammaan karti hoon."
+
+Phir Kunti boli,
+
+"Mujhe poora vishwas hai ki itne saalon ka dukh ek din zaroor khatam hoga."
+
+"Pandav apna rajya wapas paayenge."
+
+Usne Krishna se kaha,
+
+"Mere putron ko kehna ki ab samay aa gaya hai."
+
+"Ek Kshatriya ko anyaay sehna nahi chahiye."
+
+"Yudhishthira dharm ka paalan karein, lekin apna adhikaar bhi zaroor lein."
+
+"Bhima aur Arjuna ko kehna ki ab veerta dikhane ka samay aa gaya hai."
+
+"Nakula aur Sahadeva bhi apna kartavya nibhayein."
+
+"Aur Arjuna hamesha Draupadi ke sammaan ki raksha kare."
+
+Kunti ne dukh bhare swar mein kaha,
+
+"Rajya khona mujhe itna dukh nahi deta."
+
+"Sabse bada dard to Draupadi ke apmaan ka hai."
+
+Tab Shri Krishna ne Kunti ko santvana di.
+
+Unhone kaha,
+
+"Bua, aap bahut mahaan aur dhairyavaan hain."
+
+"Aapke putra sabhi surakshit hain aur aapko pranaam bhejte hain."
+
+"Woh sab bahut jald apna rajya wapas paayenge."
+
+"Duryodhana aur uske saathi apne bure karmon ka phal zaroor paayenge."
+
+Krishna ki baatein sunkar Kunti ko thodi shanti mili.
+
+Ant mein Kunti boli,
+
+"Krishna, jo aapko dharm aur nyaay ke anusaar sahi lage, wahi kijiye."
+
+"Mujhe aap par poora vishwas hai."
+
+Vaisampayana bole,
+
+Iske baad Shri Krishna ne Kunti ko pranaam kiya, unse vida li aur Duryodhana ke mahal ki taraf chal diye.
+::: """
             create_image_text_layout(
                 text_content=text2,
                 layout="full"
@@ -9325,7 +9958,19 @@ Sabke chehron par utsaah tha.
 
         # Section 5.3.20
         with st.expander("Section 5.3.20  Section XCI"):
-            text1 = """ """
+            text1 = """ Section XCI – Krishna Ne Duryodhana Ka Bhojan Kyun Thukraya
+
+Vaisampayana bole,
+
+Kunti se vida lekar Shri Krishna Duryodhana ke bhavya mahal mein pahunche.
+
+Mahal bahut sundar aur dhan-daulat se bhara hua tha.
+
+Andar Duryodhana apni sabha mein baitha tha.
+
+Uske paas Karna, Dushasana, Shakuni aur bahut se raja bhi baithe the.
+
+Jaise hi Shri Krishna sabha mein aaye, """
             create_image_text_layout(
                 "attached_assets/chapter5/5.3.20.jpg",
                 text1,
@@ -9333,7 +9978,89 @@ Sabke chehron par utsaah tha.
                 image_position="left"
             )
 
-            text2 = """ """
+            text2 = """ Duryodhana aur sabhi raja unke sammaan mein khade ho gaye.
+
+Krishna ne sabhi buzurgon aur rajaon ka sammaan kiya.
+
+Unke liye sone ka sundar aasan rakha gaya.
+
+Parampara ke anusaar unka swagat gau-daan, shahad, dahi aur jal se kiya gaya.
+
+Duryodhana ne kaha,
+
+"Krishna, maine aapke liye bahut achha bhojan aur rehne ki poori vyavastha ki hai."
+
+"Kripya mera nimantran sweekar kijiye."
+
+Lekin Shri Krishna ne shaant swar mein mana kar diya.
+
+Duryodhana ne hairani se poochha,
+
+"Aap mera bhojan kyun nahi sweekar kar rahe?"
+
+"Na hamari aapse dushmani hai aur na hi humne aapke saath kuch bura kiya hai."
+
+"Phir aap hamara prem kyun nahi maan rahe?"
+
+Tab Shri Krishna ne gambhir swar mein kaha,
+
+"Ek doot apna kaam poora hone ke baad hi kisi ka bhojan sweekar karta hai."
+
+"Pehle main apna shanti ka sandesh poora karunga."
+
+Duryodhana ne phir kaha,
+
+"Chahe aapka kaam safal ho ya na ho, hamara prem to sachcha hai."
+
+"Isliye hamara satkaar sweekar kijiye."
+
+Tab Shri Krishna ne saaf shabdon mein jawab diya,
+
+"Main na laalach mein, na gusse mein aur na hi kisi swaarth ke liye dharm chhodta hoon."
+
+"Main kisi ka bhojan tabhi sweekar karta hoon jab uske dil mein sachcha prem ho."
+
+"Tum bina kisi wajah ke Pandavon se nafrat karte ho."
+
+"Woh dharmatma hain aur tumhare hi bhai hain."
+
+"Jo Pandavon se nafrat karta hai, woh mujhse bhi nafrat karta hai."
+
+"Aur jo unse prem karta hai, woh mujhse prem karta hai."
+
+"Pandav aur main alag nahi hain."
+
+Phir Krishna ne kaha,
+
+"Tumhara bhojan adharm aur buri niyat se juda hua hai."
+
+"Isliye main ise sweekar nahi kar sakta."
+
+"Main sirf Vidura ke ghar ka bhojan karoonga."
+
+Itna kehkar Shri Krishna Duryodhana ke mahal se baahar aa gaye.
+
+Woh seedhe Vidura ke ghar chale gaye.
+
+Thodi der baad Bhishma, Dronacharya, Kripacharya, Vahlika aur kai Kaurav bhi Krishna se milne Vidura ke ghar aaye.
+
+Sabne kaha,
+
+"Krishna, hamare ghar aur hamari saari sampatti aapke liye hamesha khuli hai."
+
+Shri Krishna ne muskura kar kaha,
+
+"Aap sabke prem aur sammaan ke liye main aabhari hoon."
+
+Iske baad sab log wapas chale gaye.
+
+Vidura ne bade prem se Shri Krishna ka satkaar kiya.
+
+Kunti ne bhi unke liye swaadisht bhojan banvaaya.
+
+Shri Krishna ne sabse pehle Brahmanon ko bhojan aur daan diya.
+
+Uske baad apne saathiyon ke saath Vidura ke ghar prem aur santosh ke saath bhojan kiya. """
             create_image_text_layout(
                 text_content=text2,
                 layout="full"
