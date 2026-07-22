@@ -10069,7 +10069,24 @@ Uske baad apne saathiyon ke saath Vidura ke ghar prem aur santosh ke saath bhoja
 
         # Section 5.3.21
         with st.expander("Section 5.3.21  Section XCII"):
-            text1 = """ """
+            text1 = """ 
+            Section XCII – Vidura Ne Krishna Ko Chetavni Di
+
+Vaisampayana bole,
+
+Raat ko bhojan ke baad Vidura ne Shri Krishna se kaha,
+
+"Krishna, mujhe lagta hai ki aapka yahan aana bahut kathin hoga."
+
+"Duryodhana na dharm maanta hai aur na hi achhi salah."
+
+"Woh gusse wala, ahankaari aur ziddi hai."
+
+"Woh bade-buzurgon ki baat bhi nahi maanta."
+
+"Uska mann laalach aur ghamand se bhar chuka hai."
+
+Vidura ne aage kaha, """
             create_image_text_layout(
                 "attached_assets/chapter5/5.3.21.jpg",
                 text1,
@@ -10077,7 +10094,49 @@ Uske baad apne saathiyon ke saath Vidura ke ghar prem aur santosh ke saath bhoja
                 image_position="left"
             )
 
-            text2 = """ """
+            text2 = """ "Aap uske bhale ki baat karenge, lekin woh ek bhi baat nahi maanega."
+
+"Use Bhishma, Dronacharya, Kripacharya, Karna, Ashwatthama aur Jayadratha ki shakti par bahut ghamand hai."
+
+"Use poora vishwas hai ki uski sena ko koi hara nahi sakta."
+
+"Isliye woh kabhi shanti ke liye taiyaar nahi hoga."
+
+Vidura bole,
+
+"Duryodhana aur uske bhai Pandavon ko unka adhikaar dena hi nahi chahte."
+
+"Aise logon ke saamne samjhaane ka koi fayda nahi."
+
+"Jaise ek behre aadmi ke saamne gaana gaane ka koi matlab nahi hota, waise hi aapki baatein bhi unpar asar nahi karengi."
+
+Phir Vidura ne chinta jatayi,
+
+"Mujhe achha nahi lagta ki aap itne bure iraade wale logon ke beech jaayen."
+
+"Woh dhan, sena aur apni taakat ke ghamand mein doobe hue hain."
+
+"Unhe lagta hai ki poori duniya par unka hi adhikaar ho chuka hai."
+
+"Unhe to yeh bhi lagta hai ki Devta bhi unhe hara nahi sakte."
+
+Vidura ne kaha,
+
+"Bahut se raja sirf aapse purani dushmani ki wajah se Duryodhana ke saath aa gaye hain."
+
+"Woh sab Pandavon se yuddh karne ke liye utsuk hain."
+
+"Isliye mujhe aapki suraksha ki bhi chinta hai."
+
+Ant mein Vidura bole,
+
+"Krishna, main jaanta hoon ki aapko koi hara nahi sakta."
+
+"Main aapki shakti aur buddhi ko achhi tarah jaanta hoon."
+
+"Lekin main yeh sab sirf isliye keh raha hoon kyunki main aapse utna hi prem karta hoon jitna Pandavon se karta hoon."
+
+"Aap hum sabke hriday mein baste hain, isliye aapki chinta karna mera kartavya hai." """
             create_image_text_layout(
                 text_content=text2,
                 layout="full"
@@ -10086,7 +10145,19 @@ Uske baad apne saathiyon ke saath Vidura ke ghar prem aur santosh ke saath bhoja
 
         # Section 5.3.22
         with st.expander("Section 5.3.22  Section XCIII"):
-            text1 = """ """
+            text1 = """ Section XCIII – Krishna Ne Apna Uddeshya Bataya
+
+Shri Krishna ne Vidura se kaha,
+
+"Vidura, tumne jo kuch kaha, woh bilkul sahi hai."
+
+"Tumne ek sachche dost aur mata-pita ki tarah mujhe salah di hai."
+
+"Main tumhari baaton ka bahut sammaan karta hoon."
+
+Phir Krishna bole,
+
+"Main Duryodhana ki buri soch ko achhi tarah jaanta hoon." """
             create_image_text_layout(
                 "attached_assets/chapter5/5.3.22.jpg",
                 text1,
@@ -10094,7 +10165,55 @@ Uske baad apne saathiyon ke saath Vidura ke ghar prem aur santosh ke saath bhoja
                 image_position="left"
             )
 
-            text2 = """ """
+            text2 = """ "Main yeh bhi jaanta hoon ki uske saath bahut se raja yuddh ke liye taiyaar hain."
+
+"Phir bhi main Hastinapur isliye aaya hoon taaki yuddh ko roka ja sake."
+
+"Agar poori dharti ko is vinaash se bachaya ja sake, to usse bada punya aur kuch nahi."
+
+Krishna ne aage kaha,
+
+"Jo vyakti sachche mann se achha kaam karne ki koshish karta hai, lekin safal nahi ho paata, tab bhi usse us achhe kaam ka phal milta hai."
+
+"Isi tarah agar koi bura kaam karne ka sirf sochta hai, lekin karta nahi, to usse us paap ka phal nahi milta."
+
+Phir Krishna bole,
+
+"Main poori imaandari se Kaurav aur Pandav ke beech shanti laane ki koshish karoonga."
+
+"Yeh bada sankat Duryodhana aur Karna ki galat soch ki wajah se paida hua hai."
+
+"Baaki raja bas unka saath de rahe hain."
+
+Krishna ne kaha,
+
+"Sachcha dost wahi hota hai jo apne mitra ko galat raaste par jaane se rokne ki poori koshish kare."
+
+"Chahe zarurat pade to use zor se rokna bhi dharm hai."
+
+"Ismein koi dosh nahi, balki yeh achha kaam maana jaata hai."
+
+Phir Krishna bole,
+
+"Main Duryodhana, Pandav aur sabhi rajaon ka bhala chahta hoon."
+
+"Agar Duryodhana meri baat galat samjhe, tab bhi mera kartavya poora ho jaayega."
+
+"Baad mein koi yeh nahi keh sakega ki Krishna ne yuddh rokne ki koshish hi nahi ki."
+
+Krishna ne ant mein kaha,
+
+"Agar Duryodhana meri dharm aur nyaay ki baat maan lega, to shanti ho jaayegi aur sab bach jaayenge."
+
+"Lekin agar woh meri baat nahi maanega, to apne vinaash ka zimmedaar woh khud hoga."
+
+"Aur agar koi mujhe nuksaan pahunchane ki koshish kare, to yaad rakhna, poori duniya ke sabhi raja milkar bhi mera kuch nahi bigaad sakte."
+
+"Jaise hiran kabhi gusse mein aaye sher ka saamna nahi kar sakte, waise hi koi mera saamna nahi kar sakta."
+
+Vaisampayana bole,
+
+Itna kehkar Shri Krishna shaant mann se apne bistar par vishraam karne chale gaye. """
             create_image_text_layout(
                 text_content=text2,
                 layout="full"
@@ -10103,7 +10222,19 @@ Uske baad apne saathiyon ke saath Vidura ke ghar prem aur santosh ke saath bhoja
 
         # Section 5.3.23
         with st.expander("Section 5.3.23  Section XCIV"):
-            text1 = """ """
+            text1 = """ Section XCIV – Krishna Ka Rajsabha Mein Pravesh
+
+Vaisampayana bole,
+
+Us raat Vidura aur Shri Krishna dharm, nyaay aur jeevan ki bahut si baatein karte rahe.
+
+Dono ki baatein itni gyaan se bhari thi ki pata hi nahi chala kab raat beet gayi.
+
+Subah hote hi shankh, manjire aur madhur sangeet ki awaaz se Shri Krishna jaag gaye.
+
+Unhone snaan kiya, mantra-jaap kiya aur agni mein ahuti di.
+
+Phir Surya Dev ki pooja ki. """
             create_image_text_layout(
                 "attached_assets/chapter5/5.3.23.jpg",
                 text1,
@@ -10111,7 +10242,85 @@ Uske baad apne saathiyon ke saath Vidura ke ghar prem aur santosh ke saath bhoja
                 image_position="left"
             )
 
-            text2 = """ """
+            text2 = """ Isi samay Duryodhana aur Shakuni Krishna ke paas aaye.
+
+Unhone kaha,
+
+"Maharaj Dhritarashtra, Bhishma, Dronacharya aur sabhi raja rajsabha mein aapka intezaar kar rahe hain."
+
+Krishna ne muskura kar unka swagat kiya.
+
+Suraj thoda upar aaya to Shri Krishna ne Brahmanon ko sona, vastra, gaay aur ghode daan mein diye.
+
+Tab unke saarathi Daruka unka divya rath lekar aaye.
+
+Rath bahut sundar tha aur us par lage ghanton ki madhur awaaz goonj rahi thi.
+
+Shri Krishna ne pavitra agni aur Brahmanon ki parikrama ki.
+
+Phir apna divya Kaustubha Mani dhaaran ki aur rath par savaar ho gaye.
+
+Vidura apne rath se unke saath chale.
+
+Duryodhana aur Shakuni bhi unke peeche chal diye.
+
+Satyaki, Kritavarma aur Yadav sena ke veer bhi unke saath the.
+
+Raaste bhar shankh, nagaade aur anek vaadya bajne lage.
+
+Hazaaron sainik, haathi, ghode aur rath Shri Krishna ke saath chal rahe the.
+
+Poora Hastinapur unke darshan ke liye sadkon par umad pada.
+
+Gharon ki chhaton aur balkoniyon par bhi itni mahilaayein khadi thi ki jagah kam pad gayi.
+
+Shri Krishna sabka abhivaadan sweekar karte hue aage badhte rahe.
+
+Aakhirkar woh Kuru rajsabha ke dvaar par pahunche.
+
+Jaise hi unka rath ruka,
+
+Shankhon aur turhiyon ki zor se dhvani goonj uthi.
+
+Sabhi raja samajh gaye ki Shri Krishna aa gaye hain.
+
+Sab utsaah se unke darshan ka intezaar karne lage.
+
+Krishna rath se utar kar Vidura aur Satyaki ke saath rajsabha mein pravesh kiya.
+
+Unka tej itna adbhut tha ki sabhi ka dhyaan sirf unhi par tha.
+
+Dhritarashtra, Bhishma, Dronacharya aur sabhi buzurg unke sammaan mein khade ho gaye.
+
+Dhritarashtra ne unke liye sone ka sundar aasan rakhvaaya.
+
+Krishna ne baithne se pehle sabhi buzurgon aur rajaon ko unki umr aur maryada ke anusaar pranaam kiya.
+
+Tab Shri Krishna ne dekha ki Maharshi Narada aur anya Rishi bhi aakash se is sabha ko dekhne aaye hain.
+
+Krishna ne turant Bhishma se kaha,
+
+"In mahaan Rishiyon ka pehle sammaan kijiye."
+
+"Jab tak ve baith na jaayen, tab tak kisi aur ko baithna uchit nahi hai."
+
+Bhishma ne turant unke liye sundar aasan mangvaaye.
+
+Sabhi Rishiyon ka aadar-satkaar kiya gaya.
+
+Uske baad hi Krishna aur sabhi raja apne-apne sthaan par baith gaye.
+
+Sab log Krishna ko dekhte hi reh gaye.
+
+Unka divya roop itna manmohak tha ki kisi ki nazar unse hat hi nahi rahi thi.
+
+Peet vastra pehne hue Shri Krishna us sabha ke beech aise chamak rahe the jaise sone mein jada hua neelam ratna.
+
+Jab Shri Krishna apne aasan par baith gaye,
+
+Poora rajdarbar bilkul shaant ho gaya.
+
+Sab log unki baat sunne ka intezaar karne lage. """
             create_image_text_layout(
                 text_content=text2,
                 layout="full"
@@ -10120,7 +10329,27 @@ Uske baad apne saathiyon ke saath Vidura ke ghar prem aur santosh ke saath bhoja
 
         # Section 5.3.24
         with st.expander("Section 5.3.24  Section XCV"):
-            text1 = """ """
+            text1 = """ Section XCV – Krishna Ka Shanti Sandesh
+
+Vaisampayana bole,
+
+Sabhi raja apni jagah baith gaye.
+
+Poore rajdarbar mein gehri shaanti chha gayi.
+
+Tab Shri Krishna uthkar Dhritarashtra se bole,
+
+"Maharaj, main yahan sirf ek uddeshya se aaya hoon."
+
+"Main chahta hoon ki Kaurav aur Pandav ke beech bina yuddh ke shanti ho jaaye."
+
+"Isse bada koi kaam nahi ho sakta."
+
+Krishna ne aage kaha,
+
+"Aapka Kuru vansh dharm, satya aur nyaay ke liye prasiddh hai."
+
+"Isliye aapke vansh se adharm hona bahut dukh ki baat hai." """
             create_image_text_layout(
                 "attached_assets/chapter5/5.3.24.jpg",
                 text1,
@@ -10128,7 +10357,85 @@ Uske baad apne saathiyon ke saath Vidura ke ghar prem aur santosh ke saath bhoja
                 image_position="left"
             )
 
-            text2 = """ """
+            text2 = """ "Duryodhana aur uske saathi laalach aur ghamand mein dharm ka maarg chhod chuke hain."
+
+"Agar aap unhe nahi rokenge, to poori dharti par bhayankar vinaash hoga."
+
+Phir Krishna bole,
+
+"Abhi bhi der nahi hui hai."
+
+"Aap apne putron ko samjhaiye, aur main Pandavon ko samjhaunga."
+
+"Shanti sirf hum dono ki koshish se hi ho sakti hai."
+
+Krishna ne samjhaya,
+
+"Pandav aapke sabse bade sahaayak ban sakte hain."
+
+"Agar Kaurav aur Pandav ek saath ho jaayen, to poori duniya mein koi bhi aapka saamna nahi kar sakta."
+
+"Tab aap apne putron, poton aur parivaar ke saath sukh se jeevan bitaayenge."
+
+Phir Krishna ne yuddh ke parinaam bataye.
+
+"Yuddh mein sirf vinaash hota hai."
+
+"Chahe Pandav marein ya Kaurav, dukh sirf aapko hi milega."
+
+"Isliye is vinaash ko rokiye."
+
+"Poore Bharat ke raja yahan ikattha hue hain."
+
+"Agar yuddh hua, to anek veer bina wajah mare jaayenge."
+
+Krishna ne kaha,
+
+"In sabhi rajaon ko gale milkar apne-apne ghar lautne dijiye."
+
+"Purani dushmani bhool jaiye."
+
+"Pandavon ke liye apna purana prem phir se jagaiye."
+
+"Jab unke pita nahi rahe, tab aapne hi unki dekhbhaal ki thi."
+
+"Aaj bhi unki raksha karna aapka kartavya hai."
+
+Phir Krishna ne Pandavon ka sandesh sunaya.
+
+Pandavon ne kaha,
+
+"Humne aapki aagya maankar 12 saal vanvaas aur 1 saal agyaatvaas poora kiya."
+
+"Humne apna vachan nibhaya."
+
+"Ab aap bhi apna vachan nibhaiye."
+
+"Humein hamara haq ka rajya wapas dijiye."
+
+"Hum hamesha aapko pita aur guru samaan maante hain."
+
+Krishna ne sabha mein baithe rajaon ko bhi yaad dilaya,
+
+"Jahan dharm ko adharm se dabaya jaata hai aur sab chup rehte hain, wahan sabhi doshi hote hain."
+
+"Isliye aaj sabko dharm ka saath dena chahiye."
+
+Ant mein Krishna bole,
+
+"Maharaj, Pandav aaj bhi aapki seva karne ke liye taiyaar hain."
+
+"Aur agar nyaay na mila, to yuddh ke liye bhi taiyaar hain."
+
+"Isliye gusse ko chhodiye aur unhe unka haq ka rajya de dijiye."
+
+"Yahi dharm hai, yahi nyaay hai aur yahi sabke hit mein hai."
+
+Vaisampayana bole,
+
+Krishna ki baatein sunkar sabhi raja mann hi mann unki prashansa kar rahe the.
+
+Lekin Duryodhana ke dar se kisi ne bhi khulkar kuch nahi kaha. """
             create_image_text_layout(
                 text_content=text2,
                 layout="full"
@@ -10137,7 +10444,23 @@ Uske baad apne saathiyon ke saath Vidura ke ghar prem aur santosh ke saath bhoja
 
         # Section 5.3.25
         with st.expander("Section 5.3.25  Section XCVI"):
-            text1 = """ """
+            text1 = """ Section XCVI – Parashurama Ki Seekh Aur Nara-Narayana Ki Kahani
+
+Vaisampayana bole,
+
+Shri Krishna ki baat sunkar poori sabha chup ho gayi.
+
+Koi bhi unki baaton ka jawab dene ki himmat nahi kar paaya.
+
+Tab Maharshi Parashurama uthkar Duryodhana se bole,
+
+"Main tumhe ek purani kahani sunata hoon."
+
+"Usse tumhe sahi raasta samajh mein aayega."
+
+Parashurama ne kaha,
+
+Bahut samay pehle Dambhodbhava naam ka ek shaktishaali raja tha. """
             create_image_text_layout(
                 "attached_assets/chapter5/5.3.25.jpg",
                 text1,
@@ -10145,14 +10468,116 @@ Uske baad apne saathiyon ke saath Vidura ke ghar prem aur santosh ke saath bhoja
                 image_position="left"
             )
 
-            text2 = """ """
+            text2 = """ Usne lagbhag poori dharti jeet li thi.
+
+Har subah woh sabse ek hi sawaal poochhta tha,
+
+"Kya is duniya mein koi hai jo mujhe yuddh mein hara sake?"
+
+Uska ghamand din-ba-din badhta gaya.
+
+Ek din kuch Brahmanon ne usse kaha,
+
+"Tumse bhi bade do mahaan veer hain."
+
+Raja ne poochha,
+
+"Woh kaun hain?"
+
+Brahmanon ne jawab diya,
+
+"Unka naam Nara aur Narayana hai."
+
+"Woh Gandhamadan Parvat par tapasya kar rahe hain."
+
+Yeh sunkar raja apni badi sena lekar unse yuddh karne nikal pada.
+
+Jab woh pahunchaa, usne dekha ki dono Rishi bahut shaant bhaav se tapasya kar rahe hain.
+
+Unhone raja ka aadar kiya aur phal, jal aur baithne ka sthaan diya.
+
+Phir poochha,
+
+"Rajan, tum yahan kis kaam se aaye ho?"
+
+Raja ne ghamand se kaha,
+
+"Main poori dharti jeet chuka hoon."
+
+"Ab main tum dono se yuddh karna chahta hoon."
+
+Nara aur Narayana ne shaanti se kaha,
+
+"Yeh tapasya ka sthaan hai."
+
+"Yahan na gussa hai aur na hi yuddh."
+
+"Agar yuddh karna hai to kahin aur jao."
+
+Lekin raja nahi maana.
+
+Tab Nara ne zameen se sirf kuch ghaas ke tinke utha liye aur bole,
+
+"Theek hai, agar tum yahi chahte ho, to aao yuddh karo."
+
+Raja ne apni poori sena se teeron ki varsha kar di.
+
+Lekin Nara ne un chhote se ghaas ke tinkon se hi saare teer rok diye.
+
+Phir unhone wahi ghaas ke tinke divya shakti se chala diye.
+
+Un tinkon ne raja ki poori sena ko hara diya.
+
+Sab dar gaye.
+
+Raja turant Nara ke charanon mein gir gaya aur bola,
+
+"Mujhe kshama kar dijiye."
+
+Nara ne usse maaf kar diya aur kaha,
+
+"Kabhi bhi ghamand mat karna."
+
+"Bina kisi ki shakti jaane uska apmaan mat karna."
+
+"Dharm ka paalan karna aur Brahmanon ki salah maanna."
+
+"Apni praja ka pyaar se dhyaan rakhna."
+
+Raja ne unhe pranaam kiya aur badal kar apne rajya laut gaya.
+
+Kahani samaapt karke Parashurama ne Duryodhana se kaha,
+
+"Aaj ke samay ke Nara aur Narayana hi Arjuna aur Shri Krishna hain."
+
+"Arjuna ko koi hara nahi sakta, kyunki Krishna unke saath hain."
+
+"Aur Krishna ki shakti sabse badhkar hai."
+
+"Isliye apna ghamand chhod do."
+
+"Pandavon se shanti kar lo."
+
+"Yahi tumhare aur tumhare vansh ke liye sabse achha raasta hai." """
             create_image_text_layout(
                 text_content=text2,
                 layout="full"
             )
                 # Section 5.3.26
         with st.expander("Section 5.3.26  Section XCVII"):
-            text1 = """ """
+            text1 = """ Section XCVII – Kanva Rishi Ki Salah
+
+Vaisampayana bole,
+
+Parashurama ki baat khatam hone ke baad Maharshi Kanva bhi Duryodhana se bole,
+
+"Duryodhana, meri baat bhi dhyaan se suno."
+
+Kanva Rishi ne kaha,
+
+"Bhagwan Vishnu hamesha se hain aur hamesha rahenge."
+
+"Nara aur Narayana bhi divya aur amar hain." """
             create_image_text_layout(
                 "attached_assets/chapter5/5.3.26.jpg",
                 text1,
@@ -10160,7 +10585,55 @@ Uske baad apne saathiyon ke saath Vidura ke ghar prem aur santosh ke saath bhoja
                 image_position="left"
             )
 
-            text2 = """ """
+            text2 = """ "Lekin is duniya ki baaki sab cheezein ek din samaapt ho jaati hain."
+
+"Surya, Chandra, Prithvi, jal, agni, vaayu aur sabhi jeev ek din nasht ho jaate hain."
+
+"Raja bhi hamesha rajya nahi karte."
+
+"Ek din unka bhi ant hota hai aur phir unhe apne karmon ka phal bhogna padta hai."
+
+Phir Kanva bole,
+
+"Isliye ghamand kabhi mat karo."
+
+"Hamesha yaad rakho ki har shaktishaali se bhi koi aur zyada shaktishaali ho sakta hai."
+
+"Pandav bahut mahaan veer hain."
+
+"Unki shakti Devtaon ke samaan hai."
+
+"Isliye Yudhishthira se shanti kar lo."
+
+"Pandav aur Kaurav milkar is dharti par raj karein."
+
+Uske baad Kanva Rishi ne ek purani kahani sunaani shuru ki.
+
+Unhone kaha,
+
+"Ek samay Devraj Indra ke saarathi ka naam Matali tha."
+
+"Uski ek bahut hi sundar beti thi, jiska naam Gunakesi tha."
+
+Jab Gunakesi ke vivaah ka samay aaya, tab Matali bahut chintit ho gaya.
+
+Woh sochne laga,
+
+"Meri beti ke liye sabse yogya var kaun hoga?"
+
+Usne Devtaon, Gandharvon, Rishiyon aur Manushyon mein bahut khoj ki.
+
+Lekin use koi bhi aisa var nahi mila jo Gunakesi ke yogya ho.
+
+Phir Matali ne apni patni Sudharma se salah ki.
+
+Usne kaha,
+
+"Shayad Naag Lok mein mujhe iske liye yogya var mil jaaye."
+
+Yeh sochkar Matali ne apni beti ko pyaar se aashirvaad diya.
+
+Phir woh Naag Lok ki yatra ke liye nikal pada. """
             create_image_text_layout(
                 text_content=text2,
                 layout="full"
@@ -10169,7 +10642,23 @@ Uske baad apne saathiyon ke saath Vidura ke ghar prem aur santosh ke saath bhoja
 
         # Section 5.3.27
         with st.expander("Section 5.3.27  Section XCVIII"):
-            text1 = """ """
+            text1 = """ Section XCVIII – Matali Aur Narada Naag Lok Pahunche
+
+Kanva Rishi bole,
+
+Jab Matali Naag Lok ki taraf ja rahe the, tab raaste mein unki mulaqat Maharshi Narada se hui.
+
+Narada ne poochha,
+
+"Matali, tum kahan ja rahe ho?"
+
+"Kya yeh tumhara apna kaam hai ya Indra Dev ne tumhe bheja hai?"
+
+Matali ne vinamrata se jawab diya,
+
+"Main apni beti Gunakesi ke liye ek yogya var dhoondhne ja raha hoon."
+
+Yeh sunkar Narada bole, """
             create_image_text_layout(
                 "attached_assets/chapter5/5.3.27.jpg",
                 text1,
@@ -10177,7 +10666,67 @@ Uske baad apne saathiyon ke saath Vidura ke ghar prem aur santosh ke saath bhoja
                 image_position="left"
             )
 
-            text2 = """ """
+            text2 = """ "To phir main bhi tumhare saath chalta hoon."
+
+"Main bhi Varuna Dev se milne ja raha hoon."
+
+"Hum dono milkar ek achha var dhoondhenge."
+
+Dono saath milkar Naag Lok pahunche.
+
+Wahan unhone Jal Devta Varuna ka darshan kiya.
+
+Varuna ne Narada aur Matali ka bade sammaan se swagat kiya.
+
+Apna uddeshya batane ke baad dono Naag Lok dekhne nikle.
+
+Narada har jagah ke baare mein Matali ko batate chale gaye.
+
+Narada bole,
+
+"Dekho, yeh Varuna Dev ka adbhut rajya hai."
+
+"Yeh dhan-daulat aur sundarta se bhara hua hai."
+
+Phir unhone Varuna ke putra Pushkara ko dikhaya.
+
+"Yeh Pushkara hain."
+
+"Yeh bahut buddhimaan, sundar aur gunvaan hain."
+
+"Inki patni ka naam Jyotsnakali hai."
+
+Aage badhte hue Narada ne ek sone ka mahal dikhaya.
+
+"Yahan Varuni naam ka divya pey rakha gaya hai."
+
+"Isi ko praapt karke Devta aur bhi shaktishaali bane the."
+
+Phir Narada ne bahut se divya astra-shastra dikhaye.
+
+"Yeh sab pehle Daityon ke the."
+
+"Yuddh ke baad Devtaon ne inhe praapt kiya."
+
+"Yeh astra kabhi nasht nahi hote aur chalane ke baad wapas apne maalik ke paas aa jaate hain."
+
+Narada ne ek divya agni, Bhagwan Vishnu ka Sudarshan Chakra aur ek mahaan dhanush bhi dikhaya.
+
+Unhone kaha,
+
+"Yeh bahut shaktishaali dhanush hai."
+
+"Isi ke naam par Arjuna ke Gandiva dhanush ka naam pada."
+
+"Yeh adharmi aur dusht rajaon ka vinaash karne ke liye banaya gaya tha."
+
+Ant mein Narada bole,
+
+"Naag Lok mein dekhne layak bahut saari adbhut cheezein hain."
+
+"Lekin humein apna asli kaam nahi bhoolna chahiye."
+
+"Chalo, ab Gunakesi ke liye yogya var ki khoj aage badhaate hain." """
             create_image_text_layout(
                 text_content=text2,
                 layout="full"
@@ -10186,7 +10735,23 @@ Uske baad apne saathiyon ke saath Vidura ke ghar prem aur santosh ke saath bhoja
 
         # Section 5.3.28
         with st.expander("Section 5.3.28  Section XCIX"):
-            text1 = """ """
+            text1 = """ Section XCIX – Patal Lok Ka Adbhut Darshan
+
+Kanva Rishi bole,
+
+Narada ne Matali se kaha,
+
+"Yeh Naag Lok ke beech mein sthit mahaan nagari Patal hai."
+
+"Daitya aur Danav bhi iska bahut sammaan karte hain."
+
+Narada ne aage bataya,
+
+"Yahan ek adbhut agni jalti rehti hai jo paani se hi prajwalit hoti hai."
+
+"Bahut samay pehle Devtaon ne yahin apne shatruon ko hara kar Amrit piya tha."
+
+Phir Narada bole, """
             create_image_text_layout(
                 "attached_assets/chapter5/5.3.28.jpg",
                 text1,
@@ -10194,7 +10759,59 @@ Uske baad apne saathiyon ke saath Vidura ke ghar prem aur santosh ke saath bhoja
                 image_position="left"
             )
 
-            text2 = """ """
+            text2 = """ "Yahin se Chandrama ke ghatne aur badhne ka rahasya juda hua hai."
+
+"Aur yahin se Bhagwan Vishnu apne divya roop mein Vedon ki dhvani se poore brahmand ko pavitra karte hain."
+
+Narada ne aur bhi adbhut baatein dikhayi.
+
+"Yahin se Airavat haathi thanda jal lekar baadalon tak pahunchata hai."
+
+"Usi jal ko Indra varsha ke roop mein dharti par barsaate hain."
+
+Wahan bahut bade-bade jal jeev bhi rehte the.
+
+Narada bole,
+
+"Yahan kuch ajeeb jeev din mein Surya ki garmi se mar jaate hain."
+
+"Lekin raat ko Chandrama ki Amrit jaisi kirne unhe phir se jeevit kar deti hain."
+
+Aage chal kar Narada ne kaha,
+
+"Yahan bahut se Daitya bhi rehte hain jo Devtaon se haar chuke hain."
+
+"Bhagwan Mahadev ne bhi kabhi isi sthaan par kathor tapasya ki thi."
+
+"Bahut se mahaan Rishi bhi yahan tapasya karte hain aur apni shakti se swarg ko praapt karte hain."
+
+Thodi door chalne par Narada ne kuch mahaan haathi dikhaye.
+
+"Yeh Airavat aur uske vansh ke divya haathi hain."
+
+Phir Narada ne Matali se kaha,
+
+"Dhyaan se dekho."
+
+"Agar tumhe yahan koi yogya var dikhe, to hum usse Gunakesi ke vivaah ki baat karenge."
+
+Uske baad Narada ne paani ke beech ek chamakta hua bada anda dikhaya.
+
+Woh bole,
+
+"Yeh anda srishti ke aarambh se yahin pada hai."
+
+"Na yeh tootta hai aur na hi hilta hai."
+
+"Kisi ko nahi pata ki yeh kahan se aaya."
+
+"Kehte hain ki pralay ke samay isi ke andar se bhayankar agni niklegi aur poore brahmand ko samaapt kar degi."
+
+Yeh sab dekhkar Matali ne kaha,
+
+"Mujhe yahan bhi Gunakesi ke liye koi yogya var nahi dikh raha."
+
+"Chaliye, ab kisi aur jagah chalte hain." """
             create_image_text_layout(
                 text_content=text2,
                 layout="full"
@@ -10203,7 +10820,27 @@ Uske baad apne saathiyon ke saath Vidura ke ghar prem aur santosh ke saath bhoja
 
         # Section 5.3.29
         with st.expander("Section 5.3.29  Section C"):
-            text1 = """ """
+            text1 = """ Section C – Hiranyapura Aur Matali Ka Faisla
+
+Kanva Rishi bole,
+
+Narada ne Matali se aage kaha,
+
+"Ab dekho, yeh Hiranyapura nagari hai."
+
+"Yeh Daitya aur Danavon ki bahut prasiddh nagari hai."
+
+"Isse Maya Danav ne apni adbhut kala se banaya tha."
+
+Narada ne bataya,
+
+"Yahan bahut shaktishaali Danav rehte hain."
+
+"Unhe Brahma ji se vardaan mila hua hai."
+
+"Unki maya aur shakti ke kaaran Devta bhi unhe aasaani se hara nahi sakte."
+
+Phir Narada bole, """
             create_image_text_layout(
                 "attached_assets/chapter5/5.3.29.jpg",
                 text1,
@@ -10211,7 +10848,47 @@ Uske baad apne saathiyon ke saath Vidura ke ghar prem aur santosh ke saath bhoja
                 image_position="left"
             )
 
-            text2 = """ """
+            text2 = """ "Yahan Kalakhanja aur Nivatakavacha jaise bhayankar Asur bhi rehte hain."
+
+"Kai baar Indra ko bhi inse yuddh mein peeche hatna pada tha."
+
+Narada ne Matali ko unki nagari dikhayi.
+
+Har taraf sone aur chaandi ke mahal chamak rahe the.
+
+Un mahalon mein anmol ratna lage hue the.
+
+Sab kuch bahut hi sundar aur adbhut lag raha tha.
+
+Narada bole,
+
+"Dekho, yeh unke mahal, bagiche, jharne aur aaraam karne ke sthaan hain."
+
+"Yeh ped apni marzi se phal aur phool dete hain."
+
+"Sab kuch bahut hi alaukik hai."
+
+Phir Narada ne kaha,
+
+"Dhyaan se dekho."
+
+"Agar tumhe yahan Gunakesi ke liye koi yogya var mile, to hum usse baat karenge."
+
+Matali ne shaant hokar jawab diya,
+
+"Nahi, yeh theek nahi hoga."
+
+"Devta aur Danav hamesha se ek doosre ke shatru rahe hain."
+
+"Main apni beti ka vivaah hamare shatruon ke ghar nahi kar sakta."
+
+Phir Matali muskura kar bole,
+
+"Chaliye, kisi aur jagah chalte hain."
+
+"Aur Narada ji, main jaanta hoon ki aapko kabhi-kabhi logon ke beech vivaad karaane mein bhi mazaa aata hai."
+
+Yeh sunkar dono wahan se aage ki yatra ke liye nikal pade. """
             create_image_text_layout(
                 text_content=text2,
                 layout="full"
@@ -10220,7 +10897,21 @@ Uske baad apne saathiyon ke saath Vidura ke ghar prem aur santosh ke saath bhoja
 
         # Section 5.3.30
         with st.expander("Section 5.3.30  Section CI"):
-            text1 = """ """
+            text1 = """ Section CI – Garud Vansh Ka Adbhut Lok
+
+Kanva Rishi bole,
+
+Narada ne Matali se kaha,
+
+"Ab hum Pakshiyon ke lok mein aa gaye hain."
+
+"Yahan sabhi pakshi bahut shaktishaali hain."
+
+"Yeh kabhi thakte nahi aur bahut door tak ud sakte hain."
+
+"Inka bhojan saamp hote hain."
+
+Narada ne bataya, """
             create_image_text_layout(
                 "attached_assets/chapter5/5.3.30.jpg",
                 text1,
@@ -10228,7 +10919,37 @@ Uske baad apne saathiyon ke saath Vidura ke ghar prem aur santosh ke saath bhoja
                 image_position="left"
             )
 
-            text2 = """ """
+            text2 = """ "Yeh sab Garud ji ke chhe putron ke vanshaj hain."
+
+"Unke naam Sumukha, Sunaman, Sunetra, Suvarchas, Suvanch aur Suvala the."
+
+"Inhi se hazaaron pakshi vansh ki shuruaat hui."
+
+Phir Narada bole,
+
+"Yeh sab bahut samriddh, balwaan aur veer hain."
+
+"Inmein Kshatriyon jaisi himmat hai."
+
+"Lekin kyunki yeh saamp khaate hain, isliye inmein daya kam hoti hai."
+
+"Yeh sab Bhagwan Vishnu ke bhakt hain."
+
+"Bhagwan Vishnu hamesha inki raksha karte hain."
+
+Uske baad Narada ne un mahaan pakshiyon ke kai naam bataye.
+
+Unhone kaha,
+
+"Inmein Suvarnachuda, Vainateya, Sumukha, Kumuda, Hari, Hemavarna, Divakara aur bahut se anya mahaan pakshi shaamil hain."
+
+"Yeh sab apni shakti, veerta aur yash ke liye prasiddh hain."
+
+Phir Narada ne Matali se poochha,
+
+"Kya tumhe yahan Gunakesi ke liye koi yogya var dikh raha hai?"
+
+"Agar nahi, to hum kisi aur lok mein chalenge aur wahan khoj jaari rakhenge." """
             create_image_text_layout(
                 text_content=text2,
                 layout="full"
