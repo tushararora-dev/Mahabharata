@@ -10958,7 +10958,24 @@ Phir Narada ne Matali se poochha,
 
         # Section 5.3.31
         with st.expander("Section 5.3.31  Section CII"):
-            text1 = """ """
+            text1 = """ 
+            Section CII – Rasatal Aur Divya Gaay Surabhi
+
+Kanva Rishi bole,
+
+Narada ne Matali se kaha,
+
+"Ab hum Rasatal mein aa gaye hain."
+
+"Yeh Prithvi ke neeche saatvaan lok hai."
+
+Phir Narada bole,
+
+"Yahan sabhi gaayon ki mata Surabhi rehti hain."
+
+"Unka janm Amrit se hua tha."
+
+"Unka doodh bahut pavitra aur divya hai." """
             create_image_text_layout(
                 "attached_assets/chapter5/5.3.31.jpg",
                 text1,
@@ -10966,7 +10983,53 @@ Phir Narada ne Matali se poochha,
                 image_position="left"
             )
 
-            text2 = """ """
+            text2 = """ "Usme duniya ke sabhi uttam gun samaaye hue hain."
+
+Narada ne bataya,
+
+"Ek baar Surabhi ke doodh ki sirf ek dhaar Prithvi par giri thi."
+
+"Usi se pavitra Kshir Sagar, yaani Doodh ka Samudra bana."
+
+Us samudra ke kinaare mahaan Rishi rehte the.
+
+Woh sirf uske jhaag par jeevan bitaate the.
+
+Isliye unhe Foam-drinkers kaha jaata tha.
+
+Unki tapasya itni kathin thi ki Devta bhi unka sammaan karte the.
+
+Phir Narada ne kaha,
+
+"Surabhi ki chaar aur divya gaayen hain."
+
+"Yeh chaaron dishaon ki raksha karti hain."
+
+Unhone unke naam bataye,
+
+"Purv disha ki raksha Surupa karti hain."
+
+"Dakshin disha ki raksha Hansika karti hain."
+
+"Pashchim disha ki raksha Subhadra karti hain."
+
+"Aur Uttar disha ki raksha Sarva-kamadugha karti hain."
+
+Narada ne aage bataya,
+
+"Jab Devta aur Asur milkar Samudra Manthan kar rahe the, tab isi divya doodh se mile hue samudra se bahut anmol vastuayen nikli thi."
+
+"Jaise Lakshmi ji, Amrit, Varuni, Uchchaihshrava ghoda aur Kaustubha Mani."
+
+Phir Narada bole,
+
+"Surabhi ka doodh har jeev ke liye alag roop le leta hai."
+
+"Kisi ke liye woh Amrit ban jaata hai, kisi ke liye pavitra ahuti aur kisi ke liye divya bhojan."
+
+Ant mein Narada ne ek prasiddh kahawat sunayi.
+
+"Vidvaan log kehte hain ki Naag Lok, Swarg ya kisi aur lok se bhi zyada sukh Rasatal mein milta hai." """
             create_image_text_layout(
                 text_content=text2,
                 layout="full"
@@ -10975,7 +11038,23 @@ Phir Narada ne Matali se poochha,
 
         # Section 5.3.32
         with st.expander("Section 5.3.32  Section CIII"):
-            text1 = """ """
+            text1 = """ Section CIII – Matali Ko Gunakesi Ke Liye Var Mil Gaya
+
+Kanva Rishi bole,
+
+Narada ne Matali se kaha,
+
+"Yeh Bhogavati nagari hai."
+
+"Yeh Naag Lok ki sabse mahaan nagari hai."
+
+"Is par Naagraj Vasuki ka raaj hai."
+
+Phir Narada ne kaha,
+
+"Yahin Sheshnag bhi rehte hain."
+
+"Apni kathor tapasya ki shakti se wahi poori Prithvi ko sambhale hue hain." """
             create_image_text_layout(
                 "attached_assets/chapter5/5.3.32.jpg",
                 text1,
@@ -10983,7 +11062,62 @@ Phir Narada ne Matali se poochha,
                 image_position="left"
             )
 
-            text2 = """ """
+            text2 = """ "Unke hazaar sir hain aur unka tej bahut adbhut hai."
+
+Narada ne Matali ko Naag Lok ke baare mein aur bataya.
+
+"Yahan anek shaktishaali Naag rehte hain."
+
+"Kisi ke do sir hain, kisi ke paanch, kisi ke saat aur kuch ke to hazaar sir bhi hain."
+
+"Sabhi bahut balwaan aur divya hain."
+
+Uske baad Narada ne kai prasiddh Naagon ke naam bataye.
+
+Unhone kaha,
+
+"Inmein Vasuki, Takshaka, Karkotaka, Kaliya, Airavata, Aryaka aur bahut se mahaan Naag shaamil hain."
+
+Phir Narada bole,
+
+"Dhyaan se dekho."
+
+"Agar tumhe yahan Gunakesi ke liye koi yogya var dikhe, to batao."
+
+Tab Matali ki nazar ek sundar aur tej se bhare yuva Naag par padi.
+
+Usne Narada se poochha,
+
+"Yeh sundar yuva kaun hai?"
+
+"Iske mata-pita kaun hain?"
+
+"Yeh kis vansh ka hai?"
+
+"Mujhe yeh bahut gunvaan aur yogya lag raha hai."
+
+"Main chahta hoon ki meri beti Gunakesi ka vivaah isi se ho."
+
+Narada muskuraaye aur bole,
+
+"Iska naam Sumukha hai."
+
+"Yeh Airavata ke vansh ka Naag Rajkumar hai."
+
+"Yeh Aryaka ka priya pota hai."
+
+"Iske pita ka naam Chikura tha."
+
+"Kuch samay pehle Garud ji ne unka vadh kar diya tha."
+
+Yeh sunkar bhi Matali ka faisla nahi badla.
+
+Woh khush hokar bole,
+
+"Mujhe Sumukha hi apni beti ke liye sabse yogya var lagta hai."
+
+"Kripya usse meri beti Gunakesi ke vivaah ka prastaav dijiye."
+::: """
             create_image_text_layout(
                 text_content=text2,
                 layout="full"
@@ -10992,7 +11126,21 @@ Phir Narada ne Matali se poochha,
 
         # Section 5.3.33
         with st.expander("Section 5.3.33  Section CIV"):
-            text1 = """ """
+            text1 = """ Section CIV – Sumukha Ka Vivaah Tai Hua
+
+Kanva Rishi bole,
+
+Narada ne Aryaka se kaha,
+
+"Yeh Matali hain."
+
+"Yeh Devraj Indra ke priya mitra aur unke saarathi hain."
+
+"Yeh bahut buddhimaan, veer aur satyavaadi hain."
+
+"Har yuddh mein inhone Indra ki bahut sahaayata ki hai."
+
+Phir Narada bole, """
             create_image_text_layout(
                 "attached_assets/chapter5/5.3.33.jpg",
                 text1,
@@ -11000,7 +11148,82 @@ Phir Narada ne Matali se poochha,
                 image_position="left"
             )
 
-            text2 = """ """
+            text2 = """ "Matali ki ek bahut sundar aur gunvaan beti hai, jiska naam Gunakesi hai."
+
+"Woh teenon lokon mein uske liye yogya var dhoondh rahe the."
+
+"Aur unhone tumhare pote Sumukha ko apni beti ke liye chun liya hai."
+
+"Agar tumhe yeh rishta sweekar ho, to Gunakesi ko apne ghar ki bahu bana lo."
+
+Narada ne aage kaha,
+
+"Sumukha gunvaan, vinamra aur pavitra swabhaav ka hai."
+
+"Isi wajah se Matali ne use apna damaad chunna hai."
+
+Yeh sunkar Aryaka ek saath khush bhi hue aur dukhi bhi.
+
+Khush isliye ki itna achha rishta mila tha.
+
+Aur dukhi isliye kyunki unhe apne bete ki yaad aa gayi.
+
+Aryaka bole,
+
+"Mujhe is rishte se koi aitraaz nahi hai."
+
+"Lekin ek badi samasya hai."
+
+"Garud ji ne mere bete Chikura ko maar diya tha."
+
+"Jaate samay unhone kaha tha ki ek mahine baad woh Sumukha ko bhi kha jaayenge."
+
+"Isi baat se hum sab bahut chintit hain."
+
+Tab Matali ne kaha,
+
+"Iska bhi ek upaay hai."
+
+"Sumukha mere saath Swarg Lok chale."
+
+"Hum Devraj Indra se madad maangenge."
+
+"Wahin pata chalega ki Sumukha ki raksha kaise ho sakti hai."
+
+Phir Matali, Narada aur Sumukha milkar Swarg Lok gaye.
+
+Wahan Devraj Indra virajmaan the.
+
+Us samay Bhagwan Vishnu bhi wahan maujood the.
+
+Narada ne poori baat Vishnu aur Indra ko bata di.
+
+Sab kuch sunkar Bhagwan Vishnu ne Indra se kaha,
+
+"Sumukha ko aisa vardaan dijiye ki uski raksha ho sake."
+
+Indra ne Vishnu se kaha,
+
+"Yeh vardaan aap hi dijiye."
+
+Lekin Vishnu bole,
+
+"Aap Devtaon ke Raja hain."
+
+"Aapke diye hue vardaan ko kaun mana karega?"
+
+Tab Indra ne Sumukha ko bahut lambi aayu ka vardaan diya.
+
+Unhe Amrit nahi pilaaya gaya, lekin unki umr bahut badha di gayi.
+
+Yeh vardaan paakar Sumukha bahut khush ho gaye.
+
+Uske baad unka vivaah Gunakesi se ho gaya.
+
+Matali, Narada aur Aryaka bhi bahut prasann hue.
+
+Sabne Devraj Indra ko pranaam kiya aur khushi-khushi apne-apne ghar laut gaye.
+::: """
             create_image_text_layout(
                 text_content=text2,
                 layout="full"
@@ -11009,7 +11232,21 @@ Phir Narada ne Matali se poochha,
 
         # Section 5.3.34
         with st.expander("Section 5.3.34  Section CV"):
-            text1 = """ """
+            text1 = """ Section CV – Garuda Ka Ghamand Toot Gaya
+
+Kanva Rishi bole,
+
+Jab Garud ji ko pata chala ki Indra ne Naag Rajkumar Sumukha ko lambi aayu ka vardaan de diya hai, to woh bahut krodhit ho gaye.
+
+Woh seedhe Indra ke paas pahunchkar bole,
+
+"Indra, aapne mere bhojan mein dakhal kyun diya?"
+
+"Maine Sumukha ko apna shikaar chuna tha."
+
+"Ab agar main use nahi kha sakta, to mera aur mere parivaar ka guzaara kaise hoga?"
+
+Garud ji ne aage kaha, """
             create_image_text_layout(
                 "attached_assets/chapter5/5.3.34.jpg",
                 text1,
@@ -11017,7 +11254,74 @@ Phir Narada ne Matali se poochha,
                 image_position="left"
             )
 
-            text2 = """ """
+            text2 = """  "Main bhi Kashyap Rishi ka putra hoon."
+
+"Meri shakti kisi se kam nahi hai."
+
+"Maine Devtaon ke liye kai yuddh lade hain."
+
+"Main khud Bhagwan Vishnu ko bhi apni peeth par bitha kar le jaata hoon."
+
+"Phir meri baat ka sammaan kyun nahi hua?"
+
+Yeh sab sunkar Bhagwan Vishnu bole,
+
+"Garud, tum apni shakti par bahut ghamand kar rahe ho."
+
+"Agar tumhe apni taakat par itna vishwas hai, to meri sirf ek baahu ka bhaar utha kar dikhao."
+
+Itna kehkar Bhagwan Vishnu ne apni ek baahu Garud ji ke kandhe par rakh di.
+
+Usi pal Garud ji us bhaar ko sambhaal nahi paaye.
+
+Woh zameen par gir pade.
+
+Unki saans phoolne lagi aur unke pankh bhi jhadne lage.
+
+Tab unhe samajh aa gaya ki Bhagwan Vishnu ki shakti kitni apar hai.
+
+Garud ji ne vinamrata se sir jhuka kar kaha,
+
+"Prabhu, mujhe kshama kar dijiye."
+
+"Main apni shakti ke ghamand mein andha ho gaya tha."
+
+"Ab mujhe samajh aa gaya hai ki aapse bada koi nahi hai."
+
+Bhagwan Vishnu muskuraaye aur bole,
+
+"Aage se kabhi ghamand mat karna."
+
+Uske baad Vishnu ji ne Sumukha ko Garud ji ke saamne laakar khada kar diya.
+
+Us din ke baad Garud aur Sumukha ke beech dushmani samaapt ho gayi aur dono mitra ban gaye.
+
+Phir Kanva Rishi ne Duryodhana se kaha,
+
+"Isi tarah tum bhi tab tak surakshit ho jab tak Pandavon se yuddh nahi karte."
+
+"Bhima aur Arjuna jaise mahaan veeron ka saamna tum nahi kar sakte."
+
+"Krishna swayam Bhagwan Vishnu hain."
+
+"Isliye Vasudev ki baat maan kar shanti kar lo."
+
+"Yahi tumhare aur tumhare vansh ke hit mein hai."
+
+Vaisampayana bole,
+
+Kanva Rishi ki baat sunkar Duryodhana gusse se bhar gaya.
+
+Usne Karna ki taraf dekha aur zor se hans pada.
+
+Phir apni jaangh par haath maar kar bola,
+
+"Main wahi karoonga jo meri kismat mein likha hai."
+
+"Main apna faisla nahi badalunga."
+
+"Tumhari baaton se kuch nahi badalne wala."
+::: """
             create_image_text_layout(
                 text_content=text2,
                 layout="full"
@@ -11026,7 +11330,21 @@ Phir Narada ne Matali se poochha,
 
         # Section 5.3.35
         with st.expander("Section 5.3.35  Section CVI"):
-            text1 = """ """
+            text1 = """ Section CVI – Narada Ne Duryodhana Ko Ek Kahani Sunayi
+
+Janamejaya ne poochha,
+
+"Duryodhana itni galat raah par chal raha tha."
+
+"Uske dost aur bade logon ne use roka kyun nahi?"
+
+"Bhishma, Narada aur anya buddhimaan logon ne use samjhaya kyun nahi?"
+
+Vaisampayana bole,
+
+"Unhone use bahut samjhaya tha."
+
+"Bhishma ne bhi achhi salah di aur Narada ne bhi."  """
             create_image_text_layout(
                 "attached_assets/chapter5/5.3.35.jpg",
                 text1,
@@ -11034,7 +11352,82 @@ Phir Narada ne Matali se poochha,
                 image_position="left"
             )
 
-            text2 = """ """
+            text2 = """ Phir Narada ne Duryodhana se kaha,
+
+"Jo log apne sachche mitron ki baat maante hain, woh bahut kam hote hain."
+
+"Aur jo mitra sachchi aur hit ki salah dete hain, woh bhi bahut durlabh hote hain."
+
+"Zid hamesha dukh ka kaaran banti hai."
+
+"Main tumhe is baat ki ek purani kahani sunata hoon."
+
+Narada ne bataya,
+
+Ek samay Dharma Dev ne Maharishi Vishvamitra ki pariksha lene ka socha.
+
+Woh Maharishi Vashishtha ka roop dharan karke Vishvamitra ke ashram gaye.
+
+Unhone kaha,
+
+"Mujhe bahut bhookh lagi hai."
+
+Vishvamitra ne turant unke liye bhojan banana shuru kar diya.
+
+Lekin bhojan tayyar hone tak mehmaan doosre Rishiyon ke yahan kha chuke the.
+
+Unhone Vishvamitra se kaha,
+
+"Main bhojan kar chuka hoon."
+
+"Tum yahin mera intezaar karo."
+
+Itna kehkar woh chale gaye.
+
+Vishvamitra ne bina shikayat kiye wahi khade rehkar intezaar kiya.
+
+Unhone bhojan apne sir par rakha aur kathor tapasya karte rahe.
+
+Poore 100 saal beet gaye.
+
+Tab Dharma Dev phir Vashishtha ka roop lekar laut aaye.
+
+Unhone dekha ki Vishvamitra ab bhi wahi khade hain.
+
+Unhone wahi garam aur taaza bhojan sweekar kiya aur bole,
+
+"Main tumse bahut prasann hoon."
+
+Yeh sunkar Vishvamitra bahut khush hue.
+
+Unke shishya Galava bhi itne saalon tak unki seva karte rahe.
+
+Ant mein Vishvamitra ne kaha,
+
+"Galava, ab tum ja sakte ho."
+
+Lekin Galava bole,
+
+"Guruji, main bina Guru Dakshina diye kaise ja sakta hoon?"
+
+Vishvamitra baar-baar kehte rahe,
+
+"Tum jao, mujhe kuch nahi chahiye."
+
+Lekin Galava baar-baar ek hi baat kehte rahe,
+
+"Kripya batayiye, main Guru Dakshina mein kya doon?"
+
+Galava ki is zid se Vishvamitra ko thoda krodh aa gaya.
+
+Tab unhone kaha,
+
+"Agar tum dena hi chahte ho, to mujhe 800 ghode laakar do."
+
+"Har ghoda chaand ki tarah safed ho aur uska ek kaan kaala ho."
+
+"Ab jao aur meri baat poori karo."
+::: """
             create_image_text_layout(
                 text_content=text2,
                 layout="full"
@@ -11043,7 +11436,19 @@ Phir Narada ne Matali se poochha,
 
         # Section 5.3.36
         with st.expander("Section 5.3.36  Section CVII"):
-            text1 = """ """
+            text1 = """ Section CVII – Galava Ki Pareshani Aur Garud Ki Madad
+
+Narada ne kahani aage badhaate hue kaha,
+
+Jab Vishvamitra ne 800 vishesh ghode Guru Dakshina mein maange, to Galava bahut chintit ho gaye.
+
+Unhe na chain se neend aati thi aur na hi bhojan achha lagta tha.
+
+Woh din-raat isi baat ki chinta karte rahe.
+
+Ek din dukhi hokar Galava bole,
+
+"Main itne saare ghode kahaan se laaunga?" """
             create_image_text_layout(
                 "attached_assets/chapter5/5.3.36.jpg",
                 text1,
@@ -11051,7 +11456,46 @@ Phir Narada ne Matali se poochha,
                 image_position="left"
             )
 
-            text2 = """ """
+            text2 = """ "Mere paas na dhan hai aur na hi koi itna ameer mitra."
+
+"Agar main Guruji ka vachan poora nahi kar paaya, to mera jeevan bekaar hai."
+
+"Jisne kisi ka upkaar liya ho aur uska badla na chuka sake, uska jeevan safal nahi hota."
+
+"Main pehle poori koshish karoonga."
+
+"Agar phir bhi safal na hua, to apna jeevan tyaag doonga."
+
+Thodi der baad Galava ne socha,
+
+"Main Bhagwan Vishnu ki sharan mein jaaunga."
+
+"Wahi sabki raksha karte hain aur wahi meri bhi madad kar sakte hain."
+
+Isi samay Garud ji wahan aa gaye.
+
+Woh Galava ke achhe mitra the.
+
+Garud ji ne pyaar se poochha,
+
+"Mitra, tum itne dukhi kyun ho?"
+
+Galava ne unhe apni saari pareshani bata di.
+
+Sab kuch sunkar Garud ji bole,
+
+"Sachcha mitra wahi hota hai jo mushkil samay mein saath de."
+
+"Main tumhari madad karoonga."
+
+"Main tumhe apni peeth par bitha kar jahaan chaaho wahan le jaa sakta hoon."
+
+"Chalo, hum milkar tumhari Guru Dakshina poori karne ka raasta dhoondhte hain."
+
+Yeh sunkar Galava ke mann mein phir se umeed jag gayi.
+
+Dono mitra saath milkar apni yatra par nikal pade.
+::: """
             create_image_text_layout(
                 text_content=text2,
                 layout="full"
@@ -11060,7 +11504,21 @@ Phir Narada ne Matali se poochha,
 
         # Section 5.3.37
         with st.expander("Section 5.3.37  Section CVIII"):
-            text1 = """ """
+            text1 = """ Section CVIII – Garud Ne Poorv Disha Ka Mahatva Bataya
+
+Narada ne kahani aage sunaate hue kaha,
+
+Garud ji ne Galava se poochha,
+
+"Mitra, batao pehle kis disha mein chalein?"
+
+"Poorv, Dakshin, Pashchim ya Uttar?"
+
+"Main tumhe wahin le jaaunga jahan tum jaana chahte ho."
+
+Phir Garud ji ne Poorv disha ka mahatva bataya.
+
+Woh bole, """
             create_image_text_layout(
                 "attached_assets/chapter5/5.3.37.jpg",
                 text1,
@@ -11068,7 +11526,46 @@ Phir Narada ne Matali se poochha,
                 image_position="left"
             )
 
-            text2 = """ """
+            text2 = """ "Poorv wahi disha hai jahan se Surya Dev har din ugte hain."
+
+"Yahin se naye din aur samay ki shuruaat hoti hai."
+
+"Bahut samay pehle Daksha ki putriyon ne yahin apni santaan ko janm diya tha."
+
+"Kashyap Rishi ka vansh bhi yahin se badha tha."
+
+Garud ji ne aage kaha,
+
+"Devtaon ke Raja Indra ka abhishek bhi isi disha mein hua tha."
+
+"Devtaon ne yahin tapasya ki aur apne dharmik kaarya kiye."
+
+"Isi liye is disha ko Poorv, yaani pehli disha, kaha jaata hai."
+
+Phir Garud bole,
+
+"Bhagwan Brahma ne sabse pehle yahin Vedon ka gyaan diya tha."
+
+"Surya Dev ne Gayatri Mantra aur Yajurveda ka updesh bhi isi disha mein diya tha."
+
+"Yagyon mein Somras peene aur Havan karne ki parampara bhi yahin se shuru hui."
+
+Garud ne aur bataya,
+
+"Varun Dev ne bhi yahin se apni yatra shuru ki thi."
+
+"Maharishi Vashishtha ka jeevan bhi isi pavitra disha se juda hua tha."
+
+"Yahan bahut se mahaan Rishi tapasya karte rahe."
+
+Ant mein Garud bole,
+
+"Poorv disha Swarg aur mangal ka dvaar maani jaati hai."
+
+"Agar tum chaho to hum sabse pehle isi disha ki yatra karein."
+
+"Aur agar tum kisi aur disha mein jaana chaho, to main tumhe wahin le chalunga."
+::: """
             create_image_text_layout(
                 text_content=text2,
                 layout="full"
@@ -11077,7 +11574,23 @@ Phir Narada ne Matali se poochha,
 
         # Section 5.3.38
         with st.expander("Section 5.3.38  Section CIX"):
-            text1 = """ """
+            text1 = """ Section CIX – Garud Ne Dakshin Disha Ka Rahasya Bataya
+
+Narada ne kahani aage sunaate hue kaha,
+
+Garud ji ne Galava se kaha,
+
+"Ab main tumhe Dakshin disha ka mahatva batata hoon."
+
+"Bahut samay pehle Surya Dev ne ek yagya kiya tha."
+
+"Uske baad unhone yeh disha apne Guru ko Dakshina ke roop mein de di."
+
+"Isi wajah se iska naam Dakshin pada."
+
+Garud ne aage bataya,
+
+"Yahin Pitron ka lok hai." """
             create_image_text_layout(
                 "attached_assets/chapter5/5.3.38.jpg",
                 text1,
@@ -11085,7 +11598,58 @@ Phir Narada ne Matali se poochha,
                 image_position="left"
             )
 
-            text2 = """ """
+            text2 = """ "Yahan Pitra Dev aur Vishwadev rehte hain."
+
+"Yeh sab Yagyon mein pooje jaate hain aur punya ka phal dete hain."
+
+"Yeh Yamaraj ke lok ka ek pravesh dvaar bhi maana jaata hai."
+
+Phir Garud bole,
+
+"Yahin sabhi jeevon ke karmon ka hisaab hota hai."
+
+"Achhe karm karne waale sukh paate hain aur bure karm karne waale dukh."
+
+"Har jeev ko ek na ek din is raaste se guzarna padta hai."
+
+Garud ne bataya,
+
+"Yahan bahut se Maharishi aur Rajarishi bhi nivaas karte hain."
+
+"Lekin paapi logon ke liye yahan bhayankar Rakshas aur kathin dukh bhi hote hain."
+
+"Yahin Vaitarani naam ki bhayankar nadi bhi behti hai."
+
+"Narak jaane waale jeevon ko ise paar karna padta hai."
+
+Phir Garud bole,
+
+"Isi disha mein Raavan ne kathin tapasya karke vardaan maanga tha."
+
+"Yahin Vritra ka vinaash hua tha."
+
+"Aur Maharishi Kapil bhi isi disha se jude hue hain."
+
+Garud ne aage kaha,
+
+"Yahin kuch mahaan Brahmanon ne Vedon ka poora gyaan praapt karke Moksha paaya tha."
+
+"Naagraj Vasuki ki Bhogavati nagari bhi isi disha mein hai."
+
+Ant mein Garud bole,
+
+"Yeh maarg bahut andhera hai."
+
+"Is andhere ko Surya aur Agni ka prakash bhi poori tarah door nahi kar sakta."
+
+"Har jeev ko mrityu ke baad kabhi na kabhi is raaste se guzarna hi padta hai."
+
+Phir Garud ne Galava se poochha,
+
+"Agar tum chaho to hum is disha ki yatra karein."
+
+"Aur agar nahi, to main tumhe Pashchim disha ke baare mein bataata hoon."
+::: """
             create_image_text_layout(
                 text_content=text2,
                 layout="full"
@@ -11094,7 +11658,23 @@ Phir Narada ne Matali se poochha,
 
         # Section 5.3.39
         with st.expander("Section 5.3.39  Section CX"):
-            text1 = """ """
+            text1 = """ Section CX – Garud Ne Pashchim Disha Ka Mahatva Bataya
+
+Narada ne kahani aage sunaate hue kaha,
+
+Garud ji ne Galava se kaha,
+
+"Ab main tumhe Pashchim disha ke baare mein bataata hoon."
+
+"Yeh Varun Dev ki priya disha hai."
+
+"Varun Dev jal ke devta hain aur yahin unka lok hai."
+
+Garud ne aage bataya,
+
+"Shaam ke samay Surya isi disha mein ast hote hain."
+
+"Isi liye isse Pashchim disha kaha jaata hai." """
             create_image_text_layout(
                 "attached_assets/chapter5/5.3.39.jpg",
                 text1,
@@ -11102,7 +11682,60 @@ Phir Narada ne Matali se poochha,
                 image_position="left"
             )
 
-            text2 = """ """
+            text2 = """ "Varun Dev yahin se sabhi nadiyon, samudron aur jal jeevon ki raksha karte hain."
+
+Phir Garud bole,
+
+"Chandrama bhi isi disha se apni shakti praapt karke phir se poorn aur tejomay bante hain."
+
+Garud ne kaha,
+
+"Bahut samay pehle Devtaon ne isi disha mein Asuron ko haraaya tha."
+
+"Yahin Asta Parvat hai, jahan Surya har din ast hote hain."
+
+Garud ne aage bataya,
+
+"Raat aur neend bhi isi disha se poori duniya mein phailti hain."
+
+"Isi disha mein Indra ne Diti ke garbh ko vibhajit kiya tha, jisse baad mein Marut Devtaon ka janm hua."
+
+Phir Garud bole,
+
+"Himalaya ki jadon ka vistaar bhi isi disha ki taraf hai."
+
+"Unka ant hazaaron saal chalne par bhi nahi mil sakta."
+
+Garud ne kaha,
+
+"Yahin Mata Surabhi apna divya doodh deti hain."
+
+"Rahu bhi isi disha mein Surya aur Chandrama ko grahan lagane ki koshish karta rehta hai."
+
+"Yahin mahaan Rishi Vedon ka paath karte hain."
+
+Garud ne aage bataya,
+
+"Isi disha se Surya apni yatra ka maarg badalte hain."
+
+"Kai nakshatra bhi isi maarg se guzarte hain."
+
+"Teenon lokon ka jal bhi Varun Dev ke isi lok se juda hua hai."
+
+Phir Garud bole,
+
+"Yahin Naag Rajkumar Anarta ka nivaas hai."
+
+"Bhagwan Vishnu ka ek divya dhaam bhi isi disha mein hai."
+
+"Aur Maharishi Kashyap ka pavitra aashram bhi yahin sthit hai."
+
+Ant mein Garud ne Galava se poochha,
+
+"Ab batao, tum kis disha mein jaana chahte ho?"
+
+"Main tumhe wahin le chalunga."
+::: """
             create_image_text_layout(
                 text_content=text2,
                 layout="full"
@@ -11111,7 +11744,19 @@ Phir Narada ne Matali se poochha,
 
         # Section 5.3.40
         with st.expander("Section 5.3.40  Section CXI"):
-            text1 = """ """
+            text1 = """ Section CXI – Garud Ne Uttar Disha Ki Mahima Batayi
+
+Narada ne kahani aage sunaate hue kaha,
+
+Garud ji ne Galava se kaha,
+
+"Ab main tumhe Uttar disha ke baare mein bataata hoon."
+
+"Yeh sabse pavitra aur shreshth disha maani jaati hai."
+
+"Yahan aane se paapon se mukti aur Moksha ka maarg milta hai."
+
+Garud ne aage bataya, """
             create_image_text_layout(
                 "attached_assets/chapter5/5.3.40.jpg",
                 text1,
@@ -11119,7 +11764,68 @@ Phir Narada ne Matali se poochha,
                 image_position="left"
             )
 
-            text2 = """ """
+            text2 = """ "Is pavitra disha mein bure swabhaav aur adharm karne waale log nahi reh sakte."
+
+"Yahan Badari Ashram mein Bhagwan Narayana aur Nara hamesha nivaas karte hain."
+
+"Bhagwan Brahma bhi yahin viraajmaan hain."
+
+Phir Garud bole,
+
+"Himalaya par Bhagwan Shiv bhi yahin nivaas karte hain."
+
+"Mata Parvati ne bhi isi sthaan par kathin tapasya karke Shiv ji ko pati ke roop mein praapt kiya tha."
+
+Garud ne kaha,
+
+"Yahin Shiv ji ne Maa Ganga ko pehle apni jataon mein dhaaran kiya aur phir use Prithvi par bheja."
+
+"Yahin Kuber ko Yakshon aur Gandharvon ka Raja banaya gaya tha."
+
+Garud ne aage bataya,
+
+"Yahin Chitrarath ke sundar udyan hain."
+
+"Mandakini nadi aur Mandara Parvat bhi isi disha mein hain."
+
+"Yahan Siddh Purush aur Maharishi anand se nivaas karte hain."
+
+Phir Garud bole,
+
+"Saat Rishi aur Mata Arundhati bhi isi pavitra disha se jude hue hain."
+
+"Swati Nakshatra bhi yahin se dikhai deta hai."
+
+"Surya, Chandrama aur anya grah bhi apni niyamit gati se isi aakash maarg mein chalte hain."
+
+Garud ne kaha,
+
+"Yahin kuch mahaan Rishi Ganga ke mool srot ki raksha karte hain."
+
+"Unki shakti aur tapasya ka rahasya bahut kam log jaante hain."
+
+"Unki anumati ke bina koi bhi usse aage nahi ja sakta."
+
+"Sirf Bhagwan Narayana aur Nara hi us seema ko paar kar sake the."
+
+Garud ne aage bataya,
+
+"Yahin Kailash Parvat hai, jo Kuber ka nivaas sthaan hai."
+
+"Yahin Bhagwan Vishnu ke teen divya kadmon ki yaad mein Vishnupad naam ka pavitra sthaan bhi hai."
+
+"Maharaj Marutta ne bhi isi disha mein ek mahaan Yagya kiya tha."
+
+"Aur Maharishi Jimuta ne yahan ki sone ki khanon ka saara sona Brahmanon ko daan kar diya tha."
+
+Ant mein Garud bole,
+
+"Isi liye Uttar disha sabhi dishaon se shreshth maani jaati hai."
+
+"Ab maine tumhe chaaron dishaon ka varnan kar diya hai."
+
+"Ab tum batao, tum kis disha mein jaana chahte ho. Main tumhe wahin le chalunga."
+::: """
             create_image_text_layout(
                 text_content=text2,
                 layout="full"
