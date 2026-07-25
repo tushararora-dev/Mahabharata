@@ -11832,7 +11832,20 @@ Ant mein Garud bole,
             )
                 # Section 5.3.41
         with st.expander("Section 5.3.41  Section CXII"):
-            text1 = """ """
+            text1 = """ 
+            Section CXII – Garud Ki Tez Udaan Aur Galava Ki Pareshani
+
+Narada ne kahani aage sunaate hue kaha,
+
+Galava ne Garud ji se kaha,
+
+"Hey Garud, mujhe Poorv disha mein le chaliye."
+
+"Aapne bataya tha ki wahaan Devta, Satya aur Dharma ka nivaas hai."
+
+"Main sabhi Devtaon ke darshan karna chahta hoon."
+
+Garud ji muskuraaye aur bole, """
             create_image_text_layout(
                 "attached_assets/chapter5/5.3.41.jpg",
                 text1,
@@ -11840,7 +11853,58 @@ Ant mein Garud bole,
                 image_position="left"
             )
 
-            text2 = """ """
+            text2 = """ "Meri peeth par baith jao."
+
+Galava Garud ji ki peeth par baith gaye.
+
+Garud ji ne turant aasmaan mein bahut tez udaan bhar di.
+
+Unki raftaar itni zyada thi ki zor ki hawa chalne lagi.
+
+Ped hilne lage aur samundar ki lehron mein bhi halchal mach gayi.
+
+Yeh dekhkar Galava hairaan reh gaye.
+
+Thodi der baad woh ghabra gaye aur bole,
+
+"Garud ji, aapki gati Surya se bhi zyada tez lag rahi hai."
+
+"Main kuch bhi theek se dekh nahi paa raha hoon."
+
+"Na Surya dikh raha hai, na dishaayein."
+
+"Mujhe sirf aapki chamakti hui aankhen hi nazar aa rahi hain."
+
+"Kripya apni raftaar thodi kam kijiye."
+
+Galava ne udaas hokar aage kaha,
+
+"Mujhe samajh nahi aa raha ki main Guru Vishvamitra ko 800 safed ghode kaise doonga."
+
+"Mere paas na dhan hai aur na hi koi ameer mitra."
+
+"Mujhe to koi raasta hi nazar nahi aa raha."
+
+Garud ji ne haste hue kaha,
+
+"Galava, itni jaldi himmat mat haaro."
+
+"Apni jaan dene ka kabhi mat sochna."
+
+"Mrityu insaan ki ichchha se nahi aati."
+
+"Kaash tumne pehle hi mujhe apni poori samasya bata di hoti."
+
+"Iska samaadhaan zaroor niklega."
+
+Phir Garud ji bole,
+
+"Dekho, saamne samundar ke kinaare Rishabh Parvat hai."
+
+"Pehle hum wahaan aaraam karenge aur bhojan karenge."
+
+"Uske baad main tumhari madad ka koi achha upaay bataunga."
+::: """
             create_image_text_layout(
                 text_content=text2,
                 layout="full"
@@ -11849,7 +11913,23 @@ Ant mein Garud bole,
 
         # Section 5.3.42
         with st.expander("Section 5.3.42  Section CXIII"):
-            text1 = """ """
+            text1 = """ Section CXIII – Sandili Ki Seekh Aur Galava Ki Chinta
+
+Narada ne kahani aage sunaate hue kaha,
+
+Garud ji aur Galava Rishabh Parvat par utare.
+
+Wahan unhone Sandili naam ki ek tapasvini ko kathor tapasya karte dekha.
+
+Dono ne unhe pranam kiya.
+
+Sandili ne unka swaagat kiya aur baithne ke liye aasan diya.
+
+Phir unhone Devtaon ko arpit kiya hua pavitra bhojan dono ko khilaya.
+
+Bhojan ke baad Garud aur Galava wahin aaraam karne lage.
+
+Jab Garud ji ki neend khuli, to woh hairaan reh gaye. """
             create_image_text_layout(
                 "attached_assets/chapter5/5.3.42.jpg",
                 text1,
@@ -11857,7 +11937,71 @@ Ant mein Garud bole,
                 image_position="left"
             )
 
-            text2 = """ """
+            text2 = """ Unke pankh gaayab ho chuke the.
+
+Sirf unka sharir, sir aur pair hi bache the.
+
+Yeh dekhkar Galava bahut dukhi hue.
+
+Unhone poochha,
+
+"Yeh achanak kya ho gaya?"
+
+"Kya tumhare mann mein koi galat vichaar aaya tha?"
+
+Garud ji ne sach bata diya.
+
+Woh bole,
+
+"Maine socha tha ki Sandili ji ko yahan se lekar kisi aur divya lok mein le jaaun."
+
+"Mera iraada bura nahi tha, lekin maine unse poochhe bina hi yeh soch liya."
+
+"Ab mujhe apni galti samajh aa gayi hai."
+
+"Main unse kshama maangta hoon."
+
+Garud ji ne vinamrata se Sandili ke charanon mein pranam kiya.
+
+Sandili muskura kar boli,
+
+"Dar mat."
+
+"Tumhare pankh wapas aa jaayenge."
+
+"Lekin kabhi kisi ka apmaan ya avhelna mat karna."
+
+"Achha charitra hi sabse badi shakti hai."
+
+"Achha charitra hi dhan, sukh aur sammaan deta hai."
+
+"Aur hamesha yaad rakhna, kisi bhi stree ka kabhi apmaan mat karna."
+
+Jaise hi Sandili ne aashirvaad diya, Garud ji ke pankh pehle se bhi zyada mazboot hokar wapas aa gaye.
+
+Garud aur Galava ne unka dhanyavaad kiya aur aage ki yatra par nikal pade.
+
+Lekin bahut khojne ke baad bhi unhe waise 800 safed ghode nahi mile.
+
+Raaste mein unki mulaqat phir se Vishvamitra se hui.
+
+Vishvamitra bole,
+
+"Galava, ab Guru Dakshina dene ka samay aa gaya hai."
+
+"Main bahut dinon se intezaar kar raha hoon."
+
+"Jaldi koi upaay socho."
+
+Yeh sunkar Galava phir se chinta mein doob gaye.
+
+Tab Garud ji bole,
+
+"Mitra, himmat mat haaro."
+
+"Hum milkar koi na koi raasta zaroor dhoondh lenge."
+
+"Guru Dakshina poori kiye bina hum chain se nahi baithenge." """
             create_image_text_layout(
                 text_content=text2,
                 layout="full"
@@ -11866,7 +12010,19 @@ Ant mein Garud bole,
 
         # Section 5.3.43
         with st.expander("Section 5.3.43  Section CXIV"):
-            text1 = """ """
+            text1 = """ Section CXIV – Garud Ne Raja Yayati Se Madad Maangi
+
+Narada ne kahani aage sunaate hue kaha,
+
+Garud ji ne Galava se kaha,
+
+"Guru Dakshina poori karne ke liye humein dhan ki zarurat hogi."
+
+"Bina dhan ke itne durlabh ghode milna bahut mushkil hai."
+
+"Isliye humein kisi mahaan aur daanveer Raja se madad maangni hogi."
+
+Phir Garud bole, """
             create_image_text_layout(
                 "attached_assets/chapter5/5.3.43.jpg",
                 text1,
@@ -11874,7 +12030,54 @@ Ant mein Garud bole,
                 image_position="left"
             )
 
-            text2 = """ """
+            text2 = """ "Mera ek mitra hai, Raja Yayati."
+
+"Woh Chandra Vansh ke mahaan Raja hain."
+
+"Unke paas bahut dhan aur sampatti hai."
+
+"Chalo, hum unse madad maangte hain."
+
+Iske baad Garud aur Galava Pratishthana nagari pahunche, jahan Raja Yayati raaj karte the.
+
+Raja Yayati ne dono ka bada aadar-satkaar kiya.
+
+Unhone unhe aasan diya, paani diya aur poochha,
+
+"Aap dono kis kaaran se yahan aaye hain?"
+
+Tab Garud ji bole,
+
+"Maharaj, yeh mere mitra Galava hain."
+
+"Yeh bahut saalon tak Maharishi Vishvamitra ke shishya rahe."
+
+"Jab Guruji ne inhe vidaai di, tab Galava ne zid karke Guru Dakshina dene ki ichchha jatayi."
+
+"Guruji pehle kuch nahi lena chahte the."
+
+"Lekin baar-baar kehne par unhone 800 safed ghode maang liye."
+
+"Har ghode ka ek kaan kaala hona chahiye."
+
+Garud ne aage kaha,
+
+"Galava itne durlabh ghode laane mein asamarth hain."
+
+"Isliye woh bahut dukhi hain."
+
+"Ab woh aapki sharan mein aaye hain."
+
+"Agar aap unki madad kar denge, to yeh apni Guru Dakshina poori kar paayenge."
+
+"Uske baad yeh phir se tapasya aur dharm ke maarg par chal sakenge."
+
+Garud ne ant mein kaha,
+
+"Maharaj, daan dene se bahut bada punya milta hai."
+
+"Isliye kripya Galava ki sahaayata kijiye aur unki kathin samasya ka samaadhaan kijiye."
+::: """
             create_image_text_layout(
                 text_content=text2,
                 layout="full"
@@ -11883,7 +12086,21 @@ Ant mein Garud bole,
 
         # Section 5.3.44
         with st.expander("Section 5.3.44  Section CXV"):
-            text1 = """ """
+            text1 = """ Section CXV – Raja Yayati Ne Madhavi Ko Galava Ko De Diya
+
+Narada ne kahani aage sunaate hue kaha,
+
+Garud ji ki baat sunkar Raja Yayati kuch der sochne lage.
+
+Phir woh bole,
+
+"Aaj mera jeevan safal ho gaya."
+
+"Mujhe bahut khushi hai ki tum dono mere paas aaye ho."
+
+Lekin Raja Yayati ne aage kaha,
+
+"Mere paas ab pehle jitna dhan nahi raha." """
             create_image_text_layout(
                 "attached_assets/chapter5/5.3.44.jpg",
                 text1,
@@ -11891,7 +12108,60 @@ Ant mein Garud bole,
                 image_position="left"
             )
 
-            text2 = """ """
+            text2 = """ "Main tumhe 800 durlabh ghode nahi de sakta."
+
+"Lekin main tumhe khaali haath bhi nahi bhejunga."
+
+Phir Raja Yayati bole,
+
+"Jo vyakti madad maangne aaye aur use niraash karke bhej diya jaaye, yeh bahut bada paap hai."
+
+"Isliye main tumhari sahaayata zaroor karoonga."
+
+Uske baad Raja Yayati ne apni beti ko bulaaya.
+
+Woh boli,
+
+"Iska naam Madhavi hai."
+
+"Yeh bahut sundar, gunvaan aur pavitra swabhaav ki hai."
+
+"Bahut se Raja isse vivaah karna chahte hain."
+
+"Iske badle tumhe zaroor woh durlabh ghode mil sakte hain."
+
+"Main chahta hoon ki meri beti se janma hua ek naati mujhe praapt ho."
+
+Galava ne Raja Yayati ka uphaar sweekar kiya.
+
+Unhone Madhavi ko saath liya aur Raja se vidaa li.
+
+Uske baad Garud ji bole,
+
+"Ab humein Guru Dakshina poori karne ka raasta mil gaya hai."
+
+Itna kehkar Garud ji apne lok laut gaye.
+
+Ab Galava aur Madhavi akele reh gaye.
+
+Galava sochne lage,
+
+"Ab mujhe aise Raja ko dhoondhna hoga jo Madhavi se vivaah karke mujhe Guru Dakshina ke liye woh durlabh ghode de sake."
+
+Sabse pehle unhone Ayodhya ke mahaan Raja Haryashva ke paas jaane ka faisla kiya.
+
+Raja Haryashva dharmik, daanveer aur praja se prem karne waale shasak the.
+
+Galava unke darbaar mein pahunche aur bole,
+
+"Maharaj, yeh Rajkumari Madhavi hai."
+
+"Yeh aapke vansh ko aage badha sakti hain."
+
+"Agar aap inse vivaah karna chahein, to badle mein mujhe Guru Dakshina ke liye kuch vishesh ghode chahiye."
+
+"Pehle meri baat poori suniye, phir aap apna faisla batayiye."
+::: """
             create_image_text_layout(
                 text_content=text2,
                 layout="full"
@@ -11900,7 +12170,21 @@ Ant mein Garud bole,
 
         # Section 5.3.45
         with st.expander("Section 5.3.45  Section CXVI"):
-            text1 = """ """
+            text1 = """ Section CXVI – Madhavi Ki Anokhi Shakti Aur Pehla Putra
+
+Narada ne kahani aage sunaate hue kaha,
+
+Raja Haryashva ne Madhavi ko dhyaan se dekha.
+
+Phir woh bole,
+
+"Yeh Rajkumari bahut hi sundar aur sabhi shubh lakshanon se yukt hai."
+
+"Mujhe poora vishwas hai ki yeh ek mahaan putra ko janm degi."
+
+Phir Raja ne Galava se poochha,
+
+"Iske vivaah ke badle tum kya chahte ho?" """
             create_image_text_layout(
                 "attached_assets/chapter5/5.3.45.jpg",
                 text1,
@@ -11908,7 +12192,68 @@ Ant mein Garud bole,
                 image_position="left"
             )
 
-            text2 = """ """
+            text2 = """ Galava ne kaha,
+
+"Mujhe 800 safed ghode chahiye."
+
+"Har ghode ka ek kaan kaala hona chahiye."
+
+Yeh sunkar Raja Haryashva udaas ho gaye.
+
+Woh bole,
+
+"Mere paas is prakaar ke sirf 200 ghode hain."
+
+"Main tumhe isse zyada nahi de sakta."
+
+"Lekin meri ichchha hai ki Madhavi se mujhe ek putra praapt ho."
+
+Tab Madhavi ne Galava se kaha,
+
+"Mujhe ek divya vardaan mila hai."
+
+"Har santaan ke janm ke baad main phir se pehle ki tarah kanya ban jaati hoon."
+
+"Isliye aap mujhe ek-ek karke chaar Rajaon ko de sakte hain."
+
+"Har Raja se 200 ghode mil jaayenge."
+
+"Is tarah aapke 800 ghode bhi poore ho jaayenge."
+
+"Aur mujhe chaar putron ka sukh bhi milega."
+
+Galava ko Madhavi ki baat uchit lagi.
+
+Unhone Raja Haryashva se kaha,
+
+"Aap Madhavi se vivaah kijiye."
+
+"Badle mein mujhe 200 ghode de dijiye."
+
+"Aur aapko ek putra praapt hoga."
+
+Samay aane par Madhavi ne ek putra ko janm diya.
+
+Uska naam Vasumanas rakha gaya.
+
+Woh bada hokar ek mahaan aur daanveer Raja bana.
+
+Kuch samay baad Galava phir Raja Haryashva ke paas aaye.
+
+Woh bole,
+
+"Maharaj, ab aapko putra praapt ho chuka hai."
+
+"Ab mujhe baaki ghodon ke liye kisi aur Raja ke paas jaana hoga."
+
+Raja Haryashva ne apna vachan nibhaya.
+
+Unhone Madhavi ko sammaan ke saath Galava ko wapas de diya.
+
+Apne vardaan ke kaaran Madhavi phir se pehle ki tarah kanya ban gayi.
+
+Galava ne 200 ghode wahin chhod diye aur Madhavi ko saath lekar agle Raja Divodasa ke paas chal pade.
+::: """
             create_image_text_layout(
                 text_content=text2,
                 layout="full"
@@ -11917,7 +12262,21 @@ Ant mein Garud bole,
 
         # Section 5.3.46
         with st.expander("Section 5.3.46  Section CXVII"):
-            text1 = """ """
+            text1 = """ Section CXVII – Madhavi Ka Doosra Putra
+
+Narada ne kahani aage sunaate hue kaha,
+
+Galava ne Madhavi se kaha,
+
+"Ab hum Kashi ke mahaan Raja Divodasa ke paas ja rahe hain."
+
+"Woh dharmik, satyavaadi aur bahut veer Raja hain."
+
+"Tum chinta mat karo aur mere saath chalo."
+
+Jab Galava Raja Divodasa ke darbaar mein pahunche, to Raja ne unka bada aadar-satkaar kiya.
+
+Galava ne unhe apni baat batayi. """
             create_image_text_layout(
                 "attached_assets/chapter5/5.3.46.jpg",
                 text1,
@@ -11925,7 +12284,50 @@ Ant mein Garud bole,
                 image_position="left"
             )
 
-            text2 = """ """
+            text2 = """ Tab Raja Divodasa bole,
+
+"Maine is baare mein pehle hi sun liya tha."
+
+"Mujhe bahut khushi hai ki aap mere paas aaye."
+
+"Mere paas bhi Raja Haryashva ki tarah sirf 200 aise ghode hain."
+
+"Lekin main Madhavi se ek putra praapt karna chahta hoon."
+
+Galava ne Raja ki baat maan li.
+
+Unhone Madhavi ka vivaah Raja Divodasa se kara diya.
+
+Samay beeta aur Raja Divodasa aur Madhavi sukh se rehne lage.
+
+Kuch samay baad Madhavi ne ek putra ko janm diya.
+
+Us putra ka naam Pratardana rakha gaya.
+
+Woh bada hokar ek mahaan aur veer Raja bana.
+
+Jab putra bada hone laga, tab Galava phir Raja Divodasa ke paas aaye.
+
+Woh bole,
+
+"Maharaj, ab aapko putra praapt ho chuka hai."
+
+"Ab Madhavi ko mere saath jaane dijiye."
+
+"Aur jo 200 ghode aap dene waale hain, woh apne paas sambhaal kar rakhiye."
+
+"Mujhe baaki ghodon ke liye ab kisi aur Raja ke paas jaana hai."
+
+Raja Divodasa satyavaadi the.
+
+Unhone apna vachan nibhaya.
+
+Unhone Madhavi ko sammaan ke saath Galava ko wapas de diya.
+
+Apne divya vardaan ke kaaran Madhavi phir se pehle ki tarah kanya ban gayi.
+
+Galava aur Madhavi phir Guru Dakshina poori karne ke liye apni agli yatra par nikal pade.
+::: """
             create_image_text_layout(
                 text_content=text2,
                 layout="full"
@@ -11934,7 +12336,29 @@ Ant mein Garud bole,
 
         # Section 5.3.47
         with st.expander("Section 5.3.47  Section CXVIII"):
-            text1 = """ """
+            text1 = """ Section CXVIII – Madhavi Ka Teesra Putra
+
+Narada ne kahani aage sunaate hue kaha,
+
+Madhavi apne divya vardaan ke kaaran phir se pehle ki tarah kanya ban gayi.
+
+Woh phir Galava ke saath chal padi.
+
+Ab Galava Guru Dakshina poori karne ke liye Bhoj desh ke Raja Ushinara ke paas gaye.
+
+Darbaar mein pahunchkar Galava bole,
+
+"Maharaj, Madhavi bahut hi pavitra aur gunvaan Rajkumari hain."
+
+"Agar aap inse vivaah karenge, to aapko ek mahaan putra praapt hoga."
+
+"Badle mein mujhe 400 safed ghode chahiye, jinke har ghode ka ek kaan kaala ho."
+
+"Main yeh sab apne Guru Vishvamitra ki Guru Dakshina ke liye maang raha hoon."
+
+"Aapke putra se aapka vansh bhi aage badhega."
+
+Raja Ushinara ne kuch der socha. """
             create_image_text_layout(
                 "attached_assets/chapter5/5.3.47.jpg",
                 text1,
@@ -11942,7 +12366,36 @@ Ant mein Garud bole,
                 image_position="left"
             )
 
-            text2 = """ """
+            text2 = """ Phir woh bole,
+
+"Mere paas bhi is prakaar ke sirf 200 ghode hain."
+
+"Main apni praja ka dhan apne swaarth ke liye kharch nahi kar sakta."
+
+"Lekin main Haryashva aur Divodasa ki tarah Madhavi se ek putra praapt karna chahta hoon."
+
+Galava ne Raja ki baat maan li.
+
+Unhone Madhavi ka vivaah Raja Ushinara se kara diya.
+
+Uske baad Galava kuch samay ke liye van mein chale gaye.
+
+Samay beeta aur Raja Ushinara aur Madhavi saath mein sukh se rehne lage.
+
+Kuch samay baad Madhavi ne ek putra ko janm diya.
+
+Us putra ka naam Shivi rakha gaya.
+
+Woh bada hokar ek mahaan, nyaayapriya aur prasiddh Raja bana.
+
+Jab putra ka janm ho gaya, tab Galava phir Raja Ushinara ke paas aaye.
+
+Unhone Madhavi ko sammaan ke saath wapas le liya.
+
+Apne divya vardaan ke kaaran Madhavi phir se pehle ki tarah kanya ban gayi.
+
+Iske baad Galava Madhavi ko saath lekar Garud ji se milne ke liye nikal pade.
+::: """
             create_image_text_layout(
                 text_content=text2,
                 layout="full"
@@ -11951,7 +12404,25 @@ Ant mein Garud bole,
 
         # Section 5.3.48
         with st.expander("Section 5.3.48  Section CXIX"):
-            text1 = """ """
+            text1 = """ Section CXIX – Galava Ne Guru Dakshina Puri Ki
+
+Narada ne kahani aage sunaate hue kaha,
+
+Jab Galava Garud ji se mile, to Garud muskura kar bole,
+
+"Lagta hai tum apne kaam mein safal ho gaye ho."
+
+Galava ne kaha,
+
+"Abhi bhi 200 ghode kam hain."
+
+Tab Garud ji bole,
+
+"Ab un baaki 200 ghodon ko dhoondhne ki koshish mat karo."
+
+"Woh ab mil hi nahi sakte."
+
+Phir Garud ne ek purani ghatna sunaayi. """
             create_image_text_layout(
                 "attached_assets/chapter5/5.3.48.jpg",
                 text1,
@@ -11959,7 +12430,64 @@ Ant mein Garud bole,
                 image_position="left"
             )
 
-            text2 = """ """
+            text2 = """ Unhone bataya,
+
+"Bahut pehle Maharishi Richika ne Raja Gadhi ko 1000 aise hi durlabh ghode diye the."
+
+"Baad mein unmein se 600 ghode alag-alag Rajaon ke paas pahunch gaye."
+
+"Lekin baaki 400 ghode ek nadi mein beh gaye aur hamesha ke liye kho gaye."
+
+"Isliye ab poore 800 ghode ikattha karna sambhav nahi hai."
+
+Garud ne salaah di,
+
+"Tum 600 ghode aur Madhavi ko Guru Vishvamitra ke paas le jao."
+
+"Madhavi ko baaki 200 ghodon ke badle sweekar karne ke liye vinati karo."
+
+Galava ne Garud ki baat maan li.
+
+Woh Madhavi aur 600 ghodon ko lekar Maharishi Vishvamitra ke paas gaye.
+
+Galava ne vinamrata se kaha,
+
+"Gurudev, yeh 600 ghode hain."
+
+"Aur Madhavi ko main baaki 200 ghodon ke samaan arpit karta hoon."
+
+"Kripya ise meri Guru Dakshina poori maan lijiye."
+
+Vishvamitra ne Madhavi ko dekha aur bole,
+
+"Agar tum ise pehle le aate, to iske sabhi putra mere hi hote."
+
+"Phir bhi main ise sweekar karta hoon."
+
+Uske baad Madhavi se Vishvamitra ko ek putra praapt hua.
+
+Us putra ka naam Ashtaka rakha gaya.
+
+Ashtaka bada hokar ek mahaan aur daanveer Raja bana.
+
+Baad mein Vishvamitra ne Madhavi ko phir se Galava ko wapas de diya.
+
+Ab Galava ki Guru Dakshina poori ho chuki thi.
+
+Galava ne Madhavi se kaha,
+
+"Tumne chaar mahaan putron ko janm diya."
+
+"Tumhare kaaran tumhare pita, chaar Raja aur main sab safal hue."
+
+"Main tumhara hamesha aabhaari rahunga."
+
+Iske baad Garud ji apne lok laut gaye.
+
+Galava ne Madhavi ko unke pita Raja Yayati ke paas wapas bhej diya.
+
+Phir Galava swayam van mein jaakar tapasya karne lage.
+::: """
             create_image_text_layout(
                 text_content=text2,
                 layout="full"
@@ -11968,7 +12496,19 @@ Ant mein Garud bole,
 
         # Section 5.3.49
         with st.expander("Section 5.3.49  Section CXX"):
-            text1 = """ """
+            text1 = """ Section CXX – Madhavi Ne Van Ko Hi Apna Jeevan Chuna
+
+Narada ne kahani aage sunaate hue kaha,
+
+Guru Dakshina poori hone ke baad Raja Yayati ne socha,
+
+"Ab Madhavi ka Swayamvar karna chahiye."
+
+Isliye woh Madhavi ko saath lekar Ganga aur Yamuna ke sangam ke paas ek pavitra ashram mein gaye.
+
+Madhavi ke bhai Puru aur Yadu bhi unke saath the.
+
+Wahan bahut bade-bade Raja, Rishi, Gandharva, Yaksha, Naag aur anek log ikattha hue. """
             create_image_text_layout(
                 "attached_assets/chapter5/5.3.49.jpg",
                 text1,
@@ -11976,7 +12516,58 @@ Ant mein Garud bole,
                 image_position="left"
             )
 
-            text2 = """ """
+            text2 = """ Sabhi Madhavi ke faisle ka intezaar kar rahe the.
+
+Lekin Madhavi ne kisi bhi Raja ko apna pati nahi chuna.
+
+Unhone sabko pranam kiya aur kaha,
+
+"Ab main apna jeevan tapasya aur dharm ke maarg par bitaana chahti hoon."
+
+Yeh kehkar woh van mein chali gayi.
+
+Wahan unhone bahut kathin tapasya ki.
+
+Woh saadhaaran jeevan jeene lagi.
+
+Van ke phal, ghaas aur pavitra jal se apna jeevan chalaati thi.
+
+Hiranon ke saath van mein rehti thi aur poori lagan se Brahmacharya aur tapasya ka paalan karti thi.
+
+Is tarah Madhavi ne bahut bada punya kamaaya.
+
+Udhar Raja Yayati ne bhi bahut saalon tak dharm ke anusaar raajya kiya.
+
+Unke putra Puru aur Yadu ke vansh bahut bade aur prasiddh hue.
+
+Ant mein Raja Yayati Swarg lok pahunch gaye.
+
+Wahan unhe bahut sammaan aur sukh mila.
+
+Lekin ek din unke mann mein ahankaar aa gaya.
+
+Unhone apne mann hi mann Devtaon, Rishiyon aur anya logon ko tuchchh samajh liya.
+
+Bhagwan Indra ne turant unke mann ki baat jaan li.
+
+Swarg mein maujood Rishi bole,
+
+"Yeh ahankaar theek nahi hai."
+
+Usi samay sabhi log jaise Raja Yayati ko pehchaan hi na sake.
+
+Sab ek doosre se poochhne lage,
+
+"Yeh kaun hain?"
+
+"Inhone kaunsa punya kiya hai?"
+
+"Inhe Swarg ka adhikaar kaise mila?"
+
+Koi bhi unhe pehchaan nahi paaya.
+
+Dheere-dheere Raja Yayati ka divya tej bhi kam hone laga.
+::: """
             create_image_text_layout(
                 text_content=text2,
                 layout="full"
@@ -11985,7 +12576,23 @@ Ant mein Garud bole,
 
         # Section 5.3.50
         with st.expander("Section 5.3.50  Section CXXI"):
-            text1 = """ """
+            text1 = """ Section CXXI – Yayati Ko Phir Se Swarg Ka Maarg Mila
+
+Narada ne kahani aage sunaate hue kaha,
+
+Ahankaar ke kaaran Raja Yayati Swarg se neeche girne lage.
+
+Unka tej dheere-dheere chala gaya.
+
+Unke mukut, abhushan aur divya shobha sab samaapt ho gayi.
+
+Girate hue Yayati ne socha,
+
+"Maine aisa kaunsa paap kiya ki mujhe Swarg se nikaal diya gaya?"
+
+Tab Devtaon ka ek doot unke paas aaya aur bola,
+
+"Tum ahankaar mein sabka apmaan karne lage the." """
             create_image_text_layout(
                 "attached_assets/chapter5/5.3.50.jpg",
                 text1,
@@ -11993,7 +12600,74 @@ Ant mein Garud bole,
                 image_position="left"
             )
 
-            text2 = """ """
+            text2 = """ "Isliye ab tum Swarg mein rehne ke yogya nahi rahe."
+
+Yeh sunkar Yayati ne prarthana ki,
+
+"Agar mujhe girna hi hai, to main dharmik logon ke beech hi giroon."
+
+Bhagya se us samay unke naati Vasumanas, Pratardana, Shivi aur Ashtaka ek pavitra Yagya kar rahe the.
+
+Yayati unke beech aa gire.
+
+Chaaron Rajaon ne unhe dekha aur poochha,
+
+"Aap kaun hain?"
+
+"Aap Devta hain, Gandharva hain ya koi aur divya purush?"
+
+Yayati ne shaant swar mein kaha,
+
+"Main Raja Yayati hoon."
+
+"Mere punya samaapt ho gaye, isliye main Swarg se gir gaya hoon."
+
+"Maine ichchha ki thi ki main dharmik logon ke beech hi giroon."
+
+Yeh sunkar chaaron Raja bole,
+
+"Hum apna punya aur Yagya ka phal aapko dene ke liye taiyaar hain."
+
+Lekin Yayati bole,
+
+"Main kisi aur ka punya nahi lena chahta."
+
+Isi samay Madhavi bhi wahan aa gayi.
+
+Chaaron Raja turant unke charanon mein jhuk gaye.
+
+Woh bole,
+
+"Mata, hum sab aapke putra hain."
+
+"Aap jo aadesh dengi, hum wahi karenge."
+
+Madhavi ne apne pita Yayati ko pranam kiya.
+
+Phir apne putron se boli,
+
+"Yeh tumhare Nana hain."
+
+"Inki sahaayata karna tum sabka kartavya hai."
+
+Madhavi ne Yayati se kaha,
+
+"Pitaji, maine bhi tapasya karke bahut punya kamaaya hai."
+
+"Us punya ka ek hissa aap sweekar kijiye."
+
+"Aur aapke naatiyon ka punya bhi aapka hi adhikaar hai."
+
+Yeh sunkar chaaron putron ne bhi apna punya Nana Yayati ko arpit kar diya.
+
+Tabhi Maharishi Galava bhi wahan aa pahunche.
+
+Unhone vinamrata se kaha,
+
+"Maharaj, meri tapasya ke punya ka bhi ek hissa sweekar kijiye."
+
+"Iske bal par aap phir se Swarg lok ko praapt kar sakte hain."
+::: """
             create_image_text_layout(
                 text_content=text2,
                 layout="full"
