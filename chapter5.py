@@ -13449,7 +13449,19 @@ Uske baad Shri Krishna seedhe apni Bua Kunti se milne ke liye unke nivaas ki or 
 
         # Section 5.3.61
         with st.expander("Section 5.3.61  Section CXXXII"):
-            text1 = """ """
+            text1 = """ Section CXXXII – Kunti Ne Yudhishthir Ko Apna Sandesh Diya
+
+Vaisampayana ne kaha,
+
+Shri Krishna Kunti ke nivaas par gaye.
+
+Unhone Kunti ke charan sparsh kiye aur sabha mein jo kuch hua tha, sab bata diya.
+
+Phir Shri Krishna bole,
+
+"Maine aur sabhi Maharishiyon ne Duryodhana ko bahut samjhaaya."
+
+"Lekin usne kisi ki baat nahi maani." """
             create_image_text_layout(
                 "attached_assets/chapter5/5.3.61.jpg",
                 text1,
@@ -13457,7 +13469,56 @@ Uske baad Shri Krishna seedhe apni Bua Kunti se milne ke liye unke nivaas ki or 
                 image_position="left"
             )
 
-            text2 = """ """
+            text2 = """ "Ab main Pandavon ke paas laut raha hoon."
+
+"Aap unke liye jo sandesh dena chahti hain, mujhe bataiye."
+
+Tab Kunti boli,
+
+"Yudhishthir se kehna ki woh sirf daya aur dharm ko hi na dekhe."
+
+"Woh ek Kshatriya hai aur uska kartavya praja ki raksha karna hai."
+
+Kunti ne aage kaha,
+
+"Ek Raja ko apni shakti aur nyaay se raajya praapt karna aur uski raksha karni chahiye."
+
+"Jo Raja dharm ke anusaar dand deta hai aur praja ki raksha karta hai, wahi sachcha shaasak hota hai."
+
+Phir Kunti boli,
+
+"Raja ke achhe ya bure karmon ka prabhav poore desh par padta hai."
+
+"Achha Raja achha yug laata hai aur bura Raja bure samay ka kaaran banta hai."
+
+"Isliye apne Rajdharma ka paalan karo."
+
+Kunti ne Yudhishthir ko yaad dilaaya,
+
+"Tumhare pita Pandu aur ham sabne hamesha tumhare liye veerta, daan, dharm aur yash ki kaamna ki thi."
+
+"Humne kabhi nahi chaaha tha ki tum kamzor hokar apna adhikaar chhod do."
+
+Phir woh boli,
+
+"Har varn ka apna kartavya hota hai."
+
+"Kshatriya ka kartavya praja ki raksha karna aur nyaay ke liye ladna hai."
+
+"Isliye bhiksha ya doosron ke sahaare jeena tumhare liye uchit nahi hai."
+
+Ant mein Kunti ne kaha,
+
+"Apna paitrik raajya wapas praapt karo."
+
+"Pehle shaanti aur neeti se prayaas karo."
+
+"Lekin agar zarurat pade, to Kshatriya dharm ke anusaar yuddh karne se bhi peeche mat hatna."
+
+"Main nahi chahti ki mere veer putra doosron ke sahaare jeevan bitaayen."
+
+"Apne poorvajon ka sammaan banaaye rakho aur apna adhikaar zaroor praapt karo."
+::: """
             create_image_text_layout(
                 text_content=text2,
                 layout="full"
@@ -13466,7 +13527,25 @@ Uske baad Shri Krishna seedhe apni Bua Kunti se milne ke liye unke nivaas ki or 
 
         # Section 5.3.62
         with st.expander("Section 5.3.62  Section CXXXIII"):
-            text1 = """ """
+            text1 = """ Section CXXXIII – Vidula Ne Apne Putra Ko Himmat Di
+
+Kunti ne Shri Krishna se kaha,
+
+"Yudhishthir ko meri taraf se Vidula aur uske putra ki yeh kahani bhi suna dena."
+
+Vidula ek buddhimaan aur veer Rajmata thi.
+
+Ek baar uska putra yuddh mein haar gaya.
+
+Haar ke baad woh himmat haar kar udaas baitha tha.
+
+Yeh dekhkar Vidula ne use daantte hue kaha,
+
+"Agar tum aise hi darte aur haar maankar baithe rahoge, to tum mere putra kehlaane ke layak nahi ho."
+
+"Ek Kshatriya kabhi haar se tootkar nahi baithta."
+
+"Utho, apni himmat dikhao aur apna sammaan wapas paao." """
             create_image_text_layout(
                 "attached_assets/chapter5/5.3.62.jpg",
                 text1,
@@ -13474,7 +13553,44 @@ Uske baad Shri Krishna seedhe apni Bua Kunti se milne ke liye unke nivaas ki or 
                 image_position="left"
             )
 
-            text2 = """ """
+            text2 = """ Vidula ne aage kaha,
+
+"Chhoti safalta se santusht mat ho."
+
+"Kayar ki tarah jeene se achha hai veerta se ladna."
+
+"Thodi der ke liye tej se jalna, hamesha dheere-dheere sulagne se kahin behtar hai."
+
+"Apne shatru ka saamna karo aur apni pehchaan apne karmon se banao."
+
+Phir woh boli,
+
+"Jo vyakti kabhi koi mahaan kaam nahi karta, uska jeevan vyarth chala jaata hai."
+
+"Sachcha purush wahi hai jo apni mehnat, gyaan, daan aur veerta se duniya mein apni pehchaan banaata hai."
+
+"Doosron ke sahaare jeena ek Kshatriya ko shobha nahi deta."
+
+Vidula ne apne putra ko aur utsaahit karte hue kaha,
+
+"Apna gussa aur saahas jagao."
+
+"Apna khoya hua raajya wapas praapt karo."
+
+"Tumhari veerta se hi tumhare mitra aur tumhari praja sukh paayegi."
+
+Yeh sunkar putra ne kaha,
+
+"Maa, agar main hi na rahoon, to aapke liye raajya aur sukh ka kya mahatva hoga?"
+
+Vidula ne shaant lekin dridh swar mein jawaab diya,
+
+"Main nahi chahti ki mera putra doosron ke sahaare jeene wala kayar bane."
+
+"Main chahti hoon ki tum aise Raja bano jiske sahaare praja, Brahman aur mitra sab surakshit aur sukhi rahen."
+
+"Jo apni baahuon ke bal par jeeta hai aur doosron ki raksha karta hai, wahi is duniya mein sachchi kirti aur agle janm mein punya praapt karta hai."
+::: """
             create_image_text_layout(
                 text_content=text2,
                 layout="full"
@@ -13483,7 +13599,23 @@ Uske baad Shri Krishna seedhe apni Bua Kunti se milne ke liye unke nivaas ki or 
 
         # Section 5.3.63
         with st.expander("Section 5.3.63  Section CXXXIV"):
-            text1 = """ """
+            text1 = """ Section CXXXIV – Vidula Ne Apne Putra Ka Hausla Aur Badhaya
+
+Kunti ne kaha,
+
+Vidula ne apne putra Sanjaya se phir kaha,
+
+"Agar tum ab bhi himmat chhod doge, to tumhe jeevan bhar doosron ke sahaare jeena padega."
+
+"Ek Kshatriya ke liye dar kar baith jaana sabse bada apmaan hai."
+
+Vidula boli,
+
+"Sindhu ka Raja abhi shaktishaali zaroor lagta hai, lekin woh bhi hamesha tak mazboot nahi rahega."
+
+"Sahi samay ka intezaar karo aur phir poori shakti se apna raajya wapas jeet lo."
+
+Phir usne kaha, """
             create_image_text_layout(
                 "attached_assets/chapter5/5.3.63.jpg",
                 text1,
@@ -13491,7 +13623,60 @@ Uske baad Shri Krishna seedhe apni Bua Kunti se milne ke liye unke nivaas ki or 
                 image_position="left"
             )
 
-            text2 = """ """
+            text2 = """ "Tumhara naam Sanjaya hai, jiska arth hai 'Vijayi'."
+
+"Apne naam ko sach saabit karo."
+
+"Ek gyaani Brahman ne tumhare bachpan mein kaha tha ki tum pehle sankat dekhoge, phir mahaan vijay paoge."
+
+Vidula ne apni haalat bataate hue kaha,
+
+"Kabhi hum bahut samriddh the."
+
+"Sab hamara sammaan karte the."
+
+"Aaj agar humein doosron ke sahaare jeena pade, to yeh mere liye maut jaisa dukh hoga."
+
+"Main kabhi kisi Brahman ko 'na' nahi kehti thi."
+
+"Lekin gareebi aayegi, to shayad madad maangne waalon ko bhi mana karna pade."
+
+"Yeh dukh main seh nahi sakti."
+
+Phir woh boli,
+
+"Tum hi hamari naav ho."
+
+"Tum hi humein is dukh ke samundar se baahar nikaal sakte ho."
+
+"Agar tum ladoge nahi, to jeena bhi bekaar hai."
+
+Vidula ne Indra ka udaaharan diya.
+
+"Indra ne Vritrasur ko haraakar Devtaon ka Raja banne ka gaurav paaya."
+
+"Veer log yuddh se kabhi nahi darte."
+
+"Woh ant tak ladte hain aur isi se unhe kirti milti hai."
+
+Phir usne kaha,
+
+"Raajya sirf dhan nahi hota."
+
+"Yeh sammaan, kartavya aur swarg ka maarg bhi hai."
+
+"Isliye apne shatruon ka saamna karo aur Kshatriya dharm nibhao."
+
+Ant mein Vidula ne apne putra ko dridh shabdon mein samjhaya,
+
+"Main kabhi nahi dekhna chahti ki mera veer putra kisi aur ke peechhe chalne wala ya uska sevak ban jaaye."
+
+"Ek Kshatriya sirf Brahmanon ke saamne vinamrata se jhukta hai."
+
+"Baaki sabke saamne use saahas, swabhimaan aur nyaay ke saath jeena chahiye."
+
+"Isliye utho, apna adhikaar wapas lo aur apne Vansh ka gaurav banaaye rakho."
+::: """
             create_image_text_layout(
                 text_content=text2,
                 layout="full"
@@ -13500,7 +13685,25 @@ Uske baad Shri Krishna seedhe apni Bua Kunti se milne ke liye unke nivaas ki or 
 
         # Section 5.3.64
         with st.expander("Section 5.3.64  Section CXXXV"):
-            text1 = """ """
+            text1 = """ Section CXXXV – Vidula Ne Apne Putra Ko Jeet Ka Maarg Bataya
+
+Kunti ne kaha,
+
+Vidula ki baat sunkar uska putra bola,
+
+"Maa, aap mujhe yuddh ke liye itna kyon keh rahi hain?"
+
+"Agar mujhe kuch ho gaya, to raajya aur dhan ka aapke liye kya mahatva rahega?"
+
+Vidula ne shaant lekin dridh swar mein kaha,
+
+"Main tumhe yuddh ke liye sirf veerta ke liye nahi, balki dharm aur nyaay ke liye keh rahi hoon."
+
+"Agar tum is samay apna kartavya nahi nibhaoge, to log tumhe hamesha kayar kahenge."
+
+"Ek maa ka sachcha pyaar wahi hai jo apne putra ko sahi raasta dikhaye."
+
+Phir Vidula boli, """
             create_image_text_layout(
                 "attached_assets/chapter5/5.3.64.jpg",
                 text1,
@@ -13508,7 +13711,48 @@ Uske baad Shri Krishna seedhe apni Bua Kunti se milne ke liye unke nivaas ki or 
                 image_position="left"
             )
 
-            text2 = """ """
+            text2 = """ "Ek Kshatriya ka kartavya yuddh karna aur apni praja ki raksha karna hai."
+
+"Jeet mile ya veergati, dono hi uske liye sammaan ki baat hain."
+
+"Jo baar-baar haarne ke baad bhi himmat nahi chhodta, wahi ant mein vijay paata hai."
+
+Yeh sunkar putra bola,
+
+"Maa, mere paas na dhan hai aur na hi sena."
+
+"Aisi sthiti mein main jeet kaise sakta hoon?"
+
+Vidula muskuraakar boli,
+
+"Pehle hi haar maan lena sabse badi galti hai."
+
+"Safalta ki koi guarantee nahi hoti, lekin jo koshish hi nahi karta, woh kabhi jeet nahi sakta."
+
+"Isliye aalas chhodo aur poori mehnat se prayaas karo."
+
+Phir usne jeet ki neeti samjhayi.
+
+"Apne saath un logon ko jodo jo tumhare shatru se naraaz hain."
+
+"Jo apmaanit hue hain, jo kamzor hain ya jo tumhara saath dena chahte hain, unhe apna mitra banao."
+
+"Unse prem se baat karo, unki madad karo aur unka vishvaas jeeto."
+
+Vidula ne aage kaha,
+
+"Jab shatru dekhega ki tum nidar hokar ladne ke liye taiyaar ho, to woh bhi darne lagega."
+
+"Kabhi-kabhi bina lade bhi achhi neeti se jeet haasil ki ja sakti hai."
+
+Ant mein Vidula boli,
+
+"Dhan, mitra aur sammaan sab mehnat aur saahas se milte hain."
+
+"Jo apne shatru ka sahaara lekar jeeta hai, woh kabhi sachcha Raja nahi ban sakta."
+
+"Isliye apni shakti, apni neeti aur apni himmat par bharosa rakho aur apna raajya wapas praapt karo."
+::: """
             create_image_text_layout(
                 text_content=text2,
                 layout="full"
@@ -13517,7 +13761,23 @@ Uske baad Shri Krishna seedhe apni Bua Kunti se milne ke liye unke nivaas ki or 
 
         # Section 5.3.65
         with st.expander("Section 5.3.65  Section CXXXVI"):
-            text1 = """ """
+            text1 = """ Section CXXXVI – Vidula Ki Seekh Se Putra Ko Himmat Mili
+
+Kunti ne kaha,
+
+Vidula ne apne putra se kaha,
+
+"Ek Raja ko kabhi apna dar sabke saamne nahi dikhana chahiye."
+
+"Agar Raja dar jaaye, to sena, mantri aur praja sabka hausla toot jaata hai."
+
+"Kuch log shatru ka saath dene lagte hain, kuch Raja ka saath chhod dete hain aur kuch uske khilaaf ho jaate hain."
+
+Phir Vidula boli,
+
+"Tumhare sachche mitra ab bhi tumhare saath hain."
+
+"Woh tumhari madad karna chahte hain." """
             create_image_text_layout(
                 "attached_assets/chapter5/5.3.65.jpg",
                 text1,
@@ -13525,7 +13785,52 @@ Uske baad Shri Krishna seedhe apni Bua Kunti se milne ke liye unke nivaas ki or 
                 image_position="left"
             )
 
-            text2 = """ """
+            text2 = """ "Isliye himmat mat haaro aur unka vishvaas banaaye rakho."
+
+Vidula ne aage kaha,
+
+"Maine tumhe daanta isliye nahi ki tumhe dukh pahunchaaun."
+
+"Mera uddeshya sirf tumhara saahas jagaana tha."
+
+"Hamare paas gupt dhan bhi hai, jiska sirf mujhe pata hai."
+
+"Main woh sab tumhare liye de doongi."
+
+"Tumhare paas wafadaar mitra bhi hain jo ant tak tumhara saath denge."
+
+Yeh sab sunkar Sanjaya ka saara niraash bhaav door ho gaya.
+
+Usne utsaah se kaha,
+
+"Maa, ab mujhe poora vishvaas hai."
+
+"Main ya to apna raajya wapas jeetunga ya uske liye ladte hue praan de doonga."
+
+"Main aapki baatein dhyaan se sun raha tha taaki aur seekh paa sakoon."
+
+"Aapke shabdon ne mujhe nayi shakti di hai."
+
+Kunti ne kaha,
+
+Vidula ki baaton se Sanjaya ka saahas laut aaya.
+
+Usne poori himmat ke saath yuddh kiya aur apna lakshya praapt kiya.
+
+Phir Kunti boli,
+
+"Jab bhi koi Raja ya veer niraash ho jaaye, use yeh kahani zaroor sunaani chahiye."
+
+"Yeh kahani saahas, utsaah aur vijay ki prerna deti hai."
+
+"Iska naam 'Jaya' hai."
+
+"Jo ise dhyaan se sunta aur samajhta hai, uske andar jeetne ka hausla badh jaata hai."
+
+Ant mein Kunti ne kaha,
+
+"Jo garbhavati stree is prernaadayak kahani ko shraddha se sunti hai, uske ghar ek veer, buddhimaan, daani aur dharm ka rakshak putra janm leta hai."
+::: """
             create_image_text_layout(
                 text_content=text2,
                 layout="full"
@@ -13534,7 +13839,23 @@ Uske baad Shri Krishna seedhe apni Bua Kunti se milne ke liye unke nivaas ki or 
 
         # Section 5.3.66
         with st.expander("Section 5.3.66  Section CXXXVII"):
-            text1 = """ """
+            text1 = """ Section CXXXVII – Kunti Ne Pandavon Ke Liye Antim Sandesh Bheja
+
+Kunti ne Shri Krishna se kaha,
+
+"Arjun se kehna ki uske janm ke samay aakashvaani hui thi."
+
+Us aakashvaani mein kaha gaya tha,
+
+"Yeh balak Indra ke samaan mahaan yoddha banega."
+
+"Yeh Bhim ke saath milkar Kauravon ko haraayega."
+
+"Shri Krishna ki sahayata se yeh apna khoya hua raajya wapas praapt karega."
+
+"Aur apne bhaiyon ke saath bade Yagya karega."
+
+Kunti boli, """
             create_image_text_layout(
                 "attached_assets/chapter5/5.3.66.jpg",
                 text1,
@@ -13542,7 +13863,62 @@ Uske baad Shri Krishna seedhe apni Bua Kunti se milne ke liye unke nivaas ki or 
                 image_position="left"
             )
 
-            text2 = """ """
+            text2 = """ "Mujhe poora vishvaas hai ki woh aakashvaani sach hogi."
+
+"Krishna, tum us bhavishyavaani ko zaroor poora karoge."
+
+Phir Kunti ne Bhim ke liye sandesh diya,
+
+"Bhim se kehna ki ab wahi samay aa gaya hai jiske liye ek Kshatriya maa apne putra ko janm deti hai."
+
+"Veer kabhi yuddh se peeche nahi hatte."
+
+"Mujhe pata hai Bhim tab tak shaant nahi hoga jab tak apne shatruon ko hara na de."
+
+Uske baad Kunti ne Draupadi ke liye sandesh diya,
+
+"Draupadi se kehna ki usne hamesha mere putron ka sammaan aur dharm ke saath saath diya hai."
+
+"Uska yeh vyavahaar bahut sarahne yogya hai."
+
+Phir Kunti ne Nakul aur Sahadev ke liye kaha,
+
+"Apni veerta aur Kshatriya dharm ko hamesha sabse upar rakhna."
+
+"Veerta se jeeti hui safalta hi sachcha gaurav deti hai."
+
+Kunti ko sabse zyaada dukh kis baat ka tha?
+
+Woh boli,
+
+"Raajya chala gaya, iska mujhe utna dukh nahi."
+
+"Jue mein haar gaye, iska bhi utna dukh nahi."
+
+"Lekin sabha mein Draupadi ka apmaan hua aur koi use bacha na saka, yahi mere hriday ka sabse bada dukh hai."
+
+Phir Kunti ne Arjun ke liye kaha,
+
+"Arjun hamesha Draupadi ke sammaan aur uske nyaay ke liye khada rahe."
+
+"Bhim aur Arjun dono milkar sabse bade shatruon ko bhi hara sakte hain."
+
+Ant mein Kunti boli,
+
+"Pandavon, Draupadi aur bachchon ka haal-chaal poochhna."
+
+"Unse kehna ki main yahan theek hoon."
+
+"Aur unki hamesha raksha karna."
+
+Vaisampayana ne kaha,
+
+Kunti ko pranam karke Shri Krishna wahan se chale gaye.
+
+Raaste mein unhone Karna ko apne rath par bithaya aur usse kaafi der tak baat ki.
+
+Uske baad Karna ko vidaa karke Shri Krishna tez gati se Upaplavya ki or chal pade, jahaan Pandav unka intezaar kar rahe the.
+::: """
             create_image_text_layout(
                 text_content=text2,
                 layout="full"
@@ -13551,7 +13927,29 @@ Uske baad Shri Krishna seedhe apni Bua Kunti se milne ke liye unke nivaas ki or 
 
         # Section 5.3.67
         with st.expander("Section 5.3.67  Section CXXXVIII"):
-            text1 = """ """
+            text1 = """ Section CXXXVIII – Bhishma Aur Dronacharya Ne Duryodhana Ko Aakhri Baar Samjhaya
+
+Vaisampayana ne kaha,
+
+Bhishma aur Dronacharya ne Duryodhana se kaha,
+
+"Kya tumne Kunti ke shabd sune?"
+
+"Pandav zaroor unki baat maanenge."
+
+"Aur Shri Krishna bhi unke saath hain."
+
+"Isliye woh bina apna adhikaar liye kabhi peeche nahi hatenge."
+
+Bhishma ne aage kaha,
+
+"Tumne Pandavon aur Draupadi ke saath bahut anyaay kiya hai."
+
+"Us samay unhone sirf apni pratigya aur dharm ki wajah se sab kuch seh liya tha."
+
+"Lekin ab woh chup nahi rahenge."
+
+Phir unhone Arjun ki veerta yaad dilaayi. """
             create_image_text_layout(
                 "attached_assets/chapter5/5.3.67.jpg",
                 text1,
@@ -13559,7 +13957,50 @@ Uske baad Shri Krishna seedhe apni Bua Kunti se milne ke liye unke nivaas ki or 
                 image_position="left"
             )
 
-            text2 = """ """
+            text2 = """ "Tumne khud dekha tha ki Virat ke yuddh mein Arjun ne akela hi sabko hara diya tha."
+
+"Usne Nivatakavach naam ke shaktishaali Danavon ko bhi paraajit kiya."
+
+"Jab Gandharvon ne tumhe pakad liya tha, tab bhi Arjun ne hi tum sabko bachaaya tha."
+
+"Yeh sab uski shakti ka pramaan hai."
+
+Bhishma ne Duryodhana ko phir samjhaya,
+
+"Ab bhi samay hai."
+
+"Pandavon se shaanti kar lo."
+
+"Yudhishthir tumhare bade bhai hain."
+
+"Unke paas jaakar unhe gale laga lo."
+
+"Bhim bhi tumhe prem se gale lagaayega."
+
+"Arjun, Nakul aur Sahadev bhi tumhara sammaan karenge."
+
+"Sab Raja khushi manaayenge aur bina yuddh ke apne-apne desh laut jaayenge."
+
+Phir Bhishma ne chetaavani di,
+
+"Yeh yuddh hua to anek Kshatriyon ka vinaash nishchit hai."
+
+"Aasmaan, pashu-pakshi aur prakriti sab ashubh sanket de rahe hain."
+
+"Ulkaayein gir rahi hain."
+
+"Giddh sena ke upar mandra rahe hain."
+
+"Siyaron ki cheekhen aur anya ashubh ghatnaayein bata rahi hain ki bada vinaash nikat hai."
+
+Ant mein Bhishma aur Dronacharya bole,
+
+"Yuddh ya shaanti ka faisla tumhare haath mein hai."
+
+"Apne pita, mata aur ham jaise shubhchintakon ki baat maan lo."
+
+"Agar tumne hamaari salaah nahi maani, to jab yuddh mein Bhim ki garjana aur Arjun ke Gandeev ki tankaar sunoge, tab tumhe aaj ki yeh baatein yaad aayengi."
+::: """
             create_image_text_layout(
                 text_content=text2,
                 layout="full"
@@ -13568,7 +14009,23 @@ Uske baad Shri Krishna seedhe apni Bua Kunti se milne ke liye unke nivaas ki or 
 
         # Section 5.3.68
         with st.expander("Section 5.3.68  Section CXXXIX"):
-            text1 = """ """
+            text1 = """ Section CXXXIX – Bhishma Aur Dronacharya Ka Antim Updesh
+
+Vaisampayana ne kaha,
+
+Bhishma aur Dronacharya ki baatein sunkar Duryodhana chup ho gaya.
+
+Usne sir jhuka liya.
+
+Lekin usne koi jawaab nahi diya.
+
+Yeh dekhkar Bhishma aur Dronacharya ne use ek baar phir samjhaaya.
+
+Bhishma bole,
+
+"Humein sabse zyaada dukh is baat ka hai ki humein Yudhishthir jaise dharmatma aur satyavaadi vyakti ke viruddh yuddh karna padega."
+
+Phir Dronacharya bole, """
             create_image_text_layout(
                 "attached_assets/chapter5/5.3.68.jpg",
                 text1,
@@ -13576,7 +14033,54 @@ Uske baad Shri Krishna seedhe apni Bua Kunti se milne ke liye unke nivaas ki or 
                 image_position="left"
             )
 
-            text2 = """ """
+            text2 = """ "Mujhe Arjun apne putra Ashwatthama se bhi adhik priya hai."
+
+"Woh mera bahut sammaan karta hai."
+
+"Lekin Kshatriya dharm ki wajah se mujhe uske viruddh bhi ladna padega."
+
+"Yeh mere liye bahut dukhad baat hai."
+
+Dronacharya ne aage kaha,
+
+"Arjun duniya ka sabse mahaan dhanurdhar bana hai."
+
+"Uski shakti aur vidya ka ek kaaran meri shiksha bhi hai."
+
+Phir unhone Duryodhana ko samjhaya,
+
+"Pandavon ne tumhare saath itna anyaay sahne ke baad bhi kabhi tumhara bura nahi chaaha."
+
+"Lekin tum ab bhi unke hit ki baat samajhna nahi chahte."
+
+Dronacharya bole,
+
+"Tum apni badi sena par garv kar rahe ho."
+
+"Lekin sirf sena ke bal par Pandavon ko haraana sambhav nahi hai."
+
+"Jab tak Yudhishthir ke saath Bhim, Arjun, Nakul, Sahadev aur Shri Krishna hain, unhe haraana bahut kathin hai."
+
+Phir unhone kaha,
+
+"Yudhishthir ne vanvaas mein bhi apna dharm aur sammaan banaaye rakha."
+
+"Unhe Devtaon aur Mahapurushon ka aashirvaad praapt hai."
+
+"Draupadi ki tapasya aur satya bhi unke saath hai."
+
+"Aur Shri Krishna unke maargdarshak hain."
+
+Ant mein Dronacharya ne kaha,
+
+"Hum tumhare hit ke liye baar-baar keh rahe hain."
+
+"Yuddh ki koi zarurat nahi hai."
+
+"Pandavon se shaanti kar lo."
+
+"Agar tumne yuddh chuna, to tum apne putron, mitron aur poori sena ke saath vinaash ki or badhoge."
+::: """
             create_image_text_layout(
                 text_content=text2,
                 layout="full"
@@ -13584,7 +14088,25 @@ Uske baad Shri Krishna seedhe apni Bua Kunti se milne ke liye unke nivaas ki or 
             
                 # Section 5.3.69
         with st.expander("Section 5.3.69  Section CXL"):
-            text1 = """ """
+            text1 = """ Section CXL – Shri Krishna Ne Karna Ko Sach Bataya
+
+Dhritarashtra ne Sanjaya se poochha,
+
+"Jab Shri Krishna Karna ko apne rath par bithaakar le gaye, tab unhone usse kya kaha?"
+
+Tab Sanjaya ne kaha,
+
+"Main aapko wahi baatcheet sunaata hoon."
+
+Shri Krishna ne Karna se kaha,
+
+"Hey Karna, tum gyaani ho aur dharm ki baatein achchhi tarah jaante ho."
+
+"Ab main tumhe ek bahut bada sach bataane ja raha hoon."
+
+Phir Shri Krishna bole,
+
+"Tum Radha ke paale hue putra zaroor ho, lekin janm se tum Kunti ke sabse bade putra ho." """
             create_image_text_layout(
                 "attached_assets/chapter5/5.3.69.jpg",
                 text1,
@@ -13592,7 +14114,50 @@ Uske baad Shri Krishna seedhe apni Bua Kunti se milne ke liye unke nivaas ki or 
                 image_position="left"
             )
 
-            text2 = """ """
+            text2 = """ "Is hisaab se tum Pandu ke sabse bade putra aur Pandavon ke bade bhai ho."
+
+"Isliye tumhara adhikaar sabse pehle Hastinapur ke singhaasan par banta hai."
+
+Shri Krishna ne Karna ko nimantran diya,
+
+"Mere saath chalo."
+
+"Aaj hi Pandavon ko tumhari asli pehchaan bata di jaayegi."
+
+"Yudhishthir, Bhim, Arjun, Nakul, Sahadev aur unke sabhi putra tumhare charan sparsh karenge."
+
+Phir Shri Krishna ne kaha,
+
+"Saare Raja tumhara Rajyabhishek karenge."
+
+"Rishi aur Brahman Vaidik mantron ke saath tumhe Bharat ka Samrat banaayenge."
+
+Shri Krishna ne aage bataya,
+
+"Yudhishthir tumhare adhin Yuvaraj ke roop mein raajya sambhaalenge."
+
+"Bhim tumhare sir par Chhatra dhaarenge."
+
+"Arjun tumhara Saarthi banega."
+
+"Nakul, Sahadev, Panchal, Chedi aur sabhi mitra tumhare saath chalenge."
+
+"Main aur poora Yadav Vansh bhi tumhare saath khade rahenge."
+
+Phir Shri Krishna bole,
+
+"Tum apne Pandav bhaiyon ke saath milkar poori Prithvi par raaj karo."
+
+"Kunti ka hriday khushi se bhar jaayega."
+
+"Tumhare mitra khush honge aur tumhare shatru dukhi honge."
+
+Ant mein Shri Krishna ne prem se kaha,
+
+"Aaj hi apne bhaiyon se mil jaao."
+
+"Parivaar ko ek kar do aur yuddh hone se rok do."
+::: """
             create_image_text_layout(
                 text_content=text2,
                 layout="full"
@@ -13601,7 +14166,21 @@ Uske baad Shri Krishna seedhe apni Bua Kunti se milne ke liye unke nivaas ki or 
 
         # Section 5.3.70
         with st.expander("Section 5.3.70  Section CXLI"):
-            text1 = """ """
+            text1 = """ Section CXLI – Karna Ne Shri Krishna Ka Prastaav Thukra Diya
+
+Karna ne Shri Krishna se kaha,
+
+"Krishna, main jaanta hoon ki aap jo keh rahe hain, woh sirf mere bhale ke liye keh rahe hain."
+
+"Mujhe bhi sach pata hai ki main Kunti ka pehla putra hoon."
+
+"Lekin janm ke turant baad meri maa ne mujhe chhod diya tha."
+
+"Adhirath aur Radha ne hi mujhe apna beta banaakar paala."
+
+"Unhone mujhe pyaar diya, mera palan-poshan kiya aur mujhe jeevan diya."
+
+"Main unka rin kabhi nahi chuka sakta." """
             create_image_text_layout(
                 "attached_assets/chapter5/5.3.70.jpg",
                 text1,
@@ -13609,7 +14188,76 @@ Uske baad Shri Krishna seedhe apni Bua Kunti se milne ke liye unke nivaas ki or 
                 image_position="left"
             )
 
-            text2 = """ """
+            text2 = """ Karna ne aage kaha,
+
+"Meri patni, mere putra aur mera poora parivaar isi jeevan se juda hua hai."
+
+"Main un sabko chhod nahi sakta."
+
+Phir usne Duryodhana ke baare mein kaha,
+
+"Duryodhana ne mujh par vishvaas kiya jab poori duniya mujhe neecha dikhaati thi."
+
+"Usne mujhe sammaan aur raajya diya."
+
+"Ab yuddh ke samay main uska saath chhod doon, yeh dharm ke viruddh hoga."
+
+"Main uske prati wafadaar rahunga, chahe meri mrityu hi kyon na ho jaaye."
+
+Karna ne Shri Krishna se vinati ki,
+
+"Kripya meri asli pehchaan abhi kisi ko mat bataaiye."
+
+"Agar Yudhishthir ko pata chal gaya ki main unka bada bhai hoon, to woh kabhi raajya sveekar nahi karenge."
+
+"Aur agar mujhe raajya mil bhi gaya, to main use Duryodhana ko hi de doonga."
+
+Phir Karna ne Pandavon ki shakti ka varnan kiya.
+
+"Yudhishthir dharm ke prateek hain."
+
+"Bhim aur Arjun aparajit yoddha hain."
+
+"Nakul, Sahadev, Abhimanyu, Dhrishtadyumna, Satyaki, Shikhandi aur bahut se mahaan veer unke saath hain."
+
+"Aur sabse badi baat, Shri Krishna unke maargdarshak hain."
+
+Karna ne kaha,
+
+"Mujhe lagta hai ki yeh yuddh ek mahaan yagya ki tarah hoga."
+
+"Is yagya mein astra-shastra hi yagya ki saamagri honge."
+
+"Yoddha hi is yagya ke bhaagidaar honge."
+
+"Aur Kurukshetra hi iska yagya-sthal hoga."
+
+Usne dukh ke saath kaha,
+
+"Maine Duryodhana ko khush karne ke liye Pandavon ke prati bahut kathor shabd bole the."
+
+"Aaj mujhe un baaton ka gehra pachtava hai."
+
+Phir Karna ne yuddh ka bhavishya bataya.
+
+"Arjun ke haathon meri mrityu hogi."
+
+"Bhim Dushasan ka vadh karega."
+
+"Dhrishtadyumna aur Shikhandi Dronacharya aur Bhishma ke patan ka kaaran banenge."
+
+"Aur ant mein Bhim Duryodhana ko bhi hara dega."
+
+"Uske baad Kauravon ke gharon mein shok hi shok hoga."
+
+Ant mein Karna ne Shri Krishna se kaha,
+
+"Hamari aaj ki baat kisi ko mat bataaiye."
+
+"Mujhe Arjun ke saamne yuddh karne dijiye."
+
+"Yahi mera kartavya hai aur yahi meri kismat bhi."
+::: """
             create_image_text_layout(
                 text_content=text2,
                 layout="full"
