@@ -14266,7 +14266,21 @@ Ant mein Karna ne Shri Krishna se kaha,
 
         # Section 5.3.71
         with st.expander("Section 5.3.71  Section CXLII"):
-            text1 = """ """
+            text1 = """ Section CXLII – Shri Krishna Ne Karna Ko Yuddh Ka Parinaam Bataya
+
+Sanjaya ne kaha,
+
+Karna ki baatein sunkar Shri Krishna muskuraaye aur bole,
+
+"Hey Karna, maine tumhe poori Prithvi ka Raajya dene ka prastaav diya tha, lekin tumne use sveekar nahi kiya."
+
+"Ab mujhe poora vishvaas hai ki Pandavon ki vijay nishchit hai."
+
+Phir Shri Krishna ne Arjun ki shakti ka varnan kiya.
+
+"Jab tum Arjun ka divya rath dekhoge, jise main chala raha hunga, aur us par Hanuman ji ka dhwaj lehra raha hoga, tab tum samajh jaaoge ki uski vijay nishchit hai."
+
+"Jab Gandeev ki tankaar aasmaan ko hila degi aur Arjun divya astron ka prayog karega, tab poora yuddh badal jaayega." """
             create_image_text_layout(
                 "attached_assets/chapter5/5.3.71.jpg",
                 text1,
@@ -14274,7 +14288,34 @@ Ant mein Karna ne Shri Krishna se kaha,
                 image_position="left"
             )
 
-            text2 = """ """
+            text2 = """ Phir Shri Krishna bole,
+
+"Jab tum Yudhishthir ko dharm aur tej ke saath apni sena ka netritva karte dekhoge, tab tumhe samajh aa jaayega ki unhe haraana aasaan nahi hai."
+
+Uske baad unhone Bhim ke baare mein kaha,
+
+"Jab Bhim Dushasan ka vadh karke apni pratigya poori karega, tab sabko uski bhayaanak shakti ka ehsaas hoga."
+
+Shri Krishna ne aage kaha,
+
+"Jab Arjun ek saath Bhishma, Dronacharya, Kripacharya, Duryodhana aur Jayadrath jaise mahaan yoddhaon ka saamna karega, tab sab dekh lenge ki uske samaan dhanurdhar koi nahi hai."
+
+Phir unhone Nakul aur Sahadev ka ullekh kiya.
+
+"Yeh dono bhi shatru sena ko hila denge aur veerta se yuddh karenge."
+
+Ant mein Shri Krishna ne Karna se kaha,
+
+"Jaakar Bhishma, Dronacharya aur Kripacharya ko keh do ki yuddh ka samay aa gaya hai."
+
+"Saat din baad Amavasya hogi."
+
+"Usi din yuddh shuru hone do."
+
+"Sab Rajaon se bhi kehna ki unki ichchha jaldi hi poori hogi."
+
+"Jo yoddha is yuddh mein veergati paayenge, unhe uttam lok ki praapti hogi."
+::: """
             create_image_text_layout(
                 text_content=text2,
                 layout="full"
@@ -14283,7 +14324,25 @@ Ant mein Karna ne Shri Krishna se kaha,
 
         # Section 5.3.72
         with st.expander("Section 5.3.72  Section CXLIII"):
-            text1 = """ """
+            text1 = """ Section CXLIII – Karna Ne Apni Kismat Sweekar Kar Li
+
+Sanjaya ne kaha,
+
+Shri Krishna ki baatein sunkar Karna ne unka sammaan kiya aur kaha,
+
+"Krishna, aap sab kuch jaante hain."
+
+"Phir bhi aap mujhe samjhaane ki koshish kar rahe hain."
+
+"Lekin ab yeh yuddh rukne wala nahi hai."
+
+"Is vinaash ke zimmedaar Duryodhana, Shakuni, Dushasan aur main bhi hoon."
+
+Karna ne aage kaha,
+
+"Mujhe spasht dikh raha hai ki Kurukshetra mein bhayankar yuddh hoga."
+
+"Bahut se Raja aur mahaan yoddha maare jaayenge." """
             create_image_text_layout(
                 "attached_assets/chapter5/5.3.72.jpg",
                 text1,
@@ -14291,7 +14350,54 @@ Ant mein Karna ne Shri Krishna se kaha,
                 image_position="left"
             )
 
-            text2 = """ """
+            text2 = """ Phir Karna ne ashubh sanketon ka varnan kiya.
+
+"Aasmaan, grah, taare, pashu aur pakshi sab bure sanket de rahe hain."
+
+"Haathi aur ghode bhi bechain hain."
+
+"Aasmaan se ulkaayein gir rahi hain."
+
+"Siyaron aur giddhon ki awaazein vinaash ka sanket de rahi hain."
+
+"Yeh sab bata rahe hain ki Kauravon ki haar aur Pandavon ki jeet nishchit hai."
+
+Uske baad Karna ne apna sapna bataaya.
+
+"Maine sapne mein Yudhishthir ko safed vastra pehne hue ek divya mahal mein dekha."
+
+"Maine dekha ki woh poori Prithvi ke Raja banne waale hain."
+
+"Maine Bhim ko gada lekar sab shatruon ka vinaash karte dekha."
+
+"Maine Arjun ko aapke saath safed haathi par baitha dekha."
+
+"Nakul, Sahadev aur Satyaki bhi vijay ke prateek safed vastron mein dikhe."
+
+Phir Karna ne kaha,
+
+"Maine Bhishma, Dronacharya, Duryodhana aur khud ko mrityu ki or jaate hue bhi dekha."
+
+"Isliye mujhe pata hai ki hum sabka ant nikat hai."
+
+Shri Krishna ne shaant swar mein kaha,
+
+"Jab vinaash ka samay aa jaata hai, tab insaan ko galat baat bhi sahi lagne lagti hai."
+
+"Isliye meri baat tumhare hriday ko sveekar nahi ho rahi."
+
+Karna ne vinamrata se uttar diya,
+
+"Krishna, agar hum is yuddh ke baad jeevit rahe, to phir milenge."
+
+"Aur agar jeevit na rahe, to Swarg mein zaroor milenge."
+
+Vaisampayana ne kaha,
+
+Iske baad Karna ne Shri Krishna ko gale lagaaya.
+
+Phir woh udaas man se apne rath par baithkar Kaurav sena ki or laut gaya, aur Shri Krishna apne maarg par aage badh gaye.
+::: """
             create_image_text_layout(
                 text_content=text2,
                 layout="full"
@@ -14300,7 +14406,23 @@ Ant mein Karna ne Shri Krishna se kaha,
 
         # Section 5.3.73
         with st.expander("Section 5.3.73  Section CXLIV"):
-            text1 = """ """
+            text1 = """ Section CXLIV – Kunti Ne Karna Se Milne Ka Nishchay Kiya
+
+Vaisampayana ne kaha,
+
+Jab Shri Krishna shaanti ka sandesh lekar laut gaye aur sandhi nahi ho saki, tab Vidur Kunti ke paas aaye.
+
+Vidur ne dukhi hokar kaha,
+
+"Maa, main hamesha shaanti chahta hoon."
+
+"Maine Duryodhana ko bahut samjhaya, lekin usne meri ek bhi baat nahi maani."
+
+"Pandav ab bhi dharm ka paalan kar rahe hain aur shaanti chahte hain."
+
+"Lekin Duryodhana apne ahankaar mein andha ho chuka hai."
+
+"Ab yuddh lagbhag nishchit hai." """
             create_image_text_layout(
                 "attached_assets/chapter5/5.3.73.jpg",
                 text1,
@@ -14308,7 +14430,54 @@ Ant mein Karna ne Shri Krishna se kaha,
                 image_position="left"
             )
 
-            text2 = """ """
+            text2 = """ "Is yuddh mein bahut se mahaan veeron ka vinaash hoga."
+
+"Isi chinta ke kaaran mujhe din-raat neend nahi aati."
+
+Vidur ki baatein sunkar Kunti bahut dukhi ho gayi.
+
+Woh man hi man sochne lagi,
+
+"Sirf Raajya ke liye apne hi rishtedaar ek-doosre ka khoon bahaayenge."
+
+"Yeh kitna bada dukh hai."
+
+"Yuddh mein jeet bhi hogi, lekin apnon ka vinaash kisi jeet se kam nahi hoga."
+
+Phir Kunti ne socha,
+
+"Bhishma aur Dronacharya shayad poore man se Pandavon ke viruddh na ladein."
+
+"Lekin Karna bahut shaktishaali hai aur woh Duryodhana ka poora saath dega."
+
+"Mujhe sabse zyaada chinta usi ki hai."
+
+Tab Kunti ko ek puraani baat yaad aayi.
+
+Usne socha,
+
+"Rishi Durvasa ne mujhe ek divya mantra diya tha."
+
+"Usi mantra se maine Surya Dev ko bulaaya tha aur Karna ka janm hua tha."
+
+"Karna mera hi putra hai."
+
+"Shayad agar main use sach bata doon, to woh apne bhaiyon ka saath de de."
+
+Yeh sochkar Kunti ne Karna se milne ka nishchay kiya.
+
+Woh Ganga ke tat par pahunchi, jahaan Karna Surya Dev ki pooja kar raha tha.
+
+Karna poorv disha ki or mukh karke prarthana mein leen tha.
+
+Kunti chupchaap uske peeche khadi hokar uski pooja samaapt hone ka intezaar karne lagi.
+
+Tez dhoop ke kaaran woh bahut thak gayi, lekin phir bhi dhairya se wahin khadi rahi.
+
+Jab Karna ki pooja samaapt hui aur usne peeche mudkar dekha, to Kunti ko dekhkar woh chakit reh gaya.
+
+Usne turant haath jodkar unka sammaan kiya aur vinamrata se unse baat karne laga.
+::: """
             create_image_text_layout(
                 text_content=text2,
                 layout="full"
@@ -14317,7 +14486,27 @@ Ant mein Karna ne Shri Krishna se kaha,
 
         # Section 5.3.74
         with st.expander("Section 5.3.74  Section CXLV"):
-            text1 = """ """
+            text1 = """ Section CXLV – Kunti Ne Karna Ko Uska Asli Janm Bataya
+
+Karna ne vinamrata se kaha,
+
+"Main Radha aur Adhirath ka putra Karna hoon."
+
+"Mata, aap yahan kis kaam se aayi hain?"
+
+"Mujhe bataaiye, main aapke liye kya kar sakta hoon?"
+
+Tab Kunti ne gehri saans lekar kaha,
+
+"Hey Karna, tum Radha ke nahi, mere putra ho."
+
+"Adhirath ne tumhara paalan-poshan kiya, lekin janm maine tumhe diya tha."
+
+"Tum Soot putra nahi ho."
+
+"Tum Kunti aur Surya Dev ke putra ho."
+
+Kunti ne aage kaha, """
             create_image_text_layout(
                 "attached_assets/chapter5/5.3.74.jpg",
                 text1,
@@ -14325,7 +14514,38 @@ Ant mein Karna ne Shri Krishna se kaha,
                 image_position="left"
             )
 
-            text2 = """ """
+            text2 = """ "Jab main avivahit thi, tab Surya Dev ke vardaan se tumhara janm hua tha."
+
+"Tum janm se hi divya kavach aur kundal pehne hue the."
+
+"Lekin paristhitiyon ke kaaran mujhe tumse alag hona pada."
+
+Phir Kunti ne Karna se vinati ki,
+
+"Tum bina sach jaane Duryodhana ka saath de rahe ho."
+
+"Ab tumhe apne asli bhaiyon ke paas laut aana chahiye."
+
+"Mata-pita ka sammaan aur unka hit karna sabse bada dharm maana gaya hai."
+
+Kunti boli,
+
+"Duryodhana ne anyaay se Pandavon ka Raajya cheen liya hai."
+
+"Tum apne bhaiyon ke saath milkar woh Raajya wapas praapt karo."
+
+"Aaj poori duniya Karna aur Arjun ko ek saath dekhkar khush hogi."
+
+"Jab tum dono ek ho jaaoge, to tumhe koi hara nahi paayega."
+
+Ant mein Kunti ne prem se kaha,
+
+"Tum mere sabse bade putra ho."
+
+"Tum Pandav ho, Soot putra nahi."
+
+"Apni asli pehchaan ko sveekar karo aur apne bhaiyon ke saath aa jao."
+::: """
             create_image_text_layout(
                 text_content=text2,
                 layout="full"
@@ -14334,7 +14554,31 @@ Ant mein Karna ne Shri Krishna se kaha,
 
         # Section 5.3.75
         with st.expander("Section 5.3.75  Section CXLVI"):
-            text1 = """ """
+            text1 = """ Section CXLVI – Karna Ne Maa Kunti Se Apna Antim Vachan Diya
+
+Vaisampayana ne kaha,
+
+Kunti ki baat ke baad aakash se Surya Dev ki awaaz sunaai di.
+
+Surya Dev ne kaha,
+
+"Karna, Kunti jo keh rahi hai, woh sach hai."
+
+"Woh tumhari maa hai."
+
+"Uski baat maanoge, to tumhara hi bhala hoga."
+
+Lekin Surya Dev aur Kunti ki baat sunne ke baad bhi Karna apne faisle se nahi badla.
+
+Woh shaant swar mein bola,
+
+"Maa, janm ke turant baad aapne mujhe chhod diya tha."
+
+"Is wajah se main apne janm ka adhikaar aur Kshatriya ke sanskaar nahi paa saka."
+
+"Yeh dukh main kabhi nahi bhool sakta."
+
+Phir Karna ne kaha, """
             create_image_text_layout(
                 "attached_assets/chapter5/5.3.75.jpg",
                 text1,
@@ -14342,7 +14586,54 @@ Ant mein Karna ne Shri Krishna se kaha,
                 image_position="left"
             )
 
-            text2 = """ """
+            text2 = """ "Aaj agar main Pandavon ke paas chala jaaun, to sab log kahenge ki main Arjun aur Shri Krishna se dar gaya."
+
+"Main apni izzat aur apne vachan ko is tarah nahi tod sakta."
+
+Usne Duryodhana ke prati apni wafadaari bataate hue kaha,
+
+"Jab poori duniya ne mujhe thukra diya tha, tab Duryodhana ne mujhe sammaan diya."
+
+"Usne mujh par bharosa kiya."
+
+"Ab yuddh ke samay main uska saath nahi chhod sakta."
+
+"Chahe mujhe apni jaan hi kyon na deni pade."
+
+Phir Karna ne Kunti se ek vachan diya.
+
+"Main Yudhishthir, Bhim, Nakul aur Sahadev ko kabhi nahi maarunga."
+
+"Main sirf Arjun se hi yuddh karunga."
+
+"Ya to main Arjun ko haraunga, ya Arjun ke haathon veergati paunga."
+
+"Lekin ek baat nishchit hai."
+
+"Aapke paanch putra hamesha rahenge."
+
+"Ya to Arjun jeevit rahega aur main mar jaaunga, ya main jeevit rahunga aur Arjun veergati paayega."
+
+"Aap kabhi paanch putron se vanchit nahi hongi."
+
+Yeh sunkar Kunti ki aankhon mein aansu aa gaye.
+
+Unhone Karna ko gale laga liya aur kaha,
+
+"Mujhe lagta hai ki Kauravon ka vinaash ab nishchit hai."
+
+"Lekin tumne apne chaar bhaiyon ki jaan bachaane ka jo vachan diya hai, use hamesha yaad rakhna."
+
+Ant mein Kunti ne Karna ko aashirvaad diya,
+
+"Tumhara mangal ho aur tum sada swasth raho."
+
+Karna ne vinamrata se kaha,
+
+"Aisa hi hoga."
+
+Iske baad maa aur putra alag-alag dishaon mein chale gaye, dono ke hriday mein gehra dukh tha.
+::: """
             create_image_text_layout(
                 text_content=text2,
                 layout="full"
@@ -14351,7 +14642,21 @@ Ant mein Karna ne Shri Krishna se kaha,
 
         # Section 5.3.76
         with st.expander("Section 5.3.76  Section CXLVII"):
-            text1 = """ """
+            text1 = """ Section CXLVII – Shri Krishna Ne Sabha Ki Baatein Pandavon Ko Bataayi
+
+Vaisampayana ne kaha,
+
+Shri Krishna Hastinapur se lautkar Upaplavya pahunch gaye.
+
+Unhone Pandavon ko poori baat bataayi ki Hastinapur ki sabha mein kya-kya hua.
+
+Uske baad sabhi Raja apne-apne shiviron mein chale gaye.
+
+Shaam ko Pandavon ne apni sandhya-vandan aur prarthana ki.
+
+Phir sab milkar Shri Krishna ke saath baith gaye aur aage ki yojana par charcha karne lage.
+
+Yudhishthir ne Shri Krishna se kaha, """
             create_image_text_layout(
                 "attached_assets/chapter5/5.3.76.jpg",
                 text1,
@@ -14359,7 +14664,56 @@ Ant mein Karna ne Shri Krishna se kaha,
                 image_position="left"
             )
 
-            text2 = """ """
+            text2 = """ "Krishna, Hastinapur ki sabha mein aapne Duryodhana se jo baatein kahi aur sabne jo salaah di, woh humein phir se bataaiye."
+
+"Main un baaton ko dobara sunna chahta hoon."
+
+Shri Krishna bole,
+
+"Maine Duryodhana ko satya, nyaay aur shaanti ki baat samjhaayi thi."
+
+"Lekin usne meri ek bhi baat nahi maani."
+
+Phir Shri Krishna ne Bhishma ki baatein sunaayi.
+
+Bhishma ne Duryodhana se kaha,
+
+"Meri baat dhyaan se suno."
+
+"Maine apne pita Maharaj Shantanu ke sukh aur Kuru Vansh ki raksha ke liye apna Raajya aur vivaah dono chhod diye."
+
+"Maine Bhishma Pratigya lekar apna poora jeevan Kuru Vansh ko samarpit kar diya."
+
+Bhishma ne aage bataaya,
+
+"Mere chhote bhai Vichitravirya ke dehant ke baad Raajya mein sankat aa gaya tha."
+
+"Praja, Mata Satyavati aur sabhi logon ne mujhse Raja banne ki prarthana ki."
+
+"Lekin maine apni pratigya nahi todi."
+
+"Maine apna vachan nibhaya."
+
+Phir Bhishma ne kaha,
+
+"Humne Maharshi Vyas se Kuru Vansh ko aage badhaane ka anurodh kiya."
+
+"Unse Dhritarashtra, Pandu aur Vidur ka janm hua."
+
+"Dhritarashtra janm se andhe the, isliye Pandu Raja bane."
+
+"Is hisaab se Pandu ke putron ka bhi Raajya par poora adhikaar hai."
+
+Ant mein Bhishma ne Duryodhana ko samjhaaya,
+
+"Pandavon ko unka aadha Raajya de do."
+
+"Main tum sabse samaan prem karta hoon."
+
+"Tumhare pita, Mata Gandhari, Vidur aur main sab yahi chaahte hain ki shaanti bani rahe."
+
+"Buzurgon ki baat maano aur apne ahankaar ki wajah se Kuru Vansh ka vinaash mat karo."
+::: """
             create_image_text_layout(
                 text_content=text2,
                 layout="full"
@@ -14368,7 +14722,19 @@ Ant mein Karna ne Shri Krishna se kaha,
 
         # Section 5.3.77
         with st.expander("Section 5.3.77  Section CXLVIII"):
-            text1 = """ """
+            text1 = """ Section CXLVIII – Drona Aur Vidur Ne Duryodhana Ko Antim Baar Samjhaya
+
+Shri Krishna ne Pandavon se kaha,
+
+Bhishma ke baad Dronacharya ne Duryodhana ko samjhaya.
+
+Dronacharya bole,
+
+"Jaise Maharaj Shantanu aur Bhishma ne hamesha Kuru Vansh ka hit socha, waise hi Maharaj Pandu bhi dharm aur satya ke maarg par chalte the."
+
+"Pandu ne Raajya ka adhikaar hote hue bhi apne bade bhai Dhritarashtra ko Raja bana diya aur khud van mein chale gaye."
+
+Dronacharya ne aage kaha, """
             create_image_text_layout(
                 "attached_assets/chapter5/5.3.77.jpg",
                 text1,
@@ -14376,7 +14742,74 @@ Ant mein Karna ne Shri Krishna se kaha,
                 image_position="left"
             )
 
-            text2 = """ """
+            text2 = """ "Vidur ne bhi bina kisi swaarth ke poori nishtha se Dhritarashtra ki seva ki."
+
+"Bhishma ne Raajya ke bade faislon ki zimmedaari sambhaali aur Vidur ne Raajya ka prabandhan kiya."
+
+Phir Dronacharya ne Duryodhana se kaha,
+
+"Tum bhi apne bhai Pandavon ke saath milkar prem se raho."
+
+"Main yeh baat kisi dar ya laabh ke liye nahi keh raha."
+
+"Jaise Ashwatthama mera putra hai, waise hi Arjun bhi mujhe utna hi priya hai."
+
+"Yaad rakho, jeet hamesha dharm ki hoti hai."
+
+Uske baad Vidur bole,
+
+"Bhishma ji, aapne is Kuru Vansh ko bachaaya aur phir se khada kiya tha."
+
+"Ab Duryodhana ke lobh aur ahankaar ki wajah se yahi Vansh vinaash ki or badh raha hai."
+
+"Kripaya ise rokiye."
+
+Vidur ne Duryodhana ke baare mein kaha,
+
+"Woh apne pita ki baat nahi maanta."
+
+"Lobh aur adharm ne uski buddhi ko dhak diya hai."
+
+"Agar use nahi roka gaya, to poora Kuru Vansh nasht ho jaayega."
+
+Phir Vidur ne Bhishma se vinati ki,
+
+"Yadi zarurat pade, to Duryodhana ko bandi bana lijiye."
+
+"Aur Pandavon ke saath milkar is Raajya ko bacha lijiye."
+
+"Yahi sabke hit mein hoga."
+
+Itna kehkar Vidur chup ho gaye.
+
+Unka hriday dukh se bhar gaya tha.
+
+Iske baad Gandhari boli.
+
+Unhone sabha mein sabke saamne Duryodhana ko daantte hue kaha,
+
+"Kuru Raajya hamesha vansh ke niyamon ke anusaar chalta aaya hai."
+
+"Tum adharm karke is Vansh ka vinaash karna chahte ho."
+
+"Jab Bhishma ji jeevit hain, tab sabko unki baat maanni chahiye."
+
+"Pandu Raja bane the, isliye unke putron ka Raajya par poora adhikaar hai."
+
+Ant mein Gandhari ne kaha,
+
+"Dharm ka paalan karo."
+
+"Yudhishthir ko unka adhikaar do."
+
+"Bhishma, Dhritarashtra aur Vidur ki salaah maano."
+
+"Tabhi Kuru Vansh aur poora Raajya surakshit rahega."
+
+"Ahankaar chhod do, warna sab kuch nasht ho jaayega."
+
+Saar: Is adhyaay mein Dronacharya, Vidur aur Gandhari teenon ne Duryodhana ko shaanti aur dharm ka maarg apnaane ki salaah di. Lekin Duryodhana ne unki baat nahi maani, aur isi se Kuru Vansh ke vinaash ka raasta aur bhi pakka ho gaya.
+::: """
             create_image_text_layout(
                 text_content=text2,
                 layout="full"
@@ -14385,7 +14818,25 @@ Ant mein Karna ne Shri Krishna se kaha,
 
         # Section 5.3.78
         with st.expander("Section 5.3.78  Section CXLIX"):
-            text1 = """ """
+            text1 = """ Section CXLIX – Dhritarashtra Ne Duryodhana Ko Vansh Ka Itihaas Samjhaya
+
+Shri Krishna ne Pandavon se kaha,
+
+Gandhari ke baad Maharaj Dhritarashtra ne Duryodhana ko samjhaya.
+
+Dhritarashtra bole,
+
+"Beta Duryodhana, agar tum mera sammaan karte ho, to meri baat dhyaan se suno."
+
+Phir unhone Kuru Vansh ka itihaas bataaya.
+
+"Hamare Vansh mein hamesha yogy aur dharm ka paalan karne waale vyakti ko Raajya mila hai."
+
+Unhone Raja Yayati ka udaaharan diya.
+
+"Yayati ka bada putra Yadu bahut shaktishaali tha."
+
+"Lekin usne apne pita ki aagya nahi maani." """
             create_image_text_layout(
                 "attached_assets/chapter5/5.3.78.jpg",
                 text1,
@@ -14393,7 +14844,54 @@ Ant mein Karna ne Shri Krishna se kaha,
                 image_position="left"
             )
 
-            text2 = """ """
+            text2 = """ "Isliye Yayati ne use Raajya se vanchit kar diya aur chhote putra Puru ko Raja bana diya."
+
+Dhritarashtra ne kaha,
+
+"Isse seekh milti hai ki sirf bada hona hi kaafi nahi hota."
+
+"Jo dharm aur aagya ka paalan karta hai, wahi Raajya ka adhikaari hota hai."
+
+Phir unhone Raja Pratip ke putron ki kahaani sunaayi.
+
+"Sabse bade putra Devapi bahut dharmatma aur gunvaan the."
+
+"Lekin unhe ek gambheer twacha rog tha."
+
+"Isliye unhe Raja nahi banaaya gaya."
+
+"Baad mein Shantanu Raja bane."
+
+Dhritarashtra ne phir apni baat kahi,
+
+"Main bhi janm se andha tha."
+
+"Isi kaaran mujhe Raajya nahi mila aur mere chhote bhai Pandu Raja bane."
+
+"Ab Pandu ke dehant ke baad unke putron ka hi Raajya par adhikaar banta hai."
+
+Phir unhone Duryodhana ko samjhaaya,
+
+"Jab mujhe hi Raajya ka adhikaar nahi mila, to tum kaise us par adhikaar jata sakte ho?"
+
+"Yudhishthir hi vaastav mein is Raajya ke uchit adhikaari hain."
+
+Dhritarashtra ne Yudhishthir ki prashansa karte hue kaha,
+
+"Woh satyavaadi, dayaalu, dharm ka paalan karne waale aur praja se prem karne waale Raja hain."
+
+"Unmein ek aadarsh Raja ke sabhi gun hain."
+
+Ant mein Dhritarashtra ne kaha,
+
+"Apna moh aur ahankaar chhod do."
+
+"Pandavon ko unka aadha Raajya aur unka adhikaar wapas de do."
+
+"Tabhi tum sab shaanti aur sukh se jee paaoge."
+
+Saar: Is adhyaay mein Dhritarashtra ne itihaas ke udaaharan dekar Duryodhana ko samjhaaya ki Raajya hamesha dharm aur yogyata ke aadhaar par milta hai. Unhone spasht kaha ki Yudhishthir hi Kuru Raajya ke vaastavik adhikaari hain aur shaanti ke liye unhe unka hissa de dena chahiye.
+::: """
             create_image_text_layout(
                 text_content=text2,
                 layout="full"
@@ -14402,7 +14900,23 @@ Ant mein Karna ne Shri Krishna se kaha,
 
         # Section 5.3.79
         with st.expander("Section 5.3.79  Section CXLX"):
-            text1 = """ """
+            text1 = """ Section CXLX – Shaanti Ka Ant Aur Yuddh Ki Shuruaat
+
+Shri Krishna ne Pandavon se kaha,
+
+Bhishma, Dronacharya, Vidur, Gandhari aur Dhritarashtra sabne milkar Duryodhana ko bahut samjhaya.
+
+Lekin usne kisi ki baat nahi maani.
+
+Gusse se uski aankhen laal ho gayin aur woh sabha chhodkar baahar chala gaya.
+
+Uske saath sabhi Raja bhi chale gaye, jo uske liye yuddh karne ko taiyaar the.
+
+Duryodhana ne sabse kaha,
+
+"Aaj Pushya Nakshatra hai."
+
+"Aaj hi Kurukshetra ki or chalo." """
             create_image_text_layout(
                 "attached_assets/chapter5/5.3.79.jpg",
                 text1,
@@ -14410,7 +14924,48 @@ Ant mein Karna ne Shri Krishna se kaha,
                 image_position="left"
             )
 
-            text2 = """ """
+            text2 = """ Sabhi Raja apni-apni sena ke saath Kurukshetra ke liye nikal pade.
+
+Bhishma ko poori Kaurav sena ka Senapati banaaya gaya.
+
+Shri Krishna ne kaha,
+
+"Kauravon ke paas kul gyarah Akshauhini sena ikatthi ho chuki hai."
+
+"Us sena ka netritva Bhishma kar rahe hain."
+
+Phir Shri Krishna ne Yudhishthir se kaha,
+
+"Maine shaanti banaane ke liye har sambhav prayaas kiya."
+
+"Maine pyaar se samjhaya."
+
+"Maine Rajaon ko alag karne ki bhi koshish ki."
+
+"Maine apna divya roop bhi dikhaya."
+
+"Maine Duryodhana ko baar-baar chetavni di."
+
+"Yahaan tak ki maine sirf paanch gaon dene ka prastaav bhi rakha."
+
+"Pandav poora Raajya nahi, sirf paanch gaon lene ko bhi taiyaar the."
+
+"Lekin Duryodhana ne woh bhi dene se mana kar diya."
+
+Ant mein Shri Krishna bole,
+
+"Ab shaanti ka har raasta band ho chuka hai."
+
+"Ab adharm ko rokne ka ek hi upaay bacha hai — yuddh."
+
+"Kaurav bina yuddh ke tumhe tumhara Raajya kabhi nahi denge."
+
+"Ab sabhi Raja Kurukshetra pahunch chuke hain."
+
+"Yeh yuddh ab nishchit hai aur isi se bahut bada vinaash hoga."
+
+Saar: Is adhyaay mein Shri Krishna ne Pandavon ko bataaya ki shaanti ke liye har sambhav prayaas kiya gaya, lekin Duryodhana ke ahankaar ne sab kuch asafal kar diya. Ab Kurukshetra ka Mahayuddh hona tay tha.
+::: """
             create_image_text_layout(
                 text_content=text2,
                 layout="full"
@@ -14419,7 +14974,23 @@ Ant mein Karna ne Shri Krishna se kaha,
 
         # Section 5.3.80
         with st.expander("Section 5.3.80  Section CLI"):
-            text1 = """ """
+            text1 = """ Section CLI – Pandavon Ne Apna Senapati Chuna
+
+Vaisampayana ne kaha,
+
+Shri Krishna ki baatein sunkar Yudhishthir ne apne sabhi bhaiyon se kaha,
+
+"Ab humein yuddh ki taiyaari karni hogi."
+
+"Hamare paas saat Akshauhini sena hai."
+
+"Humein aisa Senapati chunna hoga jo poori sena ka sahi netritva kar sake aur Bhishma jaise mahaan yoddha ka saamna kar sake."
+
+Yudhishthir ne saat mahaan yoddhaon ke naam bataaye.
+
+Woh the Drupad, Virat, Dhrishtadyumna, Shikhandi, Satyaki, Chekitan aur Bhim.
+
+Phir unhone Sahadev se salaah maangi. """
             create_image_text_layout(
                 "attached_assets/chapter5/5.3.80.jpg",
                 text1,
@@ -14427,7 +14998,58 @@ Ant mein Karna ne Shri Krishna se kaha,
                 image_position="left"
             )
 
-            text2 = """ """
+            text2 = """ Sahadev bole,
+
+"Mere vichaar se Raja Virat Senapati banne ke yogya hain."
+
+"Woh shaktishaali hain, hamaare mitra hain aur Bhishma ka saamna kar sakte hain."
+
+Uske baad Nakul ne apni raay di.
+
+"Mere hisaab se Raja Drupad sabse uchit hain."
+
+"Woh anubhavee, dharmatma aur mahaan yoddha hain."
+
+"Woh hamesha hamaare hit ki sochte hain aur Dronacharya aur Bhishma ka saamna kar sakte hain."
+
+Phir Arjun bole,
+
+"Mere vichaar se Dhrishtadyumna sabse achhe Senapati honge."
+
+"Unka janm hi Dronacharya ka vinaash karne ke liye hua tha."
+
+"Woh sabhi yuddh-kalaon mein nipun hain aur Bhishma ke saamne bhi dridhata se khade reh sakte hain."
+
+Iske baad Bhim ne kaha,
+
+"Mere hisaab se Shikhandi ko Senapati banaana chahiye."
+
+"Rishiyon ne kaha hai ki Bhishma ka ant Shikhandi ke dwaara hoga."
+
+"Isliye woh is yuddh ke liye bahut mahatvapurn hain."
+
+Ant mein Yudhishthir ne Shri Krishna se kaha,
+
+"Krishna, hamaari jeet aur haar sab aapke maargdarshan par nirbhar hai."
+
+"Isliye aap hi bataaiye ki hamaara Senapati kaun hona chahiye."
+
+Shri Krishna muskuraakar bole,
+
+"Tum sabne bahut achhe yoddhaon ke naam sujhaaye hain."
+
+"Maine yuddh rokne ke liye har sambhav prayaas kiya tha, lekin Duryodhana nahi maana."
+
+"Ab yuddh hi ek maatra raasta hai."
+
+Phir Shri Krishna ne apna faisla sunaaya.
+
+"Mere vichaar se Dhrishtadyumna hi tumhaari sena ke Senapati banne ke liye sabse uchit hain."
+
+"Woh veer hain, kushal hain aur is zimmedaari ko achhi tarah nibhaayenge."
+
+Saar: Is adhyaay mein Pandavon ne apni sena ke Senapati ke baare mein vichaar-vimarsh kiya. Alag-alag yoddhaon ke naam sujhaaye gaye, lekin ant mein Shri Krishna ne Dhrishtadyumna ko Pandav sena ka Senapati chunne ki salaah di.
+::: """
             create_image_text_layout(
                 text_content=text2,
                 layout="full"
