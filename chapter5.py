@@ -15056,7 +15056,29 @@ Saar: Is adhyaay mein Pandavon ne apni sena ke Senapati ke baare mein vichaar-vi
             )
                 # Section 5.3.81
         with st.expander("Section 5.3.81  Section CLII"):
-            text1 = """ """
+            text1 = """ Section CLII – Pandav Sena Kurukshetra Ki Or Chal Padi
+
+Vaisampayana ne kaha,
+
+Jab Shri Krishna ne Dhrishtadyumna ko Senapati banaane ka faisla sunaaya, tab sabhi Raja bahut khush ho gaye.
+
+Sabne zor se jai-jaikaar ki.
+
+Har taraf awaaz aane lagi,
+
+"Sena ko taiyaar karo!"
+
+"Yuddh ka samay aa gaya hai!"
+
+Turant hi sena chalne lagi.
+
+Ghode hinhinaane lage.
+
+Haathi garajne lage.
+
+Rathon ke pahiye tez awaaz karne lage.
+
+Shankh aur nagaade goonj uthe. """
             create_image_text_layout(
                 "attached_assets/chapter5/5.3.81.jpg",
                 text1,
@@ -15064,7 +15086,45 @@ Saar: Is adhyaay mein Pandavon ne apni sena ke Senapati ke baare mein vichaar-vi
                 image_position="left"
             )
 
-            text2 = """ """
+            text2 = """ Poora vaataavaran yuddh ke utsaah se bhar gaya.
+
+Sabhi yoddha kavach pehenkar aur hathiyaar lekar aage badhne lage.
+
+Sabse aage Bhim chal rahe the.
+
+Unke saath Nakul, Sahadev, Abhimanyu, Draupadi ke paanch putra aur Senapati Dhrishtadyumna bhi the.
+
+Unke peeche Panchal aur Prabhadrak sena chal rahi thi.
+
+Yudhishthir ne sirf yoddhaon ko hi nahi, balki poore yuddh ki vyavastha ka bhi dhyaan rakha.
+
+Unke saath bhojan ka saamaan, pashuon ka chaara, tambu, dhan, hathiyaar, rath, vaidya, chikitsak aur ghaayal sainikon ki dekhbhaal ka saara saamaan bhi tha.
+
+Is beech Draupadi Upaplavya mein hi ruki.
+
+Woh mahal ki anya mahilaon ke saath surakshit sthaan par rahi.
+
+Pandavon ne apna dhan aur parivaar ki suraksha ke liye alag sainik bhi tainaat kiye.
+
+Yuddh ke liye nikalne se pehle Pandavon ne Brahmanon ko gaay aur sona daan diya.
+
+Brahmanon ne unhe aashirvaad diya.
+
+Uske baad sabhi Raja apni-apni sena ke saath Yudhishthir ki raksha karte hue aage badhe.
+
+Ant mein Pandav sena Kurukshetra pahunch gayi.
+
+Wahaan pahunchte hi sabhi yoddhaon ne apne shankh bajaaye.
+
+Shri Krishna ne Panchajanya Shankh bajaaya.
+
+Arjun ne bhi apna divya shankh bajaaya.
+
+Un shankhon ki goonj se poora Kurukshetra, dharti aur aasmaan goonj uthe.
+
+Pandav sena ka utsaah aur aatmavishvaas dekhkar sabhi yoddha yuddh ke liye taiyaar ho gaye.
+
+Saar: Is adhyaay mein Pandav sena poori taiyaari ke saath Kurukshetra ke liye nikli. Dhrishtadyumna ke netritva mein sabhi yoddha utsaah se bhare the. Shankhon ki goonj ke saath Mahabharat ka Mahayuddh shuru hone ke bilkul kareeb aa gaya. """
             create_image_text_layout(
                 text_content=text2,
                 layout="full"
@@ -15073,7 +15133,29 @@ Saar: Is adhyaay mein Pandavon ne apni sena ke Senapati ke baare mein vichaar-vi
 
         # Section 5.3.82
         with st.expander("Section 5.3.82  Section CLIII"):
-            text1 = """ """
+            text1 = """ Section CLIII – Pandavon Ne Kurukshetra Mein Apna Shivir Lagaya
+
+Vaisampayana ne kaha,
+
+Kurukshetra pahunchkar Maharaj Yudhishthir ne apni sena ke liye ek achhi jagah chuni.
+
+Woh jagah samatal, thandi, hari ghaas se bhari aur paani aur lakdi ki suvidha wali thi.
+
+Unhone dhyaan rakha ki shivir shamshaan, mandiron, rishi-ashramon aur anya pavitra sthalon se door ho.
+
+Sabse pehle sena aur pashuon ko aaraam diya gaya.
+
+Uske baad Yudhishthir hazaaron Rajaon ke saath poore kshetra ka nirikshan karne nikle.
+
+Shri Krishna aur Arjun bhi saath mein the.
+
+Raaste mein unhone Kauravon ke pahredaar sainikon ko peeche hata diya.
+
+Dhrishtadyumna aur Satyaki ne poore shivir ki jagah naapkar uski yojana banaayi.
+
+Pandav Hiranvati nadi ke kinaare pahunche.
+
+Us nadi ka paani pavitra aur saaf tha. """
             create_image_text_layout(
                 "attached_assets/chapter5/5.3.82.jpg",
                 text1,
@@ -15081,7 +15163,31 @@ Saar: Is adhyaay mein Pandavon ne apni sena ke Senapati ke baare mein vichaar-vi
                 image_position="left"
             )
 
-            text2 = """ """
+            text2 = """ Shri Krishna ne shivir ki suraksha ke liye uske chaaron or gehri khaai khudwaayi.
+
+Us khaai ki raksha ke liye sainik bhi tainaat kiye gaye.
+
+Phir sabhi Rajaon aur unki senaon ke liye bade aur mazboot tambu lagaaye gaye.
+
+Har shivir mein khaane, peene aur zaroori saamaan ki poori vyavastha thi.
+
+Yudhishthir ne yuddh ki taiyaari mein koi kami nahi chhodi.
+
+Har jagah dhanush, teer, kavach, talwaarein, bhaale, gadaayein aur anya hathiyaar jama kiye gaye.
+
+Ghee, shahad, paani, pashuon ka chaara aur anya zaroori saamaan bhi paryaapt maatra mein rakha gaya.
+
+Vaidya, chikitsak aur kushal kaarigar bhi shivir mein maujood the.
+
+Woh ghaayal sainikon ka ilaaj karne aur zaroori cheezon ki marammat ke liye taiyaar the.
+
+Bahut se vishaal haathi mazboot lohe ke kavach pehne hue yuddh ke liye khade the.
+
+Jab anya mitra Rajaon ko pata chala ki Pandav Kurukshetra pahunch gaye hain, to woh bhi apni sena ke saath wahaan aa gaye.
+
+Kai dharmatma Raja, jo yagya kar chuke the aur Brahmanon ko daan de chuke the, Pandavon ki vijay ke liye unka saath dene aaye.
+
+Saar: Is adhyaay mein Pandavon ne Kurukshetra mein surakshit aur achhi tarah se yojit shivir banaaya. Yuddh ke liye hathiyaar, bhojan, chikitsa aur suraksha ki poori vyavastha ki gayi. Dheere-dheere sabhi mitra Raja bhi apni senaon ke saath Pandavon se aa mile. """
             create_image_text_layout(
                 text_content=text2,
                 layout="full"
@@ -15090,7 +15196,27 @@ Saar: Is adhyaay mein Pandavon ne apni sena ke Senapati ke baare mein vichaar-vi
 
         # Section 5.3.83
         with st.expander("Section 5.3.83  Section CLIV"):
-            text1 = """ """
+            text1 = """ Section CLIV – Duryodhana Ne Bhi Yuddh Ki Taiyaari Shuru Ki
+
+Janamejaya ne poochha,
+
+"Jab Yudhishthir apni sena ke saath Kurukshetra pahunch gaye, tab Duryodhana ne kya kiya?"
+
+"Mujhe Pandavon aur Kauravon ki yuddh ki taiyaari vistaar se bataaiye."
+
+Vaisampayana ne kaha,
+
+Jab Shri Krishna Hastinapur se chale gaye aur shaanti ki baat asafal ho gayi, tab Duryodhana ne Karna, Dushasan aur Shakuni ko bulaaya.
+
+Woh bola,
+
+"Krishna apna kaam poora kiye bina Pandavon ke paas laut gaya hai."
+
+"Ab woh nishchit roop se Pandavon ko yuddh ke liye utsaahit karega."
+
+"Bhim, Arjun aur Yudhishthir sab uske saath hain."
+
+"Virat aur Drupad bhi Pandavon ka saath de rahe hain." """
             create_image_text_layout(
                 "attached_assets/chapter5/5.3.83.jpg",
                 text1,
@@ -15098,7 +15224,49 @@ Saar: Is adhyaay mein Pandavon ne apni sena ke Senapati ke baare mein vichaar-vi
                 image_position="left"
             )
 
-            text2 = """ """
+            text2 = """ "Isliye yeh yuddh bahut bhayaanak hoga."
+
+Phir Duryodhana ne aadesh diya,
+
+"Bina deri kiye yuddh ki saari taiyaari shuru karo."
+
+"Kurukshetra mein hamaare sabhi mitra Rajaon ke liye bade aur surakshit shivir banaaye jaayen."
+
+"Har jagah paani, lakdi, bhojan aur hathiyaaron ki poori vyavastha ho."
+
+"Hastinapur se Kurukshetra tak ka raasta bhi theek kar diya jaaye."
+
+"Aur aaj hi ghoshna kar do ki kal hamaari sena yuddh ke liye ravana hogi."
+
+Sabne ek saath kaha,
+
+"Jaisi aapki aagya."
+
+Agle din sabhi ne poori lagan se taiyaari shuru kar di.
+
+Raja apne sundar vastra, kavach aur abhushan pehenne lage.
+
+Yoddha apne hathiyaar sambhaalne lage.
+
+Rath taiyaar kiye gaye.
+
+Ghode sajaaye gaye.
+
+Haathiyon ko yuddh ke liye taiyaar kiya gaya.
+
+Paidal sainik bhi kavach pehenkar apne hathiyaar lekar khade ho gaye.
+
+Poora Hastinapur yuddh ki taiyaari mein vyast ho gaya.
+
+Har taraf shankhon, nagaadon aur sainikon ki awaaz goonj rahi thi.
+
+Rath, haathi aur ghodon ki bheed se poori nagari bhar gayi thi.
+
+Dekhne waalon ko lag raha tha jaise ek vishaal samudra lehra raha ho.
+
+Sabko pata tha ki ab Kurukshetra ka Mahayuddh shuru hone mein bahut kam samay baaki hai.
+
+Saar: Is adhyaay mein Duryodhana ne bhi Pandavon ki tarah poori sena ko yuddh ke liye taiyaar kar diya. Kurukshetra mein shivir banaaye gaye, sena ko sajaaya gaya aur Hastinapur ka poora vaataavaran Mahayuddh ki taiyaari se bhar gaya. """
             create_image_text_layout(
                 text_content=text2,
                 layout="full"
@@ -15107,15 +15275,83 @@ Saar: Is adhyaay mein Pandavon ne apni sena ke Senapati ke baare mein vichaar-vi
 
         # Section 5.3.84
         with st.expander("Section 5.3.84  Section CLV"):
-            text1 = """ """
+            text1 = """ Section CLV – Pandavon Ne Yuddh Ka Antim Faisla Liya
+
+Vaisampayana ne kaha,
+
+Shri Krishna ki baatein yaad karke Yudhishthir ne unse phir poochha,
+
+"Hey Krishna, Duryodhana ne aapki itni achhi baaton ko kaise thukra diya?"
+
+"Ab humein kya karna chahiye?"
+
+"Aap Duryodhana, Karna aur Shakuni ke vichaar bhi jaante hain aur hamaare bhi."
+
+"Kripaya bataaiye ki is samay hamaare liye sabse sahi maarg kya hai."
+
+Shri Krishna ne gambheer swar mein uttar diya,
+
+"Maine Hastinapur ki sabha mein dharm, nyaay aur shaanti ki har baat samjhaayi thi."
+
+"Lekin Duryodhana ne kisi ki baat nahi maani." """
             create_image_text_layout(
                 "attached_assets/chapter5/5.3.84.jpg",
                 text1,
                 layout="side",
                 image_position="left"
             )
+ 
+            text2 = """ "Na usne Bhishma ki suni, na Vidur ki aur na hi meri."
 
-            text2 = """ """
+"Woh sirf Karna, Shakuni aur Dushasan ki baaton par bharosa karta hai."
+
+Shri Krishna ne aage kaha,
+
+"Uska ahankaar itna badh chuka hai ki usne mujhe bandi banaane ki bhi koshish ki thi."
+
+"Uske mann mein tumhaare liye zara bhi prem ya daya nahi hai."
+
+"Ab bina yuddh ke tumhe tumhaara adhikaar kabhi nahi milega."
+
+"Isliye ab yuddh hi ek maatra raasta hai."
+
+Yeh sunkar sabhi Raja chupchaap Yudhishthir ki or dekhne lage.
+
+Yudhishthir ne unki bhaavna samajh li aur kaha,
+
+"Sena ko yuddh ke liye taiyaar karo."
+
+Yeh aadesh milte hi poori Pandav sena mein utsaah ki lehar daud gayi.
+
+Lekin Yudhishthir ke mann mein ab bhi dukh tha.
+
+Woh Bhim aur Arjun se bole,
+
+"Humne itne saal sirf nyaay ke liye sangharsh kiya."
+
+"Lekin ab humein apne hi guruon aur buzurgon ke viruddh hathiyaar uthaane padenge."
+
+"Aisi jeet ka kya arth hoga, jisme Bhishma aur Dronacharya jaise poojya logon ka vinaash ho?"
+
+Yeh sunkar Arjun ne kaha,
+
+"Bhaiya, Maa Kunti, Vidur aur Shri Krishna sabne humein dharm ka maarg bataaya hai."
+
+"Unki baat adharm nahi ho sakti."
+
+"Ab yuddh se peeche hatna sambhav nahi hai."
+
+Phir Shri Krishna ne bhi Arjun ki baat ka samarthan kiya.
+
+"Arjun sahi keh raha hai."
+
+"Ab yuddh ko taalna sambhav nahi hai."
+
+Iske baad Pandavon ne dridh nishchay kar liya ki ve dharm ki raksha ke liye yuddh karenge.
+
+Us raat ve apni sena ke saath agle din ke Mahayuddh ki taiyaari karte hue vishvaas aur saahas ke saath vishraam karne lage.
+
+Saar: Is adhyaay mein Yudhishthir ne ek baar phir shaanti ka maarg jaanne ki ichchha vyakt ki, lekin Shri Krishna ne spasht kar diya ki Duryodhana kabhi nyaay nahi maanega. Ant mein Pandavon ne dharm ki raksha ke liye Mahayuddh ladne ka dridh sankalp kar liya. """
             create_image_text_layout(
                 text_content=text2,
                 layout="full"
@@ -15124,7 +15360,21 @@ Saar: Is adhyaay mein Pandavon ne apni sena ke Senapati ke baare mein vichaar-vi
 
         # Section 5.3.85
         with st.expander("Section 5.3.85  Section CLVI"):
-            text1 = """ """
+            text1 = """ Section CLVI – Duryodhana Ne Apni Sena Ki Poori Taiyaari Ki
+
+Vaisampayana ne kaha,
+
+Agli subah Duryodhana ne apni poori sena ko yuddh ke liye vyavasthit kiya.
+
+Usne apni gyarah Akshauhini sena ko alag-alag bhaagon mein baant diya.
+
+Har sena mein shreshth, madhyam aur saamanya yoddhaon ko sahi sthaan par rakha gaya.
+
+Yuddh ke liye har tarah ki taiyaari ki gayi.
+
+Rathon ki marammat ka saamaan rakha gaya.
+
+Bahut saare dhanush, teer, bhaale, talwaarein, gadaayein aur anya hathiyaar jama kiye gaye. """
             create_image_text_layout(
                 "attached_assets/chapter5/5.3.85.jpg",
                 text1,
@@ -15132,7 +15382,53 @@ Saar: Is adhyaay mein Pandavon ne apni sena ke Senapati ke baare mein vichaar-vi
                 image_position="left"
             )
 
-            text2 = """ """
+            text2 = """ Kavach, dhaal aur suraksha ka saamaan bhi paryaapt maatra mein tha.
+
+Yuddh mein kaam aane waale kai vishesh yantra bhi taiyaar rakhe gaye.
+
+Haathiyon, ghodon aur rathon ko sundar dhwajon aur abhushanon se sajaaya gaya.
+
+Har rath mein anubhavee saarathi aur kushal yoddha tainaat the.
+
+Har rath ke saath bahut saare dhanush aur teer rakhe gaye the, taaki yuddh ke dauraan kisi cheez ki kami na ho.
+
+Haathiyon ko mazboot kavach pehnaaya gaya.
+
+Un par kai yoddha savaar the.
+
+Kuch ankush sambhaal rahe the.
+
+Kuch dhanush chala rahe the.
+
+Kuch talwaarein aur bhaale lekar yuddh ke liye taiyaar the.
+
+Ghode bhi achhi tarah prashikshit the.
+
+Woh apne savaaron ki har aagya turant maante the.
+
+Paidal sainik bhi kavach pehenkar aur alag-alag hathiyaar lekar yuddh ke liye taiyaar khade the.
+
+Duryodhana ne sena ki suraksha ke liye bhi khaas vyavastha ki.
+
+Har rath ke saath haathi, ghode aur paidal sainik rakhe gaye, taaki ek-doosre ki raksha kar saken.
+
+Usne ek alag bachaav sena bhi rakhi, jo zarurat padne par turant madad ke liye aa sake.
+
+Is tarah poori Kaurav sena ko bahut soch-samajhkar vyavasthit kiya gaya.
+
+Kul milaakar Kurukshetra mein athaarah Akshauhini sena ikatthi thi.
+
+Unmein se saat Akshauhini Pandavon ki thi aur gyarah Akshauhini Kauravon ki.
+
+Ant mein Duryodhana ne apne sabse bade Senapati aur yoddhaon ko alag-alag senaon ki zimmedaari di.
+
+Inmein Dronacharya, Kripacharya, Shalya, Jayadrath, Kritavarma, Ashwatthama, Karna, Bhurishrava, Shakuni aur Bahlik jaise mahaan yoddha shaamil the.
+
+Duryodhana roz un sabse milta, unka sammaan karta aur unhe utsaahit karta tha.
+
+Sabhi yoddha bhi poori nishtha se uske liye yuddh karne ko taiyaar ho gaye.
+
+Saar: Is adhyaay mein Duryodhana ne apni gyarah Akshauhini sena ko bahut hi sangathit tareeke se taiyaar kiya. Hathiyaar, rath, haathi, ghode aur yoddha sab poori taiyaari ke saath Kurukshetra ke Mahayuddh ke liye sajj ho gaye. """
             create_image_text_layout(
                 text_content=text2,
                 layout="full"
@@ -15141,7 +15437,21 @@ Saar: Is adhyaay mein Pandavon ne apni sena ke Senapati ke baare mein vichaar-vi
 
         # Section 5.3.86
         with st.expander("Section 5.3.86  Section CLVII"):
-            text1 = """ """
+            text1 = """ Section CLVII – Bhishma Bane Kaurav Sena Ke Senapati
+
+Vaisampayana ne kaha,
+
+Duryodhana sabhi Rajaon ke saath Bhishma Pitamah ke paas gaya.
+
+Usne haath jodkar kaha,
+
+"Pitamah, bina Senapati ke koi bhi badi sena yuddh nahi jeet sakti."
+
+"Jab bahut log alag-alag faisle lete hain, tab sena kamzor ho jaati hai."
+
+Duryodhana ne ek puraani ghatna sunaayi.
+
+Usne kaha, """
             create_image_text_layout(
                 "attached_assets/chapter5/5.3.86.jpg",
                 text1,
@@ -15149,7 +15459,75 @@ Saar: Is adhyaay mein Pandavon ne apni sena ke Senapati ke baare mein vichaar-vi
                 image_position="left"
             )
 
-            text2 = """ """
+            text2 = """ "Ek samay Brahmanon ne bhi Kshatriyon se yuddh kiya tha."
+
+"Shuru mein woh haar rahe the, kyunki sab apni-apni marzi se lad rahe the."
+
+"Lekin jab unhone ek hi Senapati banaaya, tab unki jeet hui."
+
+Phir Duryodhana bola,
+
+"Pitamah, aap sabse buddhimaan aur sabse shaktishaali hain."
+
+"Jaise Devtaon ke neta Indra hain, waise hi hamaari sena ke neta aap baniye."
+
+"Aapke netritva mein humein jeet zaroor milegi."
+
+Bhishma Pitamah bole,
+
+"Duryodhana, Pandav bhi mujhe utne hi priya hain jitne tum."
+
+"Phir bhi maine tumse vachan diya hai, isliye main tumhaari or se yuddh karoonga."
+
+"Is dharti par sirf Arjun hi aisa yoddha hai jo mera saamna kar sakta hai."
+
+Phir Bhishma ne kaha,
+
+"Main Pandavon ko nahi maaroonga, lekin har din unki sena ke das hazaar yoddhaon ka vinaash karoonga."
+
+Uske baad unhone ek shart rakhi.
+
+"Ya to pehle Karna yuddh kare, ya phir main."
+
+"Hum dono ek saath sena ka netritva nahi karenge."
+
+Yeh sunkar Karna bola,
+
+"Jab tak Bhishma Pitamah jeevit hain, tab tak main yuddh mein bhaag nahi loonga."
+
+"Unke girne ke baad hi main Arjun se yuddh karoonga."
+
+Iske baad Duryodhana ne Bhishma Pitamah ko Kaurav sena ka Senapati bana diya.
+
+Sabhi ne unka sammaan kiya.
+
+Shankh aur nagaade bajne lage.
+
+Sainikon ne zor-zor se jai-jaikaar ki.
+
+Lekin usi samay kuch ashubh sanket bhi dikhai diye.
+
+Saaf aasmaan se khoon jaisi baarish hui.
+
+Tez aandhiyaan chalne lagi.
+
+Dharti hilne lagi.
+
+Siyaron ki daraavni awaaz sunai dene lagi.
+
+Sabko mehsoos hua ki koi bahut bada vinaash hone wala hai.
+
+Phir Duryodhana ne Brahmanon ko gaay aur sona daan diya.
+
+Unse aashirvaad liya.
+
+Iske baad Bhishma Pitamah ko sabse aage rakhkar Kaurav sena Kurukshetra ki or chal padi.
+
+Kurukshetra pahunchkar unhone bhi ek achhi jagah par apna bada aur mazboot shivir bana liya.
+
+Woh shivir dekhne mein Hastinapur ki tarah bhavya lag raha tha.
+
+Saar: Is adhyaay mein Bhishma Pitamah ko Kaurav sena ka Senapati banaaya gaya. Karna ne faisla kiya ki jab tak Bhishma yuddh karenge, tab tak woh yuddh mein bhaag nahi lega. Bhishma ke Senapati bante hi kai ashubh sanket dikhai diye, jo aane wale Mahayuddh ke bhayaanak parinaam ki or ishaara kar rahe the. """
             create_image_text_layout(
                 text_content=text2,
                 layout="full"
@@ -15158,7 +15536,25 @@ Saar: Is adhyaay mein Pandavon ne apni sena ke Senapati ke baare mein vichaar-vi
 
         # Section 5.3.87
         with st.expander("Section 5.3.87  Section CLVIII"):
-            text1 = """ """
+            text1 = """ Section CLVIII – Balram Ji Ne Yuddh Se Door Rehne Ka Faisla Kiya
+
+Vaisampayana ne kaha,
+
+Janamejaya ne poochha,
+
+"Jab Yudhishthir ko pata chala ki Bhishma Pitamah Kaurav sena ke Senapati ban gaye hain, tab unhone kya kaha?"
+
+"Bhim, Arjun aur Shri Krishna ne is baare mein kya kaha?"
+
+Vaisampayana ne uttar diya,
+
+Yeh khabar milte hi Yudhishthir ne apne sabhi bhaiyon aur Shri Krishna ko bulaaya.
+
+Woh shaant swar mein bole,
+
+"Sabhi sainikon ki dekhbhaal karo."
+
+"Hamesha kavach pehenkar taiyaar raho." """
             create_image_text_layout(
                 "attached_assets/chapter5/5.3.87.jpg",
                 text1,
@@ -15166,7 +15562,67 @@ Saar: Is adhyaay mein Pandavon ne apni sena ke Senapati ke baare mein vichaar-vi
                 image_position="left"
             )
 
-            text2 = """ """
+            text2 = """ "Hamaara pehla saamna Bhishma Pitamah se hoga."
+
+"Isliye hamaari saat Akshauhini sena ke liye saat Senapati taiyaar karo."
+
+Shri Krishna bole,
+
+"Yudhishthir, tumne bilkul sahi faisla liya hai."
+
+"Ab der karne ka samay nahi hai."
+
+"Turant sena ka netritva taiyaar kar do."
+
+Iske baad Yudhishthir ne apni sena ke saat mukhya Senapati niyukt kiye.
+
+Ye the Drupad, Virat, Satyaki, Dhrishtadyumna, Dhrishtaketu, Shikhandi aur Magadh ke Raja Sahadev.
+
+Sabse upar poori sena ka mukhya Senapati Dhrishtadyumna ko banaaya gaya.
+
+Arjun sabhi Senapatiyon ke pramukh yoddha bane.
+
+Aur Shri Krishna ne Arjun ke saarathi aur maargdarshak ki zimmedaari sambhaali.
+
+Isi samay Balram Ji bhi Pandavon ke shivir mein aaye.
+
+Unke saath Akrur, Uddhav, Pradyumna aur Yadav vansh ke kai veer bhi the.
+
+Sabhi Pandav aur Raja unke sammaan mein khade ho gaye.
+
+Unka aadar-satkaar kiya gaya.
+
+Sabke baith jaane ke baad Balram Ji bole,
+
+"Ab yeh Mahayuddh hona nishchit hai."
+
+"Mujhe aasha hai ki tum sab surakshit rahoge."
+
+Phir unhone kaha,
+
+"Maine Krishna se kai baar kaha tha ki Pandav aur Kaurav dono hamaare apne hain."
+
+"Isliye dono ke saath samaan vyavahaar karna chahiye."
+
+"Lekin Krishna ne Arjun aur Pandavon ka saath dene ka faisla kiya."
+
+Balram Ji ne aage kaha,
+
+"Bhim aur Duryodhana dono hi mere priya shishya hain."
+
+"Main kisi ek ka paksh lekar doosre ka vinaash hote hue nahi dekh sakta."
+
+"Isliye main is yuddh mein bhaag nahi loonga."
+
+"Main Saraswati nadi ke pavitra tirth ki yatra par jaa raha hoon."
+
+Yeh kehkar Balram Ji ne sabse vida li.
+
+Shri Krishna unke saath thodi door tak chale, lekin Balram Ji ne unhe waapas bhej diya.
+
+Uske baad Balram Ji tirth yatra ke liye nikal pade.
+
+Saar: Is adhyaay mein Yudhishthir ne Pandav sena ke Senapatiyon ki antim vyavastha ki. Balram Ji Pandavon se mile, lekin Bhim aur Duryodhana dono se samaan prem hone ke kaaran unhone Mahabharat ke yuddh se door rehkar Saraswati tirth yatra par jaane ka faisla kiya. """
             create_image_text_layout(
                 text_content=text2,
                 layout="full"
@@ -15175,7 +15631,23 @@ Saar: Is adhyaay mein Pandavon ne apni sena ke Senapati ke baare mein vichaar-vi
 
         # Section 5.3.88
         with st.expander("Section 5.3.88  Section CLIX"):
-            text1 = """ """
+            text1 = """ Section CLIX – Rukmi Ne Madad Ki Peshkash Ki, Lekin Dono Pakshon Ne Mana Kar Diya
+
+Vaisampayana ne kaha,
+
+Isi samay Vidarbh ke Raja Rukmi Pandavon ke shivir mein aaye.
+
+Woh bahut shaktishaali yoddha the.
+
+Unke paas Vijaya naam ka divya dhanush tha.
+
+Yeh dhanush bahut shaktishaali maana jaata tha.
+
+Us samay teen prasiddh divya dhanush the.
+
+Arjun ka Gandiva, Rukmi ka Vijaya, aur Shri Krishna ka Sharnga.
+
+Rukmi pehle Shri Krishna se haar chuke the. """
             create_image_text_layout(
                 "attached_assets/chapter5/5.3.88.jpg",
                 text1,
@@ -15183,7 +15655,65 @@ Saar: Is adhyaay mein Pandavon ne apni sena ke Senapati ke baare mein vichaar-vi
                 image_position="left"
             )
 
-            text2 = """ """
+            text2 = """ Jab Shri Krishna Rukmini ji ko swayamvar se lekar aaye the, tab Rukmi ne unhe rokne ki koshish ki thi.
+
+Lekin Shri Krishna ne unhe hara diya tha.
+
+Us haar ke baad Rukmi ne apni nayi nagari Bhojakata basa li thi.
+
+Ab woh ek poori Akshauhini sena ke saath Pandavon ke paas aaye.
+
+Yudhishthir ne unka sammaan kiya aur unka swaagat kiya.
+
+Thodi der baad Rukmi ne Arjun se kaha,
+
+"Agar tum yuddh se darte ho, to main tumhaari madad karne ke liye taiyaar hoon."
+
+"Main akela hi Bhishma, Dronacharya, Kripacharya aur Karna jaise mahaan yoddhaon ko hara sakta hoon."
+
+"Chaaho to main tumhaare sabhi dushmanon ko haraakar poori Prithvi tumhe de sakta hoon."
+
+Yeh baat sunkar Arjun muskuraaye.
+
+Phir shaant swar mein bole,
+
+"Main Kuru vansh ka yoddha hoon."
+
+"Mere Guru Dronacharya hain aur Shri Krishna mere saath hain."
+
+"Mere paas Gandiva dhanush aur divya astra bhi hain."
+
+"Main pehle bhi akela bahut bade-bade yuddh jeet chuka hoon."
+
+"Maine Gandharvon, Asuron aur anek shaktishaali yoddhaon ka saamna kiya hai."
+
+"Virat nagari mein bhi maine akela hi poori Kaurav sena se yuddh kiya tha."
+
+"Isliye mujhe kisi ki madad ki zarurat nahi hai."
+
+"Aap chahein to ruk sakte hain ya waapas ja sakte hain. Yeh aapki ichchha hai."
+
+Arjun ki baat sunkar Rukmi naraaz nahi hue.
+
+Woh apni sena ke saath Duryodhana ke paas gaye.
+
+Unhone Duryodhana se bhi wahi baat kahi.
+
+"Main tumhaari taraf se yuddh kar sakta hoon."
+
+Lekin Duryodhana ne bhi unki madad lene se mana kar diya.
+
+Is tarah Rukmi kisi bhi paksh se yuddh mein shaamil nahi hue.
+
+Balram Ji pehle hi tirth yatra par ja chuke the.
+
+Ab Rukmi bhi laut gaye.
+
+Iske baad Pandav ek baar phir sabhi Rajaon ke saath baithkar yuddh ki agli yojana banaane lage.
+
+Unki sabha bahut bhavya lag rahi thi aur sabhi ka dhyaan aane wale Mahayuddh par tha.
+
+Saar: Is adhyaay mein Raja Rukmi ne pehle Pandavon aur phir Kauravon ko apni sena ki madad dene ki peshkash ki, lekin dono ne mana kar diya. Is tarah Rukmi bhi Mahabharat ke yuddh mein bhaag nahi le sake. """
             create_image_text_layout(
                 text_content=text2,
                 layout="full"
@@ -15192,7 +15722,23 @@ Saar: Is adhyaay mein Pandavon ne apni sena ke Senapati ke baare mein vichaar-vi
 
         # Section 5.3.89
         with st.expander("Section 5.3.89  Section CLX"):
-            text1 = """ """
+            text1 = """ Section CLX – Dhritarashtra Aur Sanjaya Ki Gambheer Baatcheet
+
+Janamejaya ne poochha,
+
+"Jab dono senaen Kurukshetra mein yuddh ke liye poori tarah taiyaar ho gayin, tab Kauravon ne kya kiya?"
+
+Vaisampayana ne kaha,
+
+Jab dono senaen yuddh ki vyavastha mein khadi ho gayin, tab Raja Dhritarashtra ne Sanjaya ko bulaaya.
+
+Dhritarashtra bole,
+
+"Hey Sanjaya, mujhe batao ki Kaurav aur Pandav senaon ke shivir mein kya ho raha hai."
+
+"Mujhe lagta hai ki bhaagya insaan ki mehnat se bhi zyada shaktishaali hota hai."
+
+"Main jaanta hoon ki yeh yuddh sirf vinaash laayega." """
             create_image_text_layout(
                 "attached_assets/chapter5/5.3.89.jpg",
                 text1,
@@ -15200,7 +15746,49 @@ Saar: Is adhyaay mein Pandavon ne apni sena ke Senapati ke baare mein vichaar-vi
                 image_position="left"
             )
 
-            text2 = """ """
+            text2 = """ "Phir bhi main apne putra Duryodhana ko rok nahi paa raha."
+
+"Woh chal aur kapat ko hi buddhi maanta hai."
+
+"Main sab kuch samajhta hoon, lekin jab uske saamne jaata hoon to use sahi raasta dikhane ki himmat kho deta hoon."
+
+"Ab jo bhaagya mein likha hai, wahi hoga."
+
+"Ek Kshatriya ke liye yuddh mein apne praan dena bhi uska dharm maana jaata hai."
+
+Tab Sanjaya bole,
+
+"Maharaj, aapka prashn bahut uchit hai."
+
+"Lekin sirf Duryodhana ko hi is vinaash ka zimmedaar mat maaniye."
+
+"Jo vyakti apne bure karmon se dukh paata hai, uska dosh samay ya Bhagwan ko nahi diya ja sakta."
+
+"Insaan apne galat karmon ka phal khud bhogta hai."
+
+Sanjaya ne aage kaha,
+
+"Pandavon ne paaso ke khel mein bahut apmaan aur dukh saha."
+
+"Phir bhi unhone dhairya rakha aur hamesha aapse nyaay ki aasha ki."
+
+"Ab yeh Mahayuddh bahut bade vinaash ka kaaran banega."
+
+"Bahut se Raja, haathi, ghode aur yoddha ismein maare jaayenge."
+
+Phir Sanjaya ne ek gehri baat kahi.
+
+"Is baat par logon ke alag-alag vichaar hain."
+
+"Kuch log kehte hain ki sab kuch Bhagwan ki ichchha se hota hai."
+
+"Kuch kehte hain ki insaan apni marzi se karm karta hai."
+
+"Aur kuch maante hain ki sab kuch pichhle janmon ke karmon ka phal hai."
+
+"Ab dhairya se suniye ki is Mahayuddh mein kya hone wala hai."
+
+Saar: Is adhyaay mein Dhritarashtra ne Sanjaya se yuddh ki sthiti poochhi aur apni majboori vyakt ki. Sanjaya ne samjhaaya ki vinaash ka kaaran sirf bhaagya nahi, balki manushya ke apne karm bhi hote hain. Iske baad woh Mahabharat ke Mahayuddh ka varnan shuru karne ki taiyaari karte hain. """
             create_image_text_layout(
                 text_content=text2,
                 layout="full"
