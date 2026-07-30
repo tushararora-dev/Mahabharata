@@ -15801,7 +15801,27 @@ Saar: Is adhyaay mein Dhritarashtra ne Sanjaya se yuddh ki sthiti poochhi aur ap
 
         # Section 5.4.1
         with st.expander("Section 5.4.1  Section CLXI"):
-            text1 = """ """
+            text1 = """ Section CLXI – Uluka Duryodhana Ka Sandesh Lekar Pandavon Ke Paas Gaya
+
+Vaisampayana ne kaha,
+
+Jab dono senaon ne Kurukshetra mein apne shivir bana liye, tab Duryodhana ne Karna, Dushasan aur Shakuni ke saath baithkar salaah ki.
+
+Uske baad usne Shakuni ke putra Uluka ko gupt roop se bulaaya.
+
+Duryodhana bola,
+
+"Uluka, Pandavon ke paas jaao aur mera sandesh unhe sunaao."
+
+"Yeh baatein Yudhishthir aur Shri Krishna ke saamne kehna."
+
+Sabse pehle Uluka ko Yudhishthir se yeh kehna tha,
+
+"Tum hamesha dharm ki baat karte ho, lekin ab poori duniya ko yuddh ki aag mein dhakel rahe ho."
+
+Phir Duryodhana ne ek kahaani sunaane ko kaha.
+
+Usne kaha, """
             create_image_text_layout(
                 "attached_assets/chapter5/5.4.1.jpg",
                 text1,
@@ -15809,7 +15829,103 @@ Saar: Is adhyaay mein Dhritarashtra ne Sanjaya se yuddh ki sthiti poochhi aur ap
                 image_position="left"
             )
 
-            text2 = """ """
+            text2 = """ "Ek baar Ganga ke kinaare ek billi ne tapasvi hone ka naatak kiya."
+
+"Woh haath uthaakar dharm ka dikhawa karti thi."
+
+Pehle pakshiyon ne us par bharosa kiya.
+
+Baad mein chuhe bhi uske paas suraksha maangne lage.
+
+Billi boli,
+
+"Main bahut kamzor hoon. Mujhe roz nadi tak le chalo."
+
+Chuhe uski baat maan gaye.
+
+Lekin billi roz thode-thode chuhe khaane lagi.
+
+Ek buddhimaan chuhe ne dekha ki billi moti ho rahi hai aur chuhe kam hote ja rahe hain.
+
+Tab sabko sachchai samajh aa gayi.
+
+Saare chuhe wahaan se bhaag gaye.
+
+Duryodhana ne kaha,
+
+"Yudhishthir, tum bhi us billi ki tarah ho."
+
+"Tumhaari baatein dharm ki hoti hain, lekin tum yuddh karna chahte ho."
+
+"Agar tum sach mein Kshatriya ho, to ab yuddh mein apni veerta dikhaao."
+
+Usne Yudhishthir ko yaad dilaaya,
+
+"Tumne sirf paanch gaon maange the, lekin humne mana kar diya tha."
+
+"Ab yuddh ka samay aa gaya hai."
+
+Phir Duryodhana ne Shri Krishna ke liye sandesh diya,
+
+"Krishna, tumne kaha tha ki Pandavon ko jeet dilaoge."
+
+"Ab apni baat sach karke dikhaao."
+
+"Mujhe daraane ke liye apna Vishwaroop ya koi maya mat dikhaana."
+
+"Yuddh mein apni asli shakti dikhaao."
+
+Usne Bhim ke liye kaha,
+
+"Tumne Dushasan ka khoon peene ki kasam khaayi thi."
+
+"Ab use poora karke dikhaao."
+
+"Rasoi mein khaana banaana aur yuddh ladna alag baat hai."
+
+Nakul aur Sahadev ke liye usne kaha,
+
+"Apni veerta dikhaao aur apne puraane dukh yaad rakho."
+
+Virat aur Drupad ke liye usne kaha,
+
+"Agar himmat hai to mere saamne yuddh karo."
+
+Dhrishtadyumna ke liye usne sandesh diya,
+
+"Ab Dronacharya ka saamna karke apna bhaagya aazmaao."
+
+Shikhandi ke liye usne kaha,
+
+"Bhishma tum par astra nahi chalaayenge."
+
+"Isliye bina dare yuddh karo."
+
+Sabse ant mein Duryodhana ne Arjun ke liye lamba sandesh diya.
+
+Woh bola,
+
+"Arjun, ya to humein haraakar apna raajya le lo, ya hamaare haathon mar jaao."
+
+"Apna vanvaas, apmaan aur Draupadi ka dukh yaad karo."
+
+"Ab apni veerta saabit karo."
+
+Phir usne Arjun ka mazaak udaaya.
+
+"Tum Virat ke mahal mein Brihannala bankar nritya sikhaate the."
+
+"Tumhaara Gandiva aur Shri Krishna tumhe nahi bacha paayenge."
+
+"Hamaari sena samundar ki tarah vishaal hai."
+
+"Bhishma, Drona, Karna aur anya mahaan yoddha uski raksha kar rahe hain."
+
+"Sirf badi-badi baatein karne se yuddh nahi jeeta jaata."
+
+"Agar himmat hai, to Kurukshetra mein aakar apni shakti dikhaao."
+
+Saar: Is adhyaay mein Duryodhana ne Uluka ke dwaara Pandavon ko bahut kathor aur apmaanjanak sandesh bheja. Usne Yudhishthir, Shri Krishna, Bhim, Arjun aur anya sabhi veeron ko yuddh ke liye khulkar chunauti di aur unke puraane dukh aur apmaan ki yaad dilaakar unhe uksaane ki koshish ki. """
             create_image_text_layout(
                 text_content=text2,
                 layout="full"
@@ -15818,7 +15934,27 @@ Saar: Is adhyaay mein Dhritarashtra ne Sanjaya se yuddh ki sthiti poochhi aur ap
 
         # Section 5.4.2
         with st.expander("Section 5.4.2  Section CLXII"):
-            text1 = """ """
+            text1 = """ Section CLXII – Uluka Ne Duryodhana Ka Sandesh Pandavon Ko Sunaya
+
+Sanjaya ne kaha,
+
+Uluka Pandavon ke shivir mein pahunch gaya.
+
+Usne pehle Yudhishthir se kaha,
+
+"Maharaj, main sirf Duryodhana ka sandesh sunaane aaya hoon."
+
+"Kripaya mujh par krodh mat kijiye."
+
+Yudhishthir shaant swar mein bole,
+
+"Nidar hokar sab kuch keh do."
+
+"Humein Duryodhana ki baat sunni hai."
+
+Tab sabhi Rajaon, Shri Krishna, Pandavon, Drupad aur Virat ke saamne Uluka ne Duryodhana ka sandesh sunaaya.
+
+Woh bola, """
             create_image_text_layout(
                 "attached_assets/chapter5/5.4.2.jpg",
                 text1,
@@ -15826,7 +15962,71 @@ Saar: Is adhyaay mein Dhritarashtra ne Sanjaya se yuddh ki sthiti poochhi aur ap
                 image_position="left"
             )
 
-            text2 = """ """
+            text2 = """ "Duryodhana kehta hai ki tum paason ke khel mein haar gaye the."
+
+"Draupadi ka sabha mein apmaan hua tha."
+
+"Tumne baarah saal vanvaas aur ek saal agyaatvaas saha."
+
+"Agar tum sachche Kshatriya ho, to ab apna badla lekar dikhaao."
+
+Phir usne Bhim ke liye kaha,
+
+"Bhim ne Dushasan ka khoon peene ki kasam khaayi thi."
+
+"Ab use poora karke dikhaaye."
+
+Usne Arjun ka mazaak udaate hue kaha,
+
+"Tum Bhishma, Drona, Karna aur Shalya jaise mahaan yoddhaon ko haraane ki baat karte ho."
+
+"Lekin abhi tak tumne unka saamna bhi nahi kiya."
+
+"Sirf badi-badi baatein karne se yuddh nahi jeeta jaata."
+
+Uluka ne aage kaha,
+
+"Tumhaare paas Gandiva hai aur Shri Krishna tumhaare saarathi hain."
+
+"Phir bhi tum apna raajya waapas nahi le paaye."
+
+"Terah saal tak humne raajya chalaaya aur tum sirf dukh sahte rahe."
+
+Usne puraani baatein yaad dilaayin.
+
+"Virat ke mahal mein tum Brihannala bankar nritya sikhaate the."
+
+"Bhim rasoi mein khaana banaate the."
+
+"Yeh sab tumhaari veerta ka pramaan nahi hai."
+
+Phir Duryodhana ki taraf se Shri Krishna ko bhi chunauti di.
+
+"Krishna tumhaare saath hain, phir bhi mujhe koi dar nahi hai."
+
+"Na tumhaari maya aur na hi tumhaari chaalaaki mujhe rok sakti hai."
+
+Ant mein Uluka ne Duryodhana ki sena ki shakti bataayi.
+
+Woh bola,
+
+"Hamaari sena ek vishaal samundar ki tarah hai."
+
+"Usmein Bhishma, Drona, Karna, Shalya, Jayadrath aur anek mahaan yoddha hain."
+
+"Us sena ka saamna karna bahut kathin hai."
+
+"Agar tum usmein utroge, to pachtane ka mauka bhi nahi milega."
+
+"Raajya jeetna tumhaare liye utna hi kathin hai jitna bina tapasya ke swarg paana."
+
+Uluka ne Duryodhana ka poora sandesh suna diya.
+
+Pandav shaant hokar sab kuch sunte rahe.
+
+Sabko pata tha ki ab baaton ka samay samaapt ho chuka hai aur Mahayuddh shuru hone hi wala hai.
+
+Saar: Is adhyaay mein Uluka ne Duryodhana ka kathor aur apmaanjanak sandesh Pandavon ko sunaaya. Usne unke puraane apmaan yaad dilaakar unhe uksaane ki koshish ki aur Kaurav sena ki shakti ka ghamand bhi dikhaya. Iske baad yeh spasht ho gaya ki ab yuddh ko koi nahi rok sakta. """
             create_image_text_layout(
                 text_content=text2,
                 layout="full"
@@ -15835,7 +16035,23 @@ Saar: Is adhyaay mein Dhritarashtra ne Sanjaya se yuddh ki sthiti poochhi aur ap
 
         # Section 5.4.3
         with st.expander("Section 5.4.3  Section CLXIII"):
-            text1 = """ """
+            text1 = """ Section CLXIII – Pandavon Ne Duryodhana Ki Chunauti Ka Jawaab Diya
+
+Sanjaya ne kaha,
+
+Uluka ne Duryodhana ka kathor sandesh suna diya.
+
+Uski baatein sunkar Pandav bahut krodhit ho gaye.
+
+Sabhi veer apni jagah se khade ho gaye.
+
+Unki aankhon mein gussa saaf dikh raha tha.
+
+Bhim to aise saans le rahe the jaise koi krodhit naag phunkaar maar raha ho.
+
+Shri Krishna ne shaant swar mein Uluka se kaha,
+
+"Tumne apna sandesh suna diya." """
             create_image_text_layout(
                 "attached_assets/chapter5/5.4.3.jpg",
                 text1,
@@ -15843,7 +16059,85 @@ Saar: Is adhyaay mein Dhritarashtra ne Sanjaya se yuddh ki sthiti poochhi aur ap
                 image_position="left"
             )
 
-            text2 = """ """
+            text2 = """ "Ab hamaara jawaab lekar Duryodhana ke paas waapas jaao."
+
+Uluka ne Duryodhana ke sabhi kathor shabd ek baar phir dohraaye.
+
+Isse Pandav aur bhi adhik krodhit ho gaye.
+
+Dhrishtadyumna, Shikhandi, Satyaki, Ghatotkach, Abhimanyu, Draupadi ke putra, Nakul, Sahadev aur anya sabhi veer gusse se khade ho gaye.
+
+Sabhi yuddh ke liye utsuk the.
+
+Tab Bhim Uluka se bole,
+
+"Jaakar Duryodhana se kehna ki uski har baat humne sun li hai."
+
+"Humne itne saal sirf Yudhishthir Maharaj ka sammaan karte hue sab kuch saha hai."
+
+"Hum shaanti chahte the, isliye Shri Krishna ko sandhi ke liye bheja tha."
+
+"Lekin ab yuddh nishchit hai."
+
+Phir Bhim ne apni pratigya dohraayi.
+
+"Main Duryodhana aur uske sabhi bhaiyon ko maaroonga."
+
+"Main Dushasan ka khoon zaroor peeyoonga."
+
+"Yeh meri kasam hai aur yeh kabhi jhoothi nahi hogi."
+
+"Chahe Yama, Shiv ya Kuber bhi uski raksha karein, main apna vachan zaroor poora karoonga."
+
+Iske baad Sahadev bole,
+
+"Jaakar Duryodhana aur Shakuni se kehna ki unhone hi is vinaash ki shuruaat ki hai."
+
+"Sabse pehle main Uluka ko maaroonga aur uske baad Shakuni ka ant karoonga."
+
+Arjun ne Bhim ko shaant karte hue kaha,
+
+"Uluka ki koi galti nahi hai."
+
+"Woh sirf apne Raja ka sandesh suna raha hai."
+
+Phir Arjun ne sabhi Rajaon se kaha,
+
+"Duryodhana ne humein bahut kuch kaha hai."
+
+"Lekin hamaara jawaab shabdon se nahi hoga."
+
+"Kal mera Gandiva hi uska jawaab dega."
+
+Sabhi Rajaon ne Arjun ki baat sunkar unki prashansa ki.
+
+Uske baad Yudhishthir ne Uluka se kaha,
+
+"Jaakar Duryodhana se kehna ki sachcha Kshatriya doosron ke bal par ghamand nahi karta."
+
+"Agar usmein himmat hai, to khud hamaara saamna kare."
+
+"Bhishma, Drona aur Karna ke peeche chhupkar veerta dikhana Kshatriya ka kaam nahi hai."
+
+Ant mein Shri Krishna bole,
+
+"Uluka, mera bhi sandesh Duryodhana ko suna dena."
+
+"Woh sochta hai ki main yuddh nahi karoonga kyunki main sirf Arjun ka saarathi hoon."
+
+"Lekin agar mujhe krodh aa gaya, to main akela hi uski poori sena ka vinaash kar sakta hoon."
+
+"Phir bhi Yudhishthir ki aagya se main sirf Arjun ka saarathi banoonga."
+
+"Kal chahe Duryodhana duniya ke kisi bhi kone mein chala jaaye, use Arjun ka rath zaroor dikhai dega."
+
+"Aur Bhim ki pratigya bhi avashya poori hogi."
+
+Uluka ne sabhi ke jawaab dhyaan se sune.
+
+Phir woh Duryodhana ke paas waapas laut gaya.
+
+Saar: Is adhyaay mein Pandavon ne Duryodhana ke apmaanjanak sandesh ka shaant lekin dridh jawaab diya. Bhim ne apni pratigya phir se dohraayi, Sahadev ne Shakuni ko maarne ka sankalp liya, Arjun ne kaha ki jawaab shabdon se nahi, Gandiva se milega, aur Shri Krishna ne Duryodhana ko chetaavni di ki agle din yuddh mein sachchai saamne aa jaayegi. """
             create_image_text_layout(
                 text_content=text2,
                 layout="full"
@@ -15852,7 +16146,23 @@ Saar: Is adhyaay mein Dhritarashtra ne Sanjaya se yuddh ki sthiti poochhi aur ap
 
         # Section 5.4.4
         with st.expander("Section 5.4.4  Section CLXIV"):
-            text1 = """ """
+            text1 = """ Section CLXIV – Pandavon Ne Apni Antim Pratigya Sunayi
+
+Sanjaya ne kaha,
+
+Uluka ne Duryodhana ka sandesh suna diya.
+
+Uske baad Arjun ki aankhen krodh se laal ho gayin.
+
+Unhone Uluka se kaha,
+
+"Sachcha Kshatriya wahi hota hai jo apni taakat par bharosa karke yuddh karta hai."
+
+"Jo doosron ke bal par ghamand karta hai, woh veer nahi hota."
+
+Phir Arjun ne Duryodhana ke baare mein kaha,
+
+"Tum Bhishma Pitamah ke bal par ghamand kar rahe ho." """
             create_image_text_layout(
                 "attached_assets/chapter5/5.4.4.jpg",
                 text1,
@@ -15860,7 +16170,93 @@ Saar: Is adhyaay mein Dhritarashtra ne Sanjaya se yuddh ki sthiti poochhi aur ap
                 image_position="left"
             )
 
-            text2 = """ """
+            text2 = """ "Tum jaante ho ki hum unka sammaan karte hain, isliye tum unhe aage karke khud peeche chhupe ho."
+
+"Lekin kal sabse pehle main Bhishma Pitamah ka saamna karoonga."
+
+"Tumhaare saamne hi main unhe baanon se rath se gira doonga."
+
+Arjun ne aage kaha,
+
+"Uske baad Drona aur Karna bhi bach nahi paayenge."
+
+"Tab tumhe apne ghamand ka sachcha parinaam dikhai dega."
+
+"Humne sirf paanch gaon maange the kyunki hum apne rishtedaaron ka vinaash nahi chahte the."
+
+"Lekin tumhaare lobh aur ahankaar ne yeh yuddh majboor kar diya."
+
+"Jaakar Duryodhana se kehna ki hum uski har baat samajh gaye hain."
+
+"Ab kal yuddh ke maidan mein sab kuch saaf ho jaayega."
+
+Iske baad Bhim bole,
+
+"Jaakar Duryodhana se kehna ki main apni pratigya zaroor poori karoonga."
+
+"Main Dushasan ka khoon peeyoonga."
+
+"Main uske sabhi bhaiyon ko maaroonga."
+
+"Aur Duryodhana ki jaangh todkar uske ghamand ka ant karoonga."
+
+"Yeh meri kasam hai aur yeh kabhi jhoothi nahi hogi."
+
+Phir Nakul bole,
+
+"Humne tumhaari sabhi baatein sun li hain."
+
+"Kal yuddh mein hum apna jawaab denge."
+
+Sahadev bole,
+
+"Duryodhana ko kehna ki uska har shabd use bahut mehenga padega."
+
+"Kal use apne parivaar aur mitron ke saath apne karmon ka phal milega."
+
+Uske baad Raja Virat aur Raja Drupad bole,
+
+"Kal yeh spasht ho jaayega ki sachcha veer kaun hai."
+
+Shikhandi bole,
+
+"Main Bhishma Pitamah ka saamna karoonga."
+
+"Mera janm hi unke vinaash ke liye hua hai."
+
+Dhrishtadyumna bole,
+
+"Main Dronacharya ko yuddh mein haraakar unka ant karoonga."
+
+Ant mein Yudhishthir shaant swar mein bole,
+
+"Main kabhi bhi apne rishtedaaron ka vinaash nahi chahta tha."
+
+"Lekin yeh sab Duryodhana ki galti se ho raha hai."
+
+"Ab jo pratigya mere veeron ne li hai, uska samarthan karna mera kartavya hai."
+
+"Uluka, tum bina kisi dar ke waapas jaao."
+
+"Tum bhi hamaare rishtedaar ho."
+
+Uluka ne sabhi ke sandesh dhyaan se yaad kiye.
+
+Woh Duryodhana ke paas laut gaya.
+
+Usne Arjun, Shri Krishna, Bhim, Yudhishthir, Nakul, Sahadev, Virat, Drupad, Shikhandi aur Dhrishtadyumna ke sabhi jawaab Duryodhana ko suna diye.
+
+Yeh sab sunkar Duryodhana ne turant aadesh diya,
+
+"Kal sooraj ugne se pehle poori sena yuddh ke liye taiyaar rahe."
+
+Sandeshvaahak turant rathon, ghodon aur oonton par baithkar poore shivir mein yeh aadesh sunaane nikal pade.
+
+Har jagah ek hi ghoshna hone lagi,
+
+"Kal sooraj ugne se pehle sabhi yoddha yuddh ke liye taiyaar ho jaayen."
+
+Saar: Is adhyaay mein Arjun aur anya Pandav veeron ne Duryodhana ki chunauti ka dridh jawaab diya aur apni-apni pratigya phir se dohraayi. Uluka sabhi sandesh lekar laut gaya. Iske baad Duryodhana ne agle din sooraj ugne se pehle poori Kaurav sena ko yuddh ke liye taiyaar rehne ka aadesh de diya. """
             create_image_text_layout(
                 text_content=text2,
                 layout="full"
@@ -15869,7 +16265,25 @@ Saar: Is adhyaay mein Dhritarashtra ne Sanjaya se yuddh ki sthiti poochhi aur ap
 
         # Section 5.4.5
         with st.expander("Section 5.4.5  Section CLXV"):
-            text1 = """ """
+            text1 = """ Section CLXV – Pandavon Ne Yuddh Ke Liye Apni Sena Ki Antim Vyavastha Ki
+
+Sanjaya ne kaha,
+
+Uluka ke waapas chale jaane ke baad Yudhishthir ne apni sena ko yuddh ke liye aage badhaaya.
+
+Pandavon ki vishaal sena mein paidal sainik, haathi, rath aur ghudsawaar sabhi shaamil the.
+
+Us sena ka netritva Dhrishtadyumna kar rahe the.
+
+Bhim aur Arjun jaise mahaan yoddha us sena ki raksha kar rahe the.
+
+Pooree sena shaant khadi thi, lekin uski shakti samundar ki tarah apaar thi.
+
+Dhrishtadyumna ne yuddh ke liye har veer ka saamna kis se hoga, yeh tai kiya.
+
+Unhone Arjun ko Karna ke saamne rakha.
+
+Bhim ko Duryodhana ke saamne khada kiya. """
             create_image_text_layout(
                 "attached_assets/chapter5/5.4.5.jpg",
                 text1,
@@ -15877,7 +16291,41 @@ Saar: Is adhyaay mein Dhritarashtra ne Sanjaya se yuddh ki sthiti poochhi aur ap
                 image_position="left"
             )
 
-            text2 = """ """
+            text2 = """ Dhrishtaketu ko Shalya ka saamna karne ke liye bheja.
+
+Uttamaujas ko Kripacharya ke viruddh rakha.
+
+Nakul ko Kritavarma ke saamne khada kiya.
+
+Satyaki ko Jayadrath ke viruddh bheja.
+
+Shikhandi ko sabse aage rakha gaya.
+
+Unka saamna Bhishma Pitamah se hona tha.
+
+Sahadev ko Shakuni ke viruddh bheja gaya.
+
+Chekitan ko Shala ke saamne khada kiya gaya.
+
+Draupadi ke paanchon putron ko Trigart desh ke yoddhaon ke viruddh bheja gaya.
+
+Abhimanyu ko Karna ke putra Vrishasen ke saamne rakha gaya.
+
+Saath hi zarurat padne par anya bade Rajaon se ladne ki zimmedaari bhi use di gayi.
+
+Dhrishtadyumna ko poora vishvaas tha ki Abhimanyu bahut mahaan yoddha hai.
+
+Sabhi yoddhaon ki vyavastha karne ke baad Dhrishtadyumna ne Dronacharya ko apna pratipakshi chuna.
+
+Unhone sankalp liya ki woh swayam Dronacharya ka saamna karenge.
+
+Sab kuch taiyaar ho chuka tha.
+
+Pandav sena apni-apni jagah par dridh nishchay ke saath khadi thi.
+
+Sabhi ko agle din hone wale Mahayuddh ka intezaar tha.
+
+Saar: Is adhyaay mein Dhrishtadyumna ne Pandav sena ki antim yuddh vyavastha ki. Har mahaan yoddha ke saamne uska uchit pratipakshi tay kiya gaya. Dhrishtadyumna ne swayam Dronacharya ka saamna karne ka sankalp liya aur poori Pandav sena yuddh ke liye taiyaar ho gayi. """
             create_image_text_layout(
                 text_content=text2,
                 layout="full"
@@ -15886,7 +16334,27 @@ Saar: Is adhyaay mein Dhritarashtra ne Sanjaya se yuddh ki sthiti poochhi aur ap
 
         # Section 5.4.6
         with st.expander("Section 5.4.6  Section CLXVI"):
-            text1 = """ """
+            text1 = """ Section CLXVI – Bhishma Ne Kaurav Veeron Ki Shakti Batayi
+
+Dhritarashtra ne poochha,
+
+"Jab Arjun ne Bhishma Pitamah ko maarne ki pratigya ki, tab Duryodhana aur mere putron ne kya kiya?"
+
+"Aur Bhishma Pitamah ne iska kya jawaab diya?"
+
+Vaisampayana ne kaha,
+
+Sanjaya ne Dhritarashtra ko sab kuch bataaya.
+
+Sanjaya bole,
+
+Kaurav sena ka Senapati banne ke baad Bhishma Pitamah ne Duryodhana se kaha,
+
+"Main Devsenapati Kartikeya ka smaran karke tumhaari sena ka netritva karoonga."
+
+"Mujhe yuddh ki har neeti aur har sena vyuh ka gyaan hai."
+
+"Mujhe pata hai ki sena ko kab aage badhaana hai, kab peeche hataana hai aur kab kis tarah yuddh karna hai." """
             create_image_text_layout(
                 "attached_assets/chapter5/5.4.6.jpg",
                 text1,
@@ -15894,7 +16362,71 @@ Saar: Is adhyaay mein Dhritarashtra ne Sanjaya se yuddh ki sthiti poochhi aur ap
                 image_position="left"
             )
 
-            text2 = """ """
+            text2 = """ "Main poori yuddh-neeti ke anusaar tumhaari sena ki raksha karoonga."
+
+"Tum chinta mat karo."
+
+Bhishma ki baatein sunkar Duryodhana bahut khush hua.
+
+Woh bola,
+
+"Pitamah, jab aap aur Dronacharya mere saath hain, tab mujhe Devtaon se bhi dar nahi lagta."
+
+"Mujhe poora vishvaas hai ki hum vijay paayenge."
+
+Phir Duryodhana ne ek prashn poochha.
+
+"Pitamah, kripaya bataaiye ki hamaari sena mein kaun-kaun Rathi aur Atirathi hai."
+
+"Aur Pandav sena ke mahaan yoddhaon ki shakti bhi bataaiye."
+
+Bhishma bole,
+
+"Tumhaari sena mein bahut saare shaktishaali Rathi aur Atirathi hain."
+
+"Main ab tumhe mukhya yoddhaon ke baare mein bataata hoon."
+
+Sabse pehle unhone Duryodhana aur uske bhaiyon ki prashansa ki.
+
+"Tum sab Dronacharya aur Kripacharya ke shishya ho."
+
+"Tum sab dhanurvidya aur anya hathiyaaron mein nipun ho."
+
+"Tum sab yuddh ki zimmedaari sambhaal sakte ho."
+
+Phir Bhishma ne apne baare mein kaha,
+
+"Main tumhaari sena ka netritva karoonga aur poori shakti se Pandavon ka saamna karoonga."
+
+Uske baad unhone Kritavarma ke baare mein kaha,
+
+"Kritavarma ek mahaan Atirathi hai."
+
+"Woh akela hi dushman ki sena mein bahut bada vinaash kar sakta hai."
+
+Phir unhone Shalya ki prashansa ki.
+
+"Madradesh ke Raja Shalya bhi ek mahaan Atirathi hain."
+
+"Woh bahut shaktishaali yoddha hain aur Pandav sena ko kathin chunauti denge."
+
+Uske baad Bhishma ne Bhurishrava ke baare mein kaha,
+
+"Bhurishrava bahut kushal yoddha hai."
+
+"Woh bhi shatru sena mein bhaari vinaash machaayega."
+
+Ant mein Bhishma ne Jayadrath ke baare mein kaha,
+
+"Sindhu ke Raja Jayadrath bhi bahut balwaan yoddha hain."
+
+"Draupadi ke apaharan ke samay Pandavon se mili haar ka badla lene ke liye woh poori shakti se yuddh karenge."
+
+"Kathor tapasya ke baad unhe ek vishesh vardaan bhi mila hai."
+
+"Isliye woh bina apne praan ki chinta kiye yuddh karenge."
+
+Saar: Is adhyaay mein Bhishma Pitamah ne Duryodhana ko aashvaasan diya ki woh poori yuddh-neeti ke saath Kaurav sena ka netritva karenge. Phir unhone Kaurav sena ke mukhya Rathi aur Atirathi yoddhaon—jaise Kritavarma, Shalya, Bhurishrava aur Jayadrath—ki shakti aur yuddh-kaushal ka varnan kiya. """
             create_image_text_layout(
                 text_content=text2,
                 layout="full"
@@ -15903,7 +16435,23 @@ Saar: Is adhyaay mein Dhritarashtra ne Sanjaya se yuddh ki sthiti poochhi aur ap
 
         # Section 5.4.7
         with st.expander("Section 5.4.7  Section CLXVII"):
-            text1 = """ """
+            text1 = """ Section CLXVII – Bhishma Ne Aur Kaurav Veeron Ka Parichay Diya
+
+Sanjaya ne kaha,
+
+Bhishma Pitamah ne Duryodhana se Kaurav sena ke anya bade yoddhaon ke baare mein bataana jaari rakha.
+
+Sabse pehle unhone Kamboj ke Raja Sudakshina ke baare mein kaha.
+
+"Sudakshina ek shaktishaali Rathi hai."
+
+"Woh poori lagan se tumhaare liye yuddh karega."
+
+"Uski Kamboj sena bhi bahut balwaan hai aur yuddh mein bhayaanak vinaash kar sakti hai."
+
+Uske baad Bhishma ne Raja Neel ka varnan kiya.
+
+"Mahishmati ke Raja Neel bhi ek kushal Rathi hain." """
             create_image_text_layout(
                 "attached_assets/chapter5/5.4.7.jpg",
                 text1,
@@ -15911,7 +16459,61 @@ Saar: Is adhyaay mein Dhritarashtra ne Sanjaya se yuddh ki sthiti poochhi aur ap
                 image_position="left"
             )
 
-            text2 = """ """
+            text2 = """ "Unki Sahadev se puraani dushmani hai."
+
+"Isliye woh poori shakti ke saath yuddh karenge."
+
+Phir Bhishma ne Avanti ke dono bhaiyon, Vind aur Anuvind, ke baare mein kaha.
+
+"Yeh dono bahut shaktishaali Rathi hain."
+
+"Yeh gada, talvaar, bhala aur anya hathiyaaron se yuddh karne mein nipun hain."
+
+"Yuddh ke maidan mein yeh Yamraj ki tarah bhayaanak dikhenge."
+
+Iske baad Bhishma ne Trigart ke paanch bhaiyon ka zikr kiya.
+
+"Yeh paanchon bahut veer Rathi hain."
+
+"Virat nagar mein Pandavon se hui haar ko yeh ab tak nahi bhoole hain."
+
+"Purane apmaan ka badla lene ke liye yeh poori shakti se ladenge."
+
+"Yeh Pandav sena ke bade-bade yoddhaon ko chunauti denge."
+
+Phir Bhishma ne Duryodhana ke putra Lakshman aur Dushasan ke putra ki prashansa ki.
+
+"Yeh dono yuva aur bahadur yoddha hain."
+
+"Yuddh se kabhi peeche nahi hatenge."
+
+"Kshatriya dharm ka paalan karte hue bade kaarya karenge."
+
+Uske baad Bhishma ne Dandadhara ka naam liya.
+
+"Dandadhara bhi ek kushal Rathi hai."
+
+"Woh tumhaare liye poori himmat se ladega."
+
+Phir unhone Kosal ke Raja Brihadvala ke baare mein kaha.
+
+"Brihadvala ek shaktishaali dhanurdhar hai."
+
+"Woh Dhritarashtra ke putron ke paksh mein poori taakat se yuddh karega."
+
+Ant mein Bhishma ne Kripacharya ki prashansa ki.
+
+"Kripacharya mahaan yoddha aur sena ke shreshth netaon mein se ek hain."
+
+"Woh apne praanon ki chinta kiye bina yuddh karenge."
+
+"Unka janm Maharshi Sharadvan ke vansh mein hua tha."
+
+"Yuddh mein unhe haraana bahut kathin hai."
+
+"Woh agni ki tarah shatru sena ka vinaash kar sakte hain."
+
+Saar: Is adhyaay mein Bhishma Pitamah ne Kaurav sena ke anya mukhya yoddhaon—Sudakshina, Neel, Vind-Anuvind, Trigart ke paanch bhai, Lakshman, Dandadhara, Brihadvala aur Kripacharya—ki shakti aur yuddh-kaushal ka varnan kiya. Unhone Duryodhana ko vishvaas dilaaya ki yeh sab veer uske liye poori shakti se ladenge. """
             create_image_text_layout(
                 text_content=text2,
                 layout="full"
@@ -15920,7 +16522,27 @@ Saar: Is adhyaay mein Dhritarashtra ne Sanjaya se yuddh ki sthiti poochhi aur ap
 
         # Section 5.4.8
         with st.expander("Section 5.4.8  Section CLXVIII"):
-            text1 = """ """
+            text1 = """ Section CLXVIII – Bhishma Ne Kaurav Sena Ke Aur Mahaan Yoddhaon Ka Varnan Kiya
+
+Sanjaya ne kaha,
+
+Bhishma Pitamah ne Duryodhana ko Kaurav sena ke aur bade yoddhaon ke baare mein bataana jaari rakha.
+
+Sabse pehle unhone Shakuni ke baare mein kaha.
+
+"Tumhaare maama Shakuni ek kushal Rathi hain."
+
+"Pandavon ke saath yeh yuddh shuru karvaane mein unka bada haath hai."
+
+"Woh poori shakti se tumhaare liye yuddh karenge."
+
+Uske baad Bhishma ne Ashwatthama ki prashansa ki.
+
+"Ashwatthama sabse mahaan dhanurdharon mein se ek hai."
+
+"Use har prakaar ke yuddh ka gyaan hai."
+
+"Uske paas divya astra bhi hain." """
             create_image_text_layout(
                 "attached_assets/chapter5/5.4.8.jpg",
                 text1,
@@ -15928,7 +16550,85 @@ Saar: Is adhyaay mein Dhritarashtra ne Sanjaya se yuddh ki sthiti poochhi aur ap
                 image_position="left"
             )
 
-            text2 = """ """
+            text2 = """ "Agar woh chahe, to bahut bade shatru samuh ka vinaash kar sakta hai."
+
+Lekin Bhishma ne uski ek kami bhi bataayi.
+
+"Ashwatthama ko apne praan bahut priya hain."
+
+"Isi wajah se main use poori tarah Maharathi nahi maanta."
+
+Phir bhi Bhishma bole,
+
+"Uske samaan yoddha bahut kam hain."
+
+"Yuddh mein woh Yamraj ki tarah bhayaanak hoga."
+
+Uske baad Bhishma ne Dronacharya ke baare mein kaha.
+
+"Dronacharya vriddh zaroor hain, lekin unki shakti ab bhi bahut adhik hai."
+
+"Woh Pandav sena ko bahut nuksaan pahunchaayenge."
+
+"Lekin Arjun unke priya shishya hain."
+
+"Isliye woh Arjun ko maarna nahi chaahenge."
+
+"Phir bhi woh Kaurav sena ke sabse bade Maharathiyon mein se ek hain."
+
+Bhishma ne phir Brihadvala ka naam liya.
+
+"Brihadvala bhi ek shaktishaali Rathi hai."
+
+"Woh apni sena ke saath bahaduri se ladega."
+
+Uske baad unhone Karna ke putra Vrishasen ke baare mein kaha.
+
+"Vrishasen ek mahaan Maharathi hai."
+
+"Woh shatru sena ko bhaari nuksaan pahuncha sakta hai."
+
+Phir Bhishma ne Jalasandh ka varnan kiya.
+
+"Jalasandh ek veer Rathi hai."
+
+"Woh tumhaare liye apne praan dene ko bhi taiyaar rahega."
+
+Uske baad unhone Vahlika ki prashansa ki.
+
+"Vahlika ek Atirathi hai."
+
+"Woh kabhi yuddh se peeche nahi hatta."
+
+"Woh Yamraj ki tarah shatruon ka vinaash karta hai."
+
+Bhishma ne Satyavan ke baare mein kaha,
+
+"Satyavan bhi ek Maharathi hai."
+
+"Woh bina dare shatru sena par hamla karta hai aur Kshatriya dharm ka poori tarah paalan karta hai."
+
+Phir unhone Rakshas Alambusha ka naam liya.
+
+"Alambusha ek balwaan Maharathi Rakshas hai."
+
+"Uske paas maya ki shakti hai."
+
+"Pandavon se puraani dushmani ke kaaran woh poori taakat se ladega."
+
+Ant mein Bhishma ne Pragjyotish ke Raja Bhagadatta ka varnan kiya.
+
+"Bhagadatta haathi par yuddh karne mein sabse bade veeron mein se ek hai."
+
+"Woh rath se bhi bahut kushalta se ladta hai."
+
+"Uska Arjun ke saath pehle bhi kathin yuddh ho chuka hai."
+
+"Baad mein Arjun aur Bhagadatta ke beech mitrata bhi ho gayi thi."
+
+"Yuddh ke maidan mein woh Indra ki tarah apne haathi par baithkar ladega."
+
+Saar: Is adhyaay mein Bhishma Pitamah ne Shakuni, Ashwatthama, Dronacharya, Brihadvala, Vrishasen, Jalasandh, Vahlika, Satyavan, Alambusha aur Bhagadatta jaise Kaurav sena ke shaktishaali yoddhaon ka varnan kiya. Unhone Duryodhana ko bataaya ki yeh sab veer poori shakti aur nishtha ke saath uske paksh mein yuddh karenge. """
             create_image_text_layout(
                 text_content=text2,
                 layout="full"
@@ -15937,7 +16637,23 @@ Saar: Is adhyaay mein Dhritarashtra ne Sanjaya se yuddh ki sthiti poochhi aur ap
 
         # Section 5.4.9
         with st.expander("Section 5.4.9  Section CLXIX"):
-            text1 = """ """
+            text1 = """ Section CLXIX – Bhishma Aur Karna Ke Beech Teekhi Bahas
+
+Sanjaya ne kaha,
+
+Bhishma Pitamah ne Kaurav sena ke aur yoddhaon ka varnan jaari rakha.
+
+Sabse pehle unhone Achal aur Vrisha ke baare mein kaha.
+
+"Yeh dono shaktishaali Rathi hain."
+
+"Yeh bahut balwaan aur bahadur yoddha hain."
+
+"Yeh tumhaare dushmanon ka saamna poori himmat se karenge."
+
+Uske baad Bhishma ne Karna ke baare mein apni rai bataayi.
+
+Woh bole, """
             create_image_text_layout(
                 "attached_assets/chapter5/5.4.9.jpg",
                 text1,
@@ -15945,7 +16661,81 @@ Saar: Is adhyaay mein Dhritarashtra ne Sanjaya se yuddh ki sthiti poochhi aur ap
                 image_position="left"
             )
 
-            text2 = """ """
+            text2 = """ "Karna bahut ghamand karta hai."
+
+"Lekin meri nazar mein woh na Rathi hai aur na hi Atirathi."
+
+"Usne apna janm se mila kavach aur kundal de diye hain."
+
+"Use apne Guru Parashurama aur ek Brahman ka shraap bhi mila hai."
+
+"Isliye meri nazar mein woh sirf aadha Rathi hai."
+
+"Jab uska saamna Arjun se hoga, to uske bachne ki sambhaavna bahut kam hai."
+
+Bhishma ki baat sunkar Dronacharya bhi bole,
+
+"Main bhi Bhishma ki baat se sehmat hoon."
+
+"Karna har yuddh se pehle bahut badi-badi baatein karta hai."
+
+"Lekin yuddh mein hamesha apni baaton par khara nahi utarta."
+
+Yeh sunkar Karna bahut krodhit ho gaya.
+
+Usne Bhishma se kaha,
+
+"Pitamah, aap hamesha bina wajah mera apmaan karte hain."
+
+"Main yeh sab sirf Duryodhana ke liye seh raha hoon."
+
+"Aap meri veerta ko kabhi nahi maante."
+
+"Aapke shabdon se sena ka hausla kam ho raha hai."
+
+"Kshatriya ki pehchaan uski umar se nahi, uski veerta se hoti hai."
+
+Karna ne Duryodhana se bhi kaha,
+
+"Aap khud faisla kijiye."
+
+"Agar sena ke veeron ko hi kamzor bataaya jaayega, to sena ka manobal toot jaayega."
+
+Phir Karna ne garv se kaha,
+
+"Main akela hi Pandav sena ka saamna kar sakta hoon."
+
+Lekin usne ek pratigya bhi ki.
+
+"Jab tak Bhishma Pitamah sena ke Senapati hain, tab tak main yuddh nahi karoonga."
+
+"Unke girne ke baad hi main yuddh ke maidan mein utroonga."
+
+Bhishma ne shaant lekin kathor swar mein jawaab diya.
+
+"Karna, yeh samay aapas mein jhagda karne ka nahi hai."
+
+"Agar main chaahoon, to tumhaara ghamand abhi tod sakta hoon."
+
+"Maine apni jawaani mein akela hi anek mahaan Rajaon ko haraaya tha."
+
+"Tumhaare jaise ghamandi yoddha ke kaaran hi Kuru vansh par yeh sankat aaya hai."
+
+"Agar itni hi veerta hai, to jaakar Arjun se yuddh karo."
+
+Duryodhana ne dekha ki Bhishma aur Karna ke beech vivaad badh raha hai.
+
+Tab usne baat badal di.
+
+Woh bola,
+
+"Pitamah, ab mujhe Pandav sena ke mahaan yoddhaon ke baare mein bataaiye."
+
+"Main unki shakti aur kamzoriyon ko jaan-na chahta hoon."
+
+Sabhi samajh gaye ki agle din Mahayuddh shuru hone wala hai.
+
+Saar: Is adhyaay mein Bhishma ne Karna ko sirf aadha Rathi bataaya. Dronacharya ne bhi unki baat ka samarthan kiya. Isse Karna bahut krodhit hua aur usne Bhishma se teekhi bahas ki. Ant mein usne pratigya ki ki jab tak Bhishma Senapati rahenge, tab tak woh yuddh nahi karega. Duryodhana ne vivaad rok kar Pandav sena ke veeron ke baare mein poochha. """
             create_image_text_layout(
                 text_content=text2,
                 layout="full"
@@ -15954,7 +16744,21 @@ Saar: Is adhyaay mein Dhritarashtra ne Sanjaya se yuddh ki sthiti poochhi aur ap
 
         # Section 5.4.10
         with st.expander("Section 5.4.10  Section CLXX"):
-            text1 = """ """
+            text1 = """ Section CLXX – Bhishma Ne Pandav Veeron Ki Mahaan Shakti Batayi
+
+Sanjaya ne kaha,
+
+Bhishma Pitamah ne Duryodhana se kaha,
+
+"Ab tak maine tumhaari sena ke Rathi aur Atirathi yoddhaon ke baare mein bataaya."
+
+"Ab main tumhe Pandav sena ke mahaan veeron ke baare mein bataata hoon."
+
+Sabse pehle Bhishma ne Yudhishthir ke baare mein kaha.
+
+"Yudhishthir ek mahaan Rathi hain."
+
+"Yuddh ke maidan mein woh jalti hui agni ki tarah ladenge." """
             create_image_text_layout(
                 "attached_assets/chapter5/5.4.10.jpg",
                 text1,
@@ -15962,7 +16766,67 @@ Saar: Is adhyaay mein Dhritarashtra ne Sanjaya se yuddh ki sthiti poochhi aur ap
                 image_position="left"
             )
 
-            text2 = """ """
+            text2 = """ Phir unhone Bhim ki prashansa ki.
+
+"Bhim aath Rathi ke barabar shaktishaali hain."
+
+"Gada aur dhanush dono se ladne mein unka koi samaan nahi hai."
+
+"Unmein das hazaar haathiyon jitni shakti hai."
+
+Uske baad Bhishma ne Nakul aur Sahadev ke baare mein kaha.
+
+"Madri ke dono putra bhi mahaan Rathi hain."
+
+"Ve sundarta mein Ashwini Kumaron ke samaan hain."
+
+"Ve bahut veer aur shaktishaali hain."
+
+Bhishma ne sabhi Pandavon ki prashansa karte hue kaha,
+
+"Sabhi Pandav lambe, balwaan aur uchch charitra wale hain."
+
+"Unhone kathin tapasya aur anushasan ka paalan kiya hai."
+
+"Ve bachpan se hi tum sabse tez, balwaan aur yuddh mein adhik kushal the."
+
+"Rajasuya Yagya ke samay tumne unki shakti apni aankhon se dekhi thi."
+
+"Draupadi ke apmaan aur vanvaas ka dukh yaad karke ve aur bhi adhik shakti se ladenge."
+
+Phir Bhishma ne Arjun ke baare mein kaha.
+
+"Arjun jaisa yoddha dono senaon mein koi nahi hai."
+
+"Unke saarathi swayam Shri Krishna hain."
+
+"Unke paas divya Gandiva dhanush hai."
+
+"Unke baan kabhi samaapt nahi hote."
+
+"Unke rath ke ghode hawa ki tarah tez hain."
+
+"Unke paas Devtaon dwaara diye gaye divya astra hain."
+
+Bhishma ne aage kaha,
+
+"Arjun ne akela hi Hiranyapur ke hazaaron daanavon ka vinaash kiya tha."
+
+"Jab Arjun aur Shri Krishna ek saath yuddh karte hain, tab unka saamna karna bahut kathin hai."
+
+"Meri aur Dronacharya ki baat alag hai, lekin hamaare alawa koi bhi yoddha Arjun ka saamna nahi kar sakta."
+
+"Arjun abhi jawaan hain, jabki main aur Dronacharya vriddh ho chuke hain."
+
+Bhishma ki baatein sunkar sabhi Raja chup ho gaye.
+
+Unhe Pandavon ki asli shakti yaad aa gayi.
+
+Sabke chehron par chinta dikhne lagi.
+
+Unka pehle jaisa ghamand dheere-dheere kam ho gaya.
+
+Saar: Is adhyaay mein Bhishma Pitamah ne Pandavon ki mahaan shakti ka sachcha varnan kiya. Unhone Yudhishthir, Bhim, Nakul, Sahadev aur vishesh roop se Arjun ki asadharan veerta bataayi. Bhishma ne spasht kaha ki Shri Krishna ke saath Arjun ka saamna karna bahut kathin hai. Yeh sunkar Kaurav paksh ke Raja bhi chintit ho gaye. """
             create_image_text_layout(
                 text_content=text2,
                 layout="full"
