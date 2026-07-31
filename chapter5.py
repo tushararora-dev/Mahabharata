@@ -16833,7 +16833,17 @@ Saar: Is adhyaay mein Bhishma Pitamah ne Pandavon ki mahaan shakti ka sachcha va
             )
                 # Section 5.4.11
         with st.expander("Section 5.4.11  Section CLXXI"):
-            text1 = """ """
+            text1 = """ Section CLXXI – Bhishma Ne Pandav Sena Ke Anya Mahaan Yoddhaon Ka Varnan Kiya
+
+Sanjaya ne kaha,
+
+Bhishma Pitamah ne Pandav sena ke anya shaktishaali yoddhaon ka varnan jaari rakha.
+
+Sabse pehle unhone Draupadi ke paanch putron ke baare mein kaha.
+
+"Draupadi ke sabhi paanch putra Maharathi hain."
+
+"Ve sabhi bahadur aur mahaan yoddha hain." """
             create_image_text_layout(
                 "attached_assets/chapter5/5.4.11.jpg",
                 text1,
@@ -16841,7 +16851,59 @@ Saar: Is adhyaay mein Bhishma Pitamah ne Pandavon ki mahaan shakti ka sachcha va
                 image_position="left"
             )
 
-            text2 = """ """
+            text2 = """ Uske baad Bhishma ne Virat ke putra Uttar ka zikr kiya.
+
+"Rajkumar Uttar ek uttam Rathi hai."
+
+Phir unhone Abhimanyu ki prashansa ki.
+
+"Abhimanyu sena ke mahaan senanayakon mein se ek hai."
+
+"Yuddh mein woh Arjun ya Shri Krishna ke samaan veer hai."
+
+"Use yuddh ki sabhi kalaon ka gyaan hai."
+
+"Uske haath bahut tez chalte hain aur woh apne vrat ka pakka hai."
+
+"Apne pita Arjun ke dukh aur apmaan ko yaad karke woh poori shakti se ladega."
+
+Uske baad Bhishma ne Satyaki ka varnan kiya.
+
+"Vrishni vansh ke veer Satyaki bhi mahaan senanayak hain."
+
+"Woh niddar, atyant krodhi aur mahaan yoddha hain."
+
+Phir Bhishma ne Uttamauja aur Yudhamanyu ke baare mein kaha.
+
+"Uttamauja ek uttam Rathi hai."
+
+"Yudhamanyu bhi bahut shaktishaali Rathi hai."
+
+Bhishma ne aage kaha,
+
+"In sabke paas hazaaron rath, haathi aur ghode hain."
+
+"Yeh sab Pandavon ke liye apne praan dene tak ke liye taiyaar hain."
+
+"Yuddh ke maidan mein yeh agni aur vaayu ki tarah Kaurav sena par toot padenge."
+
+Uske baad Bhishma ne Raja Virat aur Raja Drupad ki prashansa ki.
+
+"Virat aur Drupad, dono vriddh hone ke baavajood Maharathi hain."
+
+"Dono Kshatriya dharm ka poori nishtha se paalan karte hain."
+
+"Pandavon se rishta aur unke prati prem ne inki shakti ko aur badha diya hai."
+
+Bhishma ne kaha,
+
+"Yoddha ka bal uske uddeshya aur bhaavna par bhi nirbhar karta hai."
+
+"Pandavon ke prati apne prem aur kartavya ke kaaran Virat aur Drupad poori shakti se ladenge."
+
+"Ve apni-apni Akshauhini sena ka netritva karte hue Kaurav sena mein bhaari vinaash machaayenge."
+
+Saar: Is adhyaay mein Bhishma Pitamah ne Draupadi ke paanch putron, Abhimanyu, Satyaki, Uttamauja, Yudhamanyu, Raja Virat aur Raja Drupad ki veerta ka varnan kiya. Unhone kaha ki yeh sab Pandavon ke prati apni nishtha aur prem ke kaaran praanon ki baazi lagaakar yuddh karenge aur Kaurav sena ke liye bahut bade khatre saabit honge. """
             create_image_text_layout(
                 text_content=text2,
                 layout="full"
@@ -16850,7 +16912,21 @@ Saar: Is adhyaay mein Bhishma Pitamah ne Pandavon ki mahaan shakti ka sachcha va
 
         # Section 5.4.12
         with st.expander("Section 5.4.12  Section CLXXII"):
-            text1 = """ """
+            text1 = """ Section CLXXII – Bhishma Ne Pandav Sena Ke Aur Veeron Ka Varnan Kiya
+
+Sanjaya ne kaha,
+
+Bhishma Pitamah ne Pandav sena ke anya pramukh yoddhaon ka varnan karte hue Duryodhana se kaha,
+
+Sabse pehle unhone Shikhandi ke baare mein kaha.
+
+"Panchal ke Rajkumar Shikhandi Yudhishthir ke sabse shreshth Rathiyon mein se ek hain."
+
+"Ve yuddh mein mahaan yash praapt karenge."
+
+"Unke saath Panchal aur Prabhadrak ki badi sena hai, jiske sahaare ve bade-bade kaarya karenge."
+
+Phir Bhishma ne Dhrishtadyumna ka varnan kiya. """
             create_image_text_layout(
                 "attached_assets/chapter5/5.4.12.jpg",
                 text1,
@@ -16858,7 +16934,89 @@ Saar: Is adhyaay mein Bhishma Pitamah ne Pandavon ki mahaan shakti ka sachcha va
                 image_position="left"
             )
 
-            text2 = """ """
+            text2 = """ "Dhrishtadyumna, jo Pandav sena ke Senapati hain aur Dronacharya ke shishya bhi hain, ek Atirathi hain."
+
+"Ve akela hi anek shatruon ka vinaash kar sakte hain."
+
+"Unki sena samudra ki tarah vishaal hai."
+
+Uske baad Bhishma ne Dhrishtadyumna ke putra Kshatradharman ka zikr kiya.
+
+"Kshatradharman abhi yuva hai aur uska yuddh ka anubhav kam hai."
+
+"Isliye meri drishti mein woh abhi sirf aadha Rathi hai."
+
+Phir unhone Chedi Naresh Shishupal ke putra Dhrishtaketu ki prashansa ki.
+
+"Dhrishtaketu ek Maharathi hai."
+
+"Woh apne putra ke saath milkar bade-bade veerta ke kaarya karega."
+
+Uske baad Bhishma ne Kshatradeva ke baare mein kaha.
+
+"Kshatradeva Pandav paksh ke shreshth Rathiyon mein se ek hai."
+
+Phir Bhishma ne Panchal ke veeron ka naam liya.
+
+"Jayant, Amitaujas aur Satyajit sabhi Maharathi hain."
+
+"Yuddh mein ye matwaale haathiyon ki tarah prachand roop dhaaran karenge."
+
+Uske baad unhone Aja aur Bhoja ki prashansa ki.
+
+"Aja aur Bhoja dono Maharathi hain."
+
+"Dono har prakaar ke astr-shastr chalaane mein nipun hain."
+
+"Dono poori shakti se Pandavon ke liye ladenge."
+
+Bhishma ne phir paanch anya Kshatriya bhaiyon ka naam liya.
+
+"Kasika, Sukumara, Neel, Suryadatta aur Shankh (Madirashva) sabhi shreshth Rathi hain."
+
+"Ye sabhi mahaan yoddha aur har prakaar ke hathiyaaron ke gyaata hain."
+
+Uske baad Bhishma bole,
+
+"Vardhakshemi ek Maharathi hai."
+
+"Raja Chitrayudh bhi ek uttam Rathi hai aur Arjun ke prati bahut nishthavaan hai."
+
+Phir unhone Chekitan aur Satyadhriti ka varnan kiya.
+
+"Chekitan aur Satyadhriti dono Pandav sena ke shreshth Rathi hain."
+
+Iske baad Bhishma ne Vyaghradatta aur Chandrasen ka naam liya.
+
+"Vyaghradatta aur Chandrasen bhi balwaan Rathi hain."
+
+Phir unhone Senavindu ke baare mein kaha.
+
+"Senavindu, jise Krodhahantri bhi kaha jaata hai, bahut mahaan yoddha hai."
+
+"Main use apne, Dronacharya aur Kripacharya ke samaan mahatvapurn maanta hoon."
+
+Uske baad Bhishma ne Kasya ka naam liya.
+
+"Kasya bhi ek kushal Rathi hai aur astr-shastr chalaane mein bahut nipun hai."
+
+Phir unhone Drupad ke putra Satyajit ki prashansa ki.
+
+"Yuva Satyajit aath Rathiyon ke barabar shaktishaali hai."
+
+"Woh Dhrishtadyumna ke samaan ek Atirathi hai."
+
+"Pandavon ka yash badhaane ke liye woh bade kaarya karega."
+
+Ant mein Bhishma ne kuch aur veeron ka varnan kiya.
+
+"Raja Pandya ek mahaan Rathi hain aur Pandavon ke prati sampoorn samarpit hain."
+
+"Dhridadhanvan ek Maharathi hai."
+
+"Srenimat aur Raja Vasudaan dono Atirathi hain."
+
+Saar: Is adhyaay mein Bhishma Pitamah ne Pandav sena ke kai anya pramukh yoddhaon—Shikhandi, Dhrishtadyumna, Dhrishtaketu, Satyajit, Chekitan, Senavindu, Raja Pandya, Dhridadhanvan aadi—ki shakti aur yuddh-kaushal ka varnan kiya. Unhone spasht kiya ki Pandav sena mein bahut bade-bade Maharathi aur Atirathi maujood hain, jo Kaurav sena ke liye gambhir chunauti saabit honge. """
             create_image_text_layout(
                 text_content=text2,
                 layout="full"
@@ -16867,7 +17025,23 @@ Saar: Is adhyaay mein Bhishma Pitamah ne Pandavon ki mahaan shakti ka sachcha va
 
         # Section 5.4.13
         with st.expander("Section 5.4.13  Section CLXXIII"):
-            text1 = """ """
+            text1 = """ Section CLXXIII – Bhishma Ne Pandav Sena Ka Antim Mulyankan Kiya
+
+Bhishma Pitamah ne Duryodhana se kaha,
+
+"Rochamana bhi Pandav sena ka ek Maharathi hai."
+
+"Wah devata ke samaan shatruon se yuddh karega."
+
+Iske baad Bhishma ne Kuntibhoj ka varnan kiya.
+
+"Kuntibhoj, jo Bhima ka mama hai, meri drishti mein ek Atirathi hai."
+
+"Wah yuddh ki har vidhi mein nipun hai aur Indra ki tarah shatruon par toot padega."
+
+"Apni bahan ke putron (Pandavon) ke liye wah asadharan parakram dikhayega."
+
+Phir Bhishma ne Ghatotkacha ka varnan kiya. """
             create_image_text_layout(
                 "attached_assets/chapter5/5.4.13.jpg",
                 text1,
@@ -16875,7 +17049,61 @@ Saar: Is adhyaay mein Bhishma Pitamah ne Pandavon ki mahaan shakti ka sachcha va
                 image_position="left"
             )
 
-            text2 = """ """
+            text2 = """ "Bhima aur Hidimba ka putra Ghatotkacha Rakshason ka mahan senanayak hai."
+
+"Uske paas maya (illusion) ki adbhut shaktiyan hain."
+
+"Wah aur uske Rakshas sainik poori shakti se Pandavon ke paksh mein ladenge."
+
+Iske baad Bhishma ne kaha,
+
+"In sabke alawa bhi Vasudev Krishna ke saath anek raja Pandavon ki sahayata ke liye aaye hain."
+
+"Yeh sabhi milkar Yudhishthir ki sena ka netritva karenge."
+
+Bhishma ne apna sankalp bhi bataya.
+
+"Main Krishna aur Arjun samet sabhi mahan yoddhaon ka saamna karunga."
+
+"Ya to vijay praapt karunga ya veergati."
+
+Lekin iske baad Bhishma ne ek bahut mahatvapurn baat kahi.
+
+Bhishma ka Shikhandi ke baare mein pratigya
+
+Bhishma bole,
+
+"Main Shikhandi par kabhi astra nahi uthaoonga."
+
+Iska karan batate hue unhone kaha,
+
+Maine apne pita Shantanu ke liye rajya aur vivaah dono ka tyag kiya tha.
+Maine jeevan bhar Brahmacharya ka vrat liya.
+Maine pratigya ki thi ki main kisi stri ya jo pehle stri rah chuki ho, us par kabhi shastra nahi chalunga.
+
+Bhishma ne Duryodhana ko yaad dilaya ki:
+
+"Shikhandi pehle Amba ke roop mein janmi thi aur baad mein purush bani."
+
+"Isliye main uske viruddh yuddh nahi karunga."
+
+Ant mein Bhishma ne spasht kaha,
+
+"Main anya sabhi rajaon se yuddh karunga."
+
+"Lekin Pandu-putron ko maarna mere liye sambhav nahi hai."
+
+Saar
+
+Is adhyay mein Bhishma ne:
+
+Rochamana, Kuntibhoj aur Ghatotkacha ko Pandav sena ke pramukh Maharathi/Atirathi bataya.
+Ghatotkacha ki maya-shakti ko bahut bhayankar bataya.
+Ghoshna ki ki ve Krishna aur Arjun ka saamna karenge.
+Sabse mahatvapurn baat, apni purani pratigya ke kaaran Shikhandi par kabhi shastra na uthane ka sankalp dohraya.
+Yeh bhi sweekar kiya ki ve Pandavon ko maar nahi sakte.
+
+Yahi Bhishma ki pratigya aage chal kar unki parajay ka sabse bada kaaran banti hai, kyunki Kurukshetra yuddh ke dasve din Arjun, Shikhandi ko apne rath ke aage rakhkar Bhishma par baanon ki varsha karte hain, aur Bhishma Shikhandi par astra na uthane ki pratigya nibhate hue prahar nahi karte. """
             create_image_text_layout(
                 text_content=text2,
                 layout="full"
@@ -16884,7 +17112,21 @@ Saar: Is adhyaay mein Bhishma Pitamah ne Pandavon ki mahaan shakti ka sachcha va
 
         # Section 5.4.14
         with st.expander("Section 5.4.14  Section CLXXIV"):
-            text1 = """ """
+            text1 = """ Section CLXXIV – Bhishma Ne Bataya Ki Ve Shikhandi Par Astra Kyun Nahi Uthayenge
+
+Duryodhana ne Bhishma se poochha,
+
+"Aapne kaha ki aap Shikhandi ko nahi marenge. Iska kya karan hai?"
+
+"Aapne pehle to pratigya ki thi ki aap Panchalon aur Somakon ka vinash karenge. Phir Shikhandi ko kyun chhod denge?"
+
+Bhishma bole,
+
+"Iska karan ek purani ghatna hai. Dhyan se suno."
+
+Shantanu ke baad
+
+Bhishma ne kaha, """
             create_image_text_layout(
                 "attached_assets/chapter5/5.4.14.jpg",
                 text1,
@@ -16892,7 +17134,67 @@ Saar: Is adhyaay mein Bhishma Pitamah ne Pandavon ki mahaan shakti ka sachcha va
                 image_position="left"
             )
 
-            text2 = """ """
+            text2 = """ Mere pita Raja Shantanu ke swargvas ke baad,
+Maine apni pratigya nibhate hue rajya apne chhote bhai Chitrangada ko de diya.
+Chitrangada ke mrityu ke baad, Mata Satyavati ke aadesh se maine Vichitravirya ko Hastinapur ka raja banaya.
+
+Ab Vichitravirya yuva ho chuka tha, isliye Bhishma ne uske vivah ka nishchay kiya.
+
+Kashi ki Rajkumariyon ka Swayamvar
+
+Us samay Kashi ke raja ne apni teen putriyon ka swayamvar rakha tha:
+
+Amba
+Ambika
+Ambalika
+
+Duniya bhar ke raja swayamvar mein aaye hue the.
+
+Bhishma ne socha,
+
+"Ye teenon rajkumariyan mere bhai Vichitravirya ke liye uchit hain."
+
+Bhishma ka Rajkumariyon ko Haran
+
+Bhishma akele hi apne rath par Kashi pahunche.
+
+Sabhi rajaon ke saamne unhone ghoshna ki:
+
+"Main in teenon rajkumariyon ko balpurvak le ja raha hoon. Agar kisi mein shakti hai to mujhe rok kar dikhao."
+
+Ye sunkar sabhi raja krodhit ho gaye.
+
+Unhone Bhishma par ek saath hamla kar diya.
+
+Bhishma ka Aparajey Parakram
+
+Bhishma ne akela hi sabhi rajaon ka saamna kiya.
+
+Unhone sabke dhwaj kaat diye.
+Rath tod diye.
+Ghode aur haathi gira diye.
+Saarthiyon ko maar giraya.
+Sabhi raja parajit hokar bhaag gaye.
+
+Bilkul usi tarah jaise Indra Asuron ko hara deta hai.
+
+Hastinapur Wapsi
+
+Sabko hara kar Bhishma teenon rajkumariyon ko lekar Hastinapur laut aaye.
+
+Unhone Mata Satyavati ko sab kuch bataya aur kaha ki ye teenon Vichitravirya se vivah karengi.
+
+Is Adhyay ka Saar
+
+Is adhyay mein Bhishma ne Duryodhana ko bataya ki Shikhandi ko na maarne ka karan ek purani ghatna se juda hua hai.
+
+Us ghatna ki shuruaat Kashi ke swayamvar se hoti hai, jahan:
+
+Bhishma ne apne bhai Vichitravirya ke liye Amba, Ambika aur Ambalika ka haran kiya.
+Akela hi sabhi rajaon ko parajit kar diya.
+Rajkumariyon ko Hastinapur le aaye.
+
+Agle adhyay mein isi ghatna ka sabse mahatvapurn bhaag aata hai—Amba ka prem, uska apmaan, uska pratishodh aur wahi Amba aage chal kar Shikhandi ke roop mein janm leti hai. Isi karan Bhishma uspar kabhi astra nahi uthate. """
             create_image_text_layout(
                 text_content=text2,
                 layout="full"
@@ -16901,7 +17203,21 @@ Saar: Is adhyaay mein Bhishma Pitamah ne Pandavon ki mahaan shakti ka sachcha va
 
         # Section 5.4.15
         with st.expander("Section 5.4.15  Section CLXXV"):
-            text1 = """ """
+            text1 = """ Section CLXXV – Amba Ne Bhishma Se Apni Sachchai Batayi
+
+Bhishma ne Duryodhana se apni kahani aage batate hue kaha,
+
+Teenon Kashi ki rajkumariyon ko Hastinapur laane ke baad main Mata Satyavati ke paas gaya aur kaha,
+
+"Maine sabhi rajaon ko parajit karke Kashi ki teenon rajkumariyon ko Vichitravirya ke vivah ke liye le aaya hoon."
+
+Yeh sunkar Satyavati bahut prasann hui.
+
+Unhone Bhishma ko ashirvad diya aur kaha,
+
+"Putra, tum vijayi hokar aaye ho. Yeh hamare liye bahut shubh hai."
+
+Vivah Se Pehle Amba Ne Sach Bataya """
             create_image_text_layout(
                 "attached_assets/chapter5/5.4.15.jpg",
                 text1,
@@ -16909,7 +17225,52 @@ Saar: Is adhyaay mein Bhishma Pitamah ne Pandavon ki mahaan shakti ka sachcha va
                 image_position="left"
             )
 
-            text2 = """ """
+            text2 = """ Jab Vichitravirya ke vivah ki taiyariyan shuru hui, tab sabse badi rajkumari Amba sharmate hue Bhishma ke paas aayi aur boli,
+
+"Hey Bhishma, aap dharma aur shastron ke gyata hain."
+
+"Isliye meri baat sunkar wahi kariye jo dharma ke anusar sahi ho."
+
+Phir Amba ne ek bada rahasya bataya.
+
+Usne kaha,
+
+"Main pehle hi apne man se Raja Shalva ko apna pati maan chuki hoon."
+
+"Raja Shalva ne bhi mujhe prem kiya tha aur mujhe apni patni banana chaha tha."
+
+Yeh sab uske pita ko bhi nahi pata tha.
+
+Amba Ki Vinati
+
+Amba ne Bhishma se kaha,
+
+"Ab jab mera man kisi aur ko de chuka hai, to mujhe Vichitravirya se vivah karna dharma ke viruddh hoga."
+
+"Aap Kuru vansh ke mahan dharmagya hain. Aap aisa anyaay kaise hone denge?"
+
+Usne aage kaha,
+
+"Raja Shalva meri pratiksha kar rahe honge."
+
+"Kripya mujhe unke paas jaane ki anumati dijiye."
+
+"Hey Bhishma, mujh par daya kijiye."
+
+"Aap satyavaadi aur dharmaparayan hain. Isliye mujhe nyay dijiye."
+
+Is Adhyay ka Saar
+
+Is adhyay mein pehli baar Amba ki vyaktigat ichchha saamne aati hai.
+
+Bhishma teenon rajkumariyon ko Vichitravirya ke vivah ke liye Hastinapur le aate hain.
+Mata Satyavati khush hoti hain.
+Vivah se pehle Amba sach batati hai ki:
+Woh pehle se Raja Shalva se prem karti hai.
+Dono ek-doosre ko pati-patni ke roop mein maan chuke hain.
+Amba Bhishma se dharma ke naam par nyay ki prarthana karti hai aur Shalva ke paas jaane ki anumati maangti hai.
+
+Yahi se Amba ki dukhbhari kahani shuru hoti hai. Agle adhyay mein Bhishma uski baat maan kar use Shalva ke paas bhejte hain, lekin wahi se ghatnaon ka aisa silsila shuru hota hai jo ant mein Shikhandi ke janm aur Bhishma ke patan ka kaaran banta hai. """
             create_image_text_layout(
                 text_content=text2,
                 layout="full"
@@ -16918,7 +17279,23 @@ Saar: Is adhyaay mein Bhishma Pitamah ne Pandavon ki mahaan shakti ka sachcha va
 
         # Section 5.4.16
         with st.expander("Section 5.4.16  Section CLXXVI"):
-            text1 = """ """
+            text1 = """ Section CLXXVI – Amba Ko Raja Shalva Ne Bhi Thukra Diya
+
+Bhishma ne Duryodhana se kahani aage batate hue kaha,
+
+Amba ki baat sunne ke baad maine uska vichar Mata Satyavati, purohiton aur mantriyon ke saamne rakha.
+
+Sabne dharma ke anusar faisla kiya.
+
+Isliye maine Amba ko Raja Shalva ke paas jaane ki anumati de di.
+
+Uske saath vriddh Brahman aur uski dhaai (nurse) ko suraksha ke liye bheja gaya.
+
+Amba Raja Shalva Ke Paas Pahunchi
+
+Lambi yatra ke baad Amba Raja Shalva ke darbar mein pahunchi aur boli,
+
+"Hey Maharaj, main aapke paas aayi hoon. Main hamesha se aapko hi apna pati maanti hoon." """
             create_image_text_layout(
                 "attached_assets/chapter5/5.4.16.jpg",
                 text1,
@@ -16926,7 +17303,97 @@ Saar: Is adhyaay mein Bhishma Pitamah ne Pandavon ki mahaan shakti ka sachcha va
                 image_position="left"
             )
 
-            text2 = """ """
+            text2 = """ Lekin Shalva ka jawab sunkar Amba ka jeevan badal gaya.
+
+Shalva Ne Inkaar Kar Diya
+
+Raja Shalva hanskar bola,
+
+"Ab main tumse vivah nahi kar sakta."
+
+Usne kaha,
+
+Tumhe Bhishma sabke saamne jeet kar le gaye the.
+Duniya ne dekha ki tum unke rath par baithi hui gayi.
+Chahe sach kuch bhi ho, ab log tumhe Bhishma ki jeeti hui rajkumari hi maanenge.
+
+Isliye usne kaha,
+
+"Tum wapas Bhishma ke paas chali jao."
+
+"Main tumhe apni patni nahi bana sakta."
+
+Amba Ne Bahut Vinati Ki
+
+Amba ro padi aur boli,
+
+"Aisa mat kahiye."
+
+Usne samjhaya,
+
+Main khushi se Bhishma ke saath nahi gayi thi.
+Unhone mujhe balpurvak sab rajaon ko hara kar le gaya tha.
+Main poore samay roti rahi.
+
+Usne kaha,
+
+"Main nirdosh hoon."
+
+"Mera man hamesha se sirf aapke saath tha."
+
+Usne bataya,
+
+Bhishma ne mujhe isliye chhod diya kyunki unhone mujhe apne bhai ke liye laaya tha.
+Meri dono behne Ambika aur Ambalika ka vivah Vichitravirya se ho chuka hai.
+Main kabhi kisi aur ko apna pati nahi maanti.
+
+Amba ne apne sir par haath rakhkar shapath li,
+
+"Main satya ki kasam kha kar kehti hoon ki maine kabhi kisi aur purush ko pati nahi maana."
+
+"Kripya mujhe apna lijiye."
+
+Phir Bhi Shalva Nahi Maana
+
+Amba ne baar-baar prarthana ki.
+
+Lekin Raja Shalva ka hriday nahi pighla.
+
+Usne use baar-baar ek hi baat kahi,
+
+"Jao... yahan se chali jao."
+
+Ant mein usne apni asli wajah bhi bata di.
+
+"Mujhe Bhishma se dar lagta hai."
+
+"Tum Bhishma dwara jeeti hui ho."
+
+Isliye usne Amba ko poori tarah thukra diya.
+
+Amba Ka Sankalp
+
+Apmaanit aur dukhi Amba ki aankhon se aansu behne lage.
+
+Jaate hue usne kaha,
+
+"Chahe duniya mujhe thukra de, dharma aur satya mera saath kabhi nahi chhodenge."
+
+Iske baad Amba rote hue Shalva ki nagari se nikal gayi.
+
+Uska dukh itna gehra tha ki Mahabharat uski tulna ek bichhdi hui osprey (machhli pakadne wali pakshi) ki karun pukar se karta hai.
+
+Is Adhyay ka Saar
+
+Is adhyay mein Amba ko doosra bada jhatka lagta hai.
+
+Bhishma dharma ke anusar use Shalva ke paas bhej dete hain.
+Raja Shalva, samaj aur apmaan ke dar se, usse vivah karne se mana kar deta hai.
+Amba baar-baar apni pavitrata aur prem ki sachchai batati hai.
+Shalva fir bhi use asweekar kar deta hai.
+Akeli, apmaanit aur nirash Amba Shalva ki nagari chhod deti hai.
+
+Yahin se Amba ke hriday mein Bhishma ke prati pratishodh ki aag jal uthti hai. Aage chal kar wahi pratishodh uski kathor tapasya, punarjanm aur Shikhandi ke roop mein Bhishma ke patan ka kaaran banta hai. """
             create_image_text_layout(
                 text_content=text2,
                 layout="full"
@@ -16935,7 +17402,19 @@ Saar: Is adhyaay mein Bhishma Pitamah ne Pandavon ki mahaan shakti ka sachcha va
 
         # Section 5.4.17
         with st.expander("Section 5.4.17  Section CLXXVII"):
-            text1 = """ """
+            text1 = """ Section CLXXVII – Amba Ne Bhishma Se Badla Lene Ka Sankalp Liya
+
+Bhishma ne Duryodhana se kahani aage batate hue kaha,
+
+Shalva dwara thukraye jaane ke baad Amba akeli nagar se bahar nikal gayi.
+
+Chalte-chalte woh gehre dukh mein sochne lagi.
+
+Amba Ka Antar-Manthan
+
+Amba ne socha,
+
+"Is duniya mein shayad hi koi aur stri meri tarah dukhi hogi." """
             create_image_text_layout(
                 "attached_assets/chapter5/5.4.17.jpg",
                 text1,
@@ -16943,7 +17422,133 @@ Saar: Is adhyaay mein Bhishma Pitamah ne Pandavon ki mahaan shakti ka sachcha va
                 image_position="left"
             )
 
-            text2 = """ """
+            text2 = """ "Shalva ne bhi mujhe thukra diya."
+
+Ab uske saamne koi raasta nahi tha.
+
+Usne socha,
+
+Main Hastinapur bhi wapas nahi ja sakti.
+Bhishma ne mujhe Shalva ke paas bhej diya tha.
+Shalva ne mujhe apnaya nahi.
+
+Phir usne apne aap se poochha,
+
+"Is sab ke liye doshi kaun hai?"
+
+Kya main khud?
+Kya Bhishma?
+Kya mere pita?
+Ya mera bhagya?
+
+Usne yaad kiya,
+
+"Jab Bhishma mujhe rath par le ja rahe the, tab mujhe wahi se kud jana chahiye tha."
+
+"Aaj jo dukh mujhe mil raha hai, woh meri usi bhool ka phal hai."
+
+Amba Ka Krodh
+
+Dukh dheere-dheere krodh mein badalne laga.
+
+Amba boli,
+
+"Dhikkar hai Bhishma ko!"
+
+"Dhikkar hai mere pita ko!"
+
+"Dhikkar hai Shalva ko!"
+
+"Dhikkar hai mujhe aur mere bhagya ko bhi!"
+
+Lekin kuch der baad uska man ek nishchay par pahunch gaya.
+
+Asli Dosh Kis Ka?
+
+Amba ne socha,
+
+"Manushya ko jo bhagya mein likha hota hai wahi milta hai."
+
+Lekin usne kaha,
+
+"Meri is dasha ka sabse bada karan Bhishma hi hain."
+
+Aur usne pratigya ki,
+
+"Main Bhishma se badla lekar rahungi."
+
+Chahe—
+
+kathor tapasya se,
+ya kisi yoddha ke dwara yuddh karwa kar.
+
+Lekin turant ek samasya saamne aayi.
+
+Usne socha,
+
+"Aakhir kaunsa raja itna shaktishali hai jo Bhishma ko hara sake?"
+
+Ashram Ki Ore
+
+Is prashn ka uttar na milne par Amba van mein sthit rishiyon ke ashram pahunch gayi.
+
+Usne raat wahi bitayi.
+
+Agle din usne sabhi tapasviyon ko apni poori kahani sunayi—
+
+Bhishma dwara haran,
+Shalva se prem,
+Bhishma ka use chhod dena,
+aur Shalva ka use asweekar kar dena.
+Rishi Shaikhavatya
+
+Us ashram mein ek mahan tapasvi rehte the,
+
+Rishi Shaikhavatya.
+
+Ve Ved aur Aranyak granthon ke mahan vidwan the.
+
+Unhone Amba se kaha,
+
+"Yadi sab kuch aisa hi hua hai, to hum vanvasi rishi ismein kya kar sakte hain?"
+
+Amba Ka Nirnay
+
+Amba boli,
+
+"Mujh par daya kijiye."
+
+"Main sansar ka tyag karna chahti hoon."
+
+"Main van mein rehkar kathor tapasya karungi."
+
+Usne kaha,
+
+"Jo dukh mujhe mil raha hai, shayad mere pichhle janmon ke paapon ka phal hai."
+
+"Main apne ghar bhi wapas nahi ja sakti, kyunki Shalva ne mujhe apmaanit karke thukra diya hai."
+
+"Kripya mujhe tapasya ka marg batayiye."
+
+Rishiyon Ka Ashwasan
+
+Rishi Shaikhavatya ne shastron ke udaharan dekar Amba ko santvana di.
+
+Unhone uska dukh kam karne ki koshish ki.
+
+Ant mein Rishi aur anya Brahmanon ne vachan diya ki ve Amba ki ichchha poori karne mein uski sahayata karenge.
+
+Is Adhyay ka Saar
+
+Is adhyay mein Amba ke jeevan ka sabse bada mod aata hai.
+
+Shalva ke asweekar ke baad woh poori tarah toot jaati hai.
+Pehle woh sabko dosh deti hai, lekin ant mein Bhishma ko apne dukh ka mukhya karan maanti hai.
+Wah Bhishma se pratishodh lene ka dridh sankalp karti hai.
+Koi raja Bhishma ko hara nahi sakta, isliye woh van jaakar tapasya karne ka nirnay leti hai.
+Rishi Shaikhavatya aur anya tapasvi usse sahara dete hain.
+
+Yahin se Amba ek dukhi rajkumari se badalkar pratishodh ki murti banne lagti hai. Aage isi tapasya ke dwara uska sambandh Bhagwan Parashurama aur baad mein Bhagwan Shiva se judta hai, jo antatah uske Shikhandi ke roop mein punarjanm ka kaaran banta hai. """
             create_image_text_layout(
                 text_content=text2,
                 layout="full"
@@ -16952,7 +17557,23 @@ Saar: Is adhyaay mein Bhishma Pitamah ne Pandavon ki mahaan shakti ka sachcha va
 
         # Section 5.4.18
         with st.expander("Section 5.4.18  Section CLXXVIII"):
-            text1 = """ """
+            text1 = """ Section CLXXVIII – Amba Ko Mila Parashurama Tak Pahunchne Ka Marg
+
+Bhishma ne Duryodhana se kahani aage batate hue kaha,
+
+Amba ki kahani sunne ke baad ashram ke sabhi rishi sochne lage ki uski sahayata kaise ki jaaye.
+
+Sabke alag-alag vichar the.
+
+Rishiyon Ki Salah
+
+Kuch rishi bole,
+
+"Amba ko uske pita ke ghar wapas bhej dena chahiye."
+
+Kuch ne kaha,
+
+"Raja Shalva se phir ek baar baat karni chahiye." """
             create_image_text_layout(
                 "attached_assets/chapter5/5.4.18.jpg",
                 text1,
@@ -16960,7 +17581,160 @@ Saar: Is adhyaay mein Bhishma Pitamah ne Pandavon ki mahaan shakti ka sachcha va
                 image_position="left"
             )
 
-            text2 = """ """
+            text2 = """ Lekin doosre rishiyon ne mana kar diya.
+
+"Shalva to ise pehle hi thukra chuka hai."
+
+Ant mein rishiyon ne Amba se kaha,
+
+"Van ka jeevan bahut kathin hai."
+
+"Tum ek rajkumari ho aur bahut sukumari ho."
+
+"Tumhare pita hi is samay tumhare sabse bade rakshak hain."
+
+Unhone samjhaya,
+
+Stri ki raksha pehle pita karta hai.
+Vivah ke baad pati karta hai.
+Isliye tumhe apne pita ke paas laut jana chahiye.
+
+Kuch anya rishiyon ne chetavani di,
+
+"Yadi tum akeli van mein rahogi, to anya raja tumhe pareshan kar sakte hain."
+
+Amba Ne Inkaar Kar Diya
+
+Amba ne dridh swar mein kaha,
+
+"Main apne pita ke ghar kabhi wapas nahi jaungi."
+
+Usne kaha,
+
+"Sab log mujhe tuchchh samjhenge."
+
+"Mera apmaan ho chuka hai."
+
+Isliye usne nishchay kiya,
+
+"Main yahin van mein kathor tapasya karungi."
+
+"Isi se shayad mere dukhon ka ant hoga."
+
+Raja Hotravahana Ka Aagman
+
+Isi samay ek mahan tapasvi aur rajarshi ashram mein aaye.
+
+Unka naam tha Hotravahana.
+
+Sabhi rishiyon ne unka satkar kiya.
+
+Jab unhone Amba ki poori kahani suni, to unka hriday karuna se bhar gaya.
+
+Tab pata chala ki—
+
+Hotravahana, Amba ke nana (mata ke pita) the.
+
+Woh turant Amba ke paas aaye.
+
+Use apni godi mein bithaya.
+
+Use santvana di.
+
+Aur poori ghatna shuru se ant tak suni.
+
+Nana Ka Ashwasan
+
+Hotravahana bole,
+
+"Tum apne pita ke ghar mat jao."
+
+"Main tumhara dukh door karunga."
+
+Phir unhone ek mahatvapurn salah di.
+
+Parashurama Ke Paas Jao
+
+Hotravahana ne kaha,
+
+"Tum Bhagwan Parashurama ke paas jao."
+
+"Yadi Bhishma unki baat maan lenge to tumhara karya ho jayega."
+
+"Aur agar Bhishma unki aagya na maane, to Parashurama swayam unse yuddh karenge."
+
+Amba Ka Prashn
+
+Amba ne poochha,
+
+"Kya mujhe sach mein Parashurama ka darshan milega?"
+
+"Main un tak kaise pahunchungi?"
+
+Hotravahana Ka Uttar
+
+Hotravahana bole,
+
+"Parashurama Mahendra Parvat par tapasya karte hain."
+
+Wahan—
+
+bahut se Rishi rehte hain,
+Gandharv rehte hain,
+Apsarayein bhi nivas karti hain.
+
+Unhone kaha,
+
+"Mera naam lena."
+
+"Parashurama mere priya mitra hain."
+
+"Woh tumhari avashya sahayata karenge."
+
+Akritavrana Ka Aagman
+
+Isi dauran Parashurama ke priya shishya aur sahachari Akritavrana ashram mein aa gaye.
+
+Sabhi rishiyon ne unka satkar kiya.
+
+Hotravahana ne unse poochha,
+
+"Parashurama is samay kahan hain?"
+
+Akritavrana bole,
+
+"Woh kal subah yahan aayenge."
+
+"Aap unse yahin mil sakenge."
+
+Phir unhone Amba ke baare mein poochha.
+
+Hotravahana ne poori kahani bata di—
+
+Kashi ka swayamvar,
+Bhishma dwara haran,
+Amba ka Shalva se prem,
+Bhishma ka use chhodna,
+Shalva ka use thukrana,
+aur ant mein Amba ka Bhishma ko apne dukh ka mool karan maanna.
+
+Ant mein Amba ne swayam kaha,
+
+"Ab mera jeevan Bhagwan Parashurama ke nirnay par nirbhar hai."
+
+"Jo ve kahenge, wahi mera kartavya hoga."
+
+Is Adhyay ka Saar
+
+Is adhyay mein Amba ki kahani ek naye mod par pahunchti hai.
+
+Rishi use pita ke ghar lautne ki salah dete hain, lekin woh mana kar deti hai.
+Uske nana Rajarshi Hotravahana ashram aate hain aur uska sahara bante hain.
+Ve Amba ko Bhagwan Parashurama ke paas bhejne ka nirnay lete hain.
+Bataya jata hai ki agar Bhishma nyay nahi denge, to Parashurama swayam Bhishma se yuddh karenge.
+Parashurama ke shishya Akritavrana batate hain ki Parashurama agle hi din ashram aane wale hain.
+
+Yahin se Mahabharat ke sabse prasiddh dwandvon mein se ek ki bhoomika taiyar hoti hai—Bhishma aur Bhagwan Parashurama ka mahan yuddh, jo Amba ke nyay ke liye lada jayega. """
             create_image_text_layout(
                 text_content=text2,
                 layout="full"
@@ -16969,7 +17743,24 @@ Saar: Is adhyaay mein Bhishma Pitamah ne Pandavon ki mahaan shakti ka sachcha va
 
         # Section 5.4.19
         with st.expander("Section 5.4.19  Section CLXXIX"):
-            text1 = """ """
+            text1 = """ Section CLXXIX – Amba Ne Parashurama Se Bhishma Ka Vadh Maanga
+
+Bhishma ne Duryodhana se kahani aage batate hue kaha,
+
+Akritavrana Ne Amba Se Prashn Kiya
+
+Bhagwan Parashurama ke priya shishya Akritavrana ne Amba se poochha,
+
+"Tumhari do samasyaon mein se kis ka samadhan chahti ho?"
+
+Kya tum chahti ho ki Raja Shalva tumse vivah kar le?
+Ya tum chahti ho ki Bhagwan Parashurama Bhishma ko yuddh mein parajit kar dein?
+
+Unhone kaha,
+
+"Jo tum chahogi, wahi kiya jayega."
+
+Amba Ka Uttar """
             create_image_text_layout(
                 "attached_assets/chapter5/5.4.19.jpg",
                 text1,
@@ -16977,7 +17768,137 @@ Saar: Is adhyaay mein Bhishma Pitamah ne Pandavon ki mahaan shakti ka sachcha va
                 image_position="left"
             )
 
-            text2 = """ """
+            text2 = """ Amba boli,
+
+"Bhishma ne mujhe isliye har liya kyunki unhe pata nahi tha ki mera hriday pehle hi Raja Shalva ko de chuka tha."
+
+Usne kaha,
+
+"Ab nyay ke anusaar jo uchit ho, wahi kijiye."
+
+"Chahe Bhishma ko dand mile, chahe Shalva ko, ya dono ko."
+
+Akritavrana Ka Nirnay
+
+Akritavrana ne gahra vichar kar kaha,
+
+"Yadi Bhishma tumhe kabhi na le jaate, to Shalva tumse avashya vivah kar leta."
+
+"Shalva ne tum par isliye sandeh kiya kyunki Bhishma tumhe balpurvak le gaye the."
+
+Isliye unhone spasht kaha,
+
+"Tumhara badla Bhishma se hi hona chahiye."
+
+Amba Ki Pratigya
+
+Amba ne turant kaha,
+
+"Mere hriday mein bhi yahi ichchha hai."
+
+"Main chahti hoon ki Bhishma yuddh mein mare jaayen."
+
+Lekin usne nyay ko bhi mahatva diya.
+
+Usne kaha,
+
+"Chahe Bhishma doshi hon ya Raja Shalva, jo vastav mein aparadhi ho, use dand milna chahiye."
+
+Agle Din Parashurama Ka Aagman
+
+Raat beet gayi.
+
+Agli subah Bhagwan Parashurama swayam ashram mein aaye.
+
+Unke roop ka varnan kiya gaya hai—
+
+mastak par jata,
+mrigcharm ka vastra,
+haath mein dhanush,
+talwar,
+aur divya parshu (farasa).
+
+Unke tej se poora ashram prakashit ho gaya.
+
+Sabhi rishi, Raja Hotravahana aur Amba khade hokar unka swagat karte hain.
+
+Paramparagat vidhi se unki puja ki jaati hai.
+
+Hotravahana Ne Amba Ka Parichay Diya
+
+Kuch samay baad Hotravahana bole,
+
+"Hey Rama, yeh meri naatin hai."
+
+"Iske jeevan mein bahut bada sankat aa gaya hai."
+
+"Kripya iski sahayata kijiye."
+
+Parashurama Ne Amba Se Kahani Suni
+
+Parashurama ne Amba se kaha,
+
+"Nidar hokar apna dukh batao."
+
+Amba ne unke charanon mein pranam kiya.
+
+Aansuon se bhari aankhon ke saath unhone raksha maangi.
+
+Parashurama bole,
+
+"Jo tum kahogi, main wahi karunga."
+
+Tab Amba ne poori ghatna shuru se ant tak bata di—
+
+swayamvar,
+Bhishma dwara haran,
+Shalva ka inkaar,
+aur apne apmaan ki kahani.
+Parashurama Ka Pratham Nirnay
+
+Sab kuch sunne ke baad Parashurama bole,
+
+"Main pehle Bhishma ko sandesh bhejunga."
+
+"Mujhe vishvas hai ki ve meri baat maan lenge."
+
+Lekin unhone saath hi chetavani bhi di,
+
+"Yadi Bhishma meri aagya nahi maanenge, to main unse yuddh karunga aur unhe parajit karunga."
+
+Unhone ek aur vikalp diya,
+
+"Yadi tum chaho, to main Raja Shalva se bhi baat kar sakta hoon."
+
+Amba Ne Antim Nirnay Sunaya
+
+Amba ne dridh swar mein kaha,
+
+"Bhishma ne mujhe tab chhod diya jab unhe pata chala ki mera hriday Shalva ko diya ja chuka hai."
+
+"Main Shalva ke paas gayi, lekin usne bhi mujhe apavitra samajhkar thukra diya."
+
+Isliye usne spasht kaha,
+
+"Mere saare dukhon ka mool Bhishma hi hain."
+
+Aur usne Parashurama se prarthana ki,
+
+"Hey Bhargava! Bhishma ko maar dijiye."
+
+"Jaise Indra ne Vritrasura ka vadh kiya tha, vaise hi aap Bhishma ka vadh karke mujhe nyay dijiye."
+
+Is Adhyay ka Saar
+
+Is adhyay mein Amba apni ichchha ko poori tarah spasht kar deti hai.
+
+Akritavrana nishkarsh nikalte hain ki Amba ke dukh ka asli karan Bhishma hain.
+Agle din Bhagwan Parashurama ashram pahunchte hain.
+Amba unke charanon mein girkar apni poori kahani sunati hai.
+Parashurama pehle shanti se Bhishma ko samjhane ka sankalp lete hain.
+Lekin Amba spasht roop se kehti hai ki Bhishma hi uske dukh ke mool hain, aur unka vadh hi uske liye nyay hoga.
+
+Yahin se Mahabharat ka prasiddh Parashurama–Bhishma sangharsh aarambh hone ki bhoomika taiyar ho jaati hai. """
             create_image_text_layout(
                 text_content=text2,
                 layout="full"
@@ -16986,7 +17907,25 @@ Saar: Is adhyaay mein Bhishma Pitamah ne Pandavon ki mahaan shakti ka sachcha va
 
         # Section 5.4.20
         with st.expander("Section 5.4.20  Section CLXXX"):
-            text1 = """ """
+            text1 = """ Section CLXXX – Parashurama Ne Bhishma Ko Chunauti Dene Ka Sankalp Liya
+
+Bhishma ne Duryodhana se kahani aage batate hue kaha,
+
+Parashurama Ka Prarambhik Inkaar
+
+Amba baar-baar Parashurama se Bhishma ka vadh karne ki prarthana karti rahi.
+
+Parashurama ne shaant swar mein kaha,
+
+"Hey Kashi ki putri, main ab bina karan shastra nahi uthata."
+
+Unhone bataya ki unhone Kshatriyon ka samhaar karne ke baad ek vrat liya tha—
+
+"Ab main keval Brahmanon ke hit ke liye hi shastra uthata hoon."
+
+Phir unhone Amba se poochha,
+
+"Main tumhare liye aur kya kar sakta hoon?" """
             create_image_text_layout(
                 "attached_assets/chapter5/5.4.20.jpg",
                 text1,
@@ -16994,7 +17933,130 @@ Saar: Is adhyaay mein Bhishma Pitamah ne Pandavon ki mahaan shakti ka sachcha va
                 image_position="left"
             )
 
-            text2 = """ """
+            text2 = """ Unhone yah bhi kaha,
+
+Bhishma meri baat maante hain.
+Shalva bhi meri baat maante hain.
+Main tumhara karya poora karunga, lekin bina uchit karan ke yuddh nahi karunga.
+Amba Ne Phir Se Vadh Ki Maang Ki
+
+Amba ne dridh swar mein kaha,
+
+"Mera sara dukh Bhishma ki wajah se hai."
+
+"Isliye unka vadh kijiye."
+
+Uske liye kisi samjhaute ya madhyasthata ka koi arth nahi tha.
+
+Parashurama Ka Ek Aur Prastaav
+
+Parashurama bole,
+
+"Agar main kahoon, to Bhishma tumhare charan bhi apne sir par rakh lenge."
+
+Yaani ve itne aagyaakaari hain ki meri baat maan lenge.
+
+Lekin Amba ne ise asvikar kar diya.
+
+Usne kaha,
+
+"Mujhe samman nahi chahiye."
+
+"Mujhe nyay chahiye."
+
+Aur phir spasht kaha,
+
+"Bhishma ko yuddh mein maar dijiye."
+
+Saath hi yaad dilaya,
+
+"Aapne jo vachan diya hai, use satya kijiye."
+
+Akritavrana Ne Parashurama Ko Unka Vachan Yaad Dilaya
+
+Tab Rishi Akritavrana bole,
+
+"Jo vyakti aapki sharan mein aaye, uska tyag karna uchit nahi."
+
+Unhone kaha,
+
+Yadi—
+
+Bhishma aapki baat maan lete hain,
+ya yuddh mein haar maan lete hain,
+
+to Amba ka uddeshya poora ho jayega.
+
+Lekin agar ve mana karte hain,
+
+to unse yuddh karna hi uchit hoga.
+
+Phir Akritavrana ne Parashurama ko unka purana sankalp yaad dilaya.
+
+Parashurama Ka Purana Vrat
+
+Kshatriyon ko parajit karne ke baad Parashurama ne pratigya ki thi—
+
+jo bhi Brahmanon ka shatru hoga, uska vadh karenge,
+aur jo bhi bhaybhit hokar unki sharan mein aayega, uski raksha kabhi nahi chhodenge.
+
+Akritavrana ne kaha,
+
+"Amba aapki sharan mein aayi hai."
+
+Isliye uski raksha karna aapka dharm hai.
+
+Unhone yah bhi kaha,
+
+"Bhishma ne bhi kabhi sabhi Kshatriyon ko parajit kiya tha."
+
+"Ab samay aa gaya hai ki aap unse yuddh karein."
+
+Parashurama Ka Antim Nirnay
+
+Parashurama bole,
+
+"Mujhe apna vrat yaad hai."
+
+Lekin unhone pehle shanti ka marg chunna.
+
+Unhone kaha,
+
+"Main pehle Bhishma ko samjhaunga."
+
+"Yadi ve meri baat maan lenge to yuddh ki avashyakta nahi hogi."
+
+Lekin saath hi dridh sankalp bhi suna diya,
+
+"Yadi Bhishma apne ahankar mein meri baat nahi maanenge, to main unka vadh karunga."
+
+Phir unhone apni shakti ka ullekh karte hue kaha,
+
+"Mere baan shareer ko sirf chhoote nahi, use poori tarah bhed dete hain."
+
+Sabhi rishi is baat ko pehle ke Kshatriya-yuddhon se jaante the.
+
+Kurukshetra Ki Ore Prasthaan
+
+Is nirnay ke baad Parashurama uth khade hue.
+
+Agle prabhat—
+
+sabhi rishiyon ne hom kiya,
+ved-mantron ka paath kiya,
+aur phir Amba ko saath lekar Kurukshetra ki ore chal pade.
+
+Ve sab Sarasvati nadi ke tat par pahunche aur wahin apna nivaas banaya.
+
+Yahin se Parashurama aur Bhishma ke beech hone wale mahaan yuddh ki bhoomika taiyar ho gayi.
+
+Is Adhyay ka Saar
+Parashurama pehle yuddh se bachna chahte the.
+Amba ne spasht roop se sirf Bhishma ke vadh ki maang ki.
+Akritavrana ne Parashurama ko unke purane vrat aur sharanagat ki raksha ka dharm yaad dilaya.
+Parashurama ne nirnay liya ki pehle Bhishma ko samjhayenge.
+Agar Bhishma na maane, to unse yuddh karenge.
+Iske baad Parashurama, Amba aur rishigan Kurukshetra pahunche, jahan itihaas ke sabse prasiddh guru-shishya yuddhon mein se ek shuru hone wala tha. """
             create_image_text_layout(
                 text_content=text2,
                 layout="full"
