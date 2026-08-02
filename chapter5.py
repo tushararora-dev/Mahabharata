@@ -18063,7 +18063,19 @@ Iske baad Parashurama, Amba aur rishigan Kurukshetra pahunche, jahan itihaas ke 
             )
                 # Section 5.4.21
         with st.expander("Section 5.4.21  Section CLXXXI"):
-            text1 = """ """
+            text1 = """ Section CLXXXI – Bhishma Aur Parashurama Ke Maha-Yuddh Ki Shuruaat
+
+(Source: Uploaded text)
+
+Bhishma ne Duryodhana se kahani aage batate hue kaha,
+
+Parashurama Ne Sandesh Bheja
+
+Kurukshetra pahunchne ke teesre din, Bhagwan Parashurama ne Bhishma ko sandesh bheja—
+
+"Main yahan aa gaya hoon. Aao aur meri ichchha ke anusaar karo."
+
+Bhishma ne jaise hi suna ki unke guru Parashurama aaye hain, ve bahut adar ke saath unse milne gaye. """
             create_image_text_layout(
                 "attached_assets/chapter5/5.4.21.jpg",
                 text1,
@@ -18071,7 +18083,244 @@ Iske baad Parashurama, Amba aur rishigan Kurukshetra pahunche, jahan itihaas ke 
                 image_position="left"
             )
 
-            text2 = """ """
+            text2 = """ Ve apne saath—
+
+ek gau,
+Brahman,
+purohit,
+aur anya satkar ke saadhan lekar gaye.
+
+Bhishma ne poori shraddha se Parashurama ki puja ki.
+
+Parashurama Ka Aadesh
+
+Parashurama ne seedhe prashn kiya,
+
+"Tumne Kashi ki rajkumari Amba ka haran kyon kiya?"
+
+Aur phir kaha,
+
+tumne uska jeevan barbaad kar diya,
+Salva ne use tumhare sparsh ke karan asvikar kar diya,
+ab tum usse vivah karo.
+
+Unhone aadesh diya,
+
+"Amba ko apna lo."
+
+Bhishma Ka Inkaar
+
+Bhishma ne vinamrata se uttar diya,
+
+"Main ise apne bhai ko bhi nahi de sakta."
+
+Kyon?
+
+Kyoki—
+
+Amba swayam keh chuki thi ki uska hriday Salva ko diya ja chuka hai.
+Isi wajah se Bhishma ne use Salva ke paas bhej diya tha.
+
+Phir Bhishma ne apna amar vrat yaad dilaya—
+
+"Main bhay, daya, dhan ya kaam ke karan kabhi Kshatriya dharm nahi chhodunga."
+
+Parashurama Krodhit Hue
+
+Ye sunkar Parashurama ka krodh bhadak utha.
+
+Unhone kaha,
+
+"Yadi tum meri baat nahi maanoge, to main tumhe aur tumhare sabhi saathiyon ko maar dunga."
+
+Guru Aur Shishya Ka Samvad
+
+Bhishma ne vinamrata se yaad dilaya,
+
+"Aap hi mere guru hain."
+
+"Bachpan mein aapne hi mujhe shastravidya sikhayi thi."
+
+Parashurama bole,
+
+"Agar tum mujhe guru maante ho, to meri baat kyon nahi maante?"
+
+Bhishma Ne Dharma Ka Paksh Rakha
+
+Bhishma ne kaha,
+
+"Main kisi aisi stree ko apna nahi sakta jiska hriday kisi aur ko diya ja chuka ho."
+
+Unhone spasht kaha,
+
+"Indra ke bhay se bhi main dharm ka tyag nahi karunga."
+
+Phir Bhishma ne ek gambhir siddhant bataya—
+
+"Jo guru ahankar mein aakar adharm ka aadesh de, uski baat na maanna shastron ke anusaar uchit hai."
+
+Unhone kaha,
+
+"Main aapka sada samman karta hoon."
+
+"Lekin is vishay mein aap dharm se hat rahe hain."
+
+Isliye,
+
+"Main aapse yuddh karunga."
+
+Bhishma Ka Mahaan Siddhant
+
+Bhishma ne kaha,
+
+"Main Brahman ko kabhi nahi maarna chahta."
+
+Lekin shastron ka niyam hai—
+
+Jo Brahman swayam shastra lekar Kshatriya ki tarah yuddh kare, usse yuddh karna paap nahi hota.
+
+Isliye Bhishma bole,
+
+"Main Kshatriya hoon."
+
+"Aur apne dharm ke anusaar aapse yuddh karunga."
+
+Bhishma Ki Chunauti
+
+Bhishma ne Parashurama ko khule roop se lalkaar diya.
+
+Unhone kaha,
+
+"Kurukshetra chaliye."
+
+"Wahin hamara ekal yuddh hoga."
+
+Phir unhone kaha,
+
+"Aapne hamesha garv kiya hai ki aapne sabhi Kshatriyon ko parajit kiya."
+
+Bhishma ne garv se kaha,
+
+"Tab Bhishma paida hi nahi hua tha."
+
+Aur aage kaha,
+
+"Aapne sirf kamzor Kshatriyon ko haraya tha."
+
+"Ab ek aisa Kshatriya saamne hai jo aapka garv tod dega."
+
+Parashurama Ka Uttar
+
+Parashurama hans pade.
+
+Unhone kaha,
+
+"Achha hua tum yuddh chahte ho."
+
+"Main abhi Kurukshetra chalta hoon."
+
+Aur kathor shabd kahte hue bole,
+
+"Aaj tumhari maa Ganga tumhe mere baanon se gira hua dekhegi."
+
+Bhishma Ki Taiyari
+
+Bhishma Hastinapura laut gaye.
+
+Unhone—
+
+Satyavati ko sab bataya,
+vijay ke liye pooja karwayi,
+maa Ganga ka ashirvad liya,
+Brahmanon se mangal-vachan liye.
+
+Phir ve yuddh ke liye nikle.
+
+Bhishma Ka Divya Rath
+
+Bhishma ka rath ati divya tha—
+
+chandi ka bana hua,
+safed ghodon se yukt,
+bagh ki khal se dhaka,
+anek divya astron se sajja hua.
+
+Bhishma swayam—
+
+safed kavach,
+safed dhanush,
+safed vastra,
+safed pagdi,
+safed chatra ke saath nikle.
+
+Poora drishya shuddhata aur tej ka prateek tha.
+
+Kurukshetra Mein Aagman
+
+Bhishma aur Parashurama dono Kurukshetra pahunch gaye.
+
+Bhishma ne apna shankh bajaya.
+
+Yeh maha-yuddh dekhne ke liye—
+
+Devata,
+Indra,
+Rishi,
+Tapasvi,
+aur anek divya jeev
+
+akash aur bhoomi par ikattha ho gaye.
+
+Sabko pata tha ki yah saamanya yuddh nahi, guru aur shishya ka adbhut sangram hai.
+
+Maa Ganga Ka Prakat Hona
+
+Isi samay Maa Ganga prakat hui.
+
+Unhone Bhishma se kaha,
+
+"Yeh kya kar rahe ho?"
+
+"Parashurama tumhare guru hain."
+
+"Main unse baat karti hoon. Tum yuddh mat karo."
+
+Bhishma ne poori ghatna fir se Maa Ganga ko bata di.
+
+Phir Ganga Parashurama ke paas gayin aur vinati ki—
+
+"Bhishma se yuddh mat kijiye."
+
+Parashurama Ka Antim Uttar
+
+Parashurama ne kaha,
+
+"Bhishma ko samjhao."
+
+"Wahi meri baat nahi maan raha."
+
+"Isliye maine use yuddh ke liye lalkara hai."
+
+Maa Ganga wapas Bhishma ke paas aayi.
+
+Lekin Bhishma apne dharm aur pratigya se zara bhi nahi hile.
+
+Yuddh Ka Aarambh
+
+Isi samay Parashurama saamne aa gaye.
+
+Aur us mahaan guru ne apne hi shishya Bhishma ko yuddh ki aupcharik chunauti de di.
+
+Yahin par Mahabharata ke sabse prasiddh Guru vs Shishya yuddh ka aarambh hota hai.
+
+Is Adhyay ka Saar
+Parashurama ne Bhishma ko Amba se vivah karne ka aadesh diya.
+Bhishma ne dharm aur apni pratigya ka havala dekar mana kar diya.
+Dono ke beech dharm par gambhir vaad-vivad hua.
+Bhishma ne kaha ki adharm ka aadesh dene wale guru ki baat maanna avashyak nahi.
+Dono ne Kurukshetra mein ekal yuddh karne ka nirnay liya.
+Maa Ganga ne dono ko rokne ka prayas kiya, lekin dono apne sankalp par dridh rahe.
+Ant mein Parashurama ne Bhishma ko yuddh ke liye aupcharik roop se lalkar diya. """
             create_image_text_layout(
                 text_content=text2,
                 layout="full"
@@ -18080,7 +18329,25 @@ Iske baad Parashurama, Amba aur rishigan Kurukshetra pahunche, jahan itihaas ke 
 
         # Section 5.4.22
         with st.expander("Section 5.4.22  Section CLXXXII"):
-            text1 = """ """
+            text1 = """ Section CLXXXII – Bhishma Aur Parashurama Ka Pehla Yuddh
+
+(Source: Uploaded text)
+
+Bhishma ne Duryodhana se kahani aage batate hue kaha,
+
+Bhishma Ne Guru Ka Samman Kiya
+
+Kurukshetra mein dono aamne-saamne khade the.
+
+Bhishma muskurakar bole,
+
+"Hey Rama, main rath par hoon aur aap bhoomi par khade hain."
+
+"Is prakar yuddh karna uchit nahi."
+
+Isliye Bhishma ne vinamrata se kaha,
+
+"Aap bhi rath par chadh jaiye, kavach pehen lijiye, phir hum samaan roop se yuddh karenge." """
             create_image_text_layout(
                 "attached_assets/chapter5/5.4.22.jpg",
                 text1,
@@ -18088,7 +18355,200 @@ Iske baad Parashurama, Amba aur rishigan Kurukshetra pahunche, jahan itihaas ke 
                 image_position="left"
             )
 
-            text2 = """ """
+            text2 = """ Parashurama Ka Adbhut Uttar
+
+Parashurama muskuraye aur bole,
+
+"Prithvi hi mera rath hai."
+
+Unhone apne divya roop ka varnan kiya—
+
+Prithvi mera rath hai.
+Veda mere ghode hain.
+Vayu mera saarathi hai.
+Gayatri, Savitri aur Sarasvati mera kavach hain.
+
+Yaani unka bal sirf bhautik nahi, balki divya aur adhyatmik bhi tha.
+
+Divya Rath Ka Prakat Hona
+
+Yeh kehne ke turant baad Bhishma ne dekha ki Parashurama ke sankalp se ek divya rath prakat ho gaya.
+
+Us rath ki visheshtayein—
+
+divya astron se yukt,
+sone ke abhushanon se alankrit,
+Surya aur Chandra ke chinhon se sajjit,
+divya ghodon se yukta.
+
+Akritavrana us rath ke saarathi bane.
+
+Parashurama baar-baar Bhishma ko pukarne lage—
+
+"Aao Bhishma! Yuddh karo!"
+
+Bhishma Ka Guru Vandana
+
+Yuddh shuru hone se pehle Bhishma ne ek adbhut karya kiya.
+
+Ve apne rath se utar gaye.
+
+Apna dhanush rakh diya.
+
+Paidal chal kar Parashurama ke paas gaye.
+
+Unke charanon mein pranam kiya.
+
+Aur kaha,
+
+"Chahe aap mujhse bade hon ya samaan, main apne guru se hi yuddh karne ja raha hoon."
+
+"Kripya mujhe ashirvad dijiye."
+
+Parashurama Ka Ashirvad
+
+Parashurama prasann hue.
+
+Unhone kaha,
+
+"Tumne guru ka uchit samman kiya hai."
+
+Phir bole,
+
+"Agar tumne aisa na kiya hota, to main tumhe shraap de deta."
+
+Lekin ek baat aur kahi,
+
+"Main tumhe vijay ka ashirvad nahi de sakta."
+
+Kyonki,
+
+"Main swayam tumhe harane ke liye yahan khada hoon."
+
+Ant mein bole,
+
+"Jao, nyay ke saath yuddh karo."
+
+Maha-Yuddh Ka Aarambh
+
+Bhishma ne dobara rath par chadhkar apna shankh bajaya.
+
+Aur dono ke beech mahaan yuddh shuru hua.
+
+Yeh yuddh kai dinon tak chala.
+
+Parashurama Ka Pehla Prahar
+
+Yuddh ki pehli chot Parashurama ne ki.
+
+Unhone ek saath 960 teer chhode.
+
+Itne adhik baan the ki—
+
+Bhishma ke chaaron ghode,
+saarathi,
+aur poora rath
+
+baanon se dhak gaya.
+
+Lekin Bhishma apne kavach mein sthir khade rahe.
+
+Bhishma Ka Dharma Upadesh
+
+Pratikraman se pehle Bhishma ne devataon aur Brahmanon ko pranam kiya.
+
+Phir Parashurama se bole,
+
+"Main aapke Brahman roop par prahar nahi karunga."
+
+Unhone kaha,
+
+main Vedon ka apmaan nahi karunga,
+aapke tapasya ka apmaan nahi karunga,
+aapke Brahmatej par prahar nahi karunga.
+
+Lekin,
+
+"Aapne jo Kshatriya ka roop dharan kiya hai, usi par prahar karunga."
+
+Aur kaha,
+
+"Jab Brahman shastra uthata hai, tab vah Kshatriya ke saman ho jata hai."
+
+Bhishma Ka Pehla Prahar
+
+Yeh kehkar Bhishma ne ek teekshna baan chhoda.
+
+Us baan ne Parashurama ke dhanush ka ek sirah kaat diya.
+
+Phir Bhishma ne lagataar 100 baan chala diye.
+
+Ve baan—
+
+Parashurama ke shareer ko bhed gaye,
+aur unke sharir se rakt behne laga.
+
+Unka roop aisa lag raha tha jaise—
+
+Sumeru par pighla hua dhaatu beh raha ho,
+ya phoolon se lada hua Ashok vriksh,
+ya laal Kinsuk ka ped.
+Parashurama Ka Pratighaat
+
+Parashurama ne turant doosra dhanush uthaya.
+
+Aur krodhit hokar sone ke pankhon wale teekshna baanon ki varsha kar di.
+
+Un baanon ne Bhishma ke sharir ko gahra ghaayal kar diya.
+
+Bhishma bhi kaamp uthe.
+
+Lekin dhairya banaye rakha.
+
+Phir unhone ek saath 100 baan chala kar Parashurama ko bhed diya.
+
+Itne prabal prahar se kuch kshan ke liye Parashurama ko moorchha si aa gayi.
+
+Bhishma Ka Pashchatap
+
+Jaise hi Bhishma ne dekha ki unke guru ghaayal ho gaye hain,
+
+unke hriday mein karuna jag uthi.
+
+Unhone swayam yuddh rok diya.
+
+Aur dukhi hokar bole,
+
+"Dhik hai Kshatriya dharm par."
+
+"Dhik hai is yuddh par."
+
+Phir ve bole,
+
+"Maine bahut bada paap kiya hai."
+
+"Maine apne Brahman guru ko baanon se ghaayal kar diya."
+
+Isliye Bhishma ne us din aur prahar nahi kiya.
+
+Pehle Din Ka Ant
+
+Tab tak Surya ast hone lage.
+
+Sandhya ho gayi.
+
+Aur niyam ke anusaar us din ka yuddh samapt ho gaya.
+
+Dono mahaan yoddha agle din ke sangram ke liye taiyar hue.
+
+Is Adhyay ka Saar
+Bhishma ne yuddh se pehle apne guru Parashurama ka charan sparsh kiya.
+Parashurama ne unke acharan ki prashansa ki, lekin vijay ka ashirvad nahi diya.
+Yuddh ka pehla prahar Parashurama ne 960 baanon se kiya.
+Bhishma ne kaha ki ve Brahman roop par nahi, keval Parashurama ke Kshatriya roop par prahar karenge.
+Bhishma ne Parashurama ka dhanush tod diya aur unhe ghaayal kar diya.
+Guru ko ghaayal dekhkar Bhishma ko gahra pashchatap hua aur unhone swayam yuddh rok diya.
+Surya ast hote hi pehle din ka yuddh samapt ho gaya. """
             create_image_text_layout(
                 text_content=text2,
                 layout="full"
@@ -18097,7 +18557,30 @@ Iske baad Parashurama, Amba aur rishigan Kurukshetra pahunche, jahan itihaas ke 
 
         # Section 5.4.23
         with st.expander("Section 5.4.23  Section CLXXXIII"):
-            text1 = """ """
+            text1 = """ Section CLXXXIII – Bhishma Aur Parashurama Ka Dusra Din Ka Mahayuddh
+Dusre Din Ki Taiyari
+
+Bhishma ne Duryodhana se kaha,
+
+Pehle din ke yuddh ke baad mera saarathi—
+
+mere sharir se,
+mere ghodon ke sharir se,
+aur apne sharir se
+
+sabhi baan nikalne laga.
+
+Agli subah Surya ugte hi mere ghodon ko—
+
+nahlaaya gaya,
+dharti par lotne diya gaya,
+unki pyaas bujhai gayi,
+
+taaki ve phir se poori shakti se yuddh kar saken.
+
+Main kavach pehenkar rath par baitha aur yuddh ke liye nikla.
+
+Parashurama ne bhi apna divya rath taiyar kar liya. """
             create_image_text_layout(
                 "attached_assets/chapter5/5.4.23.jpg",
                 text1,
@@ -18105,7 +18588,186 @@ Iske baad Parashurama, Amba aur rishigan Kurukshetra pahunche, jahan itihaas ke 
                 image_position="left"
             )
 
-            text2 = """ """
+            text2 = """ Guru Ko Punah Pranam
+
+Jaise hi main Parashurama ke paas pahuncha,
+
+main phir se rath se utara.
+
+Guru ko pranam kiya.
+
+Aur phir dobara rath par chadhkar nishchint hokar yuddh ke liye khada ho gaya.
+
+Yeh dikhata hai ki yuddh ke beech bhi Bhishma ne guru maryada kabhi nahi chhodi.
+
+Teeron Ki Bhayanak Varsha
+
+Bhishma ne sabse pehle teeron ki bhari varsha ki.
+
+Parashurama ne bhi turant uska jawab diya.
+
+Dono taraf se itne baan chale ki aakash dhak gaya.
+
+Divya Astron Ka Prayog
+
+Parashurama ne ek ke baad ek divya astron ka prayog karna shuru kiya.
+
+Bhishma ne bhi unka samuchit pratikar kiya.
+
+Astra aur Pratyastra
+Bhishma	Parashurama
+Vayavya Astra	Guhyaka Astra se shant kiya
+Agneya Astra	Varuna Astra se bujhaya
+
+Isi prakar dono ek-doosre ke divya astron ko nirast karte rahe.
+
+Koi bhi kisi par prabhav nahi jama pa raha tha.
+
+Bhishma Behosh Hue
+
+Achanak Parashurama krodhit hokar daahini or ghoome aur ek prabal baan Bhishma ke vakshasthal par maara.
+
+Us prahar se Bhishma moorchhit ho gaye.
+
+Unke saarathi ne turant unhe yuddh-bhoomi se door le gaya.
+
+Yeh dekhkar—
+
+Akritavrana,
+anya rishi,
+aur Rajkumari Amba
+
+sab bahut prasann hue aur vijay ki dhvani karne lage.
+
+Bhishma Ka Turant Wapas Aana
+
+Kuch hi der mein Bhishma ko hosh aa gaya.
+
+Unhone saarathi se kaha,
+
+"Mujhe turant Rama ke paas le chalo."
+
+"Mera dard chala gaya hai."
+
+"Main phir yuddh ke liye taiyar hoon."
+
+Saarathi ne turant unhe wapas ranbhoomi mein pahucha diya.
+
+Rama Ki Adbhut Dhanurvidya
+
+Bhishma ne phir teeron ki varsha ki.
+
+Lekin Parashurama har ek baan ke badle teen baan chhodte.
+
+Aur Bhishma ke har baan ko beech aakash mein hi kaat dete.
+
+Sab rishi aur shishya is kala ko dekhkar prasann hue.
+
+Bhishma Ka Mahabaan
+
+Tab Bhishma ne mrityu-tulya ek divya baan nikala.
+
+Us baan ko Parashurama par chhoda.
+
+Vah baan itna prabal tha ki—
+
+Parashurama moorchhit hokar bhoomi par gir pade.
+
+Sampoorn Jagat Mein Kampan
+
+Jaise hi Parashurama bhoomi par gire,
+
+charon or se pukar uthi—
+
+"Haay!"
+
+"Alas!"
+
+Sab log ghabra gaye.
+
+Aisa pratit hua jaise Surya hi aakash se gir gaya ho.
+
+Rishi aur Amba turant unke paas pahunche.
+
+Unhone—
+
+jal se unka sharir thanda kiya,
+sparsh se santvana di,
+vijay ka aashvasan diya.
+
+Thodi der baad Parashurama uth khade hue.
+
+Rama Ka Pratighaat
+
+Uthte hi Parashurama ne kaha,
+
+"Ruko Bhishma!"
+
+"Tum ab mare hue ho."
+
+Aur turant ek prabal baan chhoda.
+
+Vah baan Bhishma ke baaye bhaag mein laga.
+
+Bhishma ka sharir zor se kaamp utha.
+
+Ghodon Ka Vadh
+
+Parashurama ne shaant man se Bhishma ke ghodon ko maar giraya.
+
+Saath hi unhone baanon ki bhayankar varsha kar di.
+
+Bhishma ne bhi ati teevr gati se baan chala kar us varsha ko rok diya.
+
+Aakash Baanon Se Bhar Gaya
+
+Dono ke baan itni sankhya mein the ki—
+
+poora aakash bhar gaya,
+Surya ki kirne dharti tak nahi pahunch pa rahi thi,
+hawa bhi baanon ke beech se nahi nikal pa rahi thi.
+
+Baan ek-doosre se takraane lage.
+
+Unke gharshan se aakash mein agni utpann ho gayi.
+
+Ant mein ve baan jal kar raakh ban gaye aur dharti par gir pade.
+
+Antim Teevr Sangram
+
+Parashurama ne krodh mein—
+
+sau,
+hazaar,
+lakh,
+karod
+
+baanon ki varsha kar di.
+
+Bhishma ne apne vish-dhar saapon jaise baanon se un sabko tukde-tukde kar diya.
+
+Har baan dharti par katkar girta gaya.
+
+Yuddh lagataar chalta raha.
+
+Dusre Din Ka Ant
+
+Jaise hi sandhya hone lagi,
+
+Parashurama swayam yuddh se peeche hat gaye.
+
+Aur dusre din ka yuddh bhi samaapt hua.
+
+Is Adhyay Ka Saar
+Dusre din dono punah poori taiyari ke saath yuddh ke liye aaye.
+Bhishma ne phir se guru Parashurama ko pranam kiya.
+Dono ne Vayavya, Guhyaka, Agneya aur Varuna jaise divya astron ka prayog kiya.
+Parashurama ke baan se Bhishma kuch samay ke liye moorchhit hue, lekin turant laut aaye.
+Bhishma ke divya baan se Parashurama bhi moorchhit hokar bhoomi par gir pade.
+Dono ne adbhut dhanurvidya ka pradarshan kiya aur ek-doosre ke baan aakash mein hi kaat diye.
+Baanon ki itni varsha hui ki Surya ki roshni aur hawa tak ruk gayi.
+Baanon ke gharshan se aakash mein agni utpann ho gayi.
+Sandhya hote hi Parashurama ne yuddh rok diya aur dusre din ka sangram samaapt hua. """
             create_image_text_layout(
                 text_content=text2,
                 layout="full"
@@ -18114,7 +18776,20 @@ Iske baad Parashurama, Amba aur rishigan Kurukshetra pahunche, jahan itihaas ke 
 
         # Section 5.4.24
         with st.expander("Section 5.4.24  Section CLXXXIV"):
-            text1 = """ """
+            text1 = """ Section CLXXXIV – Bhishma Aur Parashurama Ka Teesra Din Ka Mahayuddh
+Teesre Din Ka Yuddh
+
+Bhishma ne Duryodhana se kaha,
+
+Agle din phir se mera aur Bhagwan Parashurama ka bhayankar yuddh hua.
+
+Har din ki tarah is din bhi Parashurama naye-naye divya astron ka prayog karne lage.
+
+Ve apni jaan ki bhi parwah kiye bina poori shakti se lad rahe the.
+
+Bhishma bhi har divya astra ka uchit pratyastra se pratikar karte rahe.
+
+Is prakar Parashurama ka koi bhi astra safal nahi ho pa raha tha.    """
             create_image_text_layout(
                 "attached_assets/chapter5/5.4.24.jpg",
                 text1,
@@ -18122,7 +18797,166 @@ Iske baad Parashurama, Amba aur rishigan Kurukshetra pahunche, jahan itihaas ke 
                 image_position="left"
             )
 
-            text2 = """ """
+            text2 = """ Mahashakti (Divya Lance) Ka Prayog
+
+Jab Parashurama ne dekha ki unke sabhi astra roke ja rahe hain,
+
+tab unhone ek bhayankar divya shakti (lance) uthai.
+
+Uski visheshtayein—
+
+jalte hue ulka (meteor) jaisi,
+agni ki jwalon se prajwalit,
+Mrityu ke astra jaisi bhayankar,
+poore jagat ko prakashit karne wali.
+
+Ve us divya shakti ko Bhishma ki or phenkte hain.
+
+Bhishma Ka Pratikar
+
+Bhishma ne apne baanon se us divya shakti ko beech hi mein
+
+teen tukdon mein kaat diya.
+
+Jaise hi vah shakti nash hui,
+
+charon or sugandhit pavan chalne lagi.
+
+Yeh Bhishma ki vijay ka shubh sanket tha.
+
+Baarah Divya Shaktiyan
+
+Parashurama aur adhik krodhit ho gaye.
+
+Is baar unhone ek nahi,
+
+baarah divya shaktiyan ek saath chhod di.
+
+Bhishma kehte hain—
+
+Unka tej aur gati itni adbhut thi ki unka poora varnan karna sambhav nahi.
+
+Ve pralay ke samay ugne wale baarah suryon ki tarah chamak rahi thi.
+
+Unhe dekhkar Bhishma bhi kuch kshan ke liye chakit aur satark ho gaye.
+
+Bhishma Ne Sabko Nash Kiya
+
+Bhishma ne turant apne baanon ka jaal bana diya.
+
+Uske baad
+
+baarah baan chhodkar
+
+Parashurama ki sabhi baarah divya shaktiyon ko jalakar nash kar diya.
+
+Sone Se Saji Hui Divya Shaktiyan
+
+Parashurama ne phir—
+
+sone ke dand wali,
+sone ke pankhon se yukt,
+ulka ki tarah jalti hui
+
+anek divya shaktiyan Bhishma ki or chhod di.
+
+Bhishma ne is baar—
+
+dhal (shield),
+aur talwar (sword)
+
+ka prayog karke un sabko rok diya.
+
+Sabhi shaktiyan dharti par gir gayin.
+
+Rama Ke Rath Par Hamla
+
+Uske baad Bhishma ne teeron ki bhari varsha ki.
+
+Unhone—
+
+Parashurama ke ghodon ko,
+aur unke saarathi ko
+
+baanon se dhak diya.
+
+Parashurama Ka Divya Astra
+
+Yeh dekhkar Parashurama krodhit ho gaye.
+
+Unhone phir se divya astron ka sahara liya.
+
+Turant hi
+
+teeron ka itna bada baadal aaya
+
+ki—
+
+Bhishma,
+unka rath,
+ghode,
+saarathi
+
+sab poori tarah baanon se dhak gaye.
+
+Bhishma Ka Rath Toot Gaya
+
+Is bhayankar varsha ke karan—
+
+rath ka yoke,
+shaft,
+pahiye,
+aur wheel-spokes
+
+sab toot gaye.
+
+Bhishma ka rath lagbhag vinash ho gaya.
+
+Bhishma Ka Pratighaat
+
+Jab baanon ki varsha ruki,
+
+Bhishma ne turant jawab diya.
+
+Unhone apne guru Parashurama ko ghane baanon se dhak diya.
+
+Parashurama ka sharir anek sthanon se chhed diya gaya.
+
+Unke sharir se nirantar rakt bahne laga.
+
+Dono Veer Ghayal
+
+Bhishma ne Parashurama ko gambhir roop se ghayal kiya.
+
+Lekin Parashurama ne bhi Bhishma ko utna hi ghayal kar diya.
+
+Dono mahaan yoddha—
+
+teeron se bhed diye gaye,
+rakt se lathpath the,
+lekin kisi ne yuddh chhoda nahi.
+Sandhya Ke Saath Yuddh Samaapt
+
+Jab Surya pashchim ke parvaton ke peeche ast ho gaya,
+
+tab teesre din ka yuddh samaapt hua.
+
+Na Bhishma jeete,
+
+na Parashurama haare.
+
+Yuddh agle din ke liye sthagit kar diya gaya.
+
+Is Adhyay Ka Saar
+Teesre din Parashurama ne aur bhi adhik divya astron ka prayog kiya.
+Bhishma ne har astra ka safal pratikar kiya.
+Parashurama ki pralay-jaisi divya shakti ko Bhishma ne teen tukdon mein kaat diya.
+Baarah divya shaktiyan bhi Bhishma ne baanon se nash kar di.
+Bhishma ne dhal aur talwar se bhi shaktiyon ko roka.
+Parashurama ke baanon ne Bhishma ka rath tod diya.
+Bhishma ne pratyakraman karke Parashurama ko gambhir roop se ghayal kar diya.
+Dono taraf se bhari raktpaat hua, lekin koi nirnay nahi nikla.
+Surya ast hote hi teesre din ka yuddh samaapt ho gaya. """
             create_image_text_layout(
                 text_content=text2,
                 layout="full"
@@ -18131,7 +18965,16 @@ Iske baad Parashurama, Amba aur rishigan Kurukshetra pahunche, jahan itihaas ke 
 
         # Section 5.4.25
         with st.expander("Section 5.4.25  Section CLXXXV"):
-            text1 = """ """
+            text1 = """ Section CLXXXV – Bhishma Aur Parashurama Ka Chautha Din Aur 23 Din Tak Chala Mahayuddh
+Agle Din Ka Yuddh
+
+Bhishma ne Duryodhana se kaha,
+
+Agli subah Surya ke ugte hi mera aur Bhagwan Parashurama ka yuddh phir shuru hua.
+
+Parashurama apne tej-gati wale rath par khade hokar
+
+mere upar baadalon ki tarah teeron ki bhayankar varsha karne lage. """
             create_image_text_layout(
                 "attached_assets/chapter5/5.4.25.jpg",
                 text1,
@@ -18139,7 +18982,191 @@ Iske baad Parashurama, Amba aur rishigan Kurukshetra pahunche, jahan itihaas ke 
                 image_position="left"
             )
 
-            text2 = """ """
+            text2 = """ Bhishma Ke Saarathi Ki Mrityu
+
+Us teevr baan-varsha se mera priya saarathi gambhir roop se ghayal ho gaya.
+
+Vah apni jagah se hil gaya.
+
+Us par itne baan lage ki vah behosh hokar rath se neeche gir pada.
+
+Kuch hi der baad usne praan tyaag diye.
+
+Yeh dekhkar Bhishma ko gehra shok hua.
+
+Bhishma Par Ghatak Prahar
+
+Bhishma abhi apne saarathi ke shok mein hi the.
+
+Isi samay Parashurama ne avsar dekhkar
+
+ek prabal baan chhoda.
+
+Vah baan Bhishma ke vakshasthal ko bhedta hua nikal gaya.
+
+Bhishma bhi us baan ke prahar se bhoomi par gir pade.
+
+Parashurama Ko Laga Bhishma Mar Gaye
+
+Bhishma ko girte dekhkar Parashurama ne socha ki ve mar chuke hain.
+
+Ve zor-zor se garajne lage.
+
+Unke shishya aur saathiyon ne bhi harsh manaya.
+
+Doosri or
+
+sabhi Kaurav aur darshak atyant dukhi ho gaye.
+
+Aath Divya Brahmanon Ka Aagaman
+
+Jab Bhishma bhoomi par pade the,
+
+tab unhone dekha ki
+
+aath divya Brahman
+
+Surya aur Agni ke samaan tej se yukt
+
+unke chaaron or khade hain.
+
+Ve—
+
+Bhishma ko apni baahon mein sambhale hue the,
+unhe dharti ko chhoone nahi de rahe the,
+unpar jal chhidak rahe the,
+aur baar-baar keh rahe the—
+
+"Bhay mat karo."
+
+"Tumhara mangal ho."
+
+Unke aashirvaad se Bhishma phir khade ho gaye.
+
+Mata Ganga Ka Prakat Hona
+
+Bhishma ne dekha ki
+
+unki mata,
+
+Devi Ganga,
+
+unke rath par virajmaan hain.
+
+Saarathi ke marne ke baad
+
+vah swayam ghodon ko sambhal rahi thi.
+
+Ve—
+
+rath,
+ghode,
+aur yuddh ki saari vyavastha
+
+ki raksha kar rahi thi.
+
+Bhishma ne vinamrata se pranam kiya
+
+aur prarthana ki ki ve wapas laut jaayen.
+
+Ganga ne unki baat maan li.
+
+Iske baad Bhishma ne swayam ghodon ki lagaam sambhali.
+
+Bhishma Ka Pratighaat
+
+Bhishma ne phir se yuddh shuru kiya.
+
+Din ke ant tak ladte hue
+
+unhone ek ati shaktishaali baan chhoda.
+
+Vah baan seedha Parashurama ke hriday ko bhed gaya.
+
+Us prahar se—
+
+Parashurama ka dhanush haath se chhoot gaya,
+ve ghutnon ke bal gir pade,
+aur moorchhit ho gaye.
+Bhayanak Ashubh Sanket
+
+Jaise hi Parashurama bhoomi par gire,
+
+prakriti mein anek adbhut ghatnayein hone lagi.
+
+Aakash mein khoon ki varsha hone lagi.
+Sau-sau ulkaayein girne lagi.
+Garjan hone lage.
+Dharti kaamp uthi.
+Rahu ne Surya ko dhak liya.
+Tez aandhiyaan chalne lagi.
+Giddh, kauwe aur bagule mandrane lage.
+Siyar zor-zor se cheekhne lage.
+Bina bajaye nagade swayam bajne lage.
+Dishaayein agni se jalti hui si dikhne lagi.
+
+Yeh sab maha-ashubh sanket the.
+
+Parashurama Phir Khade Hue
+
+Kuch hi der baad
+
+Parashurama hosh mein aa gaye.
+
+Krodh se unki buddhi prabhavit ho chuki thi.
+
+Ve turant phir se dhanush lekar Bhishma ki or badhe.
+
+Bhishma ne unke har prahar ka safalta se pratikar kiya.
+
+Antim Astra
+
+Bhishma ne pralayagni ke samaan tej wala ek aur divya baan uthaya.
+
+Lekin
+
+Parashurama ne uska bhi pratikar kar diya.
+
+Koi bhi nirnay nahi nikla.
+
+Din Ka Ant
+
+Tab tak—
+
+dhool se Surya ka tej dheema pad gaya,
+Surya pashchim ki or ast hone laga,
+sheetal sandhya aa gayi.
+
+Dono mahan yoddha us din ka yuddh rok kar alag ho gaye.
+
+Yuddh Kitne Din Chala?
+
+Bhishma batate hain ki—
+
+Yeh mahabhayankar yuddh lagataar 23 din tak chalta raha.
+
+Har din—
+
+Surya ugte hi yuddh shuru hota,
+Surya ast hote hi samaapt ho jata.
+
+Lekin
+
+23 din tak bhi na Bhishma jeet sake, na Parashurama.
+
+Dono hi aparajeya siddh hue.
+
+Is Adhyay Ka Saar
+Chauthe din Parashurama ne bhayankar baan-varsha ki.
+Bhishma ke saarathi ki mrityu ho gayi.
+Parashurama ke baan se Bhishma bhi bhoomi par gir pade.
+Aath divya Brahmanon ne Bhishma ko sambhala aur aashirvaad diya.
+Mata Ganga swayam Bhishma ke rath aur ghodon ki raksha karne aayi.
+Bhishma ne swayam lagaam sambhal kar yuddh jaari rakha.
+Bhishma ke baan se Parashurama moorchhit hokar ghutnon par gir pade.
+Is ghatna ke samay anek bhayankar ashubh shakun prakat hue.
+Parashurama phir uthkar lade, lekin koi nirnay nahi hua.
+Bhishma batate hain ki unka aur Parashurama ka yuddh kul 23 din tak chala. """
             create_image_text_layout(
                 text_content=text2,
                 layout="full"
@@ -18148,7 +19175,22 @@ Iske baad Parashurama, Amba aur rishigan Kurukshetra pahunche, jahan itihaas ke 
 
         # Section 5.4.26
         with st.expander("Section 5.4.26  Section CLXXXVI"):
-            text1 = """ """
+            text1 = """ Section CLXXXVI – Bhishma Ko Swapn Mein Divya Astra Ka Gyaan
+23 Din Ke Yuddh Ke Baad
+
+Bhishma ne Duryodhana se kaha,
+
+Lagataar 23 din tak Parashurama ke saath bhayankar yuddh karne ke baad bhi koi nirnay nahi nikla.
+
+Us raat Bhishma ne—
+
+Brahmanon ko pranam kiya,
+Rishiyon ko pranam kiya,
+Devtaon ko pranam kiya,
+Raat mein ghoomne wale sabhi praaniyon ko pranam kiya,
+Aur prithvi ke sabhi rajaon ko bhi naman kiya.
+
+Uske baad ve apne kaksh mein akele so gaye. """
             create_image_text_layout(
                 "attached_assets/chapter5/5.4.26.jpg",
                 text1,
@@ -18156,7 +19198,127 @@ Iske baad Parashurama, Amba aur rishigan Kurukshetra pahunche, jahan itihaas ke 
                 image_position="left"
             )
 
-            text2 = """ """
+            text2 = """ Bhishma Ki Chinta
+
+Sote samay Bhishma man hi man sochne lage—
+
+"Itne dinon se mera aur Bhagwan Parashurama ka yuddh chal raha hai."
+
+"Lekin main unhe hara nahi pa raha hoon."
+
+Phir Bhishma ne prarthana ki—
+
+"Yadi main vastav mein Parashurama ko yuddh mein parajit kar sakta hoon, to Devta kripaya mujhe iska upay batayen."
+
+Swapn Mein Divya Brahmanon Ka Darshan
+
+Raat ke antim prahar mein,
+
+Bhishma ko swapn aaya.
+
+Unhone dekha—
+
+vahii aath divya Brahman unke saamne khade hain,
+
+jo pehle yuddh ke dauran unhe girne par sambhal chuke the.
+
+Ve Bhishma ke chaaron or khade hokar bole—
+
+"He Ganga-putra, bhay mat karo."
+
+"Hum tumhari raksha karenge."
+
+"Tum hamare hi svaroop ho."
+
+Bhavishyavani
+
+Un divya Brahmanon ne kaha—
+
+"Parashurama kabhi bhi tumhe yuddh mein hara nahi sakenge."
+
+"Ant mein vijay tumhari hi hogi."
+
+Prasvapa Astra Ka Rahasya
+
+Phir unhone Bhishma ko ek gupt divya astra ke baare mein bataya.
+
+Us astra ka naam tha—
+
+Prasvapa Astra
+
+Iske baare mein unhone kaha—
+
+Yeh Prajapati (srishti ke Swami) ka divya astra hai.
+Iska nirmaan Dev Shilpi Vishvakarma ne kiya tha.
+Yeh kisi bhi manushya ko nahi pata.
+Bhagwan Parashurama bhi is astra ko nahi jaante.
+Bhishma ise apne poorv janm mein jaante the.
+Ab samay aa gaya hai ki ve ise phir se yaad karein.
+Astra Ka Prabhav
+
+Brahmanon ne bataya—
+
+Yeh astra kisi ko maarta nahi hai.
+
+Iska prabhav hai—
+
+jis par iska prayog hota hai,
+
+vah gehri nidra (sleep) mein chala jata hai.
+
+Isliye—
+
+Bhishma par koi paap bhi nahi lagega,
+
+kyunki Parashurama ki mrityu nahi hogi.
+
+Samvodhana Astra
+
+Brahmanon ne aage kaha—
+
+Jab Parashurama Prasvapa Astra se so jayenge,
+
+tab tum
+
+Samvodhana Astra
+
+ka prayog karke unhe phir se jaga dena.
+
+Is prakar—
+
+tum vijayi bhi ho jaoge,
+aur guru ka vadh bhi nahi hoga.
+Antim Nirdesh
+
+Aathon Brahmanon ne kaha—
+
+"Subah rath par baithkar isi Prasvapa Astra ka prayog karna."
+
+"Yeh astra swayam tumhari smriti mein aa jayega."
+
+"Nidra aur mrityu lagbhag samaan hi hain."
+
+"Parashurama marenge nahi, keval so jayenge."
+
+Swapn Samaapt
+
+Yeh sab kehkar
+
+vah aath divya Brahman
+
+apne tej ke saath
+
+Bhishma ki drishti se antardhyan ho gaye.
+
+Is Adhyay Ka Saar
+23 din ke yuddh ke baad bhi Bhishma aur Parashurama mein koi nirnay nahi nikla.
+Bhishma ne raat ko devtaon aur rishiyon ko pranam karke sahayata ki prarthana ki.
+Swapn mein wahi aath divya Brahman prakat hue jinhone pehle Bhishma ko sambhala tha.
+Unhone ashvasan diya ki Parashurama Bhishma ko kabhi parajit nahi kar sakenge.
+Unhone Bhishma ko gupt Prasvapa Astra ki yaad dilayi.
+Yeh astra maarne ke liye nahi, balki shatru ko gehri nidra mein daalne ke liye tha.
+Iske baad Samvodhana Astra se Parashurama ko jagaya ja sakta tha.
+Brahmanon ne Bhishma ko agle din isi astra ka prayog karne ka nirdesh diya aur phir antardhyan ho gaye. """
             create_image_text_layout(
                 text_content=text2,
                 layout="full"
@@ -18165,7 +19327,22 @@ Iske baad Parashurama, Amba aur rishigan Kurukshetra pahunche, jahan itihaas ke 
 
         # Section 5.4.27
         with st.expander("Section 5.4.27  Section CLXXXVII"):
-            text1 = """ """
+            text1 = """ Section CLXXXVII – Bhishma Aur Parashurama Ke Mahayuddh Ka Nirnayak Mod
+Naye Din Ki Shuruaat
+
+Bhishma ne Duryodhana se kaha,
+
+Raat beetne ke baad jab main utha,
+
+to mujhe pichhli raat ka swapn yaad aaya.
+
+Aath divya Brahmanon dwara diya gaya aashirvaad aur Prasvapa Astra ka rahasya yaad karke mera hriday utsaah se bhar gaya.
+
+Phir ek baar mera aur Bhagwan Parashurama ka bhayankar yuddh shuru hua.
+
+Yeh sangram itna bhayanak tha ki
+
+sabhi praaniyon ke rom khade ho gaye. """
             create_image_text_layout(
                 "attached_assets/chapter5/5.4.27.jpg",
                 text1,
@@ -18173,7 +19350,169 @@ Iske baad Parashurama, Amba aur rishigan Kurukshetra pahunche, jahan itihaas ke 
                 image_position="left"
             )
 
-            text2 = """ """
+            text2 = """ Teeron Ki Varsha
+
+Parashurama ne mere upar baanon ki bhari varsha ki.
+
+Maine bhi utni hi teevr baan-varsha se uska pratikar kiya.
+
+Dono taraf se nirantar teer chal rahe the.
+
+Vajra Jaisi Divya Shakti
+
+Pichhle dinon ke yuddh se krodhit hokar,
+
+Parashurama ne ek bhayankar divya shakti (dart) uthai.
+
+Vah—
+
+Indra ke Vajra jaisi kathor thi,
+Yamraj ke gada ke samaan bhayankar thi,
+Agni ki jwala ki tarah jal rahi thi,
+aur poore ranbhoomi ko prakashit kar rahi thi.
+
+Vah shakti seedhi Bhishma ke kandhe par aa lagi.
+
+Bhishma Ghayal Hue
+
+Us prahar se Bhishma ka rakt pahad se behne wali laal mitti ki dhaar ki tarah bahne laga.
+
+Lekin Bhishma ne turant jawab diya.
+
+Unhone ek vish-dhar saamp ke zehar jaisa ghatak baan chhoda.
+
+Vah baan Parashurama ke mastak par laga.
+
+Parashurama us prahar se aise dikhne lage
+
+jaise kisi parvat ki choti par laal shikhar chamak raha ho.
+
+Parashurama Ka Ghatak Prahar
+
+Krodhit hokar Parashurama ne apni sthiti badli.
+
+Phir poori shakti se dhanush khinchkar
+
+Mrityu ke samaan bhayankar ek baan chhoda.
+
+Vah baan sissiyaahat karta hua Bhishma ke vakshasthal mein laga.
+
+Bhishma rakt se lathpath hokar bhoomi par gir pade.
+
+Bhishma Ka Pratyakraman
+
+Kuch hi der baad Bhishma ko hosh aa gaya.
+
+Unhone turant ek divya shakti (dart) uthai,
+
+jo Vajra ke samaan tej se yukt thi.
+
+Vah seedhi Parashurama ke hriday par ja lagi.
+
+Is prahar se Parashurama bhi kampne lage
+
+aur kuch samay ke liye moorchhit ho gaye.
+
+Akritavrana Ne Bachaya
+
+Parashurama ke priya mitra aur tapasvi
+
+Akritavrana
+
+turant unke paas aaye.
+
+Unhone Parashurama ko sambhala,
+
+gale lagaya,
+
+aur santvana dekar phir se yuddh ke liye taiyar kiya.
+
+Brahmastra Ka Prayog
+
+Ab Parashurama atyant krodhit ho gaye.
+
+Unhone
+
+Brahmastra
+
+ka aahvaan kiya.
+
+Bhishma ne bhi uska pratikar karne ke liye
+
+Brahmastra
+
+ka hi prayog kiya.
+
+Brahmastron Ki Takraar
+
+Dono Brahmastra
+
+aakash ke beech takra gaye.
+
+Ve itne prachand tej se jalne lage
+
+ki pralay ka drishya prakat ho gaya.
+
+Lekin—
+
+ve na Bhishma tak pahunche,
+
+na Parashurama tak.
+
+Dono madhya-aakash mein hi ek-doosre ko rok kar jalte rahe.
+
+Vishva Mein Vinash Ka Sanket
+
+In dono Brahmastron ke takraane se—
+
+poora aakash agni se bhar gaya,
+dason dishaon mein dhuaan chha gaya,
+dharti, parvat aur samudra kaampne lage,
+ped-paudhe hilne lage,
+sabhi prani peedit ho gaye,
+Devta, Rishi aur Gandharv bhi chintit ho gaye,
+aakash mein udne wale jeev bhi apni jagah par tik nahi pa rahe the.
+
+Poora brahmand sankat mein aa gaya.
+
+Nirnayak Kshan
+
+Jab Bhishma ne dekha ki
+
+Devta,
+Asur,
+Rakshas,
+aur sabhi lok
+
+is vinash ko dekhkar vyakul ho rahe hain,
+
+tab unhone socha—
+
+"Ab wahi samay aa gaya hai."
+
+Unhe turant
+
+swapn mein aath divya Brahmanon ki baat yaad aa gayi.
+
+Unke dwara bataye gaye
+
+Prasvapa Astra
+
+ke mantra bhi achanak unki smriti mein prakat ho gaye.
+
+Bhishma ne us divya astra ka prayog karne ka nishchay kar liya.
+
+Yahi is adhyay ka sabse mahatvapurn mod hai.
+
+Is Adhyay Ka Saar
+Bhishma ko swapn mein mila Prasvapa Astra yaad aa gaya.
+Parashurama ne Vajra samaan divya shakti se Bhishma ko ghayal kiya.
+Bhishma ne pratyakraman karke Parashurama ko bhi moorchhit kar diya.
+Akritavrana ne Parashurama ko sambhala.
+Dono ne Brahmastra ka prayog kiya.
+Dono Brahmastra aakash mein takra gaye aur pralay jaisi sthiti utpann ho gayi.
+Devta, Rishi aur sabhi prani bhay se vyakul ho gaye.
+Isi samay Bhishma ne Prasvapa Astra ka prayog karne ka nishchay kiya, jiska upadesh unhe swapn mein divya Brahmanon ne diya tha. """
             create_image_text_layout(
                 text_content=text2,
                 layout="full"
@@ -18182,7 +19521,22 @@ Iske baad Parashurama, Amba aur rishigan Kurukshetra pahunche, jahan itihaas ke 
 
         # Section 5.4.28
         with st.expander("Section 5.4.28  Section CLXXXVIII"):
-            text1 = """ """
+            text1 = """ Section CLXXXVIII – Bhishma Aur Parashurama Ka Mahayuddh Samaapt
+Bhishma Prasvapa Astra Chhodne Hi Wale The
+
+Bhishma ne Duryodhana se kaha,
+
+Jab mujhe swapn mein bataya gaya Prasvapa Astra yaad aa gaya,
+
+tab maine nishchay kar liya ki ab iska prayog karunga.
+
+Jaise hi maine us divya astra ko chhodne ki taiyari ki,
+
+achanak aakash mein zor ki divya awaaz gunj uthi—
+
+"He Kuruvanshi! Prasvapa Astra ka prayog mat karo!"
+
+Lekin iske baad bhi Bhishma ne astra ko Parashurama ki or lakshit rakha. """
             create_image_text_layout(
                 "attached_assets/chapter5/5.4.28.jpg",
                 text1,
@@ -18190,7 +19544,228 @@ Iske baad Parashurama, Amba aur rishigan Kurukshetra pahunche, jahan itihaas ke 
                 image_position="left"
             )
 
-            text2 = """ """
+            text2 = """ Narada Ka Aagaman
+
+Isi samay Devarshi Narada prakat hue.
+
+Unhone Bhishma se kaha—
+
+"Dekho, sabhi Devta tumhe rok rahe hain."
+
+"Prasvapa Astra ka prayog mat karo."
+
+"Parashurama ek mahan tapasvi aur tumhare Guru hain."
+
+"Apne Guru ka apmaan mat karo."
+
+Aath Divya Brahman Dobara Prakat Hue
+
+Narada ke bolte hi
+
+Bhishma ne wahi
+
+aath divya Brahman
+
+aakash mein dekhe.
+
+Ve muskurakar bole—
+
+"Narada jo keh rahe hain, wahi karo."
+
+"Yahi sabhi lokon ke hit mein hai."
+
+Bhishma Ne Astra Wapas Le Liya
+
+Bhishma ne turant
+
+Prasvapa Astra ko wapas le liya.
+
+Uske baad ve saamanya Brahma Astra ke saath hi yuddh karne lage.
+
+Parashurama Ne Haar Sweekar Ki
+
+Jab Parashurama ne dekha ki
+
+Bhishma ne Prasvapa Astra rok liya,
+
+tab ve gambhir bhavna se bole—
+
+"Haay!"
+
+"Bhishma, main parajit ho gaya."
+
+Yeh Parashurama dwara Bhishma ki shakti ko sweekar karna tha.
+
+Parashurama Ke Pitron Ka Aagaman
+
+Tab Parashurama ne dekha ki
+
+unke pita
+
+Jamadagni
+
+aur unke poorvaj (Pitri)
+
+unke saamne khade hain.
+
+Unhone Parashurama se kaha—
+
+"Ab aur yuddh mat karo."
+
+"Brahman ka kartavya shastra nahi, shastra (Veda) hai."
+
+"Tapasya aur Veda adhyayan hi tumhari asli sampatti hai."
+
+Unhone yaad dilaya ki—
+
+Kshatriyon ka vinash karna ek vishesh uddeshya ke liye tha,
+
+lekin ab uska samay samaapt ho chuka hai.
+
+Bhishma Ko Harana Sambhav Nahi
+
+Pitron ne kaha—
+
+"Bhishma ko tum nahi hara sakte."
+
+Kyunki—
+
+Bhishma Aath Vasuon mein se ek ka avataar hain.
+Devta swayam unki raksha kar rahe hain.
+
+Aur sabse mahatvapurn baat batayi—
+
+"Bhishma ka vadh tumhare dwara nahi hoga."
+
+"Unka vadh bhavishya mein Arjuna ke haathon nirdharit hai."
+
+Yeh pehli baar spasht roop se bataya gaya ki
+
+Bhishma ka antim vinash Arjuna hi karega.
+
+Parashurama Ka Uttar
+
+Parashurama ne kaha—
+
+"Main apni pratigya todkar yuddh nahi chhod sakta."
+
+"Main kabhi bhi ranbhoomi se peeth dikha kar nahi gaya."
+
+Unhone Pitron se kaha—
+
+"Yadi sambhav ho to Bhishma ko hi yuddh rokne ke liye manao."
+
+Rishi Bhishma Ke Paas Aaye
+
+Tab—
+
+Narada,
+Richika,
+anya Maharishi,
+
+sab Bhishma ke paas aaye.
+
+Unhone kaha—
+
+"Yuddh rok do."
+
+"Apne Guru ka samman karo."
+
+Bhishma Ka Uttar
+
+Bhishma ne vinamrata se kaha—
+
+"Meri bhi pratigya hai."
+
+"Main kabhi peeth dikha kar yuddh nahi chhodunga."
+
+"Na lalach, na bhay, na kasht, na dhan ke liye main apna Kshatriya Dharma chhod sakta hoon."
+
+Bhishma bhi apni pratigya par atal rahe.
+
+Mata Ganga Aur Rishiyon Ka Madhyasth Hona
+
+Tab—
+
+Mata Ganga,
+Narada,
+anya Rishi,
+Pitri,
+
+sabhi dono mahan yoddhaon ke beech aa gaye.
+
+Unhone Parashurama se kaha—
+
+"Bhishma tumse nahi marenge."
+
+"Tum bhi Bhishma se nahi maroge."
+
+"Ab yuddh samaapt karo."
+
+Parashurama Ne Astra Rakh Diya
+
+Pitron aur Rishiyon ki baat maan kar
+
+Parashurama ne apne astra-shastra neeche rakh diye.
+
+Unhone yuddh rok diya.
+
+Bhishma Ne Guru Ka Samman Kiya
+
+Jab Bhishma ne dekha ki
+
+Parashurama ne yuddh chhod diya hai,
+
+to ve bhi turant
+
+apna dhanush rakhkar
+
+Guru ke paas gaye.
+
+Unhone Parashurama ke charanon mein pranam kiya.
+
+Parashurama Ka Aashirvaad
+
+Parashurama muskura kar bole—
+
+"Prithvi par tumhare samaan koi Kshatriya nahi hai."
+
+"Bhishma, tumne is yuddh mein mujhe bahut prasann kiya hai."
+
+Yeh Parashurama dwara Bhishma ki poorn veerta aur mahanta ka sarvajanik sweekar tha.
+
+Amba Ko Bulaya Gaya
+
+Iske baad
+
+Parashurama ne
+
+Rajkumari Amba ko apne saamne bulaya.
+
+Ve dukhi the,
+
+kyunki itne bade yuddh ke baad bhi
+
+Amba ka uddeshya poora nahi hua tha.
+
+Ab ve usse aage kya karna hai,
+
+yeh batane wale the.
+
+(Yahi se agle adhyay ki shuruaat hoti hai.)
+
+Is Adhyay Ka Saar
+Bhishma Prasvapa Astra ka prayog karne hi wale the.
+Devta aur Devarshi Narada ne unhe rok diya.
+Aath divya Brahmanon ne bhi Narada ki baat maanane ko kaha.
+Bhishma ne Prasvapa Astra wapas le liya.
+Parashurama ne Bhishma ki shakti sweekar karte hue apni parajay maan li.
+Jamadagni aur Pitron ne Parashurama ko yuddh rokne ka aadesh diya.
+Unhone bataya ki Bhishma Vasu hain aur unka vadh bhavishya mein Arjuna ke dwara hoga.
+Narada, Mata Ganga aur Rishiyon ne dono ke beech madhyasthata ki.
+Parashurama ne astra rakh diye aur Bhishma ne Guru ko pranam kiya.
+Parashurama ne Bhishma ko prithvi ka sarvashreshth Kshatriya kaha.
+Ant mein Parashurama ne Amba ko bulaya, jisse uske bhavishya ka agla adhyay shuru hota hai. """
             create_image_text_layout(
                 text_content=text2,
                 layout="full"
@@ -18199,7 +19774,14 @@ Iske baad Parashurama, Amba aur rishigan Kurukshetra pahunche, jahan itihaas ke 
 
         # Section 5.4.29
         with st.expander("Section 5.4.29  Section CLXXXIX"):
-            text1 = """ """
+            text1 = """  Section CLXXXIX – Amba Ki Tapasya Aur Bhishma Ke Vinash Ka Sankalp
+Parashurama Ne Amba Se Kaha
+
+Yuddh samaapt hone ke baad Parashurama ne Amba se kaha—
+
+"Maine sabke saamne apni poori shakti laga di."
+
+"Maine sabse shreshth divya astron ka bhi prayog kiya." """
             create_image_text_layout(
                 "attached_assets/chapter5/5.4.29.jpg",
                 text1,
@@ -18207,7 +19789,254 @@ Iske baad Parashurama, Amba aur rishigan Kurukshetra pahunche, jahan itihaas ke 
                 image_position="left"
             )
 
-            text2 = """ """
+            text2 = """ "Lekin main Bhishma ko hara nahi saka."
+
+Iske baad unhone kaha—
+
+"Ab tum jahan chaho ja sakti ho."
+
+"Main tumhare liye aur kya kar sakta hoon?"
+
+Aur phir unhone ek aashcharyajanak baat kahi—
+
+"Ab tum Bhishma ki hi sharan lo."
+
+"Unke sivay tumhara koi aur aashray nahi hai."
+
+Yeh kehkar Parashurama chup ho gaye.
+
+Amba Ne Bhishma Ke Paas Lautne Se Inkaar Kar Diya
+
+Amba ne shaant lekin dridh swar mein kaha—
+
+"Aapne apni poori shakti laga di."
+
+"Devta bhi Bhishma ko yuddh mein nahi hara sakte."
+
+"Main dobara kabhi Bhishma ke paas nahi jaungi."
+
+Usne pratigya ki—
+
+"Main aisa upay khojungi jisse main swayam Bhishma ka vadh kar sakun."
+
+Isi kshan se
+
+Amba ka poora jeevan
+
+sirf ek lakshya ke liye samarpit ho gaya—
+
+Bhishma ka vinash.
+
+Parashurama Aur Bhishma Apne-Apne Marg Par Laut Gaye
+
+Parashurama
+
+Rishiyon ke saath
+
+Mahendra Parvat laut gaye.
+
+Bhishma
+
+Hastinapura lautkar
+
+Mata Satyavati ko poori ghatna sunayi.
+
+Satyavati ne unhe aashirvad diya.
+
+Bhishma Ne Guptachar Lagaye
+
+Bhishma ne buddhiman guptachar (spies) niyukt kiye.
+
+Unka kaam tha—
+
+Amba kahan ja rahi hai,
+kya kar rahi hai,
+kis prakar ki tapasya kar rahi hai,
+
+iski roj jaankari Bhishma ko dena.
+
+Bhishma Ka Antarik Dukh
+
+Yadyapi Bhishma vijayi hue the,
+
+phir bhi unke mann mein shanti nahi thi.
+
+Ve andar hi andar dukhi the.
+
+Unhone Narada aur Vedavyasa se apni chinta kahi.
+
+Narada Aur Vyasa Ka Uttar
+
+Dono Maharishi bole—
+
+"Amba ke liye chinta mat karo."
+
+"Bhagya (Destiny) ko koi vyakti apni shakti se nahi badal sakta."
+
+Amba Ki Bhayanak Tapasya
+
+Amba ne kathor se kathor tapasya shuru kar di.
+
+Pehla Charan
+Chhe mahine tak sirf hawa par jeevit rahi.
+Bilkul sthir khadi rahi.
+Doosra Charan
+
+Poora ek varsh
+
+Yamuna ke jal mein khadi hokar tapasya ki.
+
+Teesra Charan
+
+Agla poora varsh
+
+sirf pairon ke anguthon par khadi rahi.
+
+Aur—
+
+din bhar mein
+
+sirf ek gira hua patta khaya.
+
+Barah Varsh Ki Tapasya
+
+Is prakar
+
+lagatar 12 varsh
+
+usne itni kathor tapasya ki
+
+ki swarg tak uski tapasya ki tapish pahunch gayi.
+
+Tirtha Yatra
+
+Amba ne anek pavitra sthalon ka bhraman kiya.
+
+Mahabharat mein ullekhit sthalon mein shamil hain—
+
+Vatsabhumi
+Narada Ashram
+Uluka Ashram
+Chyavana Ashram
+Brahmana Tirtha
+Prayag
+Devavana
+Bhogavati
+Vishvamitra Ashram
+Mandavya Ashram
+Dilipa Ashram
+Rama Hrada
+Garga Ashram
+
+Har jagah—
+
+snan,
+vrat,
+tapasya,
+aur Bhishma-vadh ka sankalp
+
+jaari raha.
+
+Mata Ganga Se Bhent
+
+Ek din
+
+Bhishma ki mata
+
+Devi Ganga
+
+ne Amba se poocha—
+
+"Tum apne sharir ko itna kasht kyun de rahi ho?"
+
+Amba Ka Uttar
+
+Amba boli—
+
+"Parashurama bhi Bhishma ko nahi hara sake."
+
+"Ab main tapasya kar rahi hoon taaki Bhishma ka vadh kar sakun."
+
+"Mere sabhi vrat aur tapasya ka ek hi uddeshya hai—Bhishma ka vinash."
+
+Ganga Ka Shraap
+
+Yeh sunkar Devi Ganga boli—
+
+"Tum tedhe marg par chal rahi ho."
+
+"Tumhara yeh sankalp poora nahi hoga."
+
+Aur unhone shraap diya—
+
+"Yadi isi bhavna ke saath tum sharir chhodogi, to agle janm mein ek nadi banogi."
+
+Us shraap ke anusaar—
+
+nadi tedhi-medhi hogi,
+sirf varsha ritu mein paani rahega,
+saal ke aath mahine sookhi rahegi,
+usmein bhayanak magarmachh honge,
+log uske paas aane se bhi darenge.
+Amba Ne Tapasya Nahi Chhodi
+
+Ganga ke shraap ke baad bhi
+
+Amba ne tapasya nahi chhodi.
+
+Kabhi—
+
+8 mahine bina bhojan aur paani,
+kabhi 10 mahine tak upvaas,
+
+karte hue
+
+vah nirantar Bhishma-vadh ke sankalp mein lagi rahi.
+
+Vatsabhumi Mein Shraap Ka Prabhav
+
+Antatah
+
+Vatsabhumi mein
+
+Ganga ka shraap satya hua.
+
+Amba ka—
+
+aadha sharir ek nadi ban gaya.
+
+Us nadi ki visheshtayein thi—
+
+tedha pravah,
+sirf barsaat mein jal,
+magarmachhon se bhari,
+pahunchne mein kathin.
+
+Lekin—
+
+uska doosra aadha bhaag ek kanya ke roop mein bana raha.
+
+Is prakar
+
+vah ek saath
+
+aadhi nadi
+
+aur
+
+aadhi rajkumari bani rahi.
+
+Is Adhyay Ka Saar
+Parashurama ne sweekar kiya ki ve Bhishma ko hara nahi sake.
+Unhone Amba ko Bhishma ki sharan lene ko kaha.
+Amba ne ise thukra diya aur swayam Bhishma ka vadh karne ka sankalp liya.
+Bhishma Hastinapura laut aaye aur Amba par nazar rakhne ke liye guptachar niyukt kiye.
+Narada aur Vedavyasa ne Bhishma ko bhagya par vishwas rakhne ko kaha.
+Amba ne 12 varsh tak atyant kathin tapasya ki.
+Usne anek pavitra tirthon ka bhraman kiya.
+Devi Ganga ne usse Bhishma-vadh ka sankalp chhodne ko kaha aur shraap diya.
+Shraap ke prabhav se Vatsabhumi mein Amba ka aadha sharir ek mausami nadi ban gaya, jabki aadha sharir kanya ke roop mein bana raha.
+Phir bhi Amba ka Bhishma ke vinash ka sankalp nahi toota. """
             create_image_text_layout(
                 text_content=text2,
                 layout="full"
@@ -18216,7 +20045,14 @@ Iske baad Parashurama, Amba aur rishigan Kurukshetra pahunche, jahan itihaas ke 
 
         # Section 5.4.30
         with st.expander("Section 5.4.30  Section CXC"):
-            text1 = """ """
+            text1 = """ Section CXC – Shiva Ka Vardaan Aur Amba Ka Agni-Pravesh
+Rishiyon Ne Amba Ko Samjhaya
+
+Vatsabhumi mein tapasya kar rahi Amba ko dekhkar wahan ke Rishiyon ne poocha—
+
+"Tum itni kathor tapasya kis liye kar rahi ho?"
+
+Unhone use samjhane ki bhi koshish ki. """
             create_image_text_layout(
                 "attached_assets/chapter5/5.4.30.jpg",
                 text1,
@@ -18224,7 +20060,155 @@ Iske baad Parashurama, Amba aur rishigan Kurukshetra pahunche, jahan itihaas ke 
                 image_position="left"
             )
 
-            text2 = """ """
+            text2 = """ Amba Ne Apna Sankalp Bataya
+
+Amba ne dridh swar mein kaha—
+
+"Bhishma ne meri zindagi barbaad kar di."
+
+Usne kaha—
+
+Bhishma ke karan main pati ka sukh nahi paa saki.
+Na main grihastha ban saki.
+Na mujhe stri ke roop mein samman mila.
+Mera jeevan adhura ho gaya.
+
+Phir usne apni pratigya dohrayi—
+
+"Meri tapasya swarg paane ke liye nahi hai."
+
+"Mera ek hi lakshya hai—Bhishma ka vinash."
+
+Aur usne kaha—
+
+"Jab tak main Bhishma ko yuddh mein nahi maarungi, tab tak main shanti nahi paungi."
+
+Purush Banne Ki Ichchha
+
+Amba ne kaha—
+
+"Ab mujhe stri roop nahi chahiye."
+
+"Main purush banna chahti hoon."
+
+Kyunki uske anusar—
+
+sirf purush roop mein hi
+
+vah Bhishma ka saamna yuddh mein kar sakti thi.
+
+Bhagwan Shiva Prakat Hue
+
+Amba ki kathor tapasya se prasann hokar
+
+Bhagwan Shiva
+
+svayam prakat hue.
+
+Unhone Amba se kaha—
+
+"Var maango."
+
+Amba ne turant kaha—
+
+"Mujhe Bhishma ki haar chahiye."
+
+Shiva Ka Vardaan
+
+Bhagwan Shiva bole—
+
+"Tum Bhishma ka vadh karogi."
+
+Amba hairan hokar boli—
+
+"Main to ek stri hoon."
+
+"Main Bhishma jaise mahan yoddha ko kaise hara sakti hoon?"
+
+Tab Shiva ne apna divya vardaan diya—
+
+1. Bhishma Ka Vadh Tumhare Dwara Hoga
+
+"Mere vachan kabhi mithya nahi hote."
+
+"Tum hi Bhishma ka vinash karogi."
+
+2. Agle Janm Mein Purush Banogi
+
+Shiva ne kaha—
+
+"Tum agle janm mein Drupada ke vansh mein janm logi."
+
+Aur—
+
+"Kuch samay baad tum purush ban jaogi."
+
+3. Sab Kuch Yaad Rahega
+
+Shiva ne ek aur adbhut vardaan diya—
+
+"Naya sharir milne ke baad bhi tumhe is janm ki saari ghatnayein yaad rahengi."
+
+Yeh Mahabharata mein bahut hi virla vardaan maana jata hai.
+
+4. Maha Yoddha Banogi
+
+Shiva ne kaha—
+
+tum Maharatha banogi,
+shastron mein nipun hogi,
+bhayanak yoddha banogi,
+aur ant mein Bhishma ka vinash karogi.
+
+Yeh sab nishchit hai.
+
+Shiva Antardhyan Ho Gaye
+
+Apna vardaan dekar
+
+Bhagwan Shiva
+
+Rishiyon ke saamne hi antardhyan ho gaye.
+
+Amba Ka Agni-Pravesh
+
+Ab Amba ko apna bhavishya pata chal chuka tha.
+
+Usne jungle se lakdiyan ikatthi ki.
+
+Yamuna ke kinare
+
+ek vishal chita banayi.
+
+Usne swayam usmein agni lagayi.
+
+Aur pravesh karte hue kaha—
+
+"Yeh sab Bhishma ke vinash ke liye hai."
+
+Isi sankalp ke saath
+
+vah agni mein pravesh kar gayi
+
+aur apna sharir tyag diya.
+
+Iska Agla Parinaam
+
+Isi vardaan ke phal swaroop—
+
+Amba ka punarjanm Raja Drupada ke ghar hua.
+Pehle uska janm Shikhandini ke roop mein hua.
+Baad mein vah Shikhandi (purush) bani.
+Aur Kurukshetra yuddh mein Arjuna ne Shikhandi ko apne rath ke aage rakhkar Bhishma par baan chalaye.
+Bhishma ne apni pratigya ke karan Shikhandi par astra nahi uthaye.
+Isi prakriya se Shiva ka vardaan satya hua aur Bhishma ka patan hua.
+Is Adhyay Ka Saar
+Rishiyon ne Amba ko tapasya chhodne ke liye samjhaya.
+Amba ne spasht kaha ki uska ekmatra uddeshya Bhishma ka vadh hai.
+Usne purush roop prapt karne ki ichchha vyakt ki.
+Bhagwan Shiva prakat hue aur vardaan diya ki vah agle janm mein Drupada ke ghar janm legi.
+Shiva ne vachan diya ki vah purush banegi, purva janm ko yaad rakhegi aur Bhishma ka vadh karegi.
+Shiva ke antardhyan hone ke baad Amba ne Yamuna tat par agni-pravesh karke apna sharir tyag diya, Bhishma ke vinash ka sankalp lekar. """
             create_image_text_layout(
                 text_content=text2,
                 layout="full"
