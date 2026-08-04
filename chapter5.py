@@ -20217,7 +20217,20 @@ Shiva ke antardhyan hone ke baad Amba ne Yamuna tat par agni-pravesh karke apna 
 
         # Section 5.4.31
         with st.expander("Section 5.4.31  Section CXCI"):
-            text1 = """ """
+            text1 = """ Section CXCI – Hinglish Story
+
+Duryodhan ne Bhishma se poocha,
+"Pitamah, Sikhandin pehle ladki thi. Phir woh ladka kaise ban gayi?"
+
+Bhishma bole,
+
+"Raja Drupad ki sabse pyari rani ke koi bachcha nahi tha. Isliye Drupad ne Bhagwan Shiv ki bahut kathin tapasya ki.
+
+Unhone prarthana ki,
+'Hey Mahadev, mujhe ek beta dijiye. Woh bada hoke Bhishma se badla le.'
+
+Bhagwan Shiv muskura kar bole,
+'Tumhe ek santaan milegi. Pehle woh beti hogi. Baad mein wahi beta banegi. Yeh kismat ka faisla hai. Isse koi nahi badal sakta.' """
             create_image_text_layout(
                 "attached_assets/chapter5/5.4.31.jpg",
                 text1,
@@ -20225,7 +20238,22 @@ Shiva ke antardhyan hone ke baad Amba ne Yamuna tat par agni-pravesh karke apna 
                 image_position="left"
             )
 
-            text2 = """ """
+            text2 = """ Drupad apne mahal laut aaye. Unhone apni rani ko sab kuch bataya.
+
+Kuch samay baad, rani garbhvati hui. Raja Drupad ne unka bahut dhyan rakha. Har chhoti-badi zarurat poori ki.
+
+Jab bachcha paida hua, toh woh ek sundar beti thi.
+
+Lekin Drupad aur unki rani ko Shiv ji ki baat yaad thi. Isliye unhone sabko bataya ki bachcha beta hai.
+
+Beti ke liye nahi, balki ek bete ke jaise uske saare sanskar karvaye gaye. Uska naam Sikhandin rakha gaya.
+
+Yeh bada raaz tha. Sirf Raja Drupad aur unki rani hi uski asli sachchai jaante the.
+
+Sab log use ek rajkumar samajhte rahe.
+
+Bhishma bole,
+"Sirf mujhe hi sach pata tha. Mere guptcharon aur Devarshi Narad ne mujhe sab bataya tha. Mujhe Shiv ji ke vardaan aur Amba ki purani tapasya ke baare mein bhi pehle se pata tha." """
             create_image_text_layout(
                 text_content=text2,
                 layout="full"
@@ -20234,7 +20262,21 @@ Shiva ke antardhyan hone ke baad Amba ne Yamuna tat par agni-pravesh karke apna 
 
         # Section 5.4.32
         with st.expander("Section 5.4.32  Section CXCII"):
-            text1 = """ """
+            text1 = """ Section CXCII – Hinglish Story
+
+Bhishma bole,
+
+"Raja Drupad ne Sikhandin ko bahut pyaar se bada kiya. Use likhna, painting aur kai kalaayein sikhayi gayi. Dhanush aur shastra chalana bhi usne Guru Dronacharya se seekha.
+
+Jab Sikhandin jawaan hui, toh rani ne Raja Drupad se kaha,
+
+'Ab hamare bete ki shaadi kar deni chahiye.'
+
+Drupad pareshaan ho gaye. Unhone kaha,
+
+'Yeh toh meri beti hai. Bas Shiv ji ke vachan par maine is baat ko sabse chhupaya hai.'
+
+Rani boli, """
             create_image_text_layout(
                 "attached_assets/chapter5/5.4.32.jpg",
                 text1,
@@ -20242,7 +20284,31 @@ Shiva ke antardhyan hone ke baad Amba ne Yamuna tat par agni-pravesh karke apna 
                 image_position="left"
             )
 
-            text2 = """ """
+            text2 = """ 'Mahadev ki baat kabhi jhooth nahi ho sakti. Humein unke vachan par bharosa rakhna chahiye. Shaadi kar dijiye. Sab theek hoga.'
+
+Dono ne milkar faisla kiya.
+
+Phir Raja Drupad ne Dasharna desh ke Raja Hiranyavarman ki beti ko Sikhandin ke liye chun liya. Dono ki shaadi dhoom-dhaam se ho gayi.
+
+Kuch samay baad, jab dono jawaan hue, tab Hiranyavarman ki beti ko sachchai ka pata chal gaya.
+
+Usne dekha ki Sikhandin bhi uski tarah ek aurat hai.
+
+Woh bahut sharma gayi aur apni saheliyon aur daaiyon ko sab kuch bata diya.
+
+Yeh khabar dheere-dheere Raja Hiranyavarman tak pahunch gayi.
+
+Sach jaan kar woh gusse se bhar gaye.
+
+Unhe laga ki Raja Drupad ne unke saath dhokha kiya hai.
+
+Turant unhone ek sandeshvahak Drupad ke paas bheja.
+
+Sandeshvahak ne chup-chaap Raja Drupad se kaha,
+
+'Raja Hiranyavarman bahut krodhit hain. Unka kehna hai ki aapne unki beizzati ki hai. Aapne apni beti ko beta bata kar unki beti ki shaadi karwa di. Yeh bahut bada dhokha hai.'
+
+'Agar is dhokhe ka jawab nahi mila, toh woh apni sena ke saath aayenge aur aapko, aapke parivaar aur aapke sabhi saathiyon ko maar denge.'" """
             create_image_text_layout(
                 text_content=text2,
                 layout="full"
@@ -20251,7 +20317,23 @@ Shiva ke antardhyan hone ke baad Amba ne Yamuna tat par agni-pravesh karke apna 
 
         # Section 5.4.33
         with st.expander("Section 5.4.33  Section CXCIII"):
-            text1 = """ """
+            text1 = """ Section CXCIII – Hinglish Story
+
+Bhishma bole,
+
+"Raja Drupad ne jab Raja Hiranyavarman ka sandesh suna, toh woh bilkul chup ho gaye. Unke paas koi jawab nahi tha.
+
+Phir bhi unhone apne doot bheje aur samjhane ki koshish ki.
+
+Unhone kaha,
+
+'Yeh baat waise nahi hai. Kripya shaant ho jaiye.'
+
+Lekin Hiranyavarman ne dobara sachchai ki jaanch karwayi.
+
+Ab unhe poora yakeen ho gaya ki Sikhandin asal mein ek beti hai.
+
+Woh bahut gusse mein aa gaye. """
             create_image_text_layout(
                 "attached_assets/chapter5/5.4.33.jpg",
                 text1,
@@ -20259,7 +20341,45 @@ Shiva ke antardhyan hone ke baad Amba ne Yamuna tat par agni-pravesh karke apna 
                 image_position="left"
             )
 
-            text2 = """ """
+            text2 = """ Unhone apne sabhi mitra rajaon ko bulaaya aur unhe poora dhokha bataya.
+
+Phir ek badi sena taiyaar ki gayi.
+
+Sabne milkar faisla kiya,
+
+'Agar Sikhandin sach mein ladki nikli, toh hum Raja Drupad ko pakad lenge. Unhe rajgaddi se hata denge. Kisi aur ko Panchal ka raja bana denge. Aur Drupad aur Sikhandin dono ko saza denge.'
+
+Yeh faisla karne ke baad, Hiranyavarman ne ek aur sandesh bheja.
+
+Usme likha tha,
+
+'Taiyaar rehna. Main jaldi hi tum par hamla karunga.'
+
+Yeh khabar sunkar Raja Drupad bahut dar gaye.
+
+Unhone phir se shanti ki baat karne ke liye apne doot bheje.
+
+Uske baad woh udaas mann se apni rani ke paas gaye.
+
+Drupad bole,
+
+'Hiranyavarman apni badi sena ke saath hamari taraf aa raha hai. Hamari galti ki wajah se sab mushkil mein aa gaye hain.'
+
+'Ab batao, hum Sikhandin ke baare mein kya karein? Sabko shak ho gaya hai ki woh beta nahi, beti hai.'
+
+'Agar yeh baat sach maan li gayi, toh Hiranyavarman mujhe dhokhebaaz samajhkar maar dalega.'
+
+'Na sirf main, balki tum aur Sikhandin bhi khatre mein ho.'
+
+'Ab sach-sach batao. Humein kya karna chahiye?'
+
+Drupad yeh sab jaante the ki sach kya hai.
+
+Lekin unhone yeh baatein sabke saamne isliye kahi, taaki log samjhein ki unhone jaan-boojhkar dhokha nahi diya.
+
+Ab sabki nazar rani par thi.
+
+Woh batane wali thi ki aage kya karna chahiye." """
             create_image_text_layout(
                 text_content=text2,
                 layout="full"
@@ -20268,7 +20388,21 @@ Shiva ke antardhyan hone ke baad Amba ne Yamuna tat par agni-pravesh karke apna 
 
         # Section 5.4.34
         with st.expander("Section 5.4.34  Section CXCIV"):
-            text1 = """ """
+            text1 = """ Section CXCIV – Hinglish Story
+
+Bhishma bole,
+
+"Rani ne Raja Drupad ko sabke saamne poori sachchai bata di.
+
+Woh boli,
+
+'Jab meri beti paida hui thi, tab mere koi aur bachche nahi the. Mujhe darr tha ki log mujhe dosh denge. Isliye maine kaha ki yeh beta hai.'
+
+'Aapne bhi mujh par bharosa kiya. Aapne use ek bete ki tarah pala. Uske saare sanskar karvaye aur uski shaadi bhi ek rajkumari se kar di.'
+
+'Maine yeh sab isliye hone diya kyunki mujhe Bhagwan Shiv ke vachan yaad the. Unhone kaha tha ki pehle woh beti hogi aur baad mein beta banegi.'
+
+Yeh sab sunkar Raja Drupad ne apne mantriyon ko sach bata diya. """
             create_image_text_layout(
                 "attached_assets/chapter5/5.4.34.jpg",
                 text1,
@@ -20276,7 +20410,75 @@ Shiva ke antardhyan hone ke baad Amba ne Yamuna tat par agni-pravesh karke apna 
                 image_position="left"
             )
 
-            text2 = """ """
+            text2 = """ Phir unhone apne rajya ki suraksha aur yudh se bachne ke tareeke sochne shuru kiye.
+
+Poore nagar ki suraksha aur mazboot kar di gayi.
+
+Lekin Drupad aur unki rani dono bahut dukhi the.
+
+Unhe sirf ek hi baat ki chinta thi.
+
+Kaash bina yudh ke sab theek ho jaaye.
+
+Isliye Raja Drupad ne Bhagwan ki pooja aur prarthana shuru kar di.
+
+Rani boli,
+
+'Sirf prarthana hi kaafi nahi hoti. Humein poori mehnat bhi karni hogi.'
+
+'Devtaon ki pooja kijiye. Brahmanon ko daan dijiye. Aur apne mantriyon ki salah bhi maaniye.'
+
+'Jab prarthana aur mehnat saath chalti hain, tabhi safalta milti hai.'
+
+Jab dono baat kar rahe the, tab Sikhandini chup-chaap sab sun rahi thi.
+
+Use bahut bura laga.
+
+Usne socha,
+
+'Meri wajah se Maa aur Pitaji itne dukhi hain.'
+
+Yeh sochkar usne ek kathin faisla liya.
+
+Usne apni jaan dene ka mann bana liya.
+
+Woh chupke se mahal chhodkar ek ghane jungle mein chali gayi.
+
+Us jungle mein ek shaktishaali Yaksha rehta tha.
+
+Uska naam Sthunakarna tha.
+
+Log usse darte the, isliye wahan koi nahi jaata tha.
+
+Jungle ke andar us Yaksha ka bada mahal tha.
+
+Sikhandini uske andar gayi aur kai din tak bina khana khaye tapasya karne lagi.
+
+Kuch din baad, dayaalu Yaksha Sthunakarna uske saamne aaya.
+
+Usne poocha,
+
+'Tum itni kathin tapasya kyun kar rahi ho? Jo chahti ho, batao. Main tumhari madad karunga.'
+
+Sikhandini boli,
+
+'Aap yeh nahi kar sakte.'
+
+Yaksha muskuraaya aur bola,
+
+'Main Kuber ka sevak hoon. Main tumhe woh bhi de sakta hoon jo dusre nahi de sakte. Bina dare apni baat batao.'
+
+Tab Sikhandini ne apni poori kahani suna di.
+
+Phir usne haath jodkar kaha,
+
+'Mere Pitaji bahut bade sankat mein hain. Raja Hiranyavarman un par hamla karne aa rahe hain.'
+
+'Kripya meri, meri Maa aur mere Pitaji ki raksha kijiye.'
+
+'Agar aap mujh par daya karein, toh mujhe ek sachcha purush bana dijiye.'
+
+'Bas itni der ke liye, jab tak woh raja hamare nagar se wapas na chala jaaye.' """
             create_image_text_layout(
                 text_content=text2,
                 layout="full"
@@ -20285,7 +20487,21 @@ Shiva ke antardhyan hone ke baad Amba ne Yamuna tat par agni-pravesh karke apna 
 
         # Section 5.4.35
         with st.expander("Section 5.4.35  Section CXCV"):
-            text1 = """ """
+            text1 = """ Section CXCV – Hinglish Story
+
+Bhishma bole,
+
+"Yaksha Sthunakarna ne Sikhandini ki baat dhyan se suni.
+
+Phir woh bola,
+
+'Main tumhari madad zaroor karunga. Lekin ek shart hai.'
+
+'Main kuch samay ke liye apna purush roop tumhe de deta hoon. Badle mein tum apna stree roop mujhe de do.'
+
+'Jab tumhara kaam ho jaaye, tab wapas aakar mera roop mujhe lauta dena.'
+
+Sikhandini boli, """
             create_image_text_layout(
                 "attached_assets/chapter5/5.4.35.jpg",
                 text1,
@@ -20293,7 +20509,103 @@ Shiva ke antardhyan hone ke baad Amba ne Yamuna tat par agni-pravesh karke apna 
                 image_position="left"
             )
 
-            text2 = """ """
+            text2 = """ 'Main vachan deti hoon. Jaise hi Raja Hiranyavarman hamare nagar se chale jaayenge, main zaroor wapas aaungi.'
+
+Dono ne apna vachan nibhaya.
+
+Yaksha stree ban gaya.
+
+Aur Sikhandini ek purush ban gayi.
+
+Khushi se bhar kar woh Panchal laut aayi.
+
+Usne Raja Drupad ko sab kuch bata diya.
+
+Drupad aur unki rani ko turant Bhagwan Shiv ke vachan yaad aa gaye.
+
+Ab unhe poora vishwas ho gaya ki Mahadev ki baat sach ho gayi hai.
+
+Drupad ne Raja Hiranyavarman ko sandesh bheja,
+
+'Mera putra sach mein ek purush hai.'
+
+Lekin Hiranyavarman ko ab bhi bharosa nahi hua.
+
+Unhone kuch yuva mahilaon ko bheja taaki woh khud sach jaan saken.
+
+Unhone jaakar sab dekh liya.
+
+Wapas aakar unhone kaha,
+
+'Sikhandin sach mein ek purush hai.'
+
+Yeh sunkar Hiranyavarman bahut khush hue.
+
+Unka saara gussa shaant ho gaya.
+
+Woh Drupad se mile, kuch din unke saath rahe aur dosti phir se mazboot ho gayi.
+
+Jaate waqt unhone Sikhandin ko bahut saare haathi, ghode, gaay aur dhan bhi diya.
+
+Sab kuch theek ho gaya.
+
+Lekin doosri taraf ek nayi ghatna hone wali thi.
+
+Yakshon ke raja Kuber ek din Sthunakarna ke mahal aaye.
+
+Unhone dekha ki Sthunakarna unse milne nahi aaya.
+
+Jab wajah pata chali, toh Kuber bahut krodhit ho gaye.
+
+Unhone kaha,
+
+'Tumne apna purush roop kisi aur ko de diya. Yeh bahut bada niyam todna hai.'
+
+Gusse mein Kuber ne shraap de diya,
+
+'Ab Sikhandin hamesha ke liye purush rahega. Aur tum stree hi bane rahoge.'
+
+Baaki Yakshon ne Kuber se daya ki prarthana ki.
+
+Tab Kuber bole,
+
+'Theek hai. Jab Sikhandin ki mrityu hogi, tab Sthunakarna ko uska asli roop wapas mil jayega.'
+
+Iske baad Kuber wahan se chale gaye.
+
+Kuch samay baad, Sikhandin apna vachan nibhane ke liye wapas Yaksha ke paas gaya.
+
+Yaksha ne use poori baat bata di.
+
+Phir bola,
+
+'Ab tum bina kisi chinta ke apni zindagi jeeyo. Yeh sab pehle se hi likha hua tha.'
+
+Sikhandin wapas Panchal aa gaya.
+
+Sab log bahut khush hue.
+
+Raja Drupad ne use Guru Dronacharya ke paas bheja.
+
+Wahan usne shastra aur yudh ki poori vidya seekhi.
+
+Uske saath uska bhai Dhrishtadyumna bhi seekh raha tha.
+
+Bhishma ne phir Duryodhan se kaha,
+
+'Sikhandin wahi Amba hai, jisne naye janm mein Drupad ke ghar janm liya.'
+
+'Main kabhi bhi us par astra nahi uthaoonga.'
+
+'Mera vachan hai ki main kisi stree, ya jo pehle stree rahi ho, us par kabhi hamla nahi karunga.'
+
+'Isliye yudh mein bhi main Sikhandin ko nahi maarunga.'
+
+Sanjaya bole,
+
+"Bhishma ki baat sunkar Duryodhan kuch der sochta raha.
+
+Aakhir usne maana ki Bhishma apne dharm aur apne vachan ke anusaar hi chal rahe the." """
             create_image_text_layout(
                 text_content=text2,
                 layout="full"
@@ -20302,7 +20614,21 @@ Shiva ke antardhyan hone ke baad Amba ne Yamuna tat par agni-pravesh karke apna 
 
         # Section 5.4.36
         with st.expander("Section 5.4.36  Section CXCVI"):
-            text1 = """ """
+            text1 = """ Section CXCVI – Hinglish Story
+
+Sanjaya bole,
+
+"Subah hote hi Kaurav sena phir se yudh ke liye taiyaar ho gayi.
+
+Duryodhan aur uske bhai Bhishma ke paas gaye aur poocha,
+
+'Pitamah, Pandavon ki sena bahut badi aur shaktishaali hai.'
+
+'Usme Bhim, Arjun, Dhrishtadyumna aur bahut bade yoddha hain.'
+
+'Humein batayiye, aap is poori sena ko kitne din mein hara sakte hain?'
+
+'Guru Dronacharya kitne din lenge?' """
             create_image_text_layout(
                 "attached_assets/chapter5/5.4.36.jpg",
                 text1,
@@ -20310,7 +20636,55 @@ Shiva ke antardhyan hone ke baad Amba ne Yamuna tat par agni-pravesh karke apna 
                 image_position="left"
             )
 
-            text2 = """ """
+            text2 = """ 'Kripacharya kitna samay lenge?'
+
+'Karna aur Ashwatthama kitne din mein is sena ko khatam kar sakte hain?'
+
+'Hum sab sach jaana chahte hain.'
+
+Bhishma bole,
+
+'Yeh bahut achha prashn hai.'
+
+'Har yoddha ko dushman ki taakat aur kamzori dono jaanni chahiye.'
+
+'Main har din lagbhag 10,000 sainik aur 1,000 rathiyon ko hara sakta hoon.'
+
+'Agar main apne divya astron ka poora prayog karun, toh main Pandavon ki poori sena ko ek mahine mein samaapt kar sakta hoon.'
+
+Yeh sunkar Duryodhan ne Guru Dronacharya se bhi wahi sawaal poocha.
+
+Dronacharya muskura kar bole,
+
+'Main ab vriddh ho chuka hoon.'
+
+'Meri taakat pehle jaisi nahi rahi.'
+
+'Lekin phir bhi, main bhi apne divya astron se Pandav sena ko ek mahine mein hara sakta hoon.'
+
+Uske baad Kripacharya bole,
+
+'Mujhe do mahine lagenge.'
+
+Ashwatthama ne garv se kaha,
+
+'Mujhe sirf das raaten chahiye.'
+
+Phir Karna aage badha aur bola,
+
+'Mujhe toh sirf paanch din hi kaafi hain.'
+
+Karna ki baat sunkar Bhishma zor se hans pade.
+
+Phir woh bole,
+
+'Radheya, tum yeh baat tab tak hi keh sakte ho...'
+
+'Jab tak tumhara saamna Arjun se nahi hota.'
+
+'Jab Arjun ke saath Shri Krishna khud uske rath par honge, tab tumhe asli yudh ka ehsaas hoga.'
+
+'Us din ke baad tum itni aasani se aisi baatein nahi kar paoge.'" """
             create_image_text_layout(
                 text_content=text2,
                 layout="full"
@@ -20319,7 +20693,23 @@ Shiva ke antardhyan hone ke baad Amba ne Yamuna tat par agni-pravesh karke apna 
 
         # Section 5.4.37
         with st.expander("Section 5.4.37  Section CXCVII"):
-            text1 = """ """
+            text1 = """ Section CXCVII – Hinglish Story
+
+Vaisampayan bole,
+
+"Jab Kaurav sena ke senapatiyon ki baatein khatam hui, tab Yudhishthir ne apne sabhi bhaiyon ko alag bulaaya.
+
+Woh bole,
+
+'Hamare guptchar subah ek zaroori khabar laaye hain.'
+
+'Duryodhan ne Bhishma se poocha tha ki woh hamari sena ko kitne samay mein hara sakte hain.'
+
+'Bhishma ne kaha ki unhe ek mahina lagega.'
+
+'Guru Dronacharya ne bhi ek mahina bataya.'
+
+'Kripacharya ne do mahine ka samay kaha.' """
             create_image_text_layout(
                 "attached_assets/chapter5/5.4.37.jpg",
                 text1,
@@ -20327,7 +20717,57 @@ Shiva ke antardhyan hone ke baad Amba ne Yamuna tat par agni-pravesh karke apna 
                 image_position="left"
             )
 
-            text2 = """ """
+            text2 = """ 'Ashwatthama ne kaha ki woh das raaton mein yeh kaam kar sakta hai.'
+
+'Aur Karna ne sirf paanch din ka daawa kiya.'
+
+Phir Yudhishthir ne Arjun ki taraf dekhkar poocha,
+
+'Arjun, tum batao.'
+
+'Tum dushman ki sena ko kitne samay mein hara sakte ho?'
+
+Arjun ne pehle Shri Krishna ki taraf dekha.
+
+Phir shaant hokar bola,
+
+'Yeh sab bahut bade aur mahaan yoddha hain.'
+
+'Jo unhone kaha hai, woh karne ki taakat bhi rakhte hain.'
+
+'Lekin Maharaj, aap chinta mat kijiye.'
+
+'Agar Shri Krishna mere saath hain, toh main ek hi rath par baithkar pal bhar mein teenon lokon ko bhi hara sakta hoon.'
+
+'Mere paas Bhagwan Shiv ka diya hua ek divya astra hai.'
+
+'Mujhe yeh tab mila tha jab maine unse ek shikari ke roop mein yudh kiya tha.'
+
+'Yeh astra itna shaktishaali hai ki yug ke ant mein Bhagwan Shiv isi se srishti ka vinash karte hain.'
+
+'Is astra ke baare mein na Bhishma jaante hain, na Dronacharya, na Kripacharya aur na hi Ashwatthama.'
+
+'Toh Karna ka ise jaanna toh sambhav hi nahi hai.'
+
+'Lekin ek baat yaad rakhiye.'
+
+'Divya astron ka istemaal aam yoddhaon par karna sahi nahi hota.'
+
+'Isliye hum dharm ke saath, saamne se aur imaandari se yudh karenge.'
+
+Phir Arjun muskuraya aur bola,
+
+'Hamare saath bhi bahut bade veer hain.'
+
+'Sikhandin, Satyaki, Dhrishtadyumna, Bhim, Nakul, Sahadev, Yudhamanyu, Uttamaujas, Virat, Drupad, Ghatotkach, Anjanparvan, Abhimanyu aur Draupadi ke paanch putra.'
+
+'Yeh sab milkar devtaon ki sena ka bhi saamna kar sakte hain.'
+
+Aakhir mein Arjun ne Yudhishthir se kaha,
+
+'Aur Maharaj... aap khud bhi bahut shaktishaali hain.'
+
+'Jis vyakti ko aap sachche krodh se dekh lete hain, uska bachna bahut mushkil hota hai.'" """
             create_image_text_layout(
                 text_content=text2,
                 layout="full"
@@ -20336,7 +20776,23 @@ Shiva ke antardhyan hone ke baad Amba ne Yamuna tat par agni-pravesh karke apna 
 
         # Section 5.4.38
         with st.expander("Section 5.4.38  Section CXCVIII"):
-            text1 = """ """
+            text1 = """ Section CXCVIII – Hinglish Story
+
+Vaisampayan bole,
+
+"Agli subah aasman bilkul saaf tha.
+
+Duryodhan ke kehne par sabhi raja yudh ke liye taiyaar ho gaye.
+
+Sabne pavitra snaan kiya.
+
+Safed vastra pehne, phoolon ki mala pehni aur Bhagwan ki pooja ki.
+
+Brahmanon se aashirvaad liya.
+
+Phir sabne apne hathiyaar uthaye aur apne-apne dhwaj khade kiye.
+
+Har yoddha bahadur tha. """
             create_image_text_layout(
                 "attached_assets/chapter5/5.4.38.jpg",
                 text1,
@@ -20344,7 +20800,39 @@ Shiva ke antardhyan hone ke baad Amba ne Yamuna tat par agni-pravesh karke apna 
                 image_position="left"
             )
 
-            text2 = """ """
+            text2 = """ Sabne dharm ka paalan kiya tha aur yudh jeetkar veergati paane ka sankalp liya.
+
+Sabse aage Avanti ke Raja Vinda aur Anuvinda chale.
+
+Unke saath Kekaya, Vahlika aur Guru Dronacharya ki sena thi.
+
+Unke baad Bhishma, Ashwatthama, Jayadrath, Gandhar ke Raja Shakuni aur alag-alag deshon ke bahut saare mahan yoddha aaye.
+
+Har sena ka apna senapati tha.
+
+Sab poori taiyaari ke saath badh rahe the.
+
+Sabse pichhe Kritavarma, Trigart ke Raja, Shalya, Bhurishrava aur Raja Duryodhan apne sabhi bhaiyon ke saath chal rahe the.
+
+Poora Kaurav sena dal milkar Kurukshetra ke doosre kinare pahunch gaya.
+
+Wahan Duryodhan ne itna bada aur sundar shivir banwaya ki woh doosri Hastinapur jaisa lagta tha.
+
+Jo log Hastinapur se aaye the, woh bhi dono mein farq nahi kar pa rahe the.
+
+Hazaaron bade-bade tambu banaye gaye.
+
+Har raja aur uski sena ke liye alag jagah taiyaar ki gayi.
+
+Poore shivir mein khaane-peene ka bharpoor intezaam tha.
+
+Sainik, haathi, ghode aur sabhi yoddhaon ki har zarurat ka dhyan rakha gaya.
+
+Sirf sena hi nahi...
+
+Karigar, vyapari, gaane wale, kavi, guptchar aur yudh dekhne aaye logon ke liye bhi alag se poora intezaam kiya gaya.
+
+Duryodhan chahta tha ki uski sena ka har vyakti bina kisi kami ke yudh ke liye taiyaar rahe." """
             create_image_text_layout(
                 text_content=text2,
                 layout="full"
@@ -20353,7 +20841,17 @@ Shiva ke antardhyan hone ke baad Amba ne Yamuna tat par agni-pravesh karke apna 
 
         # Section 5.4.39
         with st.expander("Section 5.4.39  Section CXCIX"):
-            text1 = """ """
+            text1 = """ Section CXCIX – Hinglish Story
+
+Vaisampayan bole,
+
+"Jaise Duryodhan ne apni sena taiyaar ki thi, waise hi Raja Yudhishthir ne bhi apni sena ko yudh ke liye taiyaar kiya.
+
+Unhone Senapati Dhrishtadyumna ko sabse pehle aage badhne ka aadesh diya.
+
+Unke saath Dhrishtaketu, Raja Virat, Raja Drupad, Satyaki, Sikhandin, Yudhamanyu aur Uttamaujas jaise mahaan yoddha bhi taiyaar ho gaye.
+
+Sabne chamakdar kavach pehne the. """
             create_image_text_layout(
                 "attached_assets/chapter5/5.4.39.jpg",
                 text1,
@@ -20361,7 +20859,67 @@ Shiva ke antardhyan hone ke baad Amba ne Yamuna tat par agni-pravesh karke apna 
                 image_position="left"
             )
 
-            text2 = """ """
+            text2 = """ Sone ke kundal pehne hue ve sab aise chamak rahe the jaise yagya ki pavitra agni.
+
+Yudhishthir ne har yoddha ka samman kiya.
+
+Phir unhone poori sena ko yudh ke liye nikalne ka aadesh diya.
+
+Har raja aur uski sena ke liye khaane-peene aur zaroori saamaan ka poora intezaam kiya gaya.
+
+Sabse pehle Abhimanyu, Draupadi ke paanch putra aur unki sena Dhrishtadyumna ke saath aage badhe.
+
+Unke baad Bhim aur Arjun apni sena lekar chale.
+
+Har taraf bahut shor tha.
+
+Ghode taiyaar kiye ja rahe the.
+
+Haathiyon ko sajaya ja raha tha.
+
+Rathon mein hathiyaar rakhe ja rahe the.
+
+Yoddha khushi aur utsaah se yudh ke naare laga rahe the.
+
+Sabse aakhir mein Yudhishthir khud Raja Virat, Raja Drupad aur doosre rajaon ke saath chale.
+
+Yudhishthir ne apni sena ko bahut samajhdari se alag-alag dalon mein baanta.
+
+Isse Kaurav sena uljhan mein pad gayi.
+
+Sabse aage ka sena dal Bhim ko diya gaya.
+
+Uske saath Abhimanyu, Draupadi ke paanch putra, Nakul, Sahadev aur bahut saare veer yoddha the.
+
+Hazaaron ghode, haathi, rath aur sainik bhi unke saath the.
+
+Beech wale sena dal mein Arjun aur Shri Krishna the.
+
+Unke saath Virat, Jayatsena, Yudhamanyu aur Uttamaujas jaise mahaan yoddha chal rahe the.
+
+Yeh sena sabse mazboot aur utsaah se bhari hui thi.
+
+Yudhishthir khud peeche wale bade sena dal ke saath chal rahe the.
+
+Unke aas-paas kai raja, hazaaron haathi, dason hazaar ghode aur anek rath the.
+
+Satyaki, Dhrishtaketu aur bahut se mahaan yoddha unki raksha kar rahe the.
+
+Sabse pichhe khaane ka saamaan, rath, gaadiyan, khazana aur baaki zaroori vastuon ko lekar log chal rahe the.
+
+Mahilaon, beemar logon aur kamzor logon ki suraksha ka bhi poora dhyan rakha gaya.
+
+Yudhishthir dheere-dheere apni vishaal sena ke saath Kurukshetra ki taraf badhe.
+
+Unki saat Akshauhini sena dekhkar aisa lag raha tha jaise chalte hue pahaadon aur baadalon ka samundar aage badh raha ho.
+
+Har taraf dhol baj rahe the.
+
+Hazaaron shankh ek saath goonj rahe the.
+
+Veer yoddha zor-zor se garaj rahe the.
+
+Isi tarah Pandav sena poori taiyaari ke saath Mahayudh ke liye aage badh gayi." """
             create_image_text_layout(
                 text_content=text2,
                 layout="full"
