@@ -2602,7 +2602,19 @@ Kurukshetra mein yudh shuru hone wala tha. """
             )
         # Section 6.3.9
         with st.expander("Section 6.3.9  Section XXI"):
-            text1 = """ """
+            text1 = """ Section XXI — Yudhishthira ka Dar aur Arjuna ka Bharosa
+
+Jab Yudhishthira ne Kauravon ki bahut badi army ko dekha, toh unke mann mein tension aa gayi.
+
+Bhishma ne ek aisi strong battle formation banayi thi jise dekhkar Yudhishthira ko laga ki ise todna bahut mushkil hoga.
+
+Yudhishthira ka chehra udaas ho gaya.
+
+Unhone Arjuna se kaha,
+
+“Arjuna, hum itni badi army ka saamna kaise karenge?”
+
+“Kauravon ke paas Bhishma jaise mahaan warrior hain. Unhone aisi formation banayi hai jise todna almost impossible lag raha hai.” """
             create_image_text_layout(
                 "attached_assets/chapter6/6.3.9.jpg",
                 text1,
@@ -2610,7 +2622,69 @@ Kurukshetra mein yudh shuru hone wala tha. """
                 image_position="left"
             )
 
-            text2 = """ """
+            text2 = """ Yudhishthira ko doubt hone laga ki kya Pandav is battle mein jeet paayenge.
+
+Arjuna ne unki baat dhyaan se suni.
+
+Phir Arjuna ne kaha,
+
+“Maharaj, sirf badi army hone se victory nahi milti.”
+
+“Kabhi-kabhi chhoti army bhi badi army ko hara sakti hai.”
+
+Arjuna ne kaha ki is baat ko Rishi Narada, Bhishma aur Drona bhi jaante hain.
+
+Purane samay mein Bhishma ne bhi Indra aur doosre Devas ko yahi baat samjhayi thi.
+
+Victory kiski hoti hai?
+
+Arjuna ne kaha,
+
+“Victory sirf strength aur numbers se nahi milti.”
+
+Jo log truth, kindness, righteousness aur hard work ke saath fight karte hain, unki jeet ke chances zyada hote hain.
+
+Isliye Arjuna ne Yudhishthira se kaha,
+
+“Humein bina ghamand ke fight karna hai.”
+
+“Humein right aur wrong ko samajhna hai.”
+
+“Greed ko side mein rakhkar apna duty karna hai.”
+
+Phir Arjuna ne ek bahut important baat kahi:
+
+“Jahan righteousness hoti hai, wahi victory hoti hai.”
+
+Krishna par Arjuna ka bharosa
+
+Arjuna ko sabse bada bharosa Krishna par tha.
+
+Usne kaha,
+
+“Narada ne bhi kaha hai—jahan Krishna hain, wahi victory hai.”
+
+Krishna ke paas unlimited strength thi.
+
+Woh bade se bade enemy ke saamne bhi bina dare khade reh sakte the.
+
+Arjuna ko yaad tha ki purane samay mein Devas aur Asuras ke beech bhi battle hui thi.
+
+Tab Krishna ke leadership ko follow karne wale Devas victorious hue the.
+
+Krishna ki help se Devas ne teenon worlds par apna control paaya tha.
+
+Isliye Arjuna ne Yudhishthira ko samjhaya:
+
+“Aapko darne ki zarurat nahi hai.”
+
+“Hamare saath Krishna khud hain.”
+
+“Jab Krishna hamare saath hain, toh humein victory ki umeed zaroor rakhni chahiye.”
+
+Yudhishthira ka mann dheere-dheere shaant hone laga.
+
+Unhe samajh aa gaya ki battle jeetne ke liye sirf army ki sankhya nahi, balki righteousness, courage aur sahi leadership bhi zaroori hai. """
             create_image_text_layout(
                 text_content=text2,
                 layout="full"
@@ -2619,7 +2693,29 @@ Kurukshetra mein yudh shuru hone wala tha. """
 
         # Section 6.3.10
         with st.expander("Section 6.3.10  Section XXII"):
-            text1 = """ """
+            text1 = """ Section XXII — Yudhishthira ne Sena ko Taiyaar Kiya
+
+Yudhishthira ne Bhishma ki army ke saamne apni Pandav sena ko achhe se arrange kiya.
+
+Unhone apne soldiers se kaha:
+
+“Humne apni army ko rules ke according taiyaar kar liya hai. Ab sab log honestly aur courage ke saath fight karo.”
+
+Pandav army ke centre mein Shikhandi apni sena ke saath khade the. Unki protection Arjuna kar rahe the.
+
+Army ke front par Dhrishtadyumna the aur unki protection Bhima kar rahe the.
+
+South side ki protection Yuyudhana kar rahe the. Woh bahut powerful warrior the.
+
+Yudhishthira ka Shandar Rath
+
+Yudhishthira khud apne elephants ke beech ek bahut sundar rath par khade the.
+
+Unke rath par gold aur precious stones se bana hua ek beautiful flag tha.
+
+Unke upar ek pure white umbrella laga tha, jiska handle ivory ka tha.
+
+Bahut saare Rishis unke aas-paas chal rahe the aur unki praise kar rahe the. """
             create_image_text_layout(
                 "attached_assets/chapter6/6.3.10.jpg",
                 text1,
@@ -2627,7 +2723,67 @@ Kurukshetra mein yudh shuru hone wala tha. """
                 image_position="left"
             )
 
-            text2 = """ """
+            text2 = """ Priests aur Rishis mantras aur prayers kar rahe the. Woh Yudhishthira ki victory ke liye blessings de rahe the.
+
+Yudhishthira ne bhi Brahmanas ko cows, fruits, flowers, gold coins aur clothes gift kiye.
+
+Is tarah woh ek great king ki tarah apni army ke saamne khade the.
+
+Arjuna ka Divya Rath
+
+Ab sabki nazar Arjuna ke rath par gayi.
+
+Arjuna ka rath bahut hi magnificent tha.
+
+Usmein hundreds of bells, beautiful gold decoration aur shining wheels the.
+
+Uske saath white horses jude hue the.
+
+Rath itna bright tha ki woh hazaar suns ki tarah chamak raha tha.
+
+Rath ke upar Hanuman ji ka flag laga tha.
+
+Aur rath ki reins khud Krishna ke haath mein thi.
+
+Arjuna apna famous Gandiva bow lekar rath par khade the.
+
+Woh duniya ke greatest archers mein se ek the.
+
+Bhima ko Dekhkar Kaurav Dare
+
+Arjuna ke saath Bhima bhi front par khade the.
+
+Bhima bahut powerful the.
+
+Kaha gaya ki agar Bhima chahein, toh bina weapon ke bhi apne haathon se men, horses aur elephants ko hara sakte the.
+
+Unke saath Nakula aur Sahadeva bhi the.
+
+Bhima ko army ke front par dekhkar Kaurav soldiers ke andar fear aa gaya.
+
+Unhe Bhima ek gusse wale lion jaise dikh rahe the.
+
+Kuch soldiers toh darr ke maare waise hi kaanpne lage jaise koi elephant kichad mein phans kar dar jaata hai.
+
+Krishna ne Arjuna ko Bhishma Dikhaya
+
+Tab Krishna ne Arjuna se kaha:
+
+“Arjuna, dekho. Wahan Bhishma khade hain.”
+
+“Wahi Bhishma jo gusse mein lion ki tarah hamari army par attack karenge.”
+
+“Unhone bahut bade sacrifices kiye hain aur woh Kuru vansh ke greatest warriors mein se ek hain.”
+
+Bhishma ke aas-paas bhi bahut saare powerful warriors khade the.
+
+Krishna ne Arjuna se kaha:
+
+“Pehle in soldiers ko defeat karo. Phir Bhishma ka saamna karo.”
+
+Ab dono armies ready thi.
+
+Battle shuru hone wali thi. """
             create_image_text_layout(
                 text_content=text2,
                 layout="full"
@@ -2636,7 +2792,25 @@ Kurukshetra mein yudh shuru hone wala tha. """
 
         # Section 6.3.11
         with st.expander("Section 6.3.11  Section XXIII"):
-            text1 = """ """
+            text1 = """ Section XXIII — Arjuna ne Maa Durga se Prarthana Ki
+
+Battle shuru hone wali thi. Kaurav army saamne aa chuki thi.
+
+Tab Krishna ne Arjuna se kaha:
+
+“Arjuna, battle se pehle apne mann ko shaant karo. Maa Durga ki prarthana karo aur unka ashirwad lo.”
+
+Arjuna turant apne rath se neeche utare. Unhone apne haath jod liye aur pure mann se Maa Durga ko yaad kiya.
+
+Arjuna ne kaha:
+
+“Hey Maa Durga, main aapko pranam karta hoon. Aap sabki raksha karne wali hain. Aap apne bhakton ki madad karti hain.”
+
+“Aap Mahakali hain. Aap dushton ko haraane wali hain. Aapke paas shakti, courage aur victory dene ki power hai.”
+
+Arjuna ne Maa ko unke kai roopon ke naam se yaad kiya.
+
+Unhone kaha: """
             create_image_text_layout(
                 "attached_assets/chapter6/6.3.11.jpg",
                 text1,
@@ -2644,7 +2818,53 @@ Kurukshetra mein yudh shuru hone wala tha. """
                 image_position="left"
             )
 
-            text2 = """ """
+            text2 = """ “Hey Maa, aap Uma hain, Kali hain, Mahakali hain aur Shakambhari hain. Aap hi knowledge hain, aap hi strength hain aur aap hi protection hain.”
+
+“Mujhe battle mein sahi raasta dikhaiye. Mujhe courage dijiye. Aapki kripa se mujhe victory mile.”
+
+Arjuna ki prayer bahut sincere thi.
+
+Maa Durga ka Aashirwad
+
+Arjuna ki devotion dekhkar Maa Durga aakash mein prakat hui.
+
+Unhone Arjuna ko dekha aur kaha:
+
+“Hey Pandava, tum bahut jaldi apne enemies ko defeat karoge.”
+
+“Tumhare saath Narayana khud hain. Isliye tumhe koi hara nahi sakta. Tumhe Indra bhi defeat nahi kar sakte.”
+
+Itna kehkar Maa Durga antardhaan ho gayi.
+
+Arjuna ko Maa ka ashirwad mil chuka tha.
+
+Unka confidence aur strong ho gaya.
+
+Woh wapas apne rath par chadh gaye.
+
+Krishna Aur Arjuna Ke Shankh
+
+Ab Krishna aur Arjuna ek hi rath par khade the.
+
+Dono ne apne divine conches bajaye.
+
+Unki awaaz poore battlefield mein goonj uthi.
+
+Kaurav aur Pandav dono samajh gaye ki ab maha-yuddh shuru hone wala hai.
+
+Sanjaya ne Dhritarashtra se kaha:
+
+“Jahan righteousness hai, wahan glory aur prosperity hoti hai.”
+
+“Aur jahan Krishna hain, wahan victory hoti hai.”
+
+Kauravon ko bahut baar samjhaya gaya tha ki woh galat raasta chhod dein.
+
+Lekin Duryodhana ne kisi ki baat nahi maani.
+
+Ab samay aa gaya tha ki unke decisions ka result saamne aaye.
+
+Jahan Dharma hai, jahan Krishna hain — wahi asli Vijay hai. """
             create_image_text_layout(
                 text_content=text2,
                 layout="full"
@@ -2653,7 +2873,25 @@ Kurukshetra mein yudh shuru hone wala tha. """
 
         # Section 6.3.12
         with st.expander("Section 6.3.12  Section XXIV"):
-            text1 = """ """
+            text1 = """ Section XXIV — Yudh Ki Shuruaat
+
+Dhritarashtra bahut chintit the. Unhone Sanjaya se poocha:
+
+“Sanjaya, battlefield mein sabse pehle kis army ne attack kiya? Kaurav ya Pandav?”
+
+“Kis side ke warriors zyada confident the? Aur kis side ke warriors fear ya sadness se weak ho gaye the?”
+
+“Aur batao, dono armies mein se kiski garlands aur perfumes ki khushboo zyada aa rahi thi?”
+
+Sanjaya ne jawab diya:
+
+“Maharaj, us waqt dono armies ke warriors confident the.”
+
+Dono taraf ke soldiers ne beautiful flower garlands pehni hui thi. Unke body par fragrant perfumes bhi lage hue the. Dono armies se almost same sweet fragrance aa rahi thi.
+
+Phir dono armies ek-doosre ke bilkul saamne aa gayi.
+
+Yudh ab shuru hone wala tha. """
             create_image_text_layout(
                 "attached_assets/chapter6/6.3.12.jpg",
                 text1,
@@ -2661,7 +2899,25 @@ Kurukshetra mein yudh shuru hone wala tha. """
                 image_position="left"
             )
 
-            text2 = """ """
+            text2 = """ Achaanak battlefield mein bahut zor ka noise hone laga.
+
+Conches bajne lage.
+
+Drums zor-zor se bajne lage.
+
+Warriors ek-doosre ko challenge karte hue zor se roar karne lage.
+
+Elephants bhi zor-zor se garajne lage.
+
+Dono armies ke soldiers excitement aur courage se ek-doosre ko dekh rahe the.
+
+Phir dono armies ki lines aapas mein takra gayi.
+
+Battlefield ka scene bahut hi fierce ho gaya.
+
+Har taraf conches, drums, elephants aur warriors ki awaaz goonj rahi thi.
+
+Aur isi ke saath Kurukshetra ka maha-yuddh sach mein shuru ho gaya. """
             create_image_text_layout(
                 text_content=text2,
                 layout="full"
@@ -2670,7 +2926,27 @@ Kurukshetra mein yudh shuru hone wala tha. """
 
         # Section 6.3.13
         with st.expander("Section 6.3.13  Section XXV (Bhagavad Gita Chapter I)"):
-            text1 = """ """
+            text1 = """ Section XXV — Arjuna Ka Moh Aur Yudh Se Peeche Hatna
+
+Kurukshetra mein dono armies saamne khadi thi.
+
+Dhritarashtra ne Sanjaya se poocha:
+
+“Sanjaya, mere bete aur Pandav yudh ke liye saamne aa gaye hain. Ab kya hua?”
+
+Sanjaya ne batana shuru kiya.
+
+Duryodhana Ne Drona Se Baat Ki
+
+Duryodhana ne Pandavon ki huge army dekhi.
+
+Woh turant apne guru Drona ke paas gaya aur bola:
+
+“Guruji, dekhiye Pandavon ki kitni badi army hai.”
+
+“Is army ko Dhrishtadyumna ne arrange kiya hai. Woh aapka hi student hai.”
+
+Duryodhana ne Pandav side ke powerful warriors ke naam ginaye. """
             create_image_text_layout(
                 "attached_assets/chapter6/6.3.13.jpg",
                 text1,
@@ -2678,7 +2954,129 @@ Kurukshetra mein yudh shuru hone wala tha. """
                 image_position="left"
             )
 
-            text2 = """ """
+            text2 = """ Usne Bhima, Arjuna, Yuyudhana, Virata, Drupada, Dhrishtaketu, Chekitana, Kashiraj, Yudhamanyu, Uttamauja, Abhimanyu aur Draupadi ke sons ka naam liya.
+
+Phir Duryodhana ne apni army ke great warriors ka bhi naam liya.
+
+Drona, Bhishma, Karna, Kripa, Ashwatthama, Vikarna aur Jayadratha jaise bade warriors uski side mein the.
+
+Duryodhana ne kaha:
+
+“Hamari army Bhishma ki protection mein hai. Isliye sab log apni jagah sambhalo aur Bhishma ki protection karo.”
+
+Yudh Ka Shankhnaad
+
+Tab Bhishma ne zor se lion ki tarah roar kiya.
+
+Phir unhone apna conch bajaya.
+
+Uske baad Kaurav army mein conches, drums aur horns ek saath bajne lage.
+
+Poora battlefield awaaz se bhar gaya.
+
+Phir Krishna aur Arjuna ne bhi apne divine conches bajaye.
+
+Krishna ne Panchajanya bajaya.
+
+Arjuna ne Devadatta bajaya.
+
+Bhima ne apna huge conch Paundra bajaya.
+
+Yudhishthira ne Anantavijaya bajaya.
+
+Nakula ne Sughosha aur Sahadeva ne Manipushpaka bajaya.
+
+Pandav side ke baaki great warriors ne bhi apne conches bajaye.
+
+Unki awaaz itni powerful thi ki Kaurav soldiers ke hearts mein fear bhar gaya.
+
+Arjuna Ne Krishna Se Kaha
+
+Ab actual battle start hone wali thi.
+
+Arjuna ne apna Gandiva bow uthaya aur Krishna se kaha:
+
+“Krishna, mera rath dono armies ke beech mein le chalo.”
+
+“Main dekhna chahta hoon ki mere saamne kaun-kaun fight karne ke liye khada hai.”
+
+Krishna ne Arjuna ki baat maani.
+
+Unhone rath ko dono armies ke beech mein laakar khada kar diya.
+
+Krishna ne kaha:
+
+“Arjuna, dekho. Saamne tumhare apne Kuru warriors khade hain.”
+
+Arjuna Ne Apno Ko Dekha
+
+Arjuna ne saamne dekha.
+
+Usne sirf enemies nahi dekhe.
+
+Usne apne grandfather Bhishma ko dekha.
+
+Apne guru Drona ko dekha.
+
+Usne apne relatives, friends, cousins, uncles, sons aur doosre apne logon ko bhi dekha.
+
+Dono armies mein uske apne hi log khade the.
+
+Yeh dekhkar Arjuna ka heart heavy ho gaya.
+
+Uska body kaanpne laga.
+
+Uska mouth dry ho gaya.
+
+Uske baal khade ho gaye.
+
+Uska Gandiva haath se slip hone laga.
+
+Arjuna ne Krishna se kaha:
+
+“Krishna, main in apne logon ke against kaise fight kar sakta hoon?”
+
+“Mujhe victory, kingdom ya pleasures nahi chahiye, agar unke liye mujhe apne hi family members ko maarna pade.”
+
+Arjuna Ka Dard
+
+Arjuna bola:
+
+“Jinke liye hum kingdom aur happiness chahte hain, wahi log aaj mere saamne khade hain.”
+
+“Mere teachers, elders, relatives, friends aur family members.”
+
+“Agar mujhe poori duniya ka kingdom bhi mil jaye, tab bhi main apno ko maarna nahi chahta.”
+
+Arjuna ko laga ki apne relatives ko maarna paap hoga.
+
+Usne Krishna se kaha:
+
+“Agar woh mujhe maar bhi dein, main unhe maarna nahi chahta.”
+
+Arjuna ko darr tha ki family members ke marne se family traditions aur values khatam ho jayengi.
+
+Uske hisaab se family tootne par society mein problems badhengi aur purane rituals bhi khatam ho jayenge.
+
+Phir Arjuna ne kaha:
+
+“Krishna, mujhe lagta hai hum ek bahut bada wrong kaam karne ja rahe hain.”
+
+“Main apne hi relatives ko maar kar kingdom nahi chahta.”
+
+Arjuna Ne Gandiva Rakh Diya
+
+Itna kehkar Arjuna bahut dukhi ho gaya.
+
+Uska mind completely confused tha.
+
+Usne apna Gandiva bow aur arrows neeche rakh diye.
+
+Phir woh apne rath par baith gaya.
+
+Arjuna ne yudh karne se mana kar diya.
+
+Yahin se Bhagavad Gita ki sabse important conversation shuru hoti hai — Arjuna ke confusion aur Krishna ke teachings ki. """
             create_image_text_layout(
                 text_content=text2,
                 layout="full"
@@ -2687,7 +3085,20 @@ Kurukshetra mein yudh shuru hone wala tha. """
 
         # Section 6.3.14
         with st.expander("Section 6.3.14  Section XXVI (Bhagavad Gita Chapter II)"):
-            text1 = """ """
+            text1 = """ Arjuna battlefield mein apna bow neeche rakh chuka tha.
+
+Uski aankhon mein aansu the.
+Uska mind confusion aur sadness se bhar gaya tha.
+
+Krishna ne Arjuna ko dekha aur kaha:
+
+“Arjuna, tum itne dukhi kyun ho? Yeh weakness tumhare liye theek nahi hai. Apna courage wapas lao aur khade ho jao.”
+
+Arjuna ne kaha:
+
+“Krishna, main Bhishma aur Drona jaise apne elders aur gurus ke against kaise fight kar sakta hoon?”
+
+“Agar unhe maar kar mujhe kingdom bhi mil jaye, toh woh happiness mere liye kya meaning rakhegi?” """
             create_image_text_layout(
                 "attached_assets/chapter6/6.3.14.jpg",
                 text1,
@@ -2695,7 +3106,176 @@ Kurukshetra mein yudh shuru hone wala tha. """
                 image_position="left"
             )
 
-            text2 = """ """
+            text2 = """ Arjuna bahut confused tha.
+
+Usne Krishna se kaha:
+
+“Mujhe samajh nahi aa raha ki mere liye kya right hai. Ab aap hi mujhe batao. Main aapka disciple hoon.”
+
+Phir Arjuna ne kaha:
+
+“Mujhe aisa koi solution nahi dikh raha jo mere is grief ko khatam kar sake. Chahe mujhe poori duniya ka kingdom mil jaye, ya gods ka kingdom bhi, mera dukh door nahi hoga.”
+
+Phir Arjuna ne clearly kaha:
+
+“Krishna, main fight nahi karunga.”
+
+Aur woh chup ho gaya.
+
+Krishna Ne Atma Ka Gyaan Diya
+
+Krishna calmly bole:
+
+“Arjuna, tum un logon ke liye dukhi ho jinke liye wise person ko dukhi nahi hona chahiye.”
+
+“Wise person na living logon ke liye unnecessarily dukhi hota hai, na dead logon ke liye.”
+
+Krishna ne samjhaya:
+
+“Body change hoti rehti hai. Childhood ke baad youth aata hai, phir old age. Isi tarah death ke baad Atma ek naya body leti hai.”
+
+“Isliye ek wise person in changes se confuse nahi hota.”
+
+Arjuna ko samjhate hue Krishna bole:
+
+“Life mein happiness aur pain, heat aur cold jaise experiences aate-jaate rehte hain.”
+
+“Inka beginning aur ending hota hai. Isliye inhe patience ke saath handle karo.”
+
+Atma Kabhi Destroy Nahi Hoti
+
+Krishna ne kaha:
+
+“Arjuna, Atma eternal hai.”
+
+“Usse koi destroy nahi kar sakta.”
+
+“Body ek din khatam hoti hai, lekin Atma khatam nahi hoti.”
+
+Krishna ne ek simple example diya:
+
+“Jaise koi person purane clothes hata kar new clothes pehenta hai, waise hi Atma old body chhodkar new body leti hai.”
+
+Weapons Atma ko cut nahi kar sakte.
+
+Fire use burn nahi kar sakti.
+
+Water use wet nahi kar sakta.
+
+Wind use dry nahi kar sakti.
+
+Atma permanent hai.
+
+Isliye Krishna bole:
+
+“Arjuna, jo eternal hai uske liye itna grief mat karo.”
+
+Apna Duty Karo
+
+Krishna ne Arjuna ko uska duty yaad dilaya.
+
+“Tum ek Kshatriya ho. Tumhare liye ek fair aur righteous battle se badhkar koi duty nahi hai.”
+
+“Agar tum justice ke liye hone wali is fight se peeche hatoge, toh tum apna duty chhod doge.”
+
+“Log tumhari courage par question karenge. Tumhare enemies tumhara mazaak banayenge.”
+
+Krishna ne kaha:
+
+“Agar tum battle mein maroge, toh heaven milega. Aur agar jeetoge, toh Earth par kingdom milega.”
+
+Phir Krishna ne sabse important baat kahi:
+
+“Pleasure aur pain ko equal samjho.”
+
+“Gain aur loss ko equal samjho.”
+
+“Victory aur defeat ko bhi equal samjho.”
+
+“Apna duty karo, lekin result ki attachment mat rakho.”
+
+Karma Ka Secret
+
+Krishna ne Arjuna ko Yoga ka ek important lesson diya:
+
+“Tumhara right action karne par hai, result par nahi.”
+
+Matlab:
+
+Kaam honestly karo.
+Result ke peeche mat bhaago.
+Aur failure ke fear se kaam karna mat chhodo.
+
+Jo person sirf result ke liye kaam karta hai, woh hamesha tension mein rehta hai.
+
+Lekin jo person apna best effort deta hai aur result ko accept karta hai, uska mind peaceful rehta hai.
+
+Krishna ne kaha:
+
+“Success aur failure mein same rehna hi Yoga hai.”
+
+Steady Mind Wala Person
+
+Arjuna ne poocha:
+
+“Krishna, ek aise person ki pehchaan kya hai jiska mind truly stable hai?”
+
+Krishna bole:
+
+“Jab person unnecessary desires ko chhod deta hai aur apne andar hi satisfied rehta hai, tab uska mind steady hota hai.”
+
+Aisa person:
+
+Problems mein panic nahi karta.
+Happiness mein over-excited nahi hota.
+Anger aur fear ko control karta hai.
+Har situation mein balanced rehta hai.
+Apni senses ko control mein rakhta hai.
+
+Krishna ne tortoise ka example diya.
+
+Jaise tortoise danger aane par apne legs aur head ko shell ke andar le leta hai, waise hi wise person apni senses ko control kar leta hai.
+
+Attachment Se Anger Tak
+
+Krishna ne ek important chain samjhayi:
+
+Sense objects ke baare mein baar-baar sochne se attachment hoti hai.
+
+Attachment se desire badhti hai.
+
+Desire poori na ho toh anger aata hai.
+
+Anger se discrimination weak hoti hai.
+
+Discrimination weak hone se memory aur understanding disturb hoti hai.
+
+Aur jab understanding chali jaati hai, toh person apna direction kho deta hai.
+
+Isliye Krishna kehte hain:
+
+“Apne mind aur senses ko control karo.”
+
+Real Peace
+
+Jo person apni senses ko control karta hai, attachment aur hatred se free rehta hai, uska mind peaceful ho jaata hai.
+
+Aur peaceful mind mein clarity aati hai.
+
+Aisa person difficult situations mein bhi stable rehta hai.
+
+Krishna ne end mein kaha:
+
+“Jab tum desires ke peeche bhaagna chhod doge, attachment aur pride ko chhod doge aur peaceful mind ke saath jeeyoge, tab tum divine state ko achieve karoge.”
+
+“Is state ko paane ke baad person easily confuse nahi hota.”
+
+Yahi Krishna ne Arjuna ko samjhaya:
+
+Atma eternal hai.
+Duty se bhaagna nahi hai.
+Action karo, result ki attachment chhodo.
+Aur har situation mein apna mind balanced rakho. """
             create_image_text_layout(
                 text_content=text2,
                 layout="full"
@@ -2704,7 +3284,29 @@ Kurukshetra mein yudh shuru hone wala tha. """
 
         # Section 6.3.15
         with st.expander("Section 6.3.15  Section XXVII (Bhagavad Gita Chapter III)"):
-            text1 = """ """
+            text1 = """ Section XXVII — Karma Yoga: Apna Karma Karo
+
+Arjuna abhi bhi confused tha.
+
+Usne Krishna se poocha:
+
+“Krishna, agar knowledge aur devotion itne important hain, toh phir aap mujhe itni difficult action wali situation mein kyun daal rahe ho?”
+
+“Mujhe clearly batao ki mere liye kya sahi hai.”
+
+Krishna ne calmly kaha:
+
+“Arjuna, duniya mein log spiritual progress ke do main raaste follow karte hain.”
+
+“Ek raasta knowledge ka hai.”
+
+“Aur doosra raasta selfless action ka hai.”
+
+Lekin Krishna ne ek important baat samjhayi:
+
+“Koi bhi person bina action ke nahi reh sakta.”
+
+Har insaan kuch na kuch karta hi rehta hai. """
             create_image_text_layout(
                 "attached_assets/chapter6/6.3.15.jpg",
                 text1,
@@ -2712,7 +3314,197 @@ Kurukshetra mein yudh shuru hone wala tha. """
                 image_position="left"
             )
 
-            text2 = """ """
+            text2 = """ Sirf bahar se kaam chhod dena enough nahi hai.
+
+Agar koi person kaam toh nahi karta, lekin mind mein constantly worldly desires ke baare mein sochta rehta hai, toh woh actually free nahi hai.
+
+Lekin jo person apne mind ko control karke bina attachment ke apna duty karta hai, woh truly better path par hai.
+
+Krishna bole:
+
+“Isliye action se bhaago mat. Apna duty sincerely karo.”
+
+Karma Kisliye Karna Chahiye?
+
+Krishna ne kaha:
+
+“Aisa kaam karo jo sirf tumhare personal benefit ke liye na ho.”
+
+Purane time mein Creation ke Lord ne humans ko Yajna, yani selfless offering, ke saath create kiya tha.
+
+Unhone kaha tha:
+
+“Tum ek doosre ki help karo. Tumhare actions se society aur nature dono grow karein.”
+
+Jaise nature hume food, water aur resources deti hai, waise hume bhi apna contribution dena chahiye.
+
+Jo person sirf leta hai aur kabhi contribute nahi karta, woh selfish hai.
+
+Isliye Krishna kehte hain:
+
+“Jo kuch bhi karo, gratitude aur responsibility ke saath karo.”
+
+Karma Ka Ek Cycle
+
+Krishna ne ek simple cycle samjhayi:
+
+Work se Yajna hota hai.
+
+Yajna se nature ka balance bana rehta hai.
+
+Nature se rain aur food milta hai.
+
+Food se living beings survive karte hain.
+
+Aur living beings phir apna work karte hain.
+
+Is tarah sab kuch ek doosre se connected hai.
+
+Jo person is cycle mein apna contribution nahi deta aur sirf apni enjoyment ke baare mein sochta hai, woh apni life waste karta hai.
+
+Lekin Wise Person Ko Bhi Kaam Kyun Karna Chahiye?
+
+Arjuna ke liye ek interesting question tha.
+
+Agar koi person spiritually complete ho gaya hai, toh usse kaam karne ki zarurat kyun hai?
+
+Krishna ne kaha:
+
+“Wise person ko bhi work karna chahiye.”
+
+King Janaka jaise great leaders ne bhi action ke through apna goal achieve kiya tha.
+
+Aur ek important reason tha.
+
+Common people great people ko follow karte hain.
+
+Agar ek great person responsibility se bhaagega, toh doosre bhi wahi karenge.
+
+Krishna ne kaha:
+
+“Main khud bhi action karta hoon, even though mujhe personally kuch achieve karna baaki nahi hai.”
+
+“Agar main action karna chhod doon, toh log bhi apna duty chhod sakte hain.”
+
+Isliye Krishna khud bhi continuously action karte hain.
+
+Wise Person Kaise Kaam Karta Hai?
+
+Krishna ne Arjuna ko samjhaya:
+
+“Wise person bhi work karta hai, lekin attachment ke bina.”
+
+Ek normal person sochta hai:
+
+“Maine ye kiya.”
+
+“Mujhe iska result chahiye.”
+
+“Mujhe credit milna chahiye.”
+
+Lekin wise person samajhta hai ki actions nature aur body ke through hote hain.
+
+Isliye woh ego mein nahi aata.
+
+Woh apna kaam karta hai aur result ko unnecessarily apne ego se attach nahi karta.
+
+Doosron Ko Confuse Mat Karo
+
+Krishna ne ek aur important lesson diya:
+
+Agar koi person abhi spiritually mature nahi hai, toh usse suddenly yeh kehna ki “kuch mat karo” usko confuse kar sakta hai.
+
+Wise person ko khud example set karna chahiye.
+
+Khud sincerely kaam karo.
+
+Aur doosron ko bhi unke duties sincerely karne ke liye encourage karo.
+
+Apna Duty Sabse Important Hai
+
+Krishna ne kaha:
+
+“Har person ka apna duty hota hai.”
+
+Apna duty imperfectly karna bhi better hai than kisi doosre ka duty perfectly karna.
+
+“Apna raasta follow karo.”
+
+“Doosron ko dekhkar apna duty mat badlo.”
+
+Kyuki doosre ka path tumhare liye natural nahi ho sakta.
+
+Isliye apni responsibility se bhaagna nahi chahiye.
+
+Arjuna Ka Important Question
+
+Arjuna ne phir poocha:
+
+“Krishna, kabhi-kabhi insaan galat kaam karna nahi chahta, phir bhi woh galat kaam kyun kar deta hai?”
+
+Krishna ne jawab diya:
+
+“Uska sabse bada enemy hai — desire.”
+
+Jab desire control se bahar ho jaati hai aur poori nahi hoti, toh wahi anger ban jaati hai.
+
+Desire aur anger dono insaan ke knowledge ko cover kar dete hain.
+
+Krishna ne iska example diya:
+
+Jaise smoke fire ko cover kar deta hai.
+
+Jaise dust mirror ko dirty kar deta hai.
+
+Waise hi desire knowledge ko cover kar deti hai.
+
+Desire Ko Kaise Control Karein?
+
+Krishna ne kaha:
+
+“Sabse pehle apni senses ko control karo.”
+
+Uske baad mind ko control karo.
+
+Phir understanding ko strong banao.
+
+Aur finally apne higher self ko samjho.
+
+Krishna ne kaha:
+
+“Tumhari senses se upar mind hai.”
+
+“Mind se upar understanding hai.”
+
+“Aur understanding se bhi upar Supreme Self hai.”
+
+Isliye apne andar ki strength ko jagao.
+
+Desire ko apne upar control mat karne do.
+
+Krishna Ka Final Message
+
+Krishna ne Arjuna se kaha:
+
+“Desire tumhara difficult enemy hai.”
+
+“Use control karo.”
+
+“Apna duty karo.”
+
+“Kaam se bhaago mat.”
+
+“Result ki attachment mat rakho.”
+
+“Aur apne actions ko selfless banao.”
+
+Yahi Karma Yoga ka simple lesson hai:
+
+Kaam karo, lekin sirf apne benefit ke liye nahi.
+
+Apni responsibility nibhao, bina ego aur unnecessary desire ke.
+
+Jab insaan apne karma ko sahi intention ke saath karta hai, toh wahi karma uski spiritual growth ka raasta ban jaata hai. """
             create_image_text_layout(
                 text_content=text2,
                 layout="full"
@@ -2721,7 +3513,23 @@ Kurukshetra mein yudh shuru hone wala tha. """
 
         # Section 6.3.16
         with st.expander("Section 6.3.16  Section XXVIII (Bhagavad Gita Chapter IV)"):
-            text1 = """ """
+            text1 = """ Section XXVIII — Jnana Karma Yoga: Knowledge Aur Karma Ka Raaz
+
+Kurukshetra ke battlefield mein Krishna Arjuna ko ek bahut purani baat batane lage.
+
+Krishna bole:
+
+“Ye knowledge koi nayi baat nahi hai.”
+
+Sabse pehle maine ye sacred knowledge Vivasvat ko diya tha.
+
+Vivasvat ne ise Manu ko bataya.
+
+Manu ne ise Ikshaku ko diya.
+
+Aise ye knowledge generations tak chalta raha.
+
+Lekin bahut samay beetne ke baad duniya mein ye knowledge dheere-dheere lost ho gaya. """
             create_image_text_layout(
                 "attached_assets/chapter6/6.3.16.jpg",
                 text1,
@@ -2729,7 +3537,183 @@ Kurukshetra mein yudh shuru hone wala tha. """
                 image_position="left"
             )
 
-            text2 = """ """
+            text2 = """ “Ab main wahi ancient knowledge tumhe bata raha hoon, Arjuna.”
+
+“Tum mere devotee bhi ho aur mere friend bhi.”
+
+Arjuna ko ye baat strange lagi.
+
+Usne poocha:
+
+“Krishna, aapka birth toh Vivasvat ke baad hua tha. Phir aapne Vivasvat ko ye knowledge kaise diya?”
+
+Krishna muskuraye aur bole:
+
+Krishna Ke Janmon Ka Raaz
+
+“Arjuna, mere aur tumhare bahut saare births ho chuke hain.”
+
+“Mujhe apne sabhi births yaad hain.”
+
+“Lekin tumhe apne previous births yaad nahi hain.”
+
+Krishna ne kaha:
+
+“Main normally unborn hoon.”
+
+Lekin jab duniya mein dharma kam hone lagta hai aur adharma badhne lagta hai, tab Krishna apni divine power se appear hote hain.
+
+Unka purpose hota hai:
+
+Achhe logon ki protection karna.
+Evil ko rokna.
+Dharma ko dobara establish karna.
+
+Isliye Krishna kehte hain:
+
+“Jab-jab dharma weak hota hai, main baar-baar aata hoon.”
+
+Jo person Krishna ke divine birth aur actions ko truly samajh leta hai, woh spiritual freedom ki taraf badhta hai.
+
+Krishna Sabko Accept Karte Hain
+
+Krishna ne Arjuna se kaha:
+
+“Log jis bhi sincere way se mere paas aate hain, main unhe usi way se accept karta hoon.”
+
+Koi devotion se aata hai.
+
+Koi knowledge se.
+
+Koi selfless work se.
+
+Lekin sincere intention important hai.
+
+Karma Ka Raaz
+
+Krishna ne kaha:
+
+“Action kya hai aur inaction kya hai, ye samajhna easy nahi hai.”
+
+Even intelligent people bhi kabhi-kabhi ismein confuse ho jaate hain.
+
+Isliye person ko teen cheezein samajhni chahiye:
+
+Kya karna hai.
+
+Kya nahi karna hai.
+
+Aur kab action se bhi beyond jaana hai.
+
+Wise person woh hai jo action ke beech bhi inner peace dekhta hai.
+
+Aur action karte hue bhi result ki unnecessary desire nahi rakhta.
+
+Selfless Action
+
+Krishna ne kaha:
+
+“Jo person apne actions ke result se attached nahi hota, woh actually free rehta hai.”
+
+Woh kaam karta hai.
+
+Lekin har baar ye nahi sochta:
+
+“Mujhe iske badle kya milega?”
+
+Aise person ka mind peaceful rehta hai.
+
+Woh success aur failure ko bhi calmly accept karta hai.
+
+Uske liye dono situations life ka part hain.
+
+Yajna Ke Alag-Alag Forms
+
+Krishna ne bataya ki sacrifice sirf ek particular ritual nahi hai.
+
+Log alag-alag ways mein sacrifice karte hain.
+
+Koi apna wealth donate karta hai.
+
+Koi meditation karta hai.
+
+Koi study aur learning ko sacrifice ke roop mein karta hai.
+
+Koi apni senses ko control karta hai.
+
+Koi apni breathing aur body ko discipline karta hai.
+
+Aur koi sabse important sacrifice karta hai:
+
+Knowledge ka sacrifice.
+
+Knowledge Sabse Powerful Hai
+
+Krishna ne kaha:
+
+“Knowledge ka sacrifice bahut powerful hai.”
+
+Kyuki jab true knowledge mil jaata hai, toh person apne actions ko sahi way mein samajhne lagta hai.
+
+Jaise ek strong fire wood ko ashes mein badal deti hai, waise hi knowledge ka fire past actions ke effects ko destroy kar sakta hai.
+
+Isliye Krishna kehte hain:
+
+“Knowledge se zyada purifying cheez kuch nahi hai.”
+
+Knowledge Kaise Milegi?
+
+Krishna ne Arjuna ko ek simple way bataya:
+
+Seekho.
+
+Questions poochho.
+
+Respect ke saath knowledgeable logon se guidance lo.
+
+Aur jo seekho, use life mein apply karo.
+
+Jab person sincere hota hai, faith rakhta hai aur apni senses ko control karta hai, toh dheere-dheere usse true knowledge milta hai.
+
+Aur knowledge ke saath inner peace aati hai.
+
+Doubt Sabse Bada Problem Hai
+
+Krishna ne kaha:
+
+“Jiske mind mein constant doubt hai, woh na properly progress kar pata hai aur na peace paata hai.”
+
+Doubt person ko andar se weak kar deta hai.
+
+Isliye Arjuna ko apne confusion ko knowledge se remove karna tha.
+
+Krishna ne kaha:
+
+“Tumhare mind mein jo ignorance se paida hua doubt hai, use knowledge ki sword se cut karo.”
+
+“Apne duty ke path par wapas aao.”
+
+“Aur khade ho jao, Arjuna.”
+
+Is Chapter Ka Simple Lesson
+
+Krishna Arjuna ko samjha rahe the:
+
+Karma karo, lekin attachment ke bina.
+
+Knowledge seekho.
+
+Questions poochho.
+
+Apne doubts ko clear karo.
+
+Apni senses ko control karo.
+
+Aur sabse important—
+
+Dharma ke raaste par chal kar apni responsibility nibhao.
+
+Kyuki right knowledge + selfless action + faith insaan ko inner peace aur spiritual freedom ki taraf le jaate hain. """
             create_image_text_layout(
                 text_content=text2,
                 layout="full"
@@ -2738,7 +3722,21 @@ Kurukshetra mein yudh shuru hone wala tha. """
 
         # Section 6.3.17
         with st.expander("Section 6.3.17  Section XXIX (Bhagavad Gita Chapter V)"):
-            text1 = """ """
+            text1 = """ Section XXIX — Karma Yoga aur Sannyasa: Kaam Karte Hue Bhi Freedom
+
+Kurukshetra mein Arjuna ke mind mein ek aur question aaya.
+
+Arjuna ne Krishna se poocha:
+
+“Krishna, kabhi aap actions ko chhodne ki baat karte ho, aur kabhi action karne ko kehte ho. In dono mein better kya hai?”
+
+Krishna ne calmly jawab diya:
+
+“Arjuna, dono paths freedom ki taraf le ja sakte hain.”
+
+Lekin Krishna ne kaha:
+
+“Action ko completely chhod dene se better hai ki tum action karo, lekin """
             create_image_text_layout(
                 "attached_assets/chapter6/6.3.17.jpg",
                 text1,
@@ -2746,7 +3744,178 @@ Kurukshetra mein yudh shuru hone wala tha. """
                 image_position="left"
             )
 
-            text2 = """ """
+            text2 = """ attachment ke bina.”
+
+Sacha Sannyasi Kaun Hai?
+
+Krishna ne samjhaya:
+
+“Sannyasi woh nahi jo sirf kaam chhod deta hai.”
+
+Sacha sannyasi woh hai jo:
+
+Kisi se unnecessary hatred nahi rakhta.
+Har cheez ki excessive desire nahi karta.
+Success aur failure mein balanced rehta hai.
+Apne mind aur senses ko control karta hai.
+
+Aisa person action karte hue bhi free reh sakta hai.
+
+Krishna ne kaha:
+
+“Sankhya aur Yoga ko alag samajhna mistake hai.”
+
+Knowledge ka path aur selfless action ka path, dono ka ultimate goal ek hi hai.
+
+Action Karo, Lekin Attachment Mat Rakho
+
+Krishna ne Arjuna ko ek beautiful example diya.
+
+“Jaise lotus leaf paani mein rehta hai, lekin paani usse chipakta nahi…”
+
+Waise hi ek wise person duniya mein rehkar kaam karta hai, lekin attachment ko apne mind par control nahi karne deta.
+
+Woh kaam karta hai.
+
+Lekin kaam ke result ko apni happiness ka source nahi banata.
+
+“Main Kuch Nahi Kar Raha”
+
+Krishna kehte hain ki truly wise person andar se samajhta hai:
+
+“Main actually kuch nahi kar raha.”
+
+Jab woh dekhta hai, sunta hai, touch karta hai, khana khata hai, walk karta hai, sota hai ya bolta hai—
+
+woh samajhta hai ki ye sab body aur senses ke natural actions hain.
+
+Uska inner self un actions se alag hai.
+
+Result Ki Desire Se Freedom
+
+Jo person apne actions ka result Bhagwan ko dedicate karta hai aur attachment chhod deta hai, uska mind gradually pure hota hai.
+
+Lekin jo har action ke badle result chahta hai—
+
+“Mujhe ye milega kya?”
+
+woh apne hi desires ke trap mein phas jaata hai.
+
+Isliye Krishna kehte hain:
+
+“Action karo, lekin result ke attachment ko chhod do.”
+
+Sabke Liye Equal Respect
+
+Knowledge milne ke baad ek wise person sabhi living beings ko equality se dekhta hai.
+
+Woh ek learned Brahmana ko bhi respect se dekhta hai.
+
+Ek cow ko bhi.
+
+Ek elephant ko bhi.
+
+Ek dog ko bhi.
+
+Aur society ke lowest position par khade person ko bhi.
+
+Uske liye sabke andar ek hi Supreme presence hai.
+
+Real Happiness Kahan Hai?
+
+Krishna ne kaha:
+
+“Jo happiness sirf outside objects se milti hai, woh permanent nahi hoti.”
+
+Aaj koi cheez achhi lagti hai.
+
+Kal wahi boring ho sakti hai.
+
+Aaj success milti hai.
+
+Kal failure aa sakta hai.
+
+Isliye wise person apni happiness ko outside world par depend nahi karta.
+
+Woh apne andar peace find karta hai.
+
+Jiska mind steady hai, woh pleasant cheez milne par over-excited nahi hota.
+
+Aur unpleasant cheez aane par completely टूटता bhi nahi.
+
+Desire Aur Anger Ko Control Karna
+
+Krishna ne Arjuna se kaha:
+
+“Jo person apne desire aur anger ko control kar leta hai, woh real happiness pa sakta hai.”
+
+Desire aati hai.
+
+Phir desire puri na ho toh anger aa sakta hai.
+
+Anger mind ko disturb karta hai.
+
+Isliye person ko apne mind ko train karna chahiye.
+
+Body ko control karna enough nahi hai.
+
+Mind ko control karna bhi zaroori hai.
+
+Sabke Hit Mein Kaam Karna
+
+Jo person apne sins aur doubts se free ho jaata hai, apne senses ko control karta hai aur sabhi creatures ke welfare ke liye kaam karta hai, woh higher spiritual state ko attain karta hai.
+
+Uske andar desire aur anger gradually kam hote jaate hain.
+
+Uska mind peaceful hota hai.
+
+Aur woh apne true self ko samajhne lagta hai.
+
+Meditation Aur Inner Peace
+
+Krishna ne meditation ka bhi simple idea diya.
+
+Person ko external distractions se apna mind hataana chahiye.
+
+Mind ko calm karna chahiye.
+
+Breathing ko steady karna chahiye.
+
+Senses aur thoughts ko control karna chahiye.
+
+Desire, fear aur anger ko gradually release karna chahiye.
+
+Aisa person inner freedom ki taraf badhta hai.
+
+Aur phir Krishna ne sabse important baat kahi:
+
+“Main sabhi sacrifices aur spiritual practices ka ultimate enjoyer hoon.”
+
+“Main sabhi worlds ka Lord hoon.”
+
+“Aur main har living being ka friend hoon.”
+
+Jo person Krishna ko is tarah samajh leta hai, usse real tranquillity—sachchi inner peace—milti hai.
+
+Simple Lesson
+
+Is chapter ka message simple hai:
+
+Kaam chhodna hi freedom nahi hai.
+
+Kaam karte hue attachment chhodna real freedom hai.
+
+Apna duty karo.
+
+Result ki unnecessary desire mat rakho.
+
+Sabko equality se dekho.
+
+Desire aur anger ko control karo.
+
+Aur apni happiness ko sirf outside world par depend mat karo.
+
+Jab mind andar se peaceful ho jaata hai, tab insaan duniya mein rehkar bhi free ho sakta hai. """
             create_image_text_layout(
                 text_content=text2,
                 layout="full"
@@ -2755,7 +3924,25 @@ Kurukshetra mein yudh shuru hone wala tha. """
 
         # Section 6.3.18
         with st.expander("Section 6.3.18  Section XXX (Bhagavad Gita Chapter VI)"):
-            text1 = """ """
+            text1 = """ Section XXX — Dhyana Yoga: Mind Ko Control Karne Ka Raasta
+
+Krishna ne Arjuna ko bataya ki real renunciation ka matlab kaam chhod dena nahi hai.
+
+Jo person apna duty karta hai, lekin result ki expectation nahi rakhta, wahi true renouncer aur true yogi hai.
+
+Sirf fire rituals chhod dena ya kaam na karna renunciation nahi hai.
+
+Apna Mind Apna Friend Hai
+
+Krishna bole:
+
+“Arjuna, insaan ko khud apne aap ko upar uthana chahiye. Khud ko neeche nahi girana chahiye.”
+
+Sabse important cheez hai mind.
+
+Agar mind control mein hai, toh woh tumhara friend hai.
+
+Agar mind control mein nahi hai, toh wahi tumhara enemy ban jaata hai. """
             create_image_text_layout(
                 "attached_assets/chapter6/6.3.18.jpg",
                 text1,
@@ -2763,7 +3950,203 @@ Kurukshetra mein yudh shuru hone wala tha. """
                 image_position="left"
             )
 
-            text2 = """ """
+            text2 = """ Jo person apne mind ko control kar leta hai, woh difficult situations mein bhi peaceful rehta hai.
+
+Uske liye:
+
+Heat aur cold same hain.
+Pleasure aur pain same hain.
+Honour aur insult bhi same hain.
+
+Woh har situation mein balanced rehta hai.
+
+Wise Person Sabko Equal Dekhta Hai
+
+Ek true yogi sabhi logon ko equality se dekhta hai.
+
+Friend ho ya enemy.
+
+Apna ho ya stranger.
+
+Koi uski help kare ya oppose kare.
+
+Good person ho ya bad person.
+
+Woh sabke andar ek hi divine presence ko dekhta hai.
+
+Uske liye gold, stone aur mitti mein bhi excessive attachment nahi hoti.
+
+Meditation Kaise Karein?
+
+Krishna ne Arjuna ko meditation ka simple method bataya.
+
+Ek clean aur quiet place choose karo.
+
+Bahut high ya bahut low seat na ho.
+
+Comfortably baitho.
+
+Body, head aur neck ko straight rakho.
+
+Mind ko ek point par focus karo.
+
+Idhar-udhar baar-baar mat dekho.
+
+Apne senses ko calm karo.
+
+Fear ko side karo.
+
+Aur apna mind Krishna par focus karo.
+
+Aise regularly practice karne se mind gradually peaceful hone lagta hai.
+
+Balance Bahut Zaroori Hai
+
+Krishna ne ek important baat kahi:
+
+“Yoga extreme logon ke liye nahi hai.”
+
+Jo bahut zyada khata hai, uske liye bhi yoga difficult hai.
+
+Jo bilkul khana chhod deta hai, uske liye bhi.
+
+Jo bahut zyada sota hai, uske liye bhi.
+
+Jo bilkul sleep nahi karta, uske liye bhi.
+
+Isliye life mein balance zaroori hai.
+
+Food mein balance.
+
+Sleep mein balance.
+
+Work mein balance.
+
+Rest mein balance.
+
+Entertainment mein bhi balance.
+
+Jab lifestyle balanced hoti hai, tab mind ko control karna easier ho jaata hai.
+
+Mind Ek Lamp Ki Tarah
+
+Krishna ne ek beautiful example diya.
+
+Jaise hawa se protected place mein rakha hua lamp stable rehta hai aur flicker nahi karta, waise hi controlled mind bhi stable ho jaata hai.
+
+Meditation se mind dheere-dheere quiet hota hai.
+
+Phir person ko ek aisi happiness milti hai jo external objects se nahi milti.
+
+Ye happiness andar se aati hai.
+
+Aur jab person ise experience karta hai, toh heavy problems bhi usse easily shake nahi kar paati.
+
+Mind Baar-Baar Bhatkega
+
+Arjuna ke liye ye sab sunna easy tha, lekin practical karna difficult.
+
+Usne kaha:
+
+“Krishna, mind bahut restless hai.”
+
+“Ye noisy hai, stubborn hai aur baar-baar idhar-udhar bhaagta hai.”
+
+“Mujhe lagta hai ise control karna hawa ko rokne jaisa difficult hai.”
+
+Krishna ne agree kiya:
+
+“Haan Arjuna, mind ko control karna difficult hai.”
+
+Lekin impossible nahi hai.
+
+Krishna ne do important tools bataye:
+
+Practice.
+
+Desire ko gradually chhodna.
+
+Agar person regularly practice kare aur unnecessary desires ko control kare, toh mind slowly stable ho sakta hai.
+
+Agar Yogi Beech Mein Fail Ho Jaye Toh?
+
+Arjuna ne ek aur important question poocha:
+
+“Krishna, agar koi person faith ke saath yoga start kare, lekin successful hone se pehle hi uska mind bhatak jaye, toh uska kya hoga?”
+
+“Kya uski saari mehnat waste ho jaati hai?”
+
+Krishna ne kaha:
+
+“Nahi, bilkul nahi.”
+
+Jo person sincerely good path par chalta hai, uska effort kabhi completely waste nahi hota.
+
+Agar woh apni spiritual journey complete nahi kar pata, toh bhi uski progress continue hoti hai.
+
+Usse future mein ek achha environment aur achhe circumstances mil sakte hain.
+
+Woh dobara spiritual knowledge ki taraf attract hota hai.
+
+Aur purani practice uski help karti hai.
+
+Isliye spiritual journey mein failure bhi final failure nahi hota.
+
+Practice Kabhi Waste Nahi Hoti
+
+Krishna kehte hain:
+
+“Jo person sincerely effort karta hai, woh eventually progress karta hai.”
+
+Chahe usse time lage.
+
+Chahe ek life mein complete na ho.
+
+Uski practice aur knowledge uske saath aage badhti hai.
+
+Bahut effort ke baad devotee apne inner impurities ko overcome karta hai aur highest goal ki taraf pahunchta hai.
+
+Sabse Best Yogi Kaun?
+
+Krishna ne finally Arjuna ko kaha:
+
+“Yogi ascetic se superior hai.”
+
+“Yogi sirf knowledge wale person se bhi superior hai.”
+
+“Yogi sirf action karne wale person se bhi superior hai.”
+
+Isliye Krishna ne Arjuna se kaha:
+
+“Arjuna, tum yogi bano.”
+
+Aur sabhi yogiyon mein Krishna us person ko sabse dear maante hain jo:
+
+Faith ke saath Krishna ko yaad karta hai,
+
+apna mind Krishna mein rakhta hai,
+
+aur pure heart se unki devotion karta hai.
+
+Simple Lesson
+
+Is chapter ka main message hai:
+
+Mind ko control karo.
+
+Regular practice karo.
+
+Desires ko control karo.
+
+Life mein balance rakho.
+
+Failure se discourage mat ho.
+
+Aur sabse important—
+
+Spiritual journey mein kiya gaya sincere effort kabhi waste nahi hota.
+
+Jo person apne mind ko control karke, faith aur devotion ke saath aage badhta hai, woh dheere-dheere inner peace aur highest spiritual goal ki taraf pahunchta hai. """
             create_image_text_layout(
                 text_content=text2,
                 layout="full"
