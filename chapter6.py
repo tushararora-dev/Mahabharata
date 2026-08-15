@@ -4154,7 +4154,22 @@ Jo person apne mind ko control karke, faith aur devotion ke saath aage badhta ha
 
         # Section 6.3.19
         with st.expander("Section 6.3.19  Section XXXI (Bhagavad Gita Chapter VII)"):
-            text1 = """ """
+            text1 = """ Bhagavad Gita – Chapter VII
+Bhagwan Shri Krishna aur Arjuna ki Baat
+
+Sanjaya ne Dhritarashtra ko bataya ki Bhagwan Shri Krishna ne Arjuna se kaha:
+
+“Hey Arjuna, dhyaan se meri baat suno.
+
+Agar tum apna mind mujh par laga kar, pure faith ke saath meri bhakti karoge aur meri sharan loge, to tum mujhe truly samajh sakoge.
+
+Main tumhe ab knowledge aur experience dono ke baare mein bataunga. Inhe samajhne ke baad duniya mein jaanne ke liye bahut kuch baaki nahi rahega.
+
+Hazaaron logon mein se sirf kuch log perfection ke liye mehnat karte hain. Aur unmein se bhi bahut hi kam log mujhe sach mein samajh paate hain.”
+
+Krishna ne phir apni nature ke baare mein bataya.
+
+“Arjuna, meri nature ke do forms hain. """
             create_image_text_layout(
                 "attached_assets/chapter6/6.3.19.jpg",
                 text1,
@@ -4162,7 +4177,119 @@ Jo person apne mind ko control karke, faith aur devotion ke saath aage badhta ha
                 image_position="left"
             )
 
-            text2 = """ """
+            text2 = """ Pehla hai meri lower nature. Ismein earth, water, fire, air, space, mind, intelligence aur consciousness aate hain.
+
+Lekin meri ek higher nature bhi hai. Woh living beings ke form mein hai. Isi higher nature ki wajah se poora universe exist karta hai.
+
+Samajh lo ki har living creature ka source main hi hoon. Universe ka creation bhi mujhse hota hai aur end mein iska dissolution bhi mujh mein hi hota hai.
+
+Mere se upar kuch bhi nahi hai.
+
+Jaise ek thread par pearls lage hote hain, waise hi poora universe mujh par depend karta hai.”
+
+Krishna ne kaha:
+
+“Arjuna, paani mein jo taste tum feel karte ho, woh main hoon.
+
+Sun aur Moon ki jo brightness hai, woh bhi main hoon.
+
+Vedas mein jo Om hai, woh main hoon.
+
+Space mein jo sound hai, woh main hoon.
+
+Insaan ke andar jo courage aur strength hai, woh bhi main hoon.
+
+Earth ki fragrance, fire ki brightness aur living beings ke andar jo life hai, woh sab meri hi presence hai.
+
+Jo log intelligence se blessed hain, unki intelligence bhi main hoon.
+
+Jo powerful hain, unki strength bhi main hoon.
+
+Aur jo desire duty ke according hai, woh bhi mujhse hi aata hai.”
+
+Phir Krishna ne ek important baat samjhayi.
+
+“Is duniya mein goodness, passion aur darkness—ye teen qualities hain. Ye sab mujhse hi aati hain.
+
+Lekin main in qualities se beyond hoon.
+
+Duniya ke log in teen qualities ke illusion mein phans jaate hain. Isliye woh mujhe truly samajh nahi paate.
+
+Ye illusion cross karna bahut difficult hai.
+
+Lekin jo log sincerely meri sharan lete hain, woh is illusion ko cross kar sakte hain.”
+
+Krishna ne Arjuna ko bataya ki har insaan ka nature same nahi hota.
+
+“Jo log evil kaam karte hain aur ignorance mein jeete hain, woh meri sharan nahi lete.
+
+Lekin chaar types ke achhe log mujhe worship karte hain.
+
+Koi trouble mein hota hai aur help ke liye mujhe yaad karta hai.
+
+Koi knowledge paane ke liye mujhe worship karta hai.
+
+Koi devotion ke saath mujhe yaad karta hai.
+
+Aur koi mujhe hi apna highest goal maanta hai.
+
+Inmein se sabhi good hain. Lekin jo person mujhe true knowledge ke saath samajhta hai, woh mujhe sabse dear hai.
+
+Aisa person mujhe apna sab kuch maanta hai.
+
+Bahut saare births ke baad, jab kisi person ko true knowledge milti hai, tab woh samajhta hai:
+
+‘Vasudeva hi sab kuch hai.’
+
+Lekin aisa person bahut rare hota hai.”
+
+Krishna ne phir worship ke baare mein samjhaya:
+
+“Arjuna, jis bhi form ko koi person faith ke saath worship karna chahta hai, main uski faith ko strong karta hoon.
+
+Phir woh us form ki worship karta hai aur apni wishes ke according results paata hai.
+
+Lekin aise results permanent nahi hote. Woh time ke saath khatam ho jaate hain.
+
+Jo log different divine forms ko worship karte hain, woh unhi divine worlds ko attain karte hain.
+
+Lekin jo mujhe worship karte hain, woh ultimately mujhe attain karte hain.”
+
+Krishna ne kaha:
+
+“Bahut se log mujhe sirf mere visible forms se dekhte hain. Woh meri real, eternal nature ko nahi samajh paate.
+
+Meri power ka illusion itna strong hai ki har koi mujhe directly nahi dekh sakta.
+
+Main unborn hoon aur mera destruction nahi hota.
+
+Mujhe past, present aur future—sab kuch pata hai.
+
+Lekin duniya mein bahut kam log hain jo mujhe truly jaante hain.”
+
+Phir Krishna ne human nature ki ek simple baat samjhayi.
+
+“Jab insaan duniya mein aata hai, tab woh desire aur hatred, yani attraction aur dislike ke beech phans jaata hai.
+
+In opposite feelings ki wajah se uska mind confused rehta hai.
+
+Lekin jo log apne good actions se apne sins ko khatam karte hain, woh dheere-dheere is confusion se free ho jaate hain.
+
+Phir woh strong faith ke saath meri worship karte hain.
+
+Jo log old age aur death se freedom paane ke liye meri sharan lete hain, woh Brahman, Adhyatma aur Karma ko samajhne lagte hain.”
+
+Ant mein Krishna ne kaha:
+
+“Jo log mujhe Adhibhuta, Adhidaiva aur Adhiyajna ke saath samajhte hain aur apna mind mujh par fix karte hain, woh apni life ke final moment par bhi mujhe yaad rakhte hain.
+
+Aur jo mujhe truly jaante hain, woh mere highest reality ko samajh kar mujhe hi attain karte hain.”
+
+Arjuna silently Krishna ki baatein sun raha tha.
+
+Uske mind mein ab ek baat clear hone lagi thi—
+
+Krishna sirf uske saamne khade ek friend nahi the. Krishna poore universe ke source aur har living being ke andar present divine truth the. """
             create_image_text_layout(
                 text_content=text2,
                 layout="full"
@@ -4171,7 +4298,22 @@ Jo person apne mind ko control karke, faith aur devotion ke saath aage badhta ha
 
         # Section 6.3.20
         with st.expander("Section 6.3.20  Section XXXII (Bhagavad Gita Chapter VIII)"):
-            text1 = """ """
+            text1 = """ Bhagavad Gita – Chapter VIII
+Arjuna ke Questions aur Krishna ke Answers
+
+Sanjaya ne Dhritarashtra ko bataya ki Arjuna ne Shri Krishna se kuch important questions pooche.
+
+Arjuna bola:
+
+“Hey Krishna, mujhe batao ki Brahman kya hai? Adhyatma kya hai? Karma kise kehte hain?
+
+Adhibhuta aur Adhidaiva kya hain?
+
+Aur is body ke andar Adhiyajna kaun hai?
+
+Jab ek insaan apni body chhodta hai, us final moment mein aapko kaise jaana ja sakta hai?”
+
+Krishna ne calmly Arjuna ko answer diya. """
             create_image_text_layout(
                 "attached_assets/chapter6/6.3.20.jpg",
                 text1,
@@ -4179,7 +4321,117 @@ Jo person apne mind ko control karke, faith aur devotion ke saath aage badhta ha
                 image_position="left"
             )
 
-            text2 = """ """
+            text2 = """ “Arjuna, Brahman woh Supreme aur eternal reality hai jo kabhi destroy nahi hoti.
+
+Adhyatma us Supreme reality ka inner nature hai.
+
+Aur jo offering ya action creation aur growth ka reason banta hai, use Karma kaha jaata hai.”
+
+Phir Krishna ne ek bahut important baat kahi:
+
+“Arjuna, insaan apni life ke last moment mein jis cheez ko yaad karta hai, uski consciousness usi direction mein jaati hai.
+
+Agar koi person last time mujhe yaad karta hua body chhodta hai, to woh mujhe attain karta hai.
+
+Ismein koi doubt nahi hai.
+
+Isliye tum mujhe sirf last moment mein hi yaad mat karna.
+
+Har waqt mujhe yaad karo aur apna duty bhi perform karo.
+
+Tumhara mind aur understanding mujh par fixed rahe. Tab tum definitely mujhe attain karoge.”
+
+Arjuna dhyaan se sun raha tha.
+
+Krishna ne aage kaha:
+
+“Jo person apna mind unnecessary things se hata kar continuously Supreme Being par focus karta hai, woh Divine Supreme Being ko attain karta hai.
+
+Jab body chhodne ka time aata hai, agar person ka mind stable ho, faith strong ho aur woh apni life-energy ko control karke Supreme Being ko yaad kare, to woh highest goal ko attain karta hai.”
+
+Krishna ne phir Om ke importance ke baare mein bataya.
+
+“Jo person body chhodte waqt apne senses ko control karta hai, mind ko andar ki taraf lekar jaata hai aur Om ka dhyaan karta hai, saath hi mujhe yaad karta hai, woh highest destination ko attain karta hai.”
+
+Phir Krishna ne Arjuna ko ek simple hope di:
+
+“Jo devotee mujhe continuously yaad karta hai aur apna mind doosri cheezon mein bhatakne nahi deta, uske liye mujhe attain karna easy ho jaata hai.
+
+Jo high-souled people mujhe attain kar lete hain, unhe phir is temporary aur painful world mein baar-baar birth nahi lena padta.
+
+Duniya ke almost sabhi levels par birth aur death ka cycle hai.
+
+Lekin jo mujhe attain kar leta hai, uske liye rebirth nahi hota.”
+
+Krishna ne phir universe ke bahut bade cycle ke baare mein samjhaya.
+
+“Arjuna, Brahma ka ek day aur night humare normal day aur night jaise nahi hain.
+
+Brahma ka day bahut, bahut long hota hai. Aur uski night bhi utni hi long hoti hai.
+
+Brahma ke day ke beginning mein jo kuch unmanifest hota hai, woh manifest hone lagta hai.
+
+Aur jab Brahma ki night aati hai, to wahi sab kuch phir unmanifest mein dissolve ho jaata hai.
+
+Creatures baar-baar appear hote hain aur phir dissolve ho jaate hain.
+
+Phir day aata hai aur woh dobara appear hote hain.
+
+Ye cycle continuously chalti rehti hai.”
+
+Lekin Krishna ne kaha ki is sabke beyond bhi ek reality hai.
+
+“Arjuna, is temporary universe ke beyond ek aur eternal reality hai.
+
+Woh kabhi destroy nahi hoti.
+
+Jab poora universe dissolve ho jaata hai, tab bhi woh Supreme reality remain karti hai.
+
+Usi ko highest goal kaha gaya hai.
+
+Jo us Supreme Being ko attain kar leta hai, usse dobara is world mein return nahi karna padta.
+
+Wahi mera Supreme seat hai.
+
+Us Supreme Being ke andar poora universe exist karta hai aur usi se poora universe filled hai.
+
+Jo person pure devotion ke saath usse attain karna chahta hai, woh us highest reality tak pahunch sakta hai.”
+
+Phir Krishna ne life ke baad ke do spiritual paths ke baare mein bataya.
+
+“Arjuna, scriptures mein do important paths bataye gaye hain.
+
+Pehla bright path hai.
+
+Is path ko fire, light, day aur bright fortnight ke symbols se samjhaya gaya hai. Jo enlightened devotees is path se jaate hain, woh Supreme reality ko attain karte hain aur wapas nahi aate.
+
+Doosra dark path hai.
+
+Ismein darkness, night aur dark fortnight ke symbols hain. Is path se jaane wala person lunar world tak pahunch sakta hai, lekin usse eventually wapas return karna padta hai.
+
+Ye dono paths bahut old aur eternal maane gaye hain.
+
+Jo person in dono paths ko samajh leta hai, woh confused nahi hota.”
+
+Krishna ne end mein Arjuna se kaha:
+
+“Isliye Arjuna, har waqt devotion mein raho.
+
+Jo person is knowledge ko truly samajh leta hai, woh sirf Vedas ka knowledge, sacrifices, penance aur charity ke rewards hi nahi paata.
+
+Woh in sabse bhi higher reward paata hai—
+
+Supreme aur eternal reality ko attain karta hai.”
+
+Arjuna ne Krishna ki baatein suni.
+
+Ab usse samajh aa raha tha ki life sirf birth aur death ka cycle nahi hai.
+
+Insaan ka mind, actions aur final focus uski journey ko decide karte hain.
+
+Aur Krishna ka message simple tha:
+
+“Mujhe yaad karo, apna duty karo, aur apna mind Supreme truth par rakho.” """
             create_image_text_layout(
                 text_content=text2,
                 layout="full"
@@ -4188,7 +4440,22 @@ Jo person apne mind ko control karke, faith aur devotion ke saath aage badhta ha
 
         # Section 6.3.21
         with st.expander("Section 6.3.21  Section XXXIII (Bhagavad Gita Chapter IX)"):
-            text1 = """ """
+            text1 = """ Bhagavad Gita – Chapter IX
+Krishna ka Sabse Secret aur Powerful Knowledge
+
+Sanjaya ne Dhritarashtra ko bataya ki Shri Krishna ne Arjuna se kaha:
+
+“Arjuna, ab main tumhe ek bahut special knowledge bataunga.
+
+Ye knowledge bahut secret hai, lekin ise samajhna possible hai. Isse tum apne andar ke doubts aur negativity se free ho sakte ho.
+
+Ye royal knowledge hai aur royal secret bhi.
+
+Ye pure aur powerful hai. Isse experience bhi kiya ja sakta hai.
+
+Aur sabse achhi baat—ye samajhna relatively easy hai aur iska truth kabhi destroy nahi hota.”
+
+Krishna ne kaha: """
             create_image_text_layout(
                 "attached_assets/chapter6/6.3.21.jpg",
                 text1,
@@ -4196,7 +4463,201 @@ Jo person apne mind ko control karke, faith aur devotion ke saath aage badhta ha
                 image_position="left"
             )
 
-            text2 = """ """
+            text2 = """ “Jo log is knowledge par faith nahi rakhte, woh mujhe attain nahi kar paate. Woh baar-baar isi temporary world ke cycle mein return karte hain.
+
+Arjuna, poora universe meri unmanifest form se filled hai.
+
+Sabhi living beings mujh par depend karte hain, lekin main unke physical form mein limited nahi hoon.
+
+Meri divine power ko dekho.
+
+Main sabko support karta hoon aur sabke existence ka source hoon, phir bhi main kisi ek body mein limited nahi hoon.
+
+Jaise hawa poori space mein spread hoti hai, waise hi saare beings mujh mein exist karte hain.”
+
+Krishna ne universe ke cycle ke baare mein bataya:
+
+“Jab ek Kalpa end hota hai, sabhi beings meri unmanifest nature mein merge ho jaate hain.
+
+Aur jab naya Kalpa start hota hai, main unhe phir se create karta hoon.
+
+Nature ke rules ke according ye creation ka process baar-baar hota rehta hai.
+
+Main is poore process ko observe karta hoon, lekin main in actions se attached nahi hota.
+
+Meri supervision mein nature moving aur non-moving sabhi beings ko create karti hai.
+
+Isi wajah se universe birth aur destruction ke cycle mein chalta rehta hai.”
+
+Phir Krishna ne un logon ke baare mein bataya jo unhe samajh nahi paate.
+
+“Jo log meri supreme nature ko nahi samajhte, woh mujhe sirf ek normal human body ke roop mein dekhte hain.
+
+Unki hopes aur efforts wrong direction mein chale jaate hain.
+
+Lekin jo high-souled people meri divine nature ko samajhte hain, woh mujhe sabhi beings ka source aur eternal reality maankar worship karte hain.
+
+Koi mujhe continuously praise karta hai.
+
+Koi strong discipline ke saath devotion karta hai.
+
+Aur koi respect ke saath mujhe bow karta hai.
+
+Unka mind kisi aur direction mein nahi bhatakta.”
+
+Krishna ne kaha:
+
+“Kuch log knowledge ke through worship karte hain.
+
+Woh mujhe ek Supreme reality ke roop mein dekhte hain.
+
+Kuch log mujhe different forms mein dekhte hain.
+
+Lekin unka ultimate goal mujhe hi samajhna hota hai.”
+
+Phir Krishna ne bataya ki woh har jagah present hain.
+
+“Arjuna, sacrifice mein jo offering hoti hai, woh main hoon.
+
+Sacred mantra main hoon.
+
+Fire main hoon.
+
+Sacrifice mein diya gaya offering bhi main hoon.
+
+Main is universe ka father hoon.
+
+Main mother hoon.
+
+Main creator hoon.
+
+Main sabka ancient source hoon.
+
+Main woh truth hoon jise jaana chahiye.
+
+Main Om hoon.
+
+Main Vedas ka knowledge hoon.
+
+Main goal hoon.
+
+Main support hoon.
+
+Main protector hoon.
+
+Main witness hoon.
+
+Main refuge hoon.
+
+Main friend hoon.
+
+Main creation ka source bhi hoon aur destruction ka reason bhi.
+
+Main eternal seed hoon jisse sab kuch originate hota hai.
+
+Main heat deta hoon.
+
+Main rain ko create aur control karta hoon.
+
+Main immortality bhi hoon aur death bhi.
+
+Jo exist karta hai aur jo unmanifest hai, dono mujhse hi connected hain.”
+
+Arjuna Krishna ki baatein sun kar deeply sochne laga.
+
+Krishna ne phir bataya ki sirf temporary rewards ke liye ki gayi worship ka result bhi temporary hota hai.
+
+“Jo log Vedas ke rituals follow karte hain, sacrifices karte hain aur heavenly pleasures ki desire rakhte hain, woh apne good actions ke result se heaven tak pahunch sakte hain.
+
+Wahan unhe bahut happiness milti hai.
+
+Lekin jab unke good deeds ka result khatam ho jaata hai, to unhe dobara mortal world mein return karna padta hai.
+
+Isliye jo log sirf desires ke peeche worship karte hain, woh baar-baar going and coming ke cycle mein rehte hain.”
+
+Krishna ne kaha:
+
+“Lekin jo devotees mujhe hi apna main goal bana kar worship karte hain, main unki needs ka dhyaan rakhta hoon.
+
+Jo mere devotees hain aur pure faith ke saath mujhe yaad karte hain, main unhe support karta hoon.”
+
+Phir Krishna ne ek beautiful baat kahi:
+
+“Jo log faith ke saath kisi aur divine form ko worship karte hain, woh bhi ultimately mujhe hi worship kar rahe hote hain, although unka method direct nahi hota.”
+
+Krishna ne sacrifice ke baare mein kaha:
+
+“Main hi sabhi sacrifices ka true enjoyer aur Lord hoon.
+
+Lekin jo log mujhe truly nahi samajhte, unhe permanent result nahi milta.
+
+Jo ancestors ko worship karte hain, woh ancestors ke world ko attain karte hain.
+
+Jo lower spirits ko worship karte hain, woh unhi worlds ko attain karte hain.
+
+Aur jo mujhe worship karte hain, woh mujhe attain karte hain.”
+
+Phir Krishna ne ek bahut simple example diya:
+
+“Arjuna, agar koi person mujhe pure heart se ek leaf, flower, fruit ya water bhi offer karta hai, main us offering ko accept karta hoon.
+
+Important ye nahi hai ki offering kitni expensive hai.
+
+Important hai ki woh pure heart aur devotion se di gayi hai.”
+
+Krishna ne Arjuna ko daily life ka ek simple rule diya:
+
+“Tum jo bhi karte ho, jo bhi khaate ho, jo bhi peete ho, jo bhi donate karte ho, aur jo bhi discipline ya austerity follow karte ho—
+
+use mujhe offering samajhkar karo.
+
+Aisa karne se tum apne actions ke good aur bad results ke bondage se gradually free ho jaoge.
+
+Tumhara mind attachment se free hoga aur tum mujhe attain karoge.”
+
+Phir Krishna ne equality ki baat samjhayi:
+
+“Main sabhi beings ko equally dekhta hoon.
+
+Mere liye koi hateful nahi hai aur koi specially favourite bhi nahi.
+
+Lekin jo mujhe pure devotion se worship karte hain, woh mere saath connected ho jaate hain aur main unke saath.”
+
+Krishna ne Arjuna ko hope dete hue kaha:
+
+“Arjuna, agar koi person bahut galat life jee raha tha, lekin ab sincerely mujhe worship karne laga hai aur apna direction change kar raha hai, to usse bhi good person maana jaana chahiye.
+
+Kyuki ab uska direction sahi hai.
+
+Aisa person jaldi hi apne andar goodness develop karta hai aur eternal peace paata hai.”
+
+Phir Krishna ne ek bahut powerful message diya:
+
+“Mera devotee kabhi lost nahi hota.”
+
+“Chahe koi bhi person ho, agar woh sincerely meri sharan leta hai, woh highest goal attain kar sakta hai.
+
+Isliye Arjuna, is temporary aur difficult world mein rehkar apna mind mujh par fix karo.
+
+Mere devotee bano.
+
+Mujhe sincerely worship karo.
+
+Mujhe respect ke saath bow karo.
+
+Mujhe apna refuge banao.
+
+Apne mind ko mujh par focus karo.
+
+Aisa karoge to tum definitely mujhe attain karoge.”
+
+Arjuna ne Krishna ki baat ko deeply feel kiya.
+
+Usse samajh aa gaya ki Krishna ke liye expensive offerings ya special rituals se zyada important ek pure heart aur true devotion hai.
+
+Aur Krishna ka simple message tha:
+
+“Jo bhi karo, mujhe yaad karke karo. Pure heart se karo. Aur mujhe apna highest goal banao.” """
             create_image_text_layout(
                 text_content=text2,
                 layout="full"
@@ -4205,7 +4666,22 @@ Jo person apne mind ko control karke, faith aur devotion ke saath aage badhta ha
 
         # Section 6.3.22
         with st.expander("Section 6.3.22  Section XXXIV (Bhagavad Gita Chapter X)"):
-            text1 = """ """
+            text1 = """ Bhagavad Gita – Chapter X
+Krishna ki Divine Powers
+
+Sanjaya ne Dhritarashtra ko bataya ki Shri Krishna ne Arjuna se kaha:
+
+“Arjuna, ek baar phir meri baat dhyaan se suno.
+
+Main tumhare good ke liye tumhe apni kuch special aur divine baatein bataunga.
+
+Meri real beginning ko gods aur great Rishis bhi completely nahi jaante.
+
+Kyunki main hi gods aur Rishis ka source hoon.
+
+Jo person mujhe Supreme Lord maanta hai aur samajhta hai ki mera koi beginning ya birth nahi hai, woh confusion aur sins se free ho jaata hai.”
+
+Krishna ne kaha: """
             create_image_text_layout(
                 "attached_assets/chapter6/6.3.22.jpg",
                 text1,
@@ -4213,7 +4689,275 @@ Jo person apne mind ko control karke, faith aur devotion ke saath aage badhta ha
                 image_position="left"
             )
 
-            text2 = """ """
+            text2 = """ “Arjuna, duniya mein jo bhi qualities tum dekhte ho—intelligence, knowledge, forgiveness, truth, self-control, peace, happiness, sadness, birth, death, fear, courage, contentment, charity aur fame—ye sab kisi na kisi form mein mujhse hi aati hain.
+
+Great Rishis aur Manus bhi meri divine nature se hi aaye hain.
+
+Aur unse hi duniya mein bahut saari living beings ka creation hua.”
+
+Phir Krishna ne ek important baat kahi:
+
+“Jo person meri divine powers ko truly samajh leta hai, uski devotion strong ho jaati hai.
+
+Woh samajhta hai:
+
+‘Krishna hi sab kuch ka source hain. Jo kuch bhi exist karta hai, woh Krishna se hi aaya hai.’
+
+Aise wise people pure heart se meri worship karte hain.
+
+Unka mind mujh par laga rehta hai.
+
+Unki life mujhe dedicated hoti hai.
+
+Woh ek-doosre se mere baare mein baat karte hain, meri greatness discuss karte hain aur mujhe yaad karke khush rehte hain.
+
+Aur jo devotees mujhe pure love se worship karte hain, main unhe woh knowledge deta hoon jisse woh mujhe truly samajh sakein.
+
+Main unke heart mein knowledge ka light jala deta hoon.
+
+Aur us light se unki ignorance ka darkness khatam ho jaata hai.”
+
+Arjuna ne Krishna ki baat sun kar kaha:
+
+“Krishna, ab mujhe samajh aa raha hai ki aap kitne great hain.
+
+Aap Supreme Brahman hain.
+
+Aap highest destination hain.
+
+Aap sabse pure aur eternal Divine Being hain.
+
+Aap beginning ke bina hain.
+
+Aap sabke Lord hain.
+
+Great Rishis bhi aapko isi tarah describe karte hain.
+
+Narada, Asita, Devala aur Vyasa jaise great Rishis bhi aapki greatness ko accept karte hain.
+
+Aur aap khud bhi mujhe yahi bata rahe hain.
+
+Main aapki baaton ko completely true maanta hoon.
+
+Gods aur Danavas bhi aapki complete nature ko nahi samajh sakte.
+
+Sirf aap hi khud ko completely jaante hain.”
+
+Arjuna ne phir kaha:
+
+“Hey Krishna, aap poore universe ke creator hain.
+
+Aap sabke Lord hain.
+
+Isliye please mujhe apni divine powers ke baare mein aur bataiye.
+
+Aap kin-kin forms mein is world mein present hain?
+
+Main jab meditation karun, to kis-kis form mein aapko yaad karun?
+
+Aapki baatein sun kar mera mind kabhi satisfied nahi hota.
+
+Mujhe aapke divine words sunna bahut achha lagta hai.”
+
+Krishna muskuraaye aur bole:
+
+“Arjuna, meri divine powers ka koi end nahi hai.
+
+Main tumhe unmein se kuch important examples bataunga.”
+
+Krishna Har Jagah Present Hain
+
+Krishna ne kaha:
+
+“Main har living being ke heart mein present Soul hoon.
+
+Main sabhi beings ka beginning hoon.
+
+Main unka middle hoon.
+
+Aur main unka end bhi hoon.
+
+Adityas mein main Vishnu hoon.
+
+Bright objects mein main Sun hoon.
+
+Maruts mein main Marichi hoon.
+
+Aur stars ke beech main Moon hoon.
+
+Vedas mein main Sama Veda hoon.
+
+Gods mein main Indra hoon.
+
+Senses mein main Mind hoon.
+
+Aur living beings mein main Intelligence hoon.”
+
+Krishna ne aage kaha:
+
+“Rudras mein main Shankara hoon.
+
+Yakshas aur Rakshasas mein main Kubera hoon.
+
+Vasus mein main Pavaka hoon.
+
+Mountains mein main Meru hoon.
+
+Great Rishis mein main Bhrigu hoon.
+
+Words mein main Om hoon.
+
+Sacrifices mein main Japa, yani mantra ka continuous remembrance, hoon.
+
+Mountains mein main Himalaya hoon.
+
+Trees mein main Peepal tree hoon.
+
+Celestial Rishis mein main Narada hoon.
+
+Gandharvas mein main Chitraratha hoon.
+
+Aur great Yogis mein main Kapila hoon.”
+
+Arjuna aur bhi dhyaan se sunne laga.
+
+Krishna ne kaha:
+
+“Horses mein main Uccaisravas hoon.
+
+Elephants mein main Airavata hoon.
+
+Human beings mein main King hoon.
+
+Weapons mein main Thunderbolt hoon.
+
+Cows mein main Kamadhenu hoon.
+
+Serpents mein main Vasuki hoon.
+
+Nagas mein main Ananta hoon.
+
+Water beings mein main Varuna hoon.
+
+Aur justice dene walon mein main Yama hoon.”
+
+Phir Krishna ne kaha:
+
+“Daityas mein main Prahlada hoon.
+
+Time ko count karne walon mein main Time hoon.
+
+Animals mein main Lion hoon.
+
+Birds mein Garuda hoon.
+
+Purifying things mein main Wind hoon.
+
+Weapons use karne walon mein main Rama hoon.
+
+Fishes mein main Makara hoon.
+
+Aur rivers mein main Ganga hoon.”
+
+Krishna ne thoda rukkar kaha:
+
+“Arjuna, created things mein main beginning, middle aur end hoon.
+
+Knowledge ke different forms mein main Supreme Spirit ka knowledge hoon.
+
+Debate karne walon mein main strong reasoning hoon.
+
+Letters mein main A hoon.
+
+Time mein main eternal Time hoon.
+
+Main woh force hoon jo sabke actions aur results ko order karti hai.
+
+Main Death hoon jo sabko eventually apne paas le jaati hai.
+
+Aur main future mein hone wali creation ka source bhi hoon.”
+
+Krishna ne women ki qualities ke baare mein bhi bataya:
+
+“Women mein jo fame, fortune, speech, memory, intelligence, patience aur forgiveness jaise qualities hain, woh bhi meri divine powers hain.
+
+Songs mein main best Sama hymn hoon.
+
+Poetic metres mein main Gayatri hoon.
+
+Months mein main Margashirsha hoon.
+
+Aur seasons mein main Spring hoon, jab nature flowers se bhar jaati hai.”
+
+Phir Krishna ne kaha:
+
+“Cheating games mein main dice ka skill hoon.
+
+Brilliant people mein main unki brilliance hoon.
+
+Victory mein main victory hoon.
+
+Effort mein main effort hoon.
+
+Aur good people mein main unki goodness hoon.
+
+Vrishnis mein main Vasudeva hoon.
+
+Pandavas mein main Arjuna hoon.
+
+Ascetics mein main Vyasa hoon.
+
+Wise seers mein main Ushanas hoon.
+
+Jo log punish karte hain, unke discipline mein main hoon.
+
+Jo victory ke liye strategy banate hain, unki policy mein main hoon.
+
+Secrets mein main silence hoon.
+
+Aur knowledgeable people ki knowledge bhi main hoon.”
+
+Arjuna silently Krishna ki baatein sun raha tha.
+
+Krishna ne end mein kaha:
+
+“Arjuna, main hi sabhi things ka seed, yani source hoon.
+
+Koi bhi moving ya non-moving thing mere bina exist nahi kar sakti.
+
+Meri divine powers ki koi limit nahi hai.
+
+Maine tumhe sirf kuch examples diye hain.
+
+Duniya mein jo bhi truly great, beautiful, powerful ya glorious hai, samajh lo ki woh meri divine energy ke ek small part se hi aata hai.
+
+Isliye tumhe meri powers ko count karne ki zarurat nahi hai.
+
+Bas itna samajh lo—
+
+Main apne sirf ek small part se poore universe ko support karta hoon.”
+
+Arjuna ke liye ab Krishna sirf ek guide nahi rahe the.
+
+Usse har taraf Krishna ki presence feel hone lagi.
+
+Sun mein Krishna.
+
+Ganga mein Krishna.
+
+Mountains mein Krishna.
+
+Animals mein Krishna.
+
+Knowledge mein Krishna.
+
+Aur sabse important—
+
+har living being ke heart mein Krishna.
+
+Krishna ka message simple tha:
+
+“Duniya mein jo bhi sabse achha, powerful aur glorious hai, usmein meri divine energy ki ek jhalak hai.” """
             create_image_text_layout(
                 text_content=text2,
                 layout="full"
@@ -4222,7 +4966,26 @@ Jo person apne mind ko control karke, faith aur devotion ke saath aage badhta ha
 
         # Section 6.3.23
         with st.expander("Section 6.3.23  Section XXXV (Bhagavad Gita Chapter XI)"):
-            text1 = """ """
+            text1 = """ Bhagavad Gita – Chapter XI
+Arjuna ne Dekha Krishna ka Vishwaroop
+
+Arjuna ne Krishna ki baatein dhyaan se suni. Krishna ne use universe ki creation, destruction aur apni divine powers ke baare mein samjhaya tha.
+
+Arjuna bola:
+
+“Hey Krishna, aapne jo mujhe Supreme truth ke baare mein bataya hai, usse mera confusion door ho gaya hai.
+
+Ab main aapki greatness ko samajhne laga hoon.
+
+Aapne mujhe bataya ki ye poora universe kaise create aur dissolve hota hai. Aapki divine powers ke baare mein bhi maine suna.
+
+Ab meri ek wish hai.
+
+Agar aapko lagta hai ki main aapke us Supreme form ko dekhne ke capable hoon, to please mujhe apna eternal form dikhaaiye.”
+
+Krishna ne Arjuna ki request accept kar li.
+
+Krishna bole: """
             create_image_text_layout(
                 "attached_assets/chapter6/6.3.23.jpg",
                 text1,
@@ -4230,7 +4993,343 @@ Jo person apne mind ko control karke, faith aur devotion ke saath aage badhta ha
                 image_position="left"
             )
 
-            text2 = """ """
+            text2 = """ “Arjuna, mere forms sirf ek ya do nahi hain.
+
+Tum mere hundreds aur thousands of divine forms dekh sakte ho.
+
+Different colours, different shapes aur different divine powers ke saath.
+
+Adityas, Vasus, Rudras, Ashvins aur Maruts—sabko dekho.
+
+Aur unke alawa bhi bahut saare aise wonders dekho jo tumne pehle kabhi nahi dekhe.
+
+Tum mere andar poora universe dekh sakte ho.
+
+Jo kuch moving hai aur jo kuch still hai, sab ek hi place par mere andar present hai.”
+
+Phir Krishna ne ek important baat kahi:
+
+“Lekin Arjuna, tum apni normal human eyes se mera ye form nahi dekh sakte.
+
+Isliye main tumhe divine sight deta hoon.
+
+Ab meri Supreme divine power ko dekho.”
+
+Krishna ne itna kaha aur apna Vishwaroop reveal kar diya.
+
+Sanjaya ne Dhritarashtra ko bataya:
+
+Krishna ne Arjuna ke saamne apna Supreme Universal Form dikha diya.
+
+Arjuna ne ek aisa roop dekha jisme bahut saare faces, eyes, arms aur bodies the.
+
+Us form par countless divine ornaments the.
+
+Uske haath mein divine weapons the.
+
+Woh celestial clothes aur garlands se decorated tha.
+
+Us form se ek extraordinary light nikal rahi thi.
+
+Woh form endless tha aur uski direction har taraf thi.
+
+Agar sky mein ek saath hazaar suns rise kar jaate, to unki combined brightness bhi us divine form ki brightness ke saamne chhoti lagti.
+
+Arjuna ne Krishna ke us form ke andar poora universe dekha.
+
+Gods, Rishis aur countless beings sab usi Universal Form ke andar dikh rahe the.
+
+Arjuna ye sab dekh kar completely amazed ho gaya.
+
+Uske body ke hairs stand ho gaye.
+
+Usne apne hands join kiye aur Krishna ke saamne head bow kar diya.
+
+Arjuna bola:
+
+“Hey Krishna, main aapke andar sabhi gods ko dekh raha hoon.
+
+Main different types ke creatures ko dekh raha hoon.
+
+Main Brahma ko bhi dekh raha hoon.
+
+Main great Rishis aur divine snakes ko bhi dekh raha hoon.
+
+Aapke innumerable arms hain.
+
+Bahut saare stomachs hain.
+
+Bahut saare mouths aur eyes hain.
+
+Aap har direction mein present hain.
+
+Main aapka beginning nahi dekh pa raha.
+
+Main aapka middle nahi dekh pa raha.
+
+Aur main aapka end bhi nahi dekh pa raha.
+
+Aap truly Infinite hain.”
+
+Arjuna ne Krishna ke weapons aur divine energy ko dekha.
+
+“Main aapko crown, mace aur discus ke saath dekh raha hoon.
+
+Aapki energy itni powerful hai ki aapko directly dekhna bhi difficult hai.
+
+Aap blazing fire aur Sun ki tarah glow kar rahe hain.
+
+Aap immeasurable hain.
+
+Aap eternal hain.
+
+Aap is entire universe ke Supreme reality hain.
+
+Sun aur Moon aapki eyes jaise dikh rahe hain.
+
+Aapka mouth blazing fire ki tarah hai.
+
+Aapki energy poore universe ko heat kar rahi hai.
+
+Heaven aur Earth ke beech ki poori space aapse filled hai.”
+
+Lekin Krishna ka Vishwaroop sirf beautiful nahi tha.
+
+Uska ek terrible aur frightening side bhi tha.
+
+Arjuna ne dekha ki bahut saare gods Krishna ke form mein enter kar rahe hain.
+
+Kuch beings fear ke saath hands join karke Krishna ko pray kar rahe the.
+
+Great Rishis aur Siddhas Krishna ki praise kar rahe the.
+
+Rudras, Adityas, Vasus, Ashvins, Maruts, Gandharvas, Yakshas aur other divine beings bhi us form ko dekh kar amazed the.
+
+Arjuna ka fear aur badh gaya.
+
+Usne Krishna ka ek aisa form dekha jisme countless mouths, eyes, arms, legs aur terrifying teeth the.
+
+Woh form sky tak spread ho raha tha.
+
+Uski brightness bahut intense thi.
+
+Uske mouths huge aur frightening the.
+
+Arjuna ka mind tremble karne laga.
+
+Usse peace feel nahi ho rahi thi.
+
+Usne kaha:
+
+“Hey Krishna, main aapka ye terrifying form dekh kar bahut dar gaya hoon.
+
+Mujhe directions tak samajh nahi aa rahi hain.
+
+Mera mind completely disturbed ho gaya hai.
+
+Please mujh par mercy kijiye.
+
+Aap hi universe ka refuge hain.”
+
+Phir Arjuna ne ek aur frightening scene dekha.
+
+Dhritarashtra ke sons, bahut saare kings, Bhishma, Drona, Karna aur doosre great warriors Krishna ke terrifying mouths ki taraf rapidly ja rahe the.
+
+Kuch warriors Krishna ke teeth ke beech crush hote hue dikh rahe the.
+
+Arjuna ne kaha:
+
+“Ye sab warriors aapki taraf aise ja rahe hain jaise rivers fast flow karke ocean mein jaati hain.
+
+Aur jaise moths jalti hui fire ki taraf khud hi chale jaate hain, waise hi ye warriors aapke flaming mouths mein enter kar rahe hain.
+
+Aap unhe har taraf se swallow kar rahe hain.
+
+Aapki energy poore universe ko fill kar rahi hai.
+
+Aapki powerful radiance sab kuch heat kar rahi hai.
+
+Hey Krishna, aap kaun hain?
+
+Aap itne fierce form mein kya kar rahe hain?
+
+Please mujhe bataiye.
+
+Main aapki reality samajhna chahta hoon.”
+
+Krishna ne Arjuna ko answer diya:
+
+“Arjuna, main Death hoon—the destroyer of worlds.
+
+Ab main in warriors ke destruction ke liye present hoon.
+
+Tumhare bina bhi ye warriors apne end ki taraf ja rahe hain.
+
+Isliye ab tum sirf mera instrument bano.
+
+Utho.
+
+Fight karo.
+
+Apna duty perform karo.
+
+Victory hasil karo.
+
+Drona, Bhishma, Jayadratha, Karna aur doosre warriors already mere divine plan mein defeated hain.
+
+Tum bas apna role perform karo.
+
+Dar mat.
+
+Battle karo.
+
+Tum apne enemies ko defeat karoge.”
+
+Krishna ki ye baat sunkar Arjuna ka body tremble kar raha tha.
+
+Usne hands join kiye aur Krishna ke saamne bow kiya.
+
+Fear ke kaaran uski voice bhi properly nahi nikal rahi thi.
+
+Phir Arjuna bola:
+
+“Hey Krishna, aapki praise karna bilkul natural hai.
+
+Aapko dekh kar good beings aapko respect karte hain.
+
+Aur Rakshasas fear ke saath har direction mein bhaag rahe hain.
+
+Siddhas aapko bow kar rahe hain.
+
+Aisa hona hi chahiye.
+
+Aap Supreme Soul hain.
+
+Aap Brahma se bhi greater hain.
+
+Aap sabke original cause hain.
+
+Aap Infinite hain.
+
+Aap universe ke refuge hain.
+
+Aap eternal hain.
+
+Aap hi woh reality hain jo exist karti hai aur jo unmanifest hai.
+
+Aap hi sabse ancient Divine Being hain.
+
+Aap hi Knower hain.
+
+Aap hi woh Supreme truth hain jise jaana chahiye.
+
+Aur poora universe aapse hi filled hai.”
+
+Arjuna ko achanak apni purani baatein yaad aayi.
+
+Usne Krishna ko hamesha apna friend samjha tha.
+
+Kabhi woh Krishna ko casually “O Krishna,” “O Yadava,” “O friend” keh deta tha.
+
+Kabhi unke saath mazaak karta tha.
+
+Saath mein baithta tha.
+
+Saath mein khana khata tha.
+
+Kabhi private mein aur kabhi doosre logon ke saamne bhi usne Krishna ke saath casual behaviour kiya tha.
+
+Ab Krishna ka Universal Form dekh kar Arjuna ko samajh aa gaya ki woh kitni great divine personality ke saamne tha.
+
+Arjuna bola:
+
+“Hey Krishna, agar maine friendship ya love ki wajah se kabhi aapke saath disrespectfully behave kiya ho, to please mujhe forgive kijiye.
+
+Mujhe aapki real greatness pata nahi thi.
+
+Ab mujhe samajh aa gaya hai ki aap mere normal friend se kahin zyada hain.
+
+Aap poore universe ke father hain.
+
+Aap great master hain.
+
+Aapke equal koi nahi hai.
+
+Aapse greater bhi koi nahi ho sakta.
+
+Isliye main aapke saamne bow karta hoon.
+
+Please mere mistakes ko waise hi forgive kijiye jaise ek father apne child ki mistakes forgive karta hai.”
+
+Phir Arjuna ne request ki:
+
+“Krishna, aapka ye Universal Form dekh kar main amazed bhi hoon aur frightened bhi.
+
+Please ab apna woh familiar form dikhaaiye.
+
+Wahi form jisme crown ho, mace ho aur discus ho.
+
+Main aapko phir se us gentle form mein dekhna chahta hoon.”
+
+Krishna ne Arjuna ki request accept kar li.
+
+Krishna bole:
+
+“Arjuna, maine tumhe apna ye Supreme Universal Form apni divine power se dikhaya hai.
+
+Ye form bahut rare hai.
+
+Tumhare alawa kisi human ne ise is tarah nahi dekha.
+
+Sirf Vedas padhne, sacrifices karne, gifts dene ya severe austerities karne se bhi ye form directly dekhna possible nahi hai.
+
+Lekin tum daro mat.
+
+Apna fear chhod do.
+
+Ab tum mujhe mere gentle form mein dobara dekhoge.”
+
+Krishna ne apna terrifying Universal Form withdraw kar liya.
+
+Phir woh apne familiar, gentle human form mein Arjuna ke saamne khade ho gaye.
+
+Krishna ne Arjuna ko comfort kiya.
+
+Arjuna ne Krishna ka normal form dekha aur uska mind finally calm ho gaya.
+
+Woh bola:
+
+“Hey Krishna, ab aapko apne familiar human form mein dekhkar mera mind stable ho gaya hai.
+
+Ab main normal feel kar raha hoon.”
+
+Krishna ne kaha:
+
+“Arjuna, jo form tumne abhi dekha, woh bahut rare hai.
+
+Even gods bhi us form ko dekhne ki wish rakhte hain.
+
+Sirf Vedas, austerities, charity ya sacrifices se mujhe us form mein truly nahi jaana ja sakta.
+
+Lekin pure devotion se mujhe truly know kiya ja sakta hai.
+
+Jo person mere liye apne actions karta hai, mujhe apna highest goal maanta hai, attachment se free rehta hai aur kisi being se hatred nahi rakhta—
+
+woh ultimately mujhe attain karta hai.”
+
+Arjuna ne Krishna ki baat samajh li.
+
+Usne dekha tha ki Krishna sirf uske friend nahi the.
+
+Krishna ke andar poora universe tha.
+
+Creation bhi unhi se connected thi.
+
+Destruction bhi unhi ke control mein tha.
+
+Aur Arjuna ka role simple tha—
+
+apna duty karo, fear ko chhodo, aur Krishna par trust rakho. """
             create_image_text_layout(
                 text_content=text2,
                 layout="full"
@@ -4239,7 +5338,22 @@ Jo person apne mind ko control karke, faith aur devotion ke saath aage badhta ha
 
         # Section 6.3.24
         with st.expander("Section 6.3.24  Section XXXVI (Bhagavad Gita Chapter XII)"):
-            text1 = """ """
+            text1 = """ Bhagavad Gita – Chapter XII
+Bhakti Yoga – Krishna ko Kaise Bhakti Karni Chahiye
+
+Arjuna ne Krishna se ek important question poocha:
+
+“Hey Krishna, jo log continuously aapki devotion karte hain aur aapke personal form ko worship karte hain, aur jo log aapko formless aur unmanifest reality ke roop mein meditate karte hain—inn dono mein se kaun devotion ko better samajhta hai?”
+
+Krishna ne calmly jawab diya:
+
+“Arjuna, jo log apna mind mujh par fix karte hain, strong faith ke saath continuously mujhe worship karte hain, main unhe sabse devoted maanta hoon.
+
+Lekin jo log Unmanifest, Eternal aur All-pervading reality par meditation karte hain, woh bhi mujhe attain kar sakte hain.
+
+Woh apne senses ko control karte hain.
+
+Sabhi beings ko equal nazar se dekhte hain. """
             create_image_text_layout(
                 "attached_assets/chapter6/6.3.24.jpg",
                 text1,
@@ -4247,7 +5361,133 @@ Jo person apne mind ko control karke, faith aur devotion ke saath aage badhta ha
                 image_position="left"
             )
 
-            text2 = """ """
+            text2 = """ Aur sabke welfare ke liye kaam karte hain.
+
+Lekin unke liye ye path difficult hai.
+
+Kyunki jo log body mein reh rahe hain, unke liye completely formless reality par mind fix karna easy nahi hota.”
+
+Phir Krishna ne Arjuna ko ek simple path bataya:
+
+“Jo log apne saare actions mujhe dedicate karte hain aur mujhe apna highest goal maante hain, woh devotion ke saath mujhe yaad karte hain.
+
+Aise devotees ko main khud is mortal world ke ocean se cross karne mein help karta hoon.
+
+Isliye apna heart mujh par fix karo.
+
+Apni understanding bhi mujh par rakho.
+
+Aisa karoge to tum eventually mere saath connected rahoge.”
+
+Arjuna ke liye Krishna ne phir devotion ke different levels samjhaye.
+
+“Lekin agar tum apna mind continuously mujh par fix nahi kar paate, to practice karo.
+
+Bar-bar apna mind mujhe yaad karne ki habit banao.
+
+Agar continuous meditation bhi difficult lagti hai, to mere liye actions karo.
+
+Apna kaam mujhe dedicate karo.
+
+Aur agar ye bhi difficult hai, to kam se kam apne actions ke results ka attachment chhod do.
+
+Apna duty karo, lekin result ko lekar excessive attachment mat rakho.”
+
+Krishna ne bataya ki spiritual growth ek step-by-step journey bhi ho sakti hai.
+
+“Knowledge achhi hai.
+
+Knowledge se bhi better meditation hai.
+
+Aur meditation se bhi important hai actions ke fruits ko release karna.
+
+Jab insaan apne actions ke results ka attachment chhod deta hai, tab uske andar peace aati hai.”
+
+Phir Krishna ne bataya ki unka favourite devotee kaisa hota hai.
+
+“Jo kisi living being se hatred nahi karta, woh mujhe dear hai.
+
+Jo friendly aur compassionate hai, woh mujhe dear hai.
+
+Jo ego se free hai aur unnecessary pride nahi karta, woh mujhe dear hai.
+
+Jo attachment se free hai.
+
+Jo happiness aur sadness dono mein balanced rehta hai.
+
+Jo forgiving hai.
+
+Jo satisfied rehta hai.
+
+Jo disciplined hai.
+
+Jo strong determination rakhta hai.
+
+Aur jiska heart aur understanding mujh par fixed hai—
+
+aisa devotee mujhe bahut dear hai.”
+
+Krishna ne aage kaha:
+
+“Jo person duniya ko unnecessary trouble nahi deta aur khud bhi duniya ki har baat se disturb nahi hota, woh mujhe dear hai.
+
+Jo excessive happiness, anger, fear aur anxiety se free hai, woh mujhe dear hai.
+
+Jo pure heart ka hai, hardworking hai aur worldly attachments mein unnecessarily involved nahi hota, woh bhi mujhe dear hai.
+
+Aur jo actions karta hai lekin unke fruits ke peeche nahi bhaagta, woh mujhe dear hai.”
+
+Krishna ne phir ek aur simple quality batayi:
+
+“Jo person unnecessary excitement ya hatred mein nahi rehta.
+
+Jo na excessive grief karta hai aur na unnecessary desires ke peeche bhaagta hai.
+
+Jo good aur bad results ke attachment ko bhi chhod deta hai.
+
+Aur jo mujh par complete faith rakhta hai—
+
+woh mujhe dear hai.”
+
+Krishna ne Arjuna ko bataya ki true devotee har situation mein balanced rehta hai.
+
+“Jo friend aur enemy ko equal respect deta hai.
+
+Jo honour aur insult mein same rehta hai.
+
+Jo cold aur heat mein balanced rehta hai.
+
+Jo pleasure aur pain dono mein stable rehta hai.
+
+Jo praise aur criticism dono ko equally leta hai.
+
+Jo unnecessary talking se bachta hai.
+
+Jo simple life se satisfied hai.
+
+Jo kisi particular place ya possession se overly attached nahi hai.
+
+Aur jiska mind steady hai aur faith strong hai—
+
+aisa devotee mujhe bahut dear hai.”
+
+Krishna ne end mein kaha:
+
+“Arjuna, jo log is path of devotion ko sincerely follow karte hain, faith ke saath mujhe apna highest goal maante hain aur isi dharma par chalte hain—
+
+woh mujhe sabse dear hain.”
+
+Arjuna ne Krishna ki baat samajh li.
+
+Krishna ka message simple tha:
+
+Bhakti ka matlab sirf worship karna nahi hai.
+
+True bhakti ka matlab hai—
+
+ego kam karna, sabke saath kindness rakhna, mind ko balanced rakhna, apna duty karna aur actions ke results ka unnecessary attachment chhod dena.
+
+Aisa person dheere-dheere inner peace paata hai aur Krishna ke aur close hota jaata hai. """
             create_image_text_layout(
                 text_content=text2,
                 layout="full"
@@ -4256,7 +5496,22 @@ Jo person apne mind ko control karke, faith aur devotion ke saath aage badhta ha
 
         # Section 6.3.25
         with st.expander("Section 6.3.25  Section XXXVII (Bhagavad Gita Chapter XIII)"):
-            text1 = """ """
+            text1 = """ Bhagavad Gita – Chapter XIII
+Kshetra aur Kshetrajna – Body aur Soul ka Sach
+
+Sanjaya ne Dhritarashtra ko bataya ki Shri Krishna ne Arjuna ko body aur soul ke baare mein ek deep truth samjhaya.
+
+Krishna bole:
+
+“Arjuna, is body ko Kshetra kaha jaata hai.
+
+Aur jo is body ko jaanta hai, use Kshetrajna kaha jaata hai.
+
+Simple words mein samjho—
+
+Body ek field hai, aur jo is body ko experience karta hai, woh Kshetrajna hai.
+
+Main bhi sabhi bodies mein Kshetrajna ke roop mein present hoon. """
             create_image_text_layout(
                 "attached_assets/chapter6/6.3.25.jpg",
                 text1,
@@ -4264,7 +5519,183 @@ Jo person apne mind ko control karke, faith aur devotion ke saath aage badhta ha
                 image_position="left"
             )
 
-            text2 = """ """
+            text2 = """ Kshetra aur Kshetrajna ko truly samajhna hi real knowledge hai.”
+
+Krishna ne phir bataya ki Kshetra sirf physical body nahi hai.
+
+Ismein five great elements, ego, intelligence, unmanifest nature, ten senses, mind aur five sense objects shamil hain.
+
+Saath hi desire, dislike, happiness, pain, body-consciousness aur courage bhi Kshetra ka part hain.
+
+Yaani jo kuch body aur mind ke experience se related hai, woh Kshetra ke andar aata hai.
+
+Phir Krishna ne bataya ki true knowledge kya hota hai.
+
+“Knowledge ka matlab sirf books padhna nahi hai.
+
+True knowledge tab hai jab insaan mein humility ho.
+
+Woh show-off na kare.
+
+Kisi ko hurt na kare.
+
+Forgiving ho.
+
+Straightforward ho.
+
+Apne teacher ka respect kare.
+
+Pure rahe.
+
+Apne mind aur senses ko control kare.
+
+Sense pleasures ke peeche blindly na bhaage.
+
+Ego ko kam kare.
+
+Aur ye samjhe ki birth, old age, disease aur death mein suffering bhi hoti hai.”
+
+Krishna ne aage kaha:
+
+“True knowledge ka matlab attachment ko kam karna bhi hai.
+
+Insaan ko family, home aur possessions se unnecessary attachment nahi rakhna chahiye.
+
+Good situation aaye ya bad situation, mind ko balanced rakhna chahiye.
+
+Mere prati steady devotion rakhni chahiye.
+
+Mind ko sirf external duniya mein busy rakhne ke bajay kabhi-kabhi solitude mein bhi rehna chahiye.
+
+Aur ye samajhna chahiye ki individual soul ka Supreme reality ke saath kya relation hai.
+
+Ye sab Knowledge hai.
+
+Aur jo iska opposite hai, woh Ignorance hai.”
+
+Phir Krishna ne bataya ki ab woh us Supreme reality ke baare mein batayenge jise truly jaanne par insaan immortality ki taraf badhta hai.
+
+“Woh Supreme Brahman beginning ke bina hai.
+
+Uska koi simple physical form nahi hai.
+
+Uske hands aur feet har taraf hain.
+
+Uski eyes, heads aur faces har direction mein hain.
+
+Woh poore universe mein present hai.
+
+Woh senses ke through experience hone wali qualities ko support karta hai, lekin khud physical senses tak limited nahi hai.
+
+Woh kisi ek cheez se attached nahi hai, phir bhi sabko support karta hai.
+
+Woh creatures ke andar bhi hai aur unke bahar bhi.
+
+Woh bahut subtle hai, isliye normal senses se easily samajh nahi aata.
+
+Woh door bhi lag sakta hai aur bahut near bhi.
+
+Woh sabhi beings ko sustain karta hai.
+
+Wahi creation ka source hai aur dissolution ka bhi.
+
+Woh sabhi lights ke beyond ki light hai.
+
+Aur sabse important—
+
+woh knowledge bhi hai, knowledge ka object bhi hai aur knowledge ka ultimate goal bhi.
+
+Wahi sabke heart mein present hai.”
+
+Krishna bole:
+
+“Arjuna, ab maine tumhe Kshetra, Knowledge aur Object of Knowledge ke baare mein short mein bata diya.
+
+Jo mera devotee is truth ko truly samajh leta hai, woh mere saath spiritually united ho jaata hai.”
+
+Phir Krishna ne Nature aur Spirit ka difference samjhaya.
+
+“Nature, yani Prakriti, aur Spirit, yani Purusha, dono beginning-less hain.
+
+Nature se body aur uski different qualities arise hoti hain.
+
+Pleasure aur pain jaise experiences bhi Nature se connected hain.
+
+Jab Spirit Nature ke saath connected hoti hai, tab woh Nature ki qualities ko experience karti hai.
+
+Isi connection ki wajah se different types ke births ka cycle continue hota hai.”
+
+Krishna ne kaha:
+
+“Is body mein Supreme Purusha ek witness ki tarah present hai.
+
+Woh observe karta hai.
+
+Woh support karta hai.
+
+Woh experience ka witness hai.
+
+Aur wahi Supreme Soul hai.
+
+Jo person Spirit, Nature aur Nature ki qualities ko truly samajh leta hai, woh birth ke cycle se free ho sakta hai.”
+
+Krishna ne bataya ki har person ka path same hona zaroori nahi hai.
+
+“Kuch log meditation ke through apne true Self ko discover karte hain.
+
+Kuch log knowledge ke path ko follow karte hain.
+
+Kuch log selfless actions aur devotion ke through truth tak pahunchte hain.
+
+Aur kuch log khud se ye sab nahi samajh paate, lekin knowledgeable people se sun kar faith ke saath follow karte hain.
+
+Aise log bhi gradually death aur ignorance ke cycle se cross kar sakte hain.”
+
+Phir Krishna ne ek important truth bataya:
+
+“Arjuna, jo bhi moving ya non-moving being duniya mein exist karti hai, woh Kshetra aur Kshetrajna, yani matter aur spirit ke connection se exist karti hai.
+
+Jo person sabhi beings mein same Supreme Lord ko dekhta hai, woh truly see karta hai.
+
+Woh samajhta hai ki body temporary hai, lekin Supreme Self imperishable hai.
+
+Isliye woh kisi being ko unnecessary harm nahi karta.
+
+Aur aisa person highest goal ki taraf badhta hai.”
+
+Krishna ne kaha:
+
+“Jo person ye samajh leta hai ki actions Nature ke through hote hain aur true Self actual doer nahi hai, woh deeper truth ko dekhne lagta hai.
+
+Jab kisi ko ye samajh aa jaata hai ki different beings ke peeche ek hi Supreme reality hai, aur sab kuch usi One source se aata hai, tab woh Brahman ko attain karta hai.”
+
+Krishna ne soul ki purity samjhane ke liye ek simple example diya:
+
+“Jaise space sab jagah present hoti hai, lekin kisi cheez se easily dirty nahi hoti, waise hi Soul body mein present hote hue bhi body ke actions se actually stained nahi hoti.
+
+Aur jaise ek hi Sun poori duniya ko light deta hai, waise hi Spirit poore field of matter ko consciousness ki light deta hai.”
+
+Krishna ne end mein kaha:
+
+“Arjuna, jo person knowledge ki eyes se Matter aur Spirit ka difference samajh leta hai, aur Nature ke bondage se freedom ka path samajh leta hai—
+
+woh Supreme reality ko attain kar leta hai.”
+
+Arjuna ab samajhne laga tha ki woh sirf apni body nahi hai.
+
+Body ek Kshetra hai.
+
+Mind aur senses bhi is field ka part hain.
+
+Lekin in sabko observe karne wala Kshetrajna, yani deeper Self, alag hai.
+
+Aur sabse deep truth ye hai—
+
+Har body ke andar ek eternal Supreme presence hai.
+
+Jo insaan is truth ko truly samajh leta hai, uski thinking badal jaati hai.
+
+Woh body aur temporary situations se beyond apne real Self ko dekhna shuru kar deta hai. """
             create_image_text_layout(
                 text_content=text2,
                 layout="full"
@@ -4273,7 +5704,18 @@ Jo person apne mind ko control karke, faith aur devotion ke saath aage badhta ha
 
         # Section 6.3.26
         with st.expander("Section 6.3.26  Section XXXVIII (Bhagavad Gita Chapter XIV)"):
-            text1 = """ """
+            text1 = """ Bhagavad Gita – Chapter XIV
+Teen Gunas – Sattva, Rajas aur Tamas
+
+Krishna ne Arjuna se kaha:
+
+“Arjuna, ab main tumhe ek aur bahut important knowledge bataunga.
+
+Ye knowledge samajhne ke baad great sages ne body ke bondage se freedom paayi hai.
+
+Jo person is knowledge ko samajh kar meri nature ko attain karta hai, woh dobara birth ke cycle mein nahi phasta.
+
+Universe ki creation ke time bhi woh disturb nahi hota aur destruction ke time bhi nahi.” """
             create_image_text_layout(
                 "attached_assets/chapter6/6.3.26.jpg",
                 text1,
@@ -4281,7 +5723,199 @@ Jo person apne mind ko control karke, faith aur devotion ke saath aage badhta ha
                 image_position="left"
             )
 
-            text2 = """ """
+            text2 = """ Phir Krishna ne creation ka ek simple secret samjhaya.
+
+“Brahma ek great cosmic womb ki tarah hai.
+
+Main usmein life ka seed place karta hoon.
+
+Usi se different living beings ka birth hota hai.
+
+Chahe koi bhi body ho aur chahe koi bhi womb ho, creation ke peeche Nature aur meri divine energy ka connection hota hai.”
+
+Teen Gunas
+
+Krishna bole:
+
+“Arjuna, Nature se teen qualities arise hoti hain.
+
+Inhe Sattva, Rajas aur Tamas kaha jaata hai.
+
+Ye teen Gunas eternal Soul ko body ke saath bind karte hain.”
+
+1. Sattva – Goodness aur Clarity
+
+“Sattva pure aur bright nature ka hai.
+
+Ye mind ko knowledge aur happiness ki taraf le jaata hai.
+
+Jab Sattva strong hota hai, insaan ka mind clear hota hai.
+
+Usse right aur wrong ko samajhne mein help milti hai.
+
+Lekin Sattva bhi ek attachment create kar sakta hai—knowledge aur happiness ka attachment.”
+
+2. Rajas – Desire aur Action
+
+“Rajas ka main nature hai desire aur attachment.
+
+Jab Rajas strong hota hai, insaan constantly kuch achieve karna chahta hai.
+
+Usse results chahiye.
+
+Woh kaam karta rehta hai.
+
+Naye goals, new desires aur achievements ke peeche bhaagta hai.
+
+Isliye Rajas insaan ko action aur work ke attachment se bind karta hai.”
+
+3. Tamas – Darkness aur Ignorance
+
+“Tamas ignorance se born hota hai.
+
+Ye insaan ke knowledge ko cover kar deta hai.
+
+Phir confusion, laziness aur excessive sleep badhne lagti hai.
+
+Insaan ko right direction samajh nahi aati.
+
+Isliye Tamas insaan ko error, laziness aur ignorance se bind karta hai.”
+
+Krishna ne simple way mein samjhaya:
+
+Sattva → happiness aur knowledge se connect karta hai.
+
+Rajas → action aur desire se connect karta hai.
+
+Tamas → confusion, laziness aur ignorance se connect karta hai.
+
+Kaunsa Guna Kab Strong Hota Hai?
+
+Krishna bole:
+
+“Jab Rajas aur Tamas weak hote hain, Sattva strong hota hai.
+
+Jab Sattva aur Tamas weak hote hain, Rajas strong hota hai.
+
+Aur jab Sattva aur Rajas weak hote hain, Tamas strong ho jaata hai.
+
+Isliye insaan ke mind mein ye teen qualities continuously rise aur fall karti rehti hain.”
+
+Krishna ne unke signs bhi bataye.
+
+“Jab Sattva strong hota hai, body aur mind ke andar knowledge ki light appear hoti hai.
+
+Jab Rajas strong hota hai, insaan mein greed, constant activity, restlessness aur desires badh jaati hain.
+
+Aur jab Tamas strong hota hai, insaan mein darkness, inactivity, confusion aur delusion badhne lagta hai.”
+
+Death ke Time Kaunsa Guna?
+
+Krishna ne kaha:
+
+“Arjuna, agar koi person Sattva ke strong state mein body chhodta hai, to woh higher aur pure regions ko attain karta hai.
+
+Agar Rajas dominate kar raha ho, to person un logon ke beech birth leta hai jo action aur work ke strongly attached hain.
+
+Aur agar Tamas dominate kar raha ho, to birth aisi conditions mein hota hai jahan ignorance zyada hoti hai.
+
+Good actions ka result good hota hai.
+
+Rajas ka result suffering hota hai.
+
+Aur Tamas ka result ignorance hota hai.”
+
+Krishna ne aur clearly samjhaya:
+
+Sattva se knowledge develop hoti hai.
+
+Rajas se greed develop hoti hai.
+
+Tamas se confusion aur ignorance develop hoti hai.
+
+Jo log Sattva mein jeete hain, woh higher direction mein move karte hain.
+
+Jo Rajas mein attached hain, woh middle level par rehte hain.
+
+Aur jo Tamas mein deeply trapped hain, woh lower direction mein chale jaate hain.
+
+Teen Gunas Se Beyond Kaise Jaayein?
+
+Krishna ne kaha:
+
+“Arjuna, real freedom tab aati hai jab insaan in teen Gunas ko bhi cross kar leta hai.
+
+Jab person samajhta hai ki Nature ke Gunas hi actions perform kar rahe hain, aur true Self unse beyond hai, tab woh meri nature ko attain kar sakta hai.
+
+Jo person Sattva, Rajas aur Tamas—teeno ko transcend kar leta hai, woh birth, death, old age aur suffering ke cycle se free ho jaata hai.
+
+Aur woh immortality ko attain karta hai.”
+
+Arjuna ne Krishna se poocha:
+
+“Hey Krishna, jo person in teen Gunas ko cross kar chuka hai, uski pehchaan kya hai?
+
+Woh kaise behave karta hai?
+
+Aur koi person in teen Gunas se beyond kaise ja sakta hai?”
+
+Krishna ne answer diya:
+
+“Jo person light, activity ya confusion ke aane par unse hate nahi karta, aur jab woh chale jaayein to unhe wapas paane ki desire bhi nahi karta—
+
+woh Gunas se beyond jaane laga hai.
+
+Woh in qualities ko observe karta hai, lekin unse control nahi hota.”
+
+Aisa person samajhta hai:
+
+“Ye Gunas apna kaam kar rahe hain. Main inka slave nahi hoon.”
+
+Krishna ne kaha:
+
+“Us person ke liye pleasure aur pain almost same ho jaate hain.
+
+Woh apne andar satisfied rehta hai.
+
+Uske liye mitti ka tukda, stone aur gold equally valuable hote hain.
+
+Usse kisi cheez ka unnecessary attraction nahi hota.
+
+Jo pasand hai aur jo pasand nahi hai, dono mein woh balanced rehta hai.
+
+Praise mile ya criticism, woh easily disturb nahi hota.
+
+Honour mile ya insult, uska mind stable rehta hai.
+
+Friend ho ya enemy, woh dono ko balanced nazar se dekhta hai.
+
+Woh unnecessary worldly competition aur attachment se free ho jaata hai.”
+
+Krishna ne end mein ek important baat kahi:
+
+“Arjuna, jo person exclusive devotion ke saath mujhe worship karta hai, woh in teen Gunas ko transcend karne ke capable ho jaata hai.
+
+Aur jab woh Gunas se beyond chala jaata hai, tab woh Brahman ki nature ko attain karne ke worthy ho jaata hai.
+
+Main hi Brahman ka support hoon.
+
+Main hi immortality ka support hoon.
+
+Main eternal truth ka support hoon.
+
+Aur main hi unbroken happiness ka source hoon.”
+
+Arjuna ne samjha ki real freedom sirf duniya se door bhaagne mein nahi hai.
+
+Real freedom tab hai jab insaan apne andar ke Sattva, Rajas aur Tamas ko pehchane.
+
+Unke influence ko samjhe.
+
+Aur dheere-dheere unse beyond uthne ki koshish kare.
+
+Krishna ka message simple tha:
+
+“Gunas ko dekho, unke slave mat bano. Apna mind steady rakho, attachment kam karo aur devotion ke through unse beyond uthne ki koshish karo.” """
             create_image_text_layout(
                 text_content=text2,
                 layout="full"
@@ -4290,7 +5924,30 @@ Jo person apne mind ko control karke, faith aur devotion ke saath aage badhta ha
 
         # Section 6.3.27
         with st.expander("Section 6.3.27  Section XXXIX (Bhagavad Gita Chapter XV)"):
-            text1 = """ """
+            text1 = """ Bhagavad Gita – Chapter XV
+Purushottama Yoga – Duniya ka Ulta Tree aur Supreme Being
+
+Sanjaya ne Dhritarashtra ko bataya ki Shri Krishna ne Arjuna ko ek unique example diya.
+
+Krishna bole:
+
+“Arjuna, imagine karo ek bahut bada Ashvattha tree hai.
+
+Lekin ye normal tree jaisa nahi hai.
+
+Iski roots upar hain aur branches neeche faili hui hain.
+
+Iske leaves Vedas ke sacred teachings jaise hain.
+
+Jo is tree ka real meaning samajh leta hai, woh Vedas ka true message samajh leta hai.”
+
+Ye tree actually worldly life ko represent karta hai.
+
+Iski branches upar aur neeche har taraf spread hoti hain.
+
+Teen Gunas—Sattva, Rajas aur Tamas—ise grow karte hain.
+
+Aur sense objects, yani jo hum dekhte, sunte, taste karte aur enjoy karte hain, is tree ke new sprouts jaise hain. """
             create_image_text_layout(
                 "attached_assets/chapter6/6.3.27.jpg",
                 text1,
@@ -4298,7 +5955,213 @@ Jo person apne mind ko control karke, faith aur devotion ke saath aage badhta ha
                 image_position="left"
             )
 
-            text2 = """ """
+            text2 = """ Iski kuch roots human world mein bhi spread hoti hain.
+
+Ye roots insaan ko actions aur unke results ke saath bind karti hain.
+
+Krishna ne kaha:
+
+“Is tree ka true beginning aur end easily samajh nahi aata.
+
+Iski roots bahut strongly fixed hain.
+
+Isliye ise ek powerful weapon se cut karna hoga.
+
+Aur woh weapon hai—
+
+Detachment.”
+
+Yaani worldly desires aur attachments ko control karna hoga.
+
+Tree ko cut karne ka matlab duniya chhod dena nahi tha.
+
+Iska matlab tha duniya ke attachment mein trapped na hona.
+
+Krishna bole:
+
+“Uske baad insaan ko us Supreme place ki search karni chahiye jahan pahunchne ke baad dobara return nahi karna padta.
+
+Us Primeval Supreme Being ki sharan lo jisse ye ancient creation start hui.”
+
+Supreme Place Tak Kaun Pahunchta Hai?
+
+Krishna ne kaha:
+
+“Jo pride aur confusion se free ho jaata hai,
+
+jo attachment ko control kar leta hai,
+
+jo Supreme Self ko samajhne mein steady rehta hai,
+
+jiski unnecessary desires khatam hone lagti hain,
+
+aur jo pleasure aur pain jaise opposites se disturb nahi hota—
+
+woh us eternal destination ko attain kar sakta hai.”
+
+Krishna ne us Supreme place ke baare mein kaha:
+
+“Us place ko light dene ke liye Sun ki zarurat nahi hai.
+
+Moon ki bhi nahi.
+
+Fire ki bhi nahi.
+
+Woh khud divine light se filled hai.
+
+Aur jo wahan pahunch jaata hai, use dobara is worldly cycle mein return nahi karna padta.
+
+Wahi mera Supreme abode hai.”
+
+Har Living Being Mein Divine Soul
+
+Phir Krishna ne Arjuna ko soul ke baare mein samjhaya.
+
+“Is living world mein individual soul meri hi eternal portion hai.
+
+Jab Soul body ke saath connect hoti hai, to woh mind aur five senses ke through duniya ko experience karti hai.”
+
+Krishna ne ek beautiful example diya:
+
+“Jab Soul ek body chhod kar doosri body ki taraf jaati hai, to woh mind aur senses ko apne saath le jaati hai.
+
+Bilkul waise hi jaise wind kisi flower ki fragrance ko apne saath le jaati hai.”
+
+Soul ears ke through sounds experience karti hai.
+
+Eyes ke through forms dekhti hai.
+
+Skin se touch.
+
+Tongue se taste.
+
+Nose se smell.
+
+Aur mind in sab experiences ko process karta hai.
+
+Krishna bole:
+
+“Lekin confused people Soul ko nahi dekh paate.
+
+Woh nahi samajh paate ki Soul body mein kab enter karti hai, kab leave karti hai aur kaise Nature ke Gunas ko experience karti hai.
+
+Lekin jinke paas knowledge ki eyes hain, woh is truth ko samajh lete hain.”
+
+Jo devotees sincerely apne true Self ko jaanne ki koshish karte hain, woh Soul ko apne andar recognize kar sakte hain.
+
+Lekin jinka mind uncontrolled hai, unke liye ye truth samajhna difficult hota hai.
+
+Krishna ki Energy Har Jagah Hai
+
+Krishna ne Arjuna se kaha:
+
+“Sun mein jo light hai aur poore universe ko illuminate karti hai—
+
+woh meri energy hai.
+
+Moon ki light mein jo splendour hai, woh bhi mera hai.
+
+Fire ki brightness bhi mujhse hi aati hai.”
+
+Krishna ne Earth ke baare mein kaha:
+
+“Main apni energy se Earth mein enter karke living beings ko support karta hoon.
+
+Moon ke through main plants aur herbs ko nourish karta hoon.”
+
+Phir Krishna ne daily life ka ek bahut simple example diya.
+
+“Arjuna, living beings ke body ke andar jo digestive fire hai, woh bhi main hoon.
+
+Life-breath ke saath milkar main different types ke food ko digest karta hoon.”
+
+Yaani hum jo food chew karte hain, drink karte hain, lick ya suck karte hain—un sabke digestion ke peeche bhi divine life-energy ka role hai.
+
+Krishna Sabke Heart Mein Hain
+
+Krishna bole:
+
+“Main sabhi living beings ke heart mein present hoon.
+
+Memory mujhse aati hai.
+
+Knowledge mujhse aati hai.
+
+Aur memory aur knowledge ka loss bhi mujhse connected hai.
+
+Saare Vedas ka ultimate purpose mujhe jaana hai.
+
+Main Vedanta ka source hoon.
+
+Aur main hi Vedas ko truly jaanta hoon.”
+
+Teen Levels of Existence
+
+Krishna ne phir Arjuna ko ek aur deep truth samjhaya.
+
+“Is world mein do types ki realities samjhi ja sakti hain.
+
+Ek hai mutable, yani jo continuously change aur destroy hoti hai.
+
+Saare physical living beings aur material forms is category mein aate hain.
+
+Doosri hai immutable, yani jo change nahi hoti.”
+
+Lekin Krishna ne kaha:
+
+“In dono se bhi beyond ek Supreme Being hai.
+
+Use Paramatman kaha jaata hai.
+
+Woh eternal Lord hai.
+
+Woh three worlds mein present hai aur unhe support karta hai.”
+
+Krishna bole:
+
+“Main changing world se beyond hoon.
+
+Aur main immutable reality se bhi higher hoon.
+
+Isi wajah se Vedas aur duniya mujhe Purushottama ke naam se jaante hain.”
+
+Purushottama Ka Meaning
+
+Purushottama ka matlab hai—
+
+The Supreme Being.
+
+Krishna ne kaha:
+
+“Arjuna, jo person confusion se free hokar mujhe Purushottama ke roop mein truly jaan leta hai, woh real knowledge ko attain karta hai.
+
+Phir woh pure heart se mujhe har way mein worship karta hai.”
+
+Krishna ne end mein kaha:
+
+“Arjuna, maine tumhe ek bahut deep aur secret knowledge bata diya hai.
+
+Jo person ise truly samajh leta hai, woh wise ho jaata hai.
+
+Aur usse life ke true purpose ka knowledge mil jaata hai.”
+
+Arjuna silently Krishna ki baat samajhne laga.
+
+Duniya ab use ek huge tree ki tarah dikh rahi thi.
+
+Desires uski branches thi.
+
+Sense pleasures uske sprouts the.
+
+Actions aur attachments uski roots thi.
+
+Aur in sabke beyond tha ek Supreme source—
+
+Purushottama.
+
+Krishna ka message simple tha:
+
+“Duniya mein raho, lekin attachment mein mat phanso. Apne true Self ko samjho, desires ko control karo aur us Supreme source ko seek karo jahan pahunchne ke baad worldly cycle mein return nahi karna padta.” """
             create_image_text_layout(
                 text_content=text2,
                 layout="full"
@@ -4307,7 +6170,26 @@ Jo person apne mind ko control karke, faith aur devotion ke saath aage badhta ha
 
         # Section 6.3.28
         with st.expander("Section 6.3.28  Section XL (Bhagavad Gita Chapter XVI)"):
-            text1 = """ """
+            text1 = """ Bhagavad Gita – Chapter XVI
+Divine aur Demonic Nature – Insaan ki Asli Pehchaan
+
+Krishna ne Arjuna se kaha:
+
+“Arjuna, har insaan ke andar kuch qualities hoti hain jo uski nature ko show karti hain.
+
+Kuch qualities divine hoti hain, jo insaan ko freedom aur higher life ki taraf le jaati hain.
+
+Aur kuch qualities demonic hoti hain, jo insaan ko bondage aur darkness ki taraf le jaati hain.”
+
+Divine Nature
+
+Krishna bole:
+
+“Jis person mein fearlessness hoti hai, uska heart pure hota hai.
+
+Woh knowledge paane ke liye sincerely effort karta hai.
+
+Yoga aur meditation mein discipline rakhta hai. """
             create_image_text_layout(
                 "attached_assets/chapter6/6.3.28.jpg",
                 text1,
@@ -4315,14 +6197,211 @@ Jo person apne mind ko control karke, faith aur devotion ke saath aage badhta ha
                 image_position="left"
             )
 
-            text2 = """ """
+            text2 = """ Woh charity karta hai.
+
+Apne senses ko control karta hai.
+
+Sacred studies karta hai.
+
+Discipline aur penance follow karta hai.
+
+Truth bolta hai.
+
+Kisi ko unnecessarily hurt nahi karta.
+
+Anger ko control karta hai.
+
+Forgiving hota hai.
+
+Calm rehta hai.
+
+Doosron ki mistakes aur faults ko baar-baar discuss nahi karta.
+
+Sabhi living beings ke liye compassion rakhta hai.
+
+Greedy nahi hota.
+
+Gentle aur humble hota hai.
+
+Unnecessarily restless nahi rehta.
+
+Strong aur energetic hota hai.
+
+Difficult situations mein bhi firm rehta hai.
+
+Clean aur disciplined life jeeta hai.
+
+Fights aur unnecessary arguments se door rehta hai.
+
+Aur sabse important—pride aur vanity se free rehta hai.”
+
+Krishna ne kaha:
+
+“Arjuna, ye sab qualities divine nature ki signs hain.
+
+Aisi qualities insaan ko freedom ki taraf le jaati hain.”
+
+Demonic Nature
+
+Phir Krishna ne opposite nature ke baare mein bataya.
+
+“Hypocrisy, pride, arrogance, anger, rude behaviour aur ignorance—
+
+ye demonic nature ki qualities hain.
+
+Aise log right aur wrong ko clearly samajhne ki koshish nahi karte.
+
+Unhe ye bhi properly pata nahi hota ki kya karna chahiye aur kya avoid karna chahiye.
+
+Unke andar purity, good conduct aur truth ki value kam ho jaati hai.”
+
+Krishna ne kaha:
+
+“Demonic nature wale log believe karte hain ki universe ke peeche koi higher truth ya guiding principle nahi hai.
+
+Unke liye life mainly desires aur enjoyment ke around revolve karti hai.
+
+Is thinking ki wajah se unki intelligence weak hoti jaati hai aur unke actions harsh aur destructive ban sakte hain.”
+
+Endless Desires
+
+Aise logon ki desires kabhi easily satisfy nahi hoti.
+
+“Unke mind mein constantly new desires chalti rehti hain.
+
+Woh kehte hain:
+
+‘Mujhe ye wealth aaj mil jayegi.’
+
+‘Baad mein aur wealth kamaunga.’
+
+‘Ye wealth already mere paas hai.’
+
+‘Ab aur bhi meri hogi.’
+
+‘Maine apne enemy ko defeat kar diya.’
+
+‘Ab main doosre enemies ko bhi defeat karunga.’
+
+‘Main powerful hoon.’
+
+‘Main successful hoon.’
+
+‘Main rich hoon.’
+
+‘Mere jaisa aur kaun hai?’
+
+Aise thoughts mein phanskar unka mind restless hota rehta hai.
+
+Woh wealth, power aur pleasure ko hi life ka highest goal samajhne lagte hain.
+
+Aur dheere-dheere woh apne hi desires ke trap mein phans jaate hain.”
+
+Krishna ne bataya ki ye attachment bahut dangerous ho sakti hai.
+
+“Aise person ki hopes ke bahut saare ropes ban jaate hain.
+
+Desire aur anger usse aur tightly bind karte hain.
+
+Woh constantly wealth aur status ke peeche bhaagta rehta hai.
+
+Uska mind unnecessary thoughts se full rehta hai.
+
+Aur delusion ke trap mein phanskar woh wrong direction mein chala jaata hai.”
+
+Pride aur Power ka Trap
+
+Krishna bole:
+
+“Kuch log wealth aur power ke pride mein itne lost ho jaate hain ki woh religious ya charitable actions bhi sirf show ke liye karte hain.
+
+Unka purpose spiritual growth nahi hota.
+
+Unhe apni wealth, power, status aur success par bahut pride hota hai.
+
+Lust aur anger bhi unke mind ko control karte hain.
+
+Aise log doosron ko disrespect karte hain aur apne andar bhi divine presence ko ignore karte hain.”
+
+Krishna ne kaha:
+
+“Jo log cruelty aur hatred mein jeete hain aur continuously wrong actions karte hain, woh baar-baar lower states mein chale jaate hain.
+
+Unka mind ignorance mein phasta jaata hai.
+
+Aur woh higher truth ko attain nahi kar paate.”
+
+Hell ke Teen Gates
+
+Phir Krishna ne Arjuna ko ek bahut important warning di:
+
+“Arjuna, self-destruction ke teen main gates hain:
+
+Lust.
+
+Anger.
+
+Greed.
+
+In teenon se bachna chahiye.”
+
+Krishna bole:
+
+“Jo person lust, anger aur greed ko control kar leta hai, woh apne welfare ke liye sahi path choose kar sakta hai.
+
+Phir woh gradually highest goal ki taraf move karta hai.”
+
+Scriptures ka Importance
+
+Krishna ne end mein kaha:
+
+“Arjuna, agar koi person scriptures ke guidance ko completely ignore karke sirf apni desires ke according actions karta hai, to woh true perfection, happiness ya highest goal attain nahi kar sakta.
+
+Isliye scriptures ko authority ke roop mein samjho.
+
+Kya karna chahiye aur kya nahi karna chahiye, ye decide karte waqt proper guidance follow karo.
+
+Phir us understanding ke according apna duty perform karo.”
+
+Arjuna ne Krishna ki baat ko deeply samjha.
+
+Usse samajh aa gaya ki divine aur demonic nature kisi special birth ya outer appearance se decide nahi hoti.
+
+Insaan ki daily qualities aur actions uski direction batate hain.
+
+Agar koi truth, compassion, humility, self-control aur forgiveness choose karta hai, to woh higher direction mein badhta hai.
+
+Aur agar koi lust, anger, greed, pride aur hatred ko follow karta hai, to woh khud ko bondage mein daalta hai.
+
+Krishna ka message simple tha:
+
+“Apne andar ke lust, anger aur greed ko control karo. Truth, compassion, humility aur self-discipline ko grow karo. Aur apne actions ko right guidance ke according rakho.” """
             create_image_text_layout(
                 text_content=text2,
                 layout="full"
             )
         # Section 6.3.29
         with st.expander("Section 6.3.29  Section XLI (Bhagavad Gita Chapter XVII)"):
-            text1 = """ """
+            text1 = """ Bhagavad Gita – Chapter XVII
+Shraddha ke Teen Types – Sattva, Rajas aur Tamas
+
+Arjuna ne Krishna se poocha:
+
+“Hey Krishna, jo log scriptures ke rules ko follow nahi karte, lekin faith ke saath worship aur sacrifices karte hain, unki faith kis type ki hoti hai—Sattva, Rajas ya Tamas?”
+
+Krishna bole:
+
+“Arjuna, har insaan ki faith uski nature ke according hoti hai.
+
+Faith bhi teen types ki hoti hai:
+
+Sattvic, Rajasic aur Tamasic.
+
+Insaan jaisi faith rakhta hai, dheere-dheere waisa hi ban jaata hai.”
+
+Teen Types ki Faith
+
+“Jo log Sattva se influenced hote hain, woh higher divine beings ko worship karte hain. """
             create_image_text_layout(
                 "attached_assets/chapter6/6.3.29.jpg",
                 text1,
@@ -4330,7 +6409,179 @@ Jo person apne mind ko control karke, faith aur devotion ke saath aage badhta ha
                 image_position="left"
             )
 
-            text2 = """ """
+            text2 = """ Jo Rajas se influenced hote hain, woh power aur material benefits se related beings ko worship karte hain.
+
+Aur jo Tamas se influenced hote hain, woh dark aur lower forms ki worship ki taraf attract hote hain.”
+
+Krishna ne kuch logon ke baare mein warning bhi di.
+
+“Jo log scriptures ki guidance ke bina bahut harsh penance karte hain, sirf pride, show-off, desire ya attachment ke liye apne body ko torture karte hain, unhe wise nahi kaha ja sakta.
+
+Aise actions unki ignorance ko show karte hain.”
+
+Food bhi Teen Types ka Hota Hai
+
+Krishna ne Arjuna ko food ka example diya.
+
+“Food bhi teen qualities ko reflect karta hai.
+
+Sattvic Food
+
+Jo food life, energy, strength, health aur happiness ko increase karta hai, woh Sattvic hai.
+
+Aisa food fresh, tasty, nutritious aur pleasant hota hai.
+
+Ye body aur mind ko support karta hai.”
+
+Rajasic Food
+
+“Jo food bahut bitter, sour, salty, extremely hot, spicy, dry ya burning hota hai, woh Rajasic nature ka hai.
+
+Aisa food body mein discomfort, pain aur restlessness create kar sakta hai.”
+
+Tamasic Food
+
+“Jo food stale, tasteless, rotten, bad-smelling ya impure ho, woh Tamasic nature ka hai.
+
+Aisa food darkness aur unhealthy habits ko support karta hai.”
+
+Sacrifice ke Teen Types
+
+Krishna bole:
+
+“Sacrifice bhi teen types ka hota hai.
+
+Jo sacrifice scriptures ke according kiya jaata hai aur result ki desire ke bina, sirf duty samajhkar kiya jaata hai—
+
+woh Sattvic hai.
+
+Jo sacrifice reward, benefit ya show-off ke liye kiya jaata hai—
+
+woh Rajasic hai.
+
+Aur jo sacrifice proper rules ke against ho, jisme proper faith na ho, sacred mantras na hon aur respect bhi na ho—
+
+woh Tamasic hai.”
+
+Penance ke Teen Types
+
+Krishna ne bataya ki penance sirf body ko difficult conditions mein rakhna nahi hai.
+
+Penance ke body, speech aur mind—teen forms hote hain.
+
+Body ki Penance
+
+“Gods, teachers aur knowledgeable people ka respect karna.
+
+Clean aur disciplined rehna.
+
+Straightforward behaviour rakhna.
+
+Aur kisi ko unnecessarily hurt na karna—
+
+ye body ki penance hai.”
+
+Speech ki Penance
+
+“Jo speech doosron ko unnecessarily disturb na kare.
+
+Jo truthful ho.
+
+Jo kind aur useful ho.
+
+Aur sacred knowledge ka sincere study kiya jaaye—
+
+ye speech ki penance hai.”
+
+Mind ki Penance
+
+“Mind ko calm rakhna.
+
+Gentle rehna.
+
+Unnecessary talking se bachna.
+
+Apne mind ko control karna.
+
+Aur thoughts ko clean rakhna—
+
+ye mind ki penance hai.”
+
+Krishna ne kaha:
+
+“Jab ye teen types ki penance faith ke saath aur bina reward ki desire ke ki jaati hain, tab woh Sattvic hoti hain.”
+
+Agar penance sirf respect, fame ya honour paane ke liye ki jaaye, to woh Rajasic hai.
+
+Aur agar koi person ignorance mein khud ko torture kare ya kisi doosre ko harm karne ke purpose se penance kare, to woh Tamasic hai.
+
+Charity ke Teen Types
+
+Krishna ne charity ka bhi example diya.
+
+“Jo gift kisi deserving person ko, right time aur right place par diya jaata hai, aur return mein kuch expect nahi kiya jaata—
+
+woh Sattvic charity hai.
+
+Jo gift reluctantly diya jaata hai, ya is hope mein diya jaata hai ki saamne wala future mein favour return karega—
+
+woh Rajasic charity hai.
+
+Aur jo gift wrong place, wrong time ya unworthy person ko disrespect ke saath diya jaata hai—
+
+woh Tamasic charity hai.”
+
+Yaani charity ka value sirf amount se decide nahi hota.
+
+Intention bhi important hai.
+
+OM, TAT, SAT
+
+Krishna ne phir teen sacred words ke baare mein bataya:
+
+OM, TAT aur SAT.
+
+Ye teen Brahman ke traditional designations bataye gaye hain.
+
+OM
+
+“Sacrifice, charity aur penance jaise prescribed actions ko start karte waqt OM ka uchcharan kiya jaata hai.”
+
+TAT
+
+“Jo log liberation ki desire rakhte hain, woh sacrifice, penance aur charity jaise actions ko TAT ke bhaav se karte hain—yaani unke personal reward ki expectation nahi hoti.”
+
+SAT
+
+“SAT ka meaning existence aur goodness ke sense mein use hota hai.
+
+Koi bhi auspicious aur good action bhi SAT se connected maana jaata hai.
+
+Sacrifice, penance aur charity mein steady commitment ko bhi SAT kaha jaata hai.”
+
+Krishna ne end mein ek important baat kahi:
+
+“Arjuna, agar koi person sacrifice kare, charity de, penance kare ya koi bhi good action kare, lekin usmein faith hi na ho, to us action ka real spiritual value nahi hota.
+
+Faith ke bina kiya gaya action SAT ka opposite maana jaata hai.
+
+Aur aisa action na yahan true benefit deta hai, na future mein.”
+
+Chapter ka Simple Message
+
+Krishna Arjuna ko samjha rahe the ki sirf action karna enough nahi hai.
+
+Food kya hai, faith kaisi hai, charity kyun kar rahe ho, penance kis intention se kar rahe ho aur sacrifice kis purpose se kar rahe ho—ye sab matter karta hai.
+
+Sattva insaan ko clarity, health aur goodness ki taraf le jaata hai.
+
+Rajas desire, reward aur restlessness ki taraf le jaata hai.
+
+Tamas ignorance, carelessness aur darkness ki taraf le jaata hai.
+
+Isliye Krishna ka simple message hai:
+
+“Apne actions ke saath apni intention ko bhi pure rakho. Faith, discipline, kindness aur self-control ke saath kaam karo, bina unnecessary reward ki expectation ke.” """
             create_image_text_layout(
                 text_content=text2,
                 layout="full"
@@ -4339,7 +6590,30 @@ Jo person apne mind ko control karke, faith aur devotion ke saath aage badhta ha
 
         # Section 6.3.30
         with st.expander("Section 6.3.30  Section XLII (Bhagavad Gita Chapter XVIII)"):
-            text1 = """ """
+            text1 = """ Bhagavad Gita – Chapter XVIII
+Moksha Sannyasa Yoga – Tyag, Duty aur Krishna ki Final Teaching
+
+Arjuna ne Krishna se poocha:
+
+“Hey Krishna, main Sannyasa aur Tyag ka real meaning samajhna chahta hoon. Dono mein actual difference kya hai?”
+
+Krishna bole:
+
+“Arjuna, kuch wise people kehte hain ki desire ke saath kiye jaane wale actions ko chhod dena Sannyasa hai.
+
+Aur apne actions ke fruits yani results ka attachment chhod dena Tyag hai.
+
+Lekin meri teaching simple hai.
+
+Sacrifice, charity aur penance ko completely chhodna nahi chahiye.
+
+Inhe karna chahiye, lekin bina attachment aur bina personal reward ki expectation ke.
+
+Ye actions mind ko pure karte hain.”
+
+Tyag ke Teen Types
+
+Krishna bole: """
             create_image_text_layout(
                 "attached_assets/chapter6/6.3.30.jpg",
                 text1,
@@ -4347,7 +6621,343 @@ Jo person apne mind ko control karke, faith aur devotion ke saath aage badhta ha
                 image_position="left"
             )
 
-            text2 = """ """
+            text2 = """ “Jo person ignorance ki wajah se apna duty chhod deta hai, uska Tyag Tamasic hai.
+
+Jo person physical difficulty ya pain ke fear se apna duty chhod deta hai, uska Tyag Rajasic hai.
+
+Lekin jo person duty karta hai aur uske result se attachment chhod deta hai—
+
+woh Sattvic Tyag hai.
+
+Aisa person pleasant ya unpleasant work se unnecessary attachment nahi rakhta.
+
+Woh apna duty karta hai, lekin result ko apni identity nahi banata.”
+
+Krishna ne ek important baat kahi:
+
+“Body mein rehne wala person completely actions ko abandon nahi kar sakta.
+
+Isliye real renunciation ka matlab action chhodna nahi hai.
+
+Real Tyag hai—action ke fruit ka attachment chhodna.”
+
+Har Action ke Peeche Five Causes
+
+Krishna ne Arjuna ko bataya:
+
+“Har action ke peeche sirf ek person responsible nahi hota.
+
+Action ke five causes hote hain:
+
+Body ya situation
+Agent, yani jo action karta hai
+Different organs aur senses
+Different efforts
+Presiding forces
+
+Body, speech ya mind se kiya gaya koi bhi action in factors ke through complete hota hai.
+
+Isliye jo person ego ke through sochta hai—
+
+‘Main hi sab kuch kar raha hoon’
+
+woh complete truth nahi dekh raha.
+
+Jo person ego se free hai aur apne actions ke fruits se attached nahi hai, woh actions se deeply bound nahi hota.”
+
+Knowledge, Action aur Doer ke Teen Types
+
+Krishna ne phir bataya ki knowledge, action aur doer bhi Sattva, Rajas aur Tamas ke according different hote hain.
+
+Sattvic Knowledge
+
+“Jo person different beings ke andar ek hi eternal reality ko dekhta hai, uska knowledge Sattvic hai.
+
+Woh differences ke peeche unity ko samajhta hai.”
+
+Rajasic Knowledge
+
+“Jo person har being ko completely separate aur different samajhta hai, uska knowledge Rajasic hai.”
+
+Tamasic Knowledge
+
+“Aur jo person sirf ek limited object ko hi complete truth samajh leta hai, bina proper reason aur understanding ke—
+
+uska knowledge Tamasic hai.”
+
+Teen Types ke Actions
+
+“Jo action duty ke according kiya jaata hai, bina attachment aur bina desire ke, woh Sattvic action hai.
+
+Jo action personal desires, ego aur reward ke liye kiya jaata hai aur jisme bahut stress aur struggle hota hai, woh Rajasic action hai.
+
+Aur jo action ignorance mein kiya jaata hai, bina consequences, loss, harm ya apni capability ko samjhe—
+
+woh Tamasic action hai.”
+
+Teen Types ke Doers
+
+“Jo person attachment se free hai, apne achievements ka unnecessary show nahi karta, disciplined aur energetic hai, aur success-failure mein stable rehta hai—
+
+woh Sattvic doer hai.
+
+Jo reward chahta hai, greedy hai, egoistic hai aur success-failure mein extreme happiness aur sadness experience karta hai—
+
+woh Rajasic doer hai.
+
+Aur jo lazy, careless, stubborn, dishonest, confused aur procrastinating hai—
+
+woh Tamasic doer hai.”
+
+Intellect aur Determination
+
+Krishna ne Arjuna ko intellect ke baare mein samjhaya.
+
+“Jo intellect clearly samajhta hai ki:
+
+kya karna hai aur kya nahi karna,
+
+kya right hai aur kya wrong,
+
+kis cheez se fear hona chahiye aur kis se nahi,
+
+aur bondage kya hai aur freedom kya hai—
+
+woh Sattvic intellect hai.”
+
+Rajasic intellect right aur wrong ko clearly distinguish nahi kar pata.
+
+Aur Tamasic intellect darkness ki wajah se wrong ko right aur right ko wrong samajh sakta hai.
+
+Determination bhi teen types ka hota hai.
+
+Jo person apne mind, senses aur life-energy ko discipline aur devotion ke through control karta hai, uski determination Sattvic hai.
+
+Jo person attachment ke through wealth, desires aur achievements ko pakadkar rakhta hai, uski determination Rajasic hai.
+
+Aur jo person sleep, fear, sadness, laziness aur confusion ko chhod nahi paata, uski determination Tamasic hai.
+
+Happiness ke Teen Types
+
+Krishna bole:
+
+“Arjuna, happiness bhi teen types ki hoti hai.”
+
+Sattvic Happiness
+
+“Jo happiness starting mein difficult lagti hai, lekin practice ke saath gradually peaceful aur deeply satisfying ho jaati hai—
+
+woh Sattvic happiness hai.
+
+Starting mein poison jaisi lag sakti hai, lekin end mein nectar jaisi ban jaati hai.”
+
+Jaise discipline, meditation, self-control aur knowledge.
+
+Rajasic Happiness
+
+“Jo happiness starting mein bahut enjoyable lagti hai, lekin baad mein pain create karti hai—
+
+woh Rajasic happiness hai.
+
+Ye mostly senses aur external pleasures se aati hai.”
+
+Tamasic Happiness
+
+“Jo happiness sleep, laziness aur ignorance se aati hai aur starting se hi mind ko dull banati hai—
+
+woh Tamasic happiness hai.”
+
+Krishna ne kaha:
+
+“Nature se born in teen Gunas se koi bhi completely free nahi hai.”
+
+Apna Duty Karo
+
+Krishna ne phir society mein different natural duties ke baare mein bataya.
+
+“Different people ki natural tendencies ke according different duties hoti hain.
+
+Kuch logon ka nature knowledge, discipline, purity aur forgiveness ki taraf hota hai.
+
+Kuch logon ka nature bravery, leadership, protection aur responsibility ki taraf hota hai.
+
+Kuch log agriculture, cattle-care aur trade jaise work karte hain.
+
+Aur kuch log service aur support ke work mein apna contribution dete hain.”
+
+Krishna ne ek important lesson diya:
+
+“Apna duty imperfectly karna bhi better hai than kisi aur ka duty perfectly karna.”
+
+Yaani doosron ki life copy karne ke bajay apni responsibility ko sincerely perform karna chahiye.
+
+Krishna bole:
+
+“Apne natural duty ko sirf isliye mat chhodo kyunki usmein kuch imperfections hain.
+
+Har action mein kuch na kuch limitation hoti hai, bilkul fire ke saath smoke ki tarah.”
+
+Perfection Kaise Milegi?
+
+Krishna ne kaha:
+
+“Jo person apne duties ko sincerely perform karta hai aur attachment gradually chhod deta hai, woh perfection ki taraf badhta hai.
+
+Mind ko control karo.
+
+Unnecessary desires ko reduce karo.
+
+Ego, anger, pride, selfishness aur excessive attachment ko chhodo.
+
+Mind ko peaceful banao.
+
+Meditation aur self-discipline mein steady raho.
+
+Aise person ka mind gradually pure hota jaata hai.
+
+Aur woh Brahman ke highest truth ko understand karne ke worthy ban jaata hai.”
+
+Brahman ko Attain Karna
+
+Krishna bole:
+
+“Jab person Brahman ke saath spiritually united hota hai, tab uske andar deep peace aa jaati hai.
+
+Woh unnecessary grief nahi karta.
+
+Excessive desires bhi nahi rakhta.
+
+Sabhi beings ko equal nazar se dekhta hai.
+
+Aur phir uske andar mere liye highest devotion develop hoti hai.”
+
+“Devotion ke through woh mujhe truly understand karta hai.
+
+Aur jab woh mujhe truly samajh leta hai, tab woh mere saath spiritually united ho jaata hai.”
+
+Krishna ka Final Message to Arjuna
+
+Krishna ne Arjuna se kaha:
+
+“Apne saare actions mere naam dedicate karo.
+
+Mujhe apna refuge banao.
+
+Apne mind ko continuously mujh par fix karo.
+
+Aisa karoge to meri grace se tum difficulties ko cross kar loge.
+
+Lekin agar ego ke influence mein aakar meri baat nahi maanoge, to tumhari problems aur badhengi.”
+
+Arjuna ne kaha:
+
+“Main fight nahi karunga.”
+
+Lekin Krishna bole:
+
+“Arjuna, sirf ego se keh dene se tum apni nature aur duty se escape nahi kar sakte.
+
+Tumhari nature tumhe wahi karne ke liye push karegi jo tumhare duty ka part hai.
+
+Jo kaam tum confusion ki wajah se nahi karna chahte, ho sakta hai circumstances tumhe wahi karne par majboor kar dein.”
+
+Krishna Sabke Heart Mein Hain
+
+Krishna ne kaha:
+
+“Supreme Lord sabhi beings ke heart mein present hai.
+
+Woh Nature ke through sabhi beings ko move karta hai.
+
+Isliye completely uski sharan mein jao.
+
+Uski grace se tumhe supreme peace aur eternal state mil sakti hai.”
+
+Phir Krishna ne Arjuna ko freedom diya:
+
+“Arjuna, maine tumhe ye deep knowledge bata di hai.
+
+Ab ise properly socho.
+
+Samjho.
+
+Aur phir jo tumhe right lage, woh karo.”
+
+Lekin Krishna ne ek baar phir apna sabse loving message diya:
+
+“Tum mujhe bahut dear ho.
+
+Isliye main tumhe tumhare benefit ki baat bata raha hoon.
+
+Apna heart mujh par rakho.
+
+Mere devotee bano.
+
+Mujhe worship karo.
+
+Mujhe bow karo.
+
+Aisa karoge to tum mere paas aaoge.”
+
+Phir Krishna ne kaha:
+
+“Sab kuch chhodkar meri sharan mein aao.
+
+Main tumhe sins aur bondage se free karunga.
+
+Isliye grief mat karo.”
+
+Arjuna ka Final Decision
+
+Krishna ki baat sunne ke baad Arjuna ka confusion completely disappear ho gaya.
+
+Usne kaha:
+
+“Hey Krishna, aapki grace se mera delusion destroy ho gaya hai.
+
+Mujhe apni real understanding yaad aa gayi hai.
+
+Mere doubts clear ho gaye hain.
+
+Ab main firm hoon.
+
+Main aapki baat follow karunga.”
+
+Sanjaya ye sab sun kar bahut amazed tha.
+
+Usne Dhritarashtra se kaha:
+
+“Krishna aur Arjuna ke beech jo conversation maine suni, woh extraordinary thi.
+
+Vyasa ki grace se mujhe Krishna ke mouth se ye supreme knowledge sunne ka opportunity mila.
+
+Jab bhi main Krishna aur Arjuna ki us wonderful conversation ko yaad karta hoon, mujhe baar-baar happiness hoti hai.
+
+Aur jab main Krishna ka divine form yaad karta hoon, mera wonder aur bhi badh jaata hai.”
+
+Sanjaya ne end mein kaha:
+
+“Jahan Krishna hain, aur jahan great warrior Arjuna hai, mere according wahan prosperity, victory, greatness aur eternal righteousness zaroor hoti hai.”
+
+Chapter XVIII ka Simple Moral
+
+Duty karo, lekin result ka attachment mat rakho.
+
+Ego ko kam karo.
+
+Apni nature aur responsibility ko samjho.
+
+Right aur wrong ko clearly samjho.
+
+Mind ko discipline karo.
+
+Aur sabse important—
+
+Krishna par faith rakho aur unki sharan mein jao.
+
+Gita ka final message yahi hai:
+
+“Apna duty sincerely karo, ego aur attachment chhodo, aur Supreme par trust rakho.” """
             create_image_text_layout(
                 text_content=text2,
                 layout="full"
