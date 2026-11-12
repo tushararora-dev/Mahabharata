@@ -9544,7 +9544,14 @@ Is tarah Section 60 mein Bhishma Pitamah aur Arjuna ke beech ek zabardast yudh s
             )
         # Section 6.3.49
         with st.expander("Section 6.3.49  Section LXI"):
-            text1 = """ """
+            text1 = """ Section LXI – Abhimanyu Aur Dhrishtadyumna Ki Veerta
+Kurukshetra mein battle bahut intense ho chuki thi. Ek taraf Arjuna Bhishma se lad raha tha, aur doosri taraf uska beta Abhimanyu apni bravery dikha raha tha.
+
+Drona ka beta, Bhurisravas, Chitrasena aur kai powerful warriors ne milkar Abhimanyu ko gher liya. Lekin Abhimanyu bilkul nahi dara. Woh akela paanch bade warriors ka saamna kar raha tha, bilkul ek young lion ki tarah jo paanch elephants se lad raha ho.
+
+Uski archery itni accurate thi ki koi bhi uske saamne tik nahi paa raha tha. Arjuna ne apne bete ki bravery dekhi toh khushi se zor se roar kiya.
+
+Abhimanyu ne apne arrows se Drona ke bete aur Shalya ko injured kar diya. Usne Samyamani ke bete ka flag gira diya aur Somadatta ke bete ke powerful weapon ko hawa mein hi destroy kar diya. """
             create_image_text_layout(
                 "attached_assets/chapter6/6.3.49.jpg",
                 text1,
@@ -9552,7 +9559,35 @@ Is tarah Section 60 mein Bhishma Pitamah aur Arjuna ke beech ek zabardast yudh s
                 image_position="left"
             )
 
-            text2 = """ """
+            text2 = """ Shalya ne Abhimanyu par hundreds of arrows chalaye, lekin Abhimanyu ne un sabko dodge kar diya aur Shalya ke chaaron horses ko maar giraya. Abhimanyu ke saamne Bhurisravas, Shalya aur baaki warriors bhi tik nahi paaye.
+
+Yeh dekhkar Duryodhana ne 25,000 powerful soldiers ko Arjuna aur Abhimanyu ko gherne ke liye bhej diya. Unmein Trigarta, Madra aur Kekaya ke warriors bhi shamil the.
+
+Jab Panchala ke commander Dhrishtadyumna ne dekha ki Arjuna aur Abhimanyu ko enemies ne chaaron taraf se gher liya hai, toh woh apni huge army lekar unki help ke liye aage badha.
+
+Dhrishtadyumna ne enemy warriors par powerful attack kiya. Usne kai soldiers ko defeat kiya aur Kritavarman ke rear guard ko bhi hara diya.
+
+Phir Samyamani ke bete ne Dhrishtadyumna par arrows se attack kiya. Dhrishtadyumna ne bhi jawab diya aur apne sharp arrow se uska bow kaat diya. Uske baad usne 25 arrows se enemy ko badly injure kiya aur uske horses ko bhi maar giraya.
+
+Ab Samyamani ka beta chariot se neeche aa gaya. Usne ek sharp sword aur shield uthayi aur paidal hi Dhrishtadyumna ki taraf badhne laga.
+
+Woh sword ghumate hue ek dangerous warrior ki tarah aage aa raha tha. Lekin Dhrishtadyumna bhi peeche hatne wala nahi tha.
+
+Jaise hi enemy uske chariot ke paas aaya, Dhrishtadyumna ne apni heavy mace uthayi aur uske head par zor se attack kiya.
+
+Ek hi powerful blow mein Samyamani ka beta zameen par gir gaya aur uski death ho gayi.
+
+Panchala ke prince Dhrishtadyumna ki bravery dekhkar Pandava army mein excitement phail gayi, jabki Kaurava army mein sadness aur fear chha gaya.
+
+Apne bete ki death dekhkar Samyamani gusse se bhar gaya. Woh khud Dhrishtadyumna se fight karne ke liye aage aaya.
+
+Dono armies ke warriors dekhne lage ki ab in do powerful warriors ke beech kya hoga.
+
+Samyamani ne Dhrishtadyumna par teen arrows chalaye. Shalya ne bhi uske chest par attack kiya.
+
+Aur is tarah battlefield mein ek aur fierce battle shuru ho gayi...
+
+Section LXI yahin end hota hai. """
             create_image_text_layout(
                 text_content=text2,
                 layout="full"
@@ -9561,7 +9596,16 @@ Is tarah Section 60 mein Bhishma Pitamah aur Arjuna ke beech ek zabardast yudh s
 
         # Section 6.3.50
         with st.expander("Section 6.3.50  Section LXII"):
-            text1 = """ """
+            text1 = """ Section LXII – Bhima Ka Elephant Army Par Bhayankar Attack
+Dhritarashtra Sanjaya se bahut dukhi hokar kehte hain:
+
+"Hey Sanjaya, mujhe lagta hai ki destiny, hard work se bhi zyada powerful hai. Meri army continuously Pandavas se haar rahi hai. Tum roz mujhe batate ho ki mere soldiers mar rahe hain aur Pandavas jeet rahe hain.
+
+Mere bete Duryodhana ki wajah se mujhe itna dukh mil raha hai. Mujhe samajh nahi aa raha ki Pandavas ko kaise haraya jaaye aur mere bete victory kaise hasil karein."
+
+Sanjaya ne jawab diya:
+
+"Rajan, is bade disaster ki responsibility aapki aur aapke bete Duryodhana ki galat decisions ki wajah se hai. Ab main aapko battlefield ka haal batata hoon." """
             create_image_text_layout(
                 "attached_assets/chapter6/6.3.50.jpg",
                 text1,
@@ -9569,7 +9613,66 @@ Is tarah Section 60 mein Bhishma Pitamah aur Arjuna ke beech ek zabardast yudh s
                 image_position="left"
             )
 
-            text2 = """ """
+            text2 = """ Dhrishtadyumna Aur Shalya Ka Yudh
+Battlefield mein Dhrishtadyumna aur Shalya ke beech fierce fight chal rahi thi.
+
+Shalya ne Dhrishtadyumna ke bow ko kaat diya aur us par arrows ki baarish kar di. Lekin Dhrishtadyumna ne bhi himmat nahi haari aur Shalya ko powerful arrows se jawab diya.
+
+Jab Abhimanyu ne dekha ki Dhrishtadyumna danger mein hai, toh woh turant Shalya ke chariot ki taraf badha.
+
+Abhimanyu ne Shalya par teen sharp arrows se attack kiya. Yeh dekhkar Kaurava army ke kai warriors Shalya ki protection ke liye aa gaye.
+
+Duryodhana, Dushasana, Vikarna, Chitrasena aur uske kai brothers ne milkar Abhimanyu ko gher liya.
+10 Pandavas Warriors vs 10 Kaurava Warriors
+Ab Pandava side se Bhima, Dhrishtadyumna, Abhimanyu, Draupadi ke paanch bete aur Nakula-Sahadeva battlefield mein saamne aaye.
+
+Ek taraf 10 Pandava warriors the, aur doosri taraf Duryodhana ke 10 warriors.
+
+Dono taraf ke warriors ek doosre par arrows aur powerful weapons se attack karne lage.
+
+Duryodhana ne Dhrishtadyumna par arrows chalaye. Dushasana, Durmarshana, Chitrasena aur baaki Kaurava warriors ne bhi us par attack kiya.
+
+Lekin Dhrishtadyumna ne sabhi ko zabardast jawab diya. Usne har enemy warrior par 25 arrows chalaye.
+
+Abhimanyu ne Satyavrata aur Purumitra ko bhi arrows se injured kar diya.
+
+Nakula aur Sahadeva ne apne maternal uncle Shalya par attack kiya. Shalya ne bhi apne nephews ko arrows se rokne ki koshish ki, lekin dono bhai himmat se ladte rahe.
+Bhima Ka Gussa Aur Duryodhana Ka Dar
+Tabhi Bhima ki nazar Duryodhana par padi.
+
+Bhima ne apni powerful mace uthayi aur Duryodhana ki taraf badha. Uska gussa dekhkar Kaurava warriors dar gaye aur peeche hatne lage.
+
+Lekin Duryodhana ne haar nahi maani. Usne apni army ka ek special division bulaya, jisme 10,000 powerful elephants the.
+
+Duryodhana khud Magadha ke king ke saath us elephant army ko lekar Bhima ki taraf badha.
+
+Bhima ne itni badi elephant army ko apni taraf aate dekha toh woh apne chariot se jump karke neeche aa gaya.
+
+Usne zor se lion ki tarah roar kiya aur apni heavy mace lekar elephants par attack kar diya.
+Bhima Ne Akela 10,000 Elephants Ko Challenge Kiya
+Bhima ek ke baad ek elephants par apni mace se attack karne laga. Uski strength itni powerful thi ki elephants uske saamne tik nahi paa rahe the.
+
+Uski loud roar sunkar elephants bhi panic mein aa gaye.
+
+Bhima ke peeche Abhimanyu, Draupadi ke paanch bete, Nakula, Sahadeva aur Dhrishtadyumna uski protection kar rahe the. Woh arrows se enemy elephant riders aur soldiers ko rok rahe the.
+
+Phir Magadha ka king apne giant elephant par baithkar Abhimanyu ki taraf aaya. Uska elephant Airavata jaisa powerful tha.
+
+Lekin Abhimanyu ne ek hi arrow se us giant elephant ko gira diya!
+
+Uske baad Abhimanyu ne ek sharp arrow se Magadha ke king ka head bhi kaat diya.
+
+Doosri taraf Bhima apni mace se elephants ko destroy karta ja raha tha. Ek-ek blow mein bade-bade elephants zameen par gir rahe the.
+Kaurava Army Mein Macha Hahakaar
+Bhima ka attack itna dangerous tha ki elephants dar kar idhar-udhar bhaagne lage. Bhaagte hue elephants apni hi Kaurava army ke chariots aur soldiers ko kuchalne lage.
+
+Bhima battlefield mein apni mace lekar aage badhta raha. Uska roop dekhkar enemy soldiers aur elephants sabhi dar gaye.
+
+Aakhirkaar Bhima ne elephant army ko battlefield se peeche hatne par majboor kar diya.
+
+Sanjaya ne Dhritarashtra ko bataya ki us din Bhima battlefield mein destruction ke devta jaisa lag raha tha.
+
+Is battle mein Abhimanyu ki archery aur Bhima ki incredible strength ne Pandava army ko ek badi victory dilayi. """
             create_image_text_layout(
                 text_content=text2,
                 layout="full"
@@ -9578,7 +9681,20 @@ Is tarah Section 60 mein Bhishma Pitamah aur Arjuna ke beech ek zabardast yudh s
 
         # Section 6.3.51
         with st.expander("Section 6.3.51  Section LXIII"):
-            text1 = """ """
+            text1 = """ Section LXIII – Bhima Ka Kaurava Army Par Mahavinashak Attack
+Sanjaya ne Dhritarashtra ko battlefield ka haal batana continue kiya.
+Duryodhana Ki Poori Army Bhima Par Toot Padi
+Jab Bhima ne Magadha ki elephant army ko destroy kar diya, toh Duryodhana bahut gusse mein aa gaya.
+
+Usne apni poori army ko order diya:
+
+"Sabhi warriors ek saath Bhima par attack karo aur use maar girao!"
+
+Duryodhana ka order milte hi Kaurava army ke hazaaron warriors Bhima ki taraf badhne lage. Unke paas chariots, elephants, horses aur countless soldiers the.
+
+Unki army itni badi thi jaise samundar ki ek vishal lehar Bhima ki taraf aa rahi ho.
+
+Lekin Bhima bilkul nahi dara. """
             create_image_text_layout(
                 "attached_assets/chapter6/6.3.51.jpg",
                 text1,
@@ -9586,7 +9702,55 @@ Is tarah Section 60 mein Bhishma Pitamah aur Arjuna ke beech ek zabardast yudh s
                 image_position="left"
             )
 
-            text2 = """ """
+            text2 = """ Woh apni heavy iron mace lekar wahin khada raha aur enemy army ka saamna karne laga. Jaise ek mountain samundar ki powerful waves ko rok deta hai, waise hi Bhima ne Kaurava army ko rok diya.
+
+Bhima ke saath uske bhai, Dhrishtadyumna, Abhimanyu, Draupadi ke paanch bete aur Shikhandi bhi lad rahe the. Kisi ne bhi Bhima ka saath nahi chhoda.
+Bhima Ka Mace Attack
+Bhima ne apni massive mace uthayi aur Kaurava warriors par toot pada.
+
+Woh apni mace se enemy chariots, horses aur elephants ko destroy karne laga. Jo soldiers uske saamne aaye, unhe bhi usne apni incredible strength se defeat kar diya.
+
+Kabhi woh chariot par baithe warriors ko neeche gira deta, toh kabhi ground par lad rahe soldiers ko apni mace se hara deta.
+
+Uska attack itna powerful tha ki Kaurava army mein panic phail gaya.
+
+Bhima battlefield mein aise move kar raha tha jaise duniya ke end par destruction karne wala koi powerful force aa gaya ho.
+
+Jis direction mein Bhima apni mace lekar dekhta, us taraf ke warriors dar kar peeche hatne lagte.
+
+Kaurava soldiers ko lagne laga ki Bhima ko rokna almost impossible hai.
+Bhishma Aur Bhima Aamne-Saamne
+Bhima ke attack se Kaurava army ki halat kharab ho rahi thi.
+
+Tabhi Bhishma apne powerful chariot par battlefield mein aage badhe. Unka chariot bahut fast tha aur woh arrows ki baarish karte hue aa rahe the.
+
+Bhima ne Bhishma ko apni taraf aate dekha aur gusse mein unki taraf badhne laga.
+
+Battlefield mein ab Bhishma aur Bhima ke beech ek bade encounter ka moment aa gaya tha.
+Satyaki Ka Bhishma Par Attack
+Isi waqt Yadava warrior Satyaki bhi apne chariot par Bhishma ki taraf badha.
+
+Uske horses silver colour ke the aur uski archery bahut accurate thi.
+
+Satyaki raste mein aane wale Kaurava warriors ko arrows se defeat karta hua aage badh raha tha.
+
+Rakshasa warrior Alamvusha ne us par 10 arrows chalaye. Satyaki ne jawab mein 4 arrows se us par attack kiya aur bina ruke aage badhta raha.
+
+Kaurava warriors ne milkar Satyaki par arrows ki baarish kar di, lekin woh kisi se nahi dara.
+
+Woh battlefield mein aise lad raha tha jaise bright afternoon sun ko koi clouds chhupa nahi sakte.
+
+Koi bhi warrior uska raasta nahi rok paa raha tha.
+Bhurisravas Ne Satyaki Ko Challenge Kiya
+Satyaki ko apni army ke warriors ko defeat karte dekhkar Somadatta ka beta Bhurisravas gusse se bhar gaya.
+
+Usne dekha ki Satyaki Kaurava army ko continuously push back kar raha hai.
+
+Bhurisravas ne apna powerful bow uthaya aur Satyaki ki taraf badha.
+
+Ab dono powerful warriors ke beech ek naya yudh shuru hone wala tha...
+
+Section LXIII yahin end hota hai. """
             create_image_text_layout(
                 text_content=text2,
                 layout="full"
@@ -9595,7 +9759,16 @@ Is tarah Section 60 mein Bhishma Pitamah aur Arjuna ke beech ek zabardast yudh s
 
         # Section 6.3.52
         with st.expander("Section 6.3.52  Section LXIV"):
-            text1 = """ """
+            text1 = """ Section LXIV – Bhima Ne Duryodhana Ke 14 Bhaiyon Ko Hara Diya, Ghatotkacha Ka Bhayankar Attack
+Sanjaya ne Dhritarashtra ko bataya ki pichhle battle mein Bhima ne Kaurava army ko buri tarah hila diya tha. Ab Duryodhana aur uske warriors Bhima ko rokne ke liye ek baar phir aage aaye.
+Bhurisravas Aur Satyaki Ka Yudh
+Bhurisravas aur Satyaki ke beech fierce battle shuru ho gayi.
+
+Bhurisravas ne Satyaki par 9 arrows chalaye. Satyaki ne bhi turant jawab dete hue us par 9 arrows chala diye.
+
+Duryodhana apne brothers ke saath Bhurisravas ki help ke liye aa gaya. Wahin Pandavas bhi Satyaki ko support karne ke liye uske aas-paas khade ho gaye.
+
+Doosri taraf Bhima apni mace lekar Duryodhana aur uske brothers ka saamna kar raha tha. """
             create_image_text_layout(
                 "attached_assets/chapter6/6.3.52.jpg",
                 text1,
@@ -9603,7 +9776,116 @@ Is tarah Section 60 mein Bhishma Pitamah aur Arjuna ke beech ek zabardast yudh s
                 image_position="left"
             )
 
-            text2 = """ """
+            text2 = """ Bhima Aur Duryodhana Ka Face-Off
+Duryodhana ke bhai Nandaka ne Bhima par sharp arrows se attack kiya. Duryodhana ne bhi Bhima ke chest par 9 arrows maare.
+
+Bhima apne chariot par wapas chadha aur apne charioteer Vishoka se bola:
+
+"Ye Dhritarashtra ke bete mujhe maarna chahte hain. Aaj main in sabko tumhare saamne defeat karunga. Bas mera chariot carefully chalana!"
+
+Yeh kehkar Bhima ne Duryodhana aur Nandaka par arrows chalaye.
+
+Duryodhana ne Bhima ke bow ko kaat diya. Bhima ne doosra bow uthaya aur ek powerful arrow se Duryodhana ka bow bhi destroy kar diya.
+
+Duryodhana ne turant ek aur bow uthaya aur ek dangerous arrow se Bhima ke chest par attack kiya.
+
+Arrow lagte hi Bhima ko bahut zor ka shock laga. Woh apne chariot mein behosh hokar gir gaya.
+
+Abhimanyu aur doosre Pandava warriors yeh dekhkar gusse mein aa gaye. Unhone Duryodhana ki army par arrows ki heavy baarish kar di.
+
+Kuch der baad Bhima ko hosh aa gaya. Hosh mein aate hi usne Duryodhana par dobara attack kiya aur Shalya ko bhi 25 arrows se injured kar diya. Shalya ko battlefield se bahar le jaana pada.
+Bhima Ne Duryodhana Ke 14 Bhaiyon Ko Maar Giraya
+Ab Duryodhana ke 14 bhai ek saath Bhima ko gherkar attack karne lage.
+
+Un sabki aankhein gusse se laal thi. Unhone Bhima par countless arrows chalaye.
+
+Lekin Bhima bilkul nahi dara.
+
+Usne apni mace aur arrows se unka saamna kiya. Phir ek-ek karke Kaurava warriors ko defeat karna shuru kar diya.
+
+Bhima ne Senapati, Jalasandha, Sushena, Ugra, Virabahu, Bhima, Bhimaratha aur Sulocana samet kai bhaiyon ko maar gira diya.
+
+Yeh sab kuch Duryodhana ki army ke saamne hua.
+
+Apne brothers ko girte dekhkar baaki Kaurava warriors dar gaye aur battlefield se bhaagne lage.
+
+Duryodhana ke liye yeh bahut bada shock tha. Uske apne bhai uski aankhon ke saamne maare ja rahe the.
+Bhishma Ka Order – Sab Milkar Bhima Ko Roko!
+Bhishma ne dekha ki Bhima akela hi Duryodhana ke powerful warriors ko destroy kar raha hai.
+
+Unhone apni army ke sabhi warriors se kaha:
+
+"Bhima bahut dangerous ho chuka hai. Woh Dhritarashtra ke powerful sons ko ek-ek karke maar raha hai. Tum sab ek saath attack karo aur Pandu ke bete ko roko!"
+
+Bhishma ka order milte hi Kaurava army dobara Bhima ki taraf badhi.
+
+Isi waqt Bhagadatta, jo Pragjyotisha ka king tha, apne giant elephant par baithkar Bhima ke saamne aa gaya.
+
+Usne Bhima par itne arrows chalaye ki Bhima unke beech chhup gaya. Pandava warriors ne Bhagadatta aur uske elephant par arrows ki baarish shuru kar di.
+
+Elephant ka poora body arrows se injured ho gaya, lekin Bhagadatta use aur zyada speed se aage badhane laga.
+
+Phir Bhagadatta ne ek powerful arrow se Bhima ke chest par attack kiya.
+
+Bhima ko zor ka jhatka laga aur woh apne chariot par behosh hokar gir gaya.
+Ghatotkacha Ki Entry – Ab Shuru Hua Maya Yudh!
+Jab Bhima ko behosh dekha, toh uska beta Ghatotkacha bahut gusse mein aa gaya.
+
+Ghatotkacha ek powerful Rakshasa warrior tha aur uske paas magical powers thi.
+
+Usne achanak apne aap ko sabki nazron se gayab kar diya.
+
+Kuch hi pal baad woh ek bhayankar roop mein wapas aaya. Apni Maya se usne ek giant Airavata jaisa elephant create kiya aur us par khud sawar ho gaya.
+
+Uske saath teen aur giant magical elephants bhi aaye:
+- Anjana
+- Vamana
+- Mahapadma
+In elephants par bhi powerful Rakshasa warriors sawar the.
+
+Ghatotkacha ne apne magical elephants ke saath Bhagadatta ke elephant par attack kar diya.
+
+Chaaron taraf se elephants ne Bhagadatta ke elephant ko apne tusks se hit karna shuru kar diya.
+
+Pehle se injured elephant ab pain se zor-zor se chillane laga.
+Bhishma Ko Ghatotkacha Se Dar Laga
+Bhagadatta aur Ghatotkacha ka yudh dekhkar Bhishma ko samajh aa gaya ki situation dangerous ho rahi hai.
+
+Unhone Drona, Duryodhana aur doosre kings se kaha:
+
+"Ghatotkacha bahut powerful hai. Bhagadatta ab serious danger mein hai. Agar humne uski help nahi ki, toh uski jaan ja sakti hai. Chalo, sab milkar use bachate hain!"
+
+Bhishma ki baat sunkar Kaurava warriors Bhagadatta ki help ke liye aage badhe.
+
+Yeh dekhkar Yudhishthira ke leadership mein Pandava warriors bhi unke peeche badhne lage.
+
+Ghatotkacha ne enemy army ko apni taraf aate dekha aur ek terrifying roar kiya.
+
+Bhishma ne Ghatotkacha ka roop aur uski power dekhi. Unhone Drona se kaha:
+
+"Main aaj Ghatotkacha se fight nahi karna chahta. Woh abhi bahut powerful hai aur uske paas Pandavas ka support bhi hai. Hamare soldiers aur animals already thak chuke hain. Pandavas se fresh battle karna ab sahi nahi hoga."
+
+Phir Bhishma ne order diya:
+
+"Aaj ke liye battle stop kar do. Kal hum dobara fight karenge."
+Battle Ka End – Pandavas Ki Victory
+Bhishma ka order sunkar Kaurava army ne retreat karna shuru kar diya.
+
+Raat bhi ho chuki thi, isliye dono armies apne-apne camps ki taraf laut gayi.
+
+Pandavas ne victory ke celebration mein conch shells aur trumpets bajaye. Unke warriors zor-zor se victory cries kar rahe the.
+
+Bhima aur Ghatotkacha sabse aage chal rahe the.
+
+Pandava warriors ne apne brave heroes ka welcome kiya. Unke bodies par battle ke wounds the, lekin unke chehron par victory ki khushi thi.
+
+Doosri taraf Duryodhana apne camp mein bahut dukhi tha. Usne apne 14 brothers ko kho diya tha.
+
+Woh chup-chaap baithkar unke baare mein sochta raha. Uski aankhon mein aansu the aur dil mein bahut sadness thi.
+
+Us raat Kaurava camp mein celebration nahi, sirf grief aur silence tha.
+
+Section LXIV yahin end hota hai. """
             create_image_text_layout(
                 text_content=text2,
                 layout="full"
@@ -9612,7 +9894,18 @@ Is tarah Section 60 mein Bhishma Pitamah aur Arjuna ke beech ek zabardast yudh s
 
         # Section 6.3.53
         with st.expander("Section 6.3.53  Section LXV"):
-            text1 = """ """
+            text1 = """ Section LXV – Pandavas Ki Victory Ka Asli Reason: Shri Krishna
+Is section mein Dhritarashtra apne bete Duryodhana ki haar se bahut pareshan hai. Woh Sanjaya se poochta hai ki aakhir Pandavas itne powerful kaise hain aur Kaurava army baar-baar unse kyun haar rahi hai.
+Dhritarashtra Ka Dar
+Dhritarashtra Sanjaya se kehta hai:
+
+"Hey Sanjaya, Pandavas ke warriors aise amazing feats kar rahe hain jo shayad Gods bhi nahi kar sakte. Mere bete baar-baar battlefield mein haar rahe hain.
+
+Bhima mere bete ko ek-ek karke maar raha hai. Mujhe koi aisa warrior nazar nahi aata jo mere beton ko protect kar sake.
+
+Pandavas ke paas aisi kaunsi power hai? Kya unhone koi special tapasya ki hai? Kya unhe kisi God ka blessing mila hai?
+
+Mujhe batao ki unhe harana itna difficult kyun ho raha hai. """
             create_image_text_layout(
                 "attached_assets/chapter6/6.3.53.jpg",
                 text1,
@@ -9620,7 +9913,124 @@ Is tarah Section 60 mein Bhishma Pitamah aur Arjuna ke beech ek zabardast yudh s
                 image_position="left"
             )
 
-            text2 = """ """
+            text2 = """ Aur jab meri army battlefield se retreat kar rahi thi, tab Duryodhana, Bhishma, Drona, Kripacharya aur baaki warriors ne kya kiya?"
+Sanjaya Ne Bataya Victory Ka Asli Reason
+Sanjaya ne jawab diya:
+
+"Rajan, Pandavas ki victory kisi magic ya illusion ki wajah se nahi hai. Woh apni strength, bravery aur righteousness ke dum par lad rahe hain.
+
+Pandavas hamesha Dharma ke raaste par chalne ki koshish karte hain. Woh difficult situations mein bhi apne principles nahi chhodte.
+
+Victory hamesha Dharma ke saath hoti hai.
+
+Aapke bete cruel aur dishonest decisions lete rahe hain. Unhone Pandavas ke saath baar-baar injustice kiya.
+
+Vidura, Bhishma, Drona aur maine bhi aapko kai baar samjhaya tha ki Pandavas ke saath peace kar lo. Lekin aapne humari advice nahi maani.
+
+Ab aapke bete apne galat karmon ka result face kar rahe hain."
+Duryodhana Ne Bhishma Se Poocha – Pandavas Ko Kaun Protect Kar Raha Hai?
+Sanjaya ne phir bataya ki battle ke baad Duryodhana bahut dukhi tha.
+
+Uske kai powerful brothers maare ja chuke the. Raat ko woh Bhishma ke paas gaya aur unse poocha:
+
+"Pitamah, hamari army mein aap, Dronacharya, Shalya, Kripacharya, Ashwatthama, Kritavarma, Bhagadatta aur kai powerful warriors hain.
+
+Hum sab weapons aur warfare mein experts hain. Hamari combined strength itni hai ki hum teenon worlds ki army ka bhi saamna kar sakte hain.
+
+Phir bhi Pandavas baar-baar humein kaise hara rahe hain?
+
+Aakhir woh kiski protection mein hain? Unki victory ka asli reason kya hai?"
+Bhishma Ka Jawab – Shri Krishna Pandavas Ke Saath Hain
+Bhishma ne Duryodhana ko samjhaya:
+
+"Beta, maine tumhe pehle bhi kai baar advice di thi ki Pandavas ke saath peace kar lo.
+
+Tum apne brothers ke saath kingdom enjoy kar sakte the. Sab khushi se reh sakte the.
+
+Lekin tumne meri baat nahi maani. Tumne Pandavas ke saath injustice kiya. Aaj tumhe usi ka result mil raha hai.
+
+Ab meri baat dhyan se suno.
+
+Pandavas ko khud Shri Krishna protect kar rahe hain.
+
+Jis army ke saath Shri Krishna khade hon, use duniya ki koi bhi power defeat nahi kar sakti.
+
+Na past mein koi unhe hara saka, na present mein koi hara sakta hai aur na future mein koi hara payega."
+Bhishma Ne Sunayi Shri Vishnu Ki Ek Divya Kahani
+Duryodhana ko samjhane ke liye Bhishma ne ek ancient story sunayi.
+
+Bahut purane samay ki baat hai. Ek baar sabhi Devas aur Rishis Gandhamadana mountain par Brahma ji ke paas gaye the.
+
+Wahan achanak unhone sky mein ek extraordinary divine chariot dekha. Woh chariot bahut bright light se shine kar raha tha.
+
+Brahma ji ne meditation karke samajh liya ki yeh koi ordinary being nahi, balki Supreme Divine Being hain.
+
+Brahma ji aur sabhi Devas ne respect ke saath apne hands join kiye aur us Divine Being ko pranam kiya.
+
+Woh Divine Being the – Shri Narayana, Shri Vishnu, yaani Vasudeva.
+Brahma Ji Ne Shri Narayana Ki Stuti Ki
+Brahma ji ne Shri Narayana ki praise karte hue kaha:
+
+"Hey Narayana! Aap hi poore Universe ke Supreme Lord hain.
+
+Aap past, present aur future sab kuch jaante hain.
+
+Aap hi creation ke source hain aur aap hi poore Universe ko protect karte hain.
+
+Aapke bina kuch bhi possible nahi hai.
+
+Aap hi Vishnu hain, Vasudeva hain aur sabhi living beings ke protector hain.
+
+Aapke paas unlimited power hai. Aap hi sabko life, strength aur protection dete hain.
+
+Hum aapki actual power aur greatness ko kabhi completely understand nahi kar sakte."
+Poora Universe Shri Vishnu Ka Hi Roop Hai
+Brahma ji ne phir ek beautiful description diya:
+- Earth, Shri Narayana ke feet ko represent karti hai.
+- Sky unka head hai.
+- Sun aur Moon unki eyes hain.
+- Different directions unke arms hain.
+- Fire unki energy hai.
+- Wind unki breath hai.
+- Rivers aur water unke divine existence se connected hain.
+- Vedas unke knowledge ko represent karte hain.
+Brahma ji keh rahe the ki poora Universe Shri Narayana ke divine form ka hi ek part hai.
+
+Unhone kaha:
+
+"Hey Lord, hum sab aapki grace se hi exist karte hain. Aap hi sabke protector aur guide hain.
+
+Aapki protection se Earth fear se free rehti hai aur Devas bhi khush rehte hain."
+Shri Vishnu Ka Shri Krishna Ke Roop Mein Janm
+Brahma ji ne Shri Narayana se request ki:
+
+"Hey Lord, Earth par jab bhi Adharma badhta hai aur evil forces powerful ho jaati hain, tab righteousness ko protect karna zaroori hota hai.
+
+Isliye aap Yadu dynasty mein janm lijiye.
+
+Aap human form mein aakar evil forces ka destruction kijiye, Dharma ko establish kijiye aur poore Universe ki protection kijiye."
+
+Brahma ji ne Shri Narayana ke divine expansions ka bhi zikr kiya:
+- Sankarshana
+- Pradyumna
+- Aniruddha
+Is divine sequence ke through Brahma ji ne bataya ki creation bhi Shri Narayana ki divine power se hi hoti hai.
+
+Aur isi tarah Shri Narayana ne duniya mein Dharma establish karne ke liye human form mein janm lene ka divine purpose accept kiya.
+Is Kahani Ka Pandavas Se Connection
+Bhishma ne Duryodhana ko yeh ancient story isliye sunayi kyunki woh samjhana chahte the ki Pandavas ke saath khud Shri Krishna hain.
+
+Shri Krishna sirf Arjuna ke charioteer nahi hain. Woh Supreme Divine Being, Shri Narayana hain.
+
+Pandavas Dharma ke liye lad rahe hain aur unke saath Shri Krishna khade hain.
+
+Isi wajah se unhe defeat karna almost impossible hai.
+
+Section LXV ka main message:
+
+Duryodhana ke paas powerful army, Bhishma, Drona aur countless warriors hain. Lekin Pandavas ke paas Shri Krishna ka support aur Dharma ka saath hai.
+
+Bhishma Duryodhana ko indirectly samjha rahe hain ki uski haar ka reason Pandavas ki koi magic power nahi, balki uske khud ke galat decisions aur Adharma hain. """
             create_image_text_layout(
                 text_content=text2,
                 layout="full"
@@ -9629,7 +10039,20 @@ Is tarah Section 60 mein Bhishma Pitamah aur Arjuna ke beech ek zabardast yudh s
 
         # Section 6.3.54
         with st.expander("Section 6.3.54  Section LXVI"):
-            text1 = """ """
+            text1 = """ Section LXVI – Shri Krishna Hi Narayana Hain
+Pichhle section mein Bhishma ne Duryodhana ko bataya tha ki Pandavas ko khud Shri Krishna protect kar rahe hain. Ab woh apni baat ko aage badhate hain aur samjhate hain ki Shri Krishna koi ordinary human nahi, balki poore Universe ke Supreme Lord hain.
+Shri Narayana Ka Brahma Ji Ko Jawab
+Bhishma ne bataya:
+
+Bahut purane samay mein jab Brahma ji ne Shri Narayana se request ki thi ki woh Earth par janm lekar Adharma ka destruction karein, tab Shri Narayana ne ek soft aur powerful voice mein jawab diya:
+
+"Brahma ji, mujhe aapki wish aur aapka purpose pata hai. Jo aap chahte hain, wahi hoga."
+
+Itna kehkar Shri Narayana wahan se disappear ho gaye.
+
+Yeh dekhkar sabhi Devas, Rishis aur Gandharvas bahut surprised ho gaye. Unhone Brahma ji se poocha:
+
+"Hey Brahma ji, aapne itne powerful Divine Being ki itni devotion ke saath worship kyun ki? Woh kaun the?" """
             create_image_text_layout(
                 "attached_assets/chapter6/6.3.54.jpg",
                 text1,
@@ -9637,7 +10060,92 @@ Is tarah Section 60 mein Bhishma Pitamah aur Arjuna ke beech ek zabardast yudh s
                 image_position="left"
             )
 
-            text2 = """ """
+            text2 = """ Brahma Ji Ne Bataya – Woh Supreme Narayana Hain
+Brahma ji ne jawab diya:
+
+"Woh Supreme Being hain. Unka koi end nahi hai. Woh past, present aur future mein hamesha exist karte hain.
+
+Wahi sabhi living beings ki Soul hain. Wahi poore Universe ke Supreme Master hain.
+
+Maine unse request ki thi ki woh Vasudeva ke family mein human form lekar janm lein, taaki Earth par evil forces ka destruction kar sakein."
+
+Brahma ji ne aage bataya ki purane samay mein kai powerful Asuras, Daityas aur Rakshasas ko battle mein defeat kiya gaya tha. Unmein se kuch ab human form mein Earth par janm le chuke hain.
+
+Unka destruction karne ke liye Shri Narayana human form mein janm lenge.
+Nara Aur Narayana Ka Connection
+Brahma ji ne ek important baat batayi:
+
+Shri Narayana Earth par Nara ke saath rahenge.
+
+Nara aur Narayana dono ancient divine Rishis hain. Unki power itni extraordinary hai ki sabhi Devas milkar bhi unhe battle mein defeat nahi kar sakte.
+
+Brahma ji ke according, ye dono jab human form mein Earth par aayenge, toh ordinary log unki real identity samajh nahi paayenge.
+
+Is kahani mein Nara aur Narayana ka connection Pandavas aur Shri Krishna se hai:
+- Nara ka sambandh Arjuna se hai.
+- Narayana ka sambandh Shri Krishna se hai.
+Yaani Shri Krishna aur Arjuna ka saath sirf ek friendship nahi, balki ek ancient divine connection hai.
+Shri Krishna Ko Ordinary Human Samajhne Ki Galti Mat Karna
+Brahma ji ne Devas ko warning di:
+
+"Shri Vasudeva ko kabhi ordinary human mat samajhna.
+
+Unke haathon mein Shankha, Chakra aur Gada hoti hai. Woh Supreme God hain.
+
+Woh Eternal hain, Unchanging hain aur poore Universe ke protector hain.
+
+Unhe samajhna aur unki greatness ko pehchanna bahut zaroori hai."
+
+Brahma ji ne kaha ki jo log Shri Krishna ko sirf ek human samajhkar unki disrespect karte hain, woh ignorance mein jeete hain.
+
+Shri Krishna hi woh Divine Being hain jinke chest par auspicious mark hai, jo Kaustubha gem aur crown dharan karte hain aur apne devotees ke fears ko door karte hain.
+
+Unhe respect aur devotion ke saath worship karna chahiye.
+Bhishma Ne Duryodhana Ko Samjhaya
+Apni ancient story complete karne ke baad Bhishma ne Duryodhana se kaha:
+
+"Yeh knowledge mujhe great Rishis se mili hai. Maine ise Parashurama, Markandeya, Ved Vyasa aur Narada jaise great sages se bhi suna hai.
+
+Ab tum khud socho, jab Shri Krishna itne Supreme Divine Being hain, toh unki worship aur respect kyun nahi honi chahiye?
+
+Tumhe pehle bhi warn kiya gaya tha ki Shri Krishna aur Pandavas ke against war mat karo.
+
+Lekin tumne kisi ki advice nahi maani."
+
+Bhishma ne Duryodhana ko strongly samjhaya ki Govinda (Shri Krishna) aur Dhananjaya (Arjuna) se nafrat karna uski sabse badi galti hai.
+Jahan Shri Krishna Hain, Wahan Dharma Hai
+Bhishma ne kaha:
+
+"Shri Krishna Eternal hain. Woh poore Universe mein present hain. Wahi creation karte hain, protection karte hain aur Universe ko maintain karte hain.
+
+Wahi sabhi living beings ke Supreme Master hain.
+
+Jahan Shri Krishna hain, wahan Dharma hai. Aur jahan Dharma hai, wahan Victory zaroor hoti hai.
+
+Pandavas ko Shri Krishna se hi wisdom, righteousness aur battlefield mein strength milti hai.
+
+Wahi unhe dangers se protect karte hain aur difficult situations mein sahi direction dete hain.
+
+Isliye Pandavas ki victory almost certain hai."
+Shri Krishna Hi Har Yuga Ke Creator Hain
+Bhishma ne aage bataya ki Shri Vasudeva hi har Yuga mein Gods aur human beings ki duniya ko create karte hain.
+
+Wahi cities, kingdoms aur poori human civilization ke creator hain.
+
+Different communities ke log apne-apne duties follow karte hue unki worship karte hain.
+
+Dvapara Yuga ke end aur Kali Yuga ki beginning ke samay bhi devotees Shri Krishna aur Sankarshana ki devotion aur prayers karte hain.
+
+Shri Krishna har Yuga mein Universe ko create aur maintain karne wale Supreme Lord hain.
+
+Section LXVI Ka Main Message
+Is section mein Bhishma Duryodhana ko ek final spiritual truth samjhate hain:
+- Shri Krishna sirf Arjuna ke friend ya charioteer nahi hain.
+- Shri Krishna hi Supreme Narayana hain.
+- Arjuna aur Krishna ka connection Nara-Narayana ke ancient divine relationship se juda hai.
+- Pandavas ko Shri Krishna ki guidance, protection aur blessings mil rahi hain.
+- Jahan Shri Krishna aur Dharma hain, wahan victory hai.
+Duryodhana ke paas Bhishma, Drona aur countless powerful warriors hain, lekin woh ek baat samajhne ko ready nahi hai: Pandavas ke against war karke woh sirf ek army se nahi, balki Dharma aur Shri Krishna ki divine power ke against khada hai. """
             create_image_text_layout(
                 text_content=text2,
                 layout="full"
@@ -9646,7 +10154,14 @@ Is tarah Section 60 mein Bhishma Pitamah aur Arjuna ke beech ek zabardast yudh s
 
         # Section 6.3.55
         with st.expander("Section 6.3.55  Section LXVII"):
-            text1 = """ """
+            text1 = """ Section LXVII – Shri Krishna Ki Divine Powers Aur Creation Ki Kahani
+Pichhle section mein Bhishma ne Duryodhana ko samjhaya tha ki Shri Krishna hi Supreme Narayana hain. Ab Duryodhana unse Shri Krishna ke origin aur unki divine powers ke baare mein aur detail mein poochta hai.
+Duryodhana Ka Sawal
+Duryodhana ne Bhishma se kaha:
+
+"Pitamah, poore Universe mein Shri Vasudeva ko Supreme Being kaha jaata hai. Main unki greatness ke baare mein aur jaanna chahta hoon.
+
+Mujhe bataiye ki Shri Vasudeva ka origin kya hai aur unki actual powers kitni hain?" """
             create_image_text_layout(
                 "attached_assets/chapter6/6.3.55.jpg",
                 text1,
@@ -9654,7 +10169,92 @@ Is tarah Section 60 mein Bhishma Pitamah aur Arjuna ke beech ek zabardast yudh s
                 image_position="left"
             )
 
-            text2 = """ """
+            text2 = """ Bhishma Ne Bataya – Shri Vasudeva Hi Supreme God Hain
+Bhishma ne jawab diya:
+
+"Beta, Shri Vasudeva sabhi Gods ke bhi God hain. Unse superior koi nahi hai.
+
+Maharishi Markandeya bhi Shri Govinda ko Supreme Soul, Supreme Being aur poore Universe ka source maante hain.
+
+Wahi sab kuch hain aur sabhi living beings ke andar unki divine presence hai."
+Shri Narayana Ne Kaise Create Kiya Universe?
+Bhishma ne ek ancient creation story sunayi.
+
+Bahut purane samay mein jab kuch bhi exist nahi karta tha, tab Shri Narayana hi Supreme Divine Being ke roop mein present the.
+
+Unhone sabse pehle Water, Air aur Fire ko create kiya. Phir unhone Earth aur baaki creation ko existence diya.
+
+Uske baad Shri Narayana cosmic waters par Yoga Nidra mein rest karne lage.
+
+Unki divine power se creation ka process aage badha:
+- Unke mouth se Fire aur divine Speech originate hui.
+- Unki breath se Wind create hui.
+- Unhi se Vedas aur divine knowledge ka origin hua.
+- Unhone Gods, Rishis aur different worlds ko create kiya.
+- Unhone living beings ke liye birth, growth, old age aur death ka cycle bhi establish kiya.
+Yaani creation ho, life ho ya time ka flow — sab Shri Narayana ki divine power se hi hai.
+Sankarshana Aur Ananta Shesha Ka Creation
+Shri Narayana ne Sankarshana ko create kiya, jo divine creation ke important forms mein se ek hain.
+
+Unhone Ananta Shesha ko bhi create kiya. Ananta Shesha ek divine serpent hain, jinhe apne infinite form mein poori Earth aur mountains ko support karne wala bataya gaya hai.
+
+Isi wajah se unka naam Ananta hai, yaani jinka koi end nahi.
+Madhu Asura Ka Vadh – Isliye Shri Krishna Ka Naam Madhusudana Pada
+Bhishma ne ek powerful incident bhi sunaya.
+
+Ek samay Shri Narayana ke ear secretions se Madhu naam ka ek powerful Asura paida hua.
+
+Madhu bahut dangerous tha. Uska intention Brahma ji ko destroy karna tha.
+
+Lekin Shri Narayana ne uska saamna kiya aur uska vadh kar diya. Madhu ka destruction karne ke baad Gods, Rishis aur humans ne Shri Narayana ko Madhusudana, yaani Madhu Asura ka destroyer, kehna shuru kar diya.
+
+Bhishma ne bataya ki Shri Narayana ke kai divine forms aur names hain:
+- Varaha: Great divine Boar.
+- Narasimha: Half-man, half-lion divine form.
+- Trivikrama: Vamana Avatar ka विशाल form, jisme Bhagwan ne apne three steps se Universe ko cover kiya.
+Ye sab Shri Vishnu ki divine power aur different manifestations ko represent karte hain.
+Shri Narayana Sabhi Living Beings Ke Father Aur Mother Hain
+Bhishma ne kaha:
+
+"Shri Narayana hi sabhi living beings ke Father aur Mother hain. Unse superior koi nahi hai.
+
+Unhone Universe mein different responsibilities aur social groups ko bhi create kiya."
+
+Is ancient description mein chaar Varna ka origin unke divine body parts se bataya gaya hai:
+- Brahmanas – Mouth se.
+- Kshatriyas – Arms se.
+- Vaishyas – Thighs se.
+- Shudras – Feet se.
+Yeh passage us samay ki traditional Varna-based creation explanation ko describe karta hai.
+Shri Krishna Ke Devotees Ko Kya Milta Hai?
+Bhishma ne Duryodhana ko bataya ki jo log devotion aur discipline ke saath Shri Kesava ki worship karte hain, unhe divine blessings milti hain.
+
+Shri Krishna ko Hrishikesa bhi kaha jaata hai, jiska meaning hai – sabhi senses ke Lord.
+
+Wahi sabke Preceptor, Father aur Master hain.
+
+Bhishma ke according:
+- Jo Shri Krishna ko sincerely worship karta hai, use divine blessings milti hain.
+- Jo danger mein Shri Kesava ki protection maangta hai, Bhagwan uski raksha karte hain.
+- Jo unki greatness ko devotion ke saath yaad karta hai, uske life mein happiness aur prosperity aati hai.
+- Jo Shri Krishna ka shelter leta hai, woh difficult situations mein bhi unki protection paata hai.
+Yudhishthira Ne Shri Krishna Ka Shelter Kyun Liya?
+Bhishma ne end mein Duryodhana ko ek important baat samjhayi:
+
+"Yudhishthira ne Shri Kesava ki greatness ko samajh liya hai.
+
+Isi wajah se usne apne poore heart aur soul se Shri Krishna ka shelter liya hai.
+
+Woh jaanta hai ki Shri Krishna hi Supreme Lord hain aur wahi Pandavas ko guidance aur protection dete hain."
+
+Section LXVII Ka Main Message
+Is section mein Bhishma Shri Krishna ke divine origin, Universe ki creation aur unke different forms ke baare mein batate hain.
+1. Shri Narayana hi Universe ke creator aur protector hain.
+2. Madhu Asura ka vadh karne ke baad unhe Madhusudana kaha gaya.
+3. Varaha, Narasimha aur Vamana jaise divine forms bhi Shri Vishnu se connected hain.
+4. Shri Krishna sabhi living beings ke Supreme Father aur Mother hain.
+5. Yudhishthira ne isi divine truth ko samajhkar Shri Krishna ka shelter liya hai.
+Bhishma Duryodhana ko baar-baar ek hi baat samjha rahe hain: Pandavas ki sabse badi strength unki army nahi, balki unka Shri Krishna par trust aur unka Dharma ke saath khade rehna hai. """
             create_image_text_layout(
                 text_content=text2,
                 layout="full"
@@ -9663,7 +10263,14 @@ Is tarah Section 60 mein Bhishma Pitamah aur Arjuna ke beech ek zabardast yudh s
 
         # Section 6.3.56
         with st.expander("Section 6.3.56  Section LXVIII"):
-            text1 = """ """
+            text1 = """ Section LXVIII – Bhishma Ki Aakhri Warning: Pandavas Se Sandhi Kar Lo
+Pichhle sections mein Bhishma ne Duryodhana ko Shri Krishna ki divine powers aur unke Supreme Narayana hone ke baare mein bataya tha.
+
+Ab is section mein Bhishma Shri Krishna ki ek sacred prayer sunate hain aur Duryodhana ko ek baar phir Pandavas ke saath peace karne ki advice dete hain.
+Brahma Ji Ki Shri Krishna Ke Liye Sacred Prayer
+Bhishma ne Duryodhana se kaha:
+
+"Beta, ab main tumhe woh sacred prayer sunata hoon jo khud Brahma ji ne Shri Narayana ki praise mein kahi thi. """
             create_image_text_layout(
                 "attached_assets/chapter6/6.3.56.jpg",
                 text1,
@@ -9671,7 +10278,73 @@ Is tarah Section 60 mein Bhishma Pitamah aur Arjuna ke beech ek zabardast yudh s
                 image_position="left"
             )
 
-            text2 = """ """
+            text2 = """ Purane samay mein great Rishis aur Devas ne bhi is prayer ko Earth par logon tak pahunchaya tha."
+
+Is prayer mein alag-alag Maharishis Shri Krishna ki greatness describe karte hain.
+- Narada Rishi: Shri Krishna sabhi Gods ke God aur poore Universe ke Supreme Master hain.
+- Markandeya Rishi: Shri Krishna hi Past, Present aur Future hain. Woh sabhi Yagya aur Tapasya ka Supreme Source hain.
+- Bhrigu Rishi: Shri Krishna hi ancient Vishnu hain, jo sabhi Gods se superior hain.
+- Ved Vyasa: Shri Krishna hi Vasudeva hain aur sabhi living beings ke Supreme Lord hain.
+- Daksha: Shri Krishna hi creation ke Father hain.
+- Angiras: Shri Krishna hi sabhi living beings ke Creator hain.
+- Devala: Poora Universe Shri Krishna ke divine form ka part hai. Unmanifest aur manifest, dono unhi se connected hain.
+Shri Krishna Ke Divine Form Mein Poora Universe Hai
+Prayer mein bataya gaya hai ki poora Universe Shri Krishna ke divine body mein samaaya hua hai.
+- Heavens unke head mein hain.
+- Earth unki arms se supported hai.
+- Teenon worlds unke stomach mein hain.
+Woh Eternal Being hain. Har jagah unki presence hai.
+
+Great Rishis aur Yogis meditation ke through unki divine reality ko experience karte hain.
+
+Bhishma batate hain ki jo kings Dharma follow karte hain, generosity dikhate hain aur battle se kabhi peeche nahi hatte, unke liye bhi Shri Krishna hi ultimate refuge hain.
+
+Sanatkumara aur doosre great Yogis bhi Shri Hari ki worship karte hain.
+
+Prayer ke end mein Bhishma Duryodhana se kehte hain:
+
+"Ab tumne Shri Kesava ki greatness ke baare mein sab kuch sun liya hai. Apne heart mein unke liye devotion aur respect jagao."
+Duryodhana Par Is Kahani Ka Asar
+Sanjaya Dhritarashtra ko batate hain ki sacred story sunkar Duryodhana ke mind mein Shri Krishna ke liye respect badhne laga.
+
+Usne Pandavas ke powerful warriors ko bhi pehle se zyada seriously lena shuru kar diya.
+
+Lekin Bhishma abhi bhi use ek final advice dena chahte the.
+Bhishma Ki Final Warning
+Bhishma ne Duryodhana se kaha:
+
+"Beta, ab tumne Shri Krishna ki greatness samajh li hai.
+
+Tumne Nara aur Narayana ke divine connection ke baare mein bhi sun liya hai.
+
+Tumhe yeh bhi pata chal gaya hai ki Pandavas ko battle mein defeat karna itna difficult kyun hai.
+
+Shri Krishna Pandavas se bahut prem karte hain. Woh unhe protect karte hain aur unhe right direction dete hain.
+
+Isliye meri advice hai:
+
+Pandavas ke saath peace kar lo.
+
+Apne anger aur ego ko control karo. Apne brothers ke saath kingdom enjoy karo. Tum sab khushi se reh sakte ho.
+
+Lekin agar tum Nara aur Narayana, yaani Arjuna aur Shri Krishna ki divine power ko ignore karoge, toh tumhara destruction certain hai."
+Raat Ka Ant
+Apni baat complete karne ke baad Bhishma silent ho gaye.
+
+Unhone Duryodhana ko jaane ki permission di aur khud apne tent mein chale gaye.
+
+Duryodhana ne bhi Bhishma ko respect ke saath pranam kiya aur apne tent mein laut gaya.
+
+Us raat woh apne white bed par aaram karne ke liye let gaya.
+
+Section LXVIII Ka Main Message
+Is section mein Bhishma Duryodhana ko Shri Krishna ki greatness samjhane ke baad final warning dete hain.
+1. Shri Krishna hi Universe ke Creator, Protector aur Supreme Lord hain.
+2. Great Rishis aur Yogis bhi unki worship karte hain.
+3. Shri Krishna Pandavas se prem karte hain aur unki protection karte hain.
+4. Bhishma Duryodhana ko baar-baar peace ka option de rahe hain.
+5. Agar Duryodhana apna ego aur anger control nahi karega, toh uska destruction ho sakta hai.
+Sabse important baat: Bhishma jaante hain ki war ka result kya ho sakta hai. Phir bhi woh Duryodhana ko last moment tak samjha rahe hain ki apni zid chhodo, Pandavas se sandhi kar lo aur apne kingdom ko barbaadi se bachao. """
             create_image_text_layout(
                 text_content=text2,
                 layout="full"
@@ -9680,7 +10353,16 @@ Is tarah Section 60 mein Bhishma Pitamah aur Arjuna ke beech ek zabardast yudh s
 
         # Section 6.3.57
         with st.expander("Section 6.3.57  Section LXIX"):
-            text1 = """ """
+            text1 = """ Section LXIX – War Ka Naya Din: Bhishma Aur Arjuna Ka Bhayankar Yudh
+Pichhle sections mein Bhishma ne Duryodhana ko baar-baar samjhaya tha ki Pandavas ke saath peace kar lo. Lekin Duryodhana ne war rokne ka decision nahi liya.
+
+Ab raat beet chuki thi aur subah ho gayi thi. Dono armies ek baar phir Kurukshetra ke battlefield mein saamne aa gayi.
+Dono Armies Ne Banayi Powerful Battle Formation
+Suraj nikalte hi Pandavas aur Kauravas apni-apni armies ke saath battlefield mein aage badhe.
+
+Dono taraf ke warriors weapons aur armour ke saath ready the. Har kisi ke mind mein ek hi goal tha – enemy army ko defeat karna.
+
+Kaurava army ke commander Bhishma ne apni army ko Makara Vyuha mein arrange kiya. """
             create_image_text_layout(
                 "attached_assets/chapter6/6.3.57.jpg",
                 text1,
@@ -9688,7 +10370,108 @@ Is tarah Section 60 mein Bhishma Pitamah aur Arjuna ke beech ek zabardast yudh s
                 image_position="left"
             )
 
-            text2 = """ """
+            text2 = """ Makara ek mythical aquatic creature hota hai, jo crocodile jaisa dikhta hai.
+
+Dusri taraf Pandavas ne apni army ko ek powerful formation mein arrange kiya, jise Syena Vyuha kaha gaya. Syena ka meaning hota hai Hawk ya Eagle. Pandavas Ki Syena Vyuha Mein Kaun Kahan Tha?
+Pandavas ne apne most powerful warriors ko formation ke different parts mein position diya tha.
+- Beak (Chonch): Bhimasena – apni tremendous strength ke saath.
+- Eyes (Aankhein): Shikhandi aur Dhrishtadyumna.
+- Head (Sir): Satyaki.
+- Neck (Gardan): Arjuna, apne powerful Gandiva bow ke saath.
+- Left Wing: King Drupada aur unki army.
+- Right Wing: Kekaya kingdom ke warriors.
+- Back: Draupadi ke five sons aur Subhadra ke son Abhimanyu.
+- Tail (Poonch): King Yudhishthira, Nakula aur Sahadeva ke saath.
+Is tarah Pandavas ne apne important warriors ko strategically place kiya.
+Bhima Ne Bhishma Ki Army Par Attack Kiya
+Battle shuru hote hi Bhima ne Kauravas ki Makara Vyuha formation ke mouth ki taraf se attack kiya.
+
+Woh seedha Bhishma ke paas pahunch gaya aur un par arrows ki baarish kar di.
+
+Bhishma bhi chup rehne wale nahi the. Unhone apne powerful weapons se Pandava army par attack kiya.
+
+Unke attacks se Pandava warriors ki formation disturb hone lagi.
+Arjuna Ne Bhishma Ko Rok Diya
+Jab Arjuna ne dekha ki Bhishma ke attacks se Pandava army trouble mein aa rahi hai, toh woh turant battlefield ke front par pahunch gaya.
+
+Arjuna ne Bhishma par lagbhag 1,000 arrows chala diye.
+
+Bhishma ke weapons ko counter karte hue Arjuna ne unka saamna kiya.
+
+Ab battlefield mein dono legendary warriors aamne-saamne the: Ek taraf Bhishma the, jo Kaurava army ke commander the. Dusri taraf Arjuna tha, jiske saath Shri Krishna charioteer ke roop mein the.
+Duryodhana Ne Dronacharya Se Help Maangi
+Apni army ko battlefield mein suffer karte dekhkar Duryodhana bahut angry ho gaya.
+
+Use pichhle din apne brothers ki death bhi yaad aa rahi thi.
+
+Woh turant Dronacharya ke paas gaya aur bola:
+
+"Acharyaji, aap hamesha mere well-wisher rahe hain.
+
+Mujhe aap par aur Pitamah Bhishma par poora bharosa hai. Aap dono ke hote hue hum Gods ko bhi battle mein defeat kar sakte hain.
+
+Phir Pandavas toh hamare saamne kuch bhi nahi hain.
+
+Please, aisa kuch kijiye ki Pandavas ko battle mein destroy kiya ja sake."
+Dronacharya Ne Pandava Army Mein Entry Ki
+Duryodhana ki baat sunkar Dronacharya ne Pandavas ki formation ke andar attack kar diya.
+
+Satyaki ne Drona ko aage badhte dekha aur unka raasta rok diya.
+
+Ab dono powerful warriors ke beech fierce battle shuru ho gaya.
+
+Drona ne apne arrows se Satyaki ke shoulder ke paas attack kiya aur unhe 10 arrows se hit kar diya.
+
+Satyaki bhi Drona ka saamna karte rahe.
+Bhima Ne Satyaki Ko Bachaya
+Jab Bhima ne dekha ki Dronacharya Satyaki par attack kar rahe hain, toh woh turant unki help ke liye pahunch gaya.
+
+Bhima ne Drona par multiple arrows chala diye, taaki Satyaki ko protection mil sake.
+
+Lekin tab Bhishma aur Shalya bhi Drona ki help ke liye aa gaye.
+
+Ab Bhima ko Drona, Bhishma aur Shalya – teeno powerful warriors ne apne arrows se target karna shuru kar diya.
+Abhimanyu Aur Draupadi Ke Bete Bhi Battle Mein Utare
+Bhima ko surrounded dekhkar Abhimanyu aur Draupadi ke five sons bhi battlefield mein aage aaye.
+
+Unhone apne sharp arrows se Bhishma, Drona aur Shalya par attack kiya.
+
+Battle aur bhi intense ho gayi. Dono sides ke warriors ek doosre ko rokne mein lage hue the.
+Shikhandi Ne Bhishma Aur Drona Ko Challenge Kiya
+Ab Shikhandi bhi apna powerful bow lekar Bhishma aur Drona ki taraf badhe.
+
+Unke arrows itni speed se nikal rahe the ki battlefield mein sunlight tak cover hoti hui lag rahi thi.
+
+Lekin jaise hi Bhishma ne Shikhandi ko apne saamne dekha, unhone unse fight karne se avoid kiya.
+
+Iska reason tha ki Bhishma Shikhandi ko unke past aur unki feminine identity ke kaaran woman maante the. Bhishma ne pehle hi decide kiya hua tha ki woh Shikhandi ke against weapons nahi uthayenge.
+Drona Ne Shikhandi Ka Raasta Roka
+Duryodhana ke kehne par Dronacharya Bhishma ki protection ke liye aage aaye.
+
+Shikhandi ne Drona ko apni taraf aate dekha, lekin woh unke saamne fight karne ke bajaye unse door ho gaye.
+
+Drona ek extremely powerful warrior the aur unke saamne fight karna bahut dangerous tha.
+Dono Armies Ke Beech Maha-Yudh
+Ab Duryodhana apni large army ke saath Bhishma ki protection ke liye aage badha.
+
+Dusri taraf Pandavas bhi apne warriors ke saath Bhishma ko challenge karne pahunch gaye.
+
+Dono armies ke beech ek enormous battle shuru ho gaya.
+
+Har warrior victory aur glory ke liye fight kar raha tha.
+
+Sanjaya ke according, yeh battle itni fierce thi ki purane samay mein Devas aur Danavas ke beech hui war ki yaad dila rahi thi.
+
+Section LXIX Ka Main Message
+Is section mein war ka ek naya din shuru hota hai:
+1. Kauravas ne Bhishma ke leadership mein Makara Vyuha banaya.
+2. Pandavas ne Syena Vyuha, yaani Eagle Formation banayi.
+3. Bhima ne Bhishma ki army par attack kiya.
+4. Arjuna ne Bhishma ko 1,000 arrows se challenge kiya.
+5. Dronacharya aur Satyaki ke beech fierce fight hui.
+6. Bhima, Abhimanyu aur Draupadi ke bete Satyaki ki help ke liye aaye.
+7. Shikhandi ne Bhishma ko challenge kiya, lekin Bhishma ne unse fight karne se avoid kiya.
+Battle ab aur dangerous hoti ja rahi hai. Bhishma, Drona, Arjuna, Bhima aur Satyaki jaise legendary warriors ek hi battlefield mein apni full strength ke saath lad rahe hain. """
             create_image_text_layout(
                 text_content=text2,
                 layout="full"
@@ -9697,7 +10480,18 @@ Is tarah Section 60 mein Bhishma Pitamah aur Arjuna ke beech ek zabardast yudh s
 
         # Section 6.3.58
         with st.expander("Section 6.3.58  Section LXX"):
-            text1 = """ """
+            text1 = """ Section LXX – Kurukshetra Ka Bhayankar Yudh: Khoon Ki Nadi Aur Warriors Ka Sangharsh
+Pichhle section mein humne dekha ki Bhima, Arjuna, Satyaki, Drona aur Bhishma ke beech fierce battle shuru ho chuki thi.
+
+Ab is section mein Sanjaya Dhritarashtra ko batate hain ki battlefield par yudh kitna bhayanak ho gaya tha.
+Bhishma Ne Bhima Ke Khilaaf Yudh Tez Kar Diya
+Bhishma samajh rahe the ki Bhima Kaurava army ke liye bahut bada danger ban chuka hai.
+
+Isliye unhone apni army aur apne putron ko Bhima ke attack se protect karne ke liye poori strength ke saath fight karna shuru kar diya.
+
+Ab Kauravas aur Pandavas ke beech ek massive battle chhid gayi.
+
+Dono armies ke powerful warriors ek doosre ko defeat karne ke liye apne saare weapons use kar rahe the.  """
             create_image_text_layout(
                 "attached_assets/chapter6/6.3.58.jpg",
                 text1,
@@ -9705,7 +10499,78 @@ Is tarah Section 60 mein Bhishma Pitamah aur Arjuna ke beech ek zabardast yudh s
                 image_position="left"
             )
 
-            text2 = """ """
+            text2 = """ Battlefield Ka Shor Aasmaan Tak Pahunch Gaya
+Kurukshetra ka battlefield kisi bhayanak storm jaisa lag raha tha.
+- Elephants zor-zor se chinghaad rahe the.
+- Horses ki neighing se poora maidan goonj raha tha.
+- Warriors ke conch shells baj rahe the.
+- Drums ki awaaz har taraf sunayi de rahi thi.
+- Bows ki strings aur weapons ki takkar se bahut loud noise ho raha tha.
+Warriors ek doosre ko challenge karte hue bulls ki tarah garaj rahe the.
+
+Itna shor tha ki kisi ki awaaz samajhna bhi mushkil ho raha tha.
+Battlefield Khoon Se Bhar Gaya
+Dono armies ke warriors ek doosre par arrows ki baarish kar rahe the.
+
+Bahut saare warriors battlefield mein maare ja rahe the. Unke helmets, golden ornaments, earrings aur weapons zameen par bikhar gaye the.
+
+Elephants, horses aur soldiers ke bodies poore battlefield mein pade hue the.
+
+Aasmaan mein warriors ke weapons lightning ki tarah chamak rahe the aur unke takrane ki awaaz thunder jaisi lag rahi thi.
+
+Battlefield ki dhool itni zyada uth rahi thi ki aas-paas dekhna bhi mushkil ho gaya.
+
+Sanjaya is scene ko describe karte hue kehte hain ki battlefield ek khoon ki nadi jaisa dikhne laga tha.
+Warriors Ne Har Tarah Se Fight Kiya
+Yudh ab sirf arrows aur bows tak limited nahi raha tha.
+
+Warriors different weapons se ek doosre par attack kar rahe the:
+- Gada (mace)
+- Talwar (sword)
+- Spear aur lance
+- Arrows aur darts
+Kuch warriors ke paas weapons nahi bache toh woh apne haathon se hi fight karne lage.
+
+Koi punches maar raha tha, koi knees aur slaps se attack kar raha tha.
+
+Kuch warriors apne chariots se neeche gir gaye, lekin unhone haar nahi maani. Woh swords lekar paidal hi enemy par attack karne lage.
+Haathi Aur Ghode Control Se Bahar Ho Gaye
+Arrows se injured elephants apne mahouts ko kho baithe aur battlefield mein idhar-udhar bhaagne lage.
+
+Horses bhi apne riders se alag hokar uncontrolled ho gaye.
+
+Kahin warriors elephants par attack kar rahe the, toh kahin horses aur chariots ke beech fierce fighting chal rahi thi.
+
+Har taraf confusion aur destruction tha.
+Bhima Aur Bhishma Ke Beech Bhayankar Fight
+Bhima aur Bhishma ke beech bhi intense battle chal rahi thi.
+
+Un dono ke aas-paas zameen par broken bows, maces, swords, arrows, ornaments aur fallen warriors ke bodies pade hue the.
+
+Dono apni poori strength ke saath fight kar rahe the.
+
+Kisi bhi taraf ke warriors peeche hatne ko ready nahi the.
+Duryodhana Kalinga Army Ke Saath Aage Badha
+Ab Duryodhana ne ek large division of Kalinga warriors ko apne saath liya.
+
+Bhishma ko apne aage rakhkar woh Pandava army ki taraf attack karne ke liye badha.
+
+Dusri taraf Pandava warriors bhi Bhima ko support karne ke liye aage aaye.
+
+Unke horses aur chariots bahut fast the aur sabhi warriors Bhishma ki taraf gusse mein badh rahe the.
+
+Ab ek baar phir dono armies ke beech ek massive clash hone wala tha.
+
+Section LXX Ka Main Message
+Is section mein Kurukshetra war ki brutality aur destruction ko describe kiya gaya hai.
+1. Bhishma ne Bhima ke attacks ko rokne ke liye fierce fighting ki.
+2. Dono armies ke beech massive battle hui.
+3. Battlefield warriors, elephants aur horses ke bodies se bhar gaya.
+4. Warriors ne arrows, swords, maces aur spears ke saath fight ki.
+5. Kuch warriors weapons khatam hone ke baad bare hands se ladne lage.
+6. Duryodhana Kalinga warriors ke saath Bhishma ko support karne aaya.
+7. Pandava army Bhima ko support karte hue Bhishma ki taraf badhi.
+Is section ka ek important point: Kurukshetra ka yudh ab apne sabse destructive phase mein enter kar raha tha. Dono taraf ke warriors victory ke liye lad rahe the, lekin us victory ki keemat hazaaron soldiers aur warriors ki jaan ban rahi thi. """
             create_image_text_layout(
                 text_content=text2,
                 layout="full"
