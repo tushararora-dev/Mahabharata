@@ -10577,7 +10577,20 @@ Is section ka ek important point: Kurukshetra ka yudh ab apne sabse destructive 
             )
         # Section 6.3.59
         with st.expander("Section 6.3.59  Section LXXI"):
-            text1 = """ """
+            text1 = """ Section LXXI – Arjuna Ka Mahayudh: Gandiva Ki Garaj Se Kaurava Sena Mein Dar
+Pichhle section mein humne dekha ki Duryodhana Kalinga warriors ke saath Bhishma ki help ke liye aage badha tha. Dusri taraf Pandavas bhi Bhima ko support karne ke liye battlefield mein pahunch rahe the.
+
+Ab is section mein Arjuna apni poori power ke saath battlefield mein utarta hai.
+Arjuna Ne Bhishma Ki Taraf Kiya Attack
+Jab Arjuna ne dekha ki uske brothers aur doosre Pandava kings Bhishma ke saath fight kar rahe hain, toh woh bhi apne weapons lekar Bhishma ki taraf badha.
+
+Us samay Shri Krishna Arjuna ke charioteer the.
+
+Krishna ne apna divine conch Panchajanya bajaya aur Arjuna ne apna legendary bow Gandiva uthaya.
+
+Gandiva ki awaaz aur Panchajanya ke blast ko sunkar Kaurava army ke warriors ke dil mein dar baith gaya.
+
+Arjuna ke chariot par laga flag bhi bahut magnificent tha. Us par lion's tail ka symbol tha. Woh flag aasman mein ek jalte hue mountain ya bright comet ki tarah chamak raha tha. """
             create_image_text_layout(
                 "attached_assets/chapter6/6.3.59.jpg",
                 text1,
@@ -10585,7 +10598,97 @@ Is section ka ek important point: Kurukshetra ka yudh ab apne sabse destructive 
                 image_position="left"
             )
 
-            text2 = """ """
+            text2 = """ Gandiva Ki Garaj Se Kaurava Sena Ka Haal Bura Ho Gaya
+Arjuna ne apne Gandiva bow se itni speed se arrows chalaye ki battlefield ke har direction mein arrows hi arrows dikhne lage.
+
+Uski battle cries Indra ke roar jaisi lag rahi thi.
+
+Arjuna apne haathon se zor-zor se clap karke bhi enemy warriors ko challenge kar raha tha.
+
+Uske arrows ne Kaurava army ko har taraf se cover kar diya. Dhool, arrows aur battlefield ke shor ke beech Kaurava warriors ko samajhna mushkil ho gaya ki East kis taraf hai aur West kis taraf.
+
+Unke horses thak chuke the, kai horses maare ja chuke the aur soldiers ka confidence tootne laga tha.
+
+Aakhirkaar, Kaurava warriors aur Duryodhana ke brothers protection ke liye Bhishma ke paas jaane lage.
+Bhishma Ne Kaurava Army Ko Protection Di
+Kaurava warriors ko itna frightened dekhkar Bhishma unke protector bankar saamne aaye.
+
+Gandiva ki thunder jaisi awaaz sunkar kai warriors apne chariots se neeche girne lage.
+
+Cavalry soldiers apne horses se utar gaye aur infantry ke soldiers bhi dar ke maare zameen par girne lage.
+
+Arjuna ke attacks ne Kaurava army ko buri tarah disturb kar diya tha.
+Duryodhana Ne Arjuna Ko Gherne Ke Liye Badi Army Bheji
+Duryodhana ne Arjuna ko rokne ke liye kai kingdoms ke warriors ko ek saath bheja.
+
+Inmein shamil the:
+- Kamboja ke fast horses aur horsemen.
+- Hazaaron Gopa warriors.
+- Madra, Sauvira, Gandhara aur Trigarta ke soldiers.
+- Kalinga kingdom ke important warriors.
+- King Jayadratha aur doosre kings.
+- Dushasana ke leadership mein warriors.
+- 14,000 powerful horsemen.
+In sabhi forces ne milkar Suvala ke bete Shakuni ko support karne ke liye ghera.
+
+Dusri taraf Pandavas bhi united hokar apne chariots aur animals par sawar hue aur Kaurava army par attack karne lage.
+Bhishma Aur Arjuna Aamne-Saamne
+Ab Bhishma ne elephants, horses aur chariots ki ek badi army ke saath Arjuna ka saamna kiya.
+
+Unke warriors ke paas spears, sharp darts aur powerful arrows the.
+
+Dono taraf se arrows ki baarish hone lagi. Battlefield Mein Alag-Alag Warriors Ke Beech Yudh
+Is samay dono armies ke kai important warriors apne opponents ke saath fight kar rahe the.
+Warrior	Opponent
+Bhishma	Arjuna
+Avanti ke king	Kashi ke king
+Sindhu ke king	Bhima
+Yudhishthira aur unke sons	Shalya
+Vikarna	Sahadeva
+Chitrasena	Shikhandi
+Matsya warriors	Duryodhana aur Shakuni
+Drupada aur Chekitana	Apne opponents ke saath battle
+Satyaki	Dronacharya aur unke bete Ashwatthama
+Kripacharya aur Kritavarma	Dhrishtadyumna
+
+Is tarah battlefield ke alag-alag parts mein ek saath kai fierce battles chal rahi thi.
+Battlefield Par Prakriti Bhi Bhayanak Roop Dikhane Lagi
+Yudh itna intense ho gaya tha ki aasman aur zameen dono ajeeb dikhne lage.
+- Aasman mein clouds nahi the, phir bhi lightning chamak rahi thi.
+- Charon taraf dhool hi dhool thi.
+- Achanak meteors girne lage aur thunder jaisi awaaz aayi.
+- Tez hawa chalne lagi.
+- Dhool ke kaaran suraj bhi chhup gaya.
+Warriors dhool se poori tarah cover ho gaye the. Unhe aas-paas dekhna mushkil ho raha tha.
+
+Weapons ki takkar aur arrows ki awaaz se poora battlefield goonj raha tha.
+Chariots, Elephants Aur Horses Ka Bhayanak Nuksaan
+Battlefield mein kai bade chariots destroy ho gaye.
+
+Kisi chariot ka wheel toot gaya, kisi ka axle aur kisi ka poora structure damage ho gaya.
+
+Kai charioteers aur horses maare gaye, jiske baad chariots apne riders ke bina idhar-udhar ghisatne lage.
+
+Kuch elephants itne powerful the ki apni trunks se chariots ko tod rahe the.
+
+Kai elephants apne upar baithe warriors aur standards ke saath zameen par gir rahe the.
+
+Kuch elephants doosre elephants se takrakar gir gaye aur kuch apne trunks se chariots ko pakadkar ghaseetne lage.
+
+Horses bhi arrows se injured hokar apne chariots ko ghaseette hue bhaag rahe the.
+
+Aakhir mein poora battlefield fallen soldiers, elephants, horses, chariots aur broken flags se bhar gaya.
+
+Section LXXI Ka Main Message
+Is section mein Arjuna ki extraordinary fighting ability aur Kurukshetra war ke destruction ko dikhaya gaya hai.
+1. Arjuna ne Panchajanya aur Gandiva ki awaaz ke saath Bhishma ki taraf attack kiya.
+2. Uske arrows se Kaurava army mein panic phail gaya.
+3. Bhishma ne frightened Kaurava warriors ko protection di.
+4. Duryodhana ne kai kingdoms ki combined forces Arjuna ke khilaaf bheji.
+5. Bhishma aur Arjuna ke beech direct battle hui.
+6. Dono armies ke important warriors alag-alag battles mein engage ho gaye.
+7. Battlefield mein elephants, horses aur chariots ka massive destruction hua.
+Is section ka sabse powerful moment: Jab Arjuna ne Gandiva uthaya aur uski awaaz poore battlefield mein goonji, toh Kaurava army ke warriors tak dar gaye. Arjuna ko rokne ke liye Duryodhana ko kai kingdoms ki combined forces lagani padi.    """
             create_image_text_layout(
                 text_content=text2,
                 layout="full"
@@ -10594,7 +10697,24 @@ Is section ka ek important point: Kurukshetra ka yudh ab apne sabse destructive 
 
         # Section 6.3.60
         with st.expander("Section 6.3.60  Section LXXII"):
-            text1 = """ """
+            text1 = """ Section LXXII – Bhishma Ka Bhayankar Attack Aur Satyaki Ke Rath Ka Vinash
+Pichhle section mein Arjuna ne Gandiva se Kaurava army mein dar paida kar diya tha. Duryodhana ne kai kingdoms ki armies ko Pandavas ke khilaaf bheja tha.
+
+Ab battlefield mein har taraf alag-alag warriors ke beech fierce battles chal rahi thi. Is section mein Bhima, Bhishma aur Satyaki ke beech ka zabardast sangharsh dekhne ko milta hai.
+Dono Armies Ke Warriors Ne Apne Opponents Chun Liye
+Pandavas aur Kauravas ke warriors battlefield mein alag-alag directions mein aage badhe.
+
+Pandava side ke important warriors ne apne opponents ke khilaaf battle shuru ki:
+- Shikhandi aur King Virata: Bhishma ki taraf badhe.
+- Arjuna: Dronacharya, Kripacharya, Vikarna aur Sindhu ke king ke saath kai powerful warriors se bhida.
+- Bhima: Duryodhana aur Dussaha ke khilaaf aage badha.
+- Sahadeva: Shakuni aur uske bete Uluka ke saamne gaya.
+- Yudhishthira: Kaurava army ke elephant division par attack karne nikla.
+- Nakula: Trigarta warriors ke saath fight karne laga.
+- Satyaki, Chekitana aur Abhimanyu: Shalya aur Kaikeya warriors ki taraf badhe.
+- Dhrishtaketu aur Ghatotkacha: Kaurava princes ki chariot army par attack karne gaye.
+- Dhrishtadyumna: Dronacharya ke saamne aa gaya.
+Ab battlefield ke har corner mein ek naya yudh shuru ho chuka tha. """
             create_image_text_layout(
                 "attached_assets/chapter6/6.3.60.jpg",
                 text1,
@@ -10602,7 +10722,85 @@ Is section ka ek important point: Kurukshetra ka yudh ab apne sabse destructive 
                 image_position="left"
             )
 
-            text2 = """ """
+            text2 = """ Dopahar Tak Battle Aur Bhi Dangerous Ho Gayi
+Dheere-dheere suraj aasman ke beech pahunch gaya. Dopahar ka samay ho chuka tha.
+
+Lekin battlefield mein fighting rukne ka naam nahi le rahi thi.
+
+Dono armies ke decorated chariots, golden flags aur tiger-skin covers se saje hue rath battlefield mein tezi se move kar rahe the.
+
+Warriors ki battle cries sher ki garaj jaisi sunayi de rahi thi.
+
+Itne saare arrows ek saath chal rahe the ki aasman, suraj aur directions tak dikhna mushkil ho gaya.
+
+Spears, swords, shields aur warriors ke golden ornaments suraj ki roshni mein chamak rahe the.
+
+Poora battlefield ek ajeeb aur bhayanak scene ban gaya tha.
+Bhishma Ne Bhima Par Powerful Attack Kiya
+Battle ke beech Bhishma ne Bhima ko apne saamne dekha.
+
+Bhishma gusse mein the aur unhone Bhima par golden wings wale, bahut sharp arrows ki baarish kar di.
+
+Unke arrows Bhima ke body mein lagne lage.
+
+Lekin Bhima bhi peeche hatne wala nahi tha.
+
+Usne ek powerful dart (spear jaisa weapon) uthaya, jo ek gusse mein bhare saanp ki tarah Bhishma ki taraf gaya.
+
+Bhishma ne apne sharp arrows se us dart ko hawa mein hi kaat diya.
+
+Phir unhone ek aur sharp arrow chalaya aur Bhima ke bow ko do tukdon mein tod diya! Bhima ka bow toot chuka tha, lekin yudh abhi khatam nahi hua tha.
+Satyaki Ne Bhishma Par Attack Kiya
+Bhima aur Bhishma ke beech battle chal hi rahi thi ki Satyaki tezi se Bhishma ki taraf badha.
+
+Satyaki ne apne bow ko kaan tak kheenchkar Bhishma par countless sharp arrows chala diye.
+
+Bhishma ne bhi turant jawab diya.
+
+Unhone ek extremely powerful arrow chalaya, jo seedha Satyaki ke charioteer ko laga.
+
+Satyaki ka charioteer rath mein hi gir gaya aur uski death ho gayi.
+Satyaki Ka Rath Control Se Bahar Ho Gaya
+Charioteer ke maare jaane ke baad Satyaki ke horses control se bahar ho gaye.
+
+Woh itni speed se bhaagne lage jaise unhe toofan ya hawa dhakka de rahi ho.
+
+Satyaki ka rath battlefield mein idhar-udhar daudne laga.
+
+Pandava army mein panic phail gaya.
+
+Warriors zor-zor se chillane lage:
+- "Jaldi jao!"
+- "Horses ko pakdo!"
+- "Unhe roko!"
+- "Satyaki ki help karo!"
+Poore battlefield mein Satyaki ke runaway chariot ko lekar afra-tafri mach gayi.
+Bhishma Ne Pandava Army Par Qahar Barpa Diya
+Is beech Bhishma ne Pandava army par apne attacks aur tez kar diye.
+
+Sanjaya kehte hain ki Bhishma Pandava warriors ko is tarah maar rahe the jaise Indra Danavas ko destroy karte hain.
+
+Bahut saare Panchala aur Somaka warriors Bhishma ke attacks mein maare gaye.
+
+Lekin unhone himmat nahi haari.
+
+Apni jaan ki parwah kiye bina woh dobara Bhishma ki taraf attack karne lage.
+
+Dhrishtadyumna ke leadership mein Pandava warriors bhi Bhishma ko rokne ke liye aage badhe.
+
+Dusri taraf Kaurava army ke warriors bhi Bhishma aur Drona ke saath milkar Pandavas par toot pade.
+
+Aur is tarah battlefield mein ek aur massive battle shuru ho gayi.
+
+Section LXXII Ka Main Message
+1. Pandava warriors ne battlefield mein apne-apne opponents ke khilaaf attack kiya.
+2. Bhishma ne Bhima par powerful arrows chalakar uska bow tod diya.
+3. Bhima ka dart Bhishma ne hawa mein hi kaat diya.
+4. Satyaki ne Bhishma par arrows ki baarish ki, lekin Bhishma ne uske charioteer ko maar diya.
+5. Charioteer ke bina Satyaki ke horses control se bahar bhaag gaye.
+6. Bhishma ne Panchala aur Somaka warriors par devastating attack kiya.
+7. Dhrishtadyumna ke leadership mein Pandavas ne phir se Bhishma ko challenge kiya.
+Is section ka sabse important moment: Bhishma ne ek hi battle mein Bhima ka bow tod diya aur Satyaki ke charioteer ko maar diya. Isse pata chalta hai ki Bhishma battlefield mein kitne powerful aur dangerous warrior the. """
             create_image_text_layout(
                 text_content=text2,
                 layout="full"
@@ -10611,7 +10809,22 @@ Is section ka ek important point: Kurukshetra ka yudh ab apne sabse destructive 
 
         # Section 6.3.61
         with st.expander("Section 6.3.61  Section LXXIII"):
-            text1 = """ """
+            text1 = """ Section LXXIII – Arjuna vs Ashwatthama, Bhima vs Duryodhana Aur Abhimanyu Ki Veerta
+Pichhle section mein Bhishma ne Pandava army par devastating attacks kiye the. Ab battlefield mein Arjuna, Ashwatthama, Bhima, Duryodhana aur Abhimanyu jaise powerful warriors ke beech zabardast yudh hone wala tha.
+
+Sanjaya Dhritarashtra ko batate hain ki is din dono armies ke warriors ne apni poori strength laga di.
+Arjuna Aur Ashwatthama Ke Beech Bhayankar Yudh
+Sabse pehle King Virata ne Bhishma par teen arrows chalaye. Bhishma ne bhi jawab mein Virata ke horses ko teen arrows se hit kar diya.
+
+Dusri taraf Dronacharya ke bete Ashwatthama ne Arjuna ko apne arrows se target kiya.
+
+Ashwatthama ne Arjuna ke chest par chhe arrows maare.
+
+Arjuna ko gussa aa gaya. Usne turant Ashwatthama ka bow tod diya aur uske body par paanch sharp arrows chala diye.
+
+Lekin Ashwatthama bhi ek ordinary warrior nahi tha.
+
+Usne turant doosra, aur bhi powerful bow uthaya aur Arjuna par 90 arrows chala diye. Usne Shri Krishna ko bhi 70 arrows se hit kiya! """
             create_image_text_layout(
                 "attached_assets/chapter6/6.3.61.jpg",
                 text1,
@@ -10619,7 +10832,118 @@ Is section ka ek important point: Kurukshetra ka yudh ab apne sabse destructive 
                 image_position="left"
             )
 
-            text2 = """ """
+            text2 = """ Ab Arjuna bahut angry ho gaya.
+
+Usne apna Gandiva bow firmly pakda aur us par deadly arrows chadha diye. Arjuna ke arrows Ashwatthama ke armour ko penetrate karte hue uske body mein lage.
+
+Lekin itne powerful attack ke baad bhi Ashwatthama peeche nahi hata.
+
+Usne bhi Arjuna par powerful arrows se counterattack kiya.
+
+Kaurava army ke warriors Ashwatthama ki bravery dekhkar impressed ho gaye. Unke liye yeh bahut badi baat thi ki Ashwatthama ek saath Arjuna aur Krishna dono ka saamna kar raha tha.
+Arjuna Ne Ashwatthama Ko Zinda Chhod Diya
+Arjuna Ashwatthama ko defeat kar sakta tha, lekin usne ek baat yaad rakhi.
+
+Ashwatthama uske guru Dronacharya ka beta tha. Woh ek Brahmana bhi tha aur Arjuna uska respect karta tha.
+
+Isliye Arjuna ne us par aur zyada deadly attack karne ke bajaye usse avoid kar diya.
+
+Uske baad Arjuna ne apna dhyaan battlefield ke doosre Kaurava warriors par laga diya aur unki army ko destroy karne laga.
+Bhima Aur Duryodhana Ke Beech Fight
+Ab Duryodhana ne Bhima ko apne arrows se target kiya.
+
+Usne Bhima par 10 golden arrows chalaye, jinke tips bahut sharp the.
+
+Bhima ko gussa aa gaya.
+
+Usne apna powerful bow uthaya aur 10 sharp arrows Duryodhana ki taraf chala diye.
+
+Bhima ke arrows seedhe Duryodhana ke chest mein lage.
+
+Duryodhana ke chest par ek beautiful jewel latak raha tha, jo golden threads se bandha hua tha. Bhima ke arrows uske aas-paas lage, toh woh jewel aisa chamakne laga jaise aasman mein suraj ke aas-paas planets chamakte hain.
+
+Duryodhana ko yeh attack bilkul bardasht nahi hua.
+
+Usne bhi Bhima par bahut saare sharp arrows chala diye.
+
+Ab dono bhai ek doosre par continuously attacks kar rahe the.
+
+Sanjaya ke according, dono warriors ki fight dekhkar aisa lag raha tha jaise do powerful celestial beings ek doosre se lad rahe hon. Abhimanyu Ne Kaurava Warriors Ko Challenge Kiya
+Ab Subhadra ke bete Abhimanyu ne battlefield mein apni extraordinary bravery dikhani shuru ki.
+
+Usne sabse pehle:
+- Chitrasena par multiple sharp arrows chalaye.
+- Purumitra par 7 arrows maare.
+- Satyavrata par 70 arrows chalaye.
+Abhimanyu itni speed se fight kar raha tha ki battlefield mein aisa lag raha tha jaise woh dance kar raha ho.
+
+Lekin Kaurava warriors ne bhi jawab diya.
+
+Chitrasena ne Abhimanyu par 10 arrows chalaye, Satyavrata ne 9 aur Purumitra ne 7 arrows se attack kiya.
+
+Abhimanyu khud bhi injured ho gaya aur uske body par blood dikhne laga.
+
+Lekin usne haar nahi maani.
+
+Usne Chitrasena ka powerful bow tod diya aur uske armour ko penetrate karte hue uske chest mein arrow maar diya.
+Kaurava Warriors Ne Abhimanyu Ko Gher Liya
+Abhimanyu ki bravery aur fighting speed dekhkar Kaurava army ke kai princes gusse mein aa gaye.
+
+Unhone milkar Abhimanyu ko surround kar liya aur us par sharp arrows ki baarish kar di.
+
+Lekin Abhimanyu ne bhi un sabhi warriors ko apne arrows se counterattack kiya.
+
+Sanjaya kehte hain ki Abhimanyu Kaurava army ke beech aise fight kar raha tha jaise garmi ke mausam mein jungle ki sookhi ghaas ko aag jala deti hai.
+
+Woh jahan se guzarta, wahan Kaurava soldiers ko heavy losses hote.
+Abhimanyu Aur Lakshmana Ka Yudh
+Abhimanyu ki bravery dekhkar Duryodhana ka beta Lakshmana bhi usse fight karne ke liye aage aaya.
+
+Dono young warriors ke beech direct battle shuru ho gayi.
+
+Abhimanyu ne Lakshmana aur uske charioteer par chhe sharp arrows chalaye.
+
+Lakshmana ne bhi Abhimanyu par multiple arrows se attack kiya.
+
+Lekin Abhimanyu ne apni speed aur skill se Lakshmana ke chaaron horses ko maar diya. Usne Lakshmana ke charioteer ko bhi maar giraya.
+
+Ab Lakshmana ka rath horses aur charioteer ke bina ruk gaya.
+
+Gusse mein Lakshmana ne Abhimanyu ki taraf ek powerful dart pheka.
+
+Lekin Abhimanyu ne apne sharp arrows se us dart ko hawa mein hi kaat diya! Kripacharya Ne Lakshmana Ki Jaan Bachayi
+Lakshmana ab apne destroyed chariot par akela reh gaya tha.
+
+Tab Kripacharya turant apne rath ke saath aaye.
+
+Unhone Lakshmana ko apne chariot mein bithaya aur use battlefield se door le gaye.
+
+Is tarah Lakshmana ki jaan bach gayi.
+Battle Aur Bhi Zyada Destructive Ho Gayi
+Ab dono armies ke warriors ek doosre par toot pade.
+
+Kayi warriors ke bows toot chuke the, armour nikal chuka tha aur unke chariots destroy ho chuke the.
+
+Lekin unhone fight karna nahi chhoda.
+
+Kuch Srinjaya warriors apne weapons aur chariots kho dene ke baad bhi Kurus se apne haathon se fight karne lage.
+
+Isi beech Bhishma ne apne celestial weapons ka use karke Pandava army par ek aur powerful attack kiya.
+
+Unke attacks se bahut saare elephants, horses, chariots aur soldiers battlefield mein girne lage.
+
+Poora maidan fallen warriors aur destroyed chariots se bhar gaya.
+
+Section LXXIII Ka Main Message
+1. Ashwatthama ne Arjuna aur Krishna dono par powerful attacks kiye.
+2. Arjuna ne Ashwatthama ko seriously injure kiya, lekin guru-putra hone ke kaaran uske prati mercy dikhayi.
+3. Bhima aur Duryodhana ke beech fierce archery battle hui.
+4. Abhimanyu ne Chitrasena, Purumitra aur Satyavrata jaise warriors ko challenge kiya.
+5. Kaurava princes ne Abhimanyu ko surround kiya, lekin woh sabka saamna karta raha.
+6. Abhimanyu ne Duryodhana ke bete Lakshmana ke chaar horses aur charioteer ko maar diya.
+7. Kripacharya Lakshmana ko apne chariot mein rescue karke le gaye.
+8. Bhishma ne celestial weapons se Pandava army ko heavy damage pahunchaya.
+Is section ka sabse powerful moment: Abhimanyu ne kai Kaurava warriors ka ek saath saamna kiya aur Lakshmana ka chariot destroy kar diya. Itni kam age mein uski bravery aur archery skills battlefield mein sabko hairaan kar rahi thi. """
             create_image_text_layout(
                 text_content=text2,
                 layout="full"
@@ -10628,7 +10952,117 @@ Is section ka ek important point: Kurukshetra ka yudh ab apne sabse destructive 
 
         # Section 6.3.62
         with st.expander("Section 6.3.62  Section LXXIV"):
-            text1 = """ """
+            text1 = """ Section LXXIV – Satyaki Aur Bhurisravas Ka Bhayankar Yudh
+Pichhle section mein Abhimanyu ne apni bravery dikhayi thi. Ab battlefield mein ek aur powerful warrior, Satyaki, apne arrows se Kaurava army ko hila dene wala tha.
+
+Sanjaya Dhritarashtra ko batate hain ki is din Satyaki aur Bhurisravas ke beech bahut hi dangerous fight hui.
+Satyaki Ne 10,000 Chariots Ko Hara Diya
+Satyaki ne apna powerful bow uthaya aur bahut tezi se arrows chalane laga.
+
+Uske arrows itni speed se nikal rahe the jaise aasman mein kaale baadal zor se baarish kar rahe hon.
+
+Woh ek ke baad ek arrows nikaalta, bowstring par lagata aur enemies par chala deta. Uski speed dekhkar lag raha tha jaise uske haath ruk hi nahi rahe.
+
+Duryodhana ne Satyaki ki tabahi dekhi toh use rokne ke liye 10,000 chariots ki army bhej di.
+
+Lekin Satyaki ne apne celestial weapons ka use karke un sabhi powerful warriors ko maar giraya.
+
+Itni badi army ko akele defeat karne ke baad Satyaki seedha Bhurisravas ki taraf badha. Bhurisravas Ne Satyaki Ko Challenge Kiya
+Bhurisravas ne dekha ki Satyaki ne Kaurava army ko bahut heavy damage pahunchaya hai.
+
+Woh gusse mein apna powerful bow lekar Satyaki ke saamne aa gaya.
+
+Usne bhi hazaaron deadly arrows chalaye. Uske arrows itne powerful the jaise bijli ke kadakne ki awaaz ke saath aasman se thunderbolts gir rahe hon.
+
+Bhurisravas ke attacks itne dangerous the ki Satyaki ke saath aaye soldiers dar kar alag-alag directions mein bhaagne lage.
+
+Satyaki ab battlefield mein akela reh gaya.
+Satyaki Ke 10 Bete Bhurisravas Se Ladne Aaye
+Apne pita Satyaki ko akela dekhkar uske 10 bahadur bete battlefield mein aa gaye.
+
+Unhone Bhurisravas ko challenge diya:
+
+"Hey Bhurisravas! Tum bahut powerful warrior ho. Agar tumhe apni strength par itna confidence hai, toh hum sabse ek saath ya ek-ek karke fight karo.
+
+Agar tum humein hara doge toh tumhari fame aur badhegi. Aur agar hum tumhe hara denge toh humein bahut khushi hogi."
+
+Bhurisravas ne unka challenge accept kar liya.
+
+Usne kaha:
+
+"Theek hai! Tum sab ek saath mujh par attack karo. Main tum sabko battlefield mein maar dunga."
+
+Aur phir shuru hua ek bahut hi dangerous battle.
+Bhurisravas Ne Satyaki Ke 10 Bete Maar Diye
+Satyaki ke daso beton ne milkar Bhurisravas par arrows ki baarish kar di.
+
+Unke arrows aise gir rahe the jaise monsoon ke clouds kisi mountain par heavy rain karte hain.
+
+Lekin Bhurisravas ne apne extraordinary archery skills se unke saare arrows hawa mein hi kaat diye.
+
+Phir usne ek-ek karke unke bows tod diye.
+
+Aur uske baad apne sharp arrows se Satyaki ke daso beton ke sir kaat diye.
+
+Woh sabhi warriors battlefield mein gir pade. Apne Beton Ki Maut Dekhkar Satyaki Gusse Se Bhar Gaya
+Jab Satyaki ne apne daso beton ko mara hua dekha, toh woh bahut zyada gusse mein aa gaya.
+
+Usne zor se roar kiya aur seedha Bhurisravas par attack karne ke liye badha.
+
+Ab dono powerful warriors ek doosre ke saamne aa gaye.
+
+Dono ne apne chariots se ek doosre par attack kiya aur fight karte-karte dono ke horses bhi maare gaye.
+
+Ab dono warriors ke paas chariots nahi bache.
+
+Dono apne-apne chariots se neeche utare aur bade swords aur shields lekar ek doosre se ladne lage.
+
+Dono ki fight dekhne layak thi.
+
+Tab Bhima ne Satyaki ko apne chariot par bitha liya.
+
+Dusri taraf Duryodhana ke ek bete ne Bhurisravas ko apne chariot par rescue kar liya.
+
+Is tarah dono warriors ki sword fight us waqt ruk gayi.
+Arjuna Ne 25,000 Kaurava Warriors Ko Maar Giraya
+Udhar Pandavas abhi bhi Bhishma ke saath fierce battle kar rahe the.
+
+Suraj dheere-dheere laal hone laga tha.
+
+Isi dauraan Arjuna ne apni full strength ke saath Kaurava army par attack kiya.
+
+Sanjaya ke according, Arjuna ne 25,000 powerful chariot warriors ko maar giraya.
+
+Ye sabhi warriors Duryodhana ke order par Arjuna ko maarne ke liye bheje gaye the.
+
+Lekin Arjuna ke paas pahunchne se pehle hi woh sab uske arrows ka shikaar ban gaye.
+
+Unki condition aisi ho gayi jaise jalti hui aag mein insects girkar khatam ho jaate hain. Suraj Doob Gaya Aur Yudh Ruk Gaya
+Matsya aur Kekaya warriors Arjuna aur uske bete ko support dene ke liye unke aas-paas aa gaye.
+
+Tabhi suraj doobne laga.
+
+Battlefield mein twilight chha gayi aur warriors ko ek doosre ko dekhna mushkil hone laga.
+
+Bhishma ke horses aur doosre animals bhi poore din ki fighting se thak chuke the.
+
+Isliye Bhishma ne army ko battle rokne ka order diya.
+
+Dono taraf ke warriors apne-apne camps ki taraf laut gaye.
+
+Pandavas aur Srinjayas apne camp mein gaye, jabki Kaurava army bhi apne camp mein lautkar raat ke liye rest karne lagi.
+
+Is tarah us din ka bhayankar yudh khatam hua.
+
+Section LXXIV Ka Main Message
+1. Satyaki ne akele 10,000 chariot warriors ko defeat kar diya.
+2. Bhurisravas ne Satyaki ko challenge kiya aur uske 10 beton se ek saath fight ki.
+3. Bhurisravas ne Satyaki ke sabhi 10 beton ko maar diya.
+4. Apne beton ki maut dekhkar Satyaki ne Bhurisravas par attack kiya.
+5. Dono ne chariot aur phir swords se fight ki, lekin Bhima aur Duryodhana ke bete ne unhe rescue kar liya.
+6. Arjuna ne 25,000 Kaurava chariot warriors ko maar giraya.
+7. Suraj doobne ke baad Bhishma ne battle rok di aur dono armies apne camps mein laut gayi.
+Is section ka sabse emotional moment: Satyaki ne battlefield mein apne 10 beton ko ek saath khoya. Unki maut ka badla lene ke liye woh Bhurisravas par toot pada. दूसरी तरफ, Arjuna ne akele 25,000 warriors ko maar kar apni extraordinary power dikhayi. """
             create_image_text_layout(
                 "attached_assets/chapter6/6.3.62.jpg",
                 text1,
@@ -10645,7 +11079,18 @@ Is section ka ek important point: Kurukshetra ka yudh ab apne sabse destructive 
 
         # Section 6.3.63
         with st.expander("Section 6.3.63  Section LXXV"):
-            text1 = """ """
+            text1 = """ Section LXXV – Makara Vyuha Aur Drona Ka Bhayankar Attack
+Pichhle din ka yudh khatam hone ke baad Pandavas aur Kauravas dono apne camps mein aaram kar rahe the. Lekin subah hote hi ek baar phir Kurukshetra ka maidan yudh ke liye taiyaar ho gaya.
+
+Dono taraf ke warriors apne armour pehenne lage. Elephants ko battle ke liye sajaya gaya, horses aur chariots taiyaar hue. Conches aur drums ki awaaz se poora battlefield goonj utha.
+Yudhishthira Ne Makara Vyuha Banane Ka Order Diya
+Yudhishthira ne apne commander Dhrishtadyumna ko bulaya aur kaha:
+
+"Apni army ko Makara Vyuha mein arrange karo. Yeh formation enemies ko destroy karne ke liye bahut powerful hai."
+
+Makara ka matlab crocodile hota hai. Is formation mein army ko ek bade crocodile ke shape mein arrange kiya jaata tha.
+
+Dhrishtadyumna ne sabhi warriors ko unki positions par laga diya. """
             create_image_text_layout(
                 "attached_assets/chapter6/6.3.63.jpg",
                 text1,
@@ -10653,7 +11098,88 @@ Is section ka ek important point: Kurukshetra ka yudh ab apne sabse destructive 
                 image_position="left"
             )
 
-            text2 = """ """
+            text2 = """ Pandava army ki Makara Vyuha formation:
+- Head: King Drupada aur Arjuna.
+- Eyes: Nakula aur Sahadeva.
+- Beak: Bhima.
+- Neck: Abhimanyu, Draupadi ke bete, Ghatotkacha, Satyaki aur Yudhishthira.
+- Back: King Virata, Dhrishtadyumna aur unki army.
+- Left Wing: Paanch Kekaya brothers.
+- Right Wing: Dhrishtaketu aur Chekitana.
+- Two Feet: Kuntibhoja aur Satanika.
+- Tail: Shikhandi, Somaka warriors aur Iravat.
+Is tarah Pandavas ne apni poori army ko ek bade crocodile ke shape mein arrange kar diya.
+Bhishma Ne Crane Jaisi Formation Banayi
+Jab Bhishma ne Pandava army ki formation dekhi, toh unhone bhi apni army ko ek special formation mein arrange kiya.
+
+Unhone ek bade crane (saaras bird) jaisi formation banayi. Kaurava army ki formation:
+- Beak: Dronacharya.
+- Eyes: Ashwatthama aur Kripacharya.
+- Head: Kritavarma, Kamboja ke king aur Valhika warriors.
+- Neck: Duryodhana, Surasena aur unke saath kai kings.
+- Breast: Pragjyotisha ke king, Madra, Sauvira aur Kekaya warriors.
+- Left Wing: Susarman aur uski army.
+- Right Wing: Tushara, Yavana, Saka aur Chulika warriors.
+- Rear: Srutayush, Satyayush aur Somadatta ke bete.
+Dono armies apni-apni formations mein taiyaar ho gayi.
+Dono Armies Ke Beech Yudh Shuru
+Suraj nikalte hi Pandavas ne Kauravas par attack kar diya.
+
+Battlefield mein har taraf fight hone lagi:
+- Elephants ka saamna elephants se hua.
+- Horsemen doosre horsemen se ladne lage.
+- Chariot warriors ek doosre par arrows barsane lage.
+- Elephants par baithe warriors ka saamna horsemen aur chariot warriors se hua.
+- Infantry soldiers bhi ek doosre se ladne lage.
+Dono armies apni full strength ke saath battlefield mein utar chuki thi.
+
+Sanjaya kehte hain ki Pandava army Bhima, Arjuna, Nakula aur Sahadeva ke protection mein aisi lag rahi thi jaise stars se bhara hua raat ka aasman.
+
+Dusri taraf Kaurava army Bhishma, Drona, Kripacharya, Shalya aur Duryodhana ke saath chamak rahi thi.
+Bhima Aur Dronacharya Ka Saamna
+Bhima ne dekha ki Dronacharya apne chariot par Pandava army ki taraf badh rahe hain.
+
+Woh turant Drona ki division par attack karne pahunch gaya.
+
+Dronacharya ne Bhima ko dekhte hi apne powerful bow se uske vital body parts par nau iron arrows maare.
+
+Bhima buri tarah injured ho gaya.
+
+Lekin usne bhi jawab diya aur Dronacharya ke charioteer ko maar giraya.
+
+Ab Drona ko apne horses ki control khud sambhalni padi.
+Drona Ne Pandava Army Mein Tabahi Macha Di
+Dronacharya ne apne horses ko control karte hue Pandava army par attack jaari rakha.
+
+Unke arrows itni tezi se gir rahe the ki Pandava soldiers ki condition aisi ho gayi jaise aag cotton ke dher ko jalakar raakh kar deti hai.
+
+Drona aur Bhishma dono milkar Pandava army ko heavy damage pahunchane lage.
+
+Srinjaya aur Kekaya warriors unke attacks ko bardasht nahi kar paaye aur battlefield se bhaagne lage.
+
+Lekin doosri taraf Bhima aur Arjuna bhi Kaurava army par attack kar rahe the.
+
+Unke attacks se Kaurava soldiers bhi buri tarah disturb ho gaye.
+
+Is battle mein dono armies ko bahut heavy losses hue.
+Dono Taraf Ke Warriors Ne Peeche Hatne Se Mana Kar Diya
+Battle itni dangerous ho chuki thi ki warriors apni jaan ki parwah kiye bina lad rahe the.
+
+Pandavas aur Kauravas ek doosre ke weapons ko apne weapons se counter kar rahe the.
+
+Koi bhi side easily haar maanne ko taiyaar nahi thi.
+
+Kurukshetra ka maidan ek baar phir warriors, elephants, horses aur chariots ki destruction se bharne laga.
+
+Section LXXV Ka Main Message
+1. Yudhishthira ne Dhrishtadyumna ko Pandava army ki Makara Vyuha formation banane ka order diya.
+2. Pandava army ko crocodile ke shape mein arrange kiya gaya.
+3. Bhishma ne Kaurava army ko crane jaisi formation mein arrange kiya.
+4. Suraj nikalte hi dono armies ke beech yudh shuru ho gaya.
+5. Bhima aur Dronacharya ke beech fierce battle hui.
+6. Dronacharya ne Pandava army par powerful attack karke Srinjaya aur Kekaya warriors ko peeche hatne par majboor kar diya.
+7. Bhima aur Arjuna ne bhi Kaurava army ko heavy damage pahunchaya.
+Is section ka main highlight: Dono armies ne apni military strategy aur formations ka use kiya. Lekin battlefield mein sabse bada danger Dronacharya aur Bhishma ke attacks se Pandava army ko hua. Yudh ab aur bhi destructive hota ja raha tha. """
             create_image_text_layout(
                 text_content=text2,
                 layout="full"
@@ -10662,7 +11188,20 @@ Is section ka ek important point: Kurukshetra ka yudh ab apne sabse destructive 
 
         # Section 6.3.64
         with st.expander("Section 6.3.64  Section LXXVI"):
-            text1 = """ """
+            text1 = """ Section LXXVI – Dhritarashtra Ka Dukh Aur Kismat Par Vishwas
+Pichhle section mein Drona aur Bhishma ne Pandava army ko bahut heavy damage pahunchaya tha. Lekin ab Dhritarashtra ko ek baat samajh nahi aa rahi thi.
+
+Unki Kaurava army itni powerful thi, usmein duniya ke best warriors the, weapons the, elephants, horses aur chariots ki koi kami nahi thi. Phir bhi unki army yudh mein haar kyun rahi thi?
+
+Sanjaya ko apni baat batate hue Dhritarashtra ne apni army ki strength ka description diya.
+Dhritarashtra Ko Apni Army Par Bahut Garv Tha
+Dhritarashtra ne kaha:
+
+"Sanjaya! Hamari army mein bahut saari qualities hain. Yeh army military rules aur strategies ke according arrange ki gayi hai. Hamare soldiers loyal hain aur hamesha hamare orders follow karte hain.
+
+Hamare soldiers na bahut buddhe hain aur na bahut young. Sabhi physically fit, strong aur healthy hain.
+
+Unke paas proper armour aur powerful weapons hain. Woh har tarah ke weapons use karna jaante hain." """
             create_image_text_layout(
                 "attached_assets/chapter6/6.3.64.jpg",
                 text1,
@@ -10670,7 +11209,95 @@ Is section ka ek important point: Kurukshetra ka yudh ab apne sabse destructive 
                 image_position="left"
             )
 
-            text2 = """ """
+            text2 = """ Dhritarashtra ne bataya ki unke soldiers:
+- Swords, maces aur spears se fight kar sakte hain.
+- Arrows, javelins aur darts chalane mein expert hain.
+- Elephants aur horses par chadhna aur utarna jaante hain.
+- Aage badhna, peeche hatna aur battlefield mein movement karna jaante hain.
+- Chariot aur elephant warfare mein trained hain.
+Yaani unki army sirf numbers mein badi nahi thi, balki training aur experience mein bhi bahut strong thi.
+Soldiers Ko Sirf Rishton Ki Wajah Se Nahi Rakha Gaya Tha
+Dhritarashtra ne ek aur important baat batayi.
+
+Unhone kaha ki soldiers ko unki family background, caste, relationship ya kisi ki recommendation ke basis par army mein nahi rakha gaya tha.
+
+Unki skills aur abilities ko properly test kiya gaya tha. Jo soldiers capable the, unhe salary dekar army mein recruit kiya gaya.
+
+Dhritarashtra ke according, unhone soldiers aur unke families ke saath bhi achha behaviour kiya tha.
+
+Isliye unki army ke soldiers unke prati loyal aur devoted the.
+Kaurava Army Mein Duniya Ke Powerful Warriors The
+Dhritarashtra ne kaha ki unki army ko duniya ke bahut saare famous aur powerful warriors protect kar rahe the.
+
+Unmein shamil the:
+- Bhishma Pitamah
+- Dronacharya
+- Kripacharya
+- Kritavarma
+- Dushasana
+- Jayadratha
+- Bhagadatta
+- Vikarna
+- Ashwatthama
+- Shakuni
+- Valhika
+Inke alawa bhi bahut saare powerful kings apni armies ke saath Kauravas ki taraf se fight kar rahe the.
+
+Dhritarashtra ko lagta tha ki itne powerful warriors ki protection mein unki army ko haraana almost impossible hona chahiye.
+Kaurava Army Ek Vishal Samundar Jaisi Thi
+Apni army ki strength samjhane ke liye Dhritarashtra ne ek bahut interesting example diya.
+
+Unhone kaha:
+
+"Hamari army ek bahut bade aur gehre samundar jaisi hai."
+
+Unhone is comparison ko detail mein samjhaya:
+- Elephants aur chariots us samundar ke powerful creatures jaise hain.
+- Soldiers us samundar ka paani hain.
+- Horses aur doosre animals uski dangerous waves hain.
+- Swords, maces, arrows aur spears us samundar mein pade weapons jaise hain.
+- Soldiers ke flags, golden ornaments aur decorated elephants us samundar ko aur bhi magnificent banate hain.
+Aur is vishal army ko Bhishma, Drona, Kripacharya aur doosre great warriors protect kar rahe the.
+
+Dhritarashtra ko yakeen tha ki aisi army ko defeat karna kisi ke liye bhi bahut mushkil hona chahiye. Phir Bhi Kaurava Army Haar Kyun Rahi Thi?
+Apni army ki itni saari strengths batane ke baad Dhritarashtra dukhi ho gaye.
+
+Unhone Sanjaya se kaha:
+
+"Itni powerful army hone ke bawajood agar hamare soldiers battlefield mein maare ja rahe hain, toh iska reason sirf Destiny ya kismat hi ho sakti hai.
+
+Maine kabhi nahi suna ki duniya mein pehle kabhi itni badi aur well-trained army yudh ke liye taiyaar hui ho.
+
+Phir bhi hamari army destroy ho rahi hai. Yeh sab kuch unnatural lagta hai."
+
+Dhritarashtra ko lagne laga ki shayad jo kuch ho raha hai, woh pehle se hi destiny mein likha hua tha.
+Dhritarashtra Ko Vidura Ki Advice Yaad Aayi
+Ab Dhritarashtra ko apne bhai Vidura ki baatein yaad aane lagi.
+
+Vidura ne kai baar Duryodhana ko samjhaya tha ki Pandavas ke saath injustice mat karo. Unke saath peace bana kar rakho aur unka rightful kingdom unhe de do.
+
+Lekin Duryodhana ne kabhi Vidura ki advice accept nahi ki.
+
+Dhritarashtra ne Sanjaya se kaha:
+
+"Vidura ek bahut wise aur knowledgeable person the. Unhone hamesha hamare benefit ke liye advice di thi.
+
+Mujhe lagta hai unhone pehle hi samajh liya tha ki future mein kya hone wala hai. Shayad isi wajah se woh baar-baar humein sahi raasta dikhane ki koshish kar rahe the."
+Sab Kuch Creator Ki Planning Ke According Hota Hai?
+Aakhir mein Dhritarashtra ne kaha ki shayad yeh sab kuch pehle se hi Creator ke plan ka hissa tha.
+
+Unke according, jo kuch Creator ne decide kar diya hai, woh hokar hi rahega. Use badla nahi ja sakta.
+
+Is tarah Dhritarashtra apni army ki defeat ka reason destiny ko maanne lage.
+
+Section LXXVI Ka Main Message
+1. Dhritarashtra ko apni Kaurava army ki training, strength aur loyalty par bahut garv tha.
+2. Unki army mein duniya ke bahut saare powerful warriors aur kings the.
+3. Dhritarashtra ne apni army ko ek vishal aur powerful samundar se compare kiya.
+4. Itni powerful army ke bawajood Kauravas ko losses ho rahe the.
+5. Dhritarashtra ko Vidura ki purani advice yaad aayi, jise Duryodhana ne ignore kiya tha.
+6. Aakhir mein Dhritarashtra ne apni army ki defeat ko Destiny aur Creator ki planning ka result maana.
+Is section ka sabse important lesson: Kabhi-kabhi insaan ke paas power, resources aur capable log sab kuch hote hain, lekin galat decisions ka result phir bhi saamne aata hai. Dhritarashtra ko ab Vidura ki advice yaad aa rahi thi, lekin us waqt tak bahut der ho chuki thi. """
             create_image_text_layout(
                 text_content=text2,
                 layout="full"
@@ -10679,7 +11306,23 @@ Is section ka ek important point: Kurukshetra ka yudh ab apne sabse destructive 
 
         # Section 6.3.65
         with st.expander("Section 6.3.65  Section LXXVII"):
-            text1 = """ """
+            text1 = """ Pasted markdown.md
+Document
+Section LXXVII – Bhima Ka Kaurava Army Mein Akela Pravesh Aur Dhrishtadyumna Ki Veerta
+Is section mein battlefield ka yudh aur bhi dangerous ho jaata hai. Bhima akela Kaurava army ke beech ghus jaata hai. Duryodhana ke bhai use chaaron taraf se gher lete hain. Lekin Bhima bilkul nahi darta.
+
+Dusri taraf Dhrishtadyumna apne dost Bhima ko bachane ke liye Drona aur Kaurava warriors se takra jaata hai.
+
+Sanjaya Ne Dhritarashtra Ko Uski Galti Yaad Dilayi
+Sanjaya ne Dhritarashtra se kaha:
+
+"Rajan, aaj jo kuch aapke saath ho raha hai, uski zimmedari aapki apni galtiyon ki wajah se hai.
+
+Aap jaante the ki Pandavas ke saath anyaay ho raha hai, lekin aapne use roka nahi.
+
+Dyut Sabha mein dice game bhi aapki wajah se hua tha. Aur aaj Pandavas ke saath yeh bhayankar yudh bhi aapke decisions ka result hai.
+
+Insaan ko apne karmon ka phal khud hi bhugatna padta hai. Isliye aapko bhi apne karmon ka result face karna hoga. """
             create_image_text_layout(
                 "attached_assets/chapter6/6.3.65.jpg",
                 text1,
@@ -10687,7 +11330,187 @@ Is section ka ek important point: Kurukshetra ka yudh ab apne sabse destructive 
                 image_position="left"
             )
 
-            text2 = """ """
+            text2 = """ Ab shaant rahiye aur meri baat suniye. Main aapko battlefield ka haal batata hoon."
+Bhima Akela Kaurava Army Ke Beech Ghusa
+Bhima ne apne powerful arrows se Kaurava army ki formation ko tod diya aur Duryodhana ke chhote bhaiyon ki taraf badha.
+
+Wahan usne Dushasana, Durvisaha, Dussaha, Durmada, Jaya, Jayasena, Vikarna, Chitrasena, Sudarshana, Charuchitra, Suvarman, Dushkarna aur Karna jaise warriors ko dekha.
+
+Ye sabhi warriors Bhishma ki protection mein Kaurava army ke andar maujood the.
+
+Bhima ko apne beech dekhkar Kaurava warriors ne kaha:
+
+"Yeh hamare beech akela aa gaya hai. Aaj ise maar daalte hain!"
+
+Unhone Bhima ko chaaron taraf se gher liya. Bhima Ne Hazaaron Warriors Ka Saamna Kiya
+Bhima chaaron taraf se surrounded tha. Hazaaron chariot warriors us par arrows ki baarish karne lage.
+
+Lekin Bhima ke dil mein bilkul darr nahi tha.
+
+Sanjaya kehte hain ki Bhima us waqt aisa lag raha tha jaise pralaya ke samay Surya ko powerful planets ne gher liya ho.
+
+Bhima ne apne aas-paas ke kai chariot warriors, elephant riders aur horsemen ko maar giraya.
+
+Jab usne dekha ki Duryodhana ke bhai use jaan se maarne ke iraade se attack kar rahe hain, toh usne apna chariot chhod diya.
+
+Usne apni powerful Gada (mace) uthayi aur Kaurava army ke beech tabahi machani shuru kar di.
+Dhrishtadyumna Ko Bhima Ki Chinta Hui
+Udhar Dhrishtadyumna Dronacharya ke saath fight kar raha tha.
+
+Lekin jab woh Bhima ke chariot ke paas pahuncha, toh usne dekha ki chariot khaali hai. Sirf Bhima ka charioteer Vishoka wahan maujood tha.
+
+Dhrishtadyumna yeh dekhkar bahut pareshan ho gaya.
+
+Usne Vishoka se poocha:
+
+"Mera dost Bhima kahan hai? Woh mere liye apni jaan se bhi zyada important hai!"
+
+Vishoka ne jawab diya:
+
+"Rajkumar, Bhima ne mujhe yahin horses ko rok kar wait karne ka order diya hai.
+
+Woh akela hi Kaurava army ke beech ghus gaya hai. Usne kaha tha ki woh un warriors ko khatam karega jo uski jaan lene ke iraade se uske peeche aaye hain.
+
+Jab Bhima apni Gada lekar dushman ki army mein ghusa, toh hamare soldiers bhi bahut khush aur excited ho gaye the."
+Dhrishtadyumna Ne Bhima Ko Akela Chhodne Se Mana Kar Diya
+Vishoka ki baat sunkar Dhrishtadyumna ne kaha:
+
+"Bhima mera dost aur rishtedaar hai. Woh mujh par bharosa karta hai aur main bhi uske prati loyal hoon.
+
+Agar main use battlefield mein akela chhodkar wapas chala gaya, toh duniya mere baare mein kya kahegi?
+
+Ek Kshatriya ke liye apne dost ko danger mein chhod dena bahut bada apmaan hai.
+
+Chahe mujhe apni jaan hi kyun na deni pade, main Bhima ko akela nahi chhodunga.
+
+Main bhi uske paas jaunga aur enemies ka saamna karunga!"
+
+Yeh kehkar Dhrishtadyumna Bhima ke peeche chal pada.
+Bhima Aur Dhrishtadyumna Ne Milkar Kaurava Army Par Attack Kiya
+Dhrishtadyumna Bhima ke banaye hue raaste se aage badha.
+
+Raaste mein use toote hue chariots aur Gada ke attacks se kuchle hue elephants dikhai diye.
+
+Aakhirkar usne Bhima ko dekh liya.
+
+Bhima apni Gada lekar Kaurava soldiers ko aise maar raha tha jaise ek powerful storm pedon ki rows ko gira deta hai.
+
+Kaurava soldiers ke beech cheekh-pukaar machi hui thi.
+
+Lekin ab Kaurava warriors ne Bhima ko chaaron taraf se gher liya aur us par arrows barsane lage.
+
+Bhima paidal khada tha, uske body par arrows lage hue the aur haath mein Gada thi.
+
+Dhrishtadyumna turant uske paas pahuncha.
+
+Usne Bhima ko apne chariot par bithaya, uske body se arrows nikale aur use gale laga kar himmat di. Duryodhana Ne Apne Bhaiyon Ko Dhrishtadyumna Par Attack Karne Bheja
+Jab Duryodhana ne dekha ki Dhrishtadyumna Bhima ke saath aa gaya hai, toh usne apne bhaiyon se kaha:
+
+"Dhrishtadyumna ab Bhima ke saath mil gaya hai. Tum sab milkar us par attack karo aur use maar daalo!"
+
+Duryodhana ke bhai weapons lekar Dhrishtadyumna ki taraf badhe.
+
+Unhone apne bows se itne arrows chalaye ki poora battlefield arrows se cover ho gaya.
+
+Lekin Dhrishtadyumna bilkul nahi ghabraya.
+Dhrishtadyumna Ne Pramohana Weapon Ka Use Kiya
+Dhrishtadyumna ne dekha ki Duryodhana ke bhai use chaaron taraf se gher kar attack kar rahe hain.
+
+Tab usne ek special celestial weapon ka use kiya, jiska naam tha Pramohana Astra.
+
+Is weapon ka effect bahut extraordinary tha.
+
+Jaise hi Dhrishtadyumna ne iska use kiya, Kaurava warriors apne hosh kho baithe.
+
+Unki sochne-samajhne ki ability aur physical strength dono prabhavit ho gayi.
+
+Kai warriors apne chariots, horses aur elephants ke saath battlefield se idhar-udhar bhaagne lage.
+
+Kuch warriors behosh hokar gir pade.
+
+Kaurava army mein confusion aur panic mach gaya.
+Dronacharya Ne Drupada Ko Hara Diya
+Isi beech Dronacharya ne King Drupada par teen powerful arrows chalaye.
+
+Drupada buri tarah injured ho gaye aur battlefield chhodkar chale gaye.
+
+Drona ne unhe defeat karne ke baad apna conch bajaya.
+
+Uski awaaz sunkar Somaka warriors ke beech darr phail gaya.
+
+Lekin jab Drona ko pata chala ki Dhrishtadyumna ne unke students aur Duryodhana ke bhaiyon par Pramohana Astra ka use kiya hai, toh woh turant unhe bachane ke liye pahunch gaye.
+Dronacharya Ne Prajna Astra Se Pramohana Astra Ko Rok Diya
+Drona ne dekha ki Duryodhana ke bete aur doosre Kaurava warriors behosh pade hain.
+
+Tab unhone Prajna Astra ka use kiya.
+
+Is weapon ne Dhrishtadyumna ke Pramohana Astra ke effect ko neutralize kar diya.
+
+Dheere-dheere Kaurava warriors ko hosh aane laga.
+
+Hosh mein aate hi woh dobara Bhima aur Dhrishtadyumna se fight karne lage. Yudhishthira Ne Abhimanyu Ko Rescue Mission Par Bheja
+Udhar Yudhishthira ko Bhima aur Dhrishtadyumna ki safety ki bahut chinta ho rahi thi.
+
+Unhone turant order diya:
+
+"Subhadra ke bete Abhimanyu ke leadership mein 12 brave chariot warriors ko bhejo.
+
+Unka kaam Bhima aur Dhrishtadyumna tak pahunchna aur unki situation ka pata lagana hai."
+
+Abhimanyu ke saath Kaikeya warriors, Draupadi ke bete aur Dhrishtaketu bhi the.
+
+In sabhi warriors ne Suchimukha Vyuha banaya.
+
+Suchimukha ka matlab hota hai needle-shaped formation. Ismein army ka front bahut pointed hota hai, jo enemy formation ko penetrate karne ke kaam aata hai. Abhimanyu ki leadership mein ye warriors Kaurava army ko penetrate karte hue Bhima aur Dhrishtadyumna ko rescue karne ke liye aage badhe.
+
+Kaurava soldiers pehle hi Bhima aur Dhrishtadyumna ke attacks se pareshan the. Isliye woh Abhimanyu ki army ko rok nahi paaye.
+
+Abhimanyu aur uske saath aaye warriors tezi se aage badhe.
+
+Unhe dekhkar Bhima aur Dhrishtadyumna ko bhi bahut relief mila.
+Dhrishtadyumna Aur Drona Ke Beech Phir Se Yudh
+Jab Dhrishtadyumna ne Dronacharya ko apni taraf aate dekha, toh usne Bhima ko Kaikeya king ke chariot par bhej diya.
+
+Phir woh khud Drona ka saamna karne ke liye aage badha.
+
+Drona ne sabse pehle ek powerful arrow se Dhrishtadyumna ka bow kaat diya.
+
+Phir unhone us par hundreds of arrows chala diye.
+
+Dhrishtadyumna ne turant doosra bow uthaya aur Drona par 70 sharp arrows chala diye.
+
+Lekin Drona ne phir se uska bow kaat diya.
+
+Iske baad Drona ne chaar arrows se Dhrishtadyumna ke chaaron horses ko maar diya aur ek broad-headed arrow se uske charioteer ko bhi maar giraya.
+
+Ab Dhrishtadyumna ka chariot completely destroy ho chuka tha.
+
+Usne turant Abhimanyu ke chariot par chadhkar apni jaan bachayi.
+Drona Ne Pandava Army Mein Phir Tabahi Macha Di
+Dhrishtadyumna aur Bhima ke saamne hi Dronacharya ne Pandava army par ek powerful attack shuru kar diya.
+
+Unke arrows se elephants, horses aur chariots ke soldiers mein panic phail gaya.
+
+Pandava army ki formation tootne lagi.
+
+Soldiers idhar-udhar bhaagne lage. Unki condition aisi ho gayi jaise samundar mein bahut tez waves aane se paani idhar-udhar ghoomne lagta hai.
+
+Kaurava army ke soldiers yeh sab dekhkar khush ho gaye.
+
+Unhone Dronacharya ki bravery ki zor-zor se tareef ki.
+
+Section LXXVII Ka Main Message
+1. Sanjaya ne Dhritarashtra ko yaad dilaya ki Pandavas ke saath anyaay aur dice game ki zimmedari unki bhi thi.
+2. Bhima akela Kaurava army ke beech ghus gaya aur apni Gada se warriors ko maarne laga.
+3. Dhrishtadyumna ne apne dost Bhima ko danger mein akela chhodne se mana kar diya.
+4. Dhrishtadyumna ne Pramohana Astra se Kaurava warriors ko behosh kar diya.
+5. Dronacharya ne Prajna Astra se Pramohana Astra ka effect khatam kar diya.
+6. Yudhishthira ne Abhimanyu ke leadership mein 12 warriors ko Bhima aur Dhrishtadyumna ki help ke liye bheja.
+7. Drona aur Dhrishtadyumna ke beech dobara fierce battle hui.
+8. Drona ne Dhrishtadyumna ka chariot destroy kar diya aur Pandava army ko heavy damage pahunchaya.
+Is section ka sabse important moment: Dhrishtadyumna ne Bhima ko bachane ke liye apni jaan ki parwah nahi ki. Aur jab woh khud danger mein aa gaya, toh Yudhishthira ne Abhimanyu ko 12 warriors ke saath rescue mission par bheja.
+
+Ek important lesson: Sacchi dosti ka matlab sirf achhe waqt mein saath rehna nahi, balki mushkil waqt mein bhi apne dost ko akela na chhodna hai. """
             create_image_text_layout(
                 text_content=text2,
                 layout="full"
@@ -10696,7 +11519,16 @@ Is section ka ek important point: Kurukshetra ka yudh ab apne sabse destructive 
 
         # Section 6.3.66
         with st.expander("Section 6.3.66  Section LXXVIII"):
-            text1 = """ """
+            text1 = """ Section LXXVIII – Bhima Aur Duryodhana Ke Beech Bhayankar Yudh
+Pichhle section mein Drona ne Pandava army ko buri tarah damage pahunchaya tha. Ab Duryodhana dobara hosh mein aakar Bhima ke saamne khada hota hai. Dono ke beech ek baar phir bhayankar fight shuru ho jaati hai.
+Duryodhana Ne Bhima Par Dobara Attack Kiya
+Duryodhana ne khud ko sambhala aur Bhima par arrows ki baarish karni shuru kar di.
+
+Uske bhai bhi ek saath Bhima par attack karne lage.
+
+Bhima ko bhi dobara apna chariot mil gaya. Woh us par chadha aur Duryodhana aur uske bhaiyon ka saamna karne pahunch gaya.
+
+Usne ek powerful aur majboot bow uthaya, jo sone se saja hua tha. Phir usne apne arrows se Duryodhana ke bhaiyon ko nishana banana shuru kar diya. """
             create_image_text_layout(
                 "attached_assets/chapter6/6.3.66.jpg",
                 text1,
@@ -10704,7 +11536,51 @@ Is section ka ek important point: Kurukshetra ka yudh ab apne sabse destructive 
                 image_position="left"
             )
 
-            text2 = """ """
+            text2 = """ Bhima Aur Duryodhana Ka Seedha Muqabla
+Fight ke dauraan Duryodhana ne ek bahut tez aur sharp arrow Bhima ke vital body part par maara.
+
+Bhima buri tarah injured hua, lekin uska gussa aur badh gaya.
+
+Usne apna bow kheenchkar Duryodhana par teen powerful arrows chalaye:
+- Ek attack uski dono arms par hua.
+- Ek arrow uske chest par laga.
+Duryodhana itne powerful attack ke baad bhi apni jagah se nahi hila. Woh ek bade pahaad ki tarah mazboot khada raha.
+
+Dono warriors gusse mein ek-doosre par lagataar attacks kar rahe the. Duryodhana Ke Bhaiyon Ne Bhima Ko Gher Liya
+Duryodhana ke chhote bhaiyon ko apni pehle se banayi hui planning yaad aa gayi.
+
+Unka iraada tha ki sab milkar Bhima ko khatam kar denge.
+
+Woh sab ek saath Bhima par toot pade.
+
+Lekin Bhima bhi peeche hatne waalon mein se nahi tha.
+
+Sanjaya ke according, Bhima un par aise toot pada jaise ek powerful elephant apne saamne aane wale doosre elephant par attack karta hai.
+
+Bhima ne sabse pehle Chitrasena ko ek powerful arrow se buri tarah hit kiya.
+
+Uske baad usne Duryodhana ke baaki bhaiyon par bhi alag-alag tarah ke golden arrows barsaye.
+Yudhishthira Ne Abhimanyu Ke Saath 12 Warriors Bheje
+Udhar Yudhishthira ne apni army ko sahi tarah arrange kiya aur Bhima ki help ke liye 12 powerful chariot warriors bheje.
+
+In warriors mein Abhimanyu bhi shamil tha.
+
+Ye sabhi warriors apne golden ornaments aur weapons ke saath battlefield mein bahut impressive dikh rahe the. Unki chamak Surya aur Agni jaisi batayi gayi hai.
+
+Jab Duryodhana ke bhaiyon ne in powerful warriors ko apni taraf aate dekha, toh unhone Bhima ke saath chal rahi fight chhod di.
+
+Lekin Pandava warriors ko yeh manzoor nahi tha ki Duryodhana ke bhai bina fight kiye wahan se chale jaayein.
+
+Woh unhe zinda bachkar jaane dene ke liye taiyaar nahi the. Section LXXVIII Ka Main Message
+1. Duryodhana ne hosh mein aakar dobara Bhima par attack kiya.
+2. Bhima ne Duryodhana ke attack ka jawab teen powerful arrows se diya.
+3. Duryodhana ke bhaiyon ne milkar Bhima ko maarne ki koshish ki.
+4. Bhima ne Chitrasena aur doosre Kaurava warriors par powerful attacks kiye.
+5. Yudhishthira ne Abhimanyu samet 12 chariot warriors ko Bhima ki help ke liye bheja.
+6. Pandava warriors ko dekhkar Duryodhana ke bhaiyon ne Bhima ke saath fight chhod di.
+Is section ka main highlight: Bhima akela Duryodhana aur uske bhaiyon ka saamna kar raha tha, lekin Yudhishthira ne Abhimanyu ke saath 12 powerful warriors bhejkar uski support ki.
+
+Lesson: Mushkil waqt mein himmat ke saath-saath apne saathiyon ka support bhi bahut zaroori hota hai. """
             create_image_text_layout(
                 text_content=text2,
                 layout="full"
@@ -10713,7 +11589,14 @@ Is section ka ek important point: Kurukshetra ka yudh ab apne sabse destructive 
 
         # Section 6.3.67
         with st.expander("Section 6.3.67  Section LXXIX"):
-            text1 = """ """
+            text1 = """ Section LXXIX – Abhimanyu Ka Shaurya Aur Kurukshetra Ka Bhayankar Yudh
+Pichhle section mein Yudhishthira ne Abhimanyu ke saath 12 powerful warriors ko Bhima ki help ke liye bheja tha. Ab Abhimanyu, Bhima aur Dhrishtadyumna milkar Kaurava army par attack karte hain.
+
+Dono taraf ke warriors ke beech itna bhayankar yudh hota hai ki poora Kurukshetra battlefield khoon se bhar jaata hai.
+Abhimanyu Aur Bhima Ka Kaurava Warriors Par Attack
+Abhimanyu, Bhima ke saath milkar Duryodhana ke bhaiyon aur Kaurava warriors ka peecha karne lagta hai.
+
+Jab Duryodhana aur uski army ke doosre powerful warriors ne dekha ki Abhimanyu, Bhima aur Dhrishtadyumna ek saath unki army ke beech hain, toh unhone apne bows uthaye aur tezi se unki taraf badhe. """
             create_image_text_layout(
                 "attached_assets/chapter6/6.3.67.jpg",
                 text1,
@@ -10721,7 +11604,82 @@ Is section ka ek important point: Kurukshetra ka yudh ab apne sabse destructive 
                 image_position="left"
             )
 
-            text2 = """ """
+            text2 = """ Dopahar ke baad battlefield mein ek bahut bhayankar fight shuru ho gayi.
+Abhimanyu Ne Vikarna Ko Haraaya
+Fight ke dauraan Abhimanyu ne Vikarna ke chariot par attack kiya.
+
+Sabse pehle usne apne arrows se Vikarna ke horses ko maar giraya. Phir usne Vikarna par 25 arrows chala diye.
+
+Vikarna ka chariot horses ke bina bekaar ho gaya, isliye use apna chariot chhodna pada.
+
+Woh apne bhai Chitrasena ke chariot par chadh gaya.
+
+Ab Vikarna aur Chitrasena ek hi chariot par khade hokar Abhimanyu ka saamna karne lage.
+
+Dono bhaiyon ne milkar Abhimanyu par arrows ki baarish kar di.
+
+Durjaya ne bhi Vikarna ke saath milkar Abhimanyu par paanch iron arrows chalaye.
+
+Lekin Abhimanyu bilkul nahi hila. Woh Meru Parvat ki tarah mazboot khada raha aur lagataar unka saamna karta raha. Dushasana Aur Panch Kaikeya Bhaiyon Ka Yudh
+Dusri taraf Dushasana ka saamna paanch Kaikeya brothers se hua.
+
+Paanchon bhai milkar Dushasana par attack kar rahe the.
+
+Yeh bhi battlefield ka ek intense confrontation tha.
+Draupadi Ke Bete Duryodhana Se Bhid Gaye
+Isi beech Draupadi ke paanchon beton ne gusse mein Duryodhana ko challenge kiya.
+
+Har ek ne Duryodhana par teen arrows chalaye.
+
+Duryodhana ne bhi haar nahi maani. Usne Draupadi ke har bete par sharp arrows se jawab diya.
+
+Dono taraf se arrows lagne ke kaaran Duryodhana ka sharir khoon se bhar gaya. Sanjaya uski tulna ek aise pahaad se karte hain jis par laal rang mila hua paani beh raha ho.
+Bhishma Ne Pandava Army Par Tabahi Macha Di
+Jab battlefield ke ek taraf Abhimanyu aur Bhima Kaurava warriors se lad rahe the, tab doosri taraf Bhishma Pandava army par lagataar attack kar rahe the.
+
+Bhishma apne arrows se Pandava soldiers ko buri tarah damage pahunchate rahe.
+
+Woh apni army ke liye ek bahut powerful warrior sabit ho rahe the.
+
+Udhar battlefield ke doosre hisse mein Arjuna bhi apne famous bow Gandiva se enemies ka saamna kar raha tha.
+
+Uske Gandiva ki powerful twang poore battlefield mein sunai de rahi thi. Kurukshetra Ka Battlefield Khoon Ke Samundar Jaisa Ban Gaya
+Sanjaya Dhritarashtra ko battlefield ka bahut bhayankar scene batate hain.
+
+Dono armies ke hazaaron warriors maare ja chuke the. Kai soldiers ke sir unke dhad se alag ho gaye the.
+
+Battlefield ka scene ek khoon ke samundar jaisa lag raha tha:
+- Arrows us samundar ki tez lehron jaise dikh rahe the.
+- Elephants us samundar ke beech islands jaise lag rahe the.
+- Horses uski waves jaise the.
+- Chariots boats ki tarah dikh rahe the, jin par warriors yudh kar rahe the.
+Kai warriors ke arms cut chuke the. Kuch ke armour toot gaye the aur kai soldiers buri tarah injured hokar zameen par pade the.
+
+Mare hue elephants ke bade-bade bodies battlefield mein aise dikh rahe the jaise wahan pahaad bikhre pade hon.
+
+Yeh ek bahut hi terrifying scene tha. Dono Armies Ka Ek Bhi Warrior Peeche Hatne Ko Taiyaar Nahi Tha
+Itni tabahi aur itne saare deaths ke bawajood Sanjaya ek extraordinary baat batate hain.
+
+Unke according, na Kaurava army mein aur na hi Pandava army mein koi aisa warrior tha jo fight karne se bachna chahta ho.
+
+Dono taraf ke warriors poori himmat ke saath lad rahe the.
+
+Sabhi ke mann mein victory aur glory paane ki ichha thi.
+
+Kisi ne bhi aasani se haar maanne ya battlefield chhodne ka iraada nahi dikhaya.
+
+Section LXXIX Ka Main Message
+1. Abhimanyu aur Bhima ne milkar Kaurava warriors par attack kiya.
+2. Abhimanyu ne Vikarna ke horses maar diye aur use apna chariot chhodna pada.
+3. Vikarna aur Chitrasena ne ek hi chariot se Abhimanyu ka saamna kiya, lekin Abhimanyu mazbooti se lada.
+4. Dushasana ka saamna paanch Kaikeya brothers se hua.
+5. Draupadi ke beton ne milkar Duryodhana par attack kiya.
+6. Bhishma ne Pandava army ko heavy damage pahunchaya, jabki Arjuna Gandiva se doosri taraf yudh kar raha tha.
+7. Battlefield ek khoon ke samundar jaisa ban gaya.
+8. Dono armies ke warriors victory aur glory ke liye bina peeche hate ladte rahe.
+Is section ka main highlight: Abhimanyu ne ek saath kai Kaurava warriors ka saamna kiya aur Vikarna jaise powerful warrior ko bhi apne chariot se utarne par majboor kar diya.
+
+Ek important lesson: Himmat ka matlab sirf powerful hona nahi, balki mushkil situations mein bhi apne iraade par mazboot rehna hai. """
             create_image_text_layout(
                 text_content=text2,
                 layout="full"
@@ -10730,7 +11688,16 @@ Is section ka ek important point: Kurukshetra ka yudh ab apne sabse destructive 
 
         # Section 6.3.68
         with st.expander("Section 6.3.68  Section LXXX"):
-            text1 = """ """
+            text1 = """ Section LXXX – Bhima Aur Duryodhana Ka Bhayankar Yudh
+Kurukshetra mein shaam hone lagi thi. Suraj laal rang ka dikh raha tha. Tabhi Duryodhana ne Bhima ko dekha aur use maarne ke iraade se apne rath par seedha uski taraf badha.
+
+Bhima ne Duryodhana ko apni taraf aate dekha. Woh bahut gusse mein tha. Usne kaha:
+
+"Jis din ka main itne saalon se intezaar kar raha tha, woh aaj aa gaya hai! Duryodhana, agar tumne abhi yudh nahi chhoda, toh aaj main tumhara ant kar dunga.
+
+Tumne pehle Kunti Mata aur Draupadi ko bahut dukh diya. Humein jungle mein exile ke dauran bhi bahut takleef di. Apne ghamand mein tumne Pandavon ka apmaan kiya tha.
+
+Tumne Karna aur Shakuni ki baaton mein aakar humein hamesha neecha dikhaya. Shri Krishna ne bhi tumse shanti banaye rakhne ki request ki thi, lekin tumne unki baat nahi maani. """
             create_image_text_layout(
                 "attached_assets/chapter6/6.3.68.jpg",
                 text1,
@@ -10738,7 +11705,87 @@ Is section ka ek important point: Kurukshetra ka yudh ab apne sabse destructive 
                 image_position="left"
             )
 
-            text2 = """ """
+            text2 = """ Ab tumhe apne har bure kaam ka jawab milega. Aaj main tumse apna saara badla loonga!"
+
+Itna kehkar Bhima ne apna dhanush uthaya aur ek ke baad ek 36 powerful arrows Duryodhana ki taraf chala diye.
+
+Bhima ke teeron ne Duryodhana ka dhanush tod diya. Uske saarathi ko bhi teer lage aur uske chaaron ghode gir gaye. Bhima ne Duryodhana ke rath ki chhatri aur uska sundar jhanda bhi kaat diya.
+
+Duryodhana ka haathi ke nishaan wala chamakta hua jhanda rath se neeche gir gaya. Yeh dekhkar Bhima ne zor se garjana ki.
+
+Phir Bhima ne Duryodhana par 10 aur teer chala diye. Duryodhana buri tarah ghayal ho gaya.
+
+Yeh dekhkar Kripacharya ne Duryodhana ko apne rath par bitha liya. Duryodhana dard se pareshan tha aur rath mein baith gaya.
+
+Lekin Jayadratha ne Bhima ko maarne ke liye apni hazaaron rathon ki sena se use chaaron taraf se gher liya.
+
+Doosri taraf Dhrishtaketu, Abhimanyu, Kekaya ke paanch bhai aur Draupadi ke putra bhi Kaurav sena se lad rahe the.
+
+Abhimanyu Ka Shandaar Yudh
+
+Abhimanyu ne Kaurav yoddhaon par apne teeron ki baarish kar di. Usne har yoddha par paanch-paanch teer chalaye.
+
+Kaurav yoddha gusse mein aa gaye. Un sabne milkar Abhimanyu par teeron ki baarish shuru kar di.
+
+Lekin Abhimanyu bilkul nahi dara. Woh itni tezi se teer chala raha tha ki Kaurav yoddha uske hamlon se kaanpne lage.
+
+Phir Abhimanyu ne Vikarna ko apna nishana banaya. Usne 14 khatarnak teer chalaye aur Vikarna ka jhanda kaat diya. Uske saarathi aur ghode bhi maare gaye.
+
+Abhimanyu ne Vikarna par aur bhi teer barsaye. Vikarna buri tarah ghayal ho gaya.
+
+Apne bhai Vikarna ki yeh haalat dekhkar uske doosre bhai bhi Abhimanyu par hamla karne aa gaye.
+
+Yoddhaon Ke Beech Bhayankar Ladai
+
+Ab Kaurav aur Pandav yoddhaon ke beech har taraf yudh hone laga.
+
+Durmukha ne Srutakarman par teer chalaye. Uska jhanda kaat diya aur uske ghode aur saarathi ko bhi maar diya.
+
+Lekin Srutakarman ne haar nahi maani. Usne gusse mein ek powerful bhala Durmukha ki taraf phenka. Woh bhala uske kavach ko paar karta hua zameen mein ja ghusa.
+
+Tabhi Sutasoma ne Srutakarman ko apne rath par jagah di aur use bachaya.
+
+Doosri taraf Srutakirti ne Jayatsena par hamla kiya. Lekin Jayatsena ne ek teer se uska dhanush kaat diya.
+
+Yeh dekhkar Satanika apne bhai ki madad ke liye aa gaya. Usne Jayatsena par lagataar teer chalaye aur uske seene par bhi ek teer maara.
+
+Tabhi Dushkarna apne bhai Jayatsena ki madad ke liye aa gaya. Usne Satanika ka dhanush aur teer kaat diya.
+
+Lekin Satanika ne turant doosra dhanush uthaya aur Dushkarna ko lalkara.
+
+Usne kaha, "Ruko! Ab tum mujhse bach nahi sakte!"
+
+Phir Satanika ne Dushkarna par teeron ki baarish kar di. Usne uska dhanush kaat diya, saarathi ko maar diya aur uske saaton ghode bhi gira diye.
+
+Aakhir mein Satanika ka ek powerful teer Dushkarna ke seene mein laga. Dushkarna bijli se gire ped ki tarah zameen par gir gaya.
+
+Dushkarna ko girta dekh paanch Kaurav yoddhaon ne Satanika ko chaaron taraf se gher liya aur us par teer barsane lage.
+
+Kekaya Bhaiyon Ka Hamla
+
+Tabhi Kekaya ke paanch bahadur bhai Satanika ko bachane ke liye aa gaye.
+
+Yeh dekhkar Duryodhana ke bhai Durmukha, Durjaya, Durmarshana, Satranjaya aur Satrusha bhi unse ladne aa gaye.
+
+Dono taraf ke yoddha apne sundar rathon par sawar the. Unke ghode saje hue the aur rathon par rang-birange jhande lage the.
+
+Dono senaon ke beech bahut bhayankar yudh shuru ho gaya. Teer chal rahe the, ghode daud rahe the aur haathi ek-doosre se takra rahe the.
+
+Yeh ladai suraj dhalne tak chalti rahi. Battlefield par hazaaron yoddha aur ghode gir chuke the.
+
+Bhishma Pitamah Ka Aakhri Hamla
+
+Isi beech Bhishma Pitamah ne bhi Pandav sena par apne teeron se bhayankar hamla shuru kar diya.
+
+Unhone apne powerful teeron se Pandav aur Panchal sena ke kai yoddhaon ko hara diya. Unke hamle se Pandav sena ki lines tootne lagi.
+
+Aakhir mein Bhishma Pitamah ne apni sena ko wapas bulaya aur yudh rok kar apne camp ki taraf laut gaye.
+
+Udhar Yudhishthira ne Bhima aur Dhrishtadyumna ko surakshit dekha toh woh bahut khush hue.
+
+Unhone pyaar se dono ke sir ko chuma aur phir apne camp ki taraf laut gaye.
+
+Is tarah Kurukshetra ke yudh ka ek aur din samaapt hua. Lekin dono taraf ke yoddha jaante the ki agle din phir ek naya aur bhayankar sangharsh unka intezaar kar raha hai. """
             create_image_text_layout(
                 text_content=text2,
                 layout="full"
