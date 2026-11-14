@@ -11792,7 +11792,18 @@ Is tarah Kurukshetra ke yudh ka ek aur din samaapt hua. Lekin dono taraf ke yodd
             )
         # Section 6.3.69
         with st.expander("Section 6.3.69  Section LXXXI"):
-            text1 = """ """
+            text1 = """ Section LXXXI – Duryodhana Ki Chinta Aur Bhishma Pitamah Ka Vachan
+Pichhle din Kurukshetra ke battlefield mein bahut bhayankar yudh hua tha. Dono taraf ke kai yoddha ghayal hue the. Shaam hone par sabhi yoddha apne-apne camps mein laut gaye.
+
+Thodi der aaram karne ke baad yoddha ek-doosre ki bahaduri ki tareef karne lage. Phir sabne apne kavach pehne aur agle din ke yudh ke liye taiyaar ho gaye.
+
+Duryodhana Ki Bhishma Se Shikayat
+
+Duryodhana khud bhi buri tarah ghayal tha. Uske sharir se khoon beh raha tha aur woh bahut pareshan tha.
+
+Woh Bhishma Pitamah ke paas gaya aur bola:
+
+"Pitamah! Hamari sena bahut badi aur powerful hai. Hamare paas hazaaron rath, haathi, ghode aur bahadur yoddha hain. Hamari sena bhi achhe tareeke se sajayi gayi hai. """
             create_image_text_layout(
                 "attached_assets/chapter6/6.3.69.jpg",
                 text1,
@@ -11800,7 +11811,63 @@ Is tarah Kurukshetra ke yudh ka ek aur din samaapt hua. Lekin dono taraf ke yodd
                 image_position="left"
             )
 
-            text2 = """ """
+            text2 = """ Phir bhi Pandavon ke mahaan yoddha hamari sena ke beech ghus jaate hain. Woh hamare sainikon ko maarte hain aur bina kisi nuksaan ke wapas chale jaate hain.
+
+Unhone hamari poori sena ko hila kar rakh diya hai. Yudh mein unki bahaduri ki har taraf charcha ho rahi hai.
+
+Kal Bhima hamari Vajra jaisi majboot Makara Vyuha sena ke andar ghus aaya tha. Usne mujh par maut ke dand jaise khatarnak teeron se hamla kiya.
+
+Us samay Bhima ko itne gusse mein dekhkar main apna hosh kho baitha tha. Abhi tak mera mann shaant nahi hua hai.
+
+Pitamah! Aap mahaan yoddha hain. Mujhe aap par poora bharosa hai. Kripya apni poori shakti laga kar Pandavon ko hara dijiye aur mujhe vijay dilaiye."
+
+Bhishma Pitamah Ka Jawab
+
+Duryodhana ki baatein sunkar Bhishma Pitamah muskuraaye. Lekin unke chehre par udaasi bhi thi.
+
+Unhone kaha:
+
+"Rajkumar Duryodhana! Main tumhari jeet ke liye apni poori shakti laga raha hoon. Main is yudh mein bilkul peeche nahi hatunga.
+
+Lekin tumhe ek baat samajhni hogi. Pandavon ki taraf bahut saare mahaan aur bahadur yoddha lad rahe hain.
+
+Woh sabhi yudh kala mein expert hain. Unke andar bahut himmat aur shakti hai. Woh tumse purani dushmani rakhte hain aur aasani se haar maanne wale nahi hain.
+
+Unhe harana bahut mushkil hai. Lekin main tumhare liye apni poori jaan laga dunga.
+
+Tumhari khushi ke liye main apni jaan tak daav par laga sakta hoon. Agar zaroorat padi toh main Devtaon aur Daityon se bhi yudh karne ke liye taiyaar hoon.
+
+Main tumhari ichha ke anusaar Pandavon se yudh karunga aur apni taraf se koi kami nahi chhodunga."
+
+Bhishma Pitamah ka vachan sunkar Duryodhana bahut khush hua. Uska confidence wapas aa gaya.
+
+Kaurav Sena Ki Yudh Ke Liye Taiyaari
+
+Duryodhana ne khushi se apni poori sena aur sabhi rajaon ko aage badhne ka aadesh diya.
+
+Uske aadesh ke saath hi Kaurav sena aage badhne lagi. Sena mein hazaaron rath, ghode, haathi aur paidal sainik the.
+
+Sabhi yoddha alag-alag tarah ke hathiyaaron se lais the. Unke chehron par yudh ka josh saaf dikh raha tha.
+
+Bade-bade haathi apne jhund mein khade the. Unke upar baithe mahavat unhe sambhaal rahe the.
+
+Sena mein kai raja aur mahaan yoddha bhi maujood the. Sabhi apne-apne hathiyaar lekar yudh ke liye taiyaar the.
+
+Jab itni badi sena battlefield par aage badhi, toh zameen se laal rang ki dhool udne lagi. Yeh dhool subah ke laal suraj jaisi dikh rahi thi aur dheere-dheere suraj ki roshni ko bhi dhakne lagi.
+
+Rathon aur haathiyon par lage rang-birange jhande hawa mein lehra rahe the. Woh baadalon ke beech chamakti bijli jaise sundar lag rahe the.
+
+Sabhi rajaon ne apne dhanush kheenchne shuru kiye. Dhanushon ki tez awaaz poore battlefield mein goonjne lagi.
+
+Yeh awaaz samundar ki bhayankar garaj jaisi thi.
+
+Kaurav sena ke sainik zor-zor se garaj rahe the. Unke rath, haathi, ghode aur hazaaron hathiyaar milkar ek bahut hi bhayankar nazara bana rahe the.
+
+Door se dekhne par Kaurav sena aisi lag rahi thi jaise duniya ke ant ke samay aasman mein bade-bade kaale baadal chha gaye hon.
+
+Ab Kaurav sena poori taakat ke saath yudh ke maidan mein aage badh chuki thi.
+
+Aur ek baar phir Kurukshetra ki dharti par ek naye bhayankar yudh ki shuruaat hone wali thi. """
             create_image_text_layout(
                 text_content=text2,
                 layout="full"
@@ -11809,7 +11876,16 @@ Is tarah Kurukshetra ke yudh ka ek aur din samaapt hua. Lekin dono taraf ke yodd
 
         # Section 6.3.70
         with st.expander("Section 6.3.70  Section LXXXII"):
-            text1 = """ """
+            text1 = """ Section LXXXII – Bhishma Pitamah Ka Mandala Vyuha Aur Arjuna Ka Mahayudh
+Pichhle section mein humne dekha ki Duryodhana ne Bhishma Pitamah se Pandavon ko harane ki request ki thi. Bhishma Pitamah ne bhi apni poori shakti lagane ka vachan diya tha.
+
+Ab Kurukshetra mein ek aur bhayankar din ke yudh ki taiyaari shuru hone wali thi.
+
+Bhishma Pitamah Ne Duryodhana Ko Samjhaya
+
+Duryodhana abhi bhi kuch soch raha tha. Tabhi Bhishma Pitamah ne use samjhate hue kaha:
+
+"Duryodhana! Hamari taraf bahut saare mahaan yoddha hain. Main khud, Dronacharya, Shalya, Kritavarma, Ashwatthama, Vikarna, Bhagadatta, Shakuni, Avanti ke Vinda aur Anuvinda, aur kai doosre raja tumhari taraf se yudh kar rahe hain. """
             create_image_text_layout(
                 "attached_assets/chapter6/6.3.70.jpg",
                 text1,
@@ -11817,7 +11893,141 @@ Is tarah Kurukshetra ke yudh ka ek aur din samaapt hua. Lekin dono taraf ke yodd
                 image_position="left"
             )
 
-            text2 = """ """
+            text2 = """ Trigarta ke raja, Magadha ke raja, Kosala ke raja Brihadvala aur Valhika ke yoddha bhi hamare saath hain.
+
+Hamare paas hazaaron rath hain. Bahut saare trained ghudsawar, bade-bade haathi aur alag-alag hathiyaaron se lais hazaaron paidal sainik bhi hain.
+
+Ye sabhi yoddha tumhare liye apni jaan dene ko taiyaar hain. Mujhe lagta hai ki hamari sena toh Devtaon ko bhi yudh mein hara sakti hai.
+
+Lekin Duryodhana, main tumhe ek sach batana chahta hoon.
+
+Pandavon ko toh Devta aur Indra bhi aasani se nahi hara sakte. Unke saath khud Shri Krishna hain. Unki shakti bhi Indra ke samaan hai.
+
+Phir bhi main tumhara saath nahi chhodunga. Main apni poori jaan laga kar yudh karunga. Ya toh main Pandavon ko haraunga, ya phir yudh mein khud veergati paunga."
+
+Bhishma Pitamah ki baatein sunkar Duryodhana ko bahut himmat mili.
+
+Duryodhana Ke Ghaav Theek Hue
+
+Bhishma Pitamah ne Duryodhana ko ek special jadi-booti di. Us jadi-booti mein ghaav theek karne ki shakti thi.
+
+Uska asar hote hi Duryodhana ke ghaav theek hone lage. Ab woh dobara yudh ke liye taiyaar ho gaya.
+
+Bhishma Pitamah Ka Mandala Vyuha
+
+Agli subah aasman bilkul saaf tha.
+
+Bhishma Pitamah ne apni sena ko ek special formation mein sajaya. Is formation ka naam tha Mandala Vyuha.
+
+Is Vyuha mein bade-bade haathi, paidal sainik aur mahaan rath yoddha alag-alag jagah par khade kiye gaye the.
+
+Har haathi ke paas 7 rath rakhe gaye the.
+
+Har rath ke paas 7 ghudsawar the.
+
+Har ghudsawar ke peeche 7 dhanurdhar the.
+
+Aur har dhanurdhar ke peeche 7 dhal lekar ladne wale sainik the.
+
+Is tarah Bhishma Pitamah ne apni sena ko bahut hi majboot aur surakshit bana diya.
+
+Unki suraksha ke liye 10,000 ghode, 10,000 haathi aur 10,000 rath lagaye gaye the.
+
+Duryodhana aur uske bhai bhi kavach pehenkar Bhishma Pitamah ki raksha kar rahe the.
+
+Duryodhana apne sundar rath par baitha hua tha. Woh Swarg mein baithe Indra ki tarah chamak raha tha.
+
+Kaurav sena mein zor-zor se yudh ke naare lagne lage. Rath ke pahiyon ki awaaz aur yudh ke dhol-nagaadon ki goonj se poora maidan bhar gaya.
+
+Bhishma Pitamah ka Mandala Vyuha bahut hi shaktishaali dikh raha tha. Kaurav sena west direction ki taraf aage badhne lagi.
+
+Yudhishthira Ne Banaya Vajra Vyuha
+
+Kaurav sena ka Mandala Vyuha dekhkar Yudhishthira ne bhi apni sena ko ek special formation mein sajaya.
+
+Unhone Vajra Vyuha banaya.
+
+Dono taraf ke yoddha apni-apni jagah par khade ho gaye. Sabhi zor-zor se garajne lage aur yudh ke liye taiyaar ho gaye.
+
+Ab dono senaon ke beech ek baar phir bhayankar yudh shuru hone wala tha.
+
+Dono Senaon Ke Yoddha Aamne-Saamne
+
+Ab har bade yoddha ko apna saamne wala dushman mil chuka tha.
+- Dronacharya ne Matsya desh ke raja par hamla kiya.
+- Ashwatthama ne Shikhandi ko apna nishana banaya.
+- Duryodhana khud Dhrishtadyumna se ladne aage badha.
+- Nakula aur Sahadeva Madra desh ke raja Shalya ke saamne aa gaye.
+- Vinda aur Anuvinda ne Iravan par hamla kiya.
+- Kai raja milkar Arjuna se yudh karne lage.
+- Bhima ne Kritavarma ka saamna kiya.
+- Abhimanyu ne Chitrasena, Vikarna aur Durmarshana se yudh shuru kiya.
+- Ghatotkacha ne Pragjyotish ke raja Bhagadatta ko lalkara.
+- Rakshasa Alambusha ne Satyaki par hamla kiya.
+- Bhurisrava ne Dhrishtaketu ka saamna kiya.
+- Yudhishthira ne Srutayush ke khilaaf yudh shuru kiya.
+- Chekitana ne Kripacharya par hamla kiya.
+Udhar Kaurav sena ke kai aur yoddha Bhima ko gherne lage.
+
+Hazaaron raja alag-alag hathiyaar lekar Arjuna ko chaaron taraf se gher chuke the.
+
+Arjuna Ne Shri Krishna Se Kahi Apni Baat
+
+Apne saamne itni badi Kaurav sena dekhkar Arjuna ko bahut gussa aaya.
+
+Unhone Shri Krishna se kaha:
+
+"He Madhava! Dekhiye, Bhishma Pitamah ne Kaurav sena ko kitne achhe tareeke se sajaya hai.
+
+Kitne saare bahadur yoddha mere saamne khade hain. Sabhi mujhse yudh karna chahte hain.
+
+Dekhiye, Trigarta desh ka raja bhi apne bhaiyon ke saath mere saamne khada hai.
+
+Krishna! Aaj main in sabhi ko yudh mein hara kar rahunga. Main aaj inhe aapke saamne hi samaapt kar dunga."
+
+Itna kehkar Arjuna ne apne Gandiva dhanush ki dor kheechi aur hazaaron teer dushmanon ki taraf chala diye.
+
+Arjuna Ka Divya Aindra Astra
+
+Kaurav yoddha bhi chup nahi baithe. Unhone Arjuna aur Shri Krishna ke rath par teeron ki baarish shuru kar di.
+
+Dekhne mein aisa lag raha tha jaise baarish ke mausam mein baadal kisi jheel par lagataar paani barsa rahe hon.
+
+Arjuna aur Shri Krishna ka rath teeron se poori tarah dhak gaya.
+
+Yeh nazara dekhkar Kaurav sena mein zor-zor se awaazein aane lagi.
+
+Aasman mein maujood Devta, Rishi, Gandharva aur Naag bhi yeh yudh dekh rahe the. Dono Krishnon (Arjuna aur Shri Krishna) ko teeron se ghira dekhkar sab hairaan reh gaye.
+
+Tabhi Arjuna ko bahut gussa aaya. Unhone Aindra Astra ka aahvaan kiya.
+
+Yeh Indra Dev ka divya astra tha.
+
+Arjuna ne is astra ki shakti se apne dushmanon ke hazaaron teeron ko beech mein hi rok diya.
+
+Ab Arjuna ke teer chaaron taraf barasne lage.
+
+Unhone hazaaron rajaon, ghudsawaron aur haathiyon ko apne teeron se ghayal kar diya. Kisi ko bhi unke teeron se bachna aasaan nahi tha.
+
+Kuch yoddhaon ko Arjuna ne sirf do ya teen teer maarkar hi ghayal kar diya.
+
+Bhishma Pitamah Ne Bachayi Kaurav Sena
+
+Arjuna ke bhayankar hamle se Kaurav sena ke yoddha ghabra gaye.
+
+Woh apni jaan bachane ke liye Bhishma Pitamah ki taraf bhaagne lage.
+
+Aisa lag raha tha jaise gehre samundar mein doobte hue log kisi sahare ki talaash kar rahe hon.
+
+Bhishma Pitamah ne apne yoddhaon ko musibat mein dekha toh woh unki madad ke liye aage aaye.
+
+Unhone Kaurav sena ko sambhala aur unhe suraksha di.
+
+Lekin Arjuna ke hamle se Kaurav sena ki vyavastha poori tarah hil chuki thi. Sena ke sainik idhar-udhar bhaagne lage the.
+
+Is tarah Arjuna ke divya Aindra Astra ne Kaurav sena ko buri tarah hila kar rakh diya.
+
+Yudh abhi jaari tha, aur Kurukshetra mein dono taraf ke mahaan yoddha apni poori shakti dikhane ke liye taiyaar the. """
             create_image_text_layout(
                 text_content=text2,
                 layout="full"
@@ -11826,7 +12036,16 @@ Is tarah Kurukshetra ke yudh ka ek aur din samaapt hua. Lekin dono taraf ke yodd
 
         # Section 6.3.71
         with st.expander("Section 6.3.71  Section LXXXIII"):
-            text1 = """ """
+            text1 = """ Section LXXXIII – Bhishma Aur Arjuna Ka Mahayudh, Satyaki Ka Alambusha Par Vijay
+Pichhle section mein humne dekha ki Arjuna ne apne divya Aindra Astra se Kaurav sena ko buri tarah hila diya tha. Kaurav yoddha apni jaan bachane ke liye Bhishma Pitamah ki taraf bhaagne lage the.
+
+Ab jab battlefield mein yudh apne charam par tha, tab Bhishma Pitamah khud Arjuna ka saamna karne ke liye aage badhe.
+
+Duryodhana Ne Apne Yoddhaon Ko Bhishma Ki Raksha Ka Aadesh Diya
+
+Arjuna ke bhayankar hamlon se Kaurav sena mein afra-tafri mach gayi thi. Yeh dekhkar Duryodhana ne apne sabhi rajaon aur yoddhaon ko bulaya.
+
+Usne kaha: """
             create_image_text_layout(
                 "attached_assets/chapter6/6.3.71.jpg",
                 text1,
@@ -11834,7 +12053,187 @@ Is tarah Kurukshetra ke yudh ka ek aur din samaapt hua. Lekin dono taraf ke yodd
                 image_position="left"
             )
 
-            text2 = """ """
+            text2 = """ "Veer yoddhaon! Dekho, Bhishma Pitamah apni jaan ki parwah kiye bina Arjuna se yudh karne ja rahe hain.
+
+Woh hamare Kuru vansh ke sabse mahaan yoddha hain. Aap sab apni poori shakti lagakar unki raksha karo.
+
+Apni-apni sena ke saath milkar Pitamah ko suraksha do, taaki woh bina kisi rukawat ke Pandav sena ka saamna kar sakein."
+
+Duryodhana ki baat sunkar sabhi rajaon ne haan mein jawab diya. Phir woh apni-apni sena lekar Bhishma Pitamah ke peeche chal pade.
+
+Bhishma Pitamah Aur Arjuna Aamne-Saamne
+
+Bhishma Pitamah apne bade aur shandaar rath par sawar hokar Arjuna ki taraf badhe.
+
+Unke saamne Arjuna bhi apne divya rath par Shri Krishna ke saath aa rahe the.
+
+Arjuna ke rath mein safed ghode lage hue the. Rath par Hanuman ji ka nishaan wala jhanda lehra raha tha. Rath ke pahiyon ki awaaz baadalon ki garaj jaisi thi.
+
+Jab Kaurav sena ne Arjuna ko aate dekha, toh dar ke maare zor-zor se awaazein nikalne lagi.
+
+Shri Krishna rath ki lagaam apne haathon mein liye hue the. Unka tej dopahar ke suraj jaisa chamak raha tha. Unhe dekhkar Kaurav yoddha apni nazrein bhi nahi utha paa rahe the.
+
+Doosri taraf Bhishma Pitamah bhi apne safed ghodon aur safed dhanush ke saath bahut shandaar lag rahe the.
+
+Unke aas-paas Trigarta desh ka raja, uske bhai, bete aur kai mahaan yoddha unki raksha kar rahe the.
+
+Ab dono taraf ke mahaan yoddha ek-doosre ke saamne khade the.
+
+Dronacharya Aur Raja Virata Ka Yudh
+
+Isi beech Dronacharya ne Matsya desh ke raja Virata par teeron se hamla kar diya.
+
+Dronacharya ne ek teer se Virata ka jhanda kaat diya aur doosre teer se unka dhanush tod diya.
+
+Lekin Virata ne haar nahi maani. Unhone turant ek doosra majboot dhanush uthaya aur zehrele saanp jaise khatarnak teer Dronacharya par chala diye.
+
+Virata ke teer Dronacharya, unke chaaron ghodon, unke saarathi aur unke rath ke jhande tak ja pahunche.
+
+Yeh dekhkar Dronacharya ko bahut gussa aaya.
+
+Unhone turant Virata ke chaaron ghodon ko maar diya. Phir ek teer se unke saarathi ko bhi gira diya.
+
+Apne ghodon aur saarathi ko khone ke baad Virata apne rath se neeche utar gaye.
+
+Woh turant apne bete Shankha ke rath par chadh gaye. Ab pita aur beta ek hi rath par khade hokar Dronacharya ka saamna karne lage.
+
+Dono ne milkar Dronacharya par teeron ki baarish shuru kar di.
+
+Lekin Dronacharya bhi koi aam yoddha nahi the.
+
+Unhone ek bahut hi khatarnak teer Shankha ke seene par chala diya. Teer uske seene ko paar karta hua nikal gaya.
+
+Shankha apne rath se neeche gir pada. Uske haathon se dhanush aur teer bhi chhoot gaye.
+
+Apne bete ko apni aankhon ke saamne girta dekhkar Raja Virata bahut dukhi aur dar gaye.
+
+Woh Dronacharya ka saamna chhodkar wahan se bhaag gaye.
+
+Dronacharya ne bina samay gawaye Pandav sena ke kai sainikon par hamla shuru kar diya.
+
+Shikhandi Aur Ashwatthama Ka Yudh
+
+Doosri taraf Shikhandi ne Dronacharya ke bete Ashwatthama par hamla kar diya.
+
+Shikhandi ne teen tez teer Ashwatthama ke maathe par maare.
+
+Ashwatthama ke maathe par teen teer lage hue the. Woh aise dikh raha tha jaise sone ki teen chotiyon wala Meru Parvat ho.
+
+Yeh dekhkar Ashwatthama bahut gusse mein aa gaya.
+
+Usne palak jhapakne jitne kam samay mein Shikhandi ke rath ke ghode, saarathi, jhanda, dhanush aur doosre hathiyaar teeron se tod diye.
+
+Shikhandi samajh gaya ki ab uska rath kisi kaam ka nahi raha.
+
+Woh rath se neeche kood gaya aur apni tez talwar aur dhal lekar Ashwatthama ki taraf badha.
+
+Shikhandi battlefield mein ek tez baaz ki tarah idhar-udhar ghoom raha tha.
+
+Ashwatthama us par teer chala raha tha, lekin Shikhandi apni talwar se un teeron ko kaat raha tha.
+
+Yeh dekhkar sabhi yoddha hairaan reh gaye.
+
+Lekin Ashwatthama ne bhi apni shakti dikhayi. Usne apne teeron se Shikhandi ki sundar dhal aur talwar dono ko tukdon mein kaat diya.
+
+Phir usne Shikhandi ke sharir par bhi kai teer chala diye.
+
+Shikhandi ke paas talwar ka sirf ek chhota sa tukda bacha tha.
+
+Usne gusse mein woh tukda Ashwatthama ki taraf zor se phenk diya.
+
+Lekin Ashwatthama ne apni tezi se us tukde ko bhi hawa mein hi kaat diya.
+
+Phir usne Shikhandi par lohe ke kai tez teer barsa diye.
+
+Shikhandi buri tarah ghayal ho gaya. Aakhir mein woh Satyaki ke rath par chadh gaya.
+
+Satyaki Aur Rakshasa Alambusha Ka Yudh
+
+Shikhandi ko apne rath par jagah dene ke baad Satyaki ne Rakshasa Alambusha ko apna nishana banaya.
+
+Satyaki ne bahut gusse mein Alambusha par chaaron taraf se teeron ki baarish kar di.
+
+Lekin Alambusha bhi ek shaktishaali Rakshasa tha.
+
+Usne ek ardhchandra aakar ke teer se Satyaki ka dhanush kaat diya. Phir usne Satyaki par kai teer chala diye.
+
+Iske baad Alambusha ne apni Rakshasa shakti se ek maya rach di.
+
+Us maya ke kaaran Satyaki ko har taraf se teeron ki baarish hoti hui dikhne lagi.
+
+Lekin Satyaki bilkul nahi dara.
+
+Usne Arjuna se seekhi hui yudh kala ka istemaal kiya aur Aindra Astra ka aahvaan kiya.
+
+Yeh wahi divya astra tha jo Arjuna ne use sikhaya tha.
+
+Aindra Astra ki shakti se Alambusha ki saari maya jal kar khatam ho gayi.
+
+Ab Satyaki ke teer Alambusha par lagataar barsne lage. Aisa lag raha tha jaise baarish ke mausam mein baadal kisi pahaad par paani barsa rahe hon.
+
+Alambusha Satyaki ke hamle se buri tarah ghabra gaya.
+
+Aakhir mein woh apni jaan bachane ke liye battlefield se bhaag gaya.
+
+Satyaki ne Rakshasa Alambusha ko hara diya tha. Usne zor se garjana ki aur phir Kaurav sena par teeron ki baarish shuru kar di.
+
+Satyaki ke hamle se Kaurav sainik bhi dar kar bhaagne lage.
+
+Dhrishtadyumna Aur Duryodhana Ka Yudh
+
+Isi beech Pandav sena ke commander Dhrishtadyumna ne Duryodhana par hamla kar diya.
+
+Dhrishtadyumna ne Duryodhana ko lagataar teeron se gher liya.
+
+Lekin Duryodhana bilkul nahi dara.
+
+Usne pehle 60 aur phir 30 teer Dhrishtadyumna par chala diye.
+
+Dono ke beech bahut bhayankar yudh hone laga.
+
+Tabhi Dhrishtadyumna ne Duryodhana ka dhanush kaat diya. Uske baad usne Duryodhana ke chaaron ghodon ko bhi maar diya aur saat tez teer uske sharir par chala diye.
+
+Duryodhana ka rath ruk gaya.
+
+Woh apne rath se neeche kood pada aur talwar lekar Dhrishtadyumna ki taraf daudne laga.
+
+Tabhi Shakuni wahan pahunch gaya.
+
+Usne turant Duryodhana ko apne rath par bitha liya aur use surakshit jagah le gaya.
+
+Duryodhana ko haraane ke baad Dhrishtadyumna ne Kaurav sena par bhayankar hamla shuru kar diya.
+
+Woh apne teeron se Kaurav sainikon ko aise hara raha tha jaise Indra Dev Asuron ko hara rahe hon.
+
+Bhima Aur Kritavarma Ka Bhayankar Yudh
+
+Doosri taraf Kritavarma ne Bhima ko apne teeron se poori tarah gher liya.
+
+Kritavarma ke teeron se Bhima ka rath bhi dhak gaya. Aisa lag raha tha jaise ghane baadal suraj ko chhupa lete hain.
+
+Lekin Bhima bilkul nahi ghabraya.
+
+Woh gusse mein muskuraaya aur Kritavarma par kai teer chala diye.
+
+Kritavarma bhi ek mahaan yoddha tha. Usne Bhima ke teeron ka jawab aur bhi tez teeron se diya.
+
+Dono ke beech zabardast yudh hone laga.
+
+Tab Bhima ne Kritavarma ke chaaron ghodon ko maar diya. Uske baad usne Kritavarma ke saarathi ko gira diya aur uske rath ka sundar jhanda bhi kaat diya.
+
+Phir Bhima ne Kritavarma ke sharir par kai tarah ke teer chala diye.
+
+Kritavarma buri tarah ghayal ho gaya. Uske sharir par har taraf teeron ke nishaan the.
+
+Aakhir mein Kritavarma apna rath chhodkar Vrishaka ke rath par chadh gaya.
+
+Bhima ka gussa abhi bhi shaant nahi hua tha.
+
+Woh apni gada aur teeron se Kaurav sena par lagataar hamla karne laga.
+
+Uska roop dekhkar aisa lag raha tha jaise khud Yamraj apni gada lekar dushmanon ka ant karne aaye hon.
+
+Kurukshetra ka yudh ab aur bhi bhayankar hota ja raha tha. Ek taraf Bhishma Pitamah Arjuna ki taraf badh rahe the, toh doosri taraf Bhima, Satyaki aur Dhrishtadyumna Kaurav sena ko lagataar chunauti de rahe the. """
             create_image_text_layout(
                 text_content=text2,
                 layout="full"
@@ -11843,7 +12242,12 @@ Is tarah Kurukshetra ke yudh ka ek aur din samaapt hua. Lekin dono taraf ke yodd
 
         # Section 6.3.72
         with st.expander("Section 6.3.72  Section LXXXIV"):
-            text1 = """ """
+            text1 = """ Section LXXXIV – Mahabharata: Ghatotkacha vs Bhagadatta Aur Nakula-Sahadeva Ka Shalya Se Yudh
+Is section mein Kurukshetra ke yudh ka bhayanak drishya dekhne ko milta hai. Dhritarashtra, Sanjaya se poochte hain ki unki sena baar-baar haar kyun rahi hai, jabki unke yoddha bhi poori taakat se lad rahe hain.
+
+Sanjaya samjhate hain ki Kaurava yoddha apni poori veerta dikha rahe hain, lekin Pandavon ke saamne unka shaurya kam pad jaata hai. Woh Dhritarashtra ko yaad dilate hain ki yeh vinash unke aur unke beton ke galat faislon ka parinaam hai.
+
+Ab yudh mein kai bade-bade muqable hone wale the. """
             create_image_text_layout(
                 "attached_assets/chapter6/6.3.72.jpg",
                 text1,
@@ -11851,7 +12255,76 @@ Is tarah Kurukshetra ke yudh ka ek aur din samaapt hua. Lekin dono taraf ke yodd
                 image_position="left"
             )
 
-            text2 = """ """
+            text2 = """ 1. Iravan vs Vinda aur Anuvinda
+Avanti ke dono rajkumar Vinda aur Anuvinda ne Arjun ke putra Iravan ko yudh ke liye chunauti di.
+
+Teeno yoddha ek-doosre par teeron ki baarish karne lage. Iravan ne apne shaurya se Anuvinda ke chaaron ghode maar diye aur uska dhanush aur dhwaj bhi kaat diya.
+
+Anuvinda apna rath chhodkar bhai Vinda ke rath par chadh gaya. Dono bhai ek hi rath se Iravan par teer barsane lage.
+
+Lekin Iravan ne unke saarathi ko maar diya. Saarathi ke girte hi ghode rath lekar bhaag gaye.
+
+Iravan ne dono bhaiyon ko hara diya aur Kaurava sena par toot pada. Uske saamne Kaurava sena mein bhay aur afra-tafri mach gayi.
+2. Ghatotkacha vs Bhagadatta
+Iske baad Bhima ka putra Ghatotkacha apne divya rath par savaar hokar Bhagadatta ke saamne aa gaya.
+
+Bhagadatta Pragjyotish desh ka raja tha aur apne vishal hathi par savaar hokar yudh kar raha tha.
+
+Dono maha-yoddha ek-doosre par bhayankar hamle karne lage.
+
+Ghatotkacha ne apne teeron se Bhagadatta ko dhak diya, lekin Bhagadatta ne bhi zabardast jawaab diya. Usne Ghatotkacha ke sharir ke kai mahatvapurn hisson par teer maare.
+
+Ghatotkacha zara bhi nahi ghabraya. Woh pahaad ki tarah apni jagah khada raha.
+
+Bhagadatta ne us par 14 bhaley phenke, lekin Ghatotkacha ne apne teeron se sabhi bhalon ko beech mein hi kaat diya.
+
+Phir Ghatotkacha ne 70 shaktishaali teer Bhagadatta par chala diye.
+
+Lekin Bhagadatta ne Ghatotkacha ke chaaron ghode maar giraaye. Ghatotkacha ne apna sunehre dande wala divya bhala Bhagadatta ke hathi par phenka, lekin Bhagadatta ne use teen tukdon mein kaat diya.
+
+Apna bhala nasht hota dekh Ghatotkacha yudh se peeche hat gaya.
+
+Bhagadatta ne is muqable mein Ghatotkacha ko hara diya aur apne vishal hathi ke saath Pandav sena ko kuchalne laga.
+
+Uska hathi itna bhayankar tha ki Pandav sainikon ko aisa lag raha tha jaise koi jangli hathi kamal ke paudhon ko kuchalta hua aage badh raha ho.
+3. Nakula aur Sahadeva vs Mama Shalya
+Ab yudh ka ek bahut hi dilchasp muqabla shuru hua.
+
+Madra desh ke raja Shalya ka saamna unke apne bhanjon Nakula aur Sahadeva se hua.
+
+Shalya un dono ka mama tha, kyunki woh unki maa Madri ka bhai tha.
+
+Shalya ne dono bhaiyon par teeron ki baarish kar di. Sahadeva ne bhi apne mama par teeron se hamla kiya.
+
+Yeh dekhkar Shalya bahut prasann hua, kyunki uske bhanje bhi mahaan yoddha ban chuke the.
+
+Lekin yudh mein koi rishta nahi dekha ja raha tha.
+
+Shalya ne apne chaar teeron se Nakula ke chaaron ghode maar giraaye.
+
+Nakula apna rath chhodkar Sahadeva ke rath par aa gaya. Ab dono bhai ek hi rath par savaar hokar Shalya se ladne lage.
+
+Dono ne milkar Shalya par anek teer barsaye, lekin Shalya pahaad ki tarah atal khada raha.
+
+Phir Sahadeva ne ek bahut shaktishaali teer uthaya aur poori taakat se Shalya par chala diya.
+
+Woh teer Garuda ki gati se gaya aur Shalya ke sharir ko bhedta hua nikal gaya.
+
+Shalya buri tarah ghaayal ho gaya aur apne rath par hi behosh hokar gir pada.
+
+Uska saarathi use yudh ke maidan se door le gaya.
+
+Shalya ka rath peeche hatte dekh Kaurava sena ko laga ki shayad Shalya ki mrityu ho gayi hai. Poori Kaurava sena mein niraasha chha gayi.
+
+Dusri taraf Nakula aur Sahadeva ne apne mama ko yudh mein hara diya tha.
+
+Dono bhaiyon ne khushi se apne shankh bajaye aur sher ki tarah dahaadte hue Kaurava sena ki taraf badh gaye.
+Is Section Mein Kya Seekhne Ko Mila?
+- Iravan ka shaurya: Akela hote hue bhi usne Avanti ke dono rajkumaron ko hara diya.
+- Ghatotkacha ki veerta: Bhagadatta ke saamne usne zabardast yudh kiya aur peeche hatne se pehle apni poori shakti dikhayi.
+- Nakula-Sahadeva ka yudh: Dono bhaiyon ne apne hi mama Shalya ko hara diya.
+- Dhritarashtra ke liye Sanjaya ka sandesh: Apne galat faislon ke parinaam ke liye doosron ko dosh dena uchit nahi hai.
+Agla Section LXXXV: Kurukshetra ka yudh aur bhi bhayankar hone wala hai, jahan naye yoddha apni shakti aur veerta ka pradarshan karenge. """
             create_image_text_layout(
                 text_content=text2,
                 layout="full"
@@ -11860,7 +12333,18 @@ Is tarah Kurukshetra ke yudh ka ek aur din samaapt hua. Lekin dono taraf ke yodd
 
         # Section 6.3.73
         with st.expander("Section 6.3.73  Section LXXXV"):
-            text1 = """ """
+            text1 = """ Section LXXXV – Mahabharata: Yudhishthira Ka Krodh, Chekitana-Kripa Ka Yudh Aur Arjuna Ka Bhishma Ki Taraf Badhna
+Pichhle section mein humne dekha ki Nakula aur Sahadeva ne apne mama Shalya ko yudh mein hara diya tha.
+
+Ab dopahar ka samay ho chuka tha. Kurukshetra ke maidan mein dono taraf se bhayankar yudh jaari tha. Is section mein Yudhishthira, Chekitana, Abhimanyu aur Arjuna apni veerta dikhane wale the.
+1. Yudhishthira vs Shrutayush
+Jab suraj bilkul sir ke upar pahunch gaya, tab Yudhishthira ki nazar Raja Shrutayush par padi.
+
+Yudhishthira ne apne saarathi ko rath aage badhane ka sanket diya aur Shrutayush par nau teer chala diye.
+
+Shrutayush ne bhi turant jawaab diya aur saat teer Yudhishthira ke sharir par maare. Teer unke kavach ko bhedte hue andar tak chale gaye.
+
+Ghaayal hone ke baad bhi Yudhishthira ne haar nahi maani. Unhone ek teer se Shrutayush ke seene par vaar kiya aur doosre teer se uske rath ka dhwaj kaat diya. """
             create_image_text_layout(
                 "attached_assets/chapter6/6.3.73.jpg",
                 text1,
@@ -11868,7 +12352,106 @@ Is tarah Kurukshetra ke yudh ka ek aur din samaapt hua. Lekin dono taraf ke yodd
                 image_position="left"
             )
 
-            text2 = """ """
+            text2 = """ Apna dhwaj girta dekh Shrutayush ne phir saat teer Yudhishthira par chala diye.
+
+Yudhishthira ko bahut krodh aa gaya. Unka chehra itna bhayankar ho gaya ki devta, Gandharva aur Rakshas tak ghabra gaye. Sabko laga ki agar Yudhishthira ka gussa nahi ruka, toh woh poore sansaar ko nasht kar sakte hain.
+
+Rishiyon aur devtaon ne sansaar ki shanti ke liye prarthana ki.
+
+Lekin Yudhishthira ne apne gusse par kabu rakha. Unhone Shrutayush ka dhanush kaat diya aur ek lamba teer seedha uske seene mein maar diya.
+
+Iske baad Yudhishthira ne Shrutayush ke chaaron ghode aur uske saarathi ko bhi maar giraaya.
+
+Apne rath ko nasht hota dekh Shrutayush yudh ka maidan chhodkar bhaag gaya.
+
+Yudhishthira ki is jeet se Kaurava sena mein dar phail gaya. Unke kai sainik peeche hatne lage.
+2. Chekitana vs Kripacharya
+Ab Vrishni vansh ke veer Chekitana ka saamna Kripacharya se hua.
+
+Chekitana ne Kripacharya par teeron ki baarish kar di. Lekin Kripacharya ne uske teeron ko rok diya aur palatkar Chekitana par kai teer chala diye.
+
+Kripacharya ne ek teer se Chekitana ka dhanush kaat diya aur doosre teer se uske saarathi ko maar diya. Phir unhone Chekitana ke chaaron ghode aur uske rath ki raksha karne wale yoddhaon ko bhi maar giraaya.
+
+Chekitana ka rath bekaar ho gaya.
+
+Lekin Chekitana ne haar nahi maani. Woh rath se neeche utara aur apni gada utha li.
+
+Usne Kripacharya ke ghodon ko maar diya aur unke saarathi ko bhi gira diya.
+
+Ab Kripacharya zameen par khade the. Unhone Chekitana par 16 teer chalaaye, jo uske sharir ko bhedte hue zameen mein ja lage.
+
+Gusse mein Chekitana ne apni bhaari gada Kripacharya ki taraf phenki.
+
+Lekin Kripacharya ne hazaaron teeron se us gada ko hawa mein hi rok diya.
+
+Ab dono yoddhaon ne apne dhanush chhod diye aur talwarein nikaal li.
+
+Dono ek-doosre par talwaron se vaar karne lage. Kuch der baad dono buri tarah thak gaye aur ek-doosre ke vaar se zameen par girkar behosh ho gaye.
+
+Chekitana ka dost Karakarsha turant wahan pahunchा aur use apne rath par le gaya.
+
+Dusri taraf Shakuni ne Kripacharya ko apne rath par bitha kar yudh ke maidan se hata diya.
+3. Dhrishtaketu vs Bhurishrava
+Iske baad Raja Dhrishtaketu ne Somadatta ke putra Bhurishrava par 90 teer chala diye.
+
+Teer Bhurishrava ke seene mein lage aur woh chamakte hue suraj ki tarah dikhne laga.
+
+Lekin Bhurishrava ne bhi palatkar zabardast hamla kiya.
+
+Usne Dhrishtaketu ke ghode aur saarathi ko maar diya aur uska rath nasht kar diya.
+
+Dhrishtaketu ab bina rath ke reh gaya. Usne turant apna rath chhodkar Satanika ke rath par jagah le li.
+4. Abhimanyu vs Chitrasena, Vikarna Aur Durmarshana
+Ab Kaurava paksh ke teen mahaan yoddha—Chitrasena, Vikarna aur Durmarshana—Subhadra ke putra Abhimanyu ki taraf badhe.
+
+Teeno yoddha sone ke kavach pehne hue the aur Abhimanyu ko chaaron taraf se gher liya.
+
+Ek taraf teen bade yoddha the aur doosri taraf akela Abhimanyu.
+
+Lekin Abhimanyu bilkul nahi ghabraya.
+
+Usne teeno yoddhaon ke rathon ko nasht kar diya. Woh chahta toh Dhritarashtra ke beton ko maar sakta tha, lekin usne aisa nahi kiya.
+
+Use apne mama Bhima ki pratigya yaad thi. Bhima ne Dhritarashtra ke beton ko maarne ki kasam khai thi.
+
+Abhimanyu nahi chahta tha ki woh apne mama ki pratigya ko khud poora karke unka vachan tod de.
+5. Arjuna Ne Abhimanyu Ki Madad Ke Liye Rath Modha
+Jab Arjuna ne dekha ki Bhishma Abhimanyu ki taraf badh rahe hain, toh unhe chinta hui.
+
+Abhimanyu abhi yuva tha aur akela kai bade-bade yoddhaon ka saamna kar raha tha.
+
+Arjuna ne turant Shri Krishna se kaha:
+
+"Hey Hrishikesh! Apne safed ghodon ko us jagah le chalo jahan bahut saare Kaurava yoddha ikattha hain. Woh sab bahut shaktishaali aur yudh mein nipun hain. Humein apni sena ki raksha karni hai. Dushman hamare sainikon ko nuksaan na pahucha sake."
+
+Shri Krishna ne Arjuna ki baat maani aur safed ghodon wale rath ko tezi se yudh ke maidan ki taraf le chale.
+
+Arjuna ko apni taraf aata dekh Kaurava sena mein zor ka shor mach gaya. Sab samajh gaye ki ab ek aur bhayankar yudh hone wala hai.
+6. Arjuna vs Susharma Aur Kaurava Sena
+Arjuna Bhishma ki raksha kar rahe rajaon ke paas pahunche.
+
+Wahan unhone Susharma ko dekha, jo pehle se hi Pandavon ka dushman tha.
+
+Arjuna ne usse kaha:
+
+"Susharma! Main tumhari veerta aur hamare saath tumhari purani dushmani ko jaanta hoon. Aaj tumhe apne bure karmon ka parinaam milega. Main tumhe tumhare purvajon ke paas bhej dunga."
+
+Susharma ne Arjuna ki baaton ka koi jawaab nahi diya.
+
+Woh kai rajaon ke saath Arjuna ko chaaron taraf se gherne laga.
+
+Kaurava sena ke sainikon ne bhi Arjuna par saamne, peeche aur dono taraf se teeron ki baarish shuru kar di.
+
+Arjuna aur Kaurava sena ke beech ek bhayankar yudh shuru ho gaya.
+
+Dono taraf se itne teer chal rahe the ki poora aasman dhak gaya. Yudh mein itna khoon baha ki maidan mein khoon ki nadiyan behne lagi.
+
+Is tarah Section LXXXV ka ant ek bhayankar yudh ke saath hota hai.
+Is Section Mein Kya Seekhne Ko Mila?
+- Yudhishthira ka sanyam: Bahut gussa aane ke baad bhi unhone apne krodh par control rakha.
+- Chekitana ki himmat: Rath aur dhanush nasht hone ke baad bhi usne Kripacharya ka saamna kiya.
+- Abhimanyu ka samman: Woh Dhritarashtra ke beton ko hara sakta tha, lekin Bhima ki pratigya ka maan rakhne ke liye unhe nahi maara.
+- Arjuna ka kartavya: Apne bete Abhimanyu ko sankat mein dekhkar woh turant uski madad ke liye aage badhe. """
             create_image_text_layout(
                 text_content=text2,
                 layout="full"
@@ -11877,7 +12460,11 @@ Is tarah Kurukshetra ke yudh ka ek aur din samaapt hua. Lekin dono taraf ke yodd
 
         # Section 6.3.74
         with st.expander("Section 6.3.74  Section LXXXVI"):
-            text1 = """ """
+            text1 = """ Section LXXXVI – Mahabharata: Arjuna Ka Kaurava Sena Par Prachand Hamla, Yudhishthira Ki Shikhandi Ko Phatkaar Aur Bhima Ka Gada Yudh
+Pichhle section mein humne dekha ki Arjuna, Abhimanyu ki madad karne ke baad Bhishma ki taraf badhe the. Susharma aur kai Kaurava yoddhaon ne unhe rokne ki koshish ki thi.
+
+Ab is section mein Arjuna apne Gandiva dhanush se Kaurava sena mein tabahi machayenge. Dusri taraf Yudhishthira, Shikhandi ko Bhishma se yudh karne ke liye prerit karenge aur Bhima apni gada se Kaurava yoddhaon ko dara denge.
+1. Arjuna Ka Kaurava Yoddhaon Par Bhayankar Hamla """
             create_image_text_layout(
                 "attached_assets/chapter6/6.3.74.jpg",
                 text1,
@@ -11885,7 +12472,155 @@ Is tarah Kurukshetra ke yudh ka ek aur din samaapt hua. Lekin dono taraf ke yodd
                 image_position="left"
             )
 
-            text2 = """ """
+            text2 = """ Kaurava yoddha lagataar Arjuna par teer barsa rahe the. Lekin Arjuna ne gusse mein apna Gandiva dhanush uthaya aur ek ke baad ek teer chalaane shuru kar diye.
+
+Unhone pal bhar mein kai bade-bade rajaon ke dhanush kaat diye.
+
+Iske baad Arjuna ne un sabhi yoddhaon ko ek saath apne teeron ka nishana banaya.
+
+Kisi ka sharir teeron se ghaayal ho gaya, kisi ke haath-pair buri tarah kat gaye aur kai yoddha zameen par girkar mar gaye.
+
+Arjuna ke teeron se Kaurava sena mein bhayankar tabahi mach gayi.
+
+Yeh dekh Trigarta ka raja apne mitron ki madad ke liye aage aaya. Uske saath 32 anya rath-yoddha bhi the, jo pehle maare gaye sainikon ki raksha kar rahe the.
+
+Un sabne Arjuna ko chaaron taraf se gher liya aur pahaad par baraste baadalon ki tarah teeron ki baarish kar di.
+
+Lekin Arjuna ne haar nahi maani.
+
+Unhone apne 60 teeron se un 32 rath-yoddhaon aur unke saath aaye rakshak yoddhaon ko maar giraaya.
+
+Arjuna ne un rajaon ki sena ko bhi hara diya aur phir Bhishma ki taraf badhne lage.
+2. Shikhandi Aur Pandav Yoddha Arjuna Ki Raksha Ke Liye Aaye
+Trigarta ka raja apne saathiyon ko marte dekh gusse se bhar gaya. Woh kai anya rajaon ko lekar dobara Arjuna par hamla karne aaya.
+
+Jab Shikhandi aur doosre Pandav yoddhaon ne dekha ki itne saare Kaurava yoddha Arjuna ko gher rahe hain, toh woh unki madad ke liye aage badhe.
+
+Sabne apne hathiyaar taiyaar kar liye, taaki Arjuna ke rath ki raksha kar sakein.
+
+Arjuna ne bhi Gandiva se teeron ki baarish karke unke hamle ko rok diya.
+
+Is dauraan Duryodhana aur Sindhu desh ka raja Jayadratha bhi Bhishma ki raksha ke liye wahan maujood the.
+
+Arjuna ne kuch samay tak un sabhi yoddhaon se yudh kiya, lekin unka asli lakshya Bhishma tak pahunchna tha.
+
+Isliye Duryodhana, Jayadratha aur doosre yoddhaon ko paar karte hue Arjuna seedhe Bhishma ki taraf badhne lage.
+3. Yudhishthira, Bhima Aur Nakul-Sahadeva Bhi Bhishma Ki Taraf Badhne Lage
+Dusri taraf Yudhishthira ne bhi faisla kiya ki ab Bhishma ka saamna karna zaroori hai.
+
+Woh Madra desh ke raja Shalya ko chhodkar Bhima, Nakul aur Sahadeva ke saath Bhishma ki taraf badhe.
+
+Ab Bhishma ke saamne lagbhag sabhi bade Pandav yoddha ek saath pahunch rahe the.
+
+Ek taraf Arjuna the aur doosri taraf Yudhishthira, Bhima, Nakul, Sahadeva aur Shikhandi.
+
+Lekin itne saare yoddhaon ke ek saath hamla karne ke baad bhi Bhishma bilkul nahi ghabraye.
+
+Woh apne dhanush se lagataar teer chalaate rahe.
+4. Jayadratha Aur Duryodhana Ka Pandavon Par Hamla
+Jayadratha ne apne dhanush se Pandavon ke dhanush kaatne shuru kar diye.
+
+Dusri taraf Duryodhana ne bhi gusse mein Yudhishthira, Bhima, Nakul, Sahadeva aur Arjuna par teer chalaaye.
+
+Kripacharya, Shala aur Chitrasena ne bhi Pandavon ko apne teeron se ghaayal kar diya.
+
+Pandav yoddha teeron se buri tarah ghaayal ho gaye, lekin unka hausla kam nahi hua.
+
+Tabhi Yudhishthira ki nazar Shikhandi par padi.
+
+Bhishma ne Shikhandi ka hathiyaar kaat diya tha aur Shikhandi yudh se peeche hatne laga tha.
+
+Yeh dekh Yudhishthira ko bahut gussa aaya.
+5. Yudhishthira Ne Shikhandi Ko Uski Pratigya Yaad Dilayi
+Yudhishthira ne Shikhandi ko daantte hue kaha:
+
+"Shikhandi! Tumne mere saamne aur apne pita Drupada ke saamne pratigya ki thi ki tum apne teeron se Bhishma ko maar giraoge.
+
+Tumne kaha tha ki tum Bhishma jaise mahaan yoddha ko yudh mein haraoge.
+
+Lekin aaj tum apni pratigya poori nahi kar rahe ho.
+
+Kya tum apna vachan bhool gaye ho?
+
+Dekho, Bhishma apne teeron se hamari sena ko nasht kar rahe hain. Hamare sainik maidan chhodkar bhaag rahe hain.
+
+Tum unhe rokne ke bajay khud peeche hat rahe ho.
+
+Kya tum Bhishma se dar gaye ho?
+
+Tumhare peeche hatne se tumhari pratigya, tumhara vansh aur tumhari kirti sab par sawaal uth raha hai.
+
+Arjuna bhi yahin yudh kar raha hai. Phir tum Bhishma se kyun dar rahe ho?"
+
+Yudhishthira ki baatein kathor zaroor thi, lekin unka maksad Shikhandi ko uski zimmedari yaad dilana tha.
+
+Shikhandi ne Yudhishthira ki baat samajh li aur dobara Bhishma se yudh karne ke liye taiyaar ho gaya.
+6. Shikhandi vs Shalya – Varuna Astra Ka Prayog
+Jab Shikhandi Bhishma ki taraf badhne laga, tab Shalya ne uska raasta rok diya.
+
+Shalya ne Shikhandi par bahut shaktishaali aur aag ki tarah chamakne wale astron se hamla kiya.
+
+Lekin Shikhandi bilkul nahi ghabraya.
+
+Usne apne teeron se Shalya ke astron ko rok diya.
+
+Phir Shikhandi ne Varuna Astra ka prayog kiya.
+
+Varuna Astra ke saamne Shalya ke shaktishaali astron ka asar khatam ho gaya.
+
+Aasman mein maujood devta aur zameen par khade raja bhi yeh adbhut yudh dekh rahe the.
+
+Isi dauraan Bhishma ne Yudhishthira ka dhanush aur unke rath ka sundar dhwaj kaat diya.
+
+Yudhishthira ka rath ab mushkil mein tha.
+7. Bhima Ka Jayadratha Par Gada Se Hamla
+Apne bhai Yudhishthira ko sankat mein dekh Bhima bahut gusse mein aa gaye.
+
+Unhone apna dhanush aur teer chhod diya aur haath mein bhaari gada utha li.
+
+Phir woh paidal hi Jayadratha ki taraf daud pade.
+
+Jayadratha ne Bhima ko rokne ke liye 500 teer chala diye.
+
+Teer Bhima ke sharir par chaaron taraf se lage, lekin Bhima ruke nahi.
+
+Unhone Jayadratha ke rath ke Aratta desh mein paida hue sabhi ghodon ko apni shakti se maar giraaya.
+
+Ab Jayadratha ka rath bhi bekaar ho gaya.
+8. Bhima vs Chitrasena – Gada Ka Bhayankar Vaar
+Bhima ko paidal aur gada lekar aage badhte dekh Dhritarashtra ka putra Chitrasena apne rath par chadhkar unki taraf aaya.
+
+Uska iraada Bhima ko maarne ka tha.
+
+Lekin Bhima ne zor se dahaad lagayi aur gada lekar Chitrasena ki taraf daud pade.
+
+Bhima ki gada itni bhayankar thi ki use dekhkar aas-paas ke Kaurava sainik dar gaye.
+
+Unhe laga ki agar Bhima ne gada ghuma di, toh aas-paas ke sabhi yoddha kuchal diye jayenge.
+
+Isliye kai Kaurava sainik Chitrasena ko akela chhodkar bhaag gaye.
+
+Lekin Chitrasena ne himmat nahi haari.
+
+Bhima ki gada ko apni taraf aata dekh usne turant talwar aur dhaal uthayi aur apne rath se neeche kood gaya.
+
+Woh kisi pahaadi se neeche koodte sher ki tarah zameen par aa gaya.
+
+Isi beech Bhima ki bhaari gada seedha Chitrasena ke rath par giri.
+
+Gada ke ek hi vaar se poora rath, uske ghode aur saarathi nasht ho gaye.
+
+Gada zameen par aise giri jaise aasman se koi jalta hua ulka-pind tootkar dharti par gira ho.
+
+Yeh adbhut nazara dekh Kaurava sena ke sainik zor-zor se chillane lage aur Chitrasena ki himmat ki tareef karne lage, kyunki usne samay par rath chhodkar apni jaan bacha li thi.
+
+Is Section Mein Kya Seekhne Ko Mila?
+1. Arjuna ki yudh-kala: Ek saath kai bade-bade yoddhaon ka saamna karte hue bhi Arjuna apne lakshya se nahi hate.
+2. Yudhishthira ka netritva: Unhone Shikhandi ko uski pratigya aur zimmedari yaad dilayi.
+3. Shikhandi ka sankalp: Yudhishthira ki baat sunkar Shikhandi dobara Bhishma se ladne ke liye taiyaar hua.
+4. Bhima ki shakti: Bhima ki gada ka ek vaar poore rath ko nasht karne ke liye kaafi tha.
+5. Chitrasena ki samajhdari: Samay par rath chhodkar usne Bhima ki gada ke seedhe vaar se apni jaan bacha li.
+Section LXXXVI ka ant Bhima ke gada-vaar aur Chitrasena ke rath ke nasht hone ke saath hota hai. """
             create_image_text_layout(
                 text_content=text2,
                 layout="full"
@@ -11894,7 +12629,14 @@ Is tarah Kurukshetra ke yudh ka ek aur din samaapt hua. Lekin dono taraf ke yodd
 
         # Section 6.3.75
         with st.expander("Section 6.3.75  Section LXXXVII"):
-            text1 = """ """
+            text1 = """ Section LXXXVII – Mahabharata: Bhishma Ka Prachand Yudh, Shikhandi Ki Chunauti Aur Kurukshetra Ke Pehle Din Ka Ant
+Pichhle section mein humne dekha ki Bhima ne apni gada se Chitrasena ka poora rath nasht kar diya tha. Dusri taraf Arjuna Bhishma ki taraf badh rahe the aur Yudhishthira bhi apne bhaiyon ke saath yudh kar rahe the.
+
+Ab is section mein Bhishma apni poori shakti se Pandav sena par hamla karenge. Shikhandi unhe chunauti dega, Satyaki aur Dhrishtadyumna Kaurava sena ko pareshaan karenge aur aakhir mein suraj dhalne ke saath yudh ruk jayega.
+1. Vikarna Ne Chitrasena Ki Madad Ki
+Bhima ke gada-vaar se Chitrasena ka rath poori tarah nasht ho gaya tha.
+
+Tabhi uska bhai Vikarna wahan pahuncha aur Chitrasena ko apne rath par bitha liya. """
             create_image_text_layout(
                 "attached_assets/chapter6/6.3.75.jpg",
                 text1,
@@ -11902,7 +12644,165 @@ Is tarah Kurukshetra ke yudh ka ek aur din samaapt hua. Lekin dono taraf ke yodd
                 image_position="left"
             )
 
-            text2 = """ """
+            text2 = """ Is tarah Chitrasena ki jaan bach gayi.
+
+Dusri taraf yudh ab aur bhi bhayankar hota ja raha tha.
+2. Bhishma Ka Yudhishthira Par Bhayankar Hamla
+Bhishma ne dekha ki Yudhishthira apne bhaiyon ke saath unki taraf badh rahe hain.
+
+Woh turant Yudhishthira ki taraf badhe.
+
+Bhishma ko apni taraf aata dekh Pandav sena ke Srinjaya yoddha, unke rath, haathi aur ghode tak ghabra gaye.
+
+Sabko laga ki Yudhishthira ab Bhishma ke haathon nahi bach payenge.
+
+Lekin Yudhishthira ne darne ke bajay Bhishma ka saamna kiya.
+
+Unhone apne dhanush se hazaaron teer chalaaye. Teeron ki baarish itni tez thi ki aisa lag raha tha jaise baadal suraj ko dhak rahe hon.
+
+Lekin Bhishma bhi koi aam yoddha nahi the.
+
+Unhone Yudhishthira ke teeron ko ek-ek karke kaatna shuru kar diya.
+
+Phir Bhishma ne bhi hazaaron teer chalaaye. Unke teer itni tezi se aa rahe the ki palak jhapakne se pehle hi Yudhishthira ka poora sharir teeron se dhak gaya.
+3. Bhishma Ne Yudhishthira Ka Rath Nasht Kar Diya
+Yudhishthira ko gusse mein dekh Bhishma ne unki taraf ek lamba aur khatarnak teer chalaaya.
+
+Lekin Bhishma ne us teer ko apne ek teer se hawa mein hi kaat diya.
+
+Iske baad Bhishma ne Yudhishthira ke sone se saje hue ghodon ko maar giraaya.
+
+Yudhishthira ka rath ruk gaya.
+
+Unhone turant apna rath chhod diya aur apne bhai Nakul ke rath par chadh gaye.
+
+Bhishma ne ab Nakul aur Sahadeva ko bhi teeron se ghaayal karna shuru kar diya.
+
+Apne dono bhaiyon ko is tarah pareshaan dekh Yudhishthira ne socha ki Bhishma ko rokna bahut zaroori hai.
+
+Unhone apne saathi rajaon aur Pandav yoddhaon se kaha:
+
+"Sabhi ek saath milkar Bhishma par hamla karo. Humein kisi bhi tarah unhe rokna hoga!"
+4. Bhishma Ek Sher Ki Tarah Kaurava-Pandav Sena Ke Beech Ladne Lage
+Yudhishthira ki baat sunkar kai Pandav raja apne-apne rathon ke saath Bhishma ko chaaron taraf se gherne lage.
+
+Lekin Bhishma bilkul nahi ghabraye.
+
+Woh apne dhanush se lagataar teer chalaate hue ek ke baad ek bade-bade rath-yoddhaon ko giraane lage.
+
+Unka yudh dekhkar Pandav sena ko aisa lag raha tha jaise jungle mein ek jawaan sher hiranon ke jhund ke beech ghuskar shikaar kar raha ho.
+
+Bhishma ki dahaad aur teeron ki awaaz se bade-bade veer bhi darne lage.
+
+Unke teer yoddhaon ke sir kaatkar zameen par gira rahe the.
+
+Maidaan mein itne saare yoddha girne lage ki dono senaon ki vyavastha toot gayi.
+
+Ab koi apni pehle wali sena ki pankti mein nahi tha. Yoddha ek-doosre ko naam lekar pukaar rahe the aur jahan dushman milta, wahin yudh shuru kar dete.
+5. Shikhandi Ne Bhishma Ko Chunauti Di
+Isi beech Shikhandi ki nazar Bhishma par padi.
+
+Woh zor se chillaya:
+
+"Bhishma! Ruko, ruko! Aaj mera saamna karo!"
+
+Lekin Bhishma ne Shikhandi ko dekha aur uske saath yudh karne se inkaar kar diya.
+
+Bhishma Shikhandi ko uske pehle ke stri-roop ke kaaran ek stree maante the. Isliye woh us par hathiyaar nahi uthana chahte the.
+
+Shikhandi ko nazarandaaz karke Bhishma Srinjaya yoddhaon par hamla karne lage.
+
+Bhishma ko apni taraf aata dekh Srinjaya yoddha utsaah se bhar gaye. Unhone shankh bajaye aur zor-zor se yudh ke naare lagaye.
+
+Ab maidaan mein ek baar phir bhayankar sangharsh shuru ho gaya.
+
+Rath aur haathi ek-doosre mein ulajhne lage. Dono senaon ke yoddha poori taakat se lad rahe the.
+6. Satyaki Aur Dhrishtadyumna Ka Kaurava Sena Par Hamla
+Ab Panchal rajkumar Dhrishtadyumna aur mahaan yoddha Satyaki ne Kaurava sena par hamla shuru kar diya.
+
+Dono ne teeron aur bhalon ki zabardast baarish kar di.
+
+Unke hamle se Kaurava sena ke bahut saare sainik girne lage.
+
+Lekin Kaurava yoddha bhi peeche hatne ko taiyaar nahi the. Woh apni poori himmat se ladte rahe.
+
+Dhrishtadyumna ke hamle se Kaurava sena mein zor-zor se cheekhne ki awaazein aane lagi.
+
+Yeh sunkar Avanti desh ke do raja—Vinda aur Anuvinda—Dhrishtadyumna ko rokne ke liye aage aaye.
+
+Dono ne milkar Dhrishtadyumna ke ghodon ko maar diya aur us par teeron ki baarish kar di.
+
+Dhrishtadyumna ka rath bekaar ho gaya.
+
+Lekin usne bhi himmat nahi haari. Woh turant apne rath se koodkar Satyaki ke rath par chadh gaya.
+7. Yudhishthira Aur Duryodhana Apni-Apni Sena Ke Saath Aamne-Saamne
+Jab Yudhishthira ne dekha ki Vinda aur Anuvinda Dhrishtadyumna par hamla kar rahe hain, toh woh apni badi sena ke saath un dono ki taraf badhe.
+
+Dusri taraf Duryodhana bhi apne sainikon ke saath Vinda aur Anuvinda ki madad ke liye pahunch gaya.
+
+Ab ek taraf Yudhishthira aur Pandav sena thi, toh doosri taraf Duryodhana aur Kaurava sena.
+
+Isi dauraan Arjuna bhi doosre Kshatriya rajaon ke saath bhayankar yudh kar rahe the.
+
+Udhar Dronacharya ne Panchal sena par hamla kar diya.
+
+Drona ka teer chalane ka andaaz itna khatarnak tha ki Panchal sena unke saamne tik nahi paa rahi thi.
+
+Woh Panchal yoddhaon ko aise nasht kar rahe the jaise tez hawa ke saath lagi aag sukhe ghaas ko jala deti hai.
+
+Duryodhana ke baaki bhai bhi Bhishma ke aas-paas ikattha hokar Pandavon se lad rahe the.
+8. Suraj Dhalne Laga – Yudh Ka Ant Kareeb Tha
+Dheere-dheere suraj laal hone laga.
+
+Duryodhana ne apne sainikon ko zor se kaha:
+
+"Der mat karo! Apni poori taakat se yudh karo!"
+
+Dono senaon ke yoddha ab bhi lad rahe the.
+
+Lekin kuch hi der mein suraj pashchimi pahaad ke peeche chhip gaya aur poore Kurukshetra mein andhera hone laga.
+
+Yudh ke maidan ka nazara bahut bhayankar tha.
+
+Zameen par khoon ki nadiyan beh rahi thi. Chaaron taraf mare hue yoddhaon ke sharir pade the.
+
+Gidad aur doosre maansahari jeev maidan mein ghoom rahe the. Rakshas aur Pishach bhi wahan dikhai dene lage.
+
+Unki bhayankar awaazein sunkar lag raha tha jaise woh aane wali kisi buri ghatna ka sanket de rahe hon.
+9. Dono Senaein Apne Shivir Mein Laut Gayi
+Andhera badhne ke saath yudh rok diya gaya.
+- Arjuna ne Susharma aur uske saath aaye rajaon ko haraakar apne shivir ki taraf prasthaan kiya.
+- Yudhishthira apne bhaiyon aur sena ke saath apne shivir laut gaye.
+- Bhima ne Duryodhana ke saath aaye yoddhaon ko haraakar apne shivir ka rukh kiya.
+- Duryodhana apni sena ke saath Bhishma ko lekar apne shivir mein laut gaya.
+- Dronacharya, Ashwatthama, Kripacharya, Shalya aur Kritavarma bhi apne-apne yoddhaon ke saath laut gaye.
+- Satyaki aur Dhrishtadyumna bhi apni sena ko lekar shivir pahunch gaye.
+Is tarah andhera hone ke baad dono senaon ne yudh rok diya.
+10. Raat Mein Dono Senaon Ka Shivir – Ek Alag Hi Nazara
+Din bhar ek-doosre ko maarne wale Pandav aur Kaurav raat mein apne-apne shiviron mein laut gaye.
+
+Wahan dono senaon ne apne ghaayal yoddhaon ki dekhbhaal shuru ki.
+- Yoddhaon ke sharir se teer nikale gaye.
+- Ghaav saaf kiye gaye aur unhe alag-alag tarah ke jal se snaan karaya gaya.
+- Brahmanon ne unki suraksha aur swasthya ke liye pooja aur shanti ke anushthaan kiye.
+- Gayakon aur kaviyon ne veer yoddhaon ki prashansa mein geet gaaye.
+- Shivir mein sangeet aur manoranjan bhi hua.
+Kuch samay ke liye aisa lag raha tha jaise yudh ka koi naam-o-nishaan hi nahi hai aur poora mahaul swarg jaisa ban gaya hai.
+
+Din bhar yudh karne wale yoddha ab kuch der ke liye yudh ki baatein bhool gaye.
+
+Thake hue sainik, haathi aur ghode apne-apne sthaan par aaraam karne lage.
+
+Is tarah Section LXXXVII ka ant hota hai.
+
+Is Section Mein Kya Seekhne Ko Mila?
+1. Bhishma ki mahaanta: Ek saath kai Pandav yoddhaon ka saamna karne ke baad bhi Bhishma apni jagah se nahi hate.
+2. Yudhishthira ka sahas: Bhishma ke saamne rath nasht hone ke baad bhi Yudhishthira ne haar nahi maani.
+3. Shikhandi ka sankalp: Bhishma ne Shikhandi se yudh nahi kiya, lekin Shikhandi unhe chunauti dene se peeche nahi hata.
+4. Dhrishtadyumna aur Satyaki ki veerta: Dono ne milkar Kaurava sena ko bhaari nuksaan pahunchaya.
+5. Drona ki yudh-kala: Dronacharya ne Panchal sena ko buri tarah pareshaan kar diya.
+6. Yudh ka sach: Din mein dushman ek-doosre ko maarne ki koshish karte hain, lekin raat mein dono taraf ke ghaayal yoddhaon ki dekhbhaal hoti hai.
+Important: Yeh Kurukshetra yudh ke pehle din ka ant hai. Dono senaein ab agle din ke yudh ke liye taiyaari aur aaraam kar rahi hain. """
             create_image_text_layout(
                 text_content=text2,
                 layout="full"
@@ -11911,7 +12811,16 @@ Is tarah Kurukshetra ke yudh ka ek aur din samaapt hua. Lekin dono taraf ke yodd
 
         # Section 6.3.76
         with st.expander("Section 6.3.76  Section LXXXVIII"):
-            text1 = """ """
+            text1 = """ Section LXXXVIII – Mahabharata: Doosre Din Ke Yudh Ki Shuruaat, Kauravon Ka Samudra Vyuha Aur Pandavon Ka Shringataka Vyuha
+Pichhle section mein humne dekha ki pehle din ka yudh suraj dhalne ke baad ruk gaya tha. Dono senaon ke yoddha apne-apne shiviron mein laut gaye the aur raat bhar aaraam kiya tha.
+
+Ab subah hote hi dono senaein ek baar phir Kurukshetra ke maidan mein utarne ke liye taiyaar hain. Is section mein Kaurava sena ek vishaal Samudra Vyuha banayegi, jiske jawaab mein Pandav sena Shringataka Vyuha banayegi.
+1. Doosre Din Ke Yudh Ki Taiyaari
+Raat bhar aaraam karne ke baad Kaurava aur Pandava dono senaein dobara yudh ke liye maidan mein pahunch gayin.
+
+Jaise hi dono senaein aage badhne lagi, dhol, nagade, shankh aur yoddhaon ki dahaad se poora Kurukshetra goonj utha.
+
+Aisa lag raha tha jaise samudra mein bahut bade-bade toofaan aa rahe hon. """
             create_image_text_layout(
                 "attached_assets/chapter6/6.3.76.jpg",
                 text1,
@@ -11919,7 +12828,110 @@ Is tarah Kurukshetra ke yudh ka ek aur din samaapt hua. Lekin dono taraf ke yodd
                 image_position="left"
             )
 
-            text2 = """ """
+            text2 = """ Kaurava paksh ke bade-bade yoddha ek saath ikattha hue:
+- Duryodhana
+- Chitrasena
+- Vivinsati
+- Bhishma
+- Dronacharya
+In sabne milkar Pandav sena ke khilaaf ek bahut bada aur majboot yudh-vyuha taiyaar kiya.
+2. Kauravon Ka Vishaal Samudra Vyuha
+Kaurava sena ka vyuha samudra jaisa dikh raha tha. Ismein ghode aur haathi samudra ki lehron ki tarah nazar aa rahe the.
+
+Is vyuha ke sabse aage Bhishma the.
+
+Unke saath Malava, Dakshin Bharat aur Avanti desh ke yoddha the.
+
+Bhishma ke peeche Dronacharya apni sena ke saath khade the. Unke saath Pulinda, Parada aur Kshudraka-Malava deshon ke sainik the.
+
+Dronacharya ke paas Bhagadatta tha, jo Magadha, Kalinga aur anya yoddhaon ke saath yudh ke liye taiyaar tha.
+
+Bhagadatta ke peeche Kosala desh ka raja Brihadvala apni sena ke saath tha.
+
+Uske baad Trigarta ka raja Susharma apne Kamboja aur hazaaron Yavana yoddhaon ke saath khada tha.
+
+Susharma ke paas Dronacharya ka putra Ashwatthama tha, jo zor-zor se dahaad raha tha.
+
+Uske peeche Duryodhana apne sabhi bhaiyon aur poori sena ke saath tha.
+
+Sabse peeche Kripacharya apni sena ke saath maujood the.
+
+Kaurava sena ka yeh vyuha itna vishaal tha ki door se dekhne par ek bade samudra jaisa lag raha tha. Bade-bade dhwaj, safed chhatriyan, sone ke gehne aur chamakte hue dhanush poori sena ko bhavya bana rahe the.
+3. Yudhishthira Ne Dhrishtadyumna Ko Vyuha Banane Ka Aadesh Diya
+Kaurava sena ka itna bada vyuha dekhkar Yudhishthira ne apne senaapati Dhrishtadyumna ko bulaya.
+
+Unhone kaha:
+
+"Dhrishtadyumna! Dekho, Kauravon ne kitna bada aur majboot Samudra Vyuha banaya hai. Humein bhi bina der kiye aisa vyuha banana hoga jo unke vyuha ka saamna kar sake."
+
+Dhrishtadyumna ne Yudhishthira ka aadesh suna aur turant apni sena ko vyavasthit karna shuru kar diya.
+4. Pandavon Ka Shringataka Vyuha
+Dhrishtadyumna ne Pandav sena ke liye ek shaktishaali vyuha banaya, jiska naam tha Shringataka Vyuha.
+
+Is vyuha mein alag-alag dishaon mein bade-bade yoddhaon ko zimmedari di gayi. Vyuha mein yoddhaon ki sthiti kuch is tarah thi:
+- Dono taraf ke aage wale hisse: Bhima aur Satyaki apni badi sena ke saath tainaat the. Unke saath hazaaron rath, ghode aur paidal sainik the.
+- Unke paas: Arjuna apne safed ghodon wale rath par Shri Krishna ke saath khade the.
+- Vyuha ka beech wala hissa: Yudhishthira, Nakul aur Sahadeva apni sena ke saath maujood the.
+- Sabse peeche: Abhimanyu, Raja Virata, Draupadi ke putra aur Ghatotkacha ko tainaat kiya gaya tha.
+Is tarah Pandav sena ne apna Shringataka Vyuha poora kar liya.
+
+Ab dono senaein yudh ke liye taiyaar thi.
+5. Shankh, Nagade Aur Yudh Ki Chunauti
+Dono senaon ke yoddha ek-doosre ke saamne khade the.
+
+Dhol aur nagade bajne lage. Shankhon ki awaaz se poora maidan goonj utha.
+
+Yoddha zor-zor se dahaad rahe the aur apni baahon par thapki maar kar dushman ko chunauti de rahe the.
+
+Har yoddha apne saamne wale dushman ko dhyaan se dekh raha tha.
+
+Yudh shuru hone se pehle kai yoddha ek-doosre ko naam lekar lalkarne lage.
+
+Phir dono taraf se yudh shuru ho gaya.
+6. Kurukshetra Mein Hathiyaaron Ki Baarish
+Ab maidan mein har taraf teeron ki baarish hone lagi.
+
+Teer aise ud rahe the jaise zehrele saanp aasman se neeche gir rahe hon.
+
+Chamakte hue bhalon ki roshni baadalon mein bijli ki tarah dikh rahi thi.
+
+Sone se saji hui gadaein hawa mein ghoomti hui zameen par gir rahi thi.
+
+Talwarein aur dhaalein bhi maidan mein har taraf nazar aa rahi thi.
+
+Dono senaon ke yoddha ek-doosre par toot pade.
+
+Rath-yoddha apne rathon ke saath ek-doosre se takra rahe the. Kai baar dono taraf ke rathon ke pahiye aur unke jue aapas mein ulajh jaate the.
+
+Haathi bhi ek-doosre par hamla kar rahe the. Unke bade-bade daanton ke takraane se chingaariyan nikal rahi thi.
+
+Haathiyon ki peeth par baithe yoddha bhalon ke vaar se neeche gir rahe the.
+
+Paidal sainik bhi talwar, bhale aur apne haathon se ek-doosre ke saath lad rahe the.
+
+Kurukshetra ka maidan ek baar phir bhayankar yudh ka kendra ban gaya.
+7. Bhishma Ne Pandav Sena Par Hamla Kiya
+Yudh ke beech Bhishma apne rath par savaar hokar Pandav sena ki taraf badhe.
+
+Unke rath ke pahiyon ki awaaz aur dhanush ki tankaar se dushmanon ke dil mein dar paida ho raha tha.
+
+Bhishma ne Pandav sena par teeron ki baarish shuru kar di.
+
+Unka saamna karne ke liye Dhrishtadyumna ke netritva mein Pandavon ke bade-bade rath-yoddha aage badhe.
+
+Sabhi zor-zor se dahaad rahe the aur Bhishma ko rokne ke liye poori tarah taiyaar the.
+
+Ab dono taraf ke paidal sainik, rath-yoddha aur haathi ek-doosre ke saath ulajhkar ladne lage.
+
+Is tarah Section LXXXVIII ka ant doosre din ke bhayankar yudh ki shuruaat ke saath hota hai.
+
+Is Section Mein Kya Seekhne Ko Mila?
+1. Yudh ki taiyaari: Dono senaein har din apni rananeeti aur vyuha ke hisaab se yudh karti thi.
+2. Bhishma ka netritva: Kaurava sena ke sabse aage Bhishma ko rakha gaya tha.
+3. Dhrishtadyumna ki zimmedari: Pandav senaapati hone ke naate unhone Kauravon ke Samudra Vyuha ka jawaab Shringataka Vyuha se diya.
+4. Pandavon ki rananeeti: Bhima, Satyaki, Arjuna, Yudhishthira aur Abhimanyu ko alag-alag sthanon par tainaat kiya gaya.
+5. Yudh ka doosra din: Dono senaon ke beech ek baar phir bhayankar sangharsh shuru ho gaya.
+Ab doosre din ka yudh shuru ho chuka hai. Aage dekhna hoga ki Bhishma ke saamne Pandav sena kitni der tik paati hai. """
             create_image_text_layout(
                 text_content=text2,
                 layout="full"
@@ -11928,7 +12940,16 @@ Is tarah Kurukshetra ke yudh ka ek aur din samaapt hua. Lekin dono taraf ke yodd
 
         # Section 6.3.77
         with st.expander("Section 6.3.77  Section LXXXIX"):
-            text1 = """ """
+            text1 = """ Section LXXXIX – Bhima Ka Mahaparakram: Duryodhana Ke Saat Bhaiyon Ka Vadh Aur Bhishma Ki Chetavani
+Pichhle section mein humne dekha ki doosre din ka yudh shuru ho chuka tha. Kauravon ki taraf se Bhishma apni poori shakti ke saath Pandav sena par hamla kar rahe the.
+
+Ab is section mein Bhishma ka bhayankar yudh dekhne ko milega. Lekin Bhima bhi maidan mein utarkar aisa parakram dikhayenge ki Duryodhana ke saat bhai maare jayenge. Iske baad Duryodhana Bhishma ke paas jaakar apna dukh aur gussa zahir karega.
+1. Bhishma Ka Bhayankar Hamla
+Bhishma yudh mein itne krodhit the ki unke saamne aane wale Pandav yoddha unka saamna karne se bhi ghabra rahe the.
+
+Unka hamla aisa tha jaise tez garmi mein suraj apni jalti hui kirnein chaaron taraf phaila raha ho.
+
+Yudhishthira ke aadesh par Pandav sena ke sainik Bhishma ki taraf toot pade. """
             create_image_text_layout(
                 "attached_assets/chapter6/6.3.77.jpg",
                 text1,
@@ -11936,7 +12957,146 @@ Is tarah Kurukshetra ke yudh ka ek aur din samaapt hua. Lekin dono taraf ke yodd
                 image_position="left"
             )
 
-            text2 = """ """
+            text2 = """ Lekin Bhishma ne apne teekhe baanon se Srinjaya aur Panchala sena ke bade-bade dhanurdharon ko maarna shuru kar diya.
+
+Itna nuksaan hone ke baad bhi Panchala aur Somaka yoddha peeche nahi hate. Woh maut ka dar chhodkar Bhishma par hamla karte rahe.
+
+Lekin Bhishma ke saamne unki ek nahi chali.
+
+Bhishma ne apne baanon se kai yoddhaon ke haath aur sir kaat diye. Unhone rath-yoddhaon ke rath nasht kar diye aur ghudsawar sainikon ko bhi maar giraya.
+
+Bade-bade haathi apne mahavaton aur savaaron ke bina maidan mein girte chale gaye.
+
+Pandav sena mein Bhishma ko rokne ki himmat sirf ek yoddha mein dikh rahi thi — Bhimasena!
+2. Bhima Aur Bhishma Ka Saamna
+Bhima ne aage badhkar seedha Bhishma ka saamna kiya.
+
+Dono mahaan yoddhaon ke beech bhayankar yudh shuru ho gaya.
+
+Jab Bhima ne Bhishma ko takkar deni shuru ki, toh Kaurava sena mein zor ka shor mach gaya.
+
+Dusri taraf Pandav sena ke yoddha khushi se dahaadne lage, kyunki unhe laga ki Bhima Bhishma ko rok sakte hain.
+
+Duryodhana ne apne bhaiyon ke saath milkar Bhishma ki raksha karni shuru kar di.
+
+Lekin Bhima ka hamla rukne wala nahi tha.
+3. Bhima Ne Bhishma Ke Saarthi Ko Maar Diya
+Bhima ne apne baan se Bhishma ke saarathi ko maar giraya.
+
+Saarathi ke maare jaane ke baad Bhishma ke rath ke ghode niyantran se bahar ho gaye aur rath ko lekar yudh ke maidan se door bhaagne lage.
+
+Isi beech Bhima ne ek teekha, ghode ki naal jaisi nok wala baan uthaya aur Duryodhana ke bhai Sunabha par chala diya.
+
+Baan seedha Sunabha ke sir par laga aur uska sir dhad se alag hokar zameen par gir gaya.
+
+Sunabha ki maut dekhkar uske saat bhai gusse se bhar gaye.
+4. Duryodhana Ke Saat Bhai Bhima Par Toot Pade
+Sunabha ke maare jaane ke baad Duryodhana ke saat bhaiyon ne milkar Bhima par hamla kar diya.
+
+Unke naam the:
+1. Adityaketu
+2. Vahvasin
+3. Kundadhara
+4. Mahodara
+5. Aparajita
+6. Panditaka
+7. Visalaksha
+Ye sabhi yoddha sundar kavach pehne hue the aur apne shastron ke saath Bhima ko maarne ke iraade se aage badhe.
+
+Unhone ek saath Bhima par teeron ki baarish shuru kar di.
+- Mahodara ne Bhima par 9 shaktishaali baan chalaye.
+- Adityaketu ne 70 baan maare.
+- Vishnu ne 5 baan chalaye.
+- Kundadhara ne 90 baan maare.
+- Visalaksha ne 7 baan chalaye.
+- Aparajita ne bahut saare baanon se hamla kiya.
+- Panditaka ne bhi 3 baan Bhima ko maare.
+Itne saare yoddhaon ke ek saath hamla karne ke baad bhi Bhima bilkul nahi ghabraye.
+5. Bhima Ne Ek-ek Karke Saat Bhaiyon Ko Maar Giraya
+Bhima ne apna dhanush majbooti se pakda aur palatkar hamla kar diya.
+
+Sabse pehle unhone Aparajita par ek seedha baan chalaya.
+
+Baan lagte hi Aparajita ka sir katkar zameen par gir gaya.
+
+Iske baad Bhima ne ek bade aur teekhe baan se Kundadhara ko maar diya.
+
+Phir unhone Panditaka par baan chalaya. Baan Panditaka ko maarte hue zameen mein ja ghusa.
+
+Uske baad Bhima ne teen baan chalakar Visalaksha ka sir kaat diya.
+
+Ab Mahodara ki baari thi. Bhima ne ek lamba aur shaktishaali baan uski chhaati ke beechon-beech maara.
+
+Mahodara wahi zameen par girkar mar gaya.
+
+Phir Bhima ne Adityaketu ke rath par lagi chhatri ko kaat diya aur agle baan se uska sir bhi kaat diya.
+
+Aakhir mein Bhima ne ek seedha baan Vahvasin par chalaya, jisse woh bhi maara gaya. Is tarah Bhima ne yudh ke maidan mein Duryodhana ke saat bhaiyon ko maar giraya.
+
+Sunabha ko milakar is yudh mein Duryodhana ke aath bhai maare gaye.
+
+Baaki Kaurava yoddha Bhima ka yeh roop dekhkar dar gaye aur maidan se bhaagne lage.
+
+Unhe Bhima ki woh purani pratigya yaad aa gayi, jo unhone Kaurava sabha mein li thi — Dhritarashtra ke sabhi putron ko yudh mein maarne ki.
+6. Duryodhana Ka Gussa Aur Dukh
+Apne saat bhaiyon ko Bhima ke haathon maarta dekhkar Duryodhana bahut dukhi aur krodhit ho gaya.
+
+Usne apni sena ko aadesh diya:
+
+"Bhima saamne hai! Use kisi bhi tarah maar daalo!"
+
+Duryodhana ke bhaiyon ko ab Vidura ki purani baatein yaad aane lagi.
+
+Vidura ne pehle hi Duryodhana aur Dhritarashtra ko samjhaya tha ki Pandavon ke saath anyaay mat karo. Unhe unka adhikaar de do aur yudh se bacho.
+
+Lekin Duryodhana ke laalach aur Dhritarashtra ke putra-moh ke kaaran unhone Vidura ki baat nahi maani.
+
+Ab wahi baatein sach hoti dikh rahi thi.
+
+Sanjaya Dhritarashtra ko samjhate hue kehte hain ki Bhima jis tarah Kauravon ko maar raha hai, use dekhkar lagta hai jaise Bhima ka janm hi Dhritarashtra ke putron ke vinaash ke liye hua ho.
+7. Duryodhana Ne Bhishma Par Aarop Lagaya
+Apne bhaiyon ki maut se dukhi Duryodhana seedha Bhishma ke paas pahunch gaya.
+
+Wahan usne apna dukh aur gussa zahir karte hue kaha:
+
+"Pitamah! Bhima ne mere veer bhaiyon ko yudh mein maar diya hai.
+
+Hamari sena ke yoddha bahaduri se lad rahe hain, phir bhi hamari sena kamzor padti ja rahi hai.
+
+Aap toh aise vyavahaar kar rahe hain jaise yudh ko sirf ek darshak ki tarah dekh rahe hon.
+
+Aakhir maine kaisa raasta chun liya hai? Meri kismat itni kharab kyun hai?"
+
+Duryodhana ko lag raha tha ki Bhishma apni poori shakti se Pandavon ke khilaaf nahi lad rahe hain.
+8. Bhishma Ne Duryodhana Ko Kadvi Sachchai Samjhayi
+Duryodhana ki baatein sunkar Bhishma ki aankhon mein aansu aa gaye.
+
+Unhone Duryodhana ko jawab diya:
+
+"Beta, maine tumhe pehle bhi samjhaya tha. Dronacharya ne bhi samjhaya tha. Vidura aur tumhari maa Gandhari ne bhi tumhe sahi raasta dikhane ki koshish ki thi.
+
+Lekin tumne kisi ki baat nahi suni.
+
+Maine pehle hi keh diya tha ki na main aur na hi Dronacharya is yudh se zinda bachkar nikal paayenge.
+
+Aur ek baat yaad rakhna — Bhima jis yoddha par apni nazar daalega, woh use zaroor maarne ki koshish karega.
+
+Isliye apna dhairya banaye rakho aur yudh ke liye taiyaar raho.
+
+Pandavon ko toh devta bhi nahi hara sakte, chahe unke neta khud Indra hi kyun na hon.
+
+Ab tumhe apna mann mazboot karke Pandavon ke khilaaf yudh karna hoga. Agar yudh mein veergati mile, toh swarg tumhara lakshya hoga."
+
+Bhishma ne Duryodhana ko saaf bata diya ki Pandavon ki shakti ko kam samajhna uski sabse badi galti thi.
+
+Is Section Mein Kya Seekhne Ko Mila?
+1. Bhishma ka parakram: Unhone akele hi Pandav sena ke kai bade yoddhaon ko maar giraya.
+2. Bhima ka sahas: Bhishma ke saamne bhi Bhima bina dare yudh karte rahe.
+3. Bhima ki pratigya: Unhone Duryodhana ke saat bhaiyon ko maar diya. Sunabha ko milakar aath Kaurava bhai maare gaye.
+4. Vidura ki bhavishyavani: Vidura ki shaanti aur nyaay ki salah ko nazarandaaz karne ka parinaam ab saamne aa raha tha.
+5. Duryodhana ka ahankaar: Apni galti maanane ke bajay woh Bhishma par hi aarop laga raha tha.
+6. Bhishma ki sachchai: Bhishma jaante the ki Pandavon ko haraana bahut mushkil hai aur is yudh mein unki apni jaan bhi ja sakti hai.
+Ab Duryodhana ke saamne ek bada sawaal hai: kya woh ab bhi apni galti samjhega, ya apne ahankaar ke kaaran yudh ko aur vinaashkari banayega? """
             create_image_text_layout(
                 text_content=text2,
                 layout="full"
@@ -11945,7 +13105,156 @@ Is tarah Kurukshetra ke yudh ka ek aur din samaapt hua. Lekin dono taraf ke yodd
 
         # Section 6.3.78
         with st.expander("Section 6.3.78  Section XC"):
-            text1 = """ """
+            text1 = """ Section XC – Kurukshetra Ka Bhayankar Madhyahn Yudh: Bhishma Aur Drona Ka Tandav, Bhima Ka Haathiyon Par Hamla
+Pichhle section mein humne dekha ki Bhima ne Duryodhana ke saat bhaiyon ko maar giraya tha. Iske baad Duryodhana ne Bhishma se shikayat ki, lekin Bhishma ne use samjhaya ki Pandavon ko haraana aasaan nahi hai.
+
+Ab is section mein Dhritarashtra apne putron ki lagataar hoti maut par dukh jatate hain. Sanjaya unhe yaad dilate hain ki Vidura ne pehle hi is vinaash ki chetavani di thi. Phir woh doosre din ke yudh ka bhayankar haal batate hain.
+1. Dhritarashtra Ka Dukh: Mere Itne Saare Putron Ko Ek Bhima Maar Raha Hai!
+Dhritarashtra apne putron ki maut ki khabar sunkar bahut dukhi ho gaye.
+
+Unhone Sanjaya se poochha:
+
+"Sanjaya! Mere itne saare putron ko akele Bhima maar raha hai. Aise mein Bhishma, Dronacharya aur Kripacharya kya kar rahe hain?
+
+Har din mere putron ki sankhya kam hoti ja rahi hai. Woh kabhi jeet nahi rahe, balki baar-baar haar rahe hain. Hamari sena mein Bhishma, Drona, Kripa, Somadatta ke putra, Bhagadatta, Ashwatthama aur itne saare mahaan yoddha maujood hain. Phir bhi mere putra maare ja rahe hain.
+
+Mujhe lagta hai ki mere putron ki kismat hi kharab hai."
+
+Dhritarashtra ko ab apne putron ka vinaash saaf nazar aa raha tha.
+2. Dhritarashtra Ko Vidura Ki Salah Yaad Aayi
+Dhritarashtra ne khud maana ki Duryodhana ko pehle hi samjhaya gaya tha.
+
+Vidura, Bhishma aur Gandhari ne baar-baar Duryodhana ko galat raaste par jaane se roka tha.
+
+Vidura ne khaaskar jua khelne se rokne ki salah di thi.
+
+Lekin Duryodhana ne kisi ki baat nahi maani.
+
+Dhritarashtra bhi apne putra-moh ke kaaran sahi faisla nahi le paaye.
+
+Ab Bhima har din unke putron ko maar raha tha aur unhe apni purani galtiyon ka ehsaas ho raha tha.
+3. Sanjaya Ne Dhritarashtra Ko Kadvi Sachchai Batayi
+Sanjaya ne Dhritarashtra se kaha:
+
+"Maharaj! Vidura ne aapke bhale ke liye jo baatein kahi thi, aapne us waqt unhe nahi samjha.
+
+Unhone aapko kaha tha ki apne putron ko jua khelne se rokiye.
+
+Lekin aapne unki salah nahi maani.
+
+Yeh bilkul aisa tha jaise koi beemaar vyakti apni jaan bachane wali dawa saamne hone ke baad bhi use lene se mana kar de.
+
+Vidura, Drona aur Bhishma jaise samajhdaar logon ne aapko sahi raasta dikhaya tha. Lekin aapne unki baatein nazarandaaz kar di.
+
+Aaj Kauravon ka jo vinaash ho raha hai, uski jad wahi purani galtiyan hain."
+
+Iske baad Sanjaya ne doosre din ke yudh ka haal batana shuru kiya.
+4. Madhyahn Mein Yudh Aur Bhi Bhayankar Ho Gaya
+Dopahar hote-hote Kurukshetra ka yudh bahut hi bhayankar ho gaya.
+
+Yudhishthira ke aadesh par Pandav sena ke sabhi bade yoddha Bhishma ko gherne ke liye aage badhe.
+
+Pandavon ne apni sena ko teen bade dalon mein baant diya. Pehla dal – Bhishma par hamla:
+
+Dhrishtadyumna, Shikhandi aur Satyaki apni-apni sena ke saath Bhishma ki taraf badhe.
+
+Raja Virata, Raja Drupada aur Somaka yoddha bhi Bhishma ko gherne ke liye pahunch gaye.
+
+Kaikeya yoddha, Dhrishtaketu aur Kuntibhoja bhi apni sena ke saath Bhishma par toot pade.
+
+Doosra dal – Duryodhana ki sena par hamla:
+
+Arjuna, Draupadi ke putra aur Chekitana Duryodhana ke adheen lad rahe anya Kaurava rajaon par hamla karne lage.
+
+Teesra dal – Baaki Kaurava sena par hamla:
+
+Abhimanyu, Ghatotkacha aur Bhima ne baaki Kaurava sena par dhaava bol diya.
+
+Is tarah Pandav sena teen hisson mein bantkar Kauravon par hamla karne lagi.
+
+Dusri taraf Kaurava sena bhi poori taakat se jawaabi hamla kar rahi thi.
+5. Dronacharya Ka Somaka Aur Srinjaya Yoddhaon Par Hamla
+Dronacharya bhi yudh mein bahut krodhit the.
+
+Unhone Somaka aur Srinjaya yoddhaon par hamla kar diya.
+
+Dronacharya ke baanon se kai mahaan Kshatriya yoddha zameen par girne lage.
+
+Unke hamle se poore maidan mein cheekhne aur rone ki awaazein goonjne lagin.
+
+Kai sainik dard se tadap rahe the.
+
+Dronacharya apne dhanush se lagataar baan chala rahe the aur unke saamne aane wale yoddhaon ko maar gira rahe the.
+6. Bhima Ka Yudh: Kaurava Sena Mein Macha Vinaash
+Dusri taraf Bhima bhi kisi doosre Yamraj ki tarah Kaurava sena par toot pade.
+
+Unke hamle se Kaurava sena mein bhaari tabaahi mach gayi.
+
+Yudh itna bhayankar ho gaya ki maidan mein har taraf khoon hi khoon dikhne laga.
+
+Sanjaya is drishya ka varnan karte hue kehte hain ki yudh ke maidan mein khoon ki ek bhayankar nadi behne lagi thi.
+
+Us nadi ki lehron ki tarah khoon beh raha tha aur yoddhaon ke shareer usmein bikhre pade the.
+7. Bhima Ne Kauravon Ke Haathi-Dal Ko Nishaana Banaya
+Bhima ne ab Kaurava sena ke haathi-dal par hamla kar diya.
+
+Unhone apne teekhe baanon se kai haathiyon ko ghaayal kar diya aur kai ko maar giraya.
+
+Kuch haathi wahin gir pade.
+
+Kuch dard se tadapne lage aur kuch dar kar alag-alag dishaon mein bhaagne lage.
+
+Kai vishaal haathiyon ki soond kat gayi thi aur unke shareer par gehre ghaav ho gaye the.
+
+Unki cheekhein poore yudh-maidan mein goonj rahi thi.
+
+Bhima ke is hamle se Kaurava sena ka haathi-dal buri tarah bikhar gaya.
+8. Nakul Aur Sahadev Ka Ghudsawar Sena Par Hamla
+Jab Bhima haathi-dal ko nishaana bana rahe the, tab Nakul aur Sahadev ne Kaurava sena ke ghudsawar sainikon par hamla kar diya.
+
+Kaurava sena ke ghode bahut sundar tareeke se sajaye gaye the.
+
+Unke sir par sone ki maala aur gale aur chhaati par sone ke gehne lage hue the.
+
+Lekin Nakul aur Sahadev ke hamle se hazaaron ghode maare gaye.
+
+Kai ghode ghaayal hokar zameen par gir pade aur kai dard se karahne lage.
+
+Poora maidan mare hue ghodon se bhar gaya.
+9. Arjuna Ne Kaurava Rajaon Ka Vinaash Kiya
+Udhar Arjuna bhi apne Gandiva dhanush se Kaurava sena ke rajaon aur yoddhaon par hamla kar rahe the.
+
+Unke teekhe baanon se kai bade-bade raja maare gaye.
+
+Yudh ke maidan mein toote hue rath, kate hue dhwaj, bikhre hue hathiyaar, sone ke haar, mukut, baazu-band aur anya gehne pade hue the.
+
+Rathon ki chhatriyan, pankhe, ghodon ki lagaam aur anya saamaan bhi zameen par bikhra hua tha.
+
+Sanjaya kehte hain ki poora maidan aisa dikh raha tha jaise basant ritu mein zameen rang-birange phoolon se bhar jaati hai.
+
+Lekin yahan phoolon ki jagah toote hue hathiyaar aur yoddhaon ke gehne bikhre pade the.
+10. Dono Senaon Ka Bhaari Nuksaan
+Is yudh mein sirf Kaurava sena ka hi nuksaan nahi ho raha tha.
+
+Bhishma, Dronacharya, Ashwatthama, Kripacharya aur Kritavarma ke bhayankar hamlon se Pandav sena ke bhi bahut saare yoddha maare ja rahe the.
+
+Wahin doosri taraf Bhima, Arjuna aur anya Pandava yoddhaon ke hamlon se Kaurava sena ko bhi bhaari nuksaan ho raha tha.
+
+Dono taraf ke mahaan yoddha apni poori shakti se lad rahe the.
+
+Kurukshetra ka maidan yoddhaon, rathon, haathiyon aur ghodon ke vinaash se bhar gaya tha.
+
+Is tarah Section XC ka ant dono senaon ke bhaari nuksaan aur doosre din ke yudh ke bhayankar roop ke saath hota hai.
+
+Is Section Mein Kya Seekhne Ko Mila?
+1. Galat salah ko nazarandaaz karna: Vidura, Bhishma aur Gandhari ne Duryodhana ko pehle hi roka tha, lekin usne kisi ki baat nahi maani.
+2. Dhritarashtra ka pachtava: Ab unhe samajh aa raha tha ki unke putra-moh aur galat faislon ka kya parinaam hua.
+3. Pandavon ki rananeeti: Pandav sena ne teen dal banakar alag-alag dishaon se Kauravon par hamla kiya.
+4. Dronacharya ka parakram: Unhone Somaka aur Srinjaya yoddhaon ko bhaari nuksaan pahunchaya.
+5. Bhima ka vinaashkari hamla: Bhima ne Kaurava sena ke haathi-dal ko buri tarah haraaya.
+6. Nakul-Sahadev ka yogdaan: Dono bhaiyon ne Kaurava ghudsawar sena par hamla kiya.
+7. Arjuna ka parakram: Arjuna ne kai Kaurava rajaon ko apne baanon se maar giraya.
+Is section ka sabse bada sandesh: Jab insaan sahi salah ko ahankaar aur moh ke kaaran nazarandaaz karta hai, toh baad mein use apne faislon ke bhayankar parinaam bhugatne pad sakte hain. """
             create_image_text_layout(
                 "attached_assets/chapter6/6.3.78.jpg",
                 text1,
