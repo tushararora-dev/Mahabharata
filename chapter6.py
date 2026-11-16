@@ -15183,7 +15183,11 @@ Is section ki sabse badi baat: Dono senaon ne apni poori taiyaari kar li hai. Bh
             )
         # Section 6.3.89
         with st.expander("Section 6.3.89  Section CI"):
-            text1 = """ """
+            text1 = """ Ek din Kurukshetra ke maidan mein Arjuna ke bahadur bete Abhimanyu ne apni taqat dikhayi. Apne bhure ghodo wale rath par sawar hokar, woh Kauravo ki badi sena par toot pade. Unke teer aise baras rahe the jaise baarish ke badal.
+
+Abhimanyu ki tezi itni zyada thi ki bade-bade yoddha bhi unhe rok nahi pa rahe the. Unhone ratho, ghodo aur haathiyo ko piche dhakel diya. Kaurava sena aise bikhar gayi jaise tez hawa mein rui udti hai. Unka golden bow (dhanush) itni tezi se ghoom raha tha ki maidan mein bijli chamakti hui lag rahi thi. Sabko laga jaise maidan mein ek nahi, balki do-do Arjuna lad rahe hon!
+
+Apni sena ko haarte dekh Duryodhana ko bahut chinta hui. Usne ek shaktishali Rakshasa, Alamvusha, ko bulaya aur kaha, "Sirf tum hi is veer balak Abhimanyu ko rok sakte ho. Jao aur uska samna karo!" """
             create_image_text_layout(
                 "attached_assets/chapter6/6.3.89.jpg",
                 text1,
@@ -15191,7 +15195,13 @@ Is section ki sabse badi baat: Dono senaon ne apni poori taiyaari kar li hai. Bh
                 image_position="left"
             )
 
-            text2 = """ """
+            text2 = """ Duryodhana ka aadesh milte hi Alamvusha zor se dahada. Uski aawaz itni bhayanak thi ki Pandavo ki sena dar ke maare peeche hatne lagi. Woh teer chalate hue aage badha aur Pandav sena ko pareshan karne laga.
+
+Tabhi Draupadi ke paanchon bahadur bete aage aaye. Unhone milkar Alamvusha ko gher liya aur us par teeron ki barish kar di. Ek pal ke liye toh Alamvusha behosh sa ho gaya. Lekin hosh aate hi woh gusse se apna size dugna karke wapas utha. Usne un paanchon bhaiyon ke rath aur dhanush tod diye aur unhe mushkil mein daal diya.
+
+Jab Abhimanyu ne dekha ki uske bhai khatre mein hain, toh woh turant unki madad ke liye daude. Ab maidan mein do mahaan yoddha aamne-saamne the—ek taraf veer Abhimanyu aur doosri taraf mayavi Rakshasa Alamvusha. Dono ke beech ek behad romanchak aur zordar muqabla shuru ho gaya, jise dekhne ke liye poori sena ruk gayi.
+
+Moral: Jab aapke paas himmat aur sahi skill ho, toh aap akela hokar bhi badi se badi mushkil ka samna kar sakte hain—aur saccha veer hamesha mushkil waqt mein apne apno ki madad ke liye aage khada rehta hai. """
             create_image_text_layout(
                 text_content=text2,
                 layout="full"
@@ -15200,7 +15210,11 @@ Is section ki sabse badi baat: Dono senaon ne apni poori taiyaari kar li hai. Bh
 
         # Section 6.3.90
         with st.expander("Section 6.3.90  Section CII"):
-            text1 = """ """
+            text1 = """ Raja Dhritarashtra ne Sanjaya se poocha, "Sanjay, mujhe batao ki jab bahadur Abhimanyu aur Rakshasa Alamvusha aamne-saamne aaye, toh unke beech kaisa muqabla hua? Aur baaki Pandav yoddhaon ne maidan mein kya kiya?"
+
+Sanjaya ne bataya ki jaise hi Alamvusha ne Abhimanyu ko lalkara, Abhimanyu bhi ek sher ki tarah dahadte hue uski taraf badhe. Dono ke beech teeron ki zordar barish shuru ho gayi. Abhimanyu ke tez golden arrows (sunehre teer) jab Alamvusha ko lage, toh woh aise chamakne laga jaise kisi pahad par aag lag gayi ho.
+
+Jab Alamvusha ne dekha ki woh Abhimanyu ko hara nahi pa raha, toh usne apni jaadui taqat (illusion) ka istemal kiya. Usne poore maidan mein ghana andhera kar diya, jisse kisi ko kuch dikhayi dena band ho gaya. Lekin Abhimanyu bilkul nahi ghabraye. Unhone apna chamakta hua Surya Astra (Solar Weapon) chalaya. Pal bhar mein saara andhera gayab ho gaya aur roshni phail gayi. """
             create_image_text_layout(
                 "attached_assets/chapter6/6.3.90.jpg",
                 text1,
@@ -15208,7 +15222,19 @@ Is section ki sabse badi baat: Dono senaon ne apni poori taiyaari kar li hai. Bh
                 image_position="left"
             )
 
-            text2 = """ """
+            text2 = """ Alamvusha ne aur bhi kai jaadui chaalein chali, par Abhimanyu ne sabko nakaam kar diya. Aakhirkar, apni saari shaktiyan haar kar Alamvusha apna rath chhod kar dar ke maare bhaag gaya.
+
+Abhimanyu ko akela aage badhta dekh, Bhishma Pitamah aur Kauravo ke kai bade yoddhaon ne unhe charon taraf se gher liya. Lekin Abhimanyu apne pita Arjuna aur mama Shri Krishna ki tarah hi nirbhay hokar sabka samna karte rahe.
+
+Tabhi apne bete ki madad ke liye Arjuna wahan aa pahunche, aur unke saamne Bhishma Pitamah aa khade hue. Maidan mein ek ke baad ek bade muqable shuru ho gaye:
+
+Pandav veer Satyaki ne pehle Kripacharya aur phir Ashwatthama ko apne teeron se piche dhakel diya.
+
+Apne bete Ashwatthama ko mushkil mein dekh Guru Dronacharya khud Satyaki se ladne aaye.
+
+Aur aakhir mein, Guru Dronacharya aur unke sabse priya shishya Arjuna ke beech ek mahaan yuddh shuru ho gaya.
+
+Moral: Jaadu-tona aur dhokhe ki chaalein chahe kitni bhi andheri kyun na hon, sachhe gyaan, focus aur himmat ki roshni ke saamne woh kabhi tik nahi paatin. """
             create_image_text_layout(
                 text_content=text2,
                 layout="full"
@@ -15217,7 +15243,9 @@ Is section ki sabse badi baat: Dono senaon ne apni poori taiyaari kar li hai. Bh
 
         # Section 6.3.91
         with st.expander("Section 6.3.91  Section CIII"):
-            text1 = """ """
+            text1 = """ Raja Dhritarashtra ne Sanjaya se poocha, "Sanjay, jab Guru Dronacharya aur unke priye shishya Arjuna ka aamne-saamne yuddh hua, toh unhone ek-doosre ka samna kaise kiya? Yuddh mein toh dono hi sher ki tarah khunkhaar hain!"
+
+Sanjaya ne bataya ki yuddh ke maidan mein Dronacharya ne yeh nahi dekha ki Arjuna unka pyara shishya hai, aur na hi Arjuna ne guru ke prati moh rakha. Dono ne kshatriya dharma nibhate hue ek-doosre par teer chalaye. Jab Arjuna ke teer Dronacharya ko lage, toh guru gusse se ek visaldal aag ki tarah bhadak uthe aur unhone Arjuna par teeron ki barish kar di. """
             create_image_text_layout(
                 "attached_assets/chapter6/6.3.91.jpg",
                 text1,
@@ -15225,7 +15253,21 @@ Is section ki sabse badi baat: Dono senaon ne apni poori taiyaari kar li hai. Bh
                 image_position="left"
             )
 
-            text2 = """ """
+            text2 = """ Duryodhana ne mauka dekhkar Susarman (Trigarta naresh) ko Dronacharya ki madad ke liye bheja. Susarman aur uski sena ne milkar Arjuna par teer chalaye. Lekin Arjuna ne akela hi un sabhi ke hamle ko aise rokh liya jaise hawa badlo ko uda deti hai. Phir Arjuna ne Vayavya Astra chalaya, jisse aisi tez aandhi chali ki ped ukhad gaye aur dushman sena behal ho gayi.
+
+Is par Dronacharya ne turant Saila Astra chala diya, jisse aandhi shaant ho gayi.
+
+Iske baad Kauravo ke bade-bade yoddha—jaise Duryodhana, Kripacharya, Ashwatthama, Salya aur Bhagadatta—ne alag-alag dishaon se Pandavo ko gher liya:
+
+Bhagadatta aur uski haathiyon ki sena ne Bhima par hamla kar diya.
+
+Doosri taraf, Bhurisravas aur Sakuni ne Madri ke putro (Nakula aur Sahadeva) ko teeron se gher liya.
+
+Aur Bhishma Pitamah ne Kaurav sena ke sath Yudhishthira ko gherne ki koshish ki.
+
+Lekin Bhima ne gusse mein aakar apna rath chhod diya aur haath mein gadda (mace) lekar haathiyon ki sena par toot pade. Bhima ne akele hi un bade-bade haathiyo aur dushmano ko dhool chata di. Bhima ka yeh roop dekh kar Kaurav sena ek baar phir dar kar maare maidan se bhaag khadi hui.
+
+Moral: Jab sachhi mehnat aur hausla sath ho, toh akela yoddha bhi hazaron ki sena aur badi se badi mushkil ka dat kar samna kar sakta hai. """
             create_image_text_layout(
                 text_content=text2,
                 layout="full"
@@ -15234,7 +15276,11 @@ Is section ki sabse badi baat: Dono senaon ne apni poori taiyaari kar li hai. Bh
 
         # Section 6.3.92
         with st.expander("Section 6.3.92  Section CIV"):
-            text1 = """ """
+            text1 = """ Sanjaya ne aage ki kahani batate hue kaha ki Bhima ke veer bete Ghatotkacha ne apni taqat se Kaurav sena ke kai yoddhaon ko peeche hata diya. Phir woh seedha Duryodhana ki taraf badha. Apne raja ko khatre mein dekh Kauravo ke kai bade yoddhaon ne ek sath milkar Ghatotkacha ko gher liya aur us par teeron ki barish kar di.
+
+Teeron se ghayal hokar Ghatotkacha aasman mein ud gaya aur ek sher ki tarah zor se dahada. Uski aawaz itni tez thi ki poora aasman goonj utha.
+
+Jab Yudhishthira ne yeh dahad suni, toh unhe samajh aa gaya ki Ghatotkacha akela bahut saare yoddhaon se lad raha hai aur mushkil mein hai. Doosri taraf Arjuna bhi Panchal sena ko bachane mein busy the. Tab Yudhishthira ne Bhima se kaha, "Tumhare bete par bahut badi musibat aa gayi hai. Tum turant jao aur uski madad karo!" """
             create_image_text_layout(
                 "attached_assets/chapter6/6.3.92.jpg",
                 text1,
@@ -15242,7 +15288,11 @@ Is section ki sabse badi baat: Dono senaon ne apni poori taiyaari kar li hai. Bh
                 image_position="left"
             )
 
-            text2 = """ """
+            text2 = """ Apne bhai ki baat sunkar Bhima ek tufan ki tarah maidan mein daude. Unke sath Abhimanyu, Draupadi ke paanchon bete aur hazaron haathiyon ki vishal sena bhi madad ke liye pahunch gayi. Unke kadmon aur ratho ke shor se dharti kaampne lagi.
+
+Bhima aur unki sena ko aate dekh Kaurav sena dar gayi aur Ghatotkacha ko chhod kar peeche hatne lagi. Iske baad dono senaon ke beech ek bahut bada muqabla shuru hua. Maidan mein itni dhool udne lagi ki kuch bhi saaf dikhayi nahi de raha tha. Aakhirkar, Bhima aur unke sathiyon ki himmat ke saamne Kaurav sena tik nahi payi aur maidan chhod kar bhaag khadi hui.
+
+Moral: Jab parivaar aur dost ek-doosre ki musibat ko samajh kar sahi samay par madad ke liye aage aate hain, toh badi se badi mushkil bhi aasan ho jaati hai. """
             create_image_text_layout(
                 text_content=text2,
                 layout="full"
@@ -15251,7 +15301,9 @@ Is section ki sabse badi baat: Dono senaon ne apni poori taiyaari kar li hai. Bh
 
         # Section 6.3.93
         with st.expander("Section 6.3.93  Section CV"):
-            text1 = """ """
+            text1 = """  Sanjaya ne bataya ki Arjuna ne Susarman ki sena ko apne tez teeron se Yamlok pahuncha diya. Apni sena ko haarte dekh, Susarman ke saare sipahi dar ke maare rath, ghode aur haathi chhod kar charon dishaon mein bhaag khade hue.
+
+Jab Duryodhana ne apni sena ko is tarah bhagte dekha, toh woh aur Bhishma Pitamah khud apni puri taqat ke sath Arjuna ka samna karne ke liye aage aaye. Doosri taraf, Pandav sena bhi puri shakti ke sath apne veer Phalguni (Arjuna) ki madad ke liye wahan aa pahunchi aur Bhishma ko charon taraf se gher liya. Dopahar ka samay tha aur maidan mein dono senaon ke beech ghamsan yuddh shuru ho gaya: """
             create_image_text_layout(
                 "attached_assets/chapter6/6.3.93.jpg",
                 text1,
@@ -15259,7 +15311,17 @@ Is section ki sabse badi baat: Dono senaon ne apni poori taiyaari kar li hai. Bh
                 image_position="left"
             )
 
-            text2 = """ """
+            text2 = """ Veer Satyaki ne Kritavarman ko aur raja Drupada ne Guru Dronacharya ko apne teeron se gher liya.
+
+Bhimasena ne Raja Valhika ke rath ke ghode aur sarthi ko ek hi pal mein gira diya, jisse Valhika ko jaan bachakar doosre rath par bhagna pada.
+
+Abhimanyu aur Citrasena ke beech ek romanchak muqabla hua. Abhimanyu ne teeron ki bauchar karke Citrasena ke rath ke ghode maar giraye, jisne majboor hokar doosre rath ki sharan li.
+
+Iske baad, Satyaki aur Bhishma Pitamah ke beech ek behad khatarnak yuddh hua. Satyaki ne ek shaktishali barcha (dart) Bhishma par फेंka, lekin Bhishma ne use apne teeron se beech raste mein hi kaat kar zameen par gira diya.
+
+Satyaki ko sankat mein dekh kar Pandavo ki poori sena—rath, ghode aur haathiyo ke sath—ek baar phir Bhishma Pitamah ke samne dat kar khadi ho gayi aur dono aormo ke beech ek romanchak yuddh shuru ho gaya.
+
+Moral: Jab apnon par koi bada sankat aata hai, toh sabhi log milkar ek team ki tarah khade ho jaate hain aur mushkil se mushkil halat ka bhi dat kar mukabla karte hain. """
             create_image_text_layout(
                 text_content=text2,
                 layout="full"
@@ -15268,7 +15330,9 @@ Is section ki sabse badi baat: Dono senaon ne apni poori taiyaari kar li hai. Bh
 
         # Section 6.3.94
         with st.expander("Section 6.3.94  Section CVI"):
-            text1 = """ """
+            text1 = """ Sanjaya ne bataya ki jab Pandavon ne Bhishma Pitamah ko charon taraf se gher liya, toh Duryodhana ko chinta hui. Usne apne bhai Dushasana se kaha ki woh apni badi sena ke sath jaakar Pitamah ki raksha kare, kyunki unke surakshit rehne par hi Kauravon ki jeet hogi.
+
+Doosri taraf, Shakuni aur Duryodhana ne hazaron ghudsawaron (horsemen) ko Yudhishthira, Nakula aur Sahadeva ko rokne ke liye bheja. Ghodon ki tap se dharti kaampne lagi aur aasman mein dhool cha gayi. Lekin teeno Pandav bhaiyon ne bilkul nahi ghabraya. Unhone ek chattan ki tarah khade hokar un ghudsawaron ke hamle ko rok diya. Pandavon ki himmat ke saamne ghudsawar tik nahi paye aur peeche hat gaye. Jeet ki khushi mein Pandavon ne apne shankh bajaye. """
             create_image_text_layout(
                 "attached_assets/chapter6/6.3.94.jpg",
                 text1,
@@ -15276,7 +15340,9 @@ Is section ki sabse badi baat: Dono senaon ne apni poori taiyaari kar li hai. Bh
                 image_position="left"
             )
 
-            text2 = """ """
+            text2 = """ Apni sena ko peeche hatta dekh Duryodhana ne Madra ke raja Salya se madad maangi. Salya apni badi rath-sena lekar Yudhishthira par toot pade. Dono taraf se teeron ki tez barish hone lagi. Jab Bhima ne dekha ki Yudhishthira aur unke chhote bhai Salya ke teeron se ghir gaye hain, toh woh turant unki madad ke liye daude. Dopahar dhalne ke sath hi maidan mein ek naya aur zordar muqabla shuru ho gaya.
+
+Moral: Mushkil halat mein ek-doosre ka saath dena aur bina dare apni jagah par date rehna hi asli jeet ki pehchan hai. """
             create_image_text_layout(
                 text_content=text2,
                 layout="full"
@@ -15285,7 +15351,11 @@ Is section ki sabse badi baat: Dono senaon ne apni poori taiyaari kar li hai. Bh
 
         # Section 6.3.95
         with st.expander("Section 6.3.95  Section CVII"):
-            text1 = """ """
+            text1 = """ Sanjaya ne aage ki kahani sunate hue kaha ki gusse mein aaye Bhishma Pitamah ne Pandav sena par teeron ki aisi barish ki jaise jungle mein aag lag gayi ho. Unhone Bhima, Satyaki, Nakula, Sahadeva, Yudhishthira aur Dhrishtadyumna sabko apne teeron se ghayal kar diya.
+
+Bhishma ke saamne Pandav sena bilkul bikhar gayi. Hazaron rath toot gaye aur sipahi dar ke maare apne hathiyar chhod kar bhagne lage. Yudhishthira aur unke bhai puri koshish ke baad bhi apni bhaagti hui sena ko rok nahi pa rahe the.
+
+Apni sena ko haarte dekh, Shri Krishna ne Arjuna ke rath ko roka aur kaha, "Arjuna, ab woh waqt aa gaya hai jab tumhe apna wada poora karna hoga. Apne Kshatriya dharma ko yaad karo aur bina kisi hichkichahat ke Bhishma ka samna karo!" """
             create_image_text_layout(
                 "attached_assets/chapter6/6.3.95.jpg",
                 text1,
@@ -15293,7 +15363,19 @@ Is section ki sabse badi baat: Dono senaon ne apni poori taiyaari kar li hai. Bh
                 image_position="left"
             )
 
-            text2 = """ """
+            text2 = """ Arjuna thode dukhi the kyunki woh apne hi dada Bhishma se ladna nahi chahte the. Lekin Krishna ki baat maankar unhone rath aage badhane ko kaha. Arjuna ko aage badhta dekh Pandav sena mein phir se himmat aa gayi.
+
+Dono ke beech ek zabardast muqabla shuru hua. Arjuna ne apni tezi se Bhishma ke do dhanush kaat dale. Bhishma ne khush hokar Arjuna ki tareef ki aur naya dhanush utha kar phir se teeron ki barish shuru kar di.
+
+Lekin Shri Krishna ne dekha ki Arjuna abhi bhi narmi se lad rahe hain, jabki Bhishma Pandav sena ko khatam kar rahe hain. Yeh dekh kar Shri Krishna ko bahut gussa aaya. Unhone rath ki lagaam chhodi, haath mein rath ka pahiya (ya chabuk) lekar ek sher ki tarah dahadte hue Bhishma ki taraf daude.
+
+Bhishma ne bina dare apna dhanush neeche rakha aur haath jod kar kaha, "Aaiye Krishna, aaj aapke haathon marna mere liye sabse bada samman hoga!"
+
+Tabhi Arjuna peeche se daud kar aaye aur unhone Shri Krishna ke pair pakad kar unhe dasve (10th) kadam par rok liya. Arjuna ne kaha, "Madhav, ruk jaiye! Aapne yuddh mein hathiyar na uthane ki pratigya ki hai. Log aapko jhootha kahenge. Main kasam khata hoon ki main apna kartavya poori taqat se nibhaunga."
+
+Arjuna ki baat sunkar Shri Krishna shaant hokar wapas rath par baith gaye. Iske baad Bhishma ne phir se Pandav sena par teer barsaye. Aakhirkar, jab suraj dhalne laga aur andhera hone laga, tab thaki hui dono senaon ne us din ka yuddh rok diya.
+
+Moral: Apne vachan aur asoolon par tike rehna sabse bada dharma hai—chahe haalat kitne bhi mushkil kyun na ho jayein. """
             create_image_text_layout(
                 text_content=text2,
                 layout="full"
@@ -15302,7 +15384,11 @@ Is section ki sabse badi baat: Dono senaon ne apni poori taiyaari kar li hai. Bh
 
         # Section 6.3.96
         with st.expander("Section 6.3.96  Section CVIII"):
-            text1 = """ """
+            text1 = """ Suraj dhalne ke baad jab yuddh ruka, toh Pandav camp mein bahut chinta thi. Yudhishthira ne dukhi hokar Shri Krishna se kaha, "Krishna, Bhishma Pitamah ko harana namumkin lag raha hai. Woh hamari sena ko tinke ki tarah uda rahe hain. Mujhe lagta hai humein yuddh chhod kar wapas jungle chale jana chahiye."
+
+Shri Krishna ne Yudhishthira ko himmat dete hue kaha, "Chinta mat karo, tumhare paas Arjuna aur Bhima jaise bhai hain. Agar zaroorat padi toh main khud Bhishma ka samna karunga."
+
+Tab Yudhishthira ko ek upay yaad aaya. Yuddh se pehle Bhishma ne unse kaha tha ki woh Kauravon ki taraf se ladenge zaroor, lekin sahi salah hamesha Pandavon ko denge. Isliye raat ke andhere mein paanchon Pandav aur Shri Krishna bina kisi hathiyar ke Bhishma Pitamah ke tent mein gaye aur unke pair chhukar pranam kiya. """
             create_image_text_layout(
                 "attached_assets/chapter6/6.3.96.jpg",
                 text1,
@@ -15310,7 +15396,17 @@ Is section ki sabse badi baat: Dono senaon ne apni poori taiyaari kar li hai. Bh
                 image_position="left"
             )
 
-            text2 = """ """
+            text2 = """ Bhishma ne bade pyaar se unka swagat kiya. Tab Yudhishthira ne haath jod kar poocha, "Pitamah, aap ajey (invincible) hain. Jab tak aap maidan mein hain, hum kabhi nahi jeet sakte. Kripya humein woh upay batayein jisse hum aapko rok sakein."
+
+Bhishma ne muskurate hue sach bataya, "Jab tak mere haath mein dhanush hai, mujhe devta bhi nahi hara sakte. Lekin mera ek niyam hai—main kabhi kisi aise vyakti par hathiyar nahi uthata jo pehle stree (woman) raha ho. Tumhari sena mein Shikhandi hai, jo pichhle janam mein stree tha. Agar Arjuna usko apne aage rakh kar mujh par teer chalayega, toh main apne hathiyar neeche rakh dunga."
+
+Tent se bahar aane ke baad Arjuna bahut emotional ho gaye. Unhone Krishna se kaha, "Main apne pyare dada par teer kaise chalaun? Bachpan mein main dhool mein sana hua unki god mein khelta tha aur unhe 'pita' keh kar bulata tha."
+
+Shri Krishna ne Arjuna ko samjhaya, "Arjuna, tum ek Kshatriya ho. Dharma aur nyay ki jeet ke liye kabhi-kabhi kathor faisle lene padte hain. Bhishma ne khud hi tumhe yeh rasta dikhaya hai."
+
+Arjuna ko baat samajh aa gayi. Unhone tay kiya ki agle din Shikhandi ko aage rakh kar woh Bhishma ka samna karenge aur baaki Kaurav yoddhaon ko rokenge. Iske baad sabhi Pandav aaram karne chale gaye.
+
+Moral: Bade se bade guru ya buzurg se vinamrata (humility) aur samman ke saath poochha jaye, toh woh sabse kathin samasya ka bhi hal bata dete hain—aur sahi maqsad ke liye kabhi-kabhi dil par patthar rakh kar apna kartavya nibhana padta hai. """
             create_image_text_layout(
                 text_content=text2,
                 layout="full"
@@ -15319,7 +15415,11 @@ Is section ki sabse badi baat: Dono senaon ne apni poori taiyaari kar li hai. Bh
 
         # Section 6.3.97
         with st.expander("Section 6.3.97  Section CIX"):
-            text1 = """ """
+            text1 = """ Raja Dhritarashtra ne Sanjaya se poocha, "Sanjay, mujhe batao ki jab Shikhandi ne Bhishma Pitamah par hamla kiya, toh yuddh ke maidan mein kya hua?"
+
+Sanjaya ne bataya ki agle din subah suraj ugte hi, shankh aur dhol ki aawaz ke sath Pandav sena maidan mein utri. Unhone ek khas vyuh (formation) banaya tha, jiske sabse aage Shikhandi ko rakha gaya. Unki raksha ke liye dayein-bayein khud Arjuna aur Bhima chal rahe the, aur unke peeche Abhimanyu aur baaki saare Pandav yoddha the.
+
+Doosri taraf, Kaurav sena ke sabse aage khud Bhishma Pitamah khade the, aur Duryodhana ke bhai unki suraksha mein lage the. """
             create_image_text_layout(
                 "attached_assets/chapter6/6.3.97.jpg",
                 text1,
@@ -15327,7 +15427,15 @@ Is section ki sabse badi baat: Dono senaon ne apni poori taiyaari kar li hai. Bh
                 image_position="left"
             )
 
-            text2 = """ """
+            text2 = """ Jaise hi yuddh shuru hua, Pandavon ne poori taqat se hamla kiya, jisse Kaurav sena peeche hatne lagi. Apni sena ko haarte dekh, Bhishma Pitamah gusse mein aa gaye. Unhone teeron ki aisi bauchar ki jaise jungle mein aag lag gayi ho. Koi bhi unke saamne tik nahi pa raha tha.
+
+Tabhi Shikhandi aage badha aur usne Bhishma ke seene mein teen tez teer maare. Jab Bhishma ne dekha ki un par teer chalane wala Shikhandi hai, toh woh muskuraye aur bole, "Tum chahe mujh par kitne bhi teer chalao, main tum par hathiyar nahi uthaunga. Mere liye tum aaj bhi wahi stree ho jise Ishwar ne pehle banaya tha."
+
+Yeh sunkar Shikhandi ko bahut gussa aaya. Usne lalkarte hue kaha, "Main aapki taqat jaanta hoon, lekin aaj aap mujhse bach kar nahi ja sakte!" Aur usne Bhishma par paanch aur teer chala diye.
+
+Shikhandi ka yeh hausla dekh kar Arjuna ne peeche se uski himmat badhayi aur kaha, "Shikhandi, bilkul mat daro aur aage badho! Dronacharya, Duryodhana, Kripacharya aur baaki sabhi bade yoddhaon ko main akela rok lunga. Tum bas apna dhyan Pitamah par rakho aur apna kaam poora karo."
+
+Moral: Jab ek bada lakshya poora karna ho, toh har sathi ko apni zimmedari samajh kar mil-jul kar kaam karna chahiye—ek aage badh kar rasta banata hai, toh doosra peeche se uski raksha karta hai. """
             create_image_text_layout(
                 text_content=text2,
                 layout="full"
@@ -15336,7 +15444,11 @@ Is section ki sabse badi baat: Dono senaon ne apni poori taiyaari kar li hai. Bh
 
         # Section 6.3.98
         with st.expander("Section 6.3.98  Section CX"):
-            text1 = """ """
+            text1 = """ Raja Dhritarashtra ne Sanjaya se poocha, "Sanjay, mujhe dasve (10th) din ka haal batao. Jab Shikhandi ne Bhishma Pitamah par hamla kiya, toh kya unka rath ya dhanush toot gaya tha? Aur Bhishma ne us din kaisa yuddh kiya?"
+
+Sanjaya ne bataya ki us samay na toh Bhishma ka rath toota tha aur na hi unka dhanush. Woh ek invincible (ajey) yoddha ki tarah Pandav sena par teer barsa rahe the.
+
+Tabhi Arjuna apne safed ghodo wale rath par sawar hokar maidan mein aaye. Unki sher jaisi dahad aur teeron ki bauchar se Kaurav sena dar kar bhaagne lagi. Apni sena ko bikharta dekh Duryodhana ghabra gaya. Usne Bhishma Pitamah ke paas jaakar kaha, "Pitamah, Arjuna, Bhima, Abhimanyu aur baaki Pandav yoddha hamari sena ko khatam kar rahe hain. Ab aap hi hamara aakhiri sahara hain. Kripya hamari raksha kijiye!" """
             create_image_text_layout(
                 "attached_assets/chapter6/6.3.98.jpg",
                 text1,
@@ -15344,7 +15456,13 @@ Is section ki sabse badi baat: Dono senaon ne apni poori taiyaari kar li hai. Bh
                 image_position="left"
             )
 
-            text2 = """ """
+            text2 = """ Duryodhana ki baat sunkar Bhishma ne ek pal socha aur phir shaanti se bole, "Duryodhana, maine roz hazaron yoddhaon ko harane ka wada kiya tha, aur maine woh nibhaaya bhi. Aaj main ek bada kaam karunga—ya toh main Pandavon ko hara dunga, ya phir tumhara namak khane ka karz chukate hue apni jaan de dunga."
+
+Yeh keh kar Bhishma ek tez aag ki tarah Pandav sena par toot pade. Unki taqat ke saamne koi tik nahi pa raha tha. Woh maidan mein aise chamak rahe the jaise dopahar ka suraj.
+
+Lekin Pandavon ne bhi haar nahi maani. Woh aur unke saathi milkar Bhishma ko gherne ke liye aage badhe, jabki Kaurav sena Pitamah ki raksha ke liye unke charon taraf khadi ho gayi. Iske saath hi dasve din ka sabse bada aur nirnayak yuddh shuru ho gaya.
+
+Moral: Apne kartavya aur vachan ke prati poori imaandari rakhna hi ek sachhe veer ki pehchan hoti hai, chahe parinaam kuch bhi ho. """
             create_image_text_layout(
                 text_content=text2,
                 layout="full"
