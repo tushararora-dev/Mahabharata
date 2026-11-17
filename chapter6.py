@@ -15469,7 +15469,11 @@ Moral: Apne kartavya aur vachan ke prati poori imaandari rakhna hi ek sachhe vee
             )
         # Section 6.3.99
         with st.expander("Section 6.3.99  Section CXI"):
-            text1 = """ """
+            text1 = """ Sanjaya ne bataya ki Bhishma Pitamah ki taqat dekh kar Arjuna ne Shikhandi se kaha, "Aage badho aur Pitamah ka samna karo. Aaj tumhe unse bilkul darne ki zaroorat nahi hai. Main apne tez teeron se unhe rath se neeche gira dunga."
+
+Arjuna ki baat sunkar Shikhandi, Dhrishtadyumna, Abhimanyu, Yudhishthira aur baaki saare Pandav yoddha ek saath Bhishma ki taraf badhe.
+
+Unhe rokne ke liye Kaurav sena ke bade yoddha bhi aage aa gaye. Maidan mein har taraf alag-alag muqable shuru ho gaye: """
             create_image_text_layout(
                 "attached_assets/chapter6/6.3.99.jpg",
                 text1,
@@ -15477,7 +15481,19 @@ Moral: Apne kartavya aur vachan ke prati poori imaandari rakhna hi ek sachhe vee
                 image_position="left"
             )
 
-            text2 = """ """
+            text2 = """  Duryodhana ne Satyaki ko roka, aur Guru Dronacharya ne Yudhishthira ka rasta roka.
+
+Ashwatthama ne raja Virata aur Drupada ka samna kiya, jabki Kripacharya aur Vikarna ne Nakula aur Sahadeva ko gher liya.
+
+Sabse badi takkar Dushasana aur Arjuna ke beech hui.
+
+Pandav senapati Dhrishtadyumna ne sabka hausla badhate hue zor se kaha, "Daro mat, aage badho! Arjuna hamare saath hain, unke saamne koi nahi tik sakta."
+
+Lekin Dushasana ne bina dare Arjuna ka rasta rok liya. Dono ke beech teeron ki zabardast bauchar shuru ho gayi. Dushasana ne Arjuna aur Shri Krishna par teer chalaye. Yeh dekh kar Arjuna ko gussa aa gaya. Unhone Dushasana ka dhanush kaat diya aur uske rath ko tod diya.
+
+Teeron se ghayal hokar Dushasana peeche hata aur Bhishma Pitamah ke rath ke paas jaakar chhip gaya. Pitamah ke paas pahunch kar use aisa laga jaise doobte hue insaan ko kinara mil gaya ho. Thodi der baad himmat jutakar Dushasana ne phir se Arjuna par teer chalane shuru kar diye, lekin Arjuna par un teeron ka koi asar nahi hua.
+
+Moral: Mushkil waqt mein ek achhe leader ke himmat dene wale shabd poori team mein nayi jaan phoonk dete hain, aur har koi bina dare apne lakshya ki taraf aage badhta hai. """
             create_image_text_layout(
                 text_content=text2,
                 layout="full"
@@ -15486,7 +15502,13 @@ Moral: Apne kartavya aur vachan ke prati poori imaandari rakhna hi ek sachhe vee
 
         # Section 6.3.100
         with st.expander("Section 6.3.100  Section CXII"):
-            text1 = """ """
+            text1 = """ Sanjaya ne bataya ki Bhishma Pitamah ko bachane ke liye Kaurav sena ke saare bade yoddha apni poori jaan laga kar lad rahe the. Maidan mein har taraf ghamsan yuddh ho raha tha:
+
+Satyaki ka sahas: Pehle Rakshasa Alamvusha aur phir Raja Bhagadatta ne Satyaki ko roka. Bhagadatta ne Satyaki ka dhanush kaat diya aur ek khatarnak barcha (dart) phenka, par Satyaki ne use hawa mein hi kaat giraya. Yeh dekh Duryodhana ne apne bhaiyon se kaha ki Satyaki ko charon taraf se gher lo, kyunki agar woh ruk gaya toh Pandav sena kamzor pad jayegi.
+
+Buzurgon ki taqat: Ashwatthama ne raja Virata aur Drupada ko roka, lekin un dono buzurg yoddhaon ne badi furti se Ashwatthama ke saare teer rok liye.
+
+Kaurav-Pandav takkar: Sahadeva ne Kripacharya ka dhanush kaat diya, toh Nakula aur Vikarna ke beech zordar muqabla hua. Ghatotkacha ne Durmukha ko, aur Dhrishtadyumna ne Kritavarman ko apne teeron se gher liya. """
             create_image_text_layout(
                 "attached_assets/chapter6/6.3.100.jpg",
                 text1,
@@ -15494,7 +15516,11 @@ Moral: Apne kartavya aur vachan ke prati poori imaandari rakhna hi ek sachhe vee
                 image_position="left"
             )
 
-            text2 = """ """
+            text2 = """ Drona ki deewar: Guru Dronacharya ne Yudhishthira ki sena ko aise roka ki woh ek kadam bhi aage nahi badh paayi. Wahin Bhima aur Bhurisravas ke beech bhi barabar ki takkar chalti rahi.
+
+Doosri taraf, Dushasana ne Arjuna ko rokne ki poori koshish ki, par Arjuna ne use peeche hatne par majboor kar diya aur Kaurav sena ko bikherte hue aage badhte rahe.
+
+Moral: Jab ek bada sankat aata hai, toh har sathi apni-apni jagah par dat kar khada ho jata hai—isi team spirit se bade se bade toofan ka samna kiya ja sakta hai. """
             create_image_text_layout(
                 text_content=text2,
                 layout="full"
@@ -15503,7 +15529,11 @@ Moral: Apne kartavya aur vachan ke prati poori imaandari rakhna hi ek sachhe vee
 
         # Section 6.3.101
         with st.expander("Section 6.3.101  Section CXIII"):
-            text1 = """ """
+            text1 = """ Sanjaya ne bataya ki maidan mein Guru Dronacharya bade hi paraakram se lad rahe the, lekin unhe charon taraf kuch bure sanket (bad omens) dikhayi dene lage.
+
+Unhone apne bete Ashwatthama ko paas bulaya aur chinta ke saath kaha, "Beta, aaj ka din bahut bhari lag raha hai. Mere teer apne aap tarkash se bahar aa rahe hain aur mera man bhi udaas hai. Aasman mein suraj ki chamak kam ho gayi hai, dharti kaamp rahi hai aur pakshi darawni aawazein nikal rahe hain. Yeh sab kisi bade sankat ka ishara hai."
+
+Dronacharya ne aage samjhaya, "Aaj Arjuna poori taqat ke saath Bhishma Pitamah ko harane ke liye aage badh raha hai. Usne apne aage Shikhandi ko rakha hai, aur Pitamah apne niyam ke pakke hain—woh Shikhandi par hathiyar nahi uthayenge. Mujhe lagta hai aaj Pitamah par bahut bada khatra hai." """
             create_image_text_layout(
                 "attached_assets/chapter6/6.3.101.jpg",
                 text1,
@@ -15511,7 +15541,9 @@ Moral: Apne kartavya aur vachan ke prati poori imaandari rakhna hi ek sachhe vee
                 image_position="left"
             )
 
-            text2 = """ """
+            text2 = """ Apne bete ka hausla badhate hue Guru Dronacharya bole, "Beta, Arjuna ko toh devta bhi nahi hara sakte, kyunki uske saath khud Shri Krishna hain. Lekin ek Kshatriya hone ke naate yeh waqt jaan bachane ka nahi, balki apna kartavya nibhane ka hai. Kaun pita nahi chahega ki uska beta lambi umar jiye? Phir bhi, dharma ke liye main tumhe yuddh mein bhej raha hoon. Tum jao aur Shikhandi aur Bhima ko roko, aur main Yudhishthira ki taraf badhta hoon."
+
+Moral: Ek sachha guru aur pita apne pyaar se badhkar kartavya ko maanta hai—aur mushkil se mushkil samay mein bhi apne parivaar ko sahi rasta aur himmat dikhata hai. """
             create_image_text_layout(
                 text_content=text2,
                 layout="full"
@@ -15520,7 +15552,15 @@ Moral: Apne kartavya aur vachan ke prati poori imaandari rakhna hi ek sachhe vee
 
         # Section 6.3.102
         with st.expander("Section 6.3.102  Section CXIV"):
-            text1 = """ """
+            text1 = """ Sanjaya ne bataya ki Guru Dronacharya ki baat sunkar Kaurav sena ke das (10) mahaan yoddha—Bhagadatta, Kripacharya, Salya, Kritavarman, Jayadratha, Vikarna aur unke saathi—ek saath milkar Bhima par toot pade. Duryodhana ne bhi Bhima par bees tez teer chalaye.
+
+Lekin Bhima bilkul nahi ghabraye. Unhone akela hi un sabhi das yoddhaon ko barabar ka jawab diya:
+
+Unhone Kripacharya aur Kritavarman ke dhanush beech se kaat diye.
+
+Phir unhone Sindhu naresh Jayadratha ke rath ke ghode aur sarthi ko maar giraya. Jayadratha ko apni jaan bachane ke liye doosre rath par bhagna pada.
+
+Jab Salya ne Bhima ke sarthi Visoka ko ghayal kiya, toh Bhima ne gusse mein aakar Salya aur Bhagadatta par teeron ki bauchar kar di. """
             create_image_text_layout(
                 "attached_assets/chapter6/6.3.102.jpg",
                 text1,
@@ -15528,7 +15568,13 @@ Moral: Apne kartavya aur vachan ke prati poori imaandari rakhna hi ek sachhe vee
                 image_position="left"
             )
 
-            text2 = """ """
+            text2 = """ Unhone sabhi yoddhaon ne milkar Bhima par barcha, bhala, kulhadi aur hazaron teer chalaye, lekin Bhima ne apni furti se saare hathiyaron ko hawa mein hi kaat kar tukde-tukde kar diya. Woh ek bade pahad ki tarah apni jagah par tike rahe.
+
+Tabhi Arjuna apne rath par wahan aa pahunche. Bhima aur Arjuna ko ek saath khada dekh kar Kaurav yoddhaon ki himmat tootne lagi. Arjuna ne apne bhai ki madad ke liye un sabhi yoddhaon par teer barsane shuru kar diye.
+
+Yeh dekh kar Duryodhana ne Trigarta ke raja Susarman ko hazaron ratho ke saath bheja taaki woh Arjuna aur Bhima ko rok sake. Iske saath hi maidan mein ek naya aur zordar muqabla shuru ho gaya.
+
+Moral: Jab aapka man aur iraada ek pahad ki tarah majboot ho, toh chahe kitni bhi mushkilein ek saath aa jayein, aapko koi hila nahi sakta. """
             create_image_text_layout(
                 text_content=text2,
                 layout="full"
@@ -15537,7 +15583,11 @@ Moral: Apne kartavya aur vachan ke prati poori imaandari rakhna hi ek sachhe vee
 
         # Section 6.3.103
         with st.expander("Section 6.3.103  Section CXV"):
-            text1 = """ """
+            text1 = """ Sanjaya ne bataya ki yuddh ke maidan mein Arjuna ne poori taqat se Salya, Susarman, Kripacharya aur baaki Kaurav yoddhaon par teeron ki bauchar kar di. Arjuna aur Bhima ne milkar dushman sena ko aise gher liya jaise do sher gayon ke jhund mein shikaar khel rahe hon. Unhone hazaron rath, ghode aur haathi tod dale.
+
+Kaurav sena ko bachta dekh Salya ne aage badh kar Arjuna ke seene par teer maare. Pratiuttar mein Arjuna ne Salya ka dhanush kaat diya aur use ghayal kar diya.
+
+Iske baad Duryodhana ke kehne par Guru Dronacharya aur Magadha ke raja Jayatsena bhi wahan aa pahunche. Jayatsena ne Bhima par teer chalaye, toh Bhima ne bhi turant palatwar karke Jayatsena ke sarthi ko rath se neeche gira diya. Sarthi ke bina bekaaboo ghode raja Jayatsena ko maidan se door bhaga kar le gaye. Wahin, Bhima ne Guru Dronacharya ko bhi apne teeron se gher liya, aur Arjuna ne Susarman ki sena ko aandhi ki tarah uchaal kar rakh diya. """
             create_image_text_layout(
                 "attached_assets/chapter6/6.3.103.jpg",
                 text1,
@@ -15545,7 +15595,11 @@ Moral: Apne kartavya aur vachan ke prati poori imaandari rakhna hi ek sachhe vee
                 image_position="left"
             )
 
-            text2 = """ """
+            text2 = """ Aakhirkar, Bhishma Pitamah ko bachane ke liye khud Duryodhana aur Kosal naresh Vrihadvala aage aaye. Doosri taraf, senapati Dhrishtadyumna ne Pandav sena ka hausla badhate hue lalkara, "Daro mat! Aage badho aur Pitamah par hamla karo!"
+
+Iske baad dono senaon ke beech ek aakhiri aur behad bhayanak yuddh shuru ho gaya, jahan poori jeet ka daav sirf Bhishma Pitamah par laga hua tha.
+
+Moral: Jab saare raste band dikhne lagein aur lakshya samne ho, toh poori team ko ek juth hokar apni poori shakti ke sath aakhiri koshish karni chahiye. """
             create_image_text_layout(
                 text_content=text2,
                 layout="full"
@@ -15554,7 +15608,11 @@ Moral: Apne kartavya aur vachan ke prati poori imaandari rakhna hi ek sachhe vee
 
         # Section 6.3.104
         with st.expander("Section 6.3.104  Section CXVI"):
-            text1 = """ """
+            text1 = """ Raja Dhritarashtra ne Sanjaya se poocha, "Sanjay, dasve (10th) din Bhishma Pitamah aur Pandavon ke beech woh mahaan yuddh kaise hua? Mujhe sab kuch batao."
+
+Sanjaya ne bataya ki lagatar das dinon tak Bhishma Pitamah aur Arjuna ke beech barabar ki takkar chalti rahi. Kisi ko samajh nahi aa raha tha ki jeet kiski hogi. Lekin itne saare yoddhaon ko marta dekh ab Bhishma Pitamah ka man bhar chuka tha. Unhone apni jaan bachane ki ichha chhod di aur socha ki ab unhe yeh yuddh rokna hoga.
+
+Maidan mein Yudhishthira ko paas dekh kar Bhishma ne unhe bulaya aur kaha, "Yudhishthira, ab main is shareer ko aur nahi rakhna chahta. Agar tum mujhe khush karna chahte ho, toh Arjuna aur Shikhandi ko aage rakh kar mujh par hamla karo." """
             create_image_text_layout(
                 "attached_assets/chapter6/6.3.104.jpg",
                 text1,
@@ -15562,7 +15620,23 @@ Moral: Apne kartavya aur vachan ke prati poori imaandari rakhna hi ek sachhe vee
                 image_position="left"
             )
 
-            text2 = """ """
+            text2 = """ Bhishma ka ishara samajh kar Yudhishthira ne apni sena ka hausla badhaya. Unhone kaha, "Aage badho aur bina dare yuddh karo! Arjuna, Bhima aur Dhrishtadyumna tumhari raksha karenge. Aaj Shikhandi ko aage rakh kar hum Pitamah ko zaroor rok lenge."
+
+Yeh sunkar Pandav sena poori taqat ke saath aage badhi. Doosri taraf, Duryodhana aur uske saare bhai, Guru Dronacharya aur Ashwatthama ke saath milkar Pitamah ki raksha ke liye unke charon taraf khade ho gaye.
+
+Dekhte hi dekhte poore maidan mein ek bahut bada yuddh chhid gaya:
+
+Arjuna aur Shikhandi seedha Bhishma Pitamah ki taraf badhe.
+
+Satyaki ne Ashwatthama ko, aur Dhrishtadyumna ne Guru Dronacharya ko rok liya.
+
+Yudhishthira ne Salya par hamla kiya, aur Bhima haathiyon ki sena par toot pade.
+
+Abhimanyu ka samna Kosal naresh Vrihadvala se hua, jabki raja Virata ne Jayadratha ko gher liya.
+
+Shankh aur dhol ki tez aawazon ke saath dono senaon ke beech itna dhool aur shor utha ki poora aasman dhak gaya. Har koi apni poori jaan laga kar lad raha tha, kyunki sab jaante the ki aaj ka din yuddh ka sabse bada faisla karne wala hai.
+
+Moral: Ek saccha mahaan insaan hamesha bhalai aur nyay ke liye apna swarth chhod deta hai—chahe uske liye use khud peeche kyun na hatna pade. """
             create_image_text_layout(
                 text_content=text2,
                 layout="full"
@@ -15571,7 +15645,11 @@ Moral: Apne kartavya aur vachan ke prati poori imaandari rakhna hi ek sachhe vee
 
         # Section 6.3.105
         with st.expander("Section 6.3.105  Section CXVII"):
-            text1 = """ """
+            text1 = """ Sanjaya ne bataya ki dasve (10th) din ka yuddh aur bhi zyada tez ho gaya tha. Maidan ke har hisse mein bade-bade yoddha aamne-saamne the:
+
+Abhimanyu ki bahaduri: Abhimanyu ne pehle Duryodhana se zordar muqabla kiya aur phir Kosal naresh Vrihadvala ka dhanush kaat kar unhe peeche dhakel diya.
+
+Talwarbazi ka romanchak muqabla: Paurava aur Dhrishtaketu ke rath aur dhanush jab toot gaye, toh dono ne talwar aur dhaal (sword and shield) utha li. Sheron ki tarah ladte hue dono ghayal hokar zameen par gir pade, jiske baad unke saathi unhe surakshit jagah le gaye. """
             create_image_text_layout(
                 "attached_assets/chapter6/6.3.105.jpg",
                 text1,
@@ -15579,7 +15657,15 @@ Moral: Apne kartavya aur vachan ke prati poori imaandari rakhna hi ek sachhe vee
                 image_position="left"
             )
 
-            text2 = """ """
+            text2 = """ Guru aur Shishya: Guru Dronacharya ne Dhrishtadyumna ka dhanush kaat diya aur unki gadda (mace) aur barcha (dart) hawa mein hi tod diya. Wahin Satyaki aur Ashwatthama ke beech bhi teeron ki bauchar chalti rahi.
+
+Arjuna aur Shikhandi: Jab raja Bhagadatta ne Arjuna ko rokne ki koshish ki, toh Arjuna ne unhe peeche hataya aur Shikhandi ko aage badhne ka ishara kiya.
+
+Doosri taraf, Bhishma Pitamah maidan mein ek dahakti hui aag ki tarah chamak rahe the. Unke dhanush ki aawaz badalon ki garaj jaisi thi. Unhone hazaron rath, ghode aur haathiyon ko tod diya. Pandav sena ka koi bhi yoddha unke paas jaane ki himmat nahi kar pa raha tha.
+
+Poore maidan mein sirf do hi veer the jo bina dare Bhishma Pitamah ke saamne khade the—ek Arjuna, jinke rath ko khud Shri Krishna chala rahe the, aur doosre Shikhandi.
+
+Moral: Jab charon taraf dar aur mushkil ka mahaul ho, tab bhi jo log himmat nahi haarte aur apne lakshya ki taraf badhte rehte hain, wahi itihas banate hain. """
             create_image_text_layout(
                 text_content=text2,
                 layout="full"
@@ -15588,7 +15674,11 @@ Moral: Apne kartavya aur vachan ke prati poori imaandari rakhna hi ek sachhe vee
 
         # Section 6.3.106
         with st.expander("Section 6.3.106  Section CXVIII"):
-            text1 = """ """
+            text1 = """ Sanjaya ne bataya ki dasve (10th) din Shikhandi aage badha aur usne Bhishma Pitamah ke seene mein das tez teer maare. Bhishma ne gusse se Shikhandi ko dekha zaroor, lekin apna niyam yaad rakhte hue unhone Shikhandi par ek bhi teer nahi chalaya.
+
+Tab Arjuna ne Shikhandi ka hausla badhate hue kaha, "Tezi se aage badho aur Pitamah ka samna karo! Is poori sena mein tumhare alawa koi unke saamne nahi tik sakta."
+
+Arjuna ki baat sunkar Shikhandi ne Bhishma par teeron ki barish shuru kar di. Lekin Bhishma muskurate hue un teeron ko aise jhel rahe the jaise garmi se pareshan insaan thandi baarish ki boondon ka swagat karta hai. Unhone Shikhandi ko chhod kar seedha Arjuna aur Pandav sena par hamla jaari rakha. """
             create_image_text_layout(
                 "attached_assets/chapter6/6.3.106.jpg",
                 text1,
@@ -15596,7 +15686,13 @@ Moral: Apne kartavya aur vachan ke prati poori imaandari rakhna hi ek sachhe vee
                 image_position="left"
             )
 
-            text2 = """ """
+            text2 = """ Is beech Duryodhana ke bhai Dushasana ne badi bahaduri dikhayi. Usne akela hi Arjuna ka rasta roke rakha aur Pitamah ki raksha ki. Yeh dekh Duryodhana ne apni poori sena ko lalkara, "Daro mat! Pitamah hamari raksha kar rahe hain. Sab milkar Arjuna par toot pado!"
+
+Duryodhana ka aadesh milte hi kai deshon ke raja aur hazaron sipahi ek saath Arjuna par jhapat pade. Lekin Arjuna ne apne divya astron (celestial weapons) ka istemal kiya aur un sabhi ko aise peeche dhakel diya jaise aag patangon ko uda deti hai. Iske baad Arjuna ne Dushasana, Kripacharya, Salya aur Vikarna ke rath tod dale, jisse unhe maidan se peeche hatna pada.
+
+Apni sena ko haarte dekh Bhishma Pitamah ne ek bahut hi shaktishali astra uthaya aur Arjuna ki taraf daude. Lekin jaise hi Shikhandi turant unke beech mein aa khada hua, Bhishma ne apna woh astra wapas le liya. Is mauke ka fayda utha kar Arjuna ne Kaurav sena par apni pakad aur mazboot kar li.
+
+Moral: Apne asoolon aur niyamon par pakke rehna bahut himmat ka kaam hai—Bhishma Pitamah ne jaan khatre mein hone ke bawajood bhi apna wada nahi toda. """
             create_image_text_layout(
                 text_content=text2,
                 layout="full"
@@ -15605,15 +15701,23 @@ Moral: Apne kartavya aur vachan ke prati poori imaandari rakhna hi ek sachhe vee
 
         # Section 6.3.107
         with st.expander("Section 6.3.107  Section CXIX"):
-            text1 = """ """
+            text1 = """ Sanjaya ne bataya ki maidan mein ab yuddh ke saare niyam toot chuke the aur sabhi yoddha apni poori taqat se ek-doosre par toot pade the. Kauravon ki taraf se Salya, Kripacharya aur Dushasana ne Pandav sena ko pareshan kar rakha tha, toh doosri taraf Arjuna ne Kaurav sena ke bade-bade haathiyon aur ratho ko gira kar maidan mein halchal macha di thi.
+
+Pandav senapati Dhrishtadyumna ke aadesh par, poori sena ek saath Bhishma Pitamah ki taraf badhi. Lekin Pitamah ko unke guru Parashurama se yuddh ki har vidya mili hui thi. Apni isi taqat se unhone dasve (10th) din akele hi hazaron rath, haathi aur sipahi gira diye aur Virata ke bhai Satanika ko bhi hara diya. Bhishma dopahar ke tez suraj ki tarah chamak rahe the, jinki taraf koi dekh bhi nahi pa raha tha. """
             create_image_text_layout(
                 "attached_assets/chapter6/6.3.107.jpg",
                 text1,
                 layout="side",
                 image_position="left"
             )
+ 
+            text2 = """ Bhishma ka yeh paraakram dekh kar Shri Krishna ne Arjuna se kaha, "Arjuna, dekho Pitamah dono senaon ke beech khade hain. Tumhare alawa unhe rokne ki himmat kisi mein nahi hai. Ab tumhe hi aage badh kar unhe rokna hoga, tabhi humein jeet milegi."
 
-            text2 = """ """
+Krishna ki baat sunkar Arjuna ne teeron ki aisi barish ki ki Bhishma ka rath aur ghode dikhna band ho gaye. Bhishma ne bhi jawab mein teer chalaye, jisse Bhima, Satyaki, Abhimanyu aur baaki saare Pandav yoddha mushkil mein pad gaye. Tab Arjuna ne un sabko bachaya aur Shikhandi ko apne aage rakh kar seedha Bhishma par hamla kiya.
+
+Ab Arjuna, Bhima, Satyaki, Abhimanyu aur baaki sabhi Pandav yoddhaon ne ek saath milkar Bhishma Pitamah ko charon taraf se gher liya aur un par teer chalane shuru kar diye. Lekin Bhishma bilkul nahi ghabraye. Woh hasste hue un sabke teer rok rahe the, aur apne niyam ke pakke hone ke kaaran Shikhandi par ek bhi teer nahi chala rahe the. Aakhirkar, Shikhandi ko aage rakh kar Arjuna ne lagatar Bhishma par teer chalana shuru kar diya.
+
+Moral: Jab koi mushkil itni badi ho ki akela insaan use na rok sake, toh sahi leadership aur poori team ki ekta (unity) se sabse badi chattan ko bhi hilaya ja sakta hai. """
             create_image_text_layout(
                 text_content=text2,
                 layout="full"
@@ -15622,7 +15726,11 @@ Moral: Apne kartavya aur vachan ke prati poori imaandari rakhna hi ek sachhe vee
 
         # Section 6.3.108
         with st.expander("Section 6.3.108  Section CXX"):
-            text1 = """ """
+            text1 = """ Sanjaya ne bataya ki dasve din ke aakhiri padaav mein saare Pandavon aur Srinjayon ne milkar Bhishma Pitamah ko charon taraf se gher liya. Sikhandi aur Arjuna lagatar Pitamah par teer barsa rahe the. Arjuna ne apni tezi se Bhishma ke saare dhanush kaat dale.
+
+Jab Bhishma ke paas ladne ke liye kuch nahi bacha aur unka poora shareer teeron se chhid gaya tha, tab unhone mahsoos kiya ki ab yeh yuddh rokne ka aur apne sharir ko tyagane ka sahi samay aa gaya hai. Vimaan mein baithe rishimuniyon aur Vasu devtaon ne bhi aakash se unke is faisle ki sarahana ki aur phoolon ki varsha ki.
+
+Bhishma ne apas mein vichar karke jaan liya ki abhi suraj dakshinayan (southern solstice) mein hai, isliye woh apni ichha-mrityu ke vardan ka upayog karke apne pran tab tak roke rakhenge jab tak suraj uttarayan (northern solstice) mein nahi aa jata. """
             create_image_text_layout(
                 "attached_assets/chapter6/6.3.108.jpg",
                 text1,
@@ -15630,7 +15738,7 @@ Moral: Apne kartavya aur vachan ke prati poori imaandari rakhna hi ek sachhe vee
                 image_position="left"
             )
 
-            text2 = """ """
+            text2 = """ Aakhirkar, Arjuna ke anaginat teeron se ghayal hokar Bhishma Pitamah apne rath se zameen par gir pade. Lekin unka shareer teeron ki bed par aisa tika ki woh zameen ko touch nahi hua—woh teeron ki hi ek shaiyya (bed of arrows) par let gaye. Unka girna dekh kar Kaurav sena mein sannata chha gaya aur woh ghamasand mein doob gaye, jabki Pandavon ne vijay ke shankh aur naad bajaye.Pitamah Bhishma ne yogic kriyaon dwara apne praano ko rokte hue aane wale uttarayan ka intezaar karna shuru kar diya.Moral: Ek mahan yoddha aur purkha wahi hai jo apna poora jeevan dharma ke liye jee kar, antim samay mein bhi apne vachan aur niyam par atal rahe. """
             create_image_text_layout(
                 text_content=text2,
                 layout="full"
