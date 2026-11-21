@@ -15746,7 +15746,13 @@ Bhishma ne apas mein vichar karke jaan liya ki abhi suraj dakshinayan (southern 
 
         # Section 6.3.109
         with st.expander("Section 6.3.109  Section CXXI"):
-            text1 = """ """
+            text1 = """ Raja Dhritarashtra yeh sunkar bahut dukhi hue ki Bhishma Pitamah teeron ki shaiyya par gir pade hain. Unhone Sanjaya se poocha ki jab Pitamah gire, tab yuddh ke maidan mein kya hua.
+
+Sanjaya ne bataya ki sham ke samay jab Bhishma Pitamah rath se gire, toh poora maidan shok mein doob gaya. Dono senaon ke yoddhaon ne apne hathiyar neeche rakh diye. Jab Dushasana ne jaakar Guru Dronacharya ko yeh khabar di, toh Drona dukh ke maare apne rath se neeche gir pade. Hosh aane par unhone turant yuddh rokne ka aadesh diya. Pandavon ne bhi yuddh rok diya.
+
+Ab na koi Kaurav tha aur na koi Pandav—dono taraf ke sabhi raja aur rajkumar apne kavach (armour) utar kar, haath jode hue Pitamah Bhishma ke paas aakar khade ho gaye.
+
+Pitamah teeron ki shaiyya (bed of arrows) par lete hue the, lekin unka sir neeche ki taraf latak raha tha. Unhone sabka pyaar se swagat kiya aur kaha, "Mera sir neeche latak raha hai, mujhe ek takiya (pillow) do." """
             create_image_text_layout(
                 "attached_assets/chapter6/6.3.109.jpg",
                 text1,
@@ -15754,7 +15760,7 @@ Bhishma ne apas mein vichar karke jaan liya ki abhi suraj dakshinayan (southern 
                 image_position="left"
             )
 
-            text2 = """ """
+            text2 = """ Wahan khade rajaon ne turant bahut hi mulayam aur reshami takiye laakar diye. Lekin Pitamah muskuraye aur bole, "Yeh mulayam takiye ek veer yoddha ke bistar ke layak nahi hain."Phir unhone Arjuna ki taraf dekha aur bade pyaar se kaha, "Arjuna, tum ek mahaan dhanurdhar ho. Tum mujhe aisa takiya do jo ek veer ke layak ho!"Moral: Ek sacche veer ko aaram ki nahi, balki samman aur apne swabhiman ki parwah hoti hai—aur mushkil waqt mein bhi bade-buzurg apne sabse kabil shishya par hi bharosa karte hain. """
             create_image_text_layout(
                 text_content=text2,
                 layout="full"
@@ -15763,7 +15769,9 @@ Bhishma ne apas mein vichar karke jaan liya ki abhi suraj dakshinayan (southern 
 
         # Section 6.3.110
         with st.expander("Section 6.3.110  Section CXXII"):
-            text1 = """ """
+            text1 = """ Sanjaya ne bataya ki Bhishma Pitamah ki baat sunkar Arjuna ki aankhon mein aansu aa gaye. Unhone apna Gandiva dhanush uthaya, Pitamah ko pranam kiya aur unki aagya lekar zameen par teen (3) tez teer aise chalaye ki unhone Pitamah ke sir ko sahara de diya.
+
+Apne man ki baat samajhne wale Arjuna ko dekh kar Bhishma Pitamah bahut khush hue aur unhe aashirwad dete hue bole, "Arjuna, tumne bilkul ek veer Kshatriya ke layak takiya banaya hai. Agar tum aisa nahi karte toh mujhe dukh hota." """
             create_image_text_layout(
                 "attached_assets/chapter6/6.3.110.jpg",
                 text1,
@@ -15771,7 +15779,7 @@ Bhishma ne apas mein vichar karke jaan liya ki abhi suraj dakshinayan (southern 
                 image_position="left"
             )
 
-            text2 = """ """
+            text2 = """ Phir Pitamah ne wahan khade sabhi rajaon se kaha, "Dekho, Arjuna ne mere liye kaisa takiya banaya hai. Main is teeron ki shaiyya par tab tak letunga jab tak suraj uttarayan (northern solstice) mein nahi aa jata. Tum log bhi apni dushmani chhod kar is yuddh ko rok do."Thodi der baad, Duryodhana ne Pitamah ke teer nikalne ke liye bade-bade vaidyon (doctors) ko bulaya. Lekin Pitamah ne unhe samman ke saath vida karte hue kaha, "Ek veer yoddha ke liye isse bada samman kuch nahi ho sakta. Main inhi teeron ke saath apna antim samay bitaunga."Iske baad Kaurav aur Pandav dono ne milkar Pitamah ki parikrama ki, unki suraksha ke liye pehredar lagaye aur sham hone par apne-apne camp mein laut gaye.Raat mein jab sabhi Pandav khush baithe the, tab Shri Krishna ne Yudhishthira ko jeet ki badhai di. Yudhishthira ne vinamrata (humility) se haath jod kar kaha, "He Krishna, yeh jeet hamari nahi, balki aapki kripa aur margdarshan ka phal hai. Jiske saath aap hain, uski jeet nishchit hai."Moral: Ek kabil shishya bina kahe apne guru ki zaroorat samajh leta hai—aur badi se badi jeet milne par bhi ghamand karne ke bajay apne margdarshak (mentor) ko uska shrey dena hi sabse bada gun hai. """
             create_image_text_layout(
                 text_content=text2,
                 layout="full"
@@ -15780,7 +15788,11 @@ Bhishma ne apas mein vichar karke jaan liya ki abhi suraj dakshinayan (southern 
 
         # Section 6.3.111
         with st.expander("Section 6.3.111  Section CXXIII"):
-            text1 = """ """
+            text1 = """ Sanjaya ne bataya ki agle din subah jab suraj nikla, toh Kaurav aur Pandav dono taraf ke raja, aam log, budhe aur bachche apne kavach aur hathiyar utar kar Bhishma Pitamah ke darshan ke liye ikattha hue. Sabne un par phool aur chandan chhidak kar unhe pranam kiya.
+
+Teeron ke ghaav ki wajah se Pitamah ko bahut pyas lagi aur unhone paani maanga. Rajaon ne turant thanda paani laakar diya, lekin Pitamah ne mana karte hue kaha, "Main ab teeron ki shaiyya par hoon, isliye aam insaanon ke liye laya gaya paani nahi pi sakta. Mujhe Arjuna se milna hai."
+
+Arjuna haath jod kar saamne aaye. Pitamah ne kaha, "Arjuna, mera gala sookh raha hai. Tum ek mahaan dhanurdhar ho, mujhe mere layak paani pilao." """
             create_image_text_layout(
                 "attached_assets/chapter6/6.3.111.jpg",
                 text1,
@@ -15788,7 +15800,13 @@ Bhishma ne apas mein vichar karke jaan liya ki abhi suraj dakshinayan (southern 
                 image_position="left"
             )
 
-            text2 = """ """
+            text2 = """ Arjuna ne apne Gandiva dhanush par Parjanya astra chadhaya aur Pitamah ke paas hi zameen par ek tez teer maara. Zameen se turant hi Ganga jal ki ek thandi aur meethi dhara (fountain) phoot padi, jisse Pitamah ki pyas bujh gayi. Yeh chamatkar dekh kar wahan khade sabhi raja hairan reh gaye.
+
+Iske baad Bhishma Pitamah ne Duryodhana ko samjhaya, "Duryodhana, dekha tumne Arjuna ka parakram? Arjuna aur Shri Krishna ko devta bhi nahi hara sakte. Main chahta hoon ki mera girna hi is yuddh ka ant ho. Apna gussa chhod do, Pandavon ko unka aadha rajya wapas de do aur unse dosti kar lo. Agar tumne ab bhi meri baat nahi maani, toh baad mein bahut pachtana padega."
+
+Lekin Duryodhana ne Pitamah ki is nek salah ko bilkul waise hi thukra diya jaise koi bimar insaan dawai lene se mana kar deta hai.
+
+Moral: Ek samajhdar insaan hamesha shanti aur bhalai ki baat maanta hai—gussa aur zidd mein aakar sahi salah ko thukrana hamesha nuksan hi pahunchata hai. """
             create_image_text_layout(
                 text_content=text2,
                 layout="full"
@@ -15797,7 +15815,9 @@ Bhishma ne apas mein vichar karke jaan liya ki abhi suraj dakshinayan (southern 
 
         # Section 6.3.112
         with st.expander("Section 6.3.112  Section CXXIV"):
-            text1 = """ """
+            text1 = """ Sanjaya ne bataya ki jab sabhi raja apne-apne camp mein laut gaye, tab Karna chupchap Bhishma Pitamah se milne aaye. Pitamah ko teeron ki shaiyya par leta dekh Karna ki aankhon mein aansu aa gaye. Unhone Pitamah ke charon ko chhua aur bhari aawaz mein kaha, "Pitamah, main Radha-putra Karna hoon, jise aap hamesha nafrat ki nazar se dekhte rahe."
+
+Karna ki aawaz sunkar Bhishma ne apni aankhein kholin aur pehredaron ko wahan se door bhej diya. Phir unhone Karna ko ek pita ki tarah apne ek haath se gale lagaya aur bade pyaar se bole, "Aao beta, agar tum aaj mere paas nahi aate toh tumhara bhala nahi hota. Tum Radha ke nahi, balki Kunti ke putra ho aur Pandav tumhare apne bhai hain." """
             create_image_text_layout(
                 "attached_assets/chapter6/6.3.112.jpg",
                 text1,
@@ -15805,7 +15825,15 @@ Bhishma ne apas mein vichar karke jaan liya ki abhi suraj dakshinayan (southern 
                 image_position="left"
             )
 
-            text2 = """ """
+            text2 = """ Pitamah ne aage samjhaya, "Main tumhare andar koi burai nahi dekhta, Karna. Tum dhanurvidya mein Arjuna aur Krishna ke barabar ho, aur daanveer aur parakrami bhi ho. Maine tumhe hamesha kadwe shabd sirf isliye kahe taaki tumhara ghamand kam ho aur tum apne hi bhaiyon se na lado. Meri aakhiri ichha hai ki tum Pandavon ke saath mil jao aur is yuddh ko yahin rok do."
+
+Karna ne haath jod kar vinamrata se kaha, "Pitamah, main sab jaanta hoon. Lekin Kunti ne mujhe bachpan mein hi tyag diya tha, aur Duryodhana ne mujhe samman aur pyar diya. Maine uska namak khaya hai, isliye main uske saath dhokha nahi kar sakta. Main jaanta hoon ki Krishna aur Arjuna ko koi nahi hara sakta, phir bhi main ek sache mitra aur veer ki tarah Duryodhana ke liye apna kartavya nibhaunga. Kripya mujhe maaf kar dein aur yuddh karne ki aagya dein."
+
+Karna ki nishtha aur sachhai dekh kar Bhishma Pitamah shaant ho gaye. Unhone kaha, "Agar tum apni dosti aur kartavya se bandhe ho, toh theek hai Karna, main tumhe aagya deta hoon. Bina kisi ghamand aur nafrat ke, ek sacche veer ki tarah dharma ke saath yuddh karna."
+
+Pitamah ka aashirwad aur maafi paakar Karna ne unhe pranam kiya aur Duryodhana ke camp ki taraf chal pade. Isi ke saath Bhishma Parva ka samapan hua.
+
+Moral: Ek saccha dost aur veer mushkil se mushkil waqt mein bhi apne saathi ka saath nahi chhodta—aur bade-buzurgon se maafi maang kar unka aashirwad lena hi insaan ko mahaan banata hai. """
             create_image_text_layout(
                 text_content=text2,
                 layout="full"
