@@ -203,7 +203,149 @@ Aur jab Arjuna apne safed ghodon wale rath par aaya—jiske rath par Hanuman wal
 Nakula, Sahadeva, Satyaki, Abhimanyu, Dhrishtadyumna, Shikhandi aur giant Ghatotkacha ko kisne roka? Itne saare brave warriors ko dekh kar mere beton ki army kaise tiki?"
 
 Phir Dhritarashtra ko ek gehri baat samajh aayi. Unhone kaha, "Jin logon ke saath itne loyal dost aur khud Bhagwan Krishna hon, unhe bhala kaun hara sakta hai? Krishna is poori duniya ke malik hain. Ab main unhi ko yaad karunga, taaki mere dil ko thoda sukoon aur himmat mil sake." """,
-            11: """  """, 12: """  """, 13: """  """, 14: """  """, 15: """  """, 16: """  """, 17: """  """, 18: """  """, 19: """  """, 20: """  """,
+            11: """ Raja Dhritarashtra ne Sanjaya se kaha, "Sanjaya, ab Bhagwan Krishna ki mahan baatein suno. Unhone aise kaam kiye hain jo is duniya mein koi aur nahi kar sakta.
+
+Jab Krishna chhote the aur Nanda ji ke ghar bade ho rahe the, tabhi sabne unki taqat dekh li thi. Unhone bina kisi weapon ke, sirf apne haathon se bade-bade demons ko haraya aur cruel Raja Kansa ko bhi khatam kiya.
+
+Bade hokar Krishna ne duniya ke kai strong rajaon ko haraya. Woh samundar ke andar jaakar apna special shankh, Panchajanya, jeet kar laaye. Phir unhe Sudarshana Chakra mila. Itna hi nahi, woh swarg se Parijata ka phool bhi le aaye, aur devtaon ke raja Indra bhi unhe rok nahi paaye.
+
+Mujhe aaj bhi yaad hai jab Krishna mere darbar mein aaye the aur unhone apna Vishwaroop dikhaya tha. Maine khud apni aankhon se unki divya shakti dekhi thi.
+
+Agar aaj Krishna ne Pandavon ke liye hathiyar utha liye, ya apne bade bhai Balarama aur apni army ko bula liya, toh koi unke saamne tik nahi payega. Sach toh yeh hai ki Krishna aur Arjuna ek hi aatma ke do roop hain—Nara aur Narayana. Agar woh chahein, toh sirf apne mann se hi is poori sena ko ek pal mein hara sakte hain. Par apni achhai ki wajah se woh aisa nahi karte.
+
+Mera bewakoof beta Duryodhana yeh sach kabhi nahi samjha. Bhishma aur Drona jaise bade warriors ke girne ke baad ab mujhe sab saaf dikh raha hai. Yudhishthira ke saath sachai aur dharm hai, isliye jeet unhi ki hogi. Yeh sab meri hi galtiyon ka nateeja hai, aur ab kismat ko koi nahi badal sakta.
+
+Ab tum mujhe aage ki poori kahani sunao ki yudh ke maidan mein kya-kya hua." """, 12: """ Sanjaya ne aage ki kahani shuru ki.
+
+Jab Guru Drona Kaurava army ke commander bane, toh unhone Duryodhana se kaha, "Tumne mujhe itna bada honour diya hai. Bolo, tumhe kya wish chahiye?"
+
+Duryodhana ne Karna aur Duhsasana ke saath baat ki. Phir usne Drona se kaha, "Gurudev, agar aap mujhe kuch dena chahte hain, toh bas Yudhishthira ko zinda pakad kar mere paas le aaiye."
+
+Yeh sunkar Guru Drona ko thoda ajeeb laga, par woh khush bhi hue. Unhone kaha, "Wah! Yudhishthira itna achha insaan hai ki uska koi dushman hi nahi hai. Tumne uski jaan nahi maangi. Kya tum usse dosti karke shanti chahte ho?"
+
+Par Duryodhana apne mann ki baat chhupa nahi saka. Usne apna chalak plan bata diya: "Nahi Gurudev! Agar Yudhishthira mara gaya, toh Arjuna gusse mein hum sabko khatam kar dega. Lekin Yudhishthira apni baat ka pakka hai. Agar hum use zinda pakad lein, toh hum use phir se dice game mein hara denge. Phir sabhi Pandavas chupchap jungle wapas chale jayenge, aur jeet hamesha ke liye hamari hogi!"
+
+Samajhdar Drona Duryodhana ki chalaki samajh gaye. Unhone thoda socha aur ek shart rakhi. Unhone kaha, "Main Yudhishthira ko pakad toh lunga, par sirf tab jab Arjuna uske paas na ho. Main Arjuna ka pehla teacher zaroor hoon, par ab woh bahut powerful ho gaya hai. Jab tak Arjuna wahan hai, koi bhi Yudhishthira ko chhoo nahi sakta. Isliye pehle kisi tarah Arjuna ko wahan se door le jao."
+
+Itna sunkar hi Duryodhana bahut khush ho gaya. Use laga ki Yudhishthira ab pakka pakda jayega. Duryodhana ko dar tha ki kahin Drona Pandavon par daya na kar dein, isliye usne poori army ke saamne yeh baat zor se announce kar di, taaki Drona apna vaada poora karein. """, 13: """ Sanjaya ne aage ki kahani sunayi.
+
+Jab Kaurava soldiers ne Drona ka vaada suna, toh woh khushi se shankh bajane lage aur zor-zor se cheers karne lage.
+
+Lekin Raja Yudhishthira ko apne spies se jaldi hi Drona ke is plan ka pata chal gaya. Unhone turant apne bhaiyon aur sabhi allies ko bulaya. Yudhishthira ne Arjuna se kaha, "Arjuna, Drona mujhe pakadne ka plan bana rahe hain. Aaj tum mere paas rehkar hi ladai karna, taaki Duryodhana ka plan poora na ho sake."
+
+Arjuna ne bade bharose se jawab diya, "Bhaiya, main apne Guru ko maar toh nahi sakta, par aapko unke haathon mein bhi nahi jaane dunga. Chahe aasman toot kar gir jaye ya dharti phat jaye, jab tak main zinda hoon, koi aapko pakad nahi sakta. Aap bilkul chinta mat kijiye, main apna vaada hamesha poora karta hoon."
+
+Phir dono taraf se shankh aur dhol bajne lage. Dono armies dhire-dhire aamne-saamne aayin aur ek zabardast ladai shuru ho gayi.
+
+Shuruat mein dono teams barabar lag rahi thin—ek taraf Guru Drona apni sena ko bacha rahe the, aur doosri taraf Arjuna Pandavon ki raksha kar rahe the.
+
+Lekin thodi hi der mein Guru Drona apne golden rath par itni tezi se aage badhe ki aisa laga jaise woh ek saath har jagah maujood hain. Dopahar ke tez suraj ki tarah chamakte hue Drona ne chaaron taraf teeron ki baarish kar di. Pandava sena ke liye unke saamne dekhna bhi mushkil ho gaya, aur Drona ne Dhrishtadyumna ki sena ko peeche dhakelna shuru kar diya! """, 14: """ Sanjaya ne aage ki kahani sunayi.
+
+Yudh ke maidan mein Guru Drona ek tez toofan ki tarah aage badh rahe the. Unke dhanush ki aawaz badalon ki garaj jaisi lag rahi thi. Unhone itne teer chalaye ki Pandava sena mein har taraf halchal mach gayi.
+
+Tab Yudhishthira aur unke saare brave warriors Drona ko rokne ke liye daude. Unhe rokne ke liye Kaurava warriors bhi saamne aa gaye, aur maidan mein kai zabardast one-on-one muqable shuru ho gaye!
+
+Sahadeva aur Shakuni ke rath toot gaye, toh dono ne gada utha kar ladai ki. Bhima, Nakula, Satyaki, Drupada aur Shikhandi bhi apne-apne opponents se poori taqat se bhid gaye. Ek taraf Ghatotkacha aur Alamvusha apni magic powers dikha kar lad rahe the.
+
+Lekin us din sabse zyada chamka Arjuna ka jawaan beta—Abhimanyu!
+
+Pehle Paurava ne Abhimanyu par hamla kiya. Jab Abhimanyu ka dhanush toot gaya, toh usne turant apni talwar aur dhal utha li. Usne badi phurti se Paurava ko haraya aur apne kabze mein kar liya.
+
+Paurava ko mushkil mein dekh kar Raja Jayadratha apne rath se kood pada. Abhimanyu ne Paurava ko chhod diya aur Jayadratha se talwar ki ladai shuru kar di. Dono sher aur cheete ki tarah lad rahe the. Aakhir mein, Jayadratha ki talwar Abhimanyu ki strong dhal se takra kar toot gayi, aur use peeche hat kar apne rath par bhaagna pada.
+
+Iske baad Raja Salya ne Abhimanyu par ek chamakta hua loha ka bhala phenka. Par tez Abhimanyu ne ek baaz ki tarah us bhale ko hawa mein hi pakad liya aur wapas Salya ki taraf phenk diya, jisse Salya ka rath chalane wala gir gaya!
+
+Abhimanyu ki yeh bahaduri dekh kar Yudhishthira, Bhima aur sabhi Pandava heroes khushi se chilla uthe, "Shabash! Shabash!"
+
+Par Duryodhana aur uske bhaiyon ko yeh bilkul pasand nahi aaya. Gusse mein aakar un sabne Abhimanyu ko chaaron taraf se gher liya, aur Salya bhi badla lene ke liye uski taraf dauda! """, 15: """ Raja Dhritarashtra ne kaha, "Sanjaya, tumne bahut achhi ladaiyon ki kahani sunayi. Ab mujhe batao ki Salya aur Abhimanyu ke beech kya hua?"
+
+Sanjaya ne aage ki kahani sunayi.
+
+Apne rath chalane wale ko gira dekh kar Raja Salya bahut gussa ho gaya. Woh ek bhaari loha ki gada lekar rath se neeche kood pada. Abhimanyu bhi ek badi gada lekar taiyaar ho gaya aur bola, "Aao, lado!"
+
+Lekin tabhi Bhima wahan aa gaye. Unhone pyaar se Abhimanyu ko samjha kar peeche hataya aur khud Salya ke saamne khade ho gaye.
+
+Is poori duniya mein sirf Bhima aur Salya hi ek doosre ki taqat ka muqabla kar sakte the. Dono ke beech gada ki ladai shuru hui. Chaaron taraf shankh aur dhol bajne lage, aur saare soldiers "Shabash! Shabash!" chillane lage.
+
+Bhima aur Salya do taqatwar saandon ki tarah ghoom-ghoom kar ladne lage. Jab unki gadayein aapas mein takrati, toh raat ke jugnuon ki tarah chingariyan udti thin! Dono ne ek doosre par bade zordaar vaar kiye, par woh pahad ki tarah apni jagah par date rahe.
+
+Aakhir mein, dono tez daudte hue aaye aur ek hi pal mein ek doosre par aisa vaar kiya ki dono zameen par gir pade!
+
+Turant hi Kritavarman daud kar aaya aur behosh Salya ko apne rath par bitha kar maidan se door le gaya. Lekin himmatwale Bhima palak jhapakte hi phir se khade ho gaye, unke haath mein abhi bhi gada thi!
+
+Salya ko maidan se jaate dekh kar Kaurava sena darr gayi aur idhar-udhar bhaagne lagi. Pandavas ne khushi se shankh aur dhol bajaye aur jeet ka jashn manaya! """, 16: """ Sanjaya ne aage ki kahani sunayi.
+
+Jab Kaurava sena haarne lagi, tab Karna ka brave beta Vrishasena akela hi aage aaya. Usne garmi ke suraj ki tarah tez teer chalaye aur har taraf dushmanon ko rok diya.
+
+Use rokne ke liye Nakula ka beta Satanika aur Draupadi ke baaki bete saath aaye. Unhone Vrishasena par teeron ki baarish kar di. Phir Ashwatthama aur baaki Kaurava warriors bhi wahan aa gaye, aur ek badi ladai shuru ho gayi.
+
+Apni sena ko peeche hat-ta dekh kar Guru Drona ne sabko himmat di aur kaha, "Daro mat, bhaago mat!" Phir Drona apne laal ghodon wale rath par baith kar seedha Raja Yudhishthira ko pakadne ke liye aage badhe.
+
+Kumara, Yugandhara, Vyaghradatta aur Singhasena jaise brave Pandava warriors ne Drona ko rokne ki poori koshish ki. Lekin Drona ne sabko hara diya aur bilkul Yudhishthira ke rath ke saamne pahunch gaye!
+
+Kaurava soldiers khushi se chillane lage, "Dekho! Aaj Drona Yudhishthira ko pakad lenge aur Duryodhana jeet jayega!"
+
+Lekin theek usi pal, Arjuna bijli ki tezi se wahan pahunch gaye! Arjuna ne itni fast arrows chalaye ki poore aasman aur maidan mein teeron ka ek jaal bich gaya. Kisi ko kuch dikhai nahi de raha tha.
+
+Usi waqt suraj bhi doob gaya aur chaaron taraf shaam ka andhera chha gaya. Ab yeh samajh nahi aa raha tha ki kaun dost hai aur kaun dushman. Isliye Drona aur Duryodhana ne apni sena ko wapas bula liya.
+
+Arjuna ne bhi apni army ko safely camp wapas bheja aur khud Krishna ke saath peeche-peeche laute. Saare Pandavas ne khush hokar Arjuna ki tareef ki, kyunki unhone sahi waqt par aakar sabko bacha liya tha! """, 17: """ Sanjaya ne aage ki kahani sunayi.
+
+Us din ka yudh khatam hone par sabhi soldiers apne-apne tents mein wapas chale gaye. Guru Drona ko bahut bura lag raha tha kyunki woh apna vaada poora nahi kar paaye the.
+
+Unhone Duryodhana se kaha, "Maine pehle hi kaha tha ki jab tak Arjuna aur Krishna Yudhishthira ke saath hain, koi unhe pakad nahi sakta. Agar koi Arjuna ko challenge karke maidan ke doosre hisse mein le jaye, tabhi main Yudhishthira ko pakad paunga."
+
+Yeh sunkar Trigarta ke Raja Susarman aur unke bhai aage aaye. Woh pehle se hi Arjuna se gussa the. Unhone aur unke saath aaye hazaaron warriors ne aag jala kar ek pakki kasam khayi—"Aaj ya toh hum Arjuna ko harayenge, ya phir maidan se wapas nahi lautenge!"
+
+Phir woh maidan ke south side mein gaye aur Arjuna ko ladai ke liye challenge karne lage.
+
+Brave Arjuna kabhi kisi challenge se peeche nahi hat-te the. Unhone Yudhishthira se wahan jaane ki permission maangi. Yudhishthira ko thodi chinta hui, toh Arjuna ne unki raksha ke liye ek bahut brave warrior, Satyajit, ko chuna. Arjuna ne kaha, "Jab tak Satyajit aapke paas hai, Drona aapko chhoo bhi nahi sakte. Par agar use kuch ho jaye, toh aap turant surakshit jagah chale jaana."
+
+Yudhishthira ne Arjuna ko gale lagaya aur unhe aashirwad diya. Phir Arjuna ek sher ki tarah Trigartas se ladne nikal pade.
+
+Arjuna ko jaate dekh kar Duryodhana ki sena bahut khush ho gayi. Woh Yudhishthira ko pakadne ke liye tezi se aage badhi, aur dono armies barish ki do badi nadiyon ki tarah aapas mein takra gayin! """, 18: """ Sanjaya ne aage ki kahani sunayi.
+
+Trigarta ke warriors—jinhe Samsaptakas kaha jata tha—ek khule maidan mein aadhe chand ke shape mein khade ho gaye. Arjuna ko aate dekh kar woh khushi se zor-zor se chillane lage.
+
+Arjuna thoda muskuraye aur Krishna se bole, "Dekho Krishna, yeh log kitne khush hain, jabki inhe pata hai ki aage bahut mushkil ladai hai. Par sachhe warriors bina dare ladne mein hi khushi maante hain."
+
+Phir Arjuna ne apna golden shankh, Devadatta, itni zor se bajaya ki uski aawaz chaaron taraf goonj uthi. Us tez aawaz ko sunkar Samsaptakas aur unke ghode ek pal ke liye statue ki tarah jam gaye!
+
+Thodi der mein unhone khud ko sambhala aur ek saath Arjuna par hazaaron teer chala diye, jaise baarish ke baadal baras rahe hon. Par tez Arjuna ne unke teeron ko hawa mein hi kaat diya. Unhone dushmanon ke golden flags gira diye aur Sudhanvan ko hara diya.
+
+Apne ek leader ko girte dekh kar baaki soldiers darr gaye aur Duryodhana ki sena ki taraf bhaagne lage.
+
+Tab Trigarta ke raja ne unhe rok kar kaha, "Ruko! Bhaago mat! Humne sabke saamne kasam khayi thi. Agar hum darr kar bhaag gaye, toh log hamara mazak udayenge. Apni poori himmat se lado!"
+
+Raja ki baat sunkar unmein phir se himmat aa gayi. Unhone shankh bajaye aur ek saath milkar phir se Arjuna ka saamna karne laut aaye! """, 19: """ Sanjaya ne aage ki kahani sunayi.
+
+Samsaptakas ko wapas aate dekh kar Arjuna ne Krishna se kaha, "Krishna, rath ko unki taraf le chalo. Aaj main inhe apni poori taqat dikhaunga." Krishna muskuraye aur safed ghodon ko tezi se maidan mein le gaye.
+
+Jaldi hi dushman ke soldiers ne Arjuna aur Krishna ko chaaron taraf se gher liya aur itne teer chalaye ki dono bilkul chhup gaye.
+
+Tab Arjuna ne apna shankh bajaya aur ek magical weapon—Tvashtra—chalaya. Achanak, poore maidan mein Arjuna aur Krishna ki hazaaron copies dikhne lagin! Dushman ke soldiers confuse ho gaye. Unhe laga har taraf Arjuna hi hai, aur woh galti se aapas mein hi ladne lage!
+
+Phir bhi, bache hue Samsaptakas ne ek saath itne teer chalaye ki Arjuna aur Krishna phir se teeron ke badal mein chhup gaye. Unhe laga ki woh jeet gaye hain, isliye woh khushi se dhol aur shankh bajane lage.
+
+Andhere mein Krishna ne thoda ghabra kar poocha, "Arjuna, tum kahan ho? Sab theek hai na?"
+
+Krishna ki aawaz sunkar Arjuna ne turant Vayavya (hawa) weapon chalaya. Ek tez toofani hawa chali aur usne saare teeron ke jaal ko uda diya. Dushmanon ke rath aur soldiers sookhe patton ki tarah hawa mein ud kar door ja gire! Is tarah Arjuna ne Samsaptakas ko hara diya.
+
+Lekin usi waqt, maidan ke doosre hisse mein, jab Arjuna yahan busy the, Guru Drona apni poori sena lekar Raja Yudhishthira ko pakadne ke liye aage badh gaye! """, 20: """ Sanjaya ne aage ki kahani sunayi.
+
+Agli subah, Guru Drona ne Duryodhana se kaha, "Maine Arjuna ko Samsaptakas ke saath busy kar diya hai. Ab main Yudhishthira ko pakadne ja raha hoon!"
+
+Drona ne apni army ko ek bade baaz (Garuda) ke shape mein khada kiya. Woh khud us baaz ki chonch par khade hue, Duryodhana sir par, aur Karna poonch par khade the. Beech mein Pragjyotisha ke raja ek vishal haathi par baithe chamak rahe the.
+
+Doosri taraf, Yudhishthira ne apni sena ko aadhe chand ke shape mein khada kiya. Unhone Dhrishtadyumna se kaha, "Drona mujhe pakad na paayein, iska dhyan rakhna."
+
+Dhrishtadyumna ne bharosa dilaya, "Raja ji, aap bilkul chinta mat kijiye. Jab tak main yahan hoon, Drona aapko pakad nahi sakte." Yeh keh kar woh seedha Drona ki taraf badhe.
+
+Dhrishtadyumna ko saamne dekh kar Drona thoda ruk gaye, par tabhi Duryodhana ke bhai Durmukha ne aage aakar Dhrishtadyumna ko rok liya. Dono ke beech tez ladai shuru ho gayi.
+
+Is beech maidan mein bahut bada shor mach gaya. Ghode, rath aur bade-bade haathi aapas mein takra rahe the. Haathiyon ke daant takrane se toh chingariyan tak udne lagin!
+
+Is bhaag-daud aur shor ke beech, Guru Drona ne mauka dekha aur Pandava sena ko todte hue seedha Raja Yudhishthira ki taraf hamla kar diya! """,
             21: """  """, 22: """  """, 23: """  """, 24: """  """, 25: """  """, 26: """  """, 27: """  """, 28: """  """, 29: """  """, 30: """  """
         }
         for index, section in enumerate(sections, start=1):
@@ -289,149 +431,7 @@ Phir Dhritarashtra ko ek gehri baat samajh aayi. Unhone kaha, "Jin logon ke saat
         sections = ["CLXXXIV", "CLXXXV", "CLXXXVI", "CLXXXVII", "CLXXXVIII", "CXC", "CXCI", "CXCII", "CXCIII",
                     "CXCIV", "CXCV", "CXCVI", "CXCVII", "CXCVIII", "CXCIX", "CC", "CCI", "CCII"]
         section_text = {
-            1: """ Raja Dhritarashtra ne Sanjaya se kaha, "Sanjaya, ab Bhagwan Krishna ki mahan baatein suno. Unhone aise kaam kiye hain jo is duniya mein koi aur nahi kar sakta.
-
-Jab Krishna chhote the aur Nanda ji ke ghar bade ho rahe the, tabhi sabne unki taqat dekh li thi. Unhone bina kisi weapon ke, sirf apne haathon se bade-bade demons ko haraya aur cruel Raja Kansa ko bhi khatam kiya.
-
-Bade hokar Krishna ne duniya ke kai strong rajaon ko haraya. Woh samundar ke andar jaakar apna special shankh, Panchajanya, jeet kar laaye. Phir unhe Sudarshana Chakra mila. Itna hi nahi, woh swarg se Parijata ka phool bhi le aaye, aur devtaon ke raja Indra bhi unhe rok nahi paaye.
-
-Mujhe aaj bhi yaad hai jab Krishna mere darbar mein aaye the aur unhone apna Vishwaroop dikhaya tha. Maine khud apni aankhon se unki divya shakti dekhi thi.
-
-Agar aaj Krishna ne Pandavon ke liye hathiyar utha liye, ya apne bade bhai Balarama aur apni army ko bula liya, toh koi unke saamne tik nahi payega. Sach toh yeh hai ki Krishna aur Arjuna ek hi aatma ke do roop hain—Nara aur Narayana. Agar woh chahein, toh sirf apne mann se hi is poori sena ko ek pal mein hara sakte hain. Par apni achhai ki wajah se woh aisa nahi karte.
-
-Mera bewakoof beta Duryodhana yeh sach kabhi nahi samjha. Bhishma aur Drona jaise bade warriors ke girne ke baad ab mujhe sab saaf dikh raha hai. Yudhishthira ke saath sachai aur dharm hai, isliye jeet unhi ki hogi. Yeh sab meri hi galtiyon ka nateeja hai, aur ab kismat ko koi nahi badal sakta.
-
-Ab tum mujhe aage ki poori kahani sunao ki yudh ke maidan mein kya-kya hua." """, 2: """ Sanjaya ne aage ki kahani shuru ki.
-
-Jab Guru Drona Kaurava army ke commander bane, toh unhone Duryodhana se kaha, "Tumne mujhe itna bada honour diya hai. Bolo, tumhe kya wish chahiye?"
-
-Duryodhana ne Karna aur Duhsasana ke saath baat ki. Phir usne Drona se kaha, "Gurudev, agar aap mujhe kuch dena chahte hain, toh bas Yudhishthira ko zinda pakad kar mere paas le aaiye."
-
-Yeh sunkar Guru Drona ko thoda ajeeb laga, par woh khush bhi hue. Unhone kaha, "Wah! Yudhishthira itna achha insaan hai ki uska koi dushman hi nahi hai. Tumne uski jaan nahi maangi. Kya tum usse dosti karke shanti chahte ho?"
-
-Par Duryodhana apne mann ki baat chhupa nahi saka. Usne apna chalak plan bata diya: "Nahi Gurudev! Agar Yudhishthira mara gaya, toh Arjuna gusse mein hum sabko khatam kar dega. Lekin Yudhishthira apni baat ka pakka hai. Agar hum use zinda pakad lein, toh hum use phir se dice game mein hara denge. Phir sabhi Pandavas chupchap jungle wapas chale jayenge, aur jeet hamesha ke liye hamari hogi!"
-
-Samajhdar Drona Duryodhana ki chalaki samajh gaye. Unhone thoda socha aur ek shart rakhi. Unhone kaha, "Main Yudhishthira ko pakad toh lunga, par sirf tab jab Arjuna uske paas na ho. Main Arjuna ka pehla teacher zaroor hoon, par ab woh bahut powerful ho gaya hai. Jab tak Arjuna wahan hai, koi bhi Yudhishthira ko chhoo nahi sakta. Isliye pehle kisi tarah Arjuna ko wahan se door le jao."
-
-Itna sunkar hi Duryodhana bahut khush ho gaya. Use laga ki Yudhishthira ab pakka pakda jayega. Duryodhana ko dar tha ki kahin Drona Pandavon par daya na kar dein, isliye usne poori army ke saamne yeh baat zor se announce kar di, taaki Drona apna vaada poora karein. """, 3: """ Sanjaya ne aage ki kahani sunayi.
-
-Jab Kaurava soldiers ne Drona ka vaada suna, toh woh khushi se shankh bajane lage aur zor-zor se cheers karne lage.
-
-Lekin Raja Yudhishthira ko apne spies se jaldi hi Drona ke is plan ka pata chal gaya. Unhone turant apne bhaiyon aur sabhi allies ko bulaya. Yudhishthira ne Arjuna se kaha, "Arjuna, Drona mujhe pakadne ka plan bana rahe hain. Aaj tum mere paas rehkar hi ladai karna, taaki Duryodhana ka plan poora na ho sake."
-
-Arjuna ne bade bharose se jawab diya, "Bhaiya, main apne Guru ko maar toh nahi sakta, par aapko unke haathon mein bhi nahi jaane dunga. Chahe aasman toot kar gir jaye ya dharti phat jaye, jab tak main zinda hoon, koi aapko pakad nahi sakta. Aap bilkul chinta mat kijiye, main apna vaada hamesha poora karta hoon."
-
-Phir dono taraf se shankh aur dhol bajne lage. Dono armies dhire-dhire aamne-saamne aayin aur ek zabardast ladai shuru ho gayi.
-
-Shuruat mein dono teams barabar lag rahi thin—ek taraf Guru Drona apni sena ko bacha rahe the, aur doosri taraf Arjuna Pandavon ki raksha kar rahe the.
-
-Lekin thodi hi der mein Guru Drona apne golden rath par itni tezi se aage badhe ki aisa laga jaise woh ek saath har jagah maujood hain. Dopahar ke tez suraj ki tarah chamakte hue Drona ne chaaron taraf teeron ki baarish kar di. Pandava sena ke liye unke saamne dekhna bhi mushkil ho gaya, aur Drona ne Dhrishtadyumna ki sena ko peeche dhakelna shuru kar diya! """, 4: """ Sanjaya ne aage ki kahani sunayi.
-
-Yudh ke maidan mein Guru Drona ek tez toofan ki tarah aage badh rahe the. Unke dhanush ki aawaz badalon ki garaj jaisi lag rahi thi. Unhone itne teer chalaye ki Pandava sena mein har taraf halchal mach gayi.
-
-Tab Yudhishthira aur unke saare brave warriors Drona ko rokne ke liye daude. Unhe rokne ke liye Kaurava warriors bhi saamne aa gaye, aur maidan mein kai zabardast one-on-one muqable shuru ho gaye!
-
-Sahadeva aur Shakuni ke rath toot gaye, toh dono ne gada utha kar ladai ki. Bhima, Nakula, Satyaki, Drupada aur Shikhandi bhi apne-apne opponents se poori taqat se bhid gaye. Ek taraf Ghatotkacha aur Alamvusha apni magic powers dikha kar lad rahe the.
-
-Lekin us din sabse zyada chamka Arjuna ka jawaan beta—Abhimanyu!
-
-Pehle Paurava ne Abhimanyu par hamla kiya. Jab Abhimanyu ka dhanush toot gaya, toh usne turant apni talwar aur dhal utha li. Usne badi phurti se Paurava ko haraya aur apne kabze mein kar liya.
-
-Paurava ko mushkil mein dekh kar Raja Jayadratha apne rath se kood pada. Abhimanyu ne Paurava ko chhod diya aur Jayadratha se talwar ki ladai shuru kar di. Dono sher aur cheete ki tarah lad rahe the. Aakhir mein, Jayadratha ki talwar Abhimanyu ki strong dhal se takra kar toot gayi, aur use peeche hat kar apne rath par bhaagna pada.
-
-Iske baad Raja Salya ne Abhimanyu par ek chamakta hua loha ka bhala phenka. Par tez Abhimanyu ne ek baaz ki tarah us bhale ko hawa mein hi pakad liya aur wapas Salya ki taraf phenk diya, jisse Salya ka rath chalane wala gir gaya!
-
-Abhimanyu ki yeh bahaduri dekh kar Yudhishthira, Bhima aur sabhi Pandava heroes khushi se chilla uthe, "Shabash! Shabash!"
-
-Par Duryodhana aur uske bhaiyon ko yeh bilkul pasand nahi aaya. Gusse mein aakar un sabne Abhimanyu ko chaaron taraf se gher liya, aur Salya bhi badla lene ke liye uski taraf dauda! """, 5: """ Raja Dhritarashtra ne kaha, "Sanjaya, tumne bahut achhi ladaiyon ki kahani sunayi. Ab mujhe batao ki Salya aur Abhimanyu ke beech kya hua?"
-
-Sanjaya ne aage ki kahani sunayi.
-
-Apne rath chalane wale ko gira dekh kar Raja Salya bahut gussa ho gaya. Woh ek bhaari loha ki gada lekar rath se neeche kood pada. Abhimanyu bhi ek badi gada lekar taiyaar ho gaya aur bola, "Aao, lado!"
-
-Lekin tabhi Bhima wahan aa gaye. Unhone pyaar se Abhimanyu ko samjha kar peeche hataya aur khud Salya ke saamne khade ho gaye.
-
-Is poori duniya mein sirf Bhima aur Salya hi ek doosre ki taqat ka muqabla kar sakte the. Dono ke beech gada ki ladai shuru hui. Chaaron taraf shankh aur dhol bajne lage, aur saare soldiers "Shabash! Shabash!" chillane lage.
-
-Bhima aur Salya do taqatwar saandon ki tarah ghoom-ghoom kar ladne lage. Jab unki gadayein aapas mein takrati, toh raat ke jugnuon ki tarah chingariyan udti thin! Dono ne ek doosre par bade zordaar vaar kiye, par woh pahad ki tarah apni jagah par date rahe.
-
-Aakhir mein, dono tez daudte hue aaye aur ek hi pal mein ek doosre par aisa vaar kiya ki dono zameen par gir pade!
-
-Turant hi Kritavarman daud kar aaya aur behosh Salya ko apne rath par bitha kar maidan se door le gaya. Lekin himmatwale Bhima palak jhapakte hi phir se khade ho gaye, unke haath mein abhi bhi gada thi!
-
-Salya ko maidan se jaate dekh kar Kaurava sena darr gayi aur idhar-udhar bhaagne lagi. Pandavas ne khushi se shankh aur dhol bajaye aur jeet ka jashn manaya! """, 6: """ Sanjaya ne aage ki kahani sunayi.
-
-Jab Kaurava sena haarne lagi, tab Karna ka brave beta Vrishasena akela hi aage aaya. Usne garmi ke suraj ki tarah tez teer chalaye aur har taraf dushmanon ko rok diya.
-
-Use rokne ke liye Nakula ka beta Satanika aur Draupadi ke baaki bete saath aaye. Unhone Vrishasena par teeron ki baarish kar di. Phir Ashwatthama aur baaki Kaurava warriors bhi wahan aa gaye, aur ek badi ladai shuru ho gayi.
-
-Apni sena ko peeche hat-ta dekh kar Guru Drona ne sabko himmat di aur kaha, "Daro mat, bhaago mat!" Phir Drona apne laal ghodon wale rath par baith kar seedha Raja Yudhishthira ko pakadne ke liye aage badhe.
-
-Kumara, Yugandhara, Vyaghradatta aur Singhasena jaise brave Pandava warriors ne Drona ko rokne ki poori koshish ki. Lekin Drona ne sabko hara diya aur bilkul Yudhishthira ke rath ke saamne pahunch gaye!
-
-Kaurava soldiers khushi se chillane lage, "Dekho! Aaj Drona Yudhishthira ko pakad lenge aur Duryodhana jeet jayega!"
-
-Lekin theek usi pal, Arjuna bijli ki tezi se wahan pahunch gaye! Arjuna ne itni fast arrows chalaye ki poore aasman aur maidan mein teeron ka ek jaal bich gaya. Kisi ko kuch dikhai nahi de raha tha.
-
-Usi waqt suraj bhi doob gaya aur chaaron taraf shaam ka andhera chha gaya. Ab yeh samajh nahi aa raha tha ki kaun dost hai aur kaun dushman. Isliye Drona aur Duryodhana ne apni sena ko wapas bula liya.
-
-Arjuna ne bhi apni army ko safely camp wapas bheja aur khud Krishna ke saath peeche-peeche laute. Saare Pandavas ne khush hokar Arjuna ki tareef ki, kyunki unhone sahi waqt par aakar sabko bacha liya tha! """, 7: """ Sanjaya ne aage ki kahani sunayi.
-
-Us din ka yudh khatam hone par sabhi soldiers apne-apne tents mein wapas chale gaye. Guru Drona ko bahut bura lag raha tha kyunki woh apna vaada poora nahi kar paaye the.
-
-Unhone Duryodhana se kaha, "Maine pehle hi kaha tha ki jab tak Arjuna aur Krishna Yudhishthira ke saath hain, koi unhe pakad nahi sakta. Agar koi Arjuna ko challenge karke maidan ke doosre hisse mein le jaye, tabhi main Yudhishthira ko pakad paunga."
-
-Yeh sunkar Trigarta ke Raja Susarman aur unke bhai aage aaye. Woh pehle se hi Arjuna se gussa the. Unhone aur unke saath aaye hazaaron warriors ne aag jala kar ek pakki kasam khayi—"Aaj ya toh hum Arjuna ko harayenge, ya phir maidan se wapas nahi lautenge!"
-
-Phir woh maidan ke south side mein gaye aur Arjuna ko ladai ke liye challenge karne lage.
-
-Brave Arjuna kabhi kisi challenge se peeche nahi hat-te the. Unhone Yudhishthira se wahan jaane ki permission maangi. Yudhishthira ko thodi chinta hui, toh Arjuna ne unki raksha ke liye ek bahut brave warrior, Satyajit, ko chuna. Arjuna ne kaha, "Jab tak Satyajit aapke paas hai, Drona aapko chhoo bhi nahi sakte. Par agar use kuch ho jaye, toh aap turant surakshit jagah chale jaana."
-
-Yudhishthira ne Arjuna ko gale lagaya aur unhe aashirwad diya. Phir Arjuna ek sher ki tarah Trigartas se ladne nikal pade.
-
-Arjuna ko jaate dekh kar Duryodhana ki sena bahut khush ho gayi. Woh Yudhishthira ko pakadne ke liye tezi se aage badhi, aur dono armies barish ki do badi nadiyon ki tarah aapas mein takra gayin! """, 8: """ Sanjaya ne aage ki kahani sunayi.
-
-Trigarta ke warriors—jinhe Samsaptakas kaha jata tha—ek khule maidan mein aadhe chand ke shape mein khade ho gaye. Arjuna ko aate dekh kar woh khushi se zor-zor se chillane lage.
-
-Arjuna thoda muskuraye aur Krishna se bole, "Dekho Krishna, yeh log kitne khush hain, jabki inhe pata hai ki aage bahut mushkil ladai hai. Par sachhe warriors bina dare ladne mein hi khushi maante hain."
-
-Phir Arjuna ne apna golden shankh, Devadatta, itni zor se bajaya ki uski aawaz chaaron taraf goonj uthi. Us tez aawaz ko sunkar Samsaptakas aur unke ghode ek pal ke liye statue ki tarah jam gaye!
-
-Thodi der mein unhone khud ko sambhala aur ek saath Arjuna par hazaaron teer chala diye, jaise baarish ke baadal baras rahe hon. Par tez Arjuna ne unke teeron ko hawa mein hi kaat diya. Unhone dushmanon ke golden flags gira diye aur Sudhanvan ko hara diya.
-
-Apne ek leader ko girte dekh kar baaki soldiers darr gaye aur Duryodhana ki sena ki taraf bhaagne lage.
-
-Tab Trigarta ke raja ne unhe rok kar kaha, "Ruko! Bhaago mat! Humne sabke saamne kasam khayi thi. Agar hum darr kar bhaag gaye, toh log hamara mazak udayenge. Apni poori himmat se lado!"
-
-Raja ki baat sunkar unmein phir se himmat aa gayi. Unhone shankh bajaye aur ek saath milkar phir se Arjuna ka saamna karne laut aaye! """, 9: """ Sanjaya ne aage ki kahani sunayi.
-
-Samsaptakas ko wapas aate dekh kar Arjuna ne Krishna se kaha, "Krishna, rath ko unki taraf le chalo. Aaj main inhe apni poori taqat dikhaunga." Krishna muskuraye aur safed ghodon ko tezi se maidan mein le gaye.
-
-Jaldi hi dushman ke soldiers ne Arjuna aur Krishna ko chaaron taraf se gher liya aur itne teer chalaye ki dono bilkul chhup gaye.
-
-Tab Arjuna ne apna shankh bajaya aur ek magical weapon—Tvashtra—chalaya. Achanak, poore maidan mein Arjuna aur Krishna ki hazaaron copies dikhne lagin! Dushman ke soldiers confuse ho gaye. Unhe laga har taraf Arjuna hi hai, aur woh galti se aapas mein hi ladne lage!
-
-Phir bhi, bache hue Samsaptakas ne ek saath itne teer chalaye ki Arjuna aur Krishna phir se teeron ke badal mein chhup gaye. Unhe laga ki woh jeet gaye hain, isliye woh khushi se dhol aur shankh bajane lage.
-
-Andhere mein Krishna ne thoda ghabra kar poocha, "Arjuna, tum kahan ho? Sab theek hai na?"
-
-Krishna ki aawaz sunkar Arjuna ne turant Vayavya (hawa) weapon chalaya. Ek tez toofani hawa chali aur usne saare teeron ke jaal ko uda diya. Dushmanon ke rath aur soldiers sookhe patton ki tarah hawa mein ud kar door ja gire! Is tarah Arjuna ne Samsaptakas ko hara diya.
-
-Lekin usi waqt, maidan ke doosre hisse mein, jab Arjuna yahan busy the, Guru Drona apni poori sena lekar Raja Yudhishthira ko pakadne ke liye aage badh gaye! """, 10: """ Sanjaya ne aage ki kahani sunayi.
-
-Agli subah, Guru Drona ne Duryodhana se kaha, "Maine Arjuna ko Samsaptakas ke saath busy kar diya hai. Ab main Yudhishthira ko pakadne ja raha hoon!"
-
-Drona ne apni army ko ek bade baaz (Garuda) ke shape mein khada kiya. Woh khud us baaz ki chonch par khade hue, Duryodhana sir par, aur Karna poonch par khade the. Beech mein Pragjyotisha ke raja ek vishal haathi par baithe chamak rahe the.
-
-Doosri taraf, Yudhishthira ne apni sena ko aadhe chand ke shape mein khada kiya. Unhone Dhrishtadyumna se kaha, "Drona mujhe pakad na paayein, iska dhyan rakhna."
-
-Dhrishtadyumna ne bharosa dilaya, "Raja ji, aap bilkul chinta mat kijiye. Jab tak main yahan hoon, Drona aapko pakad nahi sakte." Yeh keh kar woh seedha Drona ki taraf badhe.
-
-Dhrishtadyumna ko saamne dekh kar Drona thoda ruk gaye, par tabhi Duryodhana ke bhai Durmukha ne aage aakar Dhrishtadyumna ko rok liya. Dono ke beech tez ladai shuru ho gayi.
-
-Is beech maidan mein bahut bada shor mach gaya. Ghode, rath aur bade-bade haathi aapas mein takra rahe the. Haathiyon ke daant takrane se toh chingariyan tak udne lagin!
-
-Is bhaag-daud aur shor ke beech, Guru Drona ne mauka dekha aur Pandava sena ko todte hue seedha Raja Yudhishthira ki taraf hamla kar diya! """,
+            1: """  """, 2: """  """, 3: """  """, 4: """  """, 5: """  """, 6: """  """, 7: """  """, 8: """  """, 9: """  """, 10: """  """,
             11: """  """, 12: """  """, 13: """  """, 14: """  """, 15: """  """, 16: """  """, 17: """  """, 18: """  """
         }
         for index, section in enumerate(sections, start=1):
