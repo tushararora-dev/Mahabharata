@@ -346,7 +346,147 @@ Dhrishtadyumna ko saamne dekh kar Drona thoda ruk gaye, par tabhi Duryodhana ke 
 Is beech maidan mein bahut bada shor mach gaya. Ghode, rath aur bade-bade haathi aapas mein takra rahe the. Haathiyon ke daant takrane se toh chingariyan tak udne lagin!
 
 Is bhaag-daud aur shor ke beech, Guru Drona ne mauka dekha aur Pandava sena ko todte hue seedha Raja Yudhishthira ki taraf hamla kar diya! """,
-            21: """  """, 22: """  """, 23: """  """, 24: """  """, 25: """  """, 26: """  """, 27: """  """, 28: """  """, 29: """  """, 30: """  """
+            21: """ Sanjaya ne aage ki kahani sunayi.
+
+Jab Guru Drona Raja Yudhishthira ke bilkul paas pahunch gaye, toh unhone teeron ki baarish shuru kar di. Tabhi brave Satyajit—jise Arjuna ne Yudhishthira ki raksha ke liye chuna tha—turant aage aaya aur Drona ke saamne khada ho gaya.
+
+Satyajit aur Drona ke beech zabardast ladai hui. Satyajit ne badi bahaduri se Drona ke rath ka jhanda kaat diya aur un par kai teer chalaye. Yeh dekh kar Pandava soldiers khushi se jhoom uthe. Ek aur warrior, Vrika, bhi Satyajit ki madad karne aa gaya.
+
+Par Guru Drona ke saamne tikna aasaan nahi tha. Drona ne apni poori taqat lagayi aur pehle Vrika ko haraya. Satyajit baar-baar naye dhanush utha kar ladta raha, par aakhir mein Drona ne use bhi hara diya.
+
+Satyajit ke girte hi Yudhishthira ko Arjuna ki baat yaad aayi. Khud ko safe rakhne ke liye, Yudhishthira apne tez ghodon par baith kar maidan se door nikal gaye.
+
+Iske baad Satanika, Shikhandi, Satyaki, aur Dhrishtadyumna jaise kai bade Pandava warriors ne milkar Drona ko gher liya. Sabne un par teer chalaye, par Guru Drona aag ki tarah chamak rahe the. Unhone kisi ko apne paas nahi aane diya aur ek-ek karke sabko peeche dhakel diya.
+
+Drona ki taqat dekh kar Pandava sena mein darr phail gaya aur woh maidan chhod kar idhar-udhar bhaagne lagi! """, 22: """ Raja Dhritarashtra ne poocha, "Sanjaya, jab Guru Drona ne Pandava sena ko peeche dhakel diya, tab kya unke saamne koi brave warrior khada hua?"
+
+Sanjaya ne aage ki kahani sunayi.
+
+Pandava sena ko peeche hat-te dekh kar Duryodhana bahut khush ho gaya. Usne has kar Karna se kaha, "Dekho Karna, Drona ne unki army ko tod diya hai! Woh hiranon ki tarah darr kar bhaag rahe hain. Ab woh wapas nahi aayenge. Aur dekho, Bhima akela ghir gaya hai!"
+
+Par Karna zyada samajhdar tha. Usne Duryodhana ko samjhaya, "Itni jaldi khush mat ho, Duryodhana. Jab tak Bhima zinda hai, woh kabhi haar nahi manega. Pandavas apne saath hue purane dhokhon ko nahi bhoole hain, isliye woh poori jaan laga kar ladenge."
+
+Karna ne aage dikhaya, "Dekho, Bhima wapas mud chuka hai! Aur uske peeche saare Pandava, Pancala aur Matsya warriors milkar Guru Drona ko gherne aa rahe hain. Drona par abhi bahut bada bojh hai. Chalo, hum jaldi jaakar unki madad karte hain!"
+
+Karna ki baat sunkar Duryodhana aur uske bhai turant Drona ke rath ki taraf daude. Doosri taraf, Pandava warriors bhi nayi himmat ke saath zor-zor se garajte hue Drona ka saamna karne wapas aa gaye! """, 23: """ Raja Dhritarashtra ne poocha, "Sanjaya, mujhe un sabhi brave warriors ke rath aur nishanon ke baare mein batao jo Bhima ke saath Guru Drona ki taraf badhe the."
+
+Sanjaya ne woh rangeen nazara sunaya.
+
+Yudh ka maidan kisi sundar painting jaisa lag raha tha! Har Pandava warrior ke rath mein alag-alag rang ke tez ghode jude the—kisi ke safed, kisi ke chandi jaise, toh kisi ke mor aur indradhanush ke rang ke.
+
+Un sabke flags bhi bahut khaas the. Raja Yudhishthira ke rath par golden chand wala flag tha, jisme do dhol jude the jo meethi dhun baja rahe the. Bhima ke flag par chandi ka sher tha, Sahadeva ke flag par ghantiyon wala hans, aur young Abhimanyu ke flag par chamakta hua golden mor! Guru Drona ke rath ka flag bhi sabse alag aur shandar dikh raha tha.
+
+Jaise hi yeh saare warriors Guru Drona ki taraf daude, Kaurava warriors unhe rokne ke liye aage aa gaye. Maidan mein har taraf zabardast muqable shuru ho gaye!
+
+Raja Drupada aur Drona aamne-saamne aaye, aur Raja Virata ne Avanti ke rajkumaron ko roka. Young warriors bhi peeche nahi rahe—Ashwatthama ne Prativindhya se ladai ki, aur Arjuna ke bete Srutakirti ne Duhsasana ke bete ka dhanush tod diya.
+
+Ek taraf Karna akele hi paanch Kekaya bhaiyon se lad raha tha. Dono taraf se itne teer chale ki woh sab teeron ke parde mein chhup gaye. Doosri taraf, Ghatotkacha aur Alambusha pathar, ped aur apni magic powers se ek doosre par hamla kar rahe the.
+
+Ek team Guru Drona ko rokna chahti thi, aur doosri team unhe bachana chahti thi. Aisi badi aur romanchak ladai pehle kabhi kisi ne nahi dekhi thi! """, 24: """ Raja Dhritarashtra ne poocha, "Sanjaya, jab yudh itna tez ho gaya, tab hamari sena aur Pandavas kaise lade?"
+
+Sanjaya ne aage ki kahani sunayi.
+
+Duryodhana apne bade-bade haathiyon ki fauj lekar seedha Bhima ke saamne aa gaya. Lekin taqatwar Bhima ne turant un haathiyon ko peeche dhakel diya. Unhone Duryodhana ka dhanush aur jhanda bhi kaat diya.
+
+Tabhi Pragjyotisha ke raja, Bhagadatta, apne vishal haathi Supratika par baith kar aaye. Supratika ne aate hi Bhima ke rath ko tod kar choor-choor kar diya!
+
+Par Bhima dare nahi. Woh seedha haathi ke neeche ghus gaye aur apne haathon se use maarne lage. Haathi chakkar khaa kar kumhar ke pahiye ki tarah ghoomne laga! Jab haathi ne Bhima ko apni soondh se pakda, toh Bhima ne himmat dikha kar khud ko chhudaya aur bhaag kar apni jaan bachayi.
+
+Charon taraf shor mach gaya ki Bhima haathi ke neeche aa gaye. Yeh sunkar Yudhishthira aur Pandava warriors ne Bhagadatta ko gher liya.
+
+Lekin Bhagadatta aur unka haathi Supratika kisi se nahi ruke! Supratika ne Satyaki ke rath ko utha kar door phenk diya—Satyaki ne kood kar apni jaan bachayi. Jab Bhima phir se aage aaye, toh Supratika ne apni soondh se itna paani chhidka ki Bhima ke ghode darr kar door bhaag gaye!
+
+Abhimanyu, Draupadi ke beton aur baaki Pandava warriors ne milkar Bhagadatta ko rokne ki koshish ki. Par Bhagadatta ne apne haathi ko itni chalaki se chalaya ki poori Pandava sena darr kar idhar-udhar bhaagne lagi! """, 25: """ Sanjaya ne aage ki kahani sunayi.
+
+Jab Arjuna ne door se udti hui dhool aur Pandava soldiers ke rone ki aawaz suni, toh woh samajh gaye ki Bhagadatta ne apna haathi lekar hamla kar diya hai. Arjuna ne Krishna se kaha, "Krishna, Bhagadatta haathi chalane mein duniya ke sabse best warrior hain. Unhe aur unke taqatwar haathi ko sirf hum dono hi rok sakte hain. Chalo, jaldi wahan chalte hain!"
+
+Krishna ne rath ko Bhagadatta ki taraf mod diya. Lekin tabhi, 14,000 Samsaptakas wapas laut aaye aur unhone Arjuna ko ladai ke liye challenge kar diya!
+
+Arjuna ek mushkil mein phans gaye. Ek taraf Bhagadatta Pandavon ko pareshan kar rahe the, aur doosri taraf Samsaptakas peeche se hamla karne ko taiyaar the. Duryodhana aur Karna ne yahi trap banaya tha.
+
+Arjuna ne thoda socha aur ek smart faisla liya. Unhone tay kiya ki pehle woh Samsaptakas ko hara kar khatam karenge, taaki woh peeche se hamla na kar sakein.
+
+Samsaptakas ne Arjuna aur Krishna ko gher kar itne teer chalaye ki dono bilkul chhup gaye. Teeron ke is toofan mein Krishna ko bhi paseena aa gaya. Tab Arjuna ne apna sabse shaktishali Brahma weapon chalaya!
+
+Dekhte hi dekhte Arjuna ne saare Samsaptakas ke rath, flags aur haathiyon ko gira kar unhe poori tarah hara diya.
+
+Yeh dekh kar khud Krishna bhi hairan reh gaye! Unhone haath jod kar Arjuna ki tareef ki, "Arjuna, aaj tumne aisa kaam kiya hai jo devta bhi nahi kar sakte!"
+
+Ab Samsaptakas ki chinta khatam ho chuki thi, isliye Arjuna ne Krishna se kaha, "Chalo Krishna, ab Bhagadatta ko rokne chalte hain!" """, 26: """ Sanjaya ne aage ki kahani sunayi.
+
+Krishna apne safed ghodon ko tez dauda kar Guru Drona ki sena ki taraf le chale. Lekin tabhi, Raja Susarman aur uske bhai peeche se Arjuna ko rokne aa gaye!
+
+Arjuna thodi der ke liye soch mein pad gaye ki pehle inhe rokein ya apne bhaiyon ke paas jayein. Par Krishna ne rath ko moda, aur Arjuna ne turant Susarman ka dhanush kaat diya. Unhone Susarman ke bheje hue bhaale ko hawa mein hi tod diya aur use behosh kar diya.
+
+Ab Arjuna tezi se Kaurava sena ki taraf badhe. Woh aag ki tarah aage badh rahe the. Dus hazaar brave warriors ne unhe gherne ki koshish ki, par koi bhi Arjuna ko rok nahi paya.
+
+Tabhi Raja Bhagadatta apne vishal haathi par baith kar Arjuna ke saamne aa gaye!
+
+Ab Arjuna ke rath aur Bhagadatta ke haathi ke beech ek shandar muqabla shuru hua. Bhagadatta ne baarish ki tarah teer chalaye, par Arjuna ne sabko hawa mein hi kaat diya.
+
+Jab woh gussa hua haathi seedha unhe kuchalne aaya, toh smart Krishna ne badi chalaki se rath ko ek taraf mod kar bacha liya.
+
+Is dauran Arjuna ke paas mauka tha ki woh Bhagadatta par peeche se hamla kar dein. Lekin Arjuna ne aisa nahi kiya! Woh yudh ke sachhe rules maante the, aur peeche se vaar karna galat tha.
+
+Par tabhi us haathi ne Pandava sena ke doosre soldiers aur rathon ko girana shuru kar diya. Yeh dekh kar Arjuna ko bahut gussa aa gaya! """, 27: """ Raja Dhritarashtra ne poocha, "Sanjaya, phir Arjuna aur Bhagadatta ke beech kya hua?"
+
+Sanjaya ne aage ki kahani sunayi.
+
+Bhagadatta ne apne haathi par baith kar Arjuna aur Krishna par teeron aur bhaalon ki baarish kar di. Par Arjuna ne unka dhanush kaat diya, bhaalon ke tukde kar diye, aur haathi ka armour bhi tod diya. Ek bhaale se Arjuna ka mukut thoda hila, par Arjuna ne use seedha kiya aur phir se ladne lage.
+
+Jab Bhagadatta ko laga ki woh haarne wale hain, toh unhone ek special mantra padha. Unhone apne haathi chalane wale hook ko sabse khatarnak **Vaishnava weapon** mein badal diya aur seedha Arjuna par phenk diya!
+
+Yeh dekh kar Krishna turant Arjuna ke aage aa gaye aur us weapon ko apni chhaati par le liya! Jaise hi woh weapon Krishna se takraya, woh ek sundar phoolon ki mala ban gaya!
+
+Arjuna ko thoda bura laga. Unhone Krishna se kaha, "Krishna, aapne vaada kiya tha ki aap sirf rath chalayenge, ladenge nahi. Phir aap beech mein kyun aaye? Main khud lad sakta tha."
+
+Krishna ne pyaar se ek secret bataya, "Arjuna, yeh Vaishnava weapon mera hi tha. Bahut pehle maine ise Narakasura ko diya tha, aur wahan se yeh Bhagadatta ko mila. Is duniya mein koi bhi is weapon ko nahi rok sakta tha. Tumhari jaan bachane ke liye mujhe yeh karna pada!"
+
+Ab Bhagadatta ke paas woh special weapon nahi bacha tha. Tab Arjuna ne ek tez teer chalaya jisse woh vishal haathi zameen par gir gaya, aur uske baad Arjuna ne Raja Bhagadatta ko bhi hara diya.
+
+Bhagadatta ke girte hi Arjuna ne baaki Kaurava sena ko bhi tez hawa ki tarah peeche dhakel diya! """, 28: """ Sanjaya ne aage ki kahani sunayi.
+
+Raja Bhagadatta ko harane ke baad, Arjuna ne unhe respect diya. Tabhi Shakuni ke do brave bhai, Vrishaka aur Achala, Arjuna se ladne aa gaye. Dono ne aage aur peeche se Arjuna par teer chalaye.
+
+Arjuna ne Vrishaka ka rath tod diya, par dono bhai ek hi rath par baith kar ladte rahe. Aakhir mein, Arjuna ne ek hi tez teer se dono ko hara diya.
+
+Apne bhaiyon ko girte dekh kar Shakuni bahut gussa ho gaya. Usne Arjuna aur Krishna ko confuse karne ke liye apna magic shuru kar diya!
+
+Achanak, maidan mein har taraf se weapons aur sher, bhalu, bhediye jaise jaanwar Arjuna ki taraf daudte dikhe. Par Arjuna bilkul nahi dare aur apne teeron se sabko rok diya.
+
+Phir Shakuni ne Arjuna ke rath ke chaaron taraf ghanghor andhera kar diya. Tab Arjuna ne *Jyotishka* weapon chalaya aur har taraf roshni kar di! Uske baad Shakuni ne paani ki badi-badi lehrein paida kin, toh Arjuna ne *Aditya* (suraj) weapon se saara paani sukha diya.
+
+Apne saare magic tricks fail hote dekh kar Shakuni darr gaya aur apne tez ghodon par bhaag gaya!
+
+Phir Arjuna ne Kaurava sena par aisa hamla kiya ki poori army do hisson mein bat gayi—aadhe log Guru Drona ki taraf bhaage aur aadhe Duryodhana ki taraf. Chaaron taraf dhool ud gayi, aur maidan mein sirf Arjuna ke dhanush Gandiva ki aawaz goonj rahi thi! """, 29: """ Raja Dhritarashtra ne poocha, "Sanjaya, jab hamari army peeche hat gayi thi, toh sabne phir se himmat kaise jutayi?"
+
+Sanjaya ne aage ki kahani sunayi.
+
+Mushkil waqt mein bhi, kai brave Kaurava warriors bina dare Guru Drona ke saath khade rahe. Unhone Bhima, Satyaki aur Dhrishtadyumna ki ek chhoti si galti ka fayda uthaya aur Pandava sena par hamla kar diya!
+
+Ab poori ladai Guru Drona ke aas-paas ghoom rahi thi. Ek team chilla rahi thi, "Drona ko roko!" aur doosri team chilla rahi thi, "Drona ko bachao!" Tabhi Dhrishtadyumna khud aage aaye aur unhone Drona ko rok liya. Dono ke beech bahut shandar ladai hui.
+
+Isi beech, Pandavon ki taraf se Raja Nila aag ki tarah Kaurava soldiers ko peeche dhakel rahe the.
+
+Yeh dekh kar Guru Drona ke bete, Ashwatthama, muskuraye aur unhone Nila se kaha, "Nila, in aam soldiers ko kyun pareshan kar rahe ho? Aao, mujhse one-on-one lado!"
+
+Nila ne Ashwatthama par teer chalaye. Par Ashwatthama ne badi tezi se Nila ka dhanush, flag aur umbrella kaat diya. Nila talwar aur dhal lekar rath se koode, par Ashwatthama ne unhe hara diya.
+
+Raja Nila ke girte hi Pandava sena udaas aur pareshan ho gayi. Sab sochne lage, "Arjuna toh maidan ke doosre hisse mein busy hain, ab hamari madad kaun karega?" """, 30: """ Sanjaya ne aage ki kahani sunayi.
+
+Apni sena ko mushkil mein dekh kar Bhima ko bahut gussa aaya. Woh akele hi Drona, Karna, Ashwatthama aur Duryodhana se bhid gaye! Yeh dekh kar Yudhishthira ne Nakula, Sahadeva aur Satyaki ko bhi Bhima ki madad ke liye bhej diya.
+
+Sabhi Pandava warriors milkar Guru Drona ke rath ki taraf badhe. Maidan mein itni dhool ud gayi ki kisi ko kuch saaf nahi dikh raha tha. Har taraf rath, ghode aur haathi aapas mein takra rahe the.
+
+Theek usi waqt, Samsaptakas ko hara kar Arjuna wapas laut aaye! Unke rath par laga Hanuman ji wala jhanda suraj ki tarah chamak raha tha.
+
+Arjuna ne aate hi Kaurava sena ko peeche dhakelna shuru kar diya. Par itni badi ladai mein bhi Arjuna ne apne achhe rules nahi bhoole—unhone kabhi kisi gire hue ya bhaagte hue soldier par hamla nahi kiya.
+
+Kaurava soldiers darr kar Karna ko bulane lage. Karna turant aage aaya aur sabko himmat dete hue bola, "Daro mat!" Usne Arjuna par apna aag wala *Agneya* weapon chalaya, par Arjuna ne use rok diya.
+
+Phir Bhima, Dhrishtadyumna aur Satyaki ne milkar Karna par itna tez hamla kiya ki Duryodhana, Drona aur Jayadratha ko daud kar Karna ko bachana pada!
+
+Shaam ko jab suraj doob gaya, toh dono thaki hui armies ne ladai rok di aur dhire-dhire apne tents mein wapas laut gayin. """
         }
         for index, section in enumerate(sections, start=1):
             with st.expander(f"Section 7.1.{index}  Section {section}"):
