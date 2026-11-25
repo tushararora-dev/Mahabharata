@@ -505,7 +505,139 @@ Shaam ko jab suraj doob gaya, toh dono thaki hui armies ne ladai rok di aur dhir
                     "LXXIII", "LXXIV", "LXXV", "LXXVI", "LXXVII", "LXXVIII", "LXXIX", "LXXX", "LXXXI",
                     "LXXXII", "LXXXIII", "LXXXIV"]
         section_text = {
-            1: """  """, 2: """  """, 3: """  """, 4: """  """, 5: """  """, 6: """  """, 7: """  """, 8: """  """, 9: """  """, 10: """  """,
+            1: """ Sanjaya ne aage ki kahani sunayi.
+
+Us raat Kaurava sena bahut udaas hokar apne tents mein lauti. Har taraf log Arjuna ki bahaduri aur Krishna ke saath unki dosti ki tareef kar rahe the.
+
+Agli subah, Duryodhana ne gusse mein sabke saamne Guru Drona se kaha, "Gurudev, kal Yudhishthira aapke bilkul paas the, phir bhi aapne unhe nahi pakda. Kya aapne apna vaada tod diya?"
+
+Drona ko yeh baat bahut buri lagi. Unhone kaha, "Mujh par shak mat karo, Duryodhana. Jahan Arjuna aur Krishna saath hon, wahan kisi ki nahi chalti. Par aaj main ek aisa gol Chakravyuha banaunga jise devta bhi nahi tod payenge, aur ek bade Pandava hero ko haraunga. Bas kisi tarah Arjuna ko wahan se door rakho!"
+
+Usi waqt Samsaptakas ne phir se Arjuna ko challenge kiya aur unhe maidan ke south side mein le gaye.
+
+Doosri taraf, Guru Drona ne apna woh mazboot Chakravyuha bana liya. Tab Raja Yudhishthira ke kehne par, young Abhimanyu badi himmat ke saath us gol ghere ko tod kar andar ghus gaya!
+
+Abhimanyu ne akele hi hazaaron warriors se bahaduri se ladai ki. Par aakhir mein, Kaurava sena ke chhe bade warriors ne ek saath milkar use gher liya, aur Duhsasana ke bete se ladte hue Abhimanyu ne apni jaan de di.
+
+Yeh sunkar Raja Dhritarashtra ka dil bhar aaya. Unhone dukh se kaha, "Sanjaya, itne bade-bade warriors ne milkar ek chhote ladke par hamla kaise kiya? Mujhe poori kahani batao ki us bahadur bachhe ne hamari army ka saamna kaise kiya."
+
+Tab Sanjaya ne Abhimanyu ki bahaduri ki poori kahani sunana shuru kiya. """, 2: """ Sanjaya ne Abhimanyu ki kahani sunane se pehle uski aur Pandavon ki tareef ki.
+
+Unhone kaha, "Raja ji, paanchon Pandavas aur Krishna ko koi nahi hara sakta. Yudhishthira hamesha sach bolte hain, Bhima sabse taqatwar hain, Arjuna apna har vaada poora karte hain, Nakula vinamra aur brave hain, aur Sahadeva bahut samajhdar hain. Aur young Abhimanyu mein toh in sabhi ke saath Krishna ke bhi saare achhe gun maujood the!"
+
+Raja Dhritarashtra ne kaha, "Sanjaya, mujhe poori kahani sunao ki us bahadur bachhe ne ladai kaise ki."
+
+Sanjaya ne kaha, "Apne dil ko sambhaliye, Raja ji. Main aapko batata hoon."
+
+Guru Drona ne ek bahut bada Chakravyuha banaya tha. Uske gate par dus hazaar young princes khade the, jo sab laal kapde aur sone ki mala pehne hue the. Un sabke aage Duryodhana ka beta, Lakshmana, khada tha. Sabne ek saath milkar Abhimanyu ka saamna karne ki kasam khayi thi.
+
+Chakravyuha ke beech mein Raja Duryodhana apne bhaiyon, Karna aur Kripa ke saath khade the. Sabse aage Guru Drona ugate hue suraj ki tarah chamak rahe the. Wahan Raja Jayadratha bhi ek pahad ki tarah mazbooti se khade the, aur unke paas Ashwatthama, Shakuni aur Salya jaise warriors maujood the.
+
+Phir dono teams ke beech bina kisi darr ke ek bahut badi ladai shuru ho gayi! """, 3: """ Sanjaya ne aage ki kahani sunayi.
+
+Bhima, Satyaki, Dhrishtadyumna, Nakula, Sahadeva aur baaki sabhi Pandava warriors Guru Drona ke Chakravyuha ko todne ke liye aage badhe. Lekin Drona ne teeron ki itni tez baarish ki ki koi bhi andar nahi ja saka, jaise samundar ki lehrein kisi mazboot pahad se takra kar wapas laut aati hain.
+
+Raja Yudhishthira chinta mein pad gaye. Unhe pata tha ki is duniya mein sirf chaar log hi Chakravyuha todna jaante hain—Krishna, Arjuna, Pradyumna, aur young Abhimanyu. Abhi wahan sirf Abhimanyu hi maujood tha.
+
+Yudhishthira ne Abhimanyu se kaha, "Beta, agar hum yeh ghera nahi tod paaye, toh Arjuna wapas aakar hamein kahenge ki humne koshish nahi ki. Yahan sirf tum hi ise tod sakte ho. Please hamari madad karo."
+
+Abhimanyu ne sachai se jawab diya, "Main aap sabki jeet ke liye andar zaroor jaunga. Pitaji ne mujhe Chakravyuha mein ghusna sikhaya hai. Par agar andar koi khatra aaya, toh mujhe bahar nikalne ka rasta nahi pata."
+
+Yudhishthira aur Bhima ne turant bharosa dilaya, "Tum bas ek baar andar jaane ka rasta bana do! Hum sab—Bhima, Dhrishtadyumna, Satyaki aur baaki sabhi—tumhare peeche-peeche andar aayenge aur tumhari raksha karenge."
+
+Abhimanyu ke chehre par himmat aur chamak aa gayi. Usne kaha, "Aaj main aisi bahaduri dikhaunga jisse mere pitaji Arjuna, maa Subhadra aur mama Krishna ko mujh par garv hoga!"
+
+Yudhishthira ne Abhimanyu ko pyaar se aashirwad diya. Phir Abhimanyu ne apne rath chalane wale Sumitra se kaha, "Sumitra, jaldi ghode daudao aur rath ko Guru Drona ki sena ki taraf le chalo!" """, 4: """ Sanjaya ne aage ki kahani sunayi.
+
+Jab Abhimanyu ne apne rath chalane wale Sumitra se kaha, "Chalo, aage badho!", toh Sumitra thoda ghabra gaya. Usne kaha, "Beta, Pandavon ne tum par bahut badi zimmedari daal di hai. Guru Drona bahut experienced hain, aur tumne abhi tak aisi badi ladai nahi dekhi hai. Pehle soch lo!"
+
+Abhimanyu has pada aur bola, "Daro mat! Mere liye yeh army kuch bhi nahi hai. Main toh kisi se bhi lad sakta hoon. Tum bas jaldi se rath ko Drona ki sena ki taraf le chalo!"
+
+Abhimanyu ki baat maankar Sumitra ne tez ghodon ko dauda diya. Chamakte hue golden armour mein, young Abhimanyu aise aage badha jaise ek chhota sher haathiyon ke jhund ke saamne ja raha ho!
+
+Guru Drona ki aankhon ke saamne hi Abhimanyu ne Chakravyuha ka mazboot ghera tod diya aur andar ghus gaya!
+
+Jaise hi woh andar pahuncha, hazaaron Kaurava soldiers, haathi, ghode aur rath dhol bajate aur chillate hue us par toot pade. Unhone Abhimanyu ko chaaron taraf se gher liya.
+
+Lekin Abhimanyu bilkul nahi dara. Uske haath bijli ki tezi se chal rahe the. Usne itne tez aur accurate teer chalaye ki dushmanon ke rath toot gaye, aur haathi-ghode idhar-udhar bhaagne lage.
+
+Ek akela ladka poori badi sena par bhaari pad raha tha! Yeh dekh kar Kaurava soldiers aur Duryodhana ke bhaiyon ke hosh ud gaye. Unka gala sookh gaya, paseena chhootne laga, aur woh apni jaan bachane ke liye maidan chhod kar bhaagne lage! """, 5: """ Sanjaya ne aage ki kahani sunayi.
+
+Apni army ko bhaagte dekh kar Duryodhana ko bahut gussa aaya, aur woh khud Abhimanyu se ladne aage badha. Yeh dekh kar Guru Drona ne sabhi Kaurava warriors se kaha, "Raja ko bachao! Abhimanyu bahut tez lad raha hai!"
+
+Turant hi Drona, Karna, Kripa, Ashwatthama, Salya, Shakuni aur kai bade warriors Duryodhana ko bachane daude. Un sabne milkar Abhimanyu par teeron ki baarish kar di aur Duryodhana ko bacha liya.
+
+Par young Abhimanyu bilkul nahi dara. Woh akela hi samundar ki lehron ko rokne wale kinare ki tarah sabke saamne khada raha. Sabne ek saath us par teer chalaye, par Abhimanyu rath par nachte hue sabke teeron ko hawa mein hi kaat-ta raha aur har kisi ko jawab deta raha!
+
+Sabse pehle Asmaka ke rajkumar ne Abhimanyu ko roka, par Abhimanyu ne muskurate hue use hara diya. Phir Karna, Drona, Ashwatthama aur Duryodhana sabne ek saath Abhimanyu par hamla kiya.
+
+Abhimanyu ne ek bahut tez teer Karna par chalaya, jo uske armour ko tod kar paar ho gaya! Dard se Karna bhookamp mein hilte pahad ki tarah kaampne laga.
+
+Iske baad Abhimanyu ne Raja Salya par itne teer chalaye ki Salya apne rath par hi baith kar behosh ho gaya!
+
+Guru Drona ke saamne hi Salya ko behosh dekh kar Kaurava sena phir se darr gayi aur sheron se bhaagte hiranon ki tarah idhar-udhar bhaagne lagi. Har koi young Abhimanyu ki himmat aur skill dekh kar uski tareef karne laga! """, 6: """ Raja Dhritarashtra ne poocha, "Sanjaya, phir hamari army mein se Abhimanyu ko kisne roka?"
+
+Sanjaya ne aage ki kahani sunayi.
+
+Raja Salya ko behosh dekh kar unka chhota bhai gusse mein Abhimanyu se ladne aaya. Lekin Abhimanyu itni tezi se lad raha tha ki kisi ko woh saaf dikh bhi nahi raha tha! Usne palak jhapakte hi Salya ke bhai ka poora rath tod diya aur use hara diya. Yeh dekh kar sabhi log khushi se chilla uthe, "Shabash! Shabash!"
+
+Iske baad Salya ke saare loyal soldiers—ghodon, haathiyon aur rathon par—apna naam chillate hue Abhimanyu par toot pade. Woh bole, "Aaj tum humse bach kar nahi ja sakte!"
+
+Par young Abhimanyu bas muskuraya. Usne wahi special skills dikhayin jo usne Krishna aur Arjuna se seekhi thin.
+
+Shuruat mein woh shanti se lada, par phir uski speed badhti gayi. Uska gol muda hua dhanush aise chamak raha tha jaise aasman mein suraj! Kisi ko pata hi nahi chal raha tha ki woh kab teer uthata hai aur kab chalata hai.
+
+Guru Drona ke saamne hi Abhimanyu ne Kaurava rathon par itne teer barsaye ki unki army ko phir se peeche hatna pada! """, 7: """ Raja Dhritarashtra ne kaha, "Sanjaya, mujhe hairani bhi ho rahi hai aur sharm bhi aa rahi hai ki ek chhote ladke ne hamari poori army ko rok diya. Mujhe aage ki poori baat batao."
+
+Sanjaya ne aage ki kahani sunayi.
+
+Abhimanyu apne rath par aag ke ek gole ki tarah tez ghoom raha tha. Usne Guru Drona, Karna, Kripa, Salya, Ashwatthama aur Duryodhana sab par teer chalaye. Woh itni tezi se lad raha tha ki har jagah wahi dikhai de raha tha!
+
+Abhimanyu ki skill dekh kar Guru Drona ki aankhein khushi se chamak uthin. Unhone Kripa se kaha, "Dekho, Abhimanyu kitna shandar lad raha hai! Iske jaisa koi aur dhanush chalane wala nahi hai. Agar yeh chahe, toh hamari poori army ko hara sakta hai."
+
+Par Guru Drona ke muh se Abhimanyu ki tareef sunkar Duryodhana ko bahut gussa aaya! Usne Karna, Duhsasana aur baaki warriors se kaha, "Guru Drona jaan-boojh kar is ladke ko bacha rahe hain kyunki yeh unke favourite student Arjuna ka beta hai. Ab hum sabko khud aage badh kar ise rokna hoga!"
+
+Yeh sunkar Duhsasana bade ghamand se aage aaya. Usne Duryodhana se kaha, "Chinta mat karo, bhai! Aaj main sabke saamne Abhimanyu ko hara dunga. Uske girte hi Pandavon ki saari himmat toot jayegi!"
+
+Garajte hue Duhsasana Abhimanyu ki taraf dauda aur teeron ki baarish kar di. Par brave Abhimanyu ne bhi turant 26 tez teer chala kar uska swagat kiya.
+
+Dono apne rathon ko gol-gol ghumate hue—ek left aur ek right—ladne lage, aur chaaron taraf dhol-nagaadon ka shor goonj utha! """, 8: """ Sanjaya ne aage ki kahani sunayi.
+
+Abhimanyu ne Duhsasana ki taraf dekha aur muskurate hue kaha, "Achha hua jo tum mere saamne aa gaye! Tumne bhare darbar mein Yudhishthira aur Bhima ka mazak udaya tha, aur dice game mein dhokha dekar hamara rajya chheena tha. Aaj tumhe apni galat baaton ka nateeja milega!"
+
+Itna keh kar Abhimanyu ne aag jaise tez teer Duhsasana par chalaye. Teeron ki chot se Duhsasana behosh hokar apne rath par gir pada! Uska rath chalane wala jaldi se use maidan se door le gaya.
+
+Duhsasana ko haarte dekh kar Pandavas aur unke allies khushi se jhoom uthe. Sabne dhol bajaye aur Abhimanyu ki madad ke liye aage badhe.
+
+Ghabra kar Duryodhana ne Karna se kaha, "Dekho Karna, Duhsasana haar gaya aur Pandavas andar aane ki koshish kar rahe hain. Ab tum Abhimanyu ko roko!"
+
+Karna turant aage aaya aur usne Abhimanyu par saikdon tez teer chalaye. Lekin brave Abhimanyu ko bilkul darr nahi laga. Usne muskurate hue Karna ka umbrella, flag, ghode aur dhanush sab kaat diya!
+
+Karna ko mushkil mein dekh kar uska chhota bhai use bachane dauda. Doosri taraf, poori Pandava sena young Abhimanyu ki bahaduri dekh kar zordaar taaliyan aur dhol baja rahi thi! """, 9: """ Sanjaya ne aage ki kahani sunayi.
+
+Karna ka chhota bhai zor se garajte hue Karna aur Abhimanyu ke beech aa gaya. Usne Abhimanyu par dus teer chalaye, jisse Kaurava soldiers thodi der ke liye khush ho gaye.
+
+Lekin young Abhimanyu ne muskurate hue ek hi tez teer se Karna ke bhai ko hara diya! Apne bhai ko girte dekh kar Karna ko bahut dukh hua. Tab Abhimanyu ne Karna par itne teer chalaye ki Karna ko apne tez ghodon par baith kar maidan se peeche hatna pada!
+
+Karna ke jaate hi Kaurava sena ka ghera toot gaya. Abhimanyu ne apna shankh bajaya aur sookhi ghaas mein aag ki tarah Kaurava army ke beech ghus gaya. Usne dushmanon ke rath tod diye aur haathi-ghodon ko bhaga diya.
+
+Abhimanyu ki taqat dekh kar lagbhag saare Kaurava soldiers darr kar bhaag gaye. Sirf Sindhu ke Raja Jayadratha apni jagah par khade rahe.
+
+Maidan mein itni dhool ud gayi ki Abhimanyu kisi ko dikh hi nahi raha tha. Lekin thodi hi der mein woh us bheed se bahar nikla—dopahar ke suraj ki tarah chamakta hua! """, 10: """ Raja Dhritarashtra ne poocha, "Sanjaya, jab young Abhimanyu hamari sena ke andar gaya, toh kya uske peeche koi Pandava warrior aaya?"
+
+Sanjaya ne aage ki kahani sunayi.
+
+Haan, Yudhishthira, Bhima, Nakula, Sahadeva, Satyaki aur Dhrishtadyumna sabhi Abhimanyu ke banaye hue raste se uske peeche daude. Unhe aate dekh kar Kaurava soldiers peeche hatne lage.
+
+Lekin tabhi aapke damaad, Sindhu ke Raja Jayadratha, aage aa gaye. Unhone akele hi poori Pandava sena ko gate par rok diya!
+
+Dhritarashtra hairan hokar bole, "Jayadratha ne akele sabhi Pandavon ko kaise roka? Uske paas kaun si shakti thi?"
+
+Sanjaya ne bataya, "Bahut pehle, jab Bhima ne Jayadratha ko haraya tha, toh use bahut sharmindagi hui. Isliye usne Bhagwan Shiva ko khush karne ke liye bahut kathin tapasya ki.
+
+Bhagwan Shiva uske sapne mein aaye aur ek wish maangne ko kaha. Jayadratha ne maanga ki woh akele hi sabhi Pandavon ko yudh mein rok sake. Tab Bhagwan Shiva ne use vardan diya—'Arjuna ko chhod kar, tum baaki chaaron Pandavon ko ek din ke liye rok sakoge!'
+
+Usi vardan ki wajah se, Jayadratha ne akele hi poori Pandava sena ko bahar rok diya, aur woh Abhimanyu ke paas nahi pahunch sake. Jayadratha ko gate sambhalte dekh kar baaki Kaurava soldiers bhi himmat ke saath ladne laut aaye!" """,
             11: """  """, 12: """  """, 13: """  """, 14: """  """, 15: """  """, 16: """  """, 17: """  """, 18: """  """, 19: """  """, 20: """  """,
             21: """  """, 22: """  """, 23: """  """, 24: """  """, 25: """  """, 26: """  """, 27: """  """, 28: """  """, 29: """  """, 30: """  """,
             31: """  """, 32: """  """, 33: """  """, 34: """  """, 35: """  """, 36: """  """, 37: """  """, 38: """  """, 39: """  """, 40: """  """,
