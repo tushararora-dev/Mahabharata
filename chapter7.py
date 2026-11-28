@@ -763,7 +763,99 @@ Narada Muni ki kahani duniya ki shuruat se shuru hui:
 "Bahut pehle, jab Brahma ji ne duniya banayi, tab koi bhi cheez khatam nahi hoti thi. Dhire-dhire duniya bahut bhar gayi. Brahma ji ko samajh nahi aaya ki balance kaise banayein. Gusse aur chinta mein unke andar se ek badi aag nikli, jo sab kuch jalane lagi.
 
 Sabhi jeev-jantuon ko khatre mein dekh kar dayalu Bhagwan Shiva wahan aaye aur Brahma ji ke aage jhuke. Tab Brahma ji ne Shiva se kaha, 'Bolo, tum kya chahte ho? Main tumhari har wish poori karunga! """,
-            21: """  """, 22: """  """, 23: """  """, 24: """  """, 25: """  """, 26: """  """, 27: """  """, 28: """  """, 29: """  """, 30: """  """,
+            21: """ Sanjaya ne aage ki kahani sunayi.
+
+Jab Raja Yudhishthira Abhimanyu ke liye bahut udaas the, tab mahan Rishi Vyasa unse milne aaye. Yudhishthira ne unhe respect diya aur apna dukh bataya ki kaise itne saare warriors ne milkar ek chhote ladke par galat tarike se hamla kiya.
+
+Rishi Vyasa ne Yudhishthira ko pyaar se samjhaya, "Yudhishthira, tum toh bahut samajhdar ho. Abhimanyu bhale hi chhota tha, par usne ek bade hero ki tarah ladai ki aur ab swarg chala gaya hai. Duniya mein har kisi ko ek din jaana hota hai—yeh nature ka rule hai."
+
+Tab Yudhishthira ne ek gehra sawal poocha, "Par yeh Death kya hai? Yeh kahan se aayi, aur yeh sabko kyun le jaati hai?"
+
+Unka dukh kam karne ke liye, Rishi Vyasa ne ek purani kahani sunana shuru kiya, jo kabhi Narada Muni ne Raja Akampana ko sunayi thi. Raja Akampana bhi apne brave bete Hari ke jaane par bahut udaas the.
+
+Narada Muni ki kahani duniya ki shuruat se shuru hui:
+
+"Bahut pehle, jab Brahma ji ne duniya banayi, tab koi bhi cheez khatam nahi hoti thi. Dhire-dhire duniya bahut bhar gayi. Brahma ji ko samajh nahi aaya ki balance kaise banayein. Gusse aur chinta mein unke andar se ek badi aag nikli, jo sab kuch jalane lagi.
+
+Sabhi jeev-jantuon ko khatre mein dekh kar dayalu Bhagwan Shiva wahan aaye aur Brahma ji ke aage jhuke. Tab Brahma ji ne Shiva se kaha, 'Bolo, tum kya chahte ho? Main tumhari har wish poori karunga!'" """, 22: """ Rishi Vyasa ne Narada Muni ki kahani aage sunayi.
+
+Narada ji ne bataya ki woh dayalu lady—jinhe Death (Mrityu) kaha gaya tha—unhone Brahma ji ke saamne haath jode. Unhone kaha, "Prabhu, main kisi ko dukh nahi dena chahti. Agar main kisi ko le jaungi, toh unke parivar wale royenge. Please mujhe jungle mein jaakar puja karne dijiye."
+
+Par Brahma ji ne kaha ki yeh duniya ka balance banaye rakhne ke liye zaroori hai. Phir bhi, us lady ne haar nahi maani. Woh Dhenuka, Ganga aur Himalayas jaise pavitra jagahon par gayin aur bahut saalon tak bina ruke prarthana karti rahin.
+
+Unki achhai aur bhakti dekh kar Brahma ji khush hue. Unhone aakar poocha, "Tum itni kathin prarthana kyun kar rahi ho?"
+
+Unhone kaha, "Sabhi log achhe se reh rahe hain. Main kisi ka bura nahi karna chahti."
+
+Tab Brahma ji ne unhe pyaar se samjhaya, "Tum par koi dosh nahi lagega. Tum bas samay poora hone par apna kaam shaanti se aur bina kisi gusse ke karna. Duniya ke niyam aise hi chalte hain."
+
+Aakhir mein, us lady ne Brahma ji ki baat maan li. Narada ji ne Raja Akampana se kaha, "Isliye Raja ji, har kisi ka samay tay hota hai. Aapka beta ab swarg mein khush hai. Ab dukh karna chhod dijiye." Yeh sunkar Raja Akampana ka mann shaant ho gaya.
+
+Kahani khatam karke Rishi Vyasa ne Yudhishthira se kaha, "Yudhishthira, isi tarah Abhimanyu bhi ek sacche hero ki tarah lada aur ab swarg mein khush hai. Ab tum bhi apna dukh chhodo, himmat rakho, aur apne bhaiyon ke saath aage ke liye taiyaar ho jao." """, 23: """ Yudhishthira ne Rishi Vyasa se kaha, "Gurudev, mujhe purane samay ke achhe aur dayalu rajaon ki kahaniyan sunaiye, taaki mere dil ko thoda sukoon mile."
+
+Tab Rishi Vyasa ne ek kahani sunayi:
+
+"Bahut pehle Srinjaya naam ke ek raja the. Rishi Narada aur Rishi Parvata unke achhe dost the. Raja Srinjaya ne dono rishiyon ki bahut seva ki. Khush hokar Narada ji ne unhe ek vardan maangne ko kaha.
+
+Raja Srinjaya ne ek aisa brave beta maanga jiski har cheez—yahan tak ki uska paseena bhi—sona (gold) ban jaye! Jaldi hi unke ghar ek beta hua, jiska naam Suvarnashthivin rakha gaya. Uske aate hi raja ka poora mahal, bartan aur ghar sone ke ban gaye!
+
+Par jab kuch lalach wale choron ne yeh suna, toh unhe laga ki rajkumar koi sone ki khaan hai. Woh rajkumar ko chura kar jungle le gaye. Par wahan unhe koi sona nahi mila! Lalach aur gusse mein woh chor aapas mein hi lad kar khatam ho gaye, aur saara jaadui sona bhi gayab ho gaya.
+
+Apne bete ko khokar Raja Srinjaya bahut rone lage. Tab Rishi Narada wapas aaye aur unhe samjhane ke liye ek aur mahan raja, Raja Marutta, ki kahani sunayi.
+
+Raja Marutta bahut honest, kind aur generous the. Unke paas bahut saara sona tha, par woh sab kuch doosron ki madad mein baant dete the. Unhone hazaar saal tak apni praja ko khush rakha. Lekin itne mahan hone ke baad bhi, ek din Raja Marutta ko bhi yeh duniya chhod kar jaana pada!
+
+Narada ji ne kaha, 'Raja Srinjaya, jab itne mahan aur dayalu raja bhi hamesha nahi reh sake, toh hamein is sachai ko samajh kar apna dukh kam karna chahiye.'" """, 24: """ Narada Muni ne Raja Srinjaya ko ek aur mahan raja ki kahani sunayi:
+
+"Raja Suhotra bahut brave, honest aur samajhdar the. Woh hamesha apne teachers aur wise logon ki salah sunte the. Unhone apne rajya ko choron se bachaya aur apni praja ko bahut khush rakha.
+
+Unki achhai aur dayalu nature se baadalon ke devta bhi itne khush hue ki poore saal unke rajya mein sone (gold) ki baarish hoti thi! Nadiyon aur badi jheelon mein sone ki machhliyan, kachhue aur kekde milte the, aur har koi unka istemal kar sakta tha.
+
+Par Raja Suhotra bilkul lalachi nahi the. Unhone itna saara sona apne paas rakhne ke bajaye, bade-bade yagya kiye aur saara sona wise aur zarooratmand logon mein baant diya!
+
+Lekin itne mahan aur dayalu hone ke baad bhi, ek din Raja Suhotra ko bhi yeh duniya chhod kar jaana pada.
+
+Isliye Srinjaya, jab Raja Suhotra jaise mahan raja bhi hamesha ke liye nahi ruk sake, toh hamein bhi is baat ko samajhna chahiye aur zyada dukh nahi karna chahiye." """, 25: """ Narada Muni ne Raja Srinjaya ko ek aur mahan raja ki kahani sunayi:
+
+"Raja Paurava bhi bahut brave aur dayalu the. Unke yagya aur celebrations mein door-door se samajhdar aur achhe log aate the.
+
+Raja Paurava sabhi guests ka bade pyaar se swagat karte the. Unke mahal mein gaane aur dance ke saath sabko achhe kapde, ghar aur aaram ki cheezein milti thin. Unhone logon ki madad karne ke liye laakhon safed ghode, sone ke rath, haathi, keemti heere-moti aur pahaad jitna khana daan mein diya—yahan tak ki sone ke seeng aur chandi ke khur wali gayein bhi baantin!
+
+Unhone hamesha achhe kaam kiye aur kisi ko khaali haath nahi jaane diya. Lekin itne mahan aur dayalu hone ke baad bhi, ek din Raja Paurava ko bhi yeh duniya chhod kar jaana pada.
+
+Isliye Srinjaya, jab Raja Paurava jaise mahan raja bhi samay aane par chale gaye, toh hamein is sachai ko samajh kar zyada dukh nahi karna chahiye." """, 26: """ Narada Muni ne Raja Srinjaya ko ek aur mahan raja ki kahani sunayi:
+
+"Raja Sivi bhi bahut brave, samajhdar aur duniya ke sabse dayalu rajaon mein se ek the. Unke rath ki aawaz poori dharti par goonjti thi, aur har warrior unki bahaduri ki tareef karta tha.
+
+Raja Sivi apna dil khol kar logon ki madad karte the. Unhone itna sona, haathi, ghode aur itni saari gayein daan mein din, jitne aasman mein taare hain ya baarish ki boondein hoti hain!
+
+Jab woh bade yagya aur celebrations rakhte the, toh wahan ki deewarein aur darwaze tak sone ke hote the. Wahan doodh aur dahi ke bade-bade talab, meethi drinks ki nadiyan, aur swadisht khane ke pahad hote the. Har kisi se bas ek hi pyaari baat kahi jaati thi—'Jitna chaho khao, piyo aur khush raho!'
+
+Unke achhe kaamon se Bhagwan Shiva bhi bahut khush hue. Unhone Raja Sivi ko aashirwad diya ki unka pyaar, unki achhai aur unki izzat kabhi khatam nahi hogi.
+
+Lekin itne saare aashirwad paane ke baad bhi, jab samay aaya, toh Raja Sivi bhi yeh duniya chhod kar swarg chale gaye.
+
+Isliye Srinjaya, jab Raja Sivi jaise mahan aur sabse dayalu raja bhi hamesha ke liye nahi ruk sake, toh hamein is sachai ko maankar apna dukh kam karna chahiye." """, 27: """ Narada Muni ne Raja Srinjaya ko ek aur mahan raja ki kahani sunayi:
+
+"Raja Dasaratha ke bete, Bhagwan Rama, bhi ek din yeh duniya chhod kar chale gaye. Unki praja unse itna pyaar karti thi jaise bachhe apne pitaji se karte hain.
+
+Apne pitaji ki baat rakhne ke liye, Rama apni patni Sita aur bhai Lakshmana ke saath 14 saal tak jungle mein rahe. Wahan unhone rishiyon ki raksha ki, aur jab Ravana ne Sita ko chhal se chhupaya, toh Rama ne Ravana ko haraya.
+
+Jab Rama raja bane, toh unhone hazaaron saalon tak bahut pyaar aur imandari se rajya kiya. Unke rajya mein har koi healthy, khush aur achha tha. Kahin koi lalach, bimari ya darr nahi tha.
+
+Lekin itne mahan aur sabke pyaare hone ke baad bhi, jab samay poora hua, toh Bhagwan Rama bhi swarg chale gaye.
+
+Isliye Srinjaya, jab Bhagwan Rama jaise mahan raja bhi hamesha ke liye nahi ruk sake, toh hamein is sachai ko samajh kar apna dukh kam karna chahiye." """, 28: """ Narada Muni ne Raja Srinjaya ko ek aur mahan raja ki kahani sunayi:
+
+"Raja Bhagiratha bhi bahut dayalu aur mahan the, par ek din unhe bhi yeh duniya chhod kar jaana pada. Unhone pavitra Ganga nadi ke kinare sone (gold) ki seedhiyan banwayi thin!
+
+Raja Bhagiratha hamesha doosron ki madad karte the. Unhone itne saare rath, ghode, gayein aur gifts baante ki door-door se log unse milne aate the. Koi bhi unke darbar se khaali haath nahi jaata tha. Unki achhai dekh kar devta bhi unke celebrations mein aate the.
+
+Devi Ganga khud Raja Bhagiratha se itna pyaar karti thin ki unhone Bhagiratha ko apna pita maana! Isi wajah se Ganga nadi ka ek naam 'Bhagirathi' bhi pada.
+
+Itne saare achhe kaam karne ke baad, jab samay poora hua, toh Raja Bhagiratha bhi swarg chale gaye.
+
+Isliye Srinjaya, jab Raja Bhagiratha jaise mahan raja bhi hamesha ke liye nahi ruk sake, toh hamein is sachai ko maankar apna dukh kam karna chahiye." """, 29: """  """, 30: """  """,
             31: """  """, 32: """  """, 33: """  """, 34: """  """, 35: """  """, 36: """  """, 37: """  """, 38: """  """, 39: """  """, 40: """  """,
             41: """  """, 42: """  """, 43: """  """, 44: """  """, 45: """  """, 46: """  """, 47: """  """, 48: """  """, 49: """  """, 50: """  """,
             51: """  """, 52: """  """, 53: """  """, 54: """  """
